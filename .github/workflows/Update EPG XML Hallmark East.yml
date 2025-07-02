@@ -3,7 +3,7 @@ name: Update EPG XML Hallmark Channel East
 on:
   schedule:
     - cron: '0 0 * * *'  # Runs at midnight UTC daily
-  workflow_dispatch:
+  workflow_dispatch:  # Allows manual runs
 
 jobs:
   update:
@@ -17,34 +17,46 @@ jobs:
         run: mkdir -p download_EPG/individual/East_USA
 
       - name: Fetch EPG XML
-        run: |
-          date=$(LC_ALL=C date +%Y%m%d)
-          echo "Using date: $date"
-          curl -sS --fail -o download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml "https://epg.pw/api/epg.xml?lang=en&date=$date&channel_id=403490" || echo "⚠️ Failed to fetch EPG!"
+        run: curl -o download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml "https://epg.pw/api/epg.xml?lang=en&date=$(date +%Y%m%d)&channel_id=403490"
 
-      - name: Debug output (show file size and head)
+      - name: Add XML Declaration and DOCTYPE
         run: |
-          echo "File size:"
-          stat --printf="%s bytes\n" download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml || echo "File not found"
-          echo "First 10 lines:"
-          head download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml || echo "File is empty"
+          sed -i '1s|$| <!DOCTYPE tv SYSTEM "xmltv.dtd">|' download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml
 
-      - name: Fix XML declaration and DOCTYPE line (only if not empty)
+      - name: Check for Title "The Golden Girls" in XML and Add Icon and Categories
         run: |
-          if [ -s download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml ]; then
-            sed -i '1,2{/^<?xml version=.*?>/d; /^<!DOCTYPE tv SYSTEM "xmltv.dtd">/d}' download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml
-            sed -i '1i<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE tv SYSTEM "xmltv.dtd">' download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml
+          if grep -q '<title lang="zh">The Golden Girls</title>' download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml; then
+            echo "Found The Golden Girls in the EPG XML!"
+            sed -i '/<title lang="zh">The Golden Girls<\/title>/a \
+            <icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>\
+            <category lang="en">Series</category>\
+            <category lang="en">SitCom</category>\
+            <category lang="en">Comedy</category>\
+            <category lang="en">Drama</category>\
+            <category lang="en">Family</category>' download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml
           else
-            echo "❌ XML file is empty. Skipping sed processing."
+            echo "The Golden Girls not found in the EPG XML."
           fi
 
-      - name: Pull latest changes before committing
-        run: git pull --rebase --autostash
+      - name: Check for Title "Reba" in XML and Add Icon and Categories
+        run: |
+          if grep -iq '<title[^>]*>Reba</title>' download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml; then
+            echo "Found Reba in the EPG XML!"
+            sed -i '/<title[^>]*>Reba<\/title>/a \
+            <icon src="https://m.media-amazon.com/images/S/pv-target-images/7727258bad222b37ca98e9cffe3e847cc474add3fa3b19f38d511e29586a76de.jpg"/>\
+            <category lang="en">Series</category>\
+            <category lang="en">SitCom</category>\
+            <category lang="en">Comedy</category>\
+            <category lang="en">Family</category>' download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml
+          else
+            echo "Reba not found in the EPG XML."
+          fi
 
       - name: Commit and push if changed
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
+          git pull --rebase --autostash
           git add download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml
-          git diff --quiet && git diff --staged --quiet || git commit -m "Updated EPG $(date +%Y-%m-%d)"
-          git push --force
+          git commit -m "Updated EPG $(date +%Y-%m-%d)" || echo "No changes to commit"
+          git push
