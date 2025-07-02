@@ -42,7 +42,7 @@ jobs:
           if grep -iq '<title[^>]*>Mickey Mouse Clubhouse</title>' individual/USA-Disney_Channel_East.xml; then
             echo "Found Mickey Mouse Clubhouse in the EPG XML!"
             sed -i '/<title[^>]*>Mickey Mouse Clubhouse<\/title>/a \
-            <icon src="https://play-lh.googleusercontent.com/bqEcu3u2ZXANY_HqhPAgfGvi4_UZ9m7wNHuz3gFjn2Urxw745-D6Va-e4Fh-Im806mMI8kFDhQWAFmLZM7c"/>\
+            <icon src="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/60e1ec90-36fb-4f5a-970d-06a3f0aba686/compose?aspectRatio=1.78&format=webp&width=1200"/>\
             <category lang="en">Educational</category>\
             <category lang="en">Animation</category>\
             <category lang="en">Comedy</category>\
@@ -56,7 +56,7 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add individual/USA-Disney_Channel_East.xml
+          git add download_EPG/individual/East_USA/USA-Disney_Channel_East.xml
           git commit -m "Updated EPG $(date +%Y-%m-%d)" || echo "No changes to commit"
           git pull --rebase --autostash
           git push --force
