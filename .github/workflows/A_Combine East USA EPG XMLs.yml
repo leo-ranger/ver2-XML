@@ -1,0 +1,54 @@
+name: A Process - Combine East USA EPG XMLs
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 0 * * *'  # daily at 00:30 UTC (adjust as needed)
+
+jobs:
+  combine:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Combine all XML files into one master EPG XML
+        run: |
+          mkdir -p download_EPG/Grouped
+          output="download_EPG/Grouped/US_East_Master.xml"
+
+          # Define your fixed header here (XML declaration + DOCTYPE + opening <tv>)
+          cat > "$output" <<EOF
+            <?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
+            <tv source-info-url="https://epg.pw" source-info-name="EPG.pw" generator-info-name="GitHub Actions">
+          EOF
+
+          # Loop through all xml files and extract only <programme> blocks
+          for file in download_EPG/individual/East_USA/*.xml; do
+            awk '
+              /<programme /,/<\/programme>/ {
+                print
+              }
+            ' "$file" >> "$output"
+          done
+
+          # Close the root tv tag
+          echo "</tv>" >> "$output"
+
+      - name: Verify combined file
+        run: |
+          echo "Combined file size:"
+          stat --printf="%s bytes\n" download_EPG/Grouped/US_East_Master.xml
+          echo "First 15 lines:"
+          head -n 15 download_EPG/Grouped/US_East_Master.xml
+          echo "Last 15 lines:"
+          tail -n 15 download_EPG/Grouped/US_East_Master.xml
+
+      - name: Commit combined EPG XML if changed
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git pull --rebase --autostash
+          git add download_EPG/Grouped/US_East_Master.xml
+          git diff --quiet && git diff --staged --quiet || git commit -m "Combined EPG US East $(date +%Y-%m-%d)"
+          git push
