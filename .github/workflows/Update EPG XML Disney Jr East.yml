@@ -39,10 +39,10 @@ jobs:
 
       - name: Check for Title "Disney Jr's Ariel" in XML and Add Icon and Categories
         run: |
-          if grep -q "<title lang=\"zh\">Disney Jr's Ariel</title>" download_EPG/individual/East_USA/USA-Disney_Jr_East.xml; then
+          if grep -q '<title lang="zh">Disney Jr'\''s Ariel</title>' download_EPG/individual/East_USA/USA-Disney_Jr_East.xml; then
             echo "Found Disney Jr's Ariel in the EPG XML!"
             sed -i "/<title lang=\"zh\">Disney Jr's Ariel<\/title>/a \
-            <icon src=\"https://variety.com/wp-content/uploads/2023/06/ARIEL.jpg"/>\
+            <icon src=\"https://variety.com/wp-content/uploads/2023/06/ARIEL.jpg\"/>\
             <category lang=\"en\">Series</category>\
             <category lang=\"en\">Animation</category>\
             <category lang=\"en\">Educational</category>\
