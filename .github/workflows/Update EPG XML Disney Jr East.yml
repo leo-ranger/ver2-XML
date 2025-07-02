@@ -57,7 +57,7 @@ jobs:
           if grep -q "<title lang=\"zh\">SuperKitties</title>" download_EPG/individual/East_USA/USA-Disney_Jr_East.xml; then
             echo "Found SuperKitties in the EPG XML!"
             sed -i "/<title lang=\"zh\">SuperKitties<\/title>/a \
-            <icon src=\"https://disney.images.edge.bamgrid.com/ripcut-delivery/v1/variant/disney/8f13f4ce-4b2c-426c-b1a7-13f26985aa26/scale?width=1200&aspectRatio=1.78&format=webp\"/>\
+            <icon src=\"https://m.media-amazon.com/images/S/pv-target-images/e36fcf9d176e5165fbd3fe74f53921a5838b7828e378835748b93345121acb53.jpg\"/>\
             <category lang=\"en\">Series</category>\
             <category lang=\"en\">Animation</category>\
             <category lang=\"en\">Drama</category>\
@@ -71,7 +71,7 @@ jobs:
           if grep -iq '<title[^>]*>Mickey Mouse Clubhouse</title>' download_EPG/individual/East_USA/USA-Disney_Jr_East.xml; then
             echo "Found Mickey Mouse Clubhouse in the EPG XML!"
             sed -i '/<title[^>]*>Mickey Mouse Clubhouse<\/title>/a \
-            <icon src="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/60e1ec90-36fb-4f5a-970d-06a3f0aba686/compose?aspectRatio=1.78&format=webp&width=1200"/>\
+            <icon src="https://m.media-amazon.com/images/S/pv-target-images/21badf3603dc20cf2e03fc3ef1a62fb85ae55f6038215597c59531f6758e5721.jpg"/>\
             <category lang="en">Educational</category>\
             <category lang="en">Animation</category>\
             <category lang="en">Comedy</category>\
