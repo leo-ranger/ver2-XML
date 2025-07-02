@@ -1,4 +1,4 @@
-name: Update EPG XML Hallmark East US
+name: Update EPG XML Hallmark EastUS
 
 on:
   schedule:
@@ -19,12 +19,24 @@ jobs:
       - name: Fetch EPG XML
         run: |
           date=$(LC_ALL=C date +%Y%m%d)
-          curl -o download_EPG/individual/East_USA/USA-Hallmark_EastUS.xml "https://epg.pw/api/epg.xml?lang=en&date=$date&channel_id=403490"
+          echo "Using date: $date"
+          curl -sS --fail -o download_EPG/individual/East_USA/USA-Hallmark_EastUS.xml "https://epg.pw/api/epg.xml?lang=en&date=$date&channel_id=403490" || echo "⚠️ Failed to fetch EPG!"
 
-      - name: Fix XML declaration and DOCTYPE line
+      - name: Debug output (show file size and head)
         run: |
-          sed -i '1,2{/^<?xml version=.*?>/d; /^<!DOCTYPE tv SYSTEM "xmltv.dtd">/d}' download_EPG/individual/East_USA/USA-Hallmark_EastUS.xml
-          sed -i '1i<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE tv SYSTEM "xmltv.dtd">' download_EPG/individual/East_USA/USA-Hallmark_EastUS.xml
+          echo "File size:"
+          stat --printf="%s bytes\n" download_EPG/individual/East_USA/USA-Hallmark_EastUS.xml || echo "File not found"
+          echo "First 10 lines:"
+          head download_EPG/individual/East_USA/USA-Hallmark_EastUS.xml || echo "File is empty"
+
+      - name: Fix XML declaration and DOCTYPE line (only if not empty)
+        run: |
+          if [ -s download_EPG/individual/East_USA/USA-Hallmark_EastUS.xml ]; then
+            sed -i '1,2{/^<?xml version=.*?>/d; /^<!DOCTYPE tv SYSTEM "xmltv.dtd">/d}' download_EPG/individual/East_USA/USA-Hallmark_EastUS.xml
+            sed -i '1i<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE tv SYSTEM "xmltv.dtd">' download_EPG/individual/East_USA/USA-Hallmark_EastUS.xml
+          else
+            echo "❌ XML file is empty. Skipping sed processing."
+          fi
 
       - name: Pull latest changes before committing
         run: git pull --rebase --autostash
@@ -33,6 +45,6 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml
+          git add download_EPG/individual/East_USA/USA-Hallmark_EastUS.xml
           git diff --quiet && git diff --staged --quiet || git commit -m "Updated EPG $(date +%Y-%m-%d)"
           git push --force
