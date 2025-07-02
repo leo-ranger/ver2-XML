@@ -51,6 +51,19 @@ jobs:
           else
             echo "Reba not found in the EPG XML."
           fi
+      - name: Check for Title "Frasier" in XML and Add Icon and Categories
+        run: |
+          if grep -iq '<title[^>]*>Frasier</title>' download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml; then
+            echo "Found Frasier in the EPG XML!"
+            sed -i '/<title[^>]*>Frasier<\/title>/a \
+            <icon src="https://m.media-amazon.com/images/S/pv-target-images/38c3dd08ba77193111f9684031a8cc82a1ae46e8cfa512cabc9edbfa6080cc34.jpg"/>\
+            <category lang="en">Series</category>\
+            <category lang="en">SitCom</category>\
+            <category lang="en">Comedy</category>\
+            <category lang="en">Family</category>' download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml
+          else
+            echo "Frasier not found in the EPG XML."
+          fi
 
       - name: Commit and push if changed
         run: |
