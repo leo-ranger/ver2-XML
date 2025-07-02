@@ -38,13 +38,13 @@ jobs:
             echo "Bluey not found in the EPG XML."
           fi
 
-      - name: Check for Title "Mickey Mouse Clubhouse" in XML and Add Icon and Categories
+      - name: Check for Title "Big City Greens" in XML and Add Icon and Categories
         run: |
-          if grep -iq '<title[^>]*>Mickey Mouse Clubhouse</title>' download_EPG/individual/East_USA/USA-Disney_Channel_East.xml; then
-            echo "Found Mickey Mouse Clubhouse in the EPG XML!"
-            sed -i '/<title[^>]*>Mickey Mouse Clubhouse<\/title>/a \
-            <icon src="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/60e1ec90-36fb-4f5a-970d-06a3f0aba686/compose?aspectRatio=1.78&format=webp&width=1200"/>\
-            <category lang="en">Educational</category>\
+          if grep -iq '<title[^>]*>Big City Greens</title>' download_EPG/individual/East_USA/USA-Disney_Channel_East.xml; then
+            echo "Found Big City Greens in the EPG XML!"
+            sed -i '/<title[^>]*>Big City Greens<\/title>/a \
+            <icon src="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/538ea5ab-d2c6-4c9b-8794-c0cb152b0dbd/compose?aspectRatio=1.78&format=webp&width=1200"/>\
+            <category lang="en">Series</category>\
             <category lang="en">Animation</category>\
             <category lang="en">Comedy</category>\
             <category lang="en">Kids</category>' download_EPG/individual/East_USA/USA-Disney_Channel_East.xml
