@@ -49,7 +49,7 @@ jobs:
             <category lang="en">Comedy</category>\
             <category lang="en">Kids</category>' download_EPG/individual/East_USA/USA-Disney_Channel_East.xml
           else
-            echo "Mickey Mouse Clubhouse not found in the EPG XML."
+            echo "Big City Greens not found in the EPG XML."
           fi
 
       - name: Commit and push if changed
