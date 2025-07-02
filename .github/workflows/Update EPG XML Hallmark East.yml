@@ -1,0 +1,38 @@
+name: Update EPG XML Hallmark East US
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at midnight UTC daily
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Create individual folder if it doesn't exist
+        run: mkdir -p download_EPG/individual/East_USA
+
+      - name: Fetch EPG XML
+        run: |
+          date=$(LC_ALL=C date +%Y%m%d)
+          curl -o download_EPG/individual/East_USA/USA-Hallmark_EastUS.xml "https://epg.pw/api/epg.xml?lang=en&date=$date&channel_id=403490"
+
+      - name: Fix XML declaration and DOCTYPE line
+        run: |
+          sed -i '1,2{/^<?xml version=.*?>/d; /^<!DOCTYPE tv SYSTEM "xmltv.dtd">/d}' download_EPG/individual/East_USA/USA-Hallmark_EastUS.xml
+          sed -i '1i<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE tv SYSTEM "xmltv.dtd">' download_EPG/individual/East_USA/USA-Hallmark_EastUS.xml
+
+      - name: Pull latest changes before committing
+        run: git pull --rebase --autostash
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml
+          git diff --quiet && git diff --staged --quiet || git commit -m "Updated EPG $(date +%Y-%m-%d)"
+          git push --force
