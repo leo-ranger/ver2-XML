@@ -19,7 +19,7 @@ jobs:
 
           # Define your fixed header here (XML declaration + DOCTYPE + opening <tv>)
           cat > "$output" <<EOF
-            <?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
+            <?xml version='1.0' encoding='UTF-8'?><!DOCTYPE tv SYSTEM "xmltv.dtd">
             <tv source-info-url="https://epg.pw" source-info-name="EPG.pw" generator-info-name="GitHub Actions">
           EOF
 
