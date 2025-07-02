@@ -1,4 +1,4 @@
-name: Update EPG XML Hallmark EastUS
+name: Update EPG XML Hallmark Channel East
 
 on:
   schedule:
@@ -20,20 +20,20 @@ jobs:
         run: |
           date=$(LC_ALL=C date +%Y%m%d)
           echo "Using date: $date"
-          curl -sS --fail -o download_EPG/individual/East_USA/USA-Hallmark_EastUS.xml "https://epg.pw/api/epg.xml?lang=en&date=$date&channel_id=403490" || echo "⚠️ Failed to fetch EPG!"
+          curl -sS --fail -o download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml "https://epg.pw/api/epg.xml?lang=en&date=$date&channel_id=403490" || echo "⚠️ Failed to fetch EPG!"
 
       - name: Debug output (show file size and head)
         run: |
           echo "File size:"
-          stat --printf="%s bytes\n" download_EPG/individual/East_USA/USA-Hallmark_EastUS.xml || echo "File not found"
+          stat --printf="%s bytes\n" download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml || echo "File not found"
           echo "First 10 lines:"
-          head download_EPG/individual/East_USA/USA-Hallmark_EastUS.xml || echo "File is empty"
+          head download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml || echo "File is empty"
 
       - name: Fix XML declaration and DOCTYPE line (only if not empty)
         run: |
-          if [ -s download_EPG/individual/East_USA/USA-Hallmark_EastUS.xml ]; then
-            sed -i '1,2{/^<?xml version=.*?>/d; /^<!DOCTYPE tv SYSTEM "xmltv.dtd">/d}' download_EPG/individual/East_USA/USA-Hallmark_EastUS.xml
-            sed -i '1i<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE tv SYSTEM "xmltv.dtd">' download_EPG/individual/East_USA/USA-Hallmark_EastUS.xml
+          if [ -s download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml ]; then
+            sed -i '1,2{/^<?xml version=.*?>/d; /^<!DOCTYPE tv SYSTEM "xmltv.dtd">/d}' download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml
+            sed -i '1i<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE tv SYSTEM "xmltv.dtd">' download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml
           else
             echo "❌ XML file is empty. Skipping sed processing."
           fi
@@ -45,6 +45,6 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add download_EPG/individual/East_USA/USA-Hallmark_EastUS.xml
+          git add download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml
           git diff --quiet && git diff --staged --quiet || git commit -m "Updated EPG $(date +%Y-%m-%d)"
           git push --force
