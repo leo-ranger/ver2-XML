@@ -28,7 +28,7 @@ jobs:
           if grep -q '<title lang="zh">Bluey</title>' download_EPG/individual/East_USA/USA-Disney_Channel_East.xml; then
             echo "Found Bluey in the EPG XML!"
             sed -i '/<title lang="zh">Bluey<\/title>/a \
-            <icon src="https://cdn-images.dzcdn.net/images/artist/738bd26f2c031830bcddbe883411fcca/1900x1900-000000-80-0-0.jpg"/>\
+            <icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>\
             <category lang="en">Series</category>\
             <category lang="en">Animation</category>\
             <category lang="en">Comedy</category>\
