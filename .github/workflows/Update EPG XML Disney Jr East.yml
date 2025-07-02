@@ -13,18 +13,18 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Create individual folder if it doesn't exist
-        run: mkdir -p individual
+        run: mkdir -p download_EPG/individual/East_USA
 
       - name: Fetch EPG XML
-        run: curl -o individual/USA-Disney_Jr_East.xml "https://epg.pw/api/epg.xml?lang=en&date=$(date +%Y%m%d)&channel_id=403674"
+        run: curl -o download_EPG/individual/East_USA/USA-Disney_Jr_East.xml "https://epg.pw/api/epg.xml?lang=en&date=$(date +%Y%m%d)&channel_id=403674"
 
       - name: Add XML Declaration and DOCTYPE
         run: |
-          sed -i '1s|$| <!DOCTYPE tv SYSTEM "xmltv.dtd">|' individual/USA-Disney_Jr_East.xml
+          sed -i '1s|$| <!DOCTYPE tv SYSTEM "xmltv.dtd">|' download_EPG/individual/East_USA/USA-Disney_Jr_East.xml
 
       - name: Check for Title "Bluey" in XML and Add Icon and Categories
         run: |
-          if grep -q '<title lang="zh">Bluey</title>' individual/USA-Disney_Jr_East.xml; then
+          if grep -q '<title lang="zh">Bluey</title>' download_EPG/individual/East_USA/USA-Disney_Jr_East.xml; then
             echo "Found Bluey in the EPG XML!"
             sed -i '/<title lang="zh">Bluey<\/title>/a \
             <icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>\
@@ -32,13 +32,14 @@ jobs:
             <category lang="en">Animation</category>\
             <category lang="en">Comedy</category>\
             <category lang="en">Drama</category>\
-            <category lang="en">Kids</category>' individual/USA-Disney_Jr_East.xml
+            <category lang="en">Kids</category>' download_EPG/individual/East_USA/USA-Disney_Jr_East.xml
           else
             echo "Bluey not found in the EPG XML."
           fi
+
       - name: Check for Title "Disney Jr's Ariel" in XML and Add Icon and Categories
         run: |
-          if grep -q "<title lang=\"zh\">Disney Jr's Ariel</title>" individual/USA-Disney_Jr_East.xml; then
+          if grep -q "<title lang=\"zh\">Disney Jr's Ariel</title>" download_EPG/individual/East_USA/USA-Disney_Jr_East.xml; then
             echo "Found Disney Jr's Ariel in the EPG XML!"
             sed -i "/<title lang=\"zh\">Disney Jr's Ariel<\/title>/a \
             <icon src=\"https://variety.com/wp-content/uploads/2023/06/ARIEL.jpg?w=1000&h=563&crop=1\"/>\
@@ -46,40 +47,38 @@ jobs:
             <category lang=\"en\">Animation</category>\
             <category lang=\"en\">Educational</category>\
             <category lang=\"en\">Drama</category>\
-            <category lang=\"en\">Kids</category>" individual/USA-Disney_Jr_East.xml
+            <category lang=\"en\">Kids</category>" download_EPG/individual/East_USA/USA-Disney_Jr_East.xml
           else
             echo "Disney Jr's Ariel not found in the EPG XML."
           fi
 
       - name: Check for Title "SuperKitties" in XML and Add Icon and Categories
         run: |
-          if grep -q "<title lang=\"zh\">SuperKitties</title>" individual/USA-Disney_Jr_East.xml; then
+          if grep -q "<title lang=\"zh\">SuperKitties</title>" download_EPG/individual/East_USA/USA-Disney_Jr_East.xml; then
             echo "Found SuperKitties in the EPG XML!"
             sed -i "/<title lang=\"zh\">SuperKitties<\/title>/a \
             <icon src=\"https://disney.images.edge.bamgrid.com/ripcut-delivery/v1/variant/disney/8f13f4ce-4b2c-426c-b1a7-13f26985aa26/scale?width=1200&aspectRatio=1.78&format=webp\"/>\
             <category lang=\"en\">Series</category>\
             <category lang=\"en\">Animation</category>\
             <category lang=\"en\">Drama</category>\
-            <category lang=\"en\">Kids</category>" individual/USA-Disney_Jr_East.xml
+            <category lang=\"en\">Kids</category>" download_EPG/individual/East_USA/USA-Disney_Jr_East.xml
           else
             echo "SuperKitties not found in the EPG XML."
           fi
 
-
       - name: Check for Title "Mickey Mouse Clubhouse" in XML and Add Icon and Categories
         run: |
-          if grep -iq '<title[^>]*>Mickey Mouse Clubhouse</title>' individual/USA-Disney_Jr_East.xml; then
+          if grep -iq '<title[^>]*>Mickey Mouse Clubhouse</title>' download_EPG/individual/East_USA/USA-Disney_Jr_East.xml; then
             echo "Found Mickey Mouse Clubhouse in the EPG XML!"
             sed -i '/<title[^>]*>Mickey Mouse Clubhouse<\/title>/a \
             <icon src="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/60e1ec90-36fb-4f5a-970d-06a3f0aba686/compose?aspectRatio=1.78&format=webp&width=1200"/>\
             <category lang="en">Educational</category>\
             <category lang="en">Animation</category>\
             <category lang="en">Comedy</category>\
-            <category lang="en">Kids</category>' individual/USA-Disney_Jr_East.xml
+            <category lang="en">Kids</category>' download_EPG/individual/East_USA/USA-Disney_Jr_East.xml
           else
             echo "Mickey Mouse Clubhouse not found in the EPG XML."
           fi
-
 
       - name: Commit and push if changed
         run: |
