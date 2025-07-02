@@ -43,7 +43,7 @@ jobs:
           if grep -iq '<title[^>]*>Big City Greens</title>' download_EPG/individual/East_USA/USA-Disney_Channel_East.xml; then
             echo "Found Big City Greens in the EPG XML!"
             sed -i '/<title[^>]*>Big City Greens<\/title>/a \
-            <icon src="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/538ea5ab-d2c6-4c9b-8794-c0cb152b0dbd/compose?aspectRatio=1.78&format=webp&width=1200"/>\
+            <icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>\
             <category lang="en">Series</category>\
             <category lang="en">Animation</category>\
             <category lang="en">Comedy</category>\
