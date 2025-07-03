@@ -27,6 +27,40 @@ jobs:
             sed -i "/<programme channel=\"$id\"/,/<\/programme>/d" download_EPG/External/Plex_US.xml
           done
 
+      - name: Extract and remove RCM from Plex EPG
+        run: |
+          FILE="download_EPG/External/Plex_US.xml"
+          OUT_DIR="download_EPG/individual/US_Plex"
+          OUT_FILE="${OUT_DIR}/RCM.xml"
+          CHANNEL_ID="5e20b730f2f8d5003d739db7-66bfb17c144c201b8b61c10d"
+
+          mkdir -p "$OUT_DIR"
+
+          # Start new file with single-line header
+          echo "<?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM 'xmltv.dtd'>" > "$OUT_FILE"
+          echo "<tv>" >> "$OUT_FILE"
+
+          # Extract and append <channel> and <programme> blocks
+          awk -v id="$CHANNEL_ID" '
+            $0 ~ "<channel id=\"" id "\"" {keep=1}
+            keep {print}
+            /<\/channel>/ && keep {keep=0}
+          ' "$FILE" >> "$OUT_FILE"
+
+          awk -v id="$CHANNEL_ID" '
+            $0 ~ "<programme channel=\"" id "\"" {keep=1}
+            keep {print}
+            /<\/programme>/ && keep {keep=0}
+          ' "$FILE" >> "$OUT_FILE"
+
+          # Close XML root
+          echo "</tv>" >> "$OUT_FILE"
+
+          # Remove RCM from the main Plex EPG
+          sed -i "/<channel id=\"$CHANNEL_ID\"/,/<\/channel>/d" "$FILE"
+          sed -i "/<programme channel=\"$CHANNEL_ID\"/,/<\/programme>/d" "$FILE"
+
+
       - name: Update QWEST channel Metadata
         run: |
           FILE="download_EPG/External/Plex_US.xml"
