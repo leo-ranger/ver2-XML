@@ -1,0 +1,41 @@
+name: Clean Plex EPG
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 0 * * *'  # Runs daily at 00:30 UTC
+
+
+jobs:
+  clean-plex-epg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Create external folder if missing
+        run: mkdir -p download_EPG/External
+
+      - name: Download Plex US EPG
+        run: curl -L -o download_EPG/External/Plex_US.xml https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/us.xml
+
+      - name: Remove excluded channels and programs
+        run: |
+          # Extract all channel ids from exclusion list
+          ids=$(grep -oP '(?<=<channel id=")[^"]+' EPG/excluded/List.txt)
+          for id in $ids; do
+            echo "Removing channel id: $id"
+            # Remove <channel> entries
+            sed -i "/<channel id=\"$id\"/,/<\/channel>/d" download_EPG/External/Plex_US.xml
+            # Remove <programme> entries for that channel
+            sed -i "/<programme channel=\"$id\"/,/<\/programme>/d" download_EPG/External/Plex_US.xml
+          done
+
+      - name: Commit and push if modified
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git pull --rebase --autostash
+          git add download_EPG/External/Plex_US.xml
+          git commit -m "Cleaned Plex EPG $(date +%Y-%m-%d)" || echo "No changes to commit"
+          git push
