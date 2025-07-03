@@ -43,15 +43,15 @@ jobs:
           BEGIN { RS="</programme>"; ORS="" }
           {
             if ($0 ~ "programme channel=\"" id "\"") {
-              gsub(/<icon[^>]*\/>/, "")                            # Remove all <icon ... />
-              gsub("<category>Movie</category>", "<category>Music</category>")  # Replace Movie with Music
-              sub(/<desc[^>]*>.*?<\/desc>/, "&\n<icon src=\"" icon "\"/>")     # Add icon after desc
+              gsub(/<icon[^>]*\/>/, "")  # Remove all icon tags
+              gsub("<category>Movie</category>", "<category>Music</category>")
+              sub(/(<title[^>]*>.*?<\/title>)/, "\\1\n<icon src=\"" icon "\"/>")
             }
             print $0 "</programme>\n"
           }' "$FILE.bak" > "$FILE"
 
 
-      - name: Update Trace Urban channel metadata
+      - name: Update Trance Urban channel metadata
         run: |
           FILE="download_EPG/External/Plex_US.xml"
           TARGET_ID="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda"
@@ -63,12 +63,13 @@ jobs:
           BEGIN { RS="</programme>"; ORS="" }
           {
             if ($0 ~ "programme channel=\"" id "\"") {
-              gsub(/<icon[^>]*\/>/, "")                            # Remove all <icon ... />
-              gsub("<category>Movie</category>", "<category>Music</category>")  # Replace Movie with Music
-              sub(/<desc[^>]*>.*?<\/desc>/, "&\n<icon src=\"" icon "\"/>")     # Add icon after desc
+              gsub(/<icon[^>]*\/>/, "")  # Remove all icon tags
+              gsub("<category>Movie</category>", "<category>Music</category>")
+              sub(/(<title[^>]*>.*?<\/title>)/, "\\1\n<icon src=\"" icon "\"/>")
             }
             print $0 "</programme>\n"
           }' "$FILE.bak" > "$FILE"
+
           
       - name: Fix XML Declaration formatting
         run: |
