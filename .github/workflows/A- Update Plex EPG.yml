@@ -1,10 +1,9 @@
-name: A- Update Plex EPG 
+name: A- Update Plex EPG
 
 on:
   workflow_dispatch:
   schedule:
     - cron: '30 0 * * *'  # Runs daily at 00:30 UTC
-
 
 jobs:
   clean-plex-epg:
@@ -21,23 +20,18 @@ jobs:
 
       - name: Remove excluded channels and programs
         run: |
-          # Extract all channel ids from exclusion list
-          ids=$(grep -oP '(?<=<channel id=")[^"]+' EPG/excluded/List.txt)
+          ids=$(grep -oP '(?<=<channel id=")[^"]+' EPG/excluded/List.txt || true)
           for id in $ids; do
             echo "Removing channel id: $id"
-            # Remove <channel> entries
             sed -i "/<channel id=\"$id\"/,/<\/channel>/d" download_EPG/External/Plex_US.xml
-            # Remove <programme> entries for that channel
             sed -i "/<programme channel=\"$id\"/,/<\/programme>/d" download_EPG/External/Plex_US.xml
           done
-          
+
       - name: Update QWEST channel Metadata
         run: |
           FILE="download_EPG/External/Plex_US.xml"
+          cp "$FILE" "${FILE}.qwest.bak"
           TARGET_ID="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75"
-
-          cp "$FILE" "${FILE}.bak"
-
           awk -v id="$TARGET_ID" '
           BEGIN {
             RS="</programme>"; ORS=""
@@ -45,20 +39,18 @@ jobs:
           }
           {
             if ($0 ~ "programme channel=\"" id "\"") {
-              gsub(/<icon[^>]*\/>/, "")  # Remove all <icon ... /> tags
-              gsub("<category>Movie</category>", "<category>Music</category>")  # Replace Movie with Music
-              sub(/(<title[^>]*>.*?<\/title>)/, "\\1\n" icon)  # Insert new icon after title
+              gsub(/<icon[^>]*\/>/, "")
+              gsub("<category>Movie</category>", "<category>Music</category>")
+              sub(/(<title[^>]*>.*?<\/title>)/, "\\1\n" icon)
             }
             print $0 "</programme>\n"
-          }' "$FILE.bak" > "$FILE"
+          }' "${FILE}.qwest.bak" > "$FILE"
 
       - name: Update Trace Urban channel metadata
         run: |
           FILE="download_EPG/External/Plex_US.xml"
+          cp "$FILE" "${FILE}.traceurban.bak"
           TARGET_ID="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda"
-
-          cp "$FILE" "${FILE}.bak"
-
           awk -v id="$TARGET_ID" '
           BEGIN {
             RS="</programme>"; ORS=""
@@ -66,26 +58,31 @@ jobs:
           }
           {
             if ($0 ~ "programme channel=\"" id "\"") {
-              gsub(/<icon[^>]*\/>/, "")  # Remove all <icon ... /> tags
-              gsub("<category>Movie</category>", "<category>Music</category>")  # Replace Movie with Music
-              sub(/(<title[^>]*>.*?<\/title>)/, "\\1\n" icon)  # Insert new icon after title
+              gsub(/<icon[^>]*\/>/, "")
+              gsub("<category>Movie</category>", "<category>Music</category>")
+              sub(/(<title[^>]*>.*?<\/title>)/, "\\1\n" icon)
             }
             print $0 "</programme>\n"
-          }' "$FILE.bak" > "$FILE"
-          
+          }' "${FILE}.traceurban.bak" > "$FILE"
+
       - name: Fix XML Declaration formatting
         run: |
           for f in download_EPG/External/*.xml; do
             echo "Fixing declaration in $f"
-            sed -i "1s/<?xml version=\"1.0\" encoding=\"UTF-8\"?>/<?xml version='1.0' encoding='UTF-8'?>/" "$f"
-            sed -i "1s/?><!DOCTYPE/?> <!DOCTYPE/" "$f"
+            sed -i "1s|<?xml version=\"1.0\" encoding=\"UTF-8\"?>|<?xml version='1.0' encoding='UTF-8'?> |" "$f"
+            sed -i "1s|?><!DOCTYPE|?> <!DOCTYPE|" "$f"
           done
-          
+
       - name: Fix misplaced closing tags at end of file
         run: |
           for f in download_EPG/External/*.xml; do
-            # Remove any </programme> that comes after </tv>
-            sed -i '/<\/tv>/,${//!d; /<\/programme>/d}' "$f"
+            # Delete any </programme> lines that occur after the closing </tv> tag
+            awk '
+              /<\/tv>/ {tvClosed=1; print; next}
+              tvClosed && /<\/programme>/ {next}
+              {print}
+            ' "$f" > "${f}.fixed"
+            mv "${f}.fixed" "$f"
           done
 
       - name: Commit and push if modified
