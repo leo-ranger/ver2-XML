@@ -107,27 +107,23 @@ jobs:
             print $0 "</programme>\n"
           }' "${FILE}.traceurban.bak" > "$FILE"
 
-      - name: Update Fuel TV channel metadata (add icon if missing and Sports category)
+      - name: Update Fuel TV channel metadata (title → icon → Sports on new lines)
         run: |
           FILE="download_EPG/External/Plex_US.xml"
           cp "$FILE" "${FILE}.fueltv.bak"
           TARGET_ID="5e20b730f2f8d5003d739db7-62d15f16001c04178f555e40"
           ICON='<icon src="https://cdn.broadbandtvnews.com/wp-content/uploads/2020/11/14111352/FTV_2.png"/>'
           CATEGORY='<category>Sports</category>'
+
           awk -v id="$TARGET_ID" -v icon="$ICON" -v category="$CATEGORY" '
           BEGIN {
             RS="</programme>"; ORS=""
           }
           {
             if ($0 ~ "programme channel=\"" id "\"") {
-              # Remove all existing icons to avoid duplicates
               gsub(/<icon[^>]*\/>/, "")
-              # Add icon unconditionally (since all removed)
-              $0 = gensub(/(<title[^>]*>.*?<\/title>)/, "\\1\n" icon, 1)
-              # Add Sports category if missing
-              if ($0 !~ /<category>[[:space:]]*Sports[[:space:]]*<\/category>/) {
-                sub(/<\/programme>$/, category "\n</programme>")
-              }
+              gsub(/<category>[[:space:]]*Sports[[:space:]]*<\/category>/, "")
+              $0 = gensub(/(<title[^>]*>.*?<\/title>)/, "\\1\n" icon "\n" category, 1)
             }
             print $0 "</programme>\n"
           }' "${FILE}.fueltv.bak" > "$FILE"
