@@ -75,17 +75,25 @@ jobs:
           BEGIN {
             RS="</programme>"; ORS=""
             icon = "<icon src=\"https://cdn.broadbandtvnews.com/wp-content/uploads/2020/11/14111352/FTV_2.png\"/>"
+            category = "<category>Sports</category>"
           }
           {
             if ($0 ~ "programme channel=\"" id "\"") {
               # Remove existing icon tags
               gsub(/<icon[^>]*\/>/, "")
 
-              # Inject new icon tag after the title tag
+              # Inject icon after the title tag
               $0 = gensub(/(<title[^>]*>.*?<\/title>)/, "\\1\n" icon, 1)
+
+              # Add Sports category if not already present
+              if ($0 !~ /<category>[[:space:]]*Sports[[:space:]]*<\/category>/) {
+                # Insert before closing </programme> but outside any existing tags
+                sub(/<\/programme>$/, category "\n</programme>")
+              }
             }
             print $0 "</programme>\n"
           }' "${FILE}.traceurban.bak" > "$FILE"
+
 
 
       - name: Fix XML Declaration formatting
