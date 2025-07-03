@@ -55,21 +55,23 @@ jobs:
         run: |
           FILE="download_EPG/External/Plex_US.xml"
           TARGET_ID="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda"
-          RAW_ICON="https://images.plex.tv/photo?size=large-1920&scale=1&url=https://provider-static.plex.tv/epg/cms/production/7ffb84ed-f5a5-4e57-973d-e1281b70fb17/trace_urban_artwork_horizontal_-_Nathan_BECKER.jpg"
-          ESCAPED_ICON=$(echo "$RAW_ICON" | sed 's/&/\&amp;/g')
 
           cp "$FILE" "${FILE}.bak"
 
-          awk -v id="$TARGET_ID" -v icon="$ESCAPED_ICON" '
-          BEGIN { RS="</programme>"; ORS="" }
+          awk -v id="$TARGET_ID" '
+          BEGIN {
+            RS="</programme>"; ORS=""
+            icon = "https://images.plex.tv/photo?size=large-1920&amp;scale=1&amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F7ffb84ed-f5a5-4e57-973d-e1281b70fb17%2Ftrace_urban_artwork_horizontal_-_Nathan_BECKER.jpg"
+          }
           {
             if ($0 ~ "programme channel=\"" id "\"") {
-              gsub(/<icon[^>]*\/>/, "")  # Remove all icon tags
+              gsub(/<icon[^>]*\/>/, "")  # Remove existing icon tags
               gsub("<category>Movie</category>", "<category>Music</category>")
               sub(/(<title[^>]*>.*?<\/title>)/, "\\1\n<icon src=\"" icon "\"/>")
             }
             print $0 "</programme>\n"
           }' "$FILE.bak" > "$FILE"
+
           
       - name: Fix XML Declaration formatting
         run: |
