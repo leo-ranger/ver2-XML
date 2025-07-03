@@ -30,6 +30,25 @@ jobs:
             # Remove <programme> entries for that channel
             sed -i "/<programme channel=\"$id\"/,/<\/programme>/d" download_EPG/External/Plex_US.xml
           done
+
+      - name: Replace Movie category with Music for TED channel
+        run: |
+          FILE="download_EPG/External/Plex_US.xml"
+          TARGET_ID="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75"
+
+          # Backup just in case
+          cp "$FILE" "${FILE}.bak"
+
+          # Use awk to target matching programmes and replace Movie category with Music
+          awk -v id="$TARGET_ID" '
+          BEGIN { RS="</programme>"; ORS="" }
+          {
+            if ($0 ~ "programme channel=\"" id "\"") {
+              gsub("<category>Movie</category>", "<category>Music</category>")
+            }
+            print $0 "</programme>\n"
+          }' "$FILE.bak" > "$FILE"
+
           
       - name: Fix XML Declaration formatting
         run: |
