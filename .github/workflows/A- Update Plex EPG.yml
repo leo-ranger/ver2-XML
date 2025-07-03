@@ -27,7 +27,7 @@ jobs:
             sed -i "/<programme channel=\"$id\"/,/<\/programme>/d" download_EPG/External/Plex_US.xml
           done
 
-      - name: Extract and remove RCM from Plex EPG
+      - name: Extract RCM channel to separate file
         run: |
           FILE="download_EPG/External/Plex_US.xml"
           OUT_DIR="download_EPG/individual/US_Plex"
@@ -36,11 +36,9 @@ jobs:
 
           mkdir -p "$OUT_DIR"
 
-          # Start new file with single-line header
           echo "<?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM 'xmltv.dtd'>" > "$OUT_FILE"
           echo "<tv>" >> "$OUT_FILE"
 
-          # Extract and append <channel> and <programme> blocks
           awk -v id="$CHANNEL_ID" '
             $0 ~ "<channel id=\"" id "\"" {keep=1}
             keep {print}
@@ -53,23 +51,23 @@ jobs:
             /<\/programme>/ && keep {keep=0}
           ' "$FILE" >> "$OUT_FILE"
 
-          # Close XML root
           echo "</tv>" >> "$OUT_FILE"
 
-          # Remove RCM from the main Plex EPG
-          sed -i "/<channel id=\"$CHANNEL_ID\"/,/<\/channel>/d" "$FILE"
-          sed -i "/<programme channel=\"$CHANNEL_ID\"/,/<\/programme>/d" "$FILE"
-
-      - name: Commit and push extracted RCM EPG
+      - name: Commit and push extracted RCM XML
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git pull --rebase --autostash
           git add download_EPG/individual/US_Plex/RCM.xml
-          git commit -m "Isolated RCM channel from Plex EPG $(date +%Y-%m-%d)" || echo "No changes to commit"
+          git commit -m "Extracted RCM channel XML $(date +%Y-%m-%d)" || echo "No changes to commit"
           git push
 
-
+      - name: Remove RCM channel from main Plex EPG (before all other fixes)
+        run: |
+          FILE="download_EPG/External/Plex_US.xml"
+          CHANNEL_ID="5e20b730f2f8d5003d739db7-66bfb17c144c201b8b61c10d"
+          sed -i "/<channel id=\"$CHANNEL_ID\"/,/<\/channel>/d" "$FILE"
+          sed -i "/<programme channel=\"$CHANNEL_ID\"/,/<\/programme>/d" "$FILE"
 
       - name: Update QWEST channel Metadata
         run: |
@@ -84,7 +82,6 @@ jobs:
           {
             if ($0 ~ "programme channel=\"" id "\"") {
               gsub(/<icon[^>]*\/>/, "")
-              gsub("<category>Movie</category>", "<category>Music</category>")
               $0 = gensub(/(<title[^>]*>.*?<\/title>)/, "\\1\n" icon, 1)
             }
             print $0 "</programme>\n"
@@ -103,7 +100,6 @@ jobs:
           {
             if ($0 ~ "programme channel=\"" id "\"") {
               gsub(/<icon[^>]*\/>/, "")
-              gsub("<category>Movie</category>", "<category>Music</category>")
               $0 = gensub(/(<title[^>]*>.*?<\/title>)/, "\\1\n" icon, 1)
             }
             print $0 "</programme>\n"
@@ -112,9 +108,8 @@ jobs:
       - name: Update Fuel TV channel metadata
         run: |
           FILE="download_EPG/External/Plex_US.xml"
-          cp "$FILE" "${FILE}.traceurban.bak"
+          cp "$FILE" "${FILE}.fueltv.bak"
           TARGET_ID="e20b730f2f8d5003d739db7-62d15f16001c04178f555e40"
-
           awk -v id="$TARGET_ID" '
           BEGIN {
             RS="</programme>"; ORS=""
@@ -123,27 +118,18 @@ jobs:
           }
           {
             if ($0 ~ "programme channel=\"" id "\"") {
-              # Remove existing icon tags
               gsub(/<icon[^>]*\/>/, "")
-
-              # Inject icon after the title tag
               $0 = gensub(/(<title[^>]*>.*?<\/title>)/, "\\1\n" icon, 1)
-
-              # Add Sports category if not already present
               if ($0 !~ /<category>[[:space:]]*Sports[[:space:]]*<\/category>/) {
-                # Insert before closing </programme> but outside any existing tags
                 sub(/<\/programme>$/, category "\n</programme>")
               }
             }
             print $0 "</programme>\n"
-          }' "${FILE}.traceurban.bak" > "$FILE"
-
-
+          }' "${FILE}.fueltv.bak" > "$FILE"
 
       - name: Fix XML Declaration formatting
         run: |
           for f in download_EPG/External/*.xml; do
-            echo "Fixing declaration in $f"
             sed -i "1s|<?xml version=\"1.0\" encoding=\"UTF-8\"?>|<?xml version='1.0' encoding='UTF-8'?> |" "$f"
             sed -i "1s|?><!DOCTYPE|?> <!DOCTYPE|" "$f"
           done
@@ -159,11 +145,11 @@ jobs:
             mv "${f}.fixed" "$f"
           done
 
-      - name: Commit and push if modified
+      - name: Commit and push cleaned Plex EPG (RCM removed, metadata updated)
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git pull --rebase --autostash
           git add download_EPG/External/Plex_US.xml
-          git commit -m "Cleaned Plex EPG $(date +%Y-%m-%d)" || echo "No changes to commit"
+          git commit -m "Cleaned Plex EPG without RCM $(date +%Y-%m-%d)" || echo "No changes to commit"
           git push
