@@ -41,7 +41,7 @@ jobs:
             if ($0 ~ "programme channel=\"" id "\"") {
               gsub(/<icon[^>]*\/>/, "")
               gsub("<category>Movie</category>", "<category>Music</category>")
-              sub(/(<title[^>]*>.*?<\/title>)/, "\\1\n" icon)
+              $0 = gensub(/(<title[^>]*>.*?<\/title>)/, "\\1\n" icon, 1)
             }
             print $0 "</programme>\n"
           }' "${FILE}.qwest.bak" > "$FILE"
@@ -60,7 +60,7 @@ jobs:
             if ($0 ~ "programme channel=\"" id "\"") {
               gsub(/<icon[^>]*\/>/, "")
               gsub("<category>Movie</category>", "<category>Music</category>")
-              sub(/(<title[^>]*>.*?<\/title>)/, "\\1\n" icon)
+              $0 = gensub(/(<title[^>]*>.*?<\/title>)/, "\\1\n" icon, 1)
             }
             print $0 "</programme>\n"
           }' "${FILE}.traceurban.bak" > "$FILE"
@@ -76,7 +76,6 @@ jobs:
       - name: Fix misplaced closing tags at end of file
         run: |
           for f in download_EPG/External/*.xml; do
-            # Delete any </programme> lines that occur after the closing </tv> tag
             awk '
               /<\/tv>/ {tvClosed=1; print; next}
               tvClosed && /<\/programme>/ {next}
