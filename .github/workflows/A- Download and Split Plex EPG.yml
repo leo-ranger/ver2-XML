@@ -1,4 +1,4 @@
-name: A- Split Plex EPG
+name: A- Download and Split Plex EPG
 
 on:
   workflow_dispatch:
@@ -12,11 +12,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Create output folder
-        run: mkdir -p download_EPG/Split/Plex
+      - name: Create required folders
+        run: |
+          mkdir -p download_EPG/External
+          mkdir -p download_EPG/individual/US_Plex
 
       - name: Download Plex US EPG
-        run: curl -L -o download_EPG/Split/Plex/Plex_US_Master.xml https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/us.xml
+        run: curl -L -o download_EPG/External/Plex_US.xml https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/us.xml
 
       - name: Split Plex EPG into per-channel files
         run: |
@@ -24,12 +26,12 @@ jobs:
           import xml.etree.ElementTree as ET
           import os, re
 
-          src = "download_EPG/Split/Plex/Plex_US_Master.xml"
+          src = "download_EPG/External/Plex_US.xml"
           tree = ET.parse(src)
           root = tree.getroot()
-          tv_attrs = " ".join(f'{k}=\"{v}\"' for k,v in root.attrib.items())
+          tv_attrs = " ".join(f'{k}="{v}"' for k,v in root.attrib.items())
 
-          out_dir = "download_EPG/Split/Plex"
+          out_dir = "download_EPG/individual/US_Plex"
           for channel in root.findall("channel"):
               cid = channel.get("id")
               disp = channel.findtext("display-name") or cid
@@ -50,11 +52,11 @@ jobs:
                   f.write("</tv>\n")
           EOF
 
-      - name: Commit split files
+      - name: Commit and push results
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git pull --rebase --autostash
-          git add download_EPG/Split/Plex/
-          git commit -m "Split Plex EPG into per-channel files $(date +%Y-%m-%d)" || echo "No changes"
+          git add download_EPG/External/Plex_US.xml download_EPG/individual/US_Plex/
+          git commit -m "Download and split Plex EPG $(date +%Y-%m-%d)" || echo "No changes"
           git push
