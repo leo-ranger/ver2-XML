@@ -62,14 +62,14 @@ jobs:
           git commit -m "Extracted RCM channel XML $(date +%Y-%m-%d)" || echo "No changes to commit"
           git push
 
-      - name: Remove RCM channel from main Plex EPG (before all other fixes)
+      - name: Remove RCM channel from main Plex EPG (before other fixes)
         run: |
           FILE="download_EPG/External/Plex_US.xml"
           CHANNEL_ID="5e20b730f2f8d5003d739db7-66bfb17c144c201b8b61c10d"
           sed -i "/<channel id=\"$CHANNEL_ID\"/,/<\/channel>/d" "$FILE"
           sed -i "/<programme channel=\"$CHANNEL_ID\"/,/<\/programme>/d" "$FILE"
 
-      - name: Update QWEST channel Metadata
+      - name: Update QWEST channel Metadata (with Movie→Music swap)
         run: |
           FILE="download_EPG/External/Plex_US.xml"
           cp "$FILE" "${FILE}.qwest.bak"
@@ -82,12 +82,13 @@ jobs:
           {
             if ($0 ~ "programme channel=\"" id "\"") {
               gsub(/<icon[^>]*\/>/, "")
+              gsub("<category>Movie</category>", "<category>Music</category>")
               $0 = gensub(/(<title[^>]*>.*?<\/title>)/, "\\1\n" icon, 1)
             }
             print $0 "</programme>\n"
           }' "${FILE}.qwest.bak" > "$FILE"
 
-      - name: Update Trace Urban channel metadata
+      - name: Update Trace Urban channel metadata (with Movie→Music swap)
         run: |
           FILE="download_EPG/External/Plex_US.xml"
           cp "$FILE" "${FILE}.traceurban.bak"
@@ -100,12 +101,13 @@ jobs:
           {
             if ($0 ~ "programme channel=\"" id "\"") {
               gsub(/<icon[^>]*\/>/, "")
+              gsub("<category>Movie</category>", "<category>Music</category>")
               $0 = gensub(/(<title[^>]*>.*?<\/title>)/, "\\1\n" icon, 1)
             }
             print $0 "</programme>\n"
           }' "${FILE}.traceurban.bak" > "$FILE"
 
-      - name: Update Fuel TV channel metadata
+      - name: Update Fuel TV channel metadata (add Sports category, no swap)
         run: |
           FILE="download_EPG/External/Plex_US.xml"
           cp "$FILE" "${FILE}.fueltv.bak"
