@@ -31,7 +31,7 @@ jobs:
             sed -i "/<programme channel=\"$id\"/,/<\/programme>/d" download_EPG/External/Plex_US.xml
           done
 
-      - name: Replace Movie category with Music for TED channel
+      - name: Replace Movie category with Music for Qwest channel
         run: |
           FILE="download_EPG/External/Plex_US.xml"
           TARGET_ID="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75"
