@@ -52,7 +52,7 @@ jobs:
             print $0 "</programme>\n"
           }' "$FILE.bak" > "$FILE"
 
-      - name: Update Trance Urban channel metadata
+      - name: Update Trace Urban channel metadata
         run: |
           FILE="download_EPG/External/Plex_US.xml"
           TARGET_ID="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda"
@@ -62,7 +62,7 @@ jobs:
           awk -v id="$TARGET_ID" '
           BEGIN {
             RS="</programme>"; ORS=""
-            icon = "<icon src=\"https://images.plex.tv/photo?size=large-1920&amp;scale=1&amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F7ffb84ed-f5a5-4e57-973d-e1281b70fb17%2Ftrace_urban_artwork_horizontal_-_Nathan_BECKER.jpg\"/>"
+            icon = "<icon src=\"https://provider-static.plex.tv/epg/cms/production/7ffb84ed-f5a5-4e57-973d-e1281b70fb17/trace_urban_artwork_horizontal_-_Nathan_BECKER.jpg\"/>"
           }
           {
             if ($0 ~ "programme channel=\"" id "\"") {
