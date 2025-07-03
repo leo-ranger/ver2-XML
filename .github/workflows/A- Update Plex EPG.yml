@@ -111,7 +111,7 @@ jobs:
         run: |
           FILE="download_EPG/External/Plex_US.xml"
           cp "$FILE" "${FILE}.fueltv.bak"
-          TARGET_ID="e20b730f2f8d5003d739db7-62d15f16001c04178f555e40"
+          TARGET_ID="5e20b730f2f8d5003d739db7-62d15f16001c04178f555e40"
           awk -v id="$TARGET_ID" '
           BEGIN {
             RS="</programme>"; ORS=""
