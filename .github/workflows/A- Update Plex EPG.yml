@@ -65,6 +65,29 @@ jobs:
             print $0 "</programme>\n"
           }' "${FILE}.traceurban.bak" > "$FILE"
 
+      - name: Update Fuel TV channel metadata
+        run: |
+          FILE="download_EPG/External/Plex_US.xml"
+          cp "$FILE" "${FILE}.traceurban.bak"
+          TARGET_ID="e20b730f2f8d5003d739db7-62d15f16001c04178f555e40"
+
+          awk -v id="$TARGET_ID" '
+          BEGIN {
+            RS="</programme>"; ORS=""
+            icon = "<icon src=\"https://cdn.broadbandtvnews.com/wp-content/uploads/2020/11/14111352/FTV_2.png\"/>"
+          }
+          {
+            if ($0 ~ "programme channel=\"" id "\"") {
+              # Remove existing icon tags
+              gsub(/<icon[^>]*\/>/, "")
+
+              # Inject new icon tag after the title tag
+              $0 = gensub(/(<title[^>]*>.*?<\/title>)/, "\\1\n" icon, 1)
+            }
+            print $0 "</programme>\n"
+          }' "${FILE}.traceurban.bak" > "$FILE"
+
+
       - name: Fix XML Declaration formatting
         run: |
           for f in download_EPG/External/*.xml; do
