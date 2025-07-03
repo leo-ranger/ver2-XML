@@ -60,6 +60,16 @@ jobs:
           sed -i "/<channel id=\"$CHANNEL_ID\"/,/<\/channel>/d" "$FILE"
           sed -i "/<programme channel=\"$CHANNEL_ID\"/,/<\/programme>/d" "$FILE"
 
+      - name: Commit and push extracted RCM EPG
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git pull --rebase --autostash
+          git add download_EPG/individual/US_Plex/RCM.xml
+          git commit -m "Isolated RCM channel from Plex EPG $(date +%Y-%m-%d)" || echo "No changes to commit"
+          git push
+
+
 
       - name: Update QWEST channel Metadata
         run: |
