@@ -29,7 +29,7 @@ jobs:
             # Remove all <programme channel="$id"> blocks
             sed -i "/<programme channel=\"$id\"/,/<\/programme>/d" download_EPG/External/Samsung_Plus_US.xml
           done
-
+          
       - name: Fix XML Declaration formatting
         run: |
           for f in download_EPG/External/*.xml; do
@@ -37,6 +37,14 @@ jobs:
             sed -i "1s/<?xml version=\"1.0\" encoding=\"UTF-8\"?>/<?xml version='1.0' encoding='UTF-8'?>/" "$f"
             sed -i "1s/?><!DOCTYPE/?> <!DOCTYPE/" "$f"
           done
+    
+      - name: Fix misplaced closing tags at end of file
+        run: |
+          for f in download_EPG/External/*.xml; do
+            # Remove any </programme> that comes after </tv>
+            sed -i '/<\/tv>/,${//!d; /<\/programme>/d}' "$f"
+          done
+
 
       - name: Commit and push if modified
         run: |
