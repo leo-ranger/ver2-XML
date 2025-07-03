@@ -31,7 +31,7 @@ jobs:
             sed -i "/<programme channel=\"$id\"/,/<\/programme>/d" download_EPG/External/Plex_US.xml
           done
 
-      - name: Update QWEST channel metadata
+      - name: Update QWEST channel Metadata
         run: |
           FILE="download_EPG/External/Plex_US.xml"
           TARGET_ID="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75"
@@ -43,11 +43,13 @@ jobs:
           BEGIN { RS="</programme>"; ORS="" }
           {
             if ($0 ~ "programme channel=\"" id "\"") {
-              gsub("<category>Movie</category>", "<category>Music</category>")
-              gsub(/<icon src="[^"]*"\/>/, "<icon src=\"" icon "\"/>")
+              gsub(/<icon[^>]*\/>/, "")                            # Remove all <icon ... />
+              gsub("<category>Movie</category>", "<category>Music</category>")  # Replace Movie with Music
+              sub(/<desc[^>]*>.*?<\/desc>/, "&\n<icon src=\"" icon "\"/>")     # Add icon after desc
             }
             print $0 "</programme>\n"
           }' "$FILE.bak" > "$FILE"
+
 
       - name: Update Trace Urban channel metadata
         run: |
@@ -61,12 +63,12 @@ jobs:
           BEGIN { RS="</programme>"; ORS="" }
           {
             if ($0 ~ "programme channel=\"" id "\"") {
-              gsub("<category>Movie</category>", "<category>Music</category>")
-              gsub(/<icon src="[^"]*"\/>/, "<icon src=\"" icon "\"/>")
+              gsub(/<icon[^>]*\/>/, "")                            # Remove all <icon ... />
+              gsub("<category>Movie</category>", "<category>Music</category>")  # Replace Movie with Music
+              sub(/<desc[^>]*>.*?<\/desc>/, "&\n<icon src=\"" icon "\"/>")     # Add icon after desc
             }
             print $0 "</programme>\n"
           }' "$FILE.bak" > "$FILE"
-
           
       - name: Fix XML Declaration formatting
         run: |
