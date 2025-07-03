@@ -49,6 +49,23 @@ jobs:
             print $0 "</programme>\n"
           }' "$FILE.bak" > "$FILE"
 
+      - name: Update Trace Urban channel metadata
+        run: |
+          FILE="download_EPG/External/Plex_US.xml"
+          TARGET_ID="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda"
+          NEW_ICON="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F7ffb84ed-f5a5-4e57-973d-e1281b70fb17%2Ftrace_urban_artwork_horizontal_-_Nathan_BECKER.jpg"
+
+          cp "$FILE" "${FILE}.bak"
+
+          awk -v id="$TARGET_ID" -v icon="$NEW_ICON" '
+          BEGIN { RS="</programme>"; ORS="" }
+          {
+            if ($0 ~ "programme channel=\"" id "\"") {
+              gsub("<category>Movie</category>", "<category>Music</category>")
+              gsub(/<icon src="[^"]*"\/>/, "<icon src=\"" icon "\"/>")
+            }
+            print $0 "</programme>\n"
+          }' "$FILE.bak" > "$FILE"
 
           
       - name: Fix XML Declaration formatting
