@@ -1,0 +1,110 @@
+name: Merge Plex EPG with Whitelist and Skip
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '45 0 * * *'  # daily at 00:45 UTC, adjust as needed
+
+jobs:
+  merge-epg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Install Python lxml
+        run: sudo apt-get update && sudo apt-get install -y python3-lxml
+
+      - name: Merge whitelist channels per folder (or all if no whitelist, skip if Skip.txt)
+        run: |
+          python3 - << 'EOF'
+          import os
+          import re
+          from lxml import etree
+
+          individual_dir = "download_EPG/individual"
+          grouped_dir = "download_EPG/Grouped"
+
+          os.makedirs(grouped_dir, exist_ok=True)
+
+          channel_id_re = re.compile(r'<channel id="([^"]+)">')
+
+          for folder in os.listdir(individual_dir):
+              folder_path = os.path.join(individual_dir, folder)
+
+              # Skip folder if Skip.txt exists
+              skip_path = os.path.join(folder_path, "Skip.txt")
+              if os.path.isfile(skip_path):
+                  print(f"Skipping folder {folder_path} because Skip.txt found")
+                  continue
+
+              whitelist_path = os.path.join(folder_path, "WhiteList.txt")
+
+              channel_ids = None
+              if os.path.isfile(whitelist_path):
+                  with open(whitelist_path, 'r', encoding='utf-8') as f:
+                      channel_ids = []
+                      for line in f:
+                          match = channel_id_re.search(line)
+                          if match:
+                              channel_ids.append(match.group(1))
+                  print(f"Whitelist found in {folder_path} with {len(channel_ids)} channels")
+              else:
+                  print(f"No whitelist in {folder_path}, will merge all XML files")
+
+              merged_tv = None
+              merged_channels = []
+              merged_programmes = []
+
+              for fname in os.listdir(folder_path):
+                  if not fname.lower().endswith(".xml"):
+                      continue
+                  fpath = os.path.join(folder_path, fname)
+
+                  try:
+                      tree = etree.parse(fpath)
+                      root = tree.getroot()
+
+                      if channel_ids is not None:
+                          channel_elem = root.find("channel")
+                          if channel_elem is None:
+                              continue
+                          cid = channel_elem.get("id")
+                          if cid not in channel_ids:
+                              continue
+                      else:
+                          channel_elem = root.find("channel")
+                          if channel_elem is None:
+                              continue
+                          cid = channel_elem.get("id")
+
+                      print(f"Including {fname} with channel id {cid}")
+
+                      if merged_tv is None:
+                          merged_tv = etree.Element("tv", attrib=root.attrib)
+
+                      merged_channels.append(channel_elem)
+                      merged_programmes.extend(root.findall("programme"))
+                  except Exception as e:
+                      print(f"Error parsing {fpath}: {e}")
+
+              if merged_tv is None:
+                  print(f"No channels found to merge in {folder_path}, skipping.")
+                  continue
+
+              for ch in merged_channels:
+                  merged_tv.append(ch)
+              for prog in merged_programmes:
+                  merged_tv.append(prog)
+
+              out_file = os.path.join(grouped_dir, f"{folder}_WhiteListed.xml")
+              etree.ElementTree(merged_tv).write(
+                  out_file,
+                  pretty_print=True,
+                  xml_declaration=True,
+                  encoding="UTF-8",
+                  doctype='<!DOCTYPE tv SYSTEM "xmltv.dtd">'
+              )
+
+              print(f"Merged file saved to {out_file}")
+          EOF
