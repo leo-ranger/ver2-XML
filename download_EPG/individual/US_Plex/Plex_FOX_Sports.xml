@@ -5,7 +5,33 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/b6bea985-9665-4dca-8ce4-2a8f79c7863c/FXSportsWhite.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250707000000 +0000" stop="20250707003000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708010000 +0000" stop="20250708013000 +0000">
+    <title>MLB Epic Moments</title>
+    <sub-title>A Panda Strikes</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>In-depth look at incredible moments in baseball that built careers, reputations and myths.</desc>
+    <date>20141212</date>
+    <icon src="http://tmsimg.com/assets/p10817344_b_h8_ad.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708013000 +0000" stop="20250708020000 +0000">
+    <title>Breakfast Ball</title>
+    <sub-title>Breakfast Ball</sub-title>
+    <episode-num system="onscreen">S01E128</episode-num>
+    <desc>Craig Carton, Mark Schlereth and Danny Parkins tackle sports stories each weekday.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p28124178_b_h8_ab.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708020000 +0000" stop="20250708023000 +0000">
+    <title>MLB Postseason Top 10 Moments 2024</title>
+    <category>Movie</category>
+    <desc>We relive Top 10 most memorable moments from the MLB postseason.</desc>
+    <date>20250318</date>
+    <icon src="http://tmsimg.com/assets/p29357228_b_v12_aa.jpg?w=1920&amp;h=2880" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708023000 +0000" stop="20250708030000 +0000">
     <title>NASCAR Race Classic</title>
     <sub-title>The 1987 Winston 500</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -14,216 +40,388 @@
     <icon src="http://tmsimg.com/assets/p12473753_b_h10_ab.jpg?w=1920&amp;h=1080" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250707003000 +0000" stop="20250707010000 +0000">
-    <title>NASCAR Presents</title>
-    <sub-title>The Adventures of Janet Guthrie</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Stories of the first woman to qualify and compete in both the Indianapolis 500 and the Daytona 500.</desc>
-    <date>20190215</date>
-    <icon src="http://tmsimg.com/assets/p16405148_b_h8_ab.jpg?w=3840&amp;h=2160" />
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708030000 +0000" stop="20250708033000 +0000">
+    <title>First Things First</title>
+    <sub-title>First Things First</sub-title>
+    <episode-num system="onscreen">S01E121</episode-num>
+    <desc>Nick Wright, Chris Broussard and Kevin Wildes offer their opinions on the day's sports stories.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p14451555_b_h8_ag.jpg?w=3840&amp;h=2160" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250707010000 +0000" stop="20250707020000 +0000">
-    <title>If You Build It: 30 Years of Field of Dreams</title>
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708033000 +0000" stop="20250708040000 +0000">
+    <title>Speak</title>
+    <sub-title>Speak</sub-title>
+    <episode-num system="onscreen">S01E123</episode-num>
+    <desc>Joy Taylor, Keyshawn Johnson and Paul Pierce discuss the biggest sports topics of the day.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p22881421_b_h8_af.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708040000 +0000" stop="20250708043000 +0000">
+    <title>Breakfast Ball</title>
+    <sub-title>Breakfast Ball</sub-title>
+    <episode-num system="onscreen">S01E128</episode-num>
+    <desc>Craig Carton, Mark Schlereth and Danny Parkins tackle sports stories each weekday.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p28124178_b_h8_ab.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708043000 +0000" stop="20250708050000 +0000">
+    <title>First Things First</title>
+    <sub-title>First Things First</sub-title>
+    <episode-num system="onscreen">S01E121</episode-num>
+    <desc>Nick Wright, Chris Broussard and Kevin Wildes offer their opinions on the day's sports stories.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p14451555_b_h8_ag.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708050000 +0000" stop="20250708053000 +0000">
+    <title>Speak</title>
+    <sub-title>Speak</sub-title>
+    <episode-num system="onscreen">S01E123</episode-num>
+    <desc>Joy Taylor, Keyshawn Johnson and Paul Pierce discuss the biggest sports topics of the day.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p22881421_b_h8_af.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708053000 +0000" stop="20250708060000 +0000">
+    <title>Breakfast Ball</title>
+    <sub-title>Breakfast Ball</sub-title>
+    <episode-num system="onscreen">S01E128</episode-num>
+    <desc>Craig Carton, Mark Schlereth and Danny Parkins tackle sports stories each weekday.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p28124178_b_h8_ab.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708060000 +0000" stop="20250708063000 +0000">
+    <title>First Things First</title>
+    <sub-title>First Things First</sub-title>
+    <episode-num system="onscreen">S01E121</episode-num>
+    <desc>Nick Wright, Chris Broussard and Kevin Wildes offer their opinions on the day's sports stories.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p14451555_b_h8_ag.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708063000 +0000" stop="20250708073000 +0000">
+    <title>The Great Brady Heist</title>
     <category>Movie</category>
-    <desc>Following the community of Dyersville, Iowa, since the 1989 release of "Field of Dreams."</desc>
-    <date>20210807</date>
-    <icon src="http://tmsimg.com/assets/p20162626_b_v11_ab.jpg?w=1280&amp;h=1920" />
+    <desc>Chronicling the disappearance of Tom Brady's jersey following Super Bowl LI.</desc>
+    <date>20200201</date>
+    <icon src="http://tmsimg.com/assets/p17800689_i_v12_ab.jpg?w=1920&amp;h=2880" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250707020000 +0000" stop="20250707030000 +0000">
-    <title>In the Blood</title>
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708073000 +0000" stop="20250708080000 +0000">
+    <title>Breakfast Ball</title>
+    <sub-title>Breakfast Ball</sub-title>
+    <episode-num system="onscreen">S01E128</episode-num>
+    <desc>Craig Carton, Mark Schlereth and Danny Parkins tackle sports stories each weekday.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p28124178_b_h8_ab.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708080000 +0000" stop="20250708083000 +0000">
+    <title>First Things First</title>
+    <sub-title>First Things First</sub-title>
+    <episode-num system="onscreen">S01E121</episode-num>
+    <desc>Nick Wright, Chris Broussard and Kevin Wildes offer their opinions on the day's sports stories.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p14451555_b_h8_ag.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708083000 +0000" stop="20250708090000 +0000">
+    <title>Speak</title>
+    <sub-title>Speak</sub-title>
+    <episode-num system="onscreen">S01E123</episode-num>
+    <desc>Joy Taylor, Keyshawn Johnson and Paul Pierce discuss the biggest sports topics of the day.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p22881421_b_h8_af.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708090000 +0000" stop="20250708093000 +0000">
+    <title>Breakfast Ball</title>
+    <sub-title>Breakfast Ball</sub-title>
+    <episode-num system="onscreen">S01E128</episode-num>
+    <desc>Craig Carton, Mark Schlereth and Danny Parkins tackle sports stories each weekday.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p28124178_b_h8_ab.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708093000 +0000" stop="20250708100000 +0000">
+    <title>First Things First</title>
+    <sub-title>First Things First</sub-title>
+    <episode-num system="onscreen">S01E121</episode-num>
+    <desc>Nick Wright, Chris Broussard and Kevin Wildes offer their opinions on the day's sports stories.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p14451555_b_h8_ag.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708100000 +0000" stop="20250708103000 +0000">
+    <title>Breakfast Ball</title>
+    <sub-title>Breakfast Ball</sub-title>
+    <episode-num system="onscreen">S01E128</episode-num>
+    <desc>Craig Carton, Mark Schlereth and Danny Parkins tackle sports stories each weekday.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p28124178_b_h8_ab.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708103000 +0000" stop="20250708110000 +0000">
+    <title>First Things First</title>
+    <sub-title>First Things First</sub-title>
+    <episode-num system="onscreen">S01E121</episode-num>
+    <desc>Nick Wright, Chris Broussard and Kevin Wildes offer their opinions on the day's sports stories.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p14451555_b_h8_ag.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708110000 +0000" stop="20250708113000 +0000">
+    <title>Speak</title>
+    <sub-title>Speak</sub-title>
+    <episode-num system="onscreen">S01E123</episode-num>
+    <desc>Joy Taylor, Keyshawn Johnson and Paul Pierce discuss the biggest sports topics of the day.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p22881421_b_h8_af.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708113000 +0000" stop="20250708120000 +0000">
+    <title>Breakfast Ball</title>
+    <sub-title>Breakfast Ball</sub-title>
+    <episode-num system="onscreen">S01E128</episode-num>
+    <desc>Craig Carton, Mark Schlereth and Danny Parkins tackle sports stories each weekday.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p28124178_b_h8_ab.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708120000 +0000" stop="20250708123000 +0000">
+    <title>First Things First</title>
+    <sub-title>First Things First</sub-title>
+    <episode-num system="onscreen">S01E121</episode-num>
+    <desc>Nick Wright, Chris Broussard and Kevin Wildes offer their opinions on the day's sports stories.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p14451555_b_h8_ag.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708123000 +0000" stop="20250708130000 +0000">
+    <title>Speak</title>
+    <sub-title>Speak</sub-title>
+    <episode-num system="onscreen">S01E123</episode-num>
+    <desc>Joy Taylor, Keyshawn Johnson and Paul Pierce discuss the biggest sports topics of the day.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p22881421_b_h8_af.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708130000 +0000" stop="20250708133000 +0000">
+    <title>Breakfast Ball</title>
+    <sub-title>Breakfast Ball</sub-title>
+    <episode-num system="onscreen">S01E128</episode-num>
+    <desc>Craig Carton, Mark Schlereth and Danny Parkins tackle sports stories each weekday.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p28124178_b_h8_ab.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708133000 +0000" stop="20250708140000 +0000">
+    <title>First Things First</title>
+    <sub-title>First Things First</sub-title>
+    <episode-num system="onscreen">S01E121</episode-num>
+    <desc>Nick Wright, Chris Broussard and Kevin Wildes offer their opinions on the day's sports stories.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p14451555_b_h8_ag.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708140000 +0000" stop="20250708143000 +0000">
+    <title>Speak</title>
+    <sub-title>Speak</sub-title>
+    <episode-num system="onscreen">S01E123</episode-num>
+    <desc>Joy Taylor, Keyshawn Johnson and Paul Pierce discuss the biggest sports topics of the day.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p22881421_b_h8_af.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708143000 +0000" stop="20250708150000 +0000">
+    <title>Breakfast Ball</title>
+    <sub-title>Breakfast Ball</sub-title>
+    <episode-num system="onscreen">S01E128</episode-num>
+    <desc>Craig Carton, Mark Schlereth and Danny Parkins tackle sports stories each weekday.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p28124178_b_h8_ab.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708150000 +0000" stop="20250708153000 +0000">
+    <title>First Things First</title>
+    <sub-title>First Things First</sub-title>
+    <episode-num system="onscreen">S01E121</episode-num>
+    <desc>Nick Wright, Chris Broussard and Kevin Wildes offer their opinions on the day's sports stories.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p14451555_b_h8_ag.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708153000 +0000" stop="20250708160000 +0000">
+    <title>Speak</title>
+    <sub-title>Speak</sub-title>
+    <episode-num system="onscreen">S01E123</episode-num>
+    <desc>Joy Taylor, Keyshawn Johnson and Paul Pierce discuss the biggest sports topics of the day.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p22881421_b_h8_af.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708160000 +0000" stop="20250708163000 +0000">
+    <title>Breakfast Ball</title>
+    <sub-title>Breakfast Ball</sub-title>
+    <episode-num system="onscreen">S01E128</episode-num>
+    <desc>Craig Carton, Mark Schlereth and Danny Parkins tackle sports stories each weekday.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p28124178_b_h8_ab.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708163000 +0000" stop="20250708170000 +0000">
+    <title>First Things First</title>
+    <sub-title>First Things First</sub-title>
+    <episode-num system="onscreen">S01E121</episode-num>
+    <desc>Nick Wright, Chris Broussard and Kevin Wildes offer their opinions on the day's sports stories.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p14451555_b_h8_ag.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708170000 +0000" stop="20250708173000 +0000">
+    <title>Speak</title>
+    <sub-title>Speak</sub-title>
+    <episode-num system="onscreen">S01E123</episode-num>
+    <desc>Joy Taylor, Keyshawn Johnson and Paul Pierce discuss the biggest sports topics of the day.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p22881421_b_h8_af.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708173000 +0000" stop="20250708180000 +0000">
+    <title>Breakfast Ball</title>
+    <sub-title>Breakfast Ball</sub-title>
+    <episode-num system="onscreen">S01E128</episode-num>
+    <desc>Craig Carton, Mark Schlereth and Danny Parkins tackle sports stories each weekday.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p28124178_b_h8_ab.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708180000 +0000" stop="20250708183000 +0000">
+    <title>First Things First</title>
+    <sub-title>First Things First</sub-title>
+    <episode-num system="onscreen">S01E121</episode-num>
+    <desc>Nick Wright, Chris Broussard and Kevin Wildes offer their opinions on the day's sports stories.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p14451555_b_h8_ag.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708183000 +0000" stop="20250708190000 +0000">
+    <title>Speak</title>
+    <sub-title>Speak</sub-title>
+    <episode-num system="onscreen">S01E123</episode-num>
+    <desc>Joy Taylor, Keyshawn Johnson and Paul Pierce discuss the biggest sports topics of the day.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p22881421_b_h8_af.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708190000 +0000" stop="20250708193000 +0000">
+    <title>Breakfast Ball</title>
+    <sub-title>Breakfast Ball</sub-title>
+    <episode-num system="onscreen">S01E128</episode-num>
+    <desc>Craig Carton, Mark Schlereth and Danny Parkins tackle sports stories each weekday.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p28124178_b_h8_ab.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708193000 +0000" stop="20250708200000 +0000">
+    <title>First Things First</title>
+    <sub-title>First Things First</sub-title>
+    <episode-num system="onscreen">S01E121</episode-num>
+    <desc>Nick Wright, Chris Broussard and Kevin Wildes offer their opinions on the day's sports stories.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p14451555_b_h8_ag.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708200000 +0000" stop="20250708203000 +0000">
+    <title>Speak</title>
+    <sub-title>Speak</sub-title>
+    <episode-num system="onscreen">S01E123</episode-num>
+    <desc>Joy Taylor, Keyshawn Johnson and Paul Pierce discuss the biggest sports topics of the day.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p22881421_b_h8_af.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708203000 +0000" stop="20250708210000 +0000">
+    <title>Breakfast Ball</title>
+    <sub-title>Breakfast Ball</sub-title>
+    <episode-num system="onscreen">S01E128</episode-num>
+    <desc>Craig Carton, Mark Schlereth and Danny Parkins tackle sports stories each weekday.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p28124178_b_h8_ab.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708210000 +0000" stop="20250708213000 +0000">
+    <title>First Things First</title>
+    <sub-title>First Things First</sub-title>
+    <episode-num system="onscreen">S01E121</episode-num>
+    <desc>Nick Wright, Chris Broussard and Kevin Wildes offer their opinions on the day's sports stories.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p14451555_b_h8_ag.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708213000 +0000" stop="20250708220000 +0000">
+    <title>Speak</title>
+    <sub-title>Speak</sub-title>
+    <episode-num system="onscreen">S01E123</episode-num>
+    <desc>Joy Taylor, Keyshawn Johnson and Paul Pierce discuss the biggest sports topics of the day.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p22881421_b_h8_af.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708220000 +0000" stop="20250708223000 +0000">
+    <title>Breakfast Ball</title>
+    <sub-title>Breakfast Ball</sub-title>
+    <episode-num system="onscreen">S01E128</episode-num>
+    <desc>Craig Carton, Mark Schlereth and Danny Parkins tackle sports stories each weekday.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p28124178_b_h8_ab.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708223000 +0000" stop="20250708230000 +0000">
+    <title>First Things First</title>
+    <sub-title>First Things First</sub-title>
+    <episode-num system="onscreen">S01E121</episode-num>
+    <desc>Nick Wright, Chris Broussard and Kevin Wildes offer their opinions on the day's sports stories.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p14451555_b_h8_ag.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708230000 +0000" stop="20250708233000 +0000">
+    <title>Speak</title>
+    <sub-title>Speak</sub-title>
+    <episode-num system="onscreen">S01E123</episode-num>
+    <desc>Joy Taylor, Keyshawn Johnson and Paul Pierce discuss the biggest sports topics of the day.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p22881421_b_h8_af.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708233000 +0000" stop="20250709000000 +0000">
+    <title>Breakfast Ball</title>
+    <sub-title>Breakfast Ball</sub-title>
+    <episode-num system="onscreen">S01E128</episode-num>
+    <desc>Craig Carton, Mark Schlereth and Danny Parkins tackle sports stories each weekday.</desc>
+    <date>20250707</date>
+    <icon src="http://tmsimg.com/assets/p28124178_b_h8_ab.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250709000000 +0000" stop="20250709010000 +0000">
+    <title>Walkoff Stories: Improbably Gibson</title>
     <category>Movie</category>
-    <desc>Triumphs of a lower division soccer team in Brentford, England.</desc>
-    <date>20110223</date>
-    <icon src="http://tmsimg.com/assets/p8550196_i_v12_aa.jpg?w=1920&amp;h=2880" />
+    <desc>A retrospective of Kirk Gibson's historic home run in Game 1 of the 1988 World Series.</desc>
+    <date>20181005</date>
+    <icon src="http://tmsimg.com/assets/p15985143_i_v11_aa.jpg?w=1280&amp;h=1920" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250707030000 +0000" stop="20250707040000 +0000">
-    <title>Set Apart: The Jim Abbott Story</title>
+<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250709010000 +0000" stop="20250709013000 +0000">
+    <title>MLB Postseason Top 10 Moments 2023</title>
     <category>Movie</category>
-    <desc>A look back at the inspiring life story of Jim Abbott, a pitcher born without a right hand.</desc>
-    <date>20181014</date>
-    <icon src="http://tmsimg.com/assets/p15854620_b_v12_aa.jpg?w=1920&amp;h=2880" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250707040000 +0000" stop="20250707053000 +0000">
-    <title>Magnify Presents: Shot in the Dark</title>
-    <category>Movie</category>
-    <desc>Tyquone's a teenage basketball star, but beyond a championship he wants to see the world.</desc>
-    <date>20220204</date>
-    <icon src="http://tmsimg.com/assets/p21565003_b_v8_aa.jpg?w=960&amp;h=1440" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250707053000 +0000" stop="20250707063000 +0000">
-    <title>In the Blood</title>
-    <category>Movie</category>
-    <desc>Triumphs of a lower division soccer team in Brentford, England.</desc>
-    <date>20110223</date>
-    <icon src="http://tmsimg.com/assets/p8550196_i_v12_aa.jpg?w=1920&amp;h=2880" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250707063000 +0000" stop="20250707070000 +0000">
-    <title>NASCAR Race Classic</title>
-    <sub-title>The 1987 Winston 500</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Condensed version of the 1987 Winston 500 with facts and trivia about the race and pop culture.</desc>
-    <date>20170505</date>
-    <icon src="http://tmsimg.com/assets/p12473753_b_h10_ab.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250707070000 +0000" stop="20250707073000 +0000">
-    <title>NASCAR Presents</title>
-    <sub-title>The Adventures of Janet Guthrie</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Stories of the first woman to qualify and compete in both the Indianapolis 500 and the Daytona 500.</desc>
-    <date>20190215</date>
-    <icon src="http://tmsimg.com/assets/p16405148_b_h8_ab.jpg?w=3840&amp;h=2160" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250707073000 +0000" stop="20250707083000 +0000">
-    <title>If You Build It: 30 Years of Field of Dreams</title>
-    <category>Movie</category>
-    <desc>Following the community of Dyersville, Iowa, since the 1989 release of "Field of Dreams."</desc>
-    <date>20210807</date>
-    <icon src="http://tmsimg.com/assets/p20162626_b_v11_ab.jpg?w=1280&amp;h=1920" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250707083000 +0000" stop="20250707093000 +0000">
-    <title>Set Apart: The Jim Abbott Story</title>
-    <category>Movie</category>
-    <desc>A look back at the inspiring life story of Jim Abbott, a pitcher born without a right hand.</desc>
-    <date>20181014</date>
-    <icon src="http://tmsimg.com/assets/p15854620_b_v12_aa.jpg?w=1920&amp;h=2880" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250707093000 +0000" stop="20250707100000 +0000">
-    <title>NASCAR Race Classic</title>
-    <sub-title>The 1987 Winston 500</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Condensed version of the 1987 Winston 500 with facts and trivia about the race and pop culture.</desc>
-    <date>20170505</date>
-    <icon src="http://tmsimg.com/assets/p12473753_b_h10_ab.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250707100000 +0000" stop="20250707110000 +0000">
-    <title>So Damn Close: Atlanta '24</title>
-    <category>Movie</category>
-    <desc>Daniel Suárez, Ryan Blaney and Kyle Busch revisit the closest three-way finish in NASCAR history.</desc>
-    <date>20250213</date>
-    <icon src="http://tmsimg.com/assets/p29113794_b_v12_aa.jpg?w=1920&amp;h=2880" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250707110000 +0000" stop="20250707120000 +0000">
-    <title>Set Apart: The Jim Abbott Story</title>
-    <category>Movie</category>
-    <desc>A look back at the inspiring life story of Jim Abbott, a pitcher born without a right hand.</desc>
-    <date>20181014</date>
-    <icon src="http://tmsimg.com/assets/p15854620_b_v12_aa.jpg?w=1920&amp;h=2880" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250707120000 +0000" stop="20250707130000 +0000">
-    <title>In the Blood</title>
-    <category>Movie</category>
-    <desc>Triumphs of a lower division soccer team in Brentford, England.</desc>
-    <date>20110223</date>
-    <icon src="http://tmsimg.com/assets/p8550196_i_v12_aa.jpg?w=1920&amp;h=2880" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250707130000 +0000" stop="20250707140000 +0000">
-    <title>So Damn Close: Atlanta '24</title>
-    <category>Movie</category>
-    <desc>Daniel Suárez, Ryan Blaney and Kyle Busch revisit the closest three-way finish in NASCAR history.</desc>
-    <date>20250213</date>
-    <icon src="http://tmsimg.com/assets/p29113794_b_v12_aa.jpg?w=1920&amp;h=2880" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250707140000 +0000" stop="20250707150000 +0000">
-    <title>Set Apart: The Jim Abbott Story</title>
-    <category>Movie</category>
-    <desc>A look back at the inspiring life story of Jim Abbott, a pitcher born without a right hand.</desc>
-    <date>20181014</date>
-    <icon src="http://tmsimg.com/assets/p15854620_b_v12_aa.jpg?w=1920&amp;h=2880" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250707150000 +0000" stop="20250707160000 +0000">
-    <title>In the Blood</title>
-    <category>Movie</category>
-    <desc>Triumphs of a lower division soccer team in Brentford, England.</desc>
-    <date>20110223</date>
-    <icon src="http://tmsimg.com/assets/p8550196_i_v12_aa.jpg?w=1920&amp;h=2880" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250707160000 +0000" stop="20250707170000 +0000">
-    <title>So Damn Close: Atlanta '24</title>
-    <category>Movie</category>
-    <desc>Daniel Suárez, Ryan Blaney and Kyle Busch revisit the closest three-way finish in NASCAR history.</desc>
-    <date>20250213</date>
-    <icon src="http://tmsimg.com/assets/p29113794_b_v12_aa.jpg?w=1920&amp;h=2880" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250707170000 +0000" stop="20250707180000 +0000">
-    <title>Set Apart: The Jim Abbott Story</title>
-    <category>Movie</category>
-    <desc>A look back at the inspiring life story of Jim Abbott, a pitcher born without a right hand.</desc>
-    <date>20181014</date>
-    <icon src="http://tmsimg.com/assets/p15854620_b_v12_aa.jpg?w=1920&amp;h=2880" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250707180000 +0000" stop="20250707190000 +0000">
-    <title>In the Blood</title>
-    <category>Movie</category>
-    <desc>Triumphs of a lower division soccer team in Brentford, England.</desc>
-    <date>20110223</date>
-    <icon src="http://tmsimg.com/assets/p8550196_i_v12_aa.jpg?w=1920&amp;h=2880" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250707190000 +0000" stop="20250707200000 +0000">
-    <title>So Damn Close: Atlanta '24</title>
-    <category>Movie</category>
-    <desc>Daniel Suárez, Ryan Blaney and Kyle Busch revisit the closest three-way finish in NASCAR history.</desc>
-    <date>20250213</date>
-    <icon src="http://tmsimg.com/assets/p29113794_b_v12_aa.jpg?w=1920&amp;h=2880" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250707200000 +0000" stop="20250707210000 +0000">
-    <title>Set Apart: The Jim Abbott Story</title>
-    <category>Movie</category>
-    <desc>A look back at the inspiring life story of Jim Abbott, a pitcher born without a right hand.</desc>
-    <date>20181014</date>
-    <icon src="http://tmsimg.com/assets/p15854620_b_v12_aa.jpg?w=1920&amp;h=2880" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250707210000 +0000" stop="20250707220000 +0000">
-    <title>In the Blood</title>
-    <category>Movie</category>
-    <desc>Triumphs of a lower division soccer team in Brentford, England.</desc>
-    <date>20110223</date>
-    <icon src="http://tmsimg.com/assets/p8550196_i_v12_aa.jpg?w=1920&amp;h=2880" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250707220000 +0000" stop="20250707230000 +0000">
-    <title>So Damn Close: Atlanta '24</title>
-    <category>Movie</category>
-    <desc>Daniel Suárez, Ryan Blaney and Kyle Busch revisit the closest three-way finish in NASCAR history.</desc>
-    <date>20250213</date>
-    <icon src="http://tmsimg.com/assets/p29113794_b_v12_aa.jpg?w=1920&amp;h=2880" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250707230000 +0000" stop="20250708000000 +0000">
-    <title>Set Apart: The Jim Abbott Story</title>
-    <category>Movie</category>
-    <desc>A look back at the inspiring life story of Jim Abbott, a pitcher born without a right hand.</desc>
-    <date>20181014</date>
-    <icon src="http://tmsimg.com/assets/p15854620_b_v12_aa.jpg?w=1920&amp;h=2880" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" start="20250708000000 +0000" stop="20250708010000 +0000">
-    <title>Tua</title>
-    <category>Movie</category>
-    <desc>Tua Tagovailoa embarks on a journey that began from a childhood family prophecy.</desc>
-    <date>20200816</date>
-    <icon src="http://tmsimg.com/assets/p18581417_b_v12_ab.jpg?w=1920&amp;h=2880" />
+    <desc>We relive the Top 10 most memorable moments from the 2023 MLB postseason.</desc>
+    <date>20240319</date>
+    <icon src="http://tmsimg.com/assets/p26758508_b_v12_aa.jpg?w=1920&amp;h=2880" />
   </programme>
   
 </tv>

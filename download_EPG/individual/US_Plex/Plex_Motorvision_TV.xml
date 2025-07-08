@@ -5,272 +5,94 @@
     <icon src="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707001020 +0000" stop="20250707004411 +0000">
-    <title>Motorstories</title>
-    <sub-title>Mercedes 280 SE goes America - New York</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708011054 +0000" stop="20250708014314 +0000">
+    <title>Classic Ride</title>
+    <sub-title>Iconic Racing Classics</sub-title>
+    <episode-num system="onscreen">S01E29</episode-num>
+    <desc>Cars like the Ford GT 40, the Jaguar D-Type or the Mercedes 300 SL wrote history on the race track and now break records at auctions. A sumptuously restored 300 SL will start at the most famous classic car rally in the world, the Mille Miglia.</desc>
+    <date>20140916</date>
+    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/104.078_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708014314 +0000" stop="20250708015351 +0000">
+    <title>Audi Quattro</title>
+    <category>Movie</category>
+    <desc>Advantage through Technology on rally tracks. The Audi Quattro shocks opponents.</desc>
+    <date>20240327</date>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708015351 +0000" stop="20250708020000 +0000">
+    <title>Ford GT40</title>
+    <category>Movie</category>
+    <desc>With their V8 cars, Ford showed that they were able to build race winners. The Ford GT40 was a prime example for that, especially in Le Mans.</desc>
+    <date>20240327</date>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708020000 +0000" stop="20250708022549 +0000">
+    <title>Streetwise</title>
+    <sub-title>Ferrari 458 Italia</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>We took the Ferrari 458 Italia for a spring ride around Lake Starnberg. Also: a test drive of BMW's 6 series convertible at the Table Mountain in South Africa. And: the Chevrolet Orlando family van.</desc>
+    <date>20240327</date>
+    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/001.057.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708022549 +0000" stop="20250708025544 +0000">
+    <title>Streetwise</title>
+    <sub-title>Audi R8 GT</sub-title>
     <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Tillmann starts his dream journey in New York, the city that never sleeps. With his Mercedes 280 SE convertible he visits the legendary classic car dealer Eliot Cuker who made his fortune with his passion for old cars.</desc>
-    <date>20150725</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/125.009.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707004411 +0000" stop="20250707005344 +0000">
-    <title>Arden AJ23</title>
-    <category>Movie</category>
-    <desc>A Jaguar that is able to terrify the world alone with its roar. This Jaguar F-Type R tuned by Arden is a real bad boy. Already in the series production configuration, the F-Type R Coupe is a dream car that can really bite but this Jaguar which has been upgraded from Arden, now calls itself "AJ23“ and is more powerful, louder and more aggressive than any of his brothers.</desc>
+    <desc>Audi built only 333 units of its GT model. We tested the everyday use compatibility of the R8 GT. In addition: the Mazda MX5, the most popular roadster in the world. And: the Mercedes-AMG GT3.</desc>
     <date>20240327</date>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
+    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/001.058.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707005344 +0000" stop="20250707010000 +0000">
-    <title>Jaguar XJR</title>
-    <category>Movie</category>
-    <desc>The highlight of the XJR lies beneath the hood: all of Jaguar's top models are equipped with the 5-liter V8 compressor engine that delivers 550 HP in this sports sedan.</desc>
-    <date>20240327</date>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707010000 +0000" stop="20250707013037 +0000">
-    <title>4x4</title>
-    <sub-title>Extraordinary SUVs</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>The Mitsubishi Outlander Plug-In Hybrid, the world's first hybrid SUV with two electric motors and a 2-liter combustion engine. Also: the Chevrolet Silverado, an American full-size pickup with a V8 and an average consumption of at least 15 liters.</desc>
-    <date>20130702</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/210.019_16x9_0.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707013037 +0000" stop="20250707020348 +0000">
-    <title>4x4</title>
-    <sub-title>SUV Concepts</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>The Bentley EXP 9F and Jaguar C-X17 are concept cars the two manufacturers presented before they started making their own luxury SUVs. Also: how did Toyota, Nissan or Subaru see the future of the SUV? And: Mercedes-Benz' Unimog concept car.</desc>
-    <date>20130730</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/210.021_16x9_0.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707020348 +0000" stop="20250707023501 +0000">
-    <title>4x4</title>
-    <sub-title>Normal vs. Lifestyle SUVs</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>The SUVs Nissan X-Trail and BMW X4 aren't typical offroaders. We witnessed the presentation of the new X-Trail model and BMW's premiere of their X4. Also: the Steinbeißer Trophy, where unusual offroad vehicles take part in a demanding rally.</desc>
-    <date>20130813</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/210.022_16x9_0.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707023501 +0000" stop="20250707024447 +0000">
-    <title>BMW M3</title>
-    <category>Movie</category>
-    <desc>In the late 80s BMW brought a car onto the market which carried true racing genes. Initially conceived as a homologation model for the German Touring Car Championship, it developed into being one of the world's hottest street sports car. Whenever its name is mentioned, car fans feel goosebumps - even today: the BMW M3.</desc>
-    <date>20240327</date>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707024447 +0000" stop="20250707025338 +0000">
-    <title>Bentley Bentayga</title>
-    <category>Movie</category>
-    <desc>With the Bentley Bentayga, the traditional British brand is entering the fastest growing market segment. This world's first luxury SUV is a conglomerate of superlatives on wheels.</desc>
-    <date>20240327</date>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707025338 +0000" stop="20250707030100 +0000">
-    <title>Volvo XC60</title>
-    <category>Movie</category>
-    <desc>The Swedish landscape is characterized by mountains, forests and lonely roads. Ideal for this off-roader. The Volvo XC60 scores with many safety features and a cool appearance.</desc>
-    <date>20240327</date>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707030100 +0000" stop="20250707033217 +0000">
-    <title>Stunt Heroes</title>
-    <category>Movie</category>
-    <desc>This episode features Action Concept's stunt highlights from all previous specials, from exciting car stunts to meticulously choreographed fight scenes and even some snowmobile shootout action.</desc>
-    <date>20120915</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/show/thumbnails/poster/2000x2858/put_your_car_on_tv_7-10.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707033217 +0000" stop="20250707040159 +0000">
-    <title>Stunt Heroes</title>
-    <sub-title>Trailerstunt</sub-title>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <desc>This time, an industrial site is the scene for the stunt extravaganza. The Stunt Heroes' objective: jump through a truck trailer with a car. As usual with such risky car stunts, careful planning, preparation, timing and precision are of the essence.</desc>
-    <date>20130406</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/070.018.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707040159 +0000" stop="20250707043124 +0000">
-    <title>Stunt Heroes</title>
-    <sub-title>Gravel Pit</sub-title>
-    <episode-num system="onscreen">S02E07</episode-num>
-    <desc>In a race between a dump truck and a car, man and machine are brought to their limits. Stuntman Stefan receives a load of gravel for his birthday, instead of confetti.</desc>
-    <date>20130413</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/070.019.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707043124 +0000" stop="20250707044309 +0000">
-    <title>Audi MTM S8 Talladega R</title>
-    <category>Movie</category>
-    <desc>The Audi S8 Plus is by no means underpowered, but it is and remains faithful to this model series' understatement. Those who want more power can get a boost from MTM.</desc>
-    <date>20240327</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/poster/2000x2858/mtm_audi_s8_talladega_7x10.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707044309 +0000" stop="20250707045504 +0000">
-    <title>Ferrari California T</title>
-    <category>Movie</category>
-    <desc>The Ferrari California T has a lot of Italian passion and elegant lines to offer. Super sports car cabriolets are popular all over the world. It is no wonder that more and more manufacturers are 'opening up'.</desc>
-    <date>20240327</date>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707045504 +0000" stop="20250707050000 +0000">
-    <title>BMW Active Hybrid 7</title>
-    <category>Movie</category>
-    <desc>With the Active Hybrid 7, unlike with its predecessor bearing the same model name, BMW now banks on a full hybrid, which can also be driven solely with electric power.</desc>
-    <date>20240327</date>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707050000 +0000" stop="20250707053043 +0000">
-    <title>Biker Lifestyle</title>
-    <sub-title>European Bike Week 2011, Part 1</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Lake Faaker is both a popular holiday spot in Austria and also a place with a special tradition. In early September, the region is the destination for thousands of bikers who celebrate their big annual event, the European Bike Week. (Part 1 of 5)</desc>
-    <date>20240327</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/Biker_Lifestyle_56.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707053043 +0000" stop="20250707055829 +0000">
-    <title>Biker Lifestyle</title>
-    <sub-title>European Bike Week 2011, Part 2</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708025544 +0000" stop="20250708032543 +0000">
+    <title>Streetwise</title>
+    <sub-title>Audi A6 2.0 TDI</sub-title>
     <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Lake Faaker is both a popular holiday spot in Austria and also a place with a special tradition. In early September, the region is the destination for thousands of bikers who celebrate their big annual event, the European Bike Week. (Part 2 of 5)</desc>
+    <desc>More efficiency, less weight and more sportiness is what Audi promotes in order to win the race against BMW and Mercedes with their A6 2.0 TDI. Also: Patrick Dempsey and his racing team at the Grand Am Rolex Sportscar GT series.</desc>
     <date>20240327</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/Biker_Lifestyle_57.jpg" />
+    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/001.059.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707055829 +0000" stop="20250707063004 +0000">
-    <title>Biker Lifestyle</title>
-    <sub-title>European Bike Week 2011, Part 3</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708032543 +0000" stop="20250708035728 +0000">
+    <title>Streetwise</title>
+    <sub-title>Wiesmann MF5</sub-title>
     <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Lake Faaker is both a popular holiday spot in Austria and also a place with a special tradition. In early September, the region is the destination for thousands of bikers who celebrate their big annual event, the European Bike Week. (Part 3 of 5)</desc>
+    <desc>We put the Wiesmann MF5 at the racetrack in Spa-Francochamps in the Belgian Ardennes to the test. Also: Audi A1 vs. Mini Cooper RS. And: the GT Academy 2011 qualifying rounds.</desc>
     <date>20240327</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/Biker_Lifestyle_58.jpg" />
+    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/001.060.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707063004 +0000" stop="20250707070036 +0000">
-    <title>Biker Lifestyle</title>
-    <sub-title>European Bike Week 2011, Part 4</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Lake Faaker is both a popular holiday spot in Austria and also a place with a special tradition. In early September, the region is the destination for thousands of bikers who celebrate their big annual event, the European Bike Week. (Part 4 of 5)</desc>
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708035728 +0000" stop="20250708042813 +0000">
+    <title>Streetwise</title>
+    <sub-title>Nurburgring 24 Hours</sub-title>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <desc>The Nurburgring 24 Hours is considered the most difficult long distance race in motor sports. Volkswagen set themselves this challenge with a  car built especially for this occasion, their Golf 24.</desc>
     <date>20240327</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/Biker_Lifestyle_59.jpg" />
+    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/001.063.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707070036 +0000" stop="20250707073044 +0000">
-    <title>Biker Lifestyle</title>
-    <sub-title>2011 European Bike Week, Part 5</sub-title>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <desc>Lake Faaker is both a popular holiday spot in Austria and also a place with a special tradition. In early September, the region is the destination for thousands of bikers who celebrate their big annual event, the European Bike Week. (Part 5 of 5)</desc>
-    <date>20240327</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/Biker_Lifestyle_60.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707073044 +0000" stop="20250707074210 +0000">
-    <title>Harley-Davidson Trio</title>
-    <category>Movie</category>
-    <desc>We took a look at three very different Harley-Davidson models. The versatile Switchback Dyna, the motorized wheelie bike Sportster 72, and the bad-boy motorcycle Softail Slim.</desc>
-    <date>20240327</date>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707074210 +0000" stop="20250707075228 +0000">
-    <title>KTM 990 Adventure</title>
-    <category>Movie</category>
-    <desc>It's very big and mostly comes in orange: the KTM 990 Adventure. Over rough terrain it's often driven standing up. Today, the 990 is considered the off-road specialist among travel Enduros.</desc>
-    <date>20240327</date>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707075228 +0000" stop="20250707080000 +0000">
-    <title>Facel Vega Facellia</title>
-    <category>Movie</category>
-    <desc>In the late 1950s, the Facel Vega Facellia was designed to compete with Porsche and Alfa Romeo and open a new market segment for the fledgling French luxury car company.</desc>
-    <date>20240327</date>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707080000 +0000" stop="20250707083046 +0000">
-    <title>Tuning</title>
-    <sub-title>Essen Motor Show</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>At the Essen Motor Show over 500 exhibitors present the latest highlights from the car tuning scene. Everything can be found here, from accessories available to everyone to handmade sports cars and top class tuning.</desc>
-    <date>20240327</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/Tuning_78.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707083046 +0000" stop="20250707085835 +0000">
-    <title>Tuning</title>
-    <sub-title>BMW Art Car</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Abt Sportsline stands for car tuning at the highest level. Abt's slogan isn't 'from the race track to the road ' for nothing. Also: the Rohte VW Golf R20. And: the BMW Art Car.</desc>
-    <date>20240327</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/bmw_art_car_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707085835 +0000" stop="20250707092550 +0000">
-    <title>Tuning</title>
-    <sub-title>Brabus</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>We visited Brabus, the largest independent automobile tuner where you can find more than 9,000 HP in one place. Also: MTM's Audi RS6 Clubsport.</desc>
-    <date>20240327</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/Tuning_80.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707092550 +0000" stop="20250707095258 +0000">
-    <title>Tuning</title>
-    <sub-title>TH Automobile</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>The Berlin-based company TH Automobiles equips Volkswagen vans with Porsche engines, turning a T5 into one of the most dynamic large saloon cars in the world.</desc>
-    <date>20240327</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/Tuning_81.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707095258 +0000" stop="20250707101728 +0000">
-    <title>Tuning</title>
-    <sub-title>Red Gold Dream</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>The Conti Tuning Day is themed "Power Sedans" and we take a closer look at the cars on display. Plus: Swiss eccentric Ueli Anliker has built the most expensive Mercedes-AMG SLR in the world, the "Red Gold Dream".</desc>
-    <date>20240327</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/Tuning_86.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707101728 +0000" stop="20250707104313 +0000">
-    <title>Tuning</title>
-    <sub-title>Gemballa</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708042813 +0000" stop="20250708045514 +0000">
+    <title>Streetwise</title>
+    <sub-title>Mercedes-Benz SL 65 AMG</sub-title>
     <episode-num system="onscreen">S01E15</episode-num>
-    <desc>Gemballa specialises in refining Porsche models, but its portfolio also includes brands such as Ferrari. And: the car tuning company Irmscher turns the Chevrolet Camaro into the 'Irmscher Camaro i42'.</desc>
+    <desc>The Mercedes-Benz SL 65 AMG is the ultimate German muscle car in a tailor-made suit. Also: the Mercedes-Benz SLS AMG, the Formula 1 safety car. And: BMW's 6 series models.</desc>
     <date>20240327</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/006.091.jpg" />
+    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/001.064.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707104313 +0000" stop="20250707105327 +0000">
-    <title>Porsche 550 RS Spyder</title>
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708045514 +0000" stop="20250708050100 +0000">
+    <title>Jaguar D-Type</title>
     <category>Movie</category>
-    <desc>Small, lightweight, agile and swift as an arrow. Historic image documents of the Porsche 550 RS Spyder.</desc>
+    <desc>The high-achiever at the 24 hours of Le Mans. The Jaguar D-Type won the toughest endurance race in the world three times in a row.</desc>
     <date>20240327</date>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707105327 +0000" stop="20250707110100 +0000">
-    <title>BMW 750i xDrive</title>
-    <category>Movie</category>
-    <desc>The BMW 750i is the second most powerful car in the 7 series. It may be mercilessly overpowered for the daily commute to work, but thanks to this power the two-ton vehicle doesn't feel as heavy as it actually is.</desc>
-    <date>20240327</date>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707110100 +0000" stop="20250707113054 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708050100 +0000" stop="20250708053054 +0000">
     <title>Supercars</title>
     <sub-title>Open-top Top Dog</sub-title>
     <episode-num system="onscreen">S02E01</episode-num>
@@ -279,7 +101,7 @@
     <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/D_007.119.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707113054 +0000" stop="20250707120252 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708053054 +0000" stop="20250708060252 +0000">
     <title>Supercars</title>
     <sub-title>On Patrol with the Dubai Police</sub-title>
     <episode-num system="onscreen">S02E02</episode-num>
@@ -288,7 +110,7 @@
     <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/D_007.121.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707120252 +0000" stop="20250707123055 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708060252 +0000" stop="20250708063055 +0000">
     <title>Supercars</title>
     <sub-title>The Power of Aerodynamics</sub-title>
     <episode-num system="onscreen">S02E03</episode-num>
@@ -297,7 +119,7 @@
     <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/D_007.122.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707123055 +0000" stop="20250707124538 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708063055 +0000" stop="20250708064538 +0000">
     <title>Audi R8 V10 plus</title>
     <category>Movie</category>
     <desc>The second generation of the Audi R8. V10 naturally aspirated engine, up to 610 horsepower and 330 kilometers an hour. A supercar with a lot of character.</desc>
@@ -305,7 +127,7 @@
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707124538 +0000" stop="20250707125554 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708064538 +0000" stop="20250708065554 +0000">
     <title>Audi RS7 Sportback Performance</title>
     <category>Movie</category>
     <desc>The Audi RS7 Sportback performance is the spearhead of the Audi 7 series with the acceleration values of a super sports car. But it cannot play to its strengths in hectic urban traffic.</desc>
@@ -313,7 +135,7 @@
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707125554 +0000" stop="20250707130000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708065554 +0000" stop="20250708070000 +0000">
     <title>Volvo Laplander 6x6</title>
     <category>Movie</category>
     <desc>More extremes are always possible. Volvo's Laplander army vehicle has 6 wheels, 3 axles and provides space for at least 12 soldiers.</desc>
@@ -321,183 +143,131 @@
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707130000 +0000" stop="20250707133316 +0000">
-    <title>Trackmasters</title>
-    <sub-title>Episode 05</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>The Nürburgring is the place where you can really let your hair down on a spectacular and difficult race track and learn how to get fit for motor sports. This is the reason why motoring enthusiasts go there throughout the year.</desc>
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708070000 +0000" stop="20250708072942 +0000">
+    <title>Going Pro</title>
+    <sub-title>Bittersweet Feeling</sub-title>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <desc>A racing team isn't just about driving; it also navigates the uncertainties and pressures of securing crucial sponsorship and financial backing necessary for continued participation in the championship.</desc>
+    <date>20240708</date>
+    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/goingpro_s02e07_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708072942 +0000" stop="20250708075918 +0000">
+    <title>Going Pro</title>
+    <sub-title>The Last Dance</sub-title>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <desc>In the season finale at Hockenheim, tensions are high as teams compete for the ADAC GT4 championship. Defending champions Mike David Ortmann and Hugo Sasse face intense pressure after a challenging start to the season.</desc>
+    <date>20240708</date>
+    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/goingpro_s02e08_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708075918 +0000" stop="20250708082907 +0000">
+    <title>Going Pro</title>
+    <sub-title>Back to School</sub-title>
+    <episode-num system="onscreen">S03E01</episode-num>
+    <desc>Damon Surzyshyn embarks on a new chapter in his racing career, navigating ice racing in Canada before securing an opportunity to compete in Germany’s Nürburgring NLS series. Despite some challenges, he prepares for the legendary Nordschleife.</desc>
+    <date>20250425</date>
+    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/goingpro_s03e01_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708082907 +0000" stop="20250708090000 +0000">
+    <title>Going Pro</title>
+    <sub-title>The Green Hell</sub-title>
+    <episode-num system="onscreen">S03E02</episode-num>
+    <desc>Damon Surzyshyn takes on the Nürburgring Nordschleife, navigating the complexities of permit qualifications, unpredictable weather, and intense multi-class racing. Amidst several challenges, he pushes through to secure a strong finish.</desc>
+    <date>20250425</date>
+    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/goingpro_s03e02_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708090000 +0000" stop="20250708093210 +0000">
+    <title>Streetwise</title>
+    <sub-title>Subaru WRX STi</sub-title>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <desc>Subaru shows the new facelift of their former rally car WRX STi. Also: it's small, economical and an iconic car, the Fiat 500 with its Twin-Air engine. And: the Mercedes ML 350 BlueTEC 4MATIC.</desc>
     <date>20240327</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/27.005.jpg" />
+    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/001.086.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707133316 +0000" stop="20250707140301 +0000">
-    <title>Trackmasters</title>
-    <sub-title>Episode 06</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>We prepared some very entertaining clips from the Nürburgring for you. Expect to see the pedal on the metal and rubber burning.</desc>
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708093210 +0000" stop="20250708100309 +0000">
+    <title>Streetwise</title>
+    <sub-title>Tesla Roadster S</sub-title>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <desc>Huge power and lightning-fast accelleration without any engine sound, the Tesla Roadster Sport. Also: engine sound design for the Audi R8 e-tron. And: MTM specialises in tuning Audi cars.</desc>
     <date>20240327</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/27.006.jpg" />
+    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/001.087.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707140301 +0000" stop="20250707143639 +0000">
-    <title>Trackmasters</title>
-    <sub-title>Episode 08</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>When the weather cleared up a bit at the Nürburgring, we were finally back at the track. As soon as the snow and ice were gone the horsepower junkies returned to the ring to once again let their engines roar.</desc>
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708100309 +0000" stop="20250708103333 +0000">
+    <title>Streetwise</title>
+    <sub-title>Infiniti FX 50S</sub-title>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <desc>Infiniti, Nissan's luxury division, is stepping up in order to make the brand a global success, starting with their FX50 SUV. Also: Audi introduce the hybrid version of their top dog model A8. And: Mercedes-AMG's C63 Black Series.</desc>
     <date>20240327</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/27.008.jpg" />
+    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/001.088.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707143639 +0000" stop="20250707144153 +0000">
-    <title>Artega GT</title>
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708103333 +0000" stop="20250708105305 +0000">
+    <title>Arabella Classics</title>
     <category>Movie</category>
-    <desc>From 2006 to 2012 the German company Artega produced their GT sports car model. Thanks to the know-how of a former Porsche and BMW manager the Artega GT was able to be manufactured in a small series.</desc>
-    <date>20240327</date>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707144153 +0000" stop="20250707145248 +0000">
-    <title>Ferrari California T</title>
-    <category>Movie</category>
-    <desc>The Ferrari California T has a lot of Italian passion and elegant lines to offer. Super sports car cabriolets are popular all over the world. It is no wonder that more and more manufacturers are 'opening up'.</desc>
-    <date>20240327</date>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707145248 +0000" stop="20250707150000 +0000">
-    <title>Chevrolet Caprice 9C1 police car</title>
-    <category>Movie</category>
-    <desc>This 1994 Chevrolet Caprice 9C1 is a former police car from the Los Angeles Police Department. Its curvaceous body was often mocked as looking like a whale, but this Chevy Caprice possesses the qualities of a shark.</desc>
-    <date>20240327</date>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707150000 +0000" stop="20250707151218 +0000">
-    <title>Mustang</title>
-    <category>Movie</category>
-    <desc>The Ford Mustang Shelby GT-500 was born of the 1960's vibe and the racing experience of Carroll Shelby. Its "boulevard cruiser" style and powerful engine made this muscle car one of the highest sellers of its time.</desc>
-    <date>20250312</date>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707151218 +0000" stop="20250707152118 +0000">
-    <title>Corvette</title>
-    <category>Movie</category>
-    <desc>The 1963 Split-Window Stingray Coupe combined power, performance, precision and youthful design.  Its unique, sleek and progressive look has kept it a perennial favorite with auto enthusiasts and collectors.</desc>
-    <date>20250312</date>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707152118 +0000" stop="20250707153441 +0000">
-    <title>Oldsmobile</title>
-    <category>Movie</category>
-    <desc>The Oldsmobile F88 was a GM "dream car" with sleek, sophisticated styling, but it never reached production. After many decades, there is one to be seen, and how and why it is finally available to view is a story in itself!</desc>
-    <date>20250312</date>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707153441 +0000" stop="20250707154702 +0000">
-    <title>Pierce Arrow</title>
-    <category>Movie</category>
-    <desc>1913 38C Brougham - "built up to a standard, not down to a price" - was worth the value of several houses at the time, with the special cachet of being the first car owned by the White House.</desc>
-    <date>20250312</date>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707154702 +0000" stop="20250707160115 +0000">
-    <title>Duesenberg</title>
-    <category>Movie</category>
-    <desc>The 1930 Model J Duesenberg was the pinnacle of automotive engineering in power and speed, holding records not surpassed until the 1960's. Magnates like Hearst, the King of Spain and the movie star Gary Cooper owned Duesenbergs.</desc>
-    <date>20250312</date>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707160115 +0000" stop="20250707161129 +0000">
-    <title>Terraplane</title>
-    <category>Movie</category>
-    <desc>The Hudson Terraplane 1937 Series 72 was a fast and affordable car with unique style and innovative design.  But the cars were also reliable and well built, so the company, unlike others, survived the Depression.</desc>
-    <date>20250312</date>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707161129 +0000" stop="20250707162410 +0000">
-    <title>Chevrolet Corvair</title>
-    <category>Movie</category>
-    <desc>Despite a production number of nearly 1.4 million units the Chevrolet Corvair is virtually unknown in Europe. It was innovative, efficient, modern and cheap. Nevertheless, it was slandered, torn apart and later reviled.</desc>
+    <desc>Rare Automobiles and stunning views! The Arabella Classics, one of the most exclusive Classic Car Rallies in Europe.</desc>
     <date>20240327</date>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707162410 +0000" stop="20250707163621 +0000">
-    <title>Jaguar E-Type</title>
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708105305 +0000" stop="20250708110000 +0000">
+    <title>Bentley Bentayga</title>
     <category>Movie</category>
-    <desc>On 15 March 1961 an E-Type Coupe was presented to the press at the Geneva Motor Show. The response to the shrill Jaguar was mostly positive. In Geneva alone, 500 E-Types were ordered. However It was initially not clear whether the E-Type could be presented in Geneva at all, because the car was finished so late that test driver Norman Dewis had to race the exhibit from Coventry to Geneva in the shortest time.</desc>
+    <desc>With the Bentley Bentayga, the traditional British brand is entering the fastest growing market segment. This world's first luxury SUV is a conglomerate of superlatives on wheels.</desc>
     <date>20240327</date>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707163621 +0000" stop="20250707164840 +0000">
-    <title>Bentley S2 Continental Flying Spur</title>
-    <category>Movie</category>
-    <desc>Flowing lines and an elegance that is unmatched. The 1959 Bentley S2 Continental Flying Spur aims to build bridges in the company's model range. From the sporty origin of the brand to the luxury of its new owner, Rolls Royce.</desc>
-    <date>20240327</date>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708110000 +0000" stop="20250708113110 +0000">
+    <title>Car History</title>
+    <sub-title>Jaguar E-Type</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>The Jaguar E-Type is a century-old sports car whose look still quickens the pulse today. Those responsible at Jaguar waited almost 40 years before they dared to build a successor to one of the most beautiful cars in the world.</desc>
+    <date>20121204</date>
+    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/73.009_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707164840 +0000" stop="20250707170000 +0000">
-    <title>Citroen DS</title>
-    <category>Movie</category>
-    <desc>La Déesse. The goddess of Citroën. This car caused an uproar when it was presented in 1955 at the Paris Motor Show. The DS was the first sedan with disc brakes and hydropneumatic suspension, and its design was simply divine.</desc>
-    <date>20240327</date>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708113110 +0000" stop="20250708120203 +0000">
+    <title>Car History</title>
+    <sub-title>Lamborghini</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>The early history of sports car manufacturer Lamborghini was shaped by the rivalry between tractor manufacturer Ferruccio Lamborghini and Enzo Ferrari. Over the years, the brand launched some of the most striking sports cars in the world.</desc>
+    <date>20130205</date>
+    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/73.010_16x9_0.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707170000 +0000" stop="20250707173253 +0000">
-    <title>Perfect Ride</title>
-    <sub-title>Typically German</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>What are the characteristics of a typical German car? Do stereotypes like functionality, reliability but also a certain dullness paint a realistic picture? Also, we explored if the Volkswagen Golf GTE could bring new impulses to the brand's model range.</desc>
-    <date>20150819</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/100.060_4x3.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708120203 +0000" stop="20250708123604 +0000">
+    <title>Car History</title>
+    <sub-title>Opel Classics</sub-title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <desc>The 1960s and 1970s were golden years for Opel. Ascona, Manta, Rekord and GT, an Opel was more than just a car, and the company built one classic after another. Today, these car models are all icons.</desc>
+    <date>20130212</date>
+    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/73.011_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707173253 +0000" stop="20250707180459 +0000">
-    <title>Perfect Ride</title>
-    <sub-title>Driving pleasure in winter</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Slippery or muddy roads and bad visibility are circumstances that often spoil driving pleasure in winter. We took two almost identical Porsche 911's to an icy test track. Also: drifting fun in the snow with the Suzuki SX4 S-Cross.</desc>
-    <date>20151021</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/100.061_4x3.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708123604 +0000" stop="20250708130759 +0000">
+    <title>Car History</title>
+    <sub-title>Mercedes-Benz S-Class</sub-title>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <desc>Since the 1950s, the Mercedes-Benz S-Class has set the standard in the luxury class. The status model of the rich, famous and powerful prevails against crises, social change and all competitors.</desc>
+    <date>20130219</date>
+    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/73.012_16x9_0.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707180459 +0000" stop="20250707183534 +0000">
-    <title>Perfect Ride</title>
-    <sub-title>Sporty Elegance</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>4-door coupes combine the best of two worlds, the performance of a coupe and the style of a limousine. We took a closer look at three examples of this car subspecies, the Audi A7, BMW's 4 Series Gran Coupe, and the Mercedes-Benz CLA models.</desc>
-    <date>20150902</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/100.062_4x3.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708130759 +0000" stop="20250708133905 +0000">
+    <title>Car History</title>
+    <sub-title>BMW 3 Series</sub-title>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <desc>The BMW 3 Series is the epitome of a sports saloon. Since its debut in 1975, it has been the undisputed leader of the premium segment. It's a family saloon, a sports car, a tuning object and a racing car.</desc>
+    <date>20130226</date>
+    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/73.013_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707183534 +0000" stop="20250707190834 +0000">
-    <title>Perfect Ride</title>
-    <sub-title>Fun Factor</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>The top-of-the-line specimens of a car model range are built for pure driving pleasure. We put the VW Golf R, the Audi TTS and the BMW M 235i to the test in order to see if they are worthy of bearing the crown of their model range.</desc>
-    <date>20150916</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/100.063_4x3.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707190834 +0000" stop="20250707193804 +0000">
-    <title>Perfect Ride</title>
-    <sub-title>City Cars</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>In 2015 Audi presented a facelift for their city racer A1. We put this compact to the test. Also: it's a tough competition in the compact class, and Renault and Peugeot also want a piece of the pie. We compared the Renault Twingo and the Peugeot 108.</desc>
-    <date>20151111</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/100.064_4x3.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707193804 +0000" stop="20250707200000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708133905 +0000" stop="20250708140000 +0000">
     <title>Mercedes 300 SL Lightweight</title>
     <category>Movie</category>
     <desc>An iconic racing car and one of only 29 ever built! We accompanied the Mercedes 300 SL 'lightweight' on its premiere drive at the Mille Miglia.</desc>
@@ -505,92 +275,114 @@
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707200000 +0000" stop="20250707202848 +0000">
-    <title>Put your car on TV</title>
-    <sub-title>Ford Mustang vs Chevy Corvette</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>The search for the fastest, best looking and best sounding car continues. Once more car lovers from the Middle East bring their tuned vehicles to the Sofitel Dubai Jumeirah Beach and have it judged by Saif Hattawi. The winner receives a special treat for two people from the luxurious Sofitel Dubai Jumeirah Beach. A Ford Mustang and a limited edition Chevrolet Corvette try to win the competition.</desc>
-    <date>20140620</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/128.004.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707202848 +0000" stop="20250707205745 +0000">
-    <title>Put your car on TV</title>
-    <sub-title>BMW X6M vs Nissan Patrol</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Put Your Car on TV gives every car owner the chance to bring their tuned machines to the Sofitel Hotel Dubai Jumeirah beach. There, Saif Hattawi will assess each car based on speed, style and sound. The person with the most amazing car wins a one night stay at the Sofitel Hotel Dubai Jumeirah Beach for two people. A BMW X6M, a massive Ford F250 and a special Nissan Patrol try to win this prize.</desc>
-    <date>20140704</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/128.005.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707205745 +0000" stop="20250707212815 +0000">
-    <title>Put your car on TV</title>
-    <sub-title>Lamborghini Aventador vs GMC Chevrolet</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>The Walk' at JBR, the most prestigious location in Dubai, sets the background for the fastest customized cars in the Middle East. Put Your Car on TV invites car owners to present their cars and have it judged. The owner of the fastest, most beautiful and best sounding car wins a special treat from Sofitel Dubai Jumeirah Beach. Among the competitors are a Lamborghini Aventador and a GMC Chevrolet.</desc>
-    <date>20140718</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/128.006.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707212815 +0000" stop="20250707220514 +0000">
-    <title>Put your car on TV</title>
-    <sub-title>Mercedes SLS vs Audi R8</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708140000 +0000" stop="20250708145357 +0000">
+    <title>MOTORVISION.TV #SPOTTED</title>
+    <sub-title>Race@Airport and Mansory</sub-title>
     <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Once more, Mylene Gomera and Saif Hattawi are on the hunst for the most amazing cars in the world and ask car owners to bring their customized vehicles to Dubai, where it will be awarded points based on speed, style and sound. The car with the points wins a stay at the Sofitel Hotel Dubai Jumeirah Beach for two people. Among the presented cars are a limited edition Mercedes SLS and an Audi R8.</desc>
-    <date>20140801</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/128.007.jpg" />
+    <desc>Frank Slopianka, a US car dealer from Berlin, takes about eleven seconds to finish the quarter mile race at the drag racing event Race@Airport with his 700-hp Camaro. And: the tuning company Mansory promises even more power for Lamborghini cars.</desc>
+    <date>20240327</date>
+    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/134.007_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707220514 +0000" stop="20250707224207 +0000">
-    <title>Put your car on TV</title>
-    <sub-title>Lexus GSF vs McLaren MP4-12C</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708145357 +0000" stop="20250708154740 +0000">
+    <title>MOTORVISION.TV #SPOTTED</title>
+    <sub-title>2017 Sport1 Trackday</sub-title>
     <episode-num system="onscreen">S01E08</episode-num>
-    <desc>On Put Your Car on TV people from the Middle East present their tuned vehicles. They are rewarded with points based on its styling, the highest (possible) speed ever driven und naturally also its sound. Whoever receives the most points, wins a luxurious treat from the Sofitel Hotel Dubai Jumeirah Beach. This time, a Lexus GSF, a Ford Mustang and a McLaren MP4-12C are put on the spotlight.</desc>
-    <date>20140822</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/128.008.jpg" />
+    <desc>The Nürburgring is the most dangerous, yet the most beautiful race track in the world and meeting point for racing icons and car rarities. The annual Sport1 Track Day lures thousands of petrol heads to the iconic track.</desc>
+    <date>20240327</date>
+    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/134.008_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707224207 +0000" stop="20250707225151 +0000">
-    <title>Mercedes-AMG GT S Performmaster</title>
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708154740 +0000" stop="20250708164032 +0000">
+    <title>MOTORVISION.TV #SPOTTED</title>
+    <sub-title>Homemade Supercars</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Ola Stenegard, Head of Vehicle Design at BMW Motorrad, meets world-famous motorcycle customizers in Los Angeles. Also: we present the craziest 'homemade supercars' such as the Fahrradi Farfalla FFX, the slowest sports car in the world.</desc>
+    <date>20240327</date>
+    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/134.009_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708164032 +0000" stop="20250708164957 +0000">
+    <title>Lancia Stratos HF</title>
     <category>Movie</category>
-    <desc>Not far from Stuttgart is the home of the tuner Performmaster who specialize in the performance optimization of Mercedes-AMG models. They turned the already more-than-potent GT S sports car into a beast.</desc>
+    <desc>The Lancia Stratos with Ferrari power, the rally icon of the 1970s.</desc>
     <date>20240327</date>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707225151 +0000" stop="20250707230000 +0000">
-    <title>Beradino</title>
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708164957 +0000" stop="20250708170000 +0000">
+    <title>BMW M6 Gran Coupe</title>
     <category>Movie</category>
-    <desc>A „bella macchina“, a beautiful car - but not designed by masters like Bertone or Pininfarina. Johannes Paulussen from Neuss in Germany built the Beradino by hand.</desc>
+    <desc>The M6 Gran Coupe is the latest creation from BMW's M-works subdivision. The Bavarians show that driving this V8 powered car almost feels like flying, even with the whole family on board.</desc>
     <date>20240327</date>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707230000 +0000" stop="20250707233336 +0000">
-    <title>Classic Ride</title>
-    <sub-title>German Race Car Classics</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>We present to you historic image and film documents from the Porsche 550 RS Spyder. And: how the Audi Quattro shocked its competitors with its driving dynamics.</desc>
-    <date>20140107</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/104.059_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708170000 +0000" stop="20250708173152 +0000">
+    <title>Trackmasters</title>
+    <sub-title>Episode 12</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>Once again it was time for the VLN Endurance Racing Championship. While the drivers were doing their test laps, we had a look behind the scenes and explored what went on in the pit lanes.</desc>
+    <date>20240327</date>
+    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/27.012.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250707233336 +0000" stop="20250708000626 +0000">
-    <title>Classic Ride</title>
-    <sub-title>Rally Legends</sub-title>
-    <episode-num system="onscreen">S01E20</episode-num>
-    <desc>High-tech turbo cars from the wild 1980s are reunited at the Salzburgring race track. Also: the Lancia Beta Monte Carlo, a small Italian two-seater with mid-engine offers classic car driving pleasure at a low entry price.</desc>
-    <date>20140513</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/104.069_16x9_0.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708173152 +0000" stop="20250708180314 +0000">
+    <title>Trackmasters</title>
+    <sub-title>Episode 14</sub-title>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <desc>The fourth race of the VLN season is usually regarded as a dress rehearsal for the 24-hour race. For the top teams and best drivers it is the last opportunity for a really thorough test.</desc>
+    <date>20240327</date>
+    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/27.014.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708000626 +0000" stop="20250708003754 +0000">
-    <title>Classic Ride</title>
-    <sub-title>Rallye Le Jog</sub-title>
-    <episode-num system="onscreen">S01E25</episode-num>
-    <desc>The 1947 Triumph 1800 Roadster provides space for 5 fresh air fans. Also: Le Jog, the toughest classic car rally in Europe. A German women's team takes on the challenge in their VW Iltis. And: a charming oldie, the 1919 Wolseley Stellite.</desc>
-    <date>20140722</date>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/104.074_16x9_0.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708180314 +0000" stop="20250708183403 +0000">
+    <title>Trackmasters</title>
+    <sub-title>Episode 15</sub-title>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <desc>We present the highlights of last week. The 24 hour race was exciting, as usual. In addition, we explored the 'Strong Man Run' and took a look at the tourist drivers</desc>
+    <date>20240327</date>
+    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/27.015.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708183403 +0000" stop="20250708184649 +0000">
+    <title>BMW 503</title>
+    <category>Movie</category>
+    <desc>The noble four-seater 503 convertible was one of BMWs most exclusive models in the 1950s. Many international sports and movie stars and other wealthy customers were fond of this sporty luxury vehicle.</desc>
+    <date>20240327</date>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708184649 +0000" stop="20250708185639 +0000">
+    <title>Volvo S90</title>
+    <category>Movie</category>
+    <desc>It looks sportier than one might expect from the Swedes. The taillights frame the powerful looking rear. On the inside, the Volvo S90 impresses with the finest materials and soft nappa leather.</desc>
+    <date>20240327</date>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708185639 +0000" stop="20250708190000 +0000">
+    <title>Alfa Romeo 6C 2500SS</title>
+    <category>Movie</category>
+    <desc>Founded in 1910, the iconic Italian car manufacturer Alfa Romeo experienced a very eventful history. Their 6C 2500 SS model is right in the middle of the company's more than 100-year history. It combined new technology with an early post-war appearance.</desc>
+    <date>20240327</date>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708190000 +0000" stop="20250708230000 +0000">
+    <title>Offroad &amp; Fun, Part 34</title>
+    <category>Movie</category>
+    <desc>Belgian Rally Championship &amp; FIM X-Trials Championship 2025.</desc>
+    <date>20250627</date>
+    <icon src="https://img.static-ottera.com/prod/mvg/show/thumbnails/poster/2000x2858/belgian_rally_championship_7x10_oil.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" start="20250708230000 +0000" stop="20250709030000 +0000">
+    <title>Offroad &amp; Fun, Part 34</title>
+    <category>Movie</category>
+    <desc>Belgian Rally Championship &amp; FIM X-Trials Championship 2025.</desc>
+    <date>20250627</date>
+    <icon src="https://img.static-ottera.com/prod/mvg/show/thumbnails/poster/2000x2858/belgian_rally_championship_7x10_oil.jpg" />
   </programme>
   
 </tv>
