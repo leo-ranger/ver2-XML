@@ -5,7 +5,34 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/66897ead-8625-455a-aaa9-2962f7c26315/BBC_TRAVEL_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250713232435 +0000" stop="20250714003148 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250715001403 +0000" stop="20250715012136 +0000">
+    <title>New York: America's Busiest City</title>
+    <sub-title>New York: America's Busiest City - Episode 2</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>A look at the astonishing daily systems that allow America's busiest city to function.</desc>
+    <date>20250331</date>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=1280&amp;height=720&amp;url=https://images.frequency.com/video/7311537632203396737/solid/rectangle/w1920_h1080/1ul8cmynvcfef1xy9ujq8cn89f.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250715012136 +0000" stop="20250715022909 +0000">
+    <title>New York: America's Busiest City</title>
+    <sub-title>New York: America's Busiest City - Episode 3</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>The hidden systems and organizational miracles that keep Central Park clean and green.</desc>
+    <date>20250331</date>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=1280&amp;height=720&amp;url=https://images.frequency.com/video/7311537607557386500/solid/rectangle/w1920_h1080/1pfjhrcop9cvu1k09flcxpyuoe.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250715022909 +0000" stop="20250715033631 +0000">
+    <title>Russia with Simon Reeve</title>
+    <sub-title>Russia with Simon Reeve - Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Simon sets out amongst the volcanoes of Kamchatka and meets indigenous reindeer herders.</desc>
+    <date>20240121</date>
+    <icon src="https://image.tmdb.org/t/p/original/2uX1O7noxjyfPTiDyEbqXXQZ95s.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250715033631 +0000" stop="20250715044344 +0000">
     <title>Russia with Simon Reeve</title>
     <sub-title>Russia with Simon Reeve - Episode 2</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
@@ -14,7 +41,7 @@
     <icon src="https://image.tmdb.org/t/p/original/2qqdnpf7dWgbjiVqTs3114uxKoU.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250714003148 +0000" stop="20250714013800 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250715044344 +0000" stop="20250715054956 +0000">
     <title>Russia with Simon Reeve</title>
     <sub-title>Russia with Simon Reeve - Episode 3</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
@@ -23,256 +50,165 @@
     <icon src="https://image.tmdb.org/t/p/original/kQyVBoXl1YzlaCsRIG2DW0frv2D.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250714013800 +0000" stop="20250714022809 +0000">
-    <title>South Korea with Alexander Armstrong</title>
-    <sub-title>South Korea with Alexander Armstrong - Episode 1</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250715054956 +0000" stop="20250715064800 +0000">
+    <title>Secret Cities</title>
+    <sub-title>Secret Cities - Lisbon</sub-title>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <desc>Janina Ramirez and Alastair Sooke discover Lisbon through its art and architecture.</desc>
+    <date>20240322</date>
+    <icon src="https://artworks.thetvdb.com/banners/series/382765/episodes/5ec6f425dacf3.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250715064800 +0000" stop="20250715074600 +0000">
+    <title>Secret Cities</title>
+    <sub-title>Secret Cities - Beirut</sub-title>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <desc>Exploring Beirut, which has bounced back to rebuild its reputation as a cosmopolitan city.</desc>
+    <date>20240322</date>
+    <icon src="https://artworks.thetvdb.com/banners/series/382765/episodes/5ec6f46858a58.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250715074600 +0000" stop="20250715084452 +0000">
+    <title>Secret Cities</title>
+    <sub-title>Secret Cities - Baku</sub-title>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <desc>Janina and Alastair discover Baku in Azerbaijan through its art and architecture.</desc>
+    <date>20240322</date>
+    <icon src="https://artworks.thetvdb.com/banners/series/382765/episodes/5ec6f4925e6bc.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250715084452 +0000" stop="20250715094252 +0000">
+    <title>Secret Cities</title>
+    <sub-title>Secret Cities - Amsterdam</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Arriving late at night in downtown Seoul, Alexander kicks off his Korean adventure.</desc>
-    <date>20250417</date>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=1280&amp;height=720&amp;url=https://images.frequency.com/video/7311538011751176868/solid/rectangle/w1920_h1080/1el52mp1ufnxb1c0e073okpr40.jpg" />
+    <desc>Dr Janina Ramirez and Alastair Sooke discover Amsterdam through its art and design.</desc>
+    <date>20170427</date>
+    <icon src="https://images.frequency.com/video/1ay2ltvs9lt4t149epn2u1ylt/w1920_h1080/1ay2ltvs9lt4t149epn2u1ylt.jpg?width=1280&amp;height=720" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250714022809 +0000" stop="20250714031710 +0000">
-    <title>South Korea with Alexander Armstrong</title>
-    <sub-title>South Korea with Alexander Armstrong - Episode 2</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250715094252 +0000" stop="20250715104222 +0000">
+    <title>Secret Cities</title>
+    <sub-title>Secret Cities - Barcelona</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Alexander visits the awesome Gyeonbokgung Palace, and visits the vast Yangnyeon market.</desc>
-    <date>20250417</date>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=1280&amp;height=720&amp;url=https://images.frequency.com/video/7311538036131179580/solid/rectangle/w1920_h1080/1d5ooncbp72b11a0c3w4ct325c.jpg" />
+    <desc>Dr Janina Ramirez and Alastair Sooke discover Barcelona through its art and architecture.</desc>
+    <date>20170506</date>
+    <icon src="https://images.frequency.com/video/1v66swuvs44lx1xiq3ja14plq/w1920_h1080/1v66swuvs44lx1xiq3ja14plq.jpg?width=1280&amp;height=720" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250714031710 +0000" stop="20250714042427 +0000">
-    <title>Wilderness with Simon Reeve</title>
-    <sub-title>Wilderness with Simon Reeve - Congo</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Simon Reeve battles his way through the Congo, Africa’s greatest rainforest.</desc>
-    <date>20240121</date>
-    <icon src="https://image.tmdb.org/t/p/original/2uX1O7noxjyfPTiDyEbqXXQZ95s.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250714042427 +0000" stop="20250714053132 +0000">
-    <title>Wilderness with Simon Reeve</title>
-    <sub-title>Wilderness with Simon Reeve - Patagonia</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Simon Reeve treks across the mountains and glaciers of Patagonia in South America.</desc>
-    <date>20240128</date>
-    <icon src="https://image.tmdb.org/t/p/original/2qqdnpf7dWgbjiVqTs3114uxKoU.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250714053132 +0000" stop="20250714063808 +0000">
-    <title>Wilderness with Simon Reeve</title>
-    <sub-title>Wilderness with Simon Reeve - Coral Triangle</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250715104222 +0000" stop="20250715114158 +0000">
+    <title>Secret Cities</title>
+    <sub-title>Secret Cities - St. Petersburg</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Simon Reeve voyages across the remote ocean wilderness known as the Coral Triangle.</desc>
-    <date>20240204</date>
-    <icon src="https://image.tmdb.org/t/p/original/kQyVBoXl1YzlaCsRIG2DW0frv2D.jpg" />
+    <desc>A look at how art has been used to enhance prestige and power in St Petersburg.</desc>
+    <date>20170513</date>
+    <icon src="https://images.frequency.com/video/u9r5mlikeiam1g94pm1xnez9o/w1920_h1080/u9r5mlikeiam1g94pm1xnez9o.jpg?width=1280&amp;height=720" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250714063808 +0000" stop="20250714074552 +0000">
-    <title>Wilderness with Simon Reeve</title>
-    <sub-title>Wilderness with Simon Reeve - Kalahari</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Simon Reeve crosses the parched Kalahari Desert in southern Africa.</desc>
-    <date>20240211</date>
-    <icon src="https://image.tmdb.org/t/p/original/wyU4jc3Cip4KuQR8bdUbL8626l3.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250714074552 +0000" stop="20250714083509 +0000">
-    <title>Britain’s Great Cathedrals</title>
-    <sub-title>Britain’s Great Cathedrals - Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Reverend Pat Allerton explores three southern England cathedrals, starting at St. Paul’s.</desc>
+<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250715114158 +0000" stop="20250715124935 +0000">
+    <title>Amazing Hotels: Life Beyond the Lobby</title>
+    <sub-title>Amazing Hotels: Life Beyond the Lobby - Shanghai Wonderland, China</sub-title>
+    <episode-num system="onscreen">S06E01</episode-num>
+    <desc>Rob and Monica work behind the scenes of the world’s first 'earthscraper' hotel.</desc>
     <date>20250331</date>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=1280&amp;height=720&amp;url=https://images.frequency.com/video/7311535995398761148/solid/rectangle/w1920_h1080/1if2tjq6lwqay1vo5pwgjlyifi.jpg" />
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=1280&amp;height=720&amp;url=https://images.frequency.com/video/7311534995441808022/solid/rectangle/w1920_h1080/1xbj48l6q4hj11362au4h2p8gd.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250714083509 +0000" stop="20250714092432 +0000">
-    <title>Britain’s Great Cathedrals</title>
-    <sub-title>Britain’s Great Cathedrals - Episode 2</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Reverend Pat Allerton explores three northern cathedrals, starting with Durham's history.</desc>
+<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250715124935 +0000" stop="20250715135708 +0000">
+    <title>Amazing Hotels: Life Beyond the Lobby</title>
+    <sub-title>Amazing Hotels: Life Beyond the Lobby - Argos in Cappadocia, Turkey</sub-title>
+    <episode-num system="onscreen">S06E02</episode-num>
+    <desc>Rob and Monica travel to Turkey to work at a hotel built in and around ancient caves.</desc>
     <date>20250331</date>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=1280&amp;height=720&amp;url=https://images.frequency.com/video/7311536024573208350/solid/rectangle/w1920_h1080/xy9yywfi625o199qwg5tm3rdc.jpg" />
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=1280&amp;height=720&amp;url=https://images.frequency.com/video/7311535027810211835/solid/rectangle/w1920_h1080/whrn7b3emnvb1h87pvg3zx0hm.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250714092432 +0000" stop="20250714101807 +0000">
-    <title>Joanna Lumley's Silk Road</title>
-    <sub-title>Joanna Lumley's Silk Road - Venice, Albania and Turkey</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Joanna starts her adventure in Venice, the European terminus of the Silk Road.</desc>
-    <date>20240322</date>
-    <icon src="https://images.frequency.com/video/unitt066u2l311af8dw0povgo/original/unitt066u2l311af8dw0povgo.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250715135708 +0000" stop="20250715150446 +0000">
+    <title>Amazing Hotels: Life Beyond the Lobby</title>
+    <sub-title>Amazing Hotels: Life Beyond the Lobby - Six Senses Ibiza</sub-title>
+    <episode-num system="onscreen">S06E03</episode-num>
+    <desc>Rob and Monica uncover the spiritual aspect of one of Ibiza’s most luxurious hotels.</desc>
+    <date>20250423</date>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=1280&amp;height=720&amp;url=https://images.frequency.com/video/7320787362981147026/solid/rectangle/original.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250714101807 +0000" stop="20250714111205 +0000">
-    <title>Joanna Lumley's Silk Road</title>
-    <sub-title>Joanna Lumley's Silk Road - Georgia and Azerbaijan</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Joanna continues along the Silk Road from the Black Sea to the Caspian Sea.</desc>
-    <date>20240322</date>
-    <icon src="https://images.frequency.com/video/1p1si9ey12g5d1974uj05kxx6/original/1p1si9ey12g5d1974uj05kxx6.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250715150446 +0000" stop="20250715161223 +0000">
+    <title>Amazing Hotels: Life Beyond the Lobby</title>
+    <sub-title>Amazing Hotels: Life Beyond the Lobby - The Hassler, Rome</sub-title>
+    <episode-num system="onscreen">S06E04</episode-num>
+    <desc>Rob and Monica work behind the scenes in Rome’s most celebrated classic hotel.</desc>
+    <date>20250331</date>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=1280&amp;height=720&amp;url=https://images.frequency.com/video/7311535175160583386/solid/rectangle/w1920_h1080/meuuyy69hq211air1xnzacv2c.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250714111205 +0000" stop="20250714120546 +0000">
-    <title>Joanna Lumley's Silk Road</title>
-    <sub-title>Joanna Lumley's Silk Road - Iran</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Joanna continues her adventure following the ancient Silk Road across Iran.</desc>
-    <date>20240322</date>
-    <icon src="https://images.frequency.com/video/1g3f3p0rxzpxw105elkxgjo9r/w1280_h720/1g3f3p0rxzpxw105elkxgjo9r.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250715161223 +0000" stop="20250715171955 +0000">
+    <title>Amazing Hotels: Life Beyond the Lobby</title>
+    <sub-title>Amazing Hotels: Life Beyond the Lobby - Datai Langkawi, Malaysia</sub-title>
+    <episode-num system="onscreen">S06E05</episode-num>
+    <desc>Rob and Monica go to work in the Datai Langkawi hotel deep inside a Malaysian rainforest.</desc>
+    <date>20250331</date>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=1280&amp;height=720&amp;url=https://images.frequency.com/video/7311535230291412603/solid/rectangle/w1920_h1080/cld6i78wx1tf1htxkz63r7hfw.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250714120546 +0000" stop="20250714130008 +0000">
-    <title>Joanna Lumley's Silk Road</title>
-    <sub-title>Joanna Lumley's Silk Road - Uzbekistan and Kyrgyzstan</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Joanna Lumley crosses the post-Soviet, Central Asian states of Uzbekistan and Kyrgyzstan.</desc>
-    <date>20240322</date>
-    <icon src="https://images.frequency.com/video/1eksg94k9m4971bktbcswe99g/original/1eksg94k9m4971bktbcswe99g.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250715171955 +0000" stop="20250715182933 +0000">
+    <title>Amazing Hotels: Life Beyond the Lobby</title>
+    <sub-title>Amazing Hotels: Life Beyond the Lobby - Gangtey Lodge, Bhutan</sub-title>
+    <episode-num system="onscreen">S06E06</episode-num>
+    <desc>Rob and Monica travel to work at a remote hotel in the kingdom of Bhutan.</desc>
+    <date>20250410</date>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=1280&amp;height=720&amp;url=https://images.frequency.com/video/7315769065407221501/solid/rectangle/original.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250714130008 +0000" stop="20250714132618 +0000">
-    <title>Vacation Vacation Vacation</title>
-    <sub-title>Ibiza</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>What does Ibiza have to offer away from clubbing?</desc>
-    <date>20240712</date>
-    <icon src="https://images.frequency.com/video/v4708testbpn18bv7az4k26dj/original/v4708testbpn18bv7az4k26dj.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250715182933 +0000" stop="20250715193714 +0000">
+    <title>Amazing Hotels: Life Beyond the Lobby</title>
+    <sub-title>Amazing Hotels: Life Beyond the Lobby - Stanglwirt Hotel, Austria</sub-title>
+    <episode-num system="onscreen">S06E07</episode-num>
+    <desc>Rob and Monica go to work at a 400-year-old family owned hotel in the Austrian Alps.</desc>
+    <date>20250331</date>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=1280&amp;height=720&amp;url=https://images.frequency.com/video/7311533863346163325/solid/rectangle/w1920_h1080/1szqqizwb0ucm1rwhk2xey8i4p.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250714132618 +0000" stop="20250714135243 +0000">
-    <title>Vacation Vacation Vacation</title>
-    <sub-title>Tuscany</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Will Kirstie and Phil fall for rustic charm or will luxurious, expensive Tuscan hotels win the day?</desc>
-    <date>20240712</date>
-    <icon src="https://images.frequency.com/video/561dhs58ycte1pdvftepdrzc7/original/561dhs58ycte1pdvftepdrzc7.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250714135243 +0000" stop="20250714141904 +0000">
-    <title>Vacation Vacation Vacation</title>
-    <sub-title>St Moritz</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Kirstie leads the way with a mountainside retreat and Phil looks at five star St Moritz.</desc>
-    <date>20240712</date>
-    <icon src="https://images.frequency.com/video/1houuarrqah4i1ahp96lmyto0/original/1houuarrqah4i1ahp96lmyto0.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250714141904 +0000" stop="20250714144457 +0000">
-    <title>Vacation Vacation Vacation</title>
-    <sub-title>Romance</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Can castles, legends and stargazing in Spain compete with Robinson Crusoe Island?</desc>
-    <date>20240712</date>
-    <icon src="https://images.frequency.com/video/gb1j0eie74121pyo2dygd8c0a/original/gb1j0eie74121pyo2dygd8c0a.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250714144457 +0000" stop="20250714151033 +0000">
-    <title>Vacation Vacation Vacation</title>
-    <sub-title>Marrakech</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Kirstie and Phil are in the fast of Marrakech, looking at two havens of calm amidst the madness.</desc>
-    <date>20240712</date>
-    <icon src="https://images.frequency.com/video/1bid8a18hfyud1iqdetg9nhge/original/1bid8a18hfyud1iqdetg9nhge.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250714151033 +0000" stop="20250714153606 +0000">
-    <title>Vacation Vacation Vacation</title>
-    <sub-title>City Breaks</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>For a long weekend, Kirstie and Phil are off on city breaks in Dubrovnik and Barcelona.</desc>
-    <date>20240712</date>
-    <icon src="https://images.frequency.com/video/8gfu6fh3vlwd174ef2p9qaygp/original/8gfu6fh3vlwd174ef2p9qaygp.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250714153606 +0000" stop="20250714160237 +0000">
-    <title>Vacation Vacation Vacation</title>
-    <sub-title>Out Doors</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Activity holidays are on the up. Kirstie and Phil are in search of an outdoor adventure.</desc>
-    <date>20240712</date>
-    <icon src="https://images.frequency.com/video/1r95d98gkx9pa16brv4376t3r/original/1r95d98gkx9pa16brv4376t3r.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250714160237 +0000" stop="20250714162831 +0000">
-    <title>Vacation Vacation Vacation</title>
-    <sub-title>Boating</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Kirstie argues that a Croatian Riviera cruise can be glam, while Phil explores the Maldives.</desc>
-    <date>20240712</date>
-    <icon src="https://images.frequency.com/video/8mbkgxg6096l15tn0hx3znnsr/original/8mbkgxg6096l15tn0hx3znnsr.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250714162831 +0000" stop="20250714173912 +0000">
-    <title>Rick Stein's Road to Mexico</title>
-    <sub-title>Rick Stein's Road to Mexico - San Francisco to Monterey</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Rick is in San Francisco to taste legendary dishes like the hangtown fry.</desc>
-    <date>20240322</date>
-    <icon src="https://images.frequency.com/video/jtach5ncg3js1drldymghcibx/original/jtach5ncg3js1drldymghcibx.jpg?width=1280&amp;height=720" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250714173912 +0000" stop="20250714184948 +0000">
-    <title>Rick Stein's Road to Mexico</title>
-    <sub-title>Rick Stein's Road to Mexico - Monterey to San Diego</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Rick Stein continues travelling down the Californian coastline immortalised by Steinbeck.</desc>
-    <date>20240322</date>
-    <icon src="https://images.frequency.com/video/nidpt5sj9loa19nyhwekk5ofd/original/nidpt5sj9loa19nyhwekk5ofd.jpg?width=1280&amp;height=720" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250714184948 +0000" stop="20250714195959 +0000">
-    <title>Rick Stein's Road to Mexico</title>
-    <sub-title>Rick Stein's Road to Mexico - San Diego to Baja California</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Rick Stein's latest culinary travels take him from San Diego into Mexico's Baja Peninsula.</desc>
-    <date>20240322</date>
-    <icon src="https://images.frequency.com/video/ou7a06bde8z91gm2585h03sl2/original/ou7a06bde8z91gm2585h03sl2.jpg?width=1280&amp;height=720" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250714195959 +0000" stop="20250714211036 +0000">
-    <title>Rick Stein's Road to Mexico</title>
-    <sub-title>Rick Stein's Road to Mexico - Guadalajara to Puerto Vallarta</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Rick explores the metropolis that gave us mariachis and dishes like chilli con carne.</desc>
-    <date>20240322</date>
-    <icon src="https://images.frequency.com/video/jv1qmh0md4ut1dnynbffcm471/original/jv1qmh0md4ut1dnynbffcm471.jpg?width=1280&amp;height=720" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250714211036 +0000" stop="20250714220833 +0000">
-    <title>Japan with Sue Perkins</title>
-    <sub-title>Japan with Sue Perkins - Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Sue Perkins explores a country caught between ancient tradition and dazzling technology.</desc>
+<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250715193714 +0000" stop="20250715204452 +0000">
+    <title>Amazing Hotels: Life Beyond the Lobby</title>
+    <sub-title>Amazing Hotels: Life Beyond the Lobby - Wilderness Inari, Finland</sub-title>
+    <episode-num system="onscreen">S06E08</episode-num>
+    <desc>Rob and Monica travel to Lapland to work in freezing temperatures at a Sami-owned hotel.</desc>
     <date>20250417</date>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=1280&amp;height=720&amp;url=https://images.frequency.com/video/7311537492774635482/solid/rectangle/w1920_h1080/y29hkncl44fk131p5vk11m734.jpg" />
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=1280&amp;height=720&amp;url=https://images.frequency.com/video/7311535256265264725/solid/rectangle/w1920_h1080/1u7o2n1cn7gj0155efj3le7hnc.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250714220833 +0000" stop="20250714230630 +0000">
-    <title>Japan with Sue Perkins</title>
-    <sub-title>Japan with Sue Perkins - Episode 2</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Sue Perkins enjoys a night out with geishas and goes free diving with the ama divers.</desc>
-    <date>20250417</date>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=1280&amp;height=720&amp;url=https://images.frequency.com/video/7311536946081069723/solid/rectangle/w1920_h1080/mn2pq61lzw6y1ge2gw06ksz8k.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250715204452 +0000" stop="20250715214122 +0000">
+    <title>Stephen Fry's Key to the City</title>
+    <sub-title>Stephen Fry's Key to the City - Stephen Fry's Key to the City</sub-title>
+    <desc>Actor Stephen Fry sets out to uncover the what, how and why of the ancient and mysterious London.</desc>
+    <date>20130806</date>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=1280&amp;height=720&amp;url=https://images.frequency.com/video/1f7ksk68h7r6q16ri4yh6khzs/original/1f7ksk68h7r6q16ri4yh6khzs.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250714230630 +0000" stop="20250715001403 +0000">
-    <title>New York: America's Busiest City</title>
-    <sub-title>New York: America's Busiest City - Episode 1</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250715214122 +0000" stop="20250715223526 +0000">
+    <title>Stephen Fry in Central America</title>
+    <sub-title>Stephen Fry in Central America - Mexico</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Anita Rani, Ade Adepitan and Ant Anstead try commuting New York style.</desc>
-    <date>20250331</date>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=1280&amp;height=720&amp;url=https://images.frequency.com/video/7311537017728212108/solid/rectangle/w1920_h1080/c491o7p8vl61t76zoijznug9.jpg" />
+    <desc>Stephen Fry explores Mexico's great Aztec cities, then stars in a soap in Mexico city.</desc>
+    <date>20150827</date>
+    <icon src="https://artworks.thetvdb.com/banners/v4/episode/5309909/screencap/61a88e21180ff.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250715001403 +0000" stop="20250715012136 +0000">
-    <title>New York: America's Busiest City</title>
-    <sub-title>New York: America's Busiest City - Episode 2</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250715223526 +0000" stop="20250715232932 +0000">
+    <title>Stephen Fry in Central America</title>
+    <sub-title>Stephen Fry in Central America - Belize to Guatemala</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
-    <desc>A look at the astonishing daily systems that allow America's busiest city to function.</desc>
-    <date>20250331</date>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=1280&amp;height=720&amp;url=https://images.frequency.com/video/7311537632203396737/solid/rectangle/w1920_h1080/1ul8cmynvcfef1xy9ujq8cn89f.jpg" />
+    <desc>Stephen visits Belize, meeting injured manatees and the Garifuna people.</desc>
+    <date>20150903</date>
+    <icon src="https://image.tmdb.org/t/p/original/uth5WqKBOB051MMp8FpHIA8XGzJ.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" start="20250715232932 +0000" stop="20250716002337 +0000">
+    <title>Stephen Fry in Central America</title>
+    <sub-title>Stephen Fry in Central America - El Salvador to Nicaragua</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Stephen visits the "dangerous" El Salvador, Honduras then the "safer" Nicaragua.</desc>
+    <date>20150910</date>
+    <icon src="https://image.tmdb.org/t/p/original/Aj2w4YSg8xHMp5kShI2iA8MupXL.jpg" />
   </programme>
   
 </tv>
