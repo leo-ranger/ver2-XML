@@ -5,42 +5,90 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/5c3ddbf2-e5f5-4764-92eb-8276e6a54e38/pbtv_1_1500_x_1000___Logo_Dark_BG_1__-_Ari_Brock.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" start="20250719170000 +0000" stop="20250720010000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" start="20250721000000 +0000" stop="20250721060000 +0000">
     <title>MLP St. Louis 2025</title>
-    <category>Movie</category>
-    <desc>Live Pickleball coverage from MLP St. Louis</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/da2afe7d-1a52-4db2-a7a8-42cfbbd47aa1/pbtv_4_2000_X_3000_Vertical_Art_with_Logo_v1_-_Ari_Brock.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" start="20250720010000 +0000" stop="20250720090000 +0000">
-    <title>MLP St. Louis 2025</title>
-    <sub-title>Day 3 - Encore</sub-title>
-    <episode-num system="onscreen">S2025E294</episode-num>
+    <sub-title>Day 4 - Encore</sub-title>
+    <episode-num system="onscreen">S2025E295</episode-num>
     <desc>Encore Pickleball coverage from MLP St. Louis</desc>
     <icon src="https://d3e54iig6qqew6.cloudfront.net/MLPSTL16x9.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" start="20250720090000 +0000" stop="20250720100000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" start="20250721060000 +0000" stop="20250721120000 +0000">
+    <title>MLP St. Louis 2025</title>
+    <sub-title>Day 4 - Encore</sub-title>
+    <episode-num system="onscreen">S2025E295</episode-num>
+    <desc>Encore Pickleball coverage from MLP St. Louis</desc>
+    <icon src="https://d3e54iig6qqew6.cloudfront.net/MLPSTL16x9.jpeg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" start="20250721120000 +0000" stop="20250721133000 +0000">
+    <title>Best of Ben Johns</title>
+    <sub-title>2022 Mesa Men's Final</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>2022 Mesa Men's Final</desc>
+    <icon src="https://d3e54iig6qqew6.cloudfront.net/BEST_OF_BEN_JOHNS_V3.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" start="20250721133000 +0000" stop="20250721140000 +0000">
+    <title>Best of Anna Leigh Waters</title>
+    <sub-title>2022 Red Rock Women's Final</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>2022 Red Rock Women's Final</desc>
+    <icon src="https://d3e54iig6qqew6.cloudfront.net/BEST_OF_ANNA_LEIGH_WATERS_V3.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" start="20250721140000 +0000" stop="20250721143000 +0000">
+    <title>Episode 26</title>
+    <category>Movie</category>
+    <desc>Pickleball Weekly Episode 26</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/da2afe7d-1a52-4db2-a7a8-42cfbbd47aa1/pbtv_4_2000_X_3000_Vertical_Art_with_Logo_v1_-_Ari_Brock.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" start="20250721143000 +0000" stop="20250721150000 +0000">
+    <title>Inside the MLP</title>
+    <sub-title>Preview show for MLP St. Louis</sub-title>
+    <episode-num system="onscreen">S2025E01</episode-num>
+    <desc>Preview of the MLP St. Louis Tournament</desc>
+    <icon src="https://d3e54iig6qqew6.cloudfront.net/16x9_InsideTheMLP.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" start="20250721150000 +0000" stop="20250721223000 +0000">
+    <title>MLP St. Louis 2025</title>
+    <sub-title>Day 1 - Encore</sub-title>
+    <episode-num system="onscreen">S2025E292</episode-num>
+    <desc>Encore Pickleball coverage from MLP St. Louis</desc>
+    <icon src="https://d3e54iig6qqew6.cloudfront.net/MLPSTL16x9.jpeg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" start="20250721223000 +0000" stop="20250721230000 +0000">
+    <title>Episode 26</title>
+    <category>Movie</category>
+    <desc>Pickleball Weekly Episode 26</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/da2afe7d-1a52-4db2-a7a8-42cfbbd47aa1/pbtv_4_2000_X_3000_Vertical_Art_with_Logo_v1_-_Ari_Brock.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" start="20250721230000 +0000" stop="20250722000000 +0000">
     <title>The Tyson McGuffin Show</title>
-    <sub-title>Episode 59</sub-title>
-    <episode-num system="onscreen">S2025E61</episode-num>
-    <desc>Making McGuffins Episode 59</desc>
+    <sub-title>Episode 60</sub-title>
+    <episode-num system="onscreen">S2025E62</episode-num>
+    <desc>Making McGuffins Episode 60</desc>
     <icon src="https://d3e54iig6qqew6.cloudfront.net/Mcguffins16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" start="20250720100000 +0000" stop="20250720180000 +0000">
-    <title>MLP St. Louis 2025</title>
-    <sub-title>Day 3 - Encore</sub-title>
-    <episode-num system="onscreen">S2025E294</episode-num>
-    <desc>Encore Pickleball coverage from MLP St. Louis</desc>
-    <icon src="https://d3e54iig6qqew6.cloudfront.net/MLPSTL16x9.jpeg" />
+<programme channel="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" start="20250722000000 +0000" stop="20250722010000 +0000">
+    <title>Best of Tyson McGuffin</title>
+    <sub-title>2024 PPA Tour Finals Men's Singles</sub-title>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <desc>2024 PPA Tour Finals Men's Singles</desc>
+    <icon src="https://d3e54iig6qqew6.cloudfront.net/16x9_BEST_OF_MCGUFFIN.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" start="20250720180000 +0000" stop="20250721000000 +0000">
-    <title>MLP St. Louis 2025</title>
-    <category>Movie</category>
-    <desc>Live Pickleball coverage from MLP St. Louis</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/da2afe7d-1a52-4db2-a7a8-42cfbbd47aa1/pbtv_4_2000_X_3000_Vertical_Art_with_Logo_v1_-_Ari_Brock.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" start="20250722010000 +0000" stop="20250722020000 +0000">
+    <title>Best of Tyson McGuffin</title>
+    <sub-title>2024 MLP Columbus</sub-title>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <desc>2024 MLP Columbus</desc>
+    <icon src="https://d3e54iig6qqew6.cloudfront.net/16x9_BEST_OF_MCGUFFIN.jpg" />
   </programme>
   
 </tv>
