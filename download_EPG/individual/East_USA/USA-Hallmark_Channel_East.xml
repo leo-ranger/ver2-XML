@@ -1,279 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv date="20250807100057 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403490/20250807.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403490&amp;date=20250807&amp;timezone=None">
+<tv date="20250808100003 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403490/20250808.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403490&amp;date=20250808&amp;timezone=None">
   <channel id="403490">
     <display-name lang="US">Hallmark - Eastern Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403490" start="20250807000000 +0000" stop="20250807020000 +0000">
-    <title lang="zh">Providence Falls</title>
-    <desc>Cora, a new police detective, is partnered with visiting detective Liam on her first case; little does she know that Liam is her reincarnated love who's here to change her fate.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807020000 +0000" stop="20250807023000 +0000">
-    <title lang="zh">The Golden Girls</title>
-  <icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
-  <category lang="en">Series</category>
-  <category lang="en">SitCom</category>
-  <category lang="en">Comedy</category>
-  <category lang="en">Drama</category>
-  <category lang="en">Family</category>
-    <desc>Rose's cousin, Sven Lindstrom, arrives from Sweden and falls in love with Blanche.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807023000 +0000" stop="20250807030000 +0000">
-    <title lang="zh">The Golden Girls</title>
-  <icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
-  <category lang="en">Series</category>
-  <category lang="en">SitCom</category>
-  <category lang="en">Comedy</category>
-  <category lang="en">Drama</category>
-  <category lang="en">Family</category>
-    <desc>The women confront their phobias on a flight to the Bahamas to attend a funeral.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807030000 +0000" stop="20250807033000 +0000">
-    <title lang="zh">The Golden Girls</title>
-  <icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
-  <category lang="en">Series</category>
-  <category lang="en">SitCom</category>
-  <category lang="en">Comedy</category>
-  <category lang="en">Drama</category>
-  <category lang="en">Family</category>
-    <desc>Rose, concerned about the nuclear arms race, mails letters to President Reagan and Soviet leader Mikhail Gorbachev.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807033000 +0000" stop="20250807040000 +0000">
-    <title lang="zh">The Golden Girls</title>
-  <icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
-  <category lang="en">Series</category>
-  <category lang="en">SitCom</category>
-  <category lang="en">Comedy</category>
-  <category lang="en">Drama</category>
-  <category lang="en">Family</category>
-    <desc>A political candidate announces that he had an affair with Blanche, a contention that she denies.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807040000 +0000" stop="20250807043000 +0000">
-    <title lang="zh">The Golden Girls</title>
-  <icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
-  <category lang="en">Series</category>
-  <category lang="en">SitCom</category>
-  <category lang="en">Comedy</category>
-  <category lang="en">Drama</category>
-  <category lang="en">Family</category>
-    <desc>Dorothy makes her ex-husband, Stanley Zbornak, jealous when she has an affair with his brother Theodore.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807043000 +0000" stop="20250807050000 +0000">
-    <title lang="zh">The Golden Girls</title>
-  <icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
-  <category lang="en">Series</category>
-  <category lang="en">SitCom</category>
-  <category lang="en">Comedy</category>
-  <category lang="en">Drama</category>
-  <category lang="en">Family</category>
-    <desc>Rose's cousin, Sven Lindstrom, arrives from Sweden and falls in love with Blanche.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807050000 +0000" stop="20250807053000 +0000">
-    <title lang="zh">Reba</title>
-  <icon src="https://m.media-amazon.com/images/S/pv-target-images/7727258bad222b37ca98e9cffe3e847cc474add3fa3b19f38d511e29586a76de.jpg"/>
-  <category lang="en">Series</category>
-  <category lang="en">SitCom</category>
-  <category lang="en">Comedy</category>
-  <category lang="en">Family</category>
-    <desc>Reba finds the perfect first home for Cheyenne and Van, but Cheyenne discovers that her high-school rival is selling it.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807053000 +0000" stop="20250807060000 +0000">
-    <title lang="zh">Reba</title>
-  <icon src="https://m.media-amazon.com/images/S/pv-target-images/7727258bad222b37ca98e9cffe3e847cc474add3fa3b19f38d511e29586a76de.jpg"/>
-  <category lang="en">Series</category>
-  <category lang="en">SitCom</category>
-  <category lang="en">Comedy</category>
-  <category lang="en">Family</category>
-    <desc>Kyra tells Reba and Brock that she is postponing college to tour with her band; Cheyenne and Van cannot agree on how to decorate their new house.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807060000 +0000" stop="20250807063000 +0000">
-    <title lang="zh">Reba</title>
-  <icon src="https://m.media-amazon.com/images/S/pv-target-images/7727258bad222b37ca98e9cffe3e847cc474add3fa3b19f38d511e29586a76de.jpg"/>
-  <category lang="en">Series</category>
-  <category lang="en">SitCom</category>
-  <category lang="en">Comedy</category>
-  <category lang="en">Family</category>
-    <desc>Reba drops by Cheyenne and Van's house unexpectedly; Barbra Jean has a meltdown during her weather report.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807063000 +0000" stop="20250807070000 +0000">
-    <title lang="zh">Reba</title>
-  <icon src="https://m.media-amazon.com/images/S/pv-target-images/7727258bad222b37ca98e9cffe3e847cc474add3fa3b19f38d511e29586a76de.jpg"/>
-  <category lang="en">Series</category>
-  <category lang="en">SitCom</category>
-  <category lang="en">Comedy</category>
-  <category lang="en">Family</category>
-    <desc>Van and Cheyenne must move back in with Reba after he starts a fire at their house; Barbra Jean considers a job offer.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807070000 +0000" stop="20250807073000 +0000">
-    <title lang="zh">Frasier</title>
-  <icon src="https://m.media-amazon.com/images/S/pv-target-images/38c3dd08ba77193111f9684031a8cc82a1ae46e8cfa512cabc9edbfa6080cc34.jpg"/>
-  <category lang="en">Series</category>
-  <category lang="en">SitCom</category>
-  <category lang="en">Comedy</category>
-  <category lang="en">Family</category>
-    <desc>Frasier is arrested for giving a prostitute a ride and then must explain it to his visiting son.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807073000 +0000" stop="20250807080000 +0000">
-    <title lang="zh">Frasier</title>
-  <icon src="https://m.media-amazon.com/images/S/pv-target-images/38c3dd08ba77193111f9684031a8cc82a1ae46e8cfa512cabc9edbfa6080cc34.jpg"/>
-  <category lang="en">Series</category>
-  <category lang="en">SitCom</category>
-  <category lang="en">Comedy</category>
-  <category lang="en">Family</category>
-    <desc>Frasier's plans to play matchmaker for Martin and Roz's visiting mother (Eva Marie Saint) suddenly backfire. With guest star Alice Playten.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807080000 +0000" stop="20250807083000 +0000">
-    <title lang="zh">Frasier</title>
-  <icon src="https://m.media-amazon.com/images/S/pv-target-images/38c3dd08ba77193111f9684031a8cc82a1ae46e8cfa512cabc9edbfa6080cc34.jpg"/>
-  <category lang="en">Series</category>
-  <category lang="en">SitCom</category>
-  <category lang="en">Comedy</category>
-  <category lang="en">Family</category>
-    <desc>Woody's (Woody Harrelson) surprise visit soon wears thin when Frasier realizes how little they have in common.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807083000 +0000" stop="20250807090000 +0000">
-    <title lang="zh">Frasier</title>
-  <icon src="https://m.media-amazon.com/images/S/pv-target-images/38c3dd08ba77193111f9684031a8cc82a1ae46e8cfa512cabc9edbfa6080cc34.jpg"/>
-  <category lang="en">Series</category>
-  <category lang="en">SitCom</category>
-  <category lang="en">Comedy</category>
-  <category lang="en">Family</category>
-    <desc>A beautiful PR executive (Virginia Madsen) toys with Frasier on Valentine's Day; Martin takes Daphne to dinner.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807090000 +0000" stop="20250807093000 +0000">
-    <title lang="zh">Cheers</title>
-    <desc>Norm's plan to avoid an IRS audit backfires; Sam tries to prevent the bar from watching an old Red Sox game.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807093000 +0000" stop="20250807100000 +0000">
-    <title lang="zh">Cheers</title>
-    <desc>The gang rips the bar apart when Robin returns stating that he used to hide million-dollar money belts.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807100000 +0000" stop="20250807103000 +0000">
-    <title lang="zh">Reba</title>
-  <icon src="https://m.media-amazon.com/images/S/pv-target-images/7727258bad222b37ca98e9cffe3e847cc474add3fa3b19f38d511e29586a76de.jpg"/>
-  <category lang="en">Series</category>
-  <category lang="en">SitCom</category>
-  <category lang="en">Comedy</category>
-  <category lang="en">Family</category>
-    <desc>Reba discovers that her husband is leaving her for his pregnant girlfriend and that her 17-year-old daughter is pregnant as well.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807103000 +0000" stop="20250807110000 +0000">
-    <title lang="zh">Reba</title>
-  <icon src="https://m.media-amazon.com/images/S/pv-target-images/7727258bad222b37ca98e9cffe3e847cc474add3fa3b19f38d511e29586a76de.jpg"/>
-  <category lang="en">Series</category>
-  <category lang="en">SitCom</category>
-  <category lang="en">Comedy</category>
-  <category lang="en">Family</category>
-    <desc>Reba takes a stand when a pregnant Cheyenne is kicked out of high school but Van is allowed to stay to help the football team make the championships.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807110000 +0000" stop="20250807113000 +0000">
-    <title lang="zh">Reba</title>
-  <icon src="https://m.media-amazon.com/images/S/pv-target-images/7727258bad222b37ca98e9cffe3e847cc474add3fa3b19f38d511e29586a76de.jpg"/>
-  <category lang="en">Series</category>
-  <category lang="en">SitCom</category>
-  <category lang="en">Comedy</category>
-  <category lang="en">Family</category>
-    <desc>Reba discovers that her daughter's obstetrician will also be delivering the baby of her ex-husband's mistress.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807113000 +0000" stop="20250807120000 +0000">
-    <title lang="zh">Reba</title>
-  <icon src="https://m.media-amazon.com/images/S/pv-target-images/7727258bad222b37ca98e9cffe3e847cc474add3fa3b19f38d511e29586a76de.jpg"/>
-  <category lang="en">Series</category>
-  <category lang="en">SitCom</category>
-  <category lang="en">Comedy</category>
-  <category lang="en">Family</category>
-    <desc>Cheyenne tries to hide her morning sickness from Van; Reba's neighbor refuses to let her son sleep over.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807120000 +0000" stop="20250807123000 +0000">
-    <title lang="zh">The Golden Girls</title>
-  <icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
-  <category lang="en">Series</category>
-  <category lang="en">SitCom</category>
-  <category lang="en">Comedy</category>
-  <category lang="en">Drama</category>
-  <category lang="en">Family</category>
-    <desc>Dorothy hocks an expensive ring to pay off the debt she and her ex-husband owe to the Internal Revenue Service.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807123000 +0000" stop="20250807130000 +0000">
-    <title lang="zh">The Golden Girls</title>
-  <icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
-  <category lang="en">Series</category>
-  <category lang="en">SitCom</category>
-  <category lang="en">Comedy</category>
-  <category lang="en">Drama</category>
-  <category lang="en">Family</category>
-    <desc>Dorothy, Rose and Blanche seek professional help when living with one another becomes unbearable.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807130000 +0000" stop="20250807133000 +0000">
-    <title lang="zh">The Golden Girls</title>
-  <icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
-  <category lang="en">Series</category>
-  <category lang="en">SitCom</category>
-  <category lang="en">Comedy</category>
-  <category lang="en">Drama</category>
-  <category lang="en">Family</category>
-    <desc>Rose decides to move in with Buddy Rourke, one of her deceased husband's former buddies.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807133000 +0000" stop="20250807140000 +0000">
-    <title lang="zh">The Golden Girls</title>
-  <icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
-  <category lang="en">Series</category>
-  <category lang="en">SitCom</category>
-  <category lang="en">Comedy</category>
-  <category lang="en">Drama</category>
-  <category lang="en">Family</category>
-    <desc>Blanche agrees to pose in the nude for a suave European sculptor.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807140000 +0000" stop="20250807160000 +0000">
-    <title lang="zh">Autumn in the City</title>
-    <desc>As she bounces between temporary jobs, an optimistic woman and her jaded neighbor discover the beauty of New York City together.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807160000 +0000" stop="20250807180000 +0000">
-    <title lang="zh">A Picture of Her</title>
-    <desc>After becoming the subject of an award-winning magazine cover, a woman embarks on a quest to uncover the true identity of the photographer who snapped her photo.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807180000 +0000" stop="20250807200000 +0000">
-    <title lang="zh">Love in Paradise</title>
-    <desc>When an actor (Luke Perry) who makes Westerns visits a Montana dude ranch, a woman (Emmanuelle Vaugier) realizes that he's actually a city slicker who knows nothing about being a cowboy.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807200000 +0000" stop="20250807220000 +0000">
-    <title lang="zh">Once Upon a Winter's Date</title>
-    <desc>Katherine, an ad executive, endures the worst Valentine's Day date of her life. On her walk home, a gypsy weaves a magical spell on her. When she wakes up the next morning, she realizes she's reliving the day until she finds the right man.</desc>
-    <date>2025-08-07</date>
-  </programme>
-  <programme channel="403490" start="20250807220000 +0000" stop="20250808000000 +0000">
-    <title lang="zh">Right in Front of Me</title>
-    <desc>A woman gets a second chance at romance with her college crush but isn't sure how to impress him until her new male friend gives her advice.</desc>
-    <date>2025-08-07</date>
-  </programme>
   <programme channel="403490" start="20250808000000 +0000" stop="20250808020000 +0000">
     <title lang="zh">Aurora Teagarden Mysteries</title>
     <desc>Just days before Aurora's wedding, a body is discovered, and she fears her father may be a suspect; she and Nick race to solve the cold case before they walk down the aisle.</desc>
@@ -544,9 +274,160 @@
     <desc>A struggling pastry chef is thrilled to learn that she has made it to the finals of the American Gingerbread Competition, but distractions in her love life threaten to derail her dreams of taking home the grand prize.</desc>
     <date>2025-08-08</date>
   </programme>
-  <programme channel="403490" start="20250809000000 +0000" stop="20250810000000 +0000">
+  <programme channel="403490" start="20250809000000 +0000" stop="20250809020000 +0000">
     <title lang="zh">A Merry Scottish Christmas</title>
     <desc>When estranged siblings Lindsay and Brad Morgan travel to Scotland at Christmas to reunite with their mother Jo, a big family secret is revealed.</desc>
+    <date>2025-08-09</date>
+  </programme>
+  <programme channel="403490" start="20250809020000 +0000" stop="20250809023000 +0000">
+    <title lang="zh">The Golden Girls</title>
+  <icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
+  <category lang="en">Series</category>
+  <category lang="en">SitCom</category>
+  <category lang="en">Comedy</category>
+  <category lang="en">Drama</category>
+  <category lang="en">Family</category>
+    <desc>The women reflect on their years spent together when Sophia announces she is going to live with her son.</desc>
+    <date>2025-08-09</date>
+  </programme>
+  <programme channel="403490" start="20250809023000 +0000" stop="20250809030000 +0000">
+    <title lang="zh">The Golden Girls</title>
+  <icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
+  <category lang="en">Series</category>
+  <category lang="en">SitCom</category>
+  <category lang="en">Comedy</category>
+  <category lang="en">Drama</category>
+  <category lang="en">Family</category>
+    <desc>Blanche and Rose despise one of Dorothy's friends, the novelist Barbara Thorndyke.</desc>
+    <date>2025-08-09</date>
+  </programme>
+  <programme channel="403490" start="20250809030000 +0000" stop="20250809033000 +0000">
+    <title lang="zh">The Golden Girls</title>
+  <icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
+  <category lang="en">Series</category>
+  <category lang="en">SitCom</category>
+  <category lang="en">Comedy</category>
+  <category lang="en">Drama</category>
+  <category lang="en">Family</category>
+    <desc>A trip to Hollywood to compete on their favorite game show turns sour for the roommates.</desc>
+    <date>2025-08-09</date>
+  </programme>
+  <programme channel="403490" start="20250809033000 +0000" stop="20250809040000 +0000">
+    <title lang="zh">The Golden Girls</title>
+  <icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
+  <category lang="en">Series</category>
+  <category lang="en">SitCom</category>
+  <category lang="en">Comedy</category>
+  <category lang="en">Drama</category>
+  <category lang="en">Family</category>
+    <desc>Sophia encourages Dorothy and Stan to pretend they are still married, at least until Sophia's clergyman brother leaves town.</desc>
+    <date>2025-08-09</date>
+  </programme>
+  <programme channel="403490" start="20250809040000 +0000" stop="20250809043000 +0000">
+    <title lang="zh">The Golden Girls</title>
+  <icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
+  <category lang="en">Series</category>
+  <category lang="en">SitCom</category>
+  <category lang="en">Comedy</category>
+  <category lang="en">Drama</category>
+  <category lang="en">Family</category>
+    <desc>The women reflect on their years spent together when Sophia announces she is going to live with her son.</desc>
+    <date>2025-08-09</date>
+  </programme>
+  <programme channel="403490" start="20250809043000 +0000" stop="20250809050000 +0000">
+    <title lang="zh">The Golden Girls</title>
+  <icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
+  <category lang="en">Series</category>
+  <category lang="en">SitCom</category>
+  <category lang="en">Comedy</category>
+  <category lang="en">Drama</category>
+  <category lang="en">Family</category>
+    <desc>The women reflect on their years spent together when Sophia announces she is going to live with her son.</desc>
+    <date>2025-08-09</date>
+  </programme>
+  <programme channel="403490" start="20250809050000 +0000" stop="20250809053000 +0000">
+    <title lang="zh">Reba</title>
+  <icon src="https://m.media-amazon.com/images/S/pv-target-images/7727258bad222b37ca98e9cffe3e847cc474add3fa3b19f38d511e29586a76de.jpg"/>
+  <category lang="en">Series</category>
+  <category lang="en">SitCom</category>
+  <category lang="en">Comedy</category>
+  <category lang="en">Family</category>
+    <desc>The football players think they're doomed when Cheyenne serves the wrong kind of potato salad at the traditional pregame dinner.</desc>
+    <date>2025-08-09</date>
+  </programme>
+  <programme channel="403490" start="20250809053000 +0000" stop="20250809060000 +0000">
+    <title lang="zh">Reba</title>
+  <icon src="https://m.media-amazon.com/images/S/pv-target-images/7727258bad222b37ca98e9cffe3e847cc474add3fa3b19f38d511e29586a76de.jpg"/>
+  <category lang="en">Series</category>
+  <category lang="en">SitCom</category>
+  <category lang="en">Comedy</category>
+  <category lang="en">Family</category>
+    <desc>Reba's ex-husband becomes jealous when she calls a plumber to fix a faucet; Cheyenne "moons" Van's teammates.</desc>
+    <date>2025-08-09</date>
+  </programme>
+  <programme channel="403490" start="20250809060000 +0000" stop="20250809063000 +0000">
+    <title lang="zh">Reba</title>
+  <icon src="https://m.media-amazon.com/images/S/pv-target-images/7727258bad222b37ca98e9cffe3e847cc474add3fa3b19f38d511e29586a76de.jpg"/>
+  <category lang="en">Series</category>
+  <category lang="en">SitCom</category>
+  <category lang="en">Comedy</category>
+  <category lang="en">Family</category>
+    <desc>Kyra does not want to spend time with her father since it includes Barbra Jean; Cheyenne and Van plan to move out.</desc>
+    <date>2025-08-09</date>
+  </programme>
+  <programme channel="403490" start="20250809063000 +0000" stop="20250809070000 +0000">
+    <title lang="zh">Reba</title>
+  <icon src="https://m.media-amazon.com/images/S/pv-target-images/7727258bad222b37ca98e9cffe3e847cc474add3fa3b19f38d511e29586a76de.jpg"/>
+  <category lang="en">Series</category>
+  <category lang="en">SitCom</category>
+  <category lang="en">Comedy</category>
+  <category lang="en">Family</category>
+    <desc>When Van fails a history test due to the pressure of being a star football player, Reba steps in to tutor him.</desc>
+    <date>2025-08-09</date>
+  </programme>
+  <programme channel="403490" start="20250809070000 +0000" stop="20250809073000 +0000">
+    <title lang="zh">Frasier</title>
+  <icon src="https://m.media-amazon.com/images/S/pv-target-images/38c3dd08ba77193111f9684031a8cc82a1ae46e8cfa512cabc9edbfa6080cc34.jpg"/>
+  <category lang="en">Series</category>
+  <category lang="en">SitCom</category>
+  <category lang="en">Comedy</category>
+  <category lang="en">Family</category>
+    <desc>The brothers' competitiveness prompts them to seek their childhood I.Q. scores.</desc>
+    <date>2025-08-09</date>
+  </programme>
+  <programme channel="403490" start="20250809073000 +0000" stop="20250809080000 +0000">
+    <title lang="zh">Frasier</title>
+  <icon src="https://m.media-amazon.com/images/S/pv-target-images/38c3dd08ba77193111f9684031a8cc82a1ae46e8cfa512cabc9edbfa6080cc34.jpg"/>
+  <category lang="en">Series</category>
+  <category lang="en">SitCom</category>
+  <category lang="en">Comedy</category>
+  <category lang="en">Family</category>
+    <desc>Frasier gets a shock after hiring a glamorous psychiatrist (Christine Baranski) to host a radio talk show. Guest star Piper Laurie.</desc>
+    <date>2025-08-09</date>
+  </programme>
+  <programme channel="403490" start="20250809080000 +0000" stop="20250809083000 +0000">
+    <title lang="zh">Frasier</title>
+  <icon src="https://m.media-amazon.com/images/S/pv-target-images/38c3dd08ba77193111f9684031a8cc82a1ae46e8cfa512cabc9edbfa6080cc34.jpg"/>
+  <category lang="en">Series</category>
+  <category lang="en">SitCom</category>
+  <category lang="en">Comedy</category>
+  <category lang="en">Family</category>
+    <desc>Just as Frasier overcomes his fears about his relationship with Cassandra, Faye returns and upsets the balance in his life.</desc>
+    <date>2025-08-09</date>
+  </programme>
+  <programme channel="403490" start="20250809083000 +0000" stop="20250809090000 +0000">
+    <title lang="zh">Frasier</title>
+  <icon src="https://m.media-amazon.com/images/S/pv-target-images/38c3dd08ba77193111f9684031a8cc82a1ae46e8cfa512cabc9edbfa6080cc34.jpg"/>
+  <category lang="en">Series</category>
+  <category lang="en">SitCom</category>
+  <category lang="en">Comedy</category>
+  <category lang="en">Family</category>
+    <desc>Frasier criticizes Niles after he encourages Daphne's belief in her own clairvoyance. Guest star Saul Rubinek.</desc>
+    <date>2025-08-09</date>
+  </programme>
+  <programme channel="403490" start="20250809090000 +0000" stop="20250810000000 +0000">
+    <title lang="zh">Cheers</title>
+    <desc>Lilith returns from the Eco-pod to talk with Frasier about their divorce, but they are held at gunpoint by her jealous lover.</desc>
     <date>2025-08-09</date>
   </programme>
 </tv>
