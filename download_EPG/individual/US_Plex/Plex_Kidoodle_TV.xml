@@ -2,178 +2,692 @@
 <tv generator-info-name="www.matthuisman.nz">
 <channel id="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a">
     <display-name>Kidoodle TV</display-name>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/785ee254-61da-47ed-a734-6f00be0444fb/Kidoodle.TV_Channel_Logo1500x1000rdx.png" />
+    <icon src="https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250806222336 +0000" stop="20250806232336 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250807231550 +0000" stop="20250807232319 +0000">
+    <title>Steve And Maggie</title>
+    <sub-title>Dream jobs?</sub-title>
+    <episode-num system="onscreen">S01E22</episode-num>
+    <desc>Steve's at school and is tired of being a teacher. "Maggie Magic" helps him find his dream job. First, he wants to be a gardener....until it rains and he gets wet! What else does Steve want to be? Or is being a teacher really his dream job after all?!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/SteveAndMaggie-Series-1984-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250807232319 +0000" stop="20250807233000 +0000">
+    <title>Steve And Maggie</title>
+    <sub-title>Watch what you eat, Steve!</sub-title>
+    <episode-num system="onscreen">S01E24</episode-num>
+    <desc>It's break time at school, and Steve is looking forward to eating some crisps and cake. That's not very healthy! So Maggie decides to replace Steve's snacks with something a bit healthier. What does she bring him? Join in the fun to find out.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/SteveAndMaggie-Series-1984-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250807233000 +0000" stop="20250808000000 +0000">
+    <title>Slick Slime Sam</title>
+    <sub-title>Two Coolest Hamster Mazes</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Hamsters love to have fun too! And we made two cardboard mazes with obstacles for our furry friends. It looks like now the hamsters are delighted!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/SlickSlimeSam-89084-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808000000 +0000" stop="20250808003000 +0000">
+    <title>5-Minute Crafts</title>
+    <sub-title>Awesome Painting Techniques Anyone Can Do</sub-title>
+    <episode-num system="onscreen">S01E25</episode-num>
+    <desc>Decorate your room with these awesome paintings! We have prepared inspirational painting techniques for beginners and smart hacks that will level up your art skills!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/5MinuteCrafts-88332-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808003000 +0000" stop="20250808004707 +0000">
+    <title>So Yummy - Oven Lovin' - More Cakes</title>
+    <sub-title>Ice Cream, Cake Hacks &amp; Childhood Cereal Favorites</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Enjoy todays' Ice Cream and Cake Hacks and Yummy Childhood Cereal Favorites reimagined!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/OvenLovinMoreCakes-Series-2471-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808004707 +0000" stop="20250808005959 +0000">
+    <title>So Yummy - Oven Lovin' - More Cakes</title>
+    <sub-title>Easy Cake Upgrades, Delicious Bundt Cake Surprise and Creative Cakes</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Enjoy these Easy Cake Upgrades, Delicious Bundt Cake Surprise and Creative Cakes that are as Fun to Make as They are to Pull Apart!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/OvenLovinMoreCakes-Series-2471-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808005959 +0000" stop="20250808011303 +0000">
+    <title>So Yummy - 123 Cook</title>
+    <sub-title>123 Cook_Delicious pies</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Today we will transform Bread Dough, make Delicious Pies and Instant Noodles Classics!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/123Cook-Series-2873-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808011303 +0000" stop="20250808012505 +0000">
+    <title>So Yummy - 123 Cook</title>
+    <sub-title>123 Cook_Tuscan Shrimp Pasta</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Enjoy making Brunch for a Crowd, Cutting Fruit easily and make a One Pot Creamy Tuscan Shrimp Pasta!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/123Cook-Series-2873-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808012505 +0000" stop="20250808012959 +0000">
+    <title>So Yummy - 123 Cook</title>
+    <sub-title>123 Cook_Classic Cakes</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Today we will make Frozen Yogurt Popsicles and Upgrade Classic Cakes to the Next Level!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/123Cook-Series-2873-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808012959 +0000" stop="20250808014511 +0000">
+    <title>AFV Kids</title>
+    <sub-title>Guitars and Giggles</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>These hilarious kids are ready for the stage! Featuring jam sessions and funny kids that will keep you laughing.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/AFVKids-Series-3416-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808014511 +0000" stop="20250808015959 +0000">
+    <title>AFV Kids</title>
+    <sub-title>Splashes and Stumbles</sub-title>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <desc>Watch as kids attempt everything from DIY boats to slip-and-slide stunts with unexpected results!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/AFVKids-Series-3416-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808015959 +0000" stop="20250808020406 +0000">
+    <title>Like Nastya</title>
+    <sub-title>Fun places in Los Angeles</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Nastya and her dad decided to visit several fun places in Los Angeles. They went to the museum of illusions, the giant's house and the upside-down house.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/LikeNastya-Series-2921-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808020406 +0000" stop="20250808021218 +0000">
+    <title>Like Nastya</title>
+    <sub-title>See how famous films were filmed</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Nastya shows all the tricks that are used when shooting her video. And also Nastya will go on an excursion to see how the most famous films were filmed.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/LikeNastya-Series-2921-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808021218 +0000" stop="20250808021808 +0000">
+    <title>Like Nastya</title>
+    <sub-title>Nastya receives drawing lessons</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Nastya meets Romero Britto, a famous contemporary artist, who will give her some advice on drawing and art.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/LikeNastya-Series-2921-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808021808 +0000" stop="20250808022652 +0000">
+    <title>Like Nastya</title>
+    <sub-title>Sights worth visiting in Switzerland</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Nastya and her dad are going to travel to Switzerland. They will show you the best places to travel with the whole family</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/LikeNastya-Series-2921-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808022652 +0000" stop="20250808023252 +0000">
+    <title>Like Nastya</title>
+    <sub-title>Learn how to cook pasta and ice cream in Italy</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Nastya and Papa go on a family trip to Italy. Together they learn how to cook pasta and ice cream from the best specialists</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/LikeNastya-Series-2921-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808023252 +0000" stop="20250808023828 +0000">
+    <title>Like Nastya</title>
+    <sub-title>Summer holidays</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Nastya does not get bored during the summer holidays and learns to use the Internet. Now she can get an answer to any question and even helps dad find the right way using navigation</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/LikeNastya-Series-2921-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808023828 +0000" stop="20250808024857 +0000">
+    <title>Like Nastya</title>
+    <sub-title>Interesting places in London</sub-title>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <desc>Nastya and dad learn to find compromises and set a good example. They travel together and visit all the most interesting places in London.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/LikeNastya-Series-2921-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808024857 +0000" stop="20250808025453 +0000">
+    <title>Like Nastya</title>
+    <sub-title>The Petting Zoo</sub-title>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <desc>Nastya and Dad go to the petting zoo to learn more about wild animals.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/LikeNastya-Series-2921-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808025453 +0000" stop="20250808030000 +0000">
+    <title>Like Nastya</title>
+    <sub-title>Rules of Etiquette</sub-title>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <desc>Dad teaches Nastya the rules of etiquette. How important it is to say Thank You and Please, as well as to say hello and bye.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/LikeNastya-Series-2921-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808030000 +0000" stop="20250808033000 +0000">
+    <title>Familia Diamond</title>
+    <sub-title>PRANKING MY KIDS FOR 24 HOURS!! **EPIC**</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>I pulled off the ultimate prank payback! My kids had no clue what was coming, and their reactions were priceless. From morning to bedtime, it was nonstop pranks!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/FamiliaDiamond-Series-3465-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808033000 +0000" stop="20250808034303 +0000">
+    <title>So Yummy - 123 Cook</title>
+    <sub-title>123 Cook_Delicious pies</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Today we will transform Bread Dough, make Delicious Pies and Instant Noodles Classics!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/123Cook-Series-2873-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808034303 +0000" stop="20250808035505 +0000">
+    <title>So Yummy - 123 Cook</title>
+    <sub-title>123 Cook_Tuscan Shrimp Pasta</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Enjoy making Brunch for a Crowd, Cutting Fruit easily and make a One Pot Creamy Tuscan Shrimp Pasta!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/123Cook-Series-2873-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808035505 +0000" stop="20250808035959 +0000">
+    <title>So Yummy - 123 Cook</title>
+    <sub-title>123 Cook_Classic Cakes</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Today we will make Frozen Yogurt Popsicles and Upgrade Classic Cakes to the Next Level!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/123Cook-Series-2873-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808035959 +0000" stop="20250808043411 +0000">
+    <title>Slick Slime Sam</title>
+    <sub-title>Two Coolest Hamster Mazes</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Hamsters love to have fun too! And we made two cardboard mazes with obstacles for our furry friends. It looks like now the hamsters are delighted!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/SlickSlimeSam-89084-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808043411 +0000" stop="20250808045959 +0000">
+    <title>Slick Slime Sam</title>
+    <sub-title>How To Make Amazing Cardboard Crafts</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Cardboard is a unique material! In this video we will show you how to craft cool cardboard suitcase for money and incredible music machine out of it!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/SlickSlimeSam-89085-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808045959 +0000" stop="20250808051707 +0000">
+    <title>So Yummy - Oven Lovin' - More Cakes</title>
+    <sub-title>Ice Cream, Cake Hacks &amp; Childhood Cereal Favorites</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Enjoy todays' Ice Cream and Cake Hacks and Yummy Childhood Cereal Favorites reimagined!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/OvenLovinMoreCakes-Series-2471-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808051707 +0000" stop="20250808052959 +0000">
+    <title>So Yummy - Oven Lovin' - More Cakes</title>
+    <sub-title>Easy Cake Upgrades, Delicious Bundt Cake Surprise and Creative Cakes</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Enjoy these Easy Cake Upgrades, Delicious Bundt Cake Surprise and Creative Cakes that are as Fun to Make as They are to Pull Apart!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/OvenLovinMoreCakes-Series-2471-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808052959 +0000" stop="20250808054511 +0000">
+    <title>AFV Kids</title>
+    <sub-title>Guitars and Giggles</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>These hilarious kids are ready for the stage! Featuring jam sessions and funny kids that will keep you laughing.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/AFVKids-Series-3416-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808054511 +0000" stop="20250808055959 +0000">
+    <title>AFV Kids</title>
+    <sub-title>Splashes and Stumbles</sub-title>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <desc>Watch as kids attempt everything from DIY boats to slip-and-slide stunts with unexpected results!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/AFVKids-Series-3416-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808055959 +0000" stop="20250808060406 +0000">
+    <title>Like Nastya</title>
+    <sub-title>Fun places in Los Angeles</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Nastya and her dad decided to visit several fun places in Los Angeles. They went to the museum of illusions, the giant's house and the upside-down house.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/LikeNastya-Series-2921-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808060406 +0000" stop="20250808061218 +0000">
+    <title>Like Nastya</title>
+    <sub-title>See how famous films were filmed</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Nastya shows all the tricks that are used when shooting her video. And also Nastya will go on an excursion to see how the most famous films were filmed.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/LikeNastya-Series-2921-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808061218 +0000" stop="20250808061808 +0000">
+    <title>Like Nastya</title>
+    <sub-title>Nastya receives drawing lessons</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Nastya meets Romero Britto, a famous contemporary artist, who will give her some advice on drawing and art.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/LikeNastya-Series-2921-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808061808 +0000" stop="20250808062652 +0000">
+    <title>Like Nastya</title>
+    <sub-title>Sights worth visiting in Switzerland</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Nastya and her dad are going to travel to Switzerland. They will show you the best places to travel with the whole family</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/LikeNastya-Series-2921-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808062652 +0000" stop="20250808063252 +0000">
+    <title>Like Nastya</title>
+    <sub-title>Learn how to cook pasta and ice cream in Italy</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Nastya and Papa go on a family trip to Italy. Together they learn how to cook pasta and ice cream from the best specialists</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/LikeNastya-Series-2921-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808063252 +0000" stop="20250808063828 +0000">
+    <title>Like Nastya</title>
+    <sub-title>Summer holidays</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Nastya does not get bored during the summer holidays and learns to use the Internet. Now she can get an answer to any question and even helps dad find the right way using navigation</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/LikeNastya-Series-2921-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808063828 +0000" stop="20250808064857 +0000">
+    <title>Like Nastya</title>
+    <sub-title>Interesting places in London</sub-title>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <desc>Nastya and dad learn to find compromises and set a good example. They travel together and visit all the most interesting places in London.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/LikeNastya-Series-2921-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808064857 +0000" stop="20250808065453 +0000">
+    <title>Like Nastya</title>
+    <sub-title>The Petting Zoo</sub-title>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <desc>Nastya and Dad go to the petting zoo to learn more about wild animals.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/LikeNastya-Series-2921-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808065453 +0000" stop="20250808070000 +0000">
+    <title>Like Nastya</title>
+    <sub-title>Rules of Etiquette</sub-title>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <desc>Dad teaches Nastya the rules of etiquette. How important it is to say Thank You and Please, as well as to say hello and bye.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/LikeNastya-Series-2921-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808070000 +0000" stop="20250808071633 +0000">
+    <title>Unicorn Academy</title>
+    <sub-title>Mystery at the Stables</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>The Sapphire team works together to get to the bottom of the mystery of the floating objects.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/UnicornAcademy-105370-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808071633 +0000" stop="20250808072959 +0000">
+    <title>Unicorn Academy</title>
+    <sub-title>BTS of the Fairy Moon Masquerade</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Fun and friendship behind the scenes of the Fairy Moon Masquerade Ball.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/UnicornAcademy-105371-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808072959 +0000" stop="20250808080000 +0000">
+    <title>LEGO The Movie Videogame</title>
+    <sub-title>The Prophecy!</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>This is Season 1, Part 1 of LEGO The Movie Videogame on Nintendo Wii U. Help Emmet as he is drafted into a fellowship of strangers on an epic quest to stop an evil tyrant!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/LEGOTheMovieVideogame-Series-2545-2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808080000 +0000" stop="20250808081020 +0000">
+    <title>Lively Lewis Show</title>
+    <sub-title>Levi Turns BLUE and Learns About "Sadness"</sub-title>
+    <episode-num system="onscreen">S06E01</episode-num>
+    <desc>Levi’s day turns blue as he faces car troubles, Monopoly losses, and ice cream spills. With Buddy’s support and his family’s love, Levi learns it's okay to express his feelings.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/LivelyLewisShow-Series-2448-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808081020 +0000" stop="20250808082130 +0000">
+    <title>Lively Lewis Show</title>
+    <sub-title>We Did a Ninja Warrior Race! Who Is the Best NINJA?</sub-title>
+    <episode-num system="onscreen">S06E02</episode-num>
+    <desc>Levi and Ivy do a Ninja Warrior Race! Who is the Best Ninja?? It's Levi and Ivy vs Dad in 3 very tough ninja warrior parkour racing challenges! Who will win? Watch to the end to find out!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/LivelyLewisShow-Series-2448-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808082130 +0000" stop="20250808083000 +0000">
+    <title>Lively Lewis Show</title>
+    <sub-title>Ivy Turns PURPLE and Learns About "Fear"</sub-title>
+    <episode-num system="onscreen">S06E03</episode-num>
+    <desc>Ivy turns purple and learns about Fear! Ivy turns purple with fear over sharks, bugs, and earthquakes! Can Mom, Dad, and Levi help her feel safe again with deep breaths, glowing stars, and a bug fossil kit?</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/LivelyLewisShow-Series-2448-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808083000 +0000" stop="20250808085131 +0000">
+    <title>Jkrew Fam</title>
+    <sub-title>EAT IT AND I'LL PAY FOR IT!! (bad food)</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Watch the JKrew Fam tackle crazy food challenges, eating bad dishes for cash rewards! Hilarity and grossed-out reactions guaranteed!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/JkrewFam-Series-2523-2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808085131 +0000" stop="20250808090123 +0000">
+    <title>Jkrew Fam</title>
+    <sub-title>HOME ALONE ON A FRIDAY NIGHT!!</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>The JKrew shares a night of laughs, pranks, and sibling fun when left home alone for the evening!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/JkrewFam-Series-2523-2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808090123 +0000" stop="20250808091354 +0000">
+    <title>Jkrew Fam</title>
+    <sub-title>LAST To LEAVE Our PARENTS BEDROOM!!</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Who can stay the longest in their parents’ room? The siblings take on a hilarious endurance challenge filled with twists!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/JkrewFam-Series-2523-2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808091354 +0000" stop="20250808092135 +0000">
+    <title>Jkrew Fam</title>
+    <sub-title>COPYING OUR LITTLE BROTHERS DIET FOR 24 HOURS!!</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>The siblings hilariously struggle to match their little brother’s eating habits for a full day.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/JkrewFam-Series-2523-2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808092135 +0000" stop="20250808092959 +0000">
+    <title>Jkrew Fam</title>
+    <sub-title>Switching LIVES For 24 HOURS!!</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Watch the siblings swap roles for a day in this funny and chaotic lifestyle-switching challenge!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/JkrewFam-Series-2523-2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808092959 +0000" stop="20250808093404 +0000">
+    <title>T-Rex Ranch</title>
+    <sub-title>Too Close for Hunger</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>T-Rex Ranch for those who love dinosaurs and adventure!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/TRexRanch-59957-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808093404 +0000" stop="20250808095015 +0000">
+    <title>T-Rex Ranch</title>
+    <sub-title>Dinosaurs &amp; Tyson at Jurassic Quest</sub-title>
+    <episode-num system="onscreen">S01E18</episode-num>
+    <desc>Park Ranger Aaron and Park Ranger LB are at Jurassic Quest to check out the new Ancient Oceans Exhibit and the giant Megalodon shark! Safari Sarah asks them to look after Tyson, the baby T-Rex Dinosaur, but he soon goes missing! Can the Park Rangers find</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/TRexRanch-59974-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808095015 +0000" stop="20250808100554 +0000">
+    <title>T-Rex Ranch</title>
+    <sub-title>Dinosaurs &amp; Animals for Kids! Giant Dinosaur vs Mystery Pet with Wildlife Animal Adventure Park Zoo</sub-title>
+    <episode-num system="onscreen">S01E20</episode-num>
+    <desc>In this Dinosaur adventure, Park Ranger Aaron and Park Ranger LB bring back a new mystery pet to Dino HQ. When the pet goes missing, the park rangers encounter a Raptor that's snuck inside headquarters!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/TRexRanch-59976-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808100554 +0000" stop="20250808101815 +0000">
+    <title>T-Rex Ranch</title>
+    <sub-title>Jurassic World Fallen Kingdom Volcano Adventure Dinosaur Skit! Giant Life Size T-Rex &amp; Toy Dinosaurs</sub-title>
+    <episode-num system="onscreen">S01E21</episode-num>
+    <desc>Just like in the new movie Jurassic World: Fallen Kingdom, Park Ranger Aaron sees a ferocious volcano that's going to wipe out the Dinosaur park.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/TRexRanch-59977-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808101815 +0000" stop="20250808103000 +0000">
+    <title>T-Rex Ranch</title>
+    <sub-title>Giant Festival for Kids! Theme Park with Pirates, Rides, Family Games, Outdoor Activities &amp; Toys</sub-title>
+    <episode-num system="onscreen">S01E22</episode-num>
+    <desc>Park Ranger Aaron and Park Ranger LB visit a fun family theme park with lots of outdoor activities for kids. The Scarborough Renaissance Festival has jousting, kid's rides, pirates and panning for gemstone treasure.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/TRexRanch-59978-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808103000 +0000" stop="20250808103438 +0000">
+    <title>Dude Perfect Battles</title>
+    <sub-title>Epic Trick Shot Battle</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Anything you can do, I can do better... Or can I? ... Or can you?</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/BattlesDudePerfect-Series-3217-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808103438 +0000" stop="20250808104351 +0000">
+    <title>Dude Perfect Battles</title>
+    <sub-title>Paper Airplane Battle</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>The world's best paper airplane (is not in this video...)</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/BattlesDudePerfect-Series-3217-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808104351 +0000" stop="20250808105235 +0000">
+    <title>Dude Perfect Battles</title>
+    <sub-title>NASCAR Trick Shot Battle</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>ravis Pastrana, Ricky Stenhouse Jr, James Hinchcliffe, and James Buescher go HEAD to HEAD in a Trick Shot Battle for the ages.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/BattlesDudePerfect-Series-3217-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808105235 +0000" stop="20250808105959 +0000">
+    <title>Dude Perfect Battles</title>
+    <sub-title>Bubble Wrap Battle</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Jousting, Scooter Racing &amp; Paintball: Bubble Wrap Style Special</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/BattlesDudePerfect-Series-3217-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808105959 +0000" stop="20250808113000 +0000">
+    <title>Krewcraft</title>
+    <sub-title>Our grand finale in !</sub-title>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <desc>Everyone is hiding a secret in Krewcraft... but who's the worst?</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/Krewcraft-Series-2998-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808113000 +0000" stop="20250808120000 +0000">
+    <title>LEGO The Movie Videogame</title>
+    <sub-title>The Prophecy!</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>This is Season 1, Part 1 of LEGO The Movie Videogame on Nintendo Wii U. Help Emmet as he is drafted into a fellowship of strangers on an epic quest to stop an evil tyrant!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/LEGOTheMovieVideogame-Series-2545-2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808120000 +0000" stop="20250808122112 +0000">
+    <title>PAW Patrol: Mighty Pups Save Adventure Bay by AbdallahSmash</title>
+    <sub-title>Jake's Resort</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>PAW Patrol: Mighty Pups Save Adventure Bay - Part 2: Jake's Resort</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/PAWPatrolMightyPupsSaveAdventureBay-Series-2065-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808122112 +0000" stop="20250808123900 +0000">
+    <title>PAW Patrol: Mighty Pups Save Adventure Bay by AbdallahSmash</title>
+    <sub-title>Find Chickaletta</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>PAW Patrol: Mighty Pups Save Adventure Bay - Part 3: Find Chickaletta</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/PAWPatrolMightyPupsSaveAdventureBay-Series-2065-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808123900 +0000" stop="20250808125959 +0000">
+    <title>PAW Patrol: Mighty Pups Save Adventure Bay by AbdallahSmash</title>
+    <sub-title>Save Carlos</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>PAW Patrol: Mighty Pups Save Adventure Bay - Part 5: Save Carlos</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/PAWPatrolMightyPupsSaveAdventureBay-Series-2065-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808125959 +0000" stop="20250808130420 +0000">
+    <title>Doggyland</title>
+    <sub-title>I'm Not Afraid Of The Dark</sub-title>
+    <episode-num system="onscreen">S02E14</episode-num>
+    <desc>It's important to remember that there is no reason to be afraid of the dark, which is why we're bringing you this brand new sing along. Woofee, Barks and Yap Yap sing and dance while they help each face their fears and turn off their night lights!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/Doggyland-Series-2542-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808130420 +0000" stop="20250808130849 +0000">
+    <title>Doggyland</title>
+    <sub-title>Dreams</sub-title>
+    <episode-num system="onscreen">S02E15</episode-num>
+    <desc>What is your dream? To be a doctor? A rockstar? Yap Yap and Billy are going to explore their dreams in this new sing along kids video from Doggyland. The duo go on an adventure in the clouds where they sing and dance about following their dreams</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/Doggyland-Series-2542-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808130849 +0000" stop="20250808131347 +0000">
+    <title>Doggyland</title>
+    <sub-title>I'm A Little Teapot</sub-title>
+    <episode-num system="onscreen">S02E17</episode-num>
+    <desc>Chow Wow is inviting you to her tea party! Joing Bow Wizzle and the rest of the Doggyland crew as they learn how to properly drink tea, eat snacks, dance and sing!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/Doggyland-Series-2542-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808131347 +0000" stop="20250808131842 +0000">
+    <title>Doggyland</title>
+    <sub-title>Just Breathe</sub-title>
+    <episode-num system="onscreen">S02E18</episode-num>
+    <desc>Join Bow Wizzle and all of the puppies down in Doggyland in welcoming their new First 5 California friend, Roar the Dragon. Roar is going to help the Doggyland crew learn how to take deep breaths when they might feel frustrated or upset.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/Doggyland-Series-2542-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808131842 +0000" stop="20250808132434 +0000">
+    <title>Doggyland</title>
+    <sub-title>London Bridge</sub-title>
+    <episode-num system="onscreen">S02E20</episode-num>
+    <desc>London Bridge is falling down...in Doggyland? That's right, join Bow Wizzle (played by Snoop Dogg) Woofee, Chow Wow, Yap Yap, and Barks-A-Locks as they try to build their very own London Bridge. But things don't go quite as planned.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/Doggyland-Series-2542-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808132434 +0000" stop="20250808133507 +0000">
+    <title>Doggyland</title>
+    <sub-title>Let's Talk About Bugs</sub-title>
+    <episode-num system="onscreen">S02E22</episode-num>
+    <desc>Join Woofee, Bow Wizzle and the rest of the puppies in Doggyland as they take an teeny tiny adventure with bugs! Shrink down and see how amazing ladybugs, spiders, ants and all the rest of their tiny friends are as the puppies sing, dance and rap!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/Doggyland-Series-2542-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808133507 +0000" stop="20250808134249 +0000">
+    <title>Doggyland</title>
+    <sub-title>Happy Mother's Day</sub-title>
+    <episode-num system="onscreen">S02E26</episode-num>
+    <desc>Join the Doggyland crew in celebrating all the mothers of the world with this R&amp;B Mother's Day song! Yap Yap, Woofee, Barks-A-Locks and the other puppies sing, dance and rap about the things they love most about their moms (and grandmas).</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/Doggyland-Series-2542-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808134249 +0000" stop="20250808134737 +0000">
+    <title>Doggyland</title>
+    <sub-title>The Solar System</sub-title>
+    <episode-num system="onscreen">S02E29</episode-num>
+    <desc>What do you know about planets? Woofee, Barks-A-Locks and Yap Yap want to learn more about them, especially the ones in our solar system and Bow Wizzle is going to teach them! Jump in Bow Wizzle's rocket car and explore Mercury, Venus, Earth, Mars, Ju...</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/Doggyland-Series-2542-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808134737 +0000" stop="20250808135204 +0000">
+    <title>Doggyland</title>
+    <sub-title>Hello Goodbye Around The World</sub-title>
+    <episode-num system="onscreen">S02E31</episode-num>
+    <desc>Hello! Goodbye! Aloha! Adios! Join Yap Yap, Bow Wizzle (played by Snoop Dogg) and all the puppies down in Doggyland as they go around the world and discover new ways to say hello and goodbye.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/Doggyland-Series-2542-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808135204 +0000" stop="20250808135510 +0000">
+    <title>Doggyland</title>
+    <sub-title>Going For The Gold</sub-title>
+    <episode-num system="onscreen">S02E33</episode-num>
+    <desc>It's that time of the year where all of the best athletes from around the globe come together to compete in the Olympics. Sing, dance and rap along with the Doggyland crew about different sports and what it takes to be a good competitor!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/Doggyland-Series-2542-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808135510 +0000" stop="20250808140000 +0000">
+    <title>Doggyland</title>
+    <sub-title>Brave &amp; Strong</sub-title>
+    <episode-num system="onscreen">S02E34</episode-num>
+    <desc>Join Woofee, Chow Wow, Rolla, Lil Tug and Bow Wizzle (played by Snoop Dogg) as they sing, dance and rap this positive affirmation song about how you can do anything if you set your mind to it! This song is perfect for helping your toddler or preschool...</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/Doggyland-Series-2542-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808140000 +0000" stop="20250808141431 +0000">
+    <title>Doozers</title>
+    <sub-title>Project Radish-a-pult</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>The Pod Squad work together to get radishes across the ravine when the bridge breaks.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/Doozers-Series-3173-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808141431 +0000" stop="20250808142818 +0000">
+    <title>Doozers</title>
+    <sub-title>Pod Squad Boogey</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Inspired by nature, the Pod Squad invent new instruments for the Starlight Concert.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/Doozers-Series-3173-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808142818 +0000" stop="20250808144211 +0000">
+    <title>Doozers</title>
+    <sub-title>Jetpack Away</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Lead by Flex, the Pod Squad work together to capture Daisy Wheel's escaped Jetpack.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/Doozers-Series-3173-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808144211 +0000" stop="20250808150000 +0000">
+    <title>Doozers</title>
+    <sub-title>Follow Your Nose</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Baker Timber Bolt made too many muffins and it's the Pod Squad's job to get them to hungry Doozers all over Doozer Creek.</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/Doozers-Series-3173-1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808150000 +0000" stop="20250808153229 +0000">
+    <title>LEGO The Movie Videogame</title>
+    <sub-title>The Prophecy!</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>This is Season 1, Part 1 of LEGO The Movie Videogame on Nintendo Wii U. Help Emmet as he is drafted into a fellowship of strangers on an epic quest to stop an evil tyrant!</desc>
+    <icon src="https://d2r30i1in49qaa.cloudfront.net/Images/S3/LEGOTheMovieVideogame-Series-2545-2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808162336 +0000" stop="20250808172336 +0000">
     <title>Kidoodle TV</title>
     <category>Movie</category>
     <desc>Favorite, fun and engaging kids shows hand-picked by parents like you. Find peace-of-mind with our kid safe programming.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/fc0061b6-03fd-456a-a933-38f075741061/Kidoodle.TV_Poster_Image__2000x3000_.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250806232336 +0000" stop="20250807002336 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808172336 +0000" stop="20250808182336 +0000">
     <title>Kidoodle TV</title>
     <category>Movie</category>
     <desc>Favorite, fun and engaging kids shows hand-picked by parents like you. Find peace-of-mind with our kid safe programming.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/fc0061b6-03fd-456a-a933-38f075741061/Kidoodle.TV_Poster_Image__2000x3000_.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250807002336 +0000" stop="20250807012336 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808182336 +0000" stop="20250808192336 +0000">
     <title>Kidoodle TV</title>
     <category>Movie</category>
     <desc>Favorite, fun and engaging kids shows hand-picked by parents like you. Find peace-of-mind with our kid safe programming.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/fc0061b6-03fd-456a-a933-38f075741061/Kidoodle.TV_Poster_Image__2000x3000_.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250807012336 +0000" stop="20250807022336 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808192336 +0000" stop="20250808202336 +0000">
     <title>Kidoodle TV</title>
     <category>Movie</category>
     <desc>Favorite, fun and engaging kids shows hand-picked by parents like you. Find peace-of-mind with our kid safe programming.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/fc0061b6-03fd-456a-a933-38f075741061/Kidoodle.TV_Poster_Image__2000x3000_.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250807022336 +0000" stop="20250807032336 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808202336 +0000" stop="20250808212336 +0000">
     <title>Kidoodle TV</title>
     <category>Movie</category>
     <desc>Favorite, fun and engaging kids shows hand-picked by parents like you. Find peace-of-mind with our kid safe programming.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/fc0061b6-03fd-456a-a933-38f075741061/Kidoodle.TV_Poster_Image__2000x3000_.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250807032336 +0000" stop="20250807042336 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808212336 +0000" stop="20250808222336 +0000">
     <title>Kidoodle TV</title>
     <category>Movie</category>
     <desc>Favorite, fun and engaging kids shows hand-picked by parents like you. Find peace-of-mind with our kid safe programming.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/fc0061b6-03fd-456a-a933-38f075741061/Kidoodle.TV_Poster_Image__2000x3000_.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250807042336 +0000" stop="20250807052336 +0000">
-    <title>Kidoodle TV</title>
-    <category>Movie</category>
-    <desc>Favorite, fun and engaging kids shows hand-picked by parents like you. Find peace-of-mind with our kid safe programming.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/fc0061b6-03fd-456a-a933-38f075741061/Kidoodle.TV_Poster_Image__2000x3000_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250807052336 +0000" stop="20250807062336 +0000">
-    <title>Kidoodle TV</title>
-    <category>Movie</category>
-    <desc>Favorite, fun and engaging kids shows hand-picked by parents like you. Find peace-of-mind with our kid safe programming.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/fc0061b6-03fd-456a-a933-38f075741061/Kidoodle.TV_Poster_Image__2000x3000_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250807062336 +0000" stop="20250807072336 +0000">
-    <title>Kidoodle TV</title>
-    <category>Movie</category>
-    <desc>Favorite, fun and engaging kids shows hand-picked by parents like you. Find peace-of-mind with our kid safe programming.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/fc0061b6-03fd-456a-a933-38f075741061/Kidoodle.TV_Poster_Image__2000x3000_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250807072336 +0000" stop="20250807082336 +0000">
-    <title>Kidoodle TV</title>
-    <category>Movie</category>
-    <desc>Favorite, fun and engaging kids shows hand-picked by parents like you. Find peace-of-mind with our kid safe programming.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/fc0061b6-03fd-456a-a933-38f075741061/Kidoodle.TV_Poster_Image__2000x3000_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250807082336 +0000" stop="20250807092336 +0000">
-    <title>Kidoodle TV</title>
-    <category>Movie</category>
-    <desc>Favorite, fun and engaging kids shows hand-picked by parents like you. Find peace-of-mind with our kid safe programming.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/fc0061b6-03fd-456a-a933-38f075741061/Kidoodle.TV_Poster_Image__2000x3000_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250807092336 +0000" stop="20250807102336 +0000">
-    <title>Kidoodle TV</title>
-    <category>Movie</category>
-    <desc>Favorite, fun and engaging kids shows hand-picked by parents like you. Find peace-of-mind with our kid safe programming.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/fc0061b6-03fd-456a-a933-38f075741061/Kidoodle.TV_Poster_Image__2000x3000_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250807102336 +0000" stop="20250807112336 +0000">
-    <title>Kidoodle TV</title>
-    <category>Movie</category>
-    <desc>Favorite, fun and engaging kids shows hand-picked by parents like you. Find peace-of-mind with our kid safe programming.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/fc0061b6-03fd-456a-a933-38f075741061/Kidoodle.TV_Poster_Image__2000x3000_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250807112336 +0000" stop="20250807122336 +0000">
-    <title>Kidoodle TV</title>
-    <category>Movie</category>
-    <desc>Favorite, fun and engaging kids shows hand-picked by parents like you. Find peace-of-mind with our kid safe programming.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/fc0061b6-03fd-456a-a933-38f075741061/Kidoodle.TV_Poster_Image__2000x3000_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250807122336 +0000" stop="20250807132336 +0000">
-    <title>Kidoodle TV</title>
-    <category>Movie</category>
-    <desc>Favorite, fun and engaging kids shows hand-picked by parents like you. Find peace-of-mind with our kid safe programming.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/fc0061b6-03fd-456a-a933-38f075741061/Kidoodle.TV_Poster_Image__2000x3000_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250807132336 +0000" stop="20250807142336 +0000">
-    <title>Kidoodle TV</title>
-    <category>Movie</category>
-    <desc>Favorite, fun and engaging kids shows hand-picked by parents like you. Find peace-of-mind with our kid safe programming.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/fc0061b6-03fd-456a-a933-38f075741061/Kidoodle.TV_Poster_Image__2000x3000_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250807142336 +0000" stop="20250807152336 +0000">
-    <title>Kidoodle TV</title>
-    <category>Movie</category>
-    <desc>Favorite, fun and engaging kids shows hand-picked by parents like you. Find peace-of-mind with our kid safe programming.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/fc0061b6-03fd-456a-a933-38f075741061/Kidoodle.TV_Poster_Image__2000x3000_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250807152336 +0000" stop="20250807162336 +0000">
-    <title>Kidoodle TV</title>
-    <category>Movie</category>
-    <desc>Favorite, fun and engaging kids shows hand-picked by parents like you. Find peace-of-mind with our kid safe programming.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/fc0061b6-03fd-456a-a933-38f075741061/Kidoodle.TV_Poster_Image__2000x3000_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250807162336 +0000" stop="20250807172336 +0000">
-    <title>Kidoodle TV</title>
-    <category>Movie</category>
-    <desc>Favorite, fun and engaging kids shows hand-picked by parents like you. Find peace-of-mind with our kid safe programming.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/fc0061b6-03fd-456a-a933-38f075741061/Kidoodle.TV_Poster_Image__2000x3000_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250807172336 +0000" stop="20250807182336 +0000">
-    <title>Kidoodle TV</title>
-    <category>Movie</category>
-    <desc>Favorite, fun and engaging kids shows hand-picked by parents like you. Find peace-of-mind with our kid safe programming.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/fc0061b6-03fd-456a-a933-38f075741061/Kidoodle.TV_Poster_Image__2000x3000_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250807182336 +0000" stop="20250807192336 +0000">
-    <title>Kidoodle TV</title>
-    <category>Movie</category>
-    <desc>Favorite, fun and engaging kids shows hand-picked by parents like you. Find peace-of-mind with our kid safe programming.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/fc0061b6-03fd-456a-a933-38f075741061/Kidoodle.TV_Poster_Image__2000x3000_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250807192336 +0000" stop="20250807202336 +0000">
-    <title>Kidoodle TV</title>
-    <category>Movie</category>
-    <desc>Favorite, fun and engaging kids shows hand-picked by parents like you. Find peace-of-mind with our kid safe programming.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/fc0061b6-03fd-456a-a933-38f075741061/Kidoodle.TV_Poster_Image__2000x3000_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250807202336 +0000" stop="20250807212336 +0000">
-    <title>Kidoodle TV</title>
-    <category>Movie</category>
-    <desc>Favorite, fun and engaging kids shows hand-picked by parents like you. Find peace-of-mind with our kid safe programming.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/fc0061b6-03fd-456a-a933-38f075741061/Kidoodle.TV_Poster_Image__2000x3000_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250807212336 +0000" stop="20250807222336 +0000">
-    <title>Kidoodle TV</title>
-    <category>Movie</category>
-    <desc>Favorite, fun and engaging kids shows hand-picked by parents like you. Find peace-of-mind with our kid safe programming.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/fc0061b6-03fd-456a-a933-38f075741061/Kidoodle.TV_Poster_Image__2000x3000_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250807222336 +0000" stop="20250807232336 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" start="20250808222336 +0000" stop="20250808232336 +0000">
     <title>Kidoodle TV</title>
     <category>Movie</category>
     <desc>Favorite, fun and engaging kids shows hand-picked by parents like you. Find peace-of-mind with our kid safe programming.</desc>
