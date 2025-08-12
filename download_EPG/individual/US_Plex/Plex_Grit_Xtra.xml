@@ -5,31 +5,15 @@
     <icon src="https://provider-static.plex.tv/5/epg/channels/logos/gracenote/5fce72f97ee456426ac8e0d890050bdd.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811000000 +0000" stop="20250811023000 +0000">
-    <title>Badman's Territory</title>
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812000000 +0000" stop="20250812020000 +0000">
+    <title>Riding Shotgun</title>
     <category>Movie</category>
-    <desc>A Texas sheriff (Randolph Scott) seeks his brother and finds the Oklahoma hide-out of the Dalton and James gangs.</desc>
-    <date>19460102</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b6eb6217d284f4b10c4aae5a9d71783e.jpg" />
+    <desc>When Larry Delong, a shotgun guard on a stagecoach, finds his reputation sullied by a gang of outlaws, he has his work cut out convincing the town that he is honest.</desc>
+    <date>19540102</date>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/13fd785304ed3174de2a35db4c77184f.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811023000 +0000" stop="20250811040000 +0000">
-    <title>The Hanged Man</title>
-    <category>Movie</category>
-    <desc>A former gunslinger survives his own hanging and transforms himself into a mysterious avenger of injustice.</desc>
-    <date>19740102</date>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/2b679ab55a68a9842d7411ae11b26201.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811040000 +0000" stop="20250811053000 +0000">
-    <title>Westbound</title>
-    <category>Movie</category>
-    <desc>A Union officer is assigned to start a stagecoach line that will transport California gold to Northern coffers.</desc>
-    <date>19590102</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7d6561877892d23ed89e5b9f2fc81e0d.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811053000 +0000" stop="20250811073000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812020000 +0000" stop="20250812040000 +0000">
     <title>The Marauders</title>
     <category>Movie</category>
     <desc>A homesteader (Jeff Richards) with a water-well defends his land from a crazed rancher (Dan Duryea) and gunmen.</desc>
@@ -37,239 +21,276 @@
     <icon src="https://metadata-static.plex.tv/4/gracenote/4085cc94c3c5b73920fe3ac020851f6c.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811073000 +0000" stop="20250811093000 +0000">
-    <title>Canyon River</title>
-    <category>Movie</category>
-    <desc>A rancher's (George Montgomery) foreman (Peter Graves) schemes against him on a cattle drive from Oregon to Wyoming.</desc>
-    <date>19560102</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5ab60abddb260b18177e13e057166269.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812040000 +0000" stop="20250812043000 +0000">
+    <title>Zane Grey Theatre</title>
+    <sub-title>Knife of Hate</sub-title>
+    <episode-num system="onscreen">S05E09</episode-num>
+    <desc>A doctor wants to keep his daughter away from a man of which he disapproves.</desc>
+    <date>19601208</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811093000 +0000" stop="20250811100000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812043000 +0000" stop="20250812050000 +0000">
+    <title>Zane Grey Theatre</title>
+    <sub-title>The Mormons</sub-title>
+    <episode-num system="onscreen">S05E10</episode-num>
+    <desc>A rancher objects to Mormons settling in his area.</desc>
+    <date>19601215</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812050000 +0000" stop="20250812053000 +0000">
+    <title>Zane Grey Theatre</title>
+    <sub-title>The Man From Yesterday</sub-title>
+    <episode-num system="onscreen">S05E11</episode-num>
+    <desc>An old gunfighter finds a wild town is now peaceful and settled.</desc>
+    <date>19601222</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812053000 +0000" stop="20250812060000 +0000">
+    <title>Zane Grey Theatre</title>
+    <sub-title>Morning Incident</sub-title>
+    <episode-num system="onscreen">S05E12</episode-num>
+    <desc>A fugitive's romantic overtures enchant a young woman.</desc>
+    <date>19601229</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812060000 +0000" stop="20250812063000 +0000">
+    <title>Fury</title>
+    <sub-title>The Test</sub-title>
+    <episode-num system="onscreen">S01E21</episode-num>
+    <desc>The father of a new boy at school expects him to spend all his free time studying.</desc>
+    <date>19560303</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/876672faf9ac12783fb0ac701ac8e88b.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812063000 +0000" stop="20250812070000 +0000">
+    <title>Fury</title>
+    <sub-title>Fury Runs to Win</sub-title>
+    <episode-num system="onscreen">S01E22</episode-num>
+    <desc>The mortgage holder convinces Joey to enter Fury in a winner-take-all horse race.</desc>
+    <date>19560310</date>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b7a7ad503f1c65b99895008e234707d4.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812070000 +0000" stop="20250812073000 +0000">
+    <title>Fury</title>
+    <sub-title>The Baby</sub-title>
+    <episode-num system="onscreen">S01E26</episode-num>
+    <desc>Everybody joins in the search for a little girl who has wandered off.</desc>
+    <date>19560407</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/79b138e662a5bb3be4fbf7df3dc30756.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812073000 +0000" stop="20250812080000 +0000">
+    <title>Fury</title>
+    <sub-title>Joey Finds a Friend</sub-title>
+    <desc>Rancher Jim Newton saves a horse, and later saves a young orphan, and the horse and boy develop a bond.</desc>
+    <date>19551015</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6f31be440c577776b8ba95fc1be0cd3e.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812080000 +0000" stop="20250812083000 +0000">
+    <title>The Adventures of Champion</title>
+    <sub-title>Lost River</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>The worst drought in 20 years is coming over the valley; Champion is looking for a water hole for his herd of wild horses; a foreman is trying to force an elderly woman to sell her ranch for a pittance.</desc>
+    <date>19551022</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812083000 +0000" stop="20250812090000 +0000">
+    <title>The Adventures of Champion</title>
+    <sub-title>Renegade Stallion</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>An elderly prospector searching for gold finally strikes, but before he can file a claim, he is killed by a pair of drifters.</desc>
+    <date>19551029</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812090000 +0000" stop="20250812093000 +0000">
+    <title>The Adventures of Champion</title>
+    <sub-title>Canyon of Wanted Men</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>A crooked horse trader tries to get Sandy and the other ranchers to sign a petition to allow him to round up all the wild horses.</desc>
+    <date>19551105</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812093000 +0000" stop="20250812100000 +0000">
+    <title>The Adventures of Champion</title>
+    <sub-title>Challenge of the West</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Ricky tries to prove that an outlaw's son wasn't responsible for a robbery at Sandy's ranch.</desc>
+    <date>19551108</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/aa3beb2d3d01684262a28d6af98c9fff.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812100000 +0000" stop="20250812103000 +0000">
+    <title>The Cisco Kid</title>
+    <sub-title>Boomerang</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>A prominent investment broker is captured after scheming to have two of his men impersonate Cisco and Pancho at a bank hold-up.</desc>
+    <date>19500905</date>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/5ebb744a873b7db1ff5bf61147099fd5.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812103000 +0000" stop="20250812110000 +0000">
+    <title>The Cisco Kid</title>
+    <sub-title>Counterfeit Money</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Cisco and Pancho are hired by a federal agent to track down two counterfeiters.</desc>
+    <date>19500912</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/73824727d173c44d8d9238d32b5eba09.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812110000 +0000" stop="20250812123000 +0000">
+    <title>Riders of the Purple Sage</title>
+    <category>Movie</category>
+    <desc>An Old West cowboy (George Montgomery) learns a local judge (Robert Barrat) is cheating his own niece and leading a gang of crooks pillaging the territory.</desc>
+    <date>19410102</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f3d1e906d588403316d1de9f7f8b8430.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812123000 +0000" stop="20250812150000 +0000">
+    <title>Ride the High Country</title>
+    <category>Movie</category>
+    <desc>Two ageing ex-lawmen are hired to transport a shipment of gold from a mining camp into town after six miners were murdered attempting to transport the gold themselves.</desc>
+    <date>19620102</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/943fb169613ba7c5a5ec08ddd7b67b47.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812150000 +0000" stop="20250812153000 +0000">
     <title>The Texan</title>
-    <sub-title>The Taming Of Rio Nada</sub-title>
-    <episode-num system="onscreen">S02E18</episode-num>
-    <desc>Bill is serving as Marshall of Rio Nada, an area plagued by Mexican bandits who cross the border to raid the countryside; he captures one of the bandits and threatens him with hanging to get the identity of the bandit leader.</desc>
-    <date>19600111</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/0dddc7bc6315b4d798169463efdf68ab.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811100000 +0000" stop="20250811103000 +0000">
-    <title>The Cisco Kid</title>
-    <sub-title>West of the Law</sub-title>
-    <episode-num system="onscreen">S06E23</episode-num>
-    <desc>Cisco saves a boy from tar-and-feathering.</desc>
-    <date>19560301</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9cf7390351cde89e6e17d673f377e9a4.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811103000 +0000" stop="20250811110000 +0000">
-    <title>The Cisco Kid</title>
-    <sub-title>Dangerous Shoemaker</sub-title>
-    <episode-num system="onscreen">S06E24</episode-num>
-    <desc>A man claims he witnessed a murder and wants Cisco to join in his blackmail scheme.</desc>
-    <date>19560308</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/fee710d56b97149c0be82a67fffde888.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811110000 +0000" stop="20250811113000 +0000">
-    <title>The Cisco Kid</title>
-    <sub-title>Magician of Jamesville</sub-title>
-    <episode-num system="onscreen">S06E25</episode-num>
-    <desc>Cisco wants to unmask a crooked mayor who gave proceeds from a fund-raising rally to a shrewd bandit.</desc>
-    <date>19560315</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/80a6d0e66a204806429359cbcf209c09.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811113000 +0000" stop="20250811120000 +0000">
-    <title>The Cisco Kid</title>
-    <sub-title>Tangled Trails</sub-title>
-    <episode-num system="onscreen">S06E26</episode-num>
-    <desc>Cisco sets out to capture the bandit who escaped with $25,000 from a stagecoach robbery.</desc>
-    <date>19560322</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/8cfd34e66a17d4bb10e01ba5f8afdba2.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811120000 +0000" stop="20250811123000 +0000">
-    <title>Stories of the Century</title>
-    <sub-title>The Younger Brothers</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>The Younger Brothers, certain their past with the Quantrill Riders prevents them from living an honest life, plan a bold bank robbery that Matt and Frankie attempt to thwart.</desc>
-    <date>19540402</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811123000 +0000" stop="20250811130000 +0000">
-    <title>Stories of the Century</title>
-    <sub-title>John Wesley Hardin</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Matt investigates the deaths of two Osage Indians.</desc>
-    <date>19540209</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811130000 +0000" stop="20250811133000 +0000">
-    <title>Stories of the Century</title>
-    <sub-title>Joaquin Murietta</sub-title>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <desc>The 1850s California gold fields is home to notorious bandit Joaquin Murietta; Matt and Frankie arrive to track him down but he kidnaps Frankie; Matt and Captain Love trail Murietta to the bitter end.</desc>
-    <date>19540416</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811133000 +0000" stop="20250811140000 +0000">
-    <title>Stories of the Century</title>
-    <sub-title>Tiburcio Vasquez</sub-title>
+    <sub-title>The Lord Will Provide</sub-title>
     <episode-num system="onscreen">S01E14</episode-num>
-    <desc>Tiburcio Vasquez vows vengeance against Anglos after his sister Dolores is killed; Matt and Frankie try to stop his years of terror in Southern California after a railroad agent is killed with the help of local priest.</desc>
-    <date>19540423</date>
+    <desc>After Longley rescues the wounded Reverend Kilgore from two would-be bushwhackers, he learns that the parson was heading for Phillipsburg.</desc>
+    <date>20241017</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811140000 +0000" stop="20250811143000 +0000">
-    <title>Stories of the Century</title>
-    <sub-title>Chief Crazy Horse</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812153000 +0000" stop="20250812160000 +0000">
+    <title>The Texan</title>
+    <sub-title>The Duchess of Denver</sub-title>
     <episode-num system="onscreen">S01E15</episode-num>
-    <desc>Matt enlists the aid of Dakota chiefs to bring in Crazy Horse.</desc>
-    <date>19540430</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/76236560979ed238bdc50bc15d83417c.jpg" />
+    <desc>Longley is hired to drive the first herd of cattle directly from the Texas Panhandle to Denver.</desc>
+    <date>20241025</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811143000 +0000" stop="20250811150000 +0000">
-    <title>Stories of the Century</title>
-    <sub-title>Black Bart</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812160000 +0000" stop="20250812163000 +0000">
+    <title>The Texan</title>
+    <sub-title>A Quart of Law</sub-title>
     <episode-num system="onscreen">S01E16</episode-num>
-    <desc>The man behind a string of stagecoach robberies has remained out of reach of company detectives Matt and Frankie, but reinforcements from the city help to crack the case.</desc>
-    <date>19540506</date>
+    <desc>A crooked sheriff and his henchmen are attempting to continue their reign of terror by running a crooked election; Longley persuades an alcoholic former Harvard law professor to stand-up to the old sheriff.</desc>
+    <date>19591201</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811150000 +0000" stop="20250811153000 +0000">
-    <title>Stories of the Century</title>
-    <sub-title>Henry Plummer</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812163000 +0000" stop="20250812170000 +0000">
+    <title>The Texan</title>
+    <sub-title>Outpost</sub-title>
     <episode-num system="onscreen">S01E17</episode-num>
-    <desc>Elected as mayor, an outlaw deputizes members of his gang.</desc>
-    <date>19540513</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/abb9eb42d098f8eff5e8b7f3415a3a05.jpg" />
+    <desc>Longley rescues the lone survivor of a murderous stagecoach robbery, but the man refuses to help him identify the three killers.</desc>
+    <date>20241107</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811153000 +0000" stop="20250811160000 +0000">
-    <title>Stories of the Century</title>
-    <sub-title>Bill Longley</sub-title>
-    <episode-num system="onscreen">S01E18</episode-num>
-    <desc>A killer escapes from prison and tries to reunite with his girlfriend.</desc>
-    <date>19540520</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811160000 +0000" stop="20250811163000 +0000">
-    <title>Stories of the Century</title>
-    <sub-title>Harry Tracy</sub-title>
-    <episode-num system="onscreen">S01E19</episode-num>
-    <desc>Harry Tracy terrorized America's northwest at the end of the 19th century; Matt and a posse have corner the outlaw.</desc>
-    <date>19540527</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811163000 +0000" stop="20250811170000 +0000">
-    <title>Stories of the Century</title>
-    <sub-title>The Wild Bunch of Wyoming</sub-title>
-    <episode-num system="onscreen">S01E20</episode-num>
-    <desc>Matt and Frankie follow Butch Cassidy to South America.</desc>
-    <date>19540603</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811170000 +0000" stop="20250811190000 +0000">
-    <title>Man With the Gun</title>
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812170000 +0000" stop="20250812190000 +0000">
+    <title>River of No Return</title>
     <category>Movie</category>
-    <desc>A hired gun (Robert Mitchum) saves a cow town from a land-grabber and wins back his wife (Jan Sterling).</desc>
-    <date>19550102</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/a64eb036c7ecd8b2ed8f449c872eb683.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811190000 +0000" stop="20250811193000 +0000">
-    <title>The Rifleman</title>
-    <sub-title>The Sister</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Mark tries to play Cupid for his father and a pretty young stranger who arrives in town.</desc>
-    <date>19581125</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/0849712c3d8c46bcae5791cf1c38dd8f.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811193000 +0000" stop="20250811200000 +0000">
-    <title>The Rifleman</title>
-    <sub-title>New Orleans Menace</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>A criminal threatens to harm Mark unless Lucas sells him the ranch.</desc>
-    <date>19581202</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/370ef498c861bf3484f055d93ff0f68d.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811200000 +0000" stop="20250811203000 +0000">
-    <title>Yancy Derringer</title>
-    <sub-title>Thunder on the River</sub-title>
-    <episode-num system="onscreen">S01E23</episode-num>
-    <desc>Yancy investigates the sinking of a record number of Mississippi river boats.</desc>
-    <date>19590312</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/93efdacf8c0da3f42481590dd03879ff.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811203000 +0000" stop="20250811210000 +0000">
-    <title>Yancy Derringer</title>
-    <sub-title>Collector's Item</sub-title>
-    <episode-num system="onscreen">S01E25</episode-num>
-    <desc>A pair of beautiful thieves robs a high-stakes poker game hosted on Yancy's boat.</desc>
-    <date>19590326</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5dc69473da7b30938c24849d6574de94.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811210000 +0000" stop="20250811213000 +0000">
-    <title>Zane Grey Theatre</title>
-    <sub-title>Cry Hope! Cry Hate!</sub-title>
-    <episode-num system="onscreen">S05E03</episode-num>
-    <desc>A woman returning to her childhood home is greeted by her bitter father, who rejects her.</desc>
-    <date>19601020</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811213000 +0000" stop="20250811220000 +0000">
-    <title>Zane Grey Theatre</title>
-    <sub-title>The Ox</sub-title>
-    <episode-num system="onscreen">S05E04</episode-num>
-    <desc>A stranger comes to a small town seeking revenge on the man whose testimony sent him to prison.</desc>
-    <date>19601103</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811220000 +0000" stop="20250811223000 +0000">
-    <title>Zane Grey Theatre</title>
-    <sub-title>So Young the Savage Land</sub-title>
-    <episode-num system="onscreen">S05E05</episode-num>
-    <desc>A genteel woman is horrified at her husband's growing bitterness.</desc>
-    <date>19601110</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811223000 +0000" stop="20250811230000 +0000">
-    <title>Zane Grey Theatre</title>
-    <sub-title>Ransom</sub-title>
-    <episode-num system="onscreen">S05E06</episode-num>
-    <desc>A cowboy faces torture during a Comanche raid on sheepherders.</desc>
-    <date>19601117</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811230000 +0000" stop="20250811233000 +0000">
-    <title>Zane Grey Theatre</title>
-    <sub-title>The Last Bugle</sub-title>
-    <episode-num system="onscreen">S05E07</episode-num>
-    <desc>An Army officer tries to convince Geronimo to surrender.</desc>
-    <date>19601124</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250811233000 +0000" stop="20250812000000 +0000">
-    <title>Zane Grey Theatre</title>
-    <sub-title>The Black Wagon</sub-title>
-    <episode-num system="onscreen">S05E08</episode-num>
-    <desc>A woman refuses to let cholera victims die alone in the desert.</desc>
-    <date>19601201</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812000000 +0000" stop="20250812020000 +0000">
-    <title>Riding Shotgun</title>
-    <category>Movie</category>
-    <desc>When Larry Delong, a shotgun guard on a stagecoach, finds his reputation sullied by a gang of outlaws, he has his work cut out convincing the town that he is honest.</desc>
+    <desc>A farmer (Robert Mitchum) and his son raft Rockies rapids with a gold-rush gambler's (Rory Calhoun) girlfriend (Marilyn Monroe).</desc>
     <date>19540102</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/13fd785304ed3174de2a35db4c77184f.jpg" />
+    <icon src="https://metadata-static.plex.tv/4/gracenote/4efc1c1343867189ece7e5d0e99f25ad.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812190000 +0000" stop="20250812193000 +0000">
+    <title>The Rifleman</title>
+    <sub-title>The Apprentice Sheriff</sub-title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <desc>A young man takes over the duties of the sheriff, who is out of town.</desc>
+    <date>19581209</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d9e37403f12934626031449f6b12cde9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812193000 +0000" stop="20250812200000 +0000">
+    <title>The Rifleman</title>
+    <sub-title>The Angry Gun</sub-title>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <desc>Lucas and Mark are robbed while riding the stage back from a cattle sale.</desc>
+    <date>19581223</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/276bdb7f147881603da043bb94e77833.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812200000 +0000" stop="20250812203000 +0000">
+    <title>Yancy Derringer</title>
+    <sub-title>Fire on the Frontier</sub-title>
+    <episode-num system="onscreen">S01E26</episode-num>
+    <desc>Pahoo, Yancy and Colorado Charlie travel to Washington, D.C., to get help for the Pawnee.</desc>
+    <date>19590402</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d43e8bc9e4a36fa8471d8d46b2299796.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812203000 +0000" stop="20250812210000 +0000">
+    <title>Yancy Derringer</title>
+    <sub-title>Duel at the Oaks</sub-title>
+    <episode-num system="onscreen">S01E27</episode-num>
+    <desc>Yancy and Charlie LeBow stage a fake duel to draw out a man that appears to be after LeBow.</desc>
+    <date>19590409</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f9eefb43ecadfd94f8b811011c764087.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812210000 +0000" stop="20250812213000 +0000">
+    <title>Zorro</title>
+    <sub-title>Manhunt</sub-title>
+    <episode-num system="onscreen">S02E26</episode-num>
+    <desc>Zorro must stop Don Carlos as he tries, once again, to capture the mountain man.</desc>
+    <date>19590402</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d909544b6ba0689100407050237261e3.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812213000 +0000" stop="20250812220000 +0000">
+    <title>Zorro</title>
+    <sub-title>The Man From Spain</sub-title>
+    <episode-num system="onscreen">S02E27</episode-num>
+    <desc>The Spanish king's stern emissary arrives in Los Angeles to raise money for Spain on Garcia's birthday.</desc>
+    <date>19590409</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/ec002c2ae2fb4abeabce6de9f6e1032b.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812220000 +0000" stop="20250812223000 +0000">
+    <title>Zorro</title>
+    <sub-title>Treasure for a King</sub-title>
+    <episode-num system="onscreen">S02E28</episode-num>
+    <desc>Basilio tries to steal the gold en route to the king of Spain.</desc>
+    <date>19590416</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/4118939316d1e0d2ad9c3b7ac90563ac.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812223000 +0000" stop="20250812230000 +0000">
+    <title>Zorro</title>
+    <sub-title>Exposing the Tyrant</sub-title>
+    <episode-num system="onscreen">S02E29</episode-num>
+    <desc>Basilio dupes Garcia into helping him plot Don Esperon's demise to attain his estate and attractive daughter.</desc>
+    <date>19590423</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c90a17e299a7c0dd8475f54ef85e9ab3.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812230000 +0000" stop="20250812233000 +0000">
+    <title>Zorro</title>
+    <sub-title>Zorro Takes a Dare</sub-title>
+    <episode-num system="onscreen">S02E30</episode-num>
+    <desc>Basilio uses Sgt. Garcia as bait to trap Zorro.</desc>
+    <date>19590430</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6ed948dd5c24a5654b9893ea599e7769.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250812233000 +0000" stop="20250813000000 +0000">
+    <title>Zorro</title>
+    <sub-title>An Affair of Honor</sub-title>
+    <episode-num system="onscreen">S02E31</episode-num>
+    <desc>Expert swordsman Avila challenges Diego to a duel.</desc>
+    <date>19590507</date>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/50794820d0e6f3bc627a63e1c1d9b550.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20250813000000 +0000" stop="20250813020000 +0000">
+    <title>The Proud Ones</title>
+    <category>Movie</category>
+    <desc>A misguided youth sides with a Kansas boomtown marshal in a tense showdown against a gambler and his henchmen.</desc>
+    <date>19560102</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8d85ff76fe54000c7d2e04746ad68395.jpg" />
   </programme>
   
 </tv>
