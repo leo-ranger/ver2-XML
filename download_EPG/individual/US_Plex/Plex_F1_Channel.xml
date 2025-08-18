@@ -5,83 +5,115 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/df07efa9-4dbf-470b-86d6-c12a4a43d18c/F1Channel_1500x1000_for_dark_bgd_-_Eddie_Hunter-Higgins.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20250816232500 +0000" stop="20250817020800 +0000">
-    <title>F1 2025 Bahrain Grand Prix</title>
-    <category>Movie</category>
-    <desc>Verstappen dominates Bahrain, but chaos erupts behind as Piastri and Norris battle for the podium!</desc>
-    <date>20250415</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_003.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20250817020800 +0000" stop="20250817043200 +0000">
-    <title>F1 2025 Saudi Arabian Grand Prix</title>
-    <category>Movie</category>
-    <desc>Piastri triumphs in Saudi Arabia, stunning Verstappen in a dramatic, high-speed race to the finish!</desc>
-    <date>20250423</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_001.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20250817043200 +0000" stop="20250817070800 +0000">
-    <title>F1 2025 Miami Grand Prix</title>
-    <category>Movie</category>
-    <desc>Piastri dominates Miami, igniting McLaren's title charge as Norris falters and Ferrari's strategy crumbles.</desc>
-    <date>20250507</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_006.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20250817070800 +0000" stop="20250817094400 +0000">
-    <title>F1 2025 Emilia Romagna Grand Prix</title>
-    <category>Movie</category>
-    <desc>Verstappen storms Imola, Piastri fades, Norris 2nd, Hamilton flies to 4th in Ferrari debut—epic race!</desc>
-    <date>20250520</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_006.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20250817094400 +0000" stop="20250817123300 +0000">
-    <title>F1 2025 Monaco Grand Prix</title>
-    <category>Movie</category>
-    <desc>Norris wins Monaco GP thriller, slashing Piastri’s lead as Leclerc, Max, and Hamilton battle behind.</desc>
-    <date>20250527</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_003.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20250817123300 +0000" stop="20250817151100 +0000">
-    <title>F1 2025 Spanish Grand Prix</title>
-    <category>Movie</category>
-    <desc>Piastri wins Spanish GP in McLaren 1-2; Verstappen penalized in late chaos after Antonelli DNF.</desc>
-    <date>20250602</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_002.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20250817151100 +0000" stop="20250817174900 +0000">
-    <title>F1 2025 Canadian Grand Prix</title>
-    <category>Movie</category>
-    <desc>George Russell clinched his first win of the season at the 2025 Canadian Grand Prix.</desc>
-    <date>20250617</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_003.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20250817174900 +0000" stop="20250817203200 +0000">
-    <title>F1 2025 Austrian Grand Prix</title>
-    <category>Movie</category>
-    <desc>Norris fends off Piastri in an intense Austrian Grand Prix to take the win, with a thrilling long race battle!</desc>
-    <date>20250630</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_006.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20250817203200 +0000" stop="20250817231900 +0000">
-    <title>F1 2025 British Grand Prix</title>
-    <category>Movie</category>
-    <desc>Lando Norris took his first home win at Sliverstone, with another Mclaren 1&amp;2 podium finish!</desc>
-    <date>20250707</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_004.png" />
-  </programme>
-  
 <programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20250817231900 +0000" stop="20250818020100 +0000">
     <title>F1 2025 Belgium Grand Prix</title>
     <category>Movie</category>
     <desc>McLaren celebrate another double podium, this time at the 2025 Belgium GP.</desc>
     <date>20250728</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_002.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20250818020100 +0000" stop="20250818044200 +0000">
+    <title>F1 2025 Hungarian Grand Prix</title>
+    <category>Movie</category>
+    <desc>Norris holds off Piastri in thrilling battle to win 2025 Hungarian Grand Prix</desc>
+    <date>20250804</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_004.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20250818044200 +0000" stop="20250818072400 +0000">
+    <title>F1 2011 Chinese Grand Prix</title>
+    <category>Movie</category>
+    <desc>Lewis Hamilton stuns in Shanghai at the 2011 Chinese Grand Prix.</desc>
+    <date>20250807</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_001.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20250818072400 +0000" stop="20250818101200 +0000">
+    <title>F1 2014 Canadian Grand Prix</title>
+    <category>Movie</category>
+    <desc>Ricciardo wins the 2014 Canadian GP in a thrilling race, holding off Mercedes for his first F1 victory!</desc>
+    <date>20240201</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_004.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20250818101200 +0000" stop="20250818105000 +0000">
+    <title>F1 Race in 30 - Sakhir 2020</title>
+    <category>Movie</category>
+    <desc>30 minute recap of the 2020 Sakhir Grand Prix, Perez beats Ocon to maiden win.</desc>
+    <date>20241130</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_003.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20250818105000 +0000" stop="20250818115600 +0000">
+    <title>1977 Season Review</title>
+    <category>Movie</category>
+    <desc>1977 Season Review: Intense competition and memorable moments made it a standout year in racing history.</desc>
+    <date>20241213</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_003.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20250818115600 +0000" stop="20250818123200 +0000">
+    <title>1989 In Review: Japanese Grand Prix</title>
+    <category>Movie</category>
+    <desc>Nannini claims a stunning victory in Japan, overcoming fierce competition in a dramatic race finish.</desc>
+    <date>20240828</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_001.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20250818123200 +0000" stop="20250818133400 +0000">
+    <title>1991 Brazilian Grand Prix - Highlights</title>
+    <category>Movie</category>
+    <desc>Senna triumphs in a dramatic home race at Interlagos, battling fierce rivals for an emotional win.</desc>
+    <date>20240828</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_001.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20250818133400 +0000" stop="20250818140500 +0000">
+    <title>1993 In Review: European Grand Prix</title>
+    <category>Movie</category>
+    <desc>Senna wins the 1993 European GP in a thrilling race, mastering a chaotic, rain-soaked battle.</desc>
+    <date>20240828</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_004.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20250818140500 +0000" stop="20250818165900 +0000">
+    <title>F1 1996 Spanish Grand Prix</title>
+    <category>Movie</category>
+    <desc>Hill triumphs in the 1996 Spanish GP, holding off Schumacher in a dramatic, rain-soaked battle</desc>
+    <date>20240318</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_005.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20250818165900 +0000" stop="20250818193500 +0000">
+    <title>F1 2000 Japanese Grand Prix</title>
+    <category>Movie</category>
+    <desc>Schumacher wins the 2000 Japanese GP, securing his first title with Ferrari after a dramatic race.</desc>
+    <date>20240801</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_002.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20250818193500 +0000" stop="20250818221900 +0000">
+    <title>F1 2003 Hungarian Grand Prix</title>
+    <category>Movie</category>
+    <desc>Schumacher wins the 2003 Hungarian GP, holding off fierce rivals in a thrilling, strategic battle.</desc>
+    <date>20250112</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_006.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20250818221900 +0000" stop="20250819005800 +0000">
+    <title>F1 2007 Canadian Grand Prix</title>
+    <category>Movie</category>
+    <desc>Hamilton wins first F1 race in a chaotic Canada GP—crashes, rain, and drama steal the show!</desc>
+    <date>20240410</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_004.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20250819005800 +0000" stop="20250819034100 +0000">
+    <title>F1 2014 Bahrain Grand Prix</title>
+    <category>Movie</category>
+    <desc>Hamilton wins the 2014 Bahrain GP in a thrilling battle, fending off Rosberg for a stunning victory!</desc>
+    <date>20240201</date>
     <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_002.png" />
   </programme>
   
