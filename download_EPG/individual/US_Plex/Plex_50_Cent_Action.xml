@@ -5,92 +5,128 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/bcfb9977-809f-49ae-acc7-430f2c6ffb26/50CentAction_Logo_1500x1000_DarkBG_-_Chris_Connors.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" start="20250818004808 +0000" stop="20250818032316 +0000">
-    <title>Brooklyn's Finest</title>
-    <category>Movie</category>
-    <desc>The lives of three NYC police officers are transformed by their involvement in a massive drug operation.</desc>
-    <date>20100305</date>
-    <icon src="https://image.tmdb.org/t/p/original/hkZ90APD0s8QLqUxJoaAeatLMhO.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" start="20250818032316 +0000" stop="20250818061047 +0000">
-    <title>Detroit</title>
-    <category>Movie</category>
-    <desc>During the 1967 Detroit riots, a group of rogue police officers respond to a complaint with retribution.</desc>
-    <date>20170728</date>
-    <icon src="https://image.tmdb.org/t/p/original/7dkFHwJ4OXkm3tt1sNHOBPvcSNM.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" start="20250818061047 +0000" stop="20250818082532 +0000">
-    <title>City of Lies</title>
-    <category>Movie</category>
-    <desc>A gripping crime-thriller about the infamous unsolved murder of iconic rap artist Notorious B.I.G.</desc>
-    <date>20210319</date>
-    <icon src="https://amagicloud-lionsgate.s3.amazonaws.com/Images/S3/1810110_portrait.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" start="20250818082532 +0000" stop="20250818113058 +0000">
-    <title>Jackie Brown</title>
-    <category>Movie</category>
-    <desc>A bail bondsman helps a smuggler frame her boss, an arms dealer who plans to kill her.</desc>
-    <date>19971225</date>
-    <icon src="https://image.tmdb.org/t/p/original/ewbLUXvm4riZL0aepy90o0vMesn.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" start="20250818113058 +0000" stop="20250818134731 +0000">
-    <title>Anna</title>
-    <category>Movie</category>
-    <desc>Anna Poliatova will unleash indelible strength and skill to become one of the world’s most feared assassins.</desc>
-    <date>20190621</date>
-    <icon src="https://amagicloud-lionsgate.s3.amazonaws.com/Images/S3/2550459_portrait.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" start="20250818134731 +0000" stop="20250818155726 +0000">
-    <title>The Protege</title>
-    <category>Movie</category>
-    <desc>A contract killer ventures out to avenge her mentor’s murder.</desc>
-    <date>20210820</date>
-    <icon src="https://amagicloud-lionsgate.s3.amazonaws.com/Images/S3/9382851_portrait.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" start="20250818155726 +0000" stop="20250818174716 +0000">
-    <title>A Vigilante</title>
-    <category>Movie</category>
-    <desc>After escaping her dangerous husband, a woman turns avenger to help victims of domestic abuse.</desc>
-    <date>20190329</date>
-    <icon src="https://amagicloud-lionsgate.s3.amazonaws.com/Images/S3/3150048_portrait.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" start="20250818174716 +0000" stop="20250818194051 +0000">
-    <title>You're Next</title>
-    <category>Movie</category>
-    <desc>When a family comes under attack, the killers learn one of victims harbors a secret talent for fighting back.</desc>
-    <date>20130823</date>
-    <icon src="https://amagicloud-lionsgate.s3.amazonaws.com/Images/S3/9382492_poster.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" start="20250818194051 +0000" stop="20250818215951 +0000">
-    <title>Anna</title>
-    <category>Movie</category>
-    <desc>Anna Poliatova will unleash indelible strength and skill to become one of the world’s most feared assassins.</desc>
-    <date>20190621</date>
-    <icon src="https://amagicloud-lionsgate.s3.amazonaws.com/Images/S3/2550459_portrait.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" start="20250818215951 +0000" stop="20250819000947 +0000">
-    <title>The Protege</title>
-    <category>Movie</category>
-    <desc>A contract killer ventures out to avenge her mentor’s murder.</desc>
-    <date>20210820</date>
-    <icon src="https://amagicloud-lionsgate.s3.amazonaws.com/Images/S3/9382851_portrait.jpg" />
-  </programme>
-  
 <programme channel="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" start="20250819000947 +0000" stop="20250819020145 +0000">
     <title>A Vigilante</title>
     <category>Movie</category>
     <desc>After escaping her dangerous husband, a woman turns avenger to help victims of domestic abuse.</desc>
     <date>20190329</date>
     <icon src="https://amagicloud-lionsgate.s3.amazonaws.com/Images/S3/3150048_portrait.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" start="20250819020145 +0000" stop="20250819031212 +0000">
+    <title>Power</title>
+    <sub-title>Things Are Going to Get Worse</sub-title>
+    <episode-num system="onscreen">S04E02</episode-num>
+    <desc>Ghost gets harassed in prison. Angela’s role in his prosecution is debated.</desc>
+    <date>20170702</date>
+    <icon src="https://db6iftd8li11q.cloudfront.net/Power_landscape.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" start="20250819031212 +0000" stop="20250819042302 +0000">
+    <title>Power</title>
+    <sub-title>The Kind of Man You Are</sub-title>
+    <episode-num system="onscreen">S04E03</episode-num>
+    <desc>Tommy diverts attention away from his drug trade. Ghost butts heads with his defense team.</desc>
+    <date>20170709</date>
+    <icon src="https://db6iftd8li11q.cloudfront.net/Power_landscape.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" start="20250819042302 +0000" stop="20250819053017 +0000">
+    <title>Black Sails</title>
+    <sub-title>XXXIII</sub-title>
+    <episode-num system="onscreen">S04E05</episode-num>
+    <desc>Silver takes Flint's life in his hands. Billy drives a wedge. Rogers makes a stunning appeal.</desc>
+    <date>20170226</date>
+    <icon src="https://db6iftd8li11q.cloudfront.net/BlackSails_landscape.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" start="20250819053017 +0000" stop="20250819064246 +0000">
+    <title>Black Sails</title>
+    <sub-title>XXXIV</sub-title>
+    <episode-num system="onscreen">S04E06</episode-num>
+    <desc>Nassau is delivered. Silver makes a painful amends. Flint and Madi are separated. Rogers searches for Eleanor.</desc>
+    <date>20170305</date>
+    <icon src="https://db6iftd8li11q.cloudfront.net/BlackSails_landscape.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" start="20250819064246 +0000" stop="20250819085402 +0000">
+    <title>Snitch</title>
+    <category>Movie</category>
+    <desc>A father goes undercover and infiltrates a Mexican drug cartel for the DEA in order to free his son.</desc>
+    <date>20130222</date>
+    <icon src="https://amagicloud-lionsgate.s3.amazonaws.com/Images/S3/2550028_portrait.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" start="20250819085402 +0000" stop="20250819103134 +0000">
+    <title>Inherit the Viper</title>
+    <category>Movie</category>
+    <desc>Two siblings are ensnared in their family’s legacy of opioids-dealing and violence.</desc>
+    <date>20200110</date>
+    <icon src="https://amagicloud-lionsgate.s3.amazonaws.com/Images/S3/9382838_portrait.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" start="20250819103134 +0000" stop="20250819122713 +0000">
+    <title>Stash House</title>
+    <category>Movie</category>
+    <desc>Dave and Amy have found the perfect house, until they find heroin and end up imprisoned by violent thugs.</desc>
+    <date>20120811</date>
+    <icon src="https://amagicloud-lionsgate.s3.amazonaws.com/Images/S3/9382859_portrait.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" start="20250819122713 +0000" stop="20250819142859 +0000">
+    <title>King of New York</title>
+    <category>Movie</category>
+    <desc>A drug kingpin is released from prison and seeks to take total control of the criminal underworld.</desc>
+    <date>19900928</date>
+    <icon src="https://amagicloud-lionsgate.s3.amazonaws.com/Images/S3/2000505_portrait.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" start="20250819142859 +0000" stop="20250819164122 +0000">
+    <title>Snitch</title>
+    <category>Movie</category>
+    <desc>A father goes undercover and infiltrates a Mexican drug cartel for the DEA in order to free his son.</desc>
+    <date>20130222</date>
+    <icon src="https://amagicloud-lionsgate.s3.amazonaws.com/Images/S3/2550028_portrait.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" start="20250819164122 +0000" stop="20250819181855 +0000">
+    <title>Inherit the Viper</title>
+    <category>Movie</category>
+    <desc>Two siblings are ensnared in their family’s legacy of opioids-dealing and violence.</desc>
+    <date>20200110</date>
+    <icon src="https://amagicloud-lionsgate.s3.amazonaws.com/Images/S3/9382838_portrait.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" start="20250819181855 +0000" stop="20250819201434 +0000">
+    <title>Stash House</title>
+    <category>Movie</category>
+    <desc>Dave and Amy have found the perfect house, until they find heroin and end up imprisoned by violent thugs.</desc>
+    <date>20120811</date>
+    <icon src="https://amagicloud-lionsgate.s3.amazonaws.com/Images/S3/9382859_portrait.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" start="20250819201434 +0000" stop="20250819221620 +0000">
+    <title>King of New York</title>
+    <category>Movie</category>
+    <desc>A drug kingpin is released from prison and seeks to take total control of the criminal underworld.</desc>
+    <date>19900928</date>
+    <icon src="https://amagicloud-lionsgate.s3.amazonaws.com/Images/S3/2000505_portrait.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" start="20250819221620 +0000" stop="20250820002843 +0000">
+    <title>Snitch</title>
+    <category>Movie</category>
+    <desc>A father goes undercover and infiltrates a Mexican drug cartel for the DEA in order to free his son.</desc>
+    <date>20130222</date>
+    <icon src="https://amagicloud-lionsgate.s3.amazonaws.com/Images/S3/2550028_portrait.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" start="20250820002843 +0000" stop="20250820020200 +0000">
+    <title>Inherit the Viper</title>
+    <category>Movie</category>
+    <desc>Two siblings are ensnared in their family’s legacy of opioids-dealing and violence.</desc>
+    <date>20200110</date>
+    <icon src="https://amagicloud-lionsgate.s3.amazonaws.com/Images/S3/9382838_portrait.jpg" />
   </programme>
   
 </tv>
