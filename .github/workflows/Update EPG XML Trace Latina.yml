@@ -27,17 +27,22 @@ jobs:
         run: |
           xml_file="download_EPG/individual/Latin_USA/Trace_Latina.xml"
           tmp_file="${xml_file}.tmp"
+          > "$tmp_file"
+          
           while IFS= read -r line; do
             if [[ $line =~ \<desc\>(.*)\<\/desc\> ]]; then
               french="${BASH_REMATCH[1]}"
-              # Use LibreTranslate public API for translation
+              # Safely escape for JSON
+              json_text=$(jq -Rn --arg text "$french" '$text')
               english=$(curl -s -X POST "https://libretranslate.com/translate" \
                 -H "Content-Type: application/json" \
-                -d "{\"q\":\"$french\",\"source\":\"fr\",\"target\":\"en\"}" | jq -r '.translatedText')
+                -d "{\"q\":$json_text,\"source\":\"fr\",\"target\":\"en\"}" \
+                | jq -r '.translatedText')
               line="<desc>$english</desc>"
             fi
             echo "$line" >> "$tmp_file"
           done < "$xml_file"
+          
           mv "$tmp_file" "$xml_file"
 
       - name: Inject fixed icon for all shows
