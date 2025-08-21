@@ -3,7 +3,7 @@ name: Update EPG XML Trace Latina
 on:
   schedule:
     - cron: '0 0 * * *'  # Runs at midnight UTC daily
-  workflow_dispatch:
+  workflow_dispatch:  # Allows manual runs
 
 jobs:
   update:
@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Create folder if it doesn't exist
+      - name: Create individual folder if it doesn't exist
         run: mkdir -p download_EPG/individual/Latin_USA
 
       - name: Fetch EPG XML
@@ -25,27 +25,15 @@ jobs:
         run: |
           sed -i '1s|$| <!DOCTYPE tv SYSTEM "xmltv.dtd">|' download_EPG/individual/Latin_USA/Trace_Latina.xml
 
-      - name: Inject shared icon for all shows
+      - name: Inject Trace Latina icon
         run: |
-          python3 - << 'EOF'
-          import xml.etree.ElementTree as ET
-          xml_file = "download_EPG/individual/Latin_USA/Trace_Latina.xml"
-          icon_url = "https://acessocultural.com.br/wp-content/uploads/2019/10/trace2_toca.jpg"
-          tree = ET.parse(xml_file)
-          root = tree.getroot()
+          xml_file="download_EPG/individual/Latin_USA/Trace_Latina.xml"
+          sed -i 's|<icon src=""/>|<icon src="https://acessocultural.com.br/wp-content/uploads/2019/10/trace2_toca.jpg"/>|' "$xml_file"
 
-          # Update <icon> for the channel
-          for channel in root.findall('channel'):
-              channel_icon = channel.find('icon')
-              if channel_icon is None:
-                  channel_icon = ET.SubElement(channel, 'icon')
-              channel_icon.set('src', icon_url)
-
-          tree.write(xml_file, encoding='utf-8', xml_declaration=True)
-          EOF
-
-      - name: Translate French descriptions to English with proper spacing
+      - name: Translate French descriptions to English
         run: |
+          python3 -m pip install --upgrade pip
+          python3 -m pip install googletrans==4.0.0-rc1
           python3 - << 'EOF'
           import xml.etree.ElementTree as ET
           import re
@@ -57,7 +45,7 @@ jobs:
           translator = Translator()
 
           def fix_spacing(text):
-              # Add a space after punctuation if a letter immediately follows
+              # Add space after punctuation if a letter immediately follows
               return re.sub(r'([.!?])([A-Za-z])', r'\1 \2', text)
 
           for prog in root.findall('programme'):
