@@ -23,34 +23,8 @@ jobs:
         run: |
           sed -i '1s|$| <!DOCTYPE tv SYSTEM "xmltv.dtd">|' download_EPG/individual/East_USA/USA-Disney_Channel_East.xml
 
-      - name: Check for Title "Bluey" in XML and Add Icon and Categories
-        run: |
-          if grep -q '<title lang="zh">Bluey</title>' download_EPG/individual/East_USA/USA-Disney_Channel_East.xml; then
-            echo "Found Bluey in the EPG XML!"
-            sed -i '/<title lang="zh">Bluey<\/title>/a \
-            <icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>\
-            <category lang="en">Series</category>\
-            <category lang="en">Animation</category>\
-            <category lang="en">Comedy</category>\
-            <category lang="en">Drama</category>\
-            <category lang="en">Kids</category>' download_EPG/individual/East_USA/USA-Disney_Channel_East.xml
-          else
-            echo "Bluey not found in the EPG XML."
-          fi
-
-      - name: Check for Title "Big City Greens" in XML and Add Icon and Categories
-        run: |
-          if grep -iq '<title[^>]*>Big City Greens</title>' download_EPG/individual/East_USA/USA-Disney_Channel_East.xml; then
-            echo "Found Big City Greens in the EPG XML!"
-            sed -i '/<title[^>]*>Big City Greens<\/title>/a \
-            <icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>\
-            <category lang="en">Series</category>\
-            <category lang="en">Animation</category>\
-            <category lang="en">Comedy</category>\
-            <category lang="en">Kids</category>' download_EPG/individual/East_USA/USA-Disney_Channel_East.xml
-          else
-            echo "Big City Greens not found in the EPG XML."
-          fi
+      - name: Inject show metadata (shared definitions)
+        run: bash .github/epg/scripts/inject_epg.sh download_EPG/individual/East_USA/USA-Disney_Channel_East.xml
 
       - name: Commit and push if changed
         run: |
