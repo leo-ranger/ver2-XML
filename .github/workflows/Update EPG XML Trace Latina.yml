@@ -3,46 +3,52 @@ name: Update EPG XML Trace Latina
 on:
   schedule:
     - cron: '0 0 * * *'  # Runs at midnight UTC daily
-  workflow_dispatch:  # Allows manual runs
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # 2️⃣ Create folder if not exists
-      - name: Create individual folder if it doesn't exist
+      - name: Create folder if it doesn't exist
         run: mkdir -p download_EPG/individual/Latin_USA
 
-      # 3️⃣ Fetch EPG XML
       - name: Fetch EPG XML
         run: |
-          curl -o download_EPG/individual/Latin_USA/Trace_Latina.xml "https://epg.pw/api/epg.xml?lang=en&date=$(date +%Y%m%d)&channel_id=448594"
+          curl -o download_EPG/individual/Latin_USA/Trace_Latina.xml \
+          "https://epg.pw/api/epg.xml?lang=en&date=$(date +%Y%m%d)&channel_id=448594"
 
-      # 4️⃣ Add XML Declaration and DOCTYPE
       - name: Add XML Declaration and DOCTYPE
         run: |
           sed -i '1s|$| <!DOCTYPE tv SYSTEM "xmltv.dtd">|' download_EPG/individual/Latin_USA/Trace_Latina.xml
 
-      # 5️⃣ Inject shared icon for all programs
-      - name: Inject Trace Latina icon
-        run: |
-          xml_file="download_EPG/individual/Latin_USA/Trace_Latina.xml"
-          sed -i 's|<icon src=""/>|<icon src="https://acessocultural.com.br/wp-content/uploads/2019/10/trace2_toca.jpg"/>|' "$xml_file"
-
-      # 6️⃣ Install Python translation library
-      - name: Install translation library
-        run: pip install googletrans==4.0.0-rc1
-
-      # 7️⃣ Translate French descriptions to English
-      - name: Translate French descriptions to English
+      - name: Inject shared icon for all shows
         run: |
           python3 - << 'EOF'
           import xml.etree.ElementTree as ET
+          xml_file = "download_EPG/individual/Latin_USA/Trace_Latina.xml"
+          icon_url = "https://acessocultural.com.br/wp-content/uploads/2019/10/trace2_toca.jpg"
+          tree = ET.parse(xml_file)
+          root = tree.getroot()
+
+          # Update <icon> for the channel
+          for channel in root.findall('channel'):
+              channel_icon = channel.find('icon')
+              if channel_icon is None:
+                  channel_icon = ET.SubElement(channel, 'icon')
+              channel_icon.set('src', icon_url)
+
+          tree.write(xml_file, encoding='utf-8', xml_declaration=True)
+          EOF
+
+      - name: Translate French descriptions to English with proper spacing
+        run: |
+          python3 - << 'EOF'
+          import xml.etree.ElementTree as ET
+          import re
           from googletrans import Translator
 
           xml_file = "download_EPG/individual/Latin_USA/Trace_Latina.xml"
@@ -50,21 +56,25 @@ jobs:
           root = tree.getroot()
           translator = Translator()
 
+          def fix_spacing(text):
+              # Add a space after punctuation if a letter immediately follows
+              return re.sub(r'([.!?])([A-Za-z])', r'\1 \2', text)
+
           for prog in root.findall('programme'):
               desc = prog.find('desc')
               if desc is not None and desc.text and desc.text.strip():
                   translated = translator.translate(desc.text, src='fr', dest='en').text
+                  translated = fix_spacing(translated)
                   desc.text = translated
 
           tree.write(xml_file, encoding='utf-8', xml_declaration=True)
           EOF
 
-      # 8️⃣ Commit and push if changed
       - name: Commit and push if changed
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git pull --rebase --autostash
           git add download_EPG/individual/Latin_USA/Trace_Latina.xml
-          git commit -m "Updated EPG Trace Latina $(date +%Y-%m-%d)" || echo "No changes to commit"
+          git commit -m "Updated Trace Latina EPG $(date +%Y-%m-%d)" || echo "No changes to commit"
           git push
