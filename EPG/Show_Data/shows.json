@@ -1,10 +1,38 @@
 {
   "Bluey": {
     "icon": "https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg",
-    "categories": ["Series", "Animation", "Comedy", "Drama", "Kids"]
+    "categories": ["Series", "Animation", "Comedy", "Educational", "Kids", "Kids and Family"]
+  },
+  "Disney Jr's Ariel": {
+    "icon": "https://variety.com/wp-content/uploads/2023/06/ARIEL.jpg",
+    "categories": ["Series", "Animation", "Educational", "Kids"]
+  },
+  "SuperKitties": {
+    "icon": "https://m.media-amazon.com/images/S/pv-target-images/e36fcf9d176e5165fbd3fe74f53921a5838b7828e378835748b93345121acb53.jpg",
+    "categories": ["Series", "Animation", "Educational", "Kids"]
+  },
+  "Mickey Mouse Clubhouse": {
+    "icon": "https://m.media-amazon.com/images/S/pv-target-images/21badf3603dc20cf2e03fc3ef1a62fb85ae55f6038215597c59531f6758e5721.jpg",
+    "categories": ["Educational", "Animation", "Comedy", "Kids"]
   },
   "Big City Greens": {
     "icon": "https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg",
     "categories": ["Series", "Animation", "Comedy", "Kids"]
+  },
+    "StuGo": {
+    "icon": "https://titmouse.net/titmouse-2016/wp-content/uploads/2024/06/stugo.jpeg",
+    "categories": ["Series", "Animation", "Comedy", "Kids"]
+  },
+    "The Golden Girls": {
+    "icon": "https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg",
+    "categories": ["Series", "SitCom", "Comedy", "Drama", "Family"]
+  },
+  "Reba": {
+    "icon": "https://m.media-amazon.com/images/S/pv-target-images/7727258bad222b37ca98e9cffe3e847cc474add3fa3b19f38d511e29586a76de.jpg",
+    "categories": ["Series", "SitCom", "Comedy", "Family"]
+  },
+  "Frasier": {
+    "icon": "https://m.media-amazon.com/images/S/pv-target-images/38c3dd08ba77193111f9684031a8cc82a1ae46e8cfa512cabc9edbfa6080cc34.jpg",
+    "categories": ["Series", "SitCom", "Comedy", "Family"]
   }
 }
