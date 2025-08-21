@@ -3,7 +3,7 @@ name: Update EPG XML Hallmark Channel East
 on:
   schedule:
     - cron: '0 0 * * *'  # Runs at midnight UTC daily
-  workflow_dispatch:  # Allows manual runs
+  workflow_dispatch:
 
 jobs:
   update:
@@ -23,47 +23,8 @@ jobs:
         run: |
           sed -i '1s|$| <!DOCTYPE tv SYSTEM "xmltv.dtd">|' download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml
 
-      - name: Check for Title "The Golden Girls" in XML and Add Icon and Categories
-        run: |
-          if grep -q '<title lang="zh">The Golden Girls</title>' download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml; then
-            echo "Found The Golden Girls in the EPG XML!"
-            sed -i '/<title lang="zh">The Golden Girls<\/title>/a \
-            <icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>\
-            <category lang="en">Series</category>\
-            <category lang="en">SitCom</category>\
-            <category lang="en">Comedy</category>\
-            <category lang="en">Drama</category>\
-            <category lang="en">Family</category>' download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml
-          else
-            echo "The Golden Girls not found in the EPG XML."
-          fi
-
-      - name: Check for Title "Reba" in XML and Add Icon and Categories
-        run: |
-          if grep -iq '<title[^>]*>Reba</title>' download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml; then
-            echo "Found Reba in the EPG XML!"
-            sed -i '/<title[^>]*>Reba<\/title>/a \
-            <icon src="https://m.media-amazon.com/images/S/pv-target-images/7727258bad222b37ca98e9cffe3e847cc474add3fa3b19f38d511e29586a76de.jpg"/>\
-            <category lang="en">Series</category>\
-            <category lang="en">SitCom</category>\
-            <category lang="en">Comedy</category>\
-            <category lang="en">Family</category>' download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml
-          else
-            echo "Reba not found in the EPG XML."
-          fi
-      - name: Check for Title "Frasier" in XML and Add Icon and Categories
-        run: |
-          if grep -iq '<title[^>]*>Frasier</title>' download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml; then
-            echo "Found Frasier in the EPG XML!"
-            sed -i '/<title[^>]*>Frasier<\/title>/a \
-            <icon src="https://m.media-amazon.com/images/S/pv-target-images/38c3dd08ba77193111f9684031a8cc82a1ae46e8cfa512cabc9edbfa6080cc34.jpg"/>\
-            <category lang="en">Series</category>\
-            <category lang="en">SitCom</category>\
-            <category lang="en">Comedy</category>\
-            <category lang="en">Family</category>' download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml
-          else
-            echo "Frasier not found in the EPG XML."
-          fi
+      - name: Inject show metadata (shared definitions)
+        run: bash .github/scripts/inject_epg.sh download_EPG/individual/East_USA/USA-Hallmark_Channel_East.xml
 
       - name: Commit and push if changed
         run: |
