@@ -1,0 +1,56 @@
+name: Update EPG XML Trace Latina
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Create folder
+        run: mkdir -p download_EPG/individual/Latin_USA
+
+      - name: Fetch EPG XML
+        run: curl -o download_EPG/individual/Latin_USA/Trace_Latina.xml "https://epg.pw/api/epg.xml?lang=fr&date=$(date +%Y%m%d)&channel_id=448594"
+
+      - name: Add XML Declaration and DOCTYPE
+        run: |
+          sed -i '1s|$| <!DOCTYPE tv SYSTEM "xmltv.dtd">|' download_EPG/individual/Latin_USA/Trace_Latina.xml
+
+      - name: Translate Descriptions to English
+        run: |
+          xml_file="download_EPG/individual/Latin_USA/Trace_Latina.xml"
+          tmp_file="${xml_file}.tmp"
+          while IFS= read -r line; do
+            if [[ $line =~ \<desc\>(.*)\<\/desc\> ]]; then
+              french="${BASH_REMATCH[1]}"
+              # Use LibreTranslate public API for translation
+              english=$(curl -s -X POST "https://libretranslate.com/translate" \
+                -H "Content-Type: application/json" \
+                -d "{\"q\":\"$french\",\"source\":\"fr\",\"target\":\"en\"}" | jq -r '.translatedText')
+              line="<desc>$english</desc>"
+            fi
+            echo "$line" >> "$tmp_file"
+          done < "$xml_file"
+          mv "$tmp_file" "$xml_file"
+
+      - name: Inject fixed icon for all shows
+        run: |
+          xml_file="download_EPG/individual/Latin_USA/Trace_Latina.xml"
+          icon_url="https://acessocultural.com.br/wp-content/uploads/2019/10/trace2_toca.jpg"
+          sed -i "s|\(<title[^>]*>.*</title>\)|\1\n<icon src=\"$icon_url\"/>|g" "$xml_file"
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git pull --rebase --autostash
+          git add download_EPG/individual/Latin_USA/Trace_Latina.xml
+          git commit -m "Updated Trace Latina EPG $(date +%Y-%m-%d)" || echo "No changes to commit"
+          git push
