@@ -2,7 +2,7 @@
 set -e
 
 XML_FILE="$1"
-SHOWS_JSON=".github/epg/Show_Data/shows.json"
+SHOWS_JSON=".github/EPG/Show_Data/shows.json"
 
 if [ ! -f "$XML_FILE" ]; then
   echo "XML file not found: $XML_FILE"
