@@ -2,8 +2,8 @@ name: Update EPG XML Trace Latina
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight UTC
-  workflow_dispatch:
+    - cron: '0 0 * * *'  # Runs at midnight UTC daily
+  workflow_dispatch:  # Allows manual runs
 
 jobs:
   update:
@@ -13,43 +13,45 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Create folder
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y xmlstarlet jq curl
+
+      - name: Create individual folder if it doesn't exist
         run: mkdir -p download_EPG/individual/Latin_USA
 
       - name: Fetch EPG XML
-        run: curl -o download_EPG/individual/Latin_USA/Trace_Latina.xml "https://epg.pw/api/epg.xml?lang=fr&date=$(date +%Y%m%d)&channel_id=448594"
+        run: |
+          curl -o download_EPG/individual/Latin_USA/Trace_Latina.xml "https://epg.pw/api/epg.xml?lang=en&date=$(date +%Y%m%d)&channel_id=448594"
 
       - name: Add XML Declaration and DOCTYPE
         run: |
           sed -i '1s|$| <!DOCTYPE tv SYSTEM "xmltv.dtd">|' download_EPG/individual/Latin_USA/Trace_Latina.xml
 
-      - name: Translate Descriptions to English
-        run: |
-          xml_file="download_EPG/individual/Latin_USA/Trace_Latina.xml"
-          tmp_file="${xml_file}.tmp"
-          > "$tmp_file"
-          
-          while IFS= read -r line; do
-            if [[ $line =~ \<desc\>(.*)\<\/desc\> ]]; then
-              french="${BASH_REMATCH[1]}"
-              # Safely escape for JSON
-              json_text=$(jq -Rn --arg text "$french" '$text')
-              english=$(curl -s -X POST "https://libretranslate.com/translate" \
-                -H "Content-Type: application/json" \
-                -d "{\"q\":$json_text,\"source\":\"fr\",\"target\":\"en\"}" \
-                | jq -r '.translatedText')
-              line="<desc>$english</desc>"
-            fi
-            echo "$line" >> "$tmp_file"
-          done < "$xml_file"
-          
-          mv "$tmp_file" "$xml_file"
-
-      - name: Inject fixed icon for all shows
+      - name: Translate French Descriptions and Add Icon
         run: |
           xml_file="download_EPG/individual/Latin_USA/Trace_Latina.xml"
           icon_url="https://acessocultural.com.br/wp-content/uploads/2019/10/trace2_toca.jpg"
-          sed -i "s|\(<title[^>]*>.*</title>\)|\1\n<icon src=\"$icon_url\"/>|g" "$xml_file"
+
+          # Add icon to every programme after <title>
+          xmlstarlet ed -L \
+            -i "//programme/title" -t elem -n "icon" -v "$icon_url" \
+            "$xml_file"
+
+          # Loop over non-empty <desc> elements
+          for desc_pos in $(xmlstarlet sel -t -m "//programme/desc[string() != '']" -v "position()" -n "$xml_file"); do
+            text=$(xmlstarlet sel -t -m "//programme/desc[position()=$desc_pos]" -v . -n "$xml_file")
+
+            # Translate to English using LibreTranslate
+            translated=$(curl -s -X POST "https://libretranslate.com/translate" \
+              -H "Content-Type: application/json" \
+              -d "{\"q\":\"$text\",\"source\":\"fr\",\"target\":\"en\"}" \
+              | jq -r '.translatedText')
+
+            # Update the <desc> element
+            xmlstarlet ed -L -u "//programme/desc[position()=$desc_pos]" -v "$translated" "$xml_file"
+          done
 
       - name: Commit and push if changed
         run: |
