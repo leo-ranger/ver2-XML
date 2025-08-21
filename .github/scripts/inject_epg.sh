@@ -2,7 +2,7 @@
 set -e
 
 XML_FILE="$1"
-SHOWS_JSON="EPG/Show_Data/shows.json"
+SHOWS_JSON=".github/epg/Show_Data/shows.json"
 
 if [ ! -f "$XML_FILE" ]; then
   echo "XML file not found: $XML_FILE"
@@ -19,8 +19,6 @@ for show in $(jq -r 'keys[]' "$SHOWS_JSON"); do
     for cat in $categories; do
       insert_block="$insert_block\n<category lang=\"en\">$cat</category>"
     done
-
-    # Add block after every title match
     sed -i "/<title[^>]*>$show<\/title>/a $insert_block" "$XML_FILE"
   fi
 done
