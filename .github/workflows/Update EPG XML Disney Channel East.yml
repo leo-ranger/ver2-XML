@@ -24,7 +24,7 @@ jobs:
           sed -i '1s|$| <!DOCTYPE tv SYSTEM "xmltv.dtd">|' download_EPG/individual/East_USA/USA-Disney_Channel_East.xml
 
       - name: Inject show metadata (shared definitions)
-        run: bash .github/epg/scripts/inject_epg.sh download_EPG/individual/East_USA/USA-Disney_Channel_East.xml
+        run: bash .github/scripts/inject_epg.sh download_EPG/individual/East_USA/USA-Disney_Channel_East.xml
 
       - name: Commit and push if changed
         run: |
