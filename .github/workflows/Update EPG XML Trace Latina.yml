@@ -10,54 +10,61 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️⃣ Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Install dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y xmlstarlet jq curl
-
+      # 2️⃣ Create folder if not exists
       - name: Create individual folder if it doesn't exist
         run: mkdir -p download_EPG/individual/Latin_USA
 
+      # 3️⃣ Fetch EPG XML
       - name: Fetch EPG XML
         run: |
           curl -o download_EPG/individual/Latin_USA/Trace_Latina.xml "https://epg.pw/api/epg.xml?lang=en&date=$(date +%Y%m%d)&channel_id=448594"
 
+      # 4️⃣ Add XML Declaration and DOCTYPE
       - name: Add XML Declaration and DOCTYPE
         run: |
           sed -i '1s|$| <!DOCTYPE tv SYSTEM "xmltv.dtd">|' download_EPG/individual/Latin_USA/Trace_Latina.xml
 
-      - name: Translate French Descriptions and Add Icon
+      # 5️⃣ Inject shared icon for all programs
+      - name: Inject Trace Latina icon
         run: |
           xml_file="download_EPG/individual/Latin_USA/Trace_Latina.xml"
-          icon_url="https://acessocultural.com.br/wp-content/uploads/2019/10/trace2_toca.jpg"
+          sed -i 's|<icon src=""/>|<icon src="https://acessocultural.com.br/wp-content/uploads/2019/10/trace2_toca.jpg"/>|' "$xml_file"
 
-          # Add icon to every programme after <title>
-          xmlstarlet ed -L \
-            -i "//programme/title" -t elem -n "icon" -v "$icon_url" \
-            "$xml_file"
+      # 6️⃣ Install Python translation library
+      - name: Install translation library
+        run: pip install googletrans==4.0.0-rc1
 
-          # Loop over non-empty <desc> elements
-          for desc_pos in $(xmlstarlet sel -t -m "//programme/desc[string() != '']" -v "position()" -n "$xml_file"); do
-            text=$(xmlstarlet sel -t -m "//programme/desc[position()=$desc_pos]" -v . -n "$xml_file")
+      # 7️⃣ Translate French descriptions to English
+      - name: Translate French descriptions to English
+        run: |
+          python3 - << 'EOF'
+          import xml.etree.ElementTree as ET
+          from googletrans import Translator
 
-            # Translate to English using LibreTranslate
-            translated=$(curl -s -X POST "https://libretranslate.com/translate" \
-              -H "Content-Type: application/json" \
-              -d "{\"q\":\"$text\",\"source\":\"fr\",\"target\":\"en\"}" \
-              | jq -r '.translatedText')
+          xml_file = "download_EPG/individual/Latin_USA/Trace_Latina.xml"
+          tree = ET.parse(xml_file)
+          root = tree.getroot()
+          translator = Translator()
 
-            # Update the <desc> element
-            xmlstarlet ed -L -u "//programme/desc[position()=$desc_pos]" -v "$translated" "$xml_file"
-          done
+          for prog in root.findall('programme'):
+              desc = prog.find('desc')
+              if desc is not None and desc.text and desc.text.strip():
+                  translated = translator.translate(desc.text, src='fr', dest='en').text
+                  desc.text = translated
 
+          tree.write(xml_file, encoding='utf-8', xml_declaration=True)
+          EOF
+
+      # 8️⃣ Commit and push if changed
       - name: Commit and push if changed
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git pull --rebase --autostash
           git add download_EPG/individual/Latin_USA/Trace_Latina.xml
-          git commit -m "Updated Trace Latina EPG $(date +%Y-%m-%d)" || echo "No changes to commit"
+          git commit -m "Updated EPG Trace Latina $(date +%Y-%m-%d)" || echo "No changes to commit"
           git push
