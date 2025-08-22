@@ -1,0 +1,37 @@
+name: Update EPG XML Trace Sports Stars
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at midnight UTC daily
+  workflow_dispatch:  # Allows manual runs
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Create individual folder if it doesn't exist
+        run: mkdir -p download_EPG/individual/Sports
+
+      - name: Fetch EPG XML
+        run: curl -o download_EPG/individual/Sports/Trace_Sports_Stars.xml "https://epg.pw/api/epg.xml?lang=en&date=$(date +%Y%m%d)&channel_id=369737"
+
+      - name: Add XML Declaration and DOCTYPE
+        run: |
+          sed -i '1s|$| <!DOCTYPE tv SYSTEM "xmltv.dtd">|' download_EPG/individual/Sports/Trace_Sports_Stars.xml
+
+      - name: Add static icon to every programme
+        run: |
+          sed -i '/<programme /a \  <icon src="https://i.ytimg.com/vi/LsVzn2VE78E/mqdefault.jpg"/>' download_EPG/individual/Sports/Trace_Sports_Stars.xml
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git pull --rebase --autostash
+          git add download_EPG/individual/Sports/Trace_Sports_Stars.xml
+          git commit -m "Updated EPG $(date +%Y-%m-%d)" || echo "No changes to commit"
+          git push
