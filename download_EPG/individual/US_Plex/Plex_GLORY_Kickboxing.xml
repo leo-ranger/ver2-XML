@@ -5,30 +5,6 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/eeb07931-3048-49e0-8d82-7d2da1b1669d/GLORY_Logo_Light_Nicholas_Olsen.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f" start="20250821215920 +0000" stop="20250822050209 +0000">
-    <title>GLORY Kickboxing</title>
-    <sub-title>GLORY 99: Last Man Standing</sub-title>
-    <desc>The year-long, five-event tournament kicks off at GLORY 99 in Rotterdam Ahoy, featuring 32 heavyweights in 16 bouts on a mega all-heavyweight card.</desc>
-    <date>20250405</date>
-    <icon src="https://partner-upload-assets.wurl.com/glory_kickboxing/G99-CLEAN.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f" start="20250822050209 +0000" stop="20250822093653 +0000">
-    <title>GLORY Kickboxing</title>
-    <sub-title>GLORY 9 New York</sub-title>
-    <desc>Glory 09: New York was a kickboxing event held on June 22, 2013 at the Hammerstein Ballroom in New York City, New York. This event featured a Glory 95kg Slam Tournament.</desc>
-    <date>20250513</date>
-    <icon src="https://partner-upload-assets.wurl.com/glory_kickboxing/FAST_Graphics_G09.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f" start="20250822093653 +0000" stop="20250822185008 +0000">
-    <title>GLORY Kickboxing</title>
-    <sub-title>GLORY 100 Last Heavyweight Standing</sub-title>
-    <desc>GLORY 100 features four GLORY world title bouts, four separate four-man one-night tournaments to determine who qualifies for the Last Heavyweight Standing finals, and several key matchups involving some of GLORY’s most popular fighters.</desc>
-    <date>20250624</date>
-    <icon src="https://partner-upload-assets.wurl.com/glory_kickboxing/G100%2520Wurl.jpg" />
-  </programme>
-  
 <programme channel="5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f" start="20250822185008 +0000" stop="20250822232453 +0000">
     <title>GLORY Kickboxing</title>
     <sub-title>GLORY 9 New York</sub-title>
@@ -38,6 +14,40 @@
   </programme>
   
 <programme channel="5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f" start="20250822232453 +0000" stop="20250823083808 +0000">
+    <title>GLORY Kickboxing</title>
+    <sub-title>GLORY 100 Last Heavyweight Standing</sub-title>
+    <desc>GLORY 100 features four GLORY world title bouts, four separate four-man one-night tournaments to determine who qualifies for the Last Heavyweight Standing finals, and several key matchups involving some of GLORY’s most popular fighters.</desc>
+    <date>20250624</date>
+    <icon src="https://partner-upload-assets.wurl.com/glory_kickboxing/G100%2520Wurl.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f" start="20250823083808 +0000" stop="20250823100321 +0000">
+    <title>K1</title>
+    <sub-title>K1 World Grand Prix: Final 14, Osaka, 2003</sub-title>
+    <episode-num system="onscreen">S01E46</episode-num>
+    <desc>K-1 World Grand Prix 2003 Final Elimination was a kickboxing event promoted by the K-1 organization. The event was held at the Osaka Dome in Osaka, Japan on Saturday, October 11, 2003 in front of 31,700 spectators. It was the final elimination competition for the K-1 World Grand Prix 2003, involving fourteen fighters from across the world, with all bouts being fought under K-1 Rules (100 kg/156-220 lbs). The fourteen fighters were a mixture of invitees or had qualified via previous events.</desc>
+    <date>20031011</date>
+    <icon src="https://partner-upload-assets.wurl.com/glory_kickboxing/WGP03ELIM.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f" start="20250823100321 +0000" stop="20250823155733 +0000">
+    <title>GLORY Kickboxing</title>
+    <sub-title>GLORY 98 Rotterdam</sub-title>
+    <desc>GLORY 98 features the highly anticipated return of Jamal Ben Saddik (36-9, 29 KO) against the Estonian powerhouse Uku Jürjendal (20-9, 16 KO). In the co-main event of the evening, GLORY Welterweight World Champion Chico Kwasi (43-5-1, 23 KO) is set to defend his title against number two ranked welterweight Teodor Hristov (18-3, 7 KO). Meanwhile, two of 2024’s best prospects will clash as Cem Caceres (18-1, 14 KO) faces Mory Kromah (31-2-1, 18 KO).</desc>
+    <date>20240222</date>
+    <icon src="https://partner-upload-assets.wurl.com/glory_kickboxing/uku-jamal-3840x2160clean.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f" start="20250823155733 +0000" stop="20250823180033 +0000">
+    <title>GLORY 103 SuperFights</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>GLORY 103 will notably kick-off phase two of the exciting Last Heavyweight Standing tournament. Sixteen heavyweights will compete in head-to-head bouts, with former heavyweight title contenders Levi Rigters (19-3, 9 KO) and Jamal Ben Saddik (38-10, 29 KO) colliding in a huge showdown for the main event. The GLORY 103 SuperFights will lead off the night with 4 fights from that tournament, headlined by a clash between big swingers Sofian Laidouni (39-5-1, 20 KO) and Cihad Kepenek (23-8, 16 KO).</desc>
+    <date>20240814</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/31273-33321/64098267-default_v11.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f" start="20250823180033 +0000" stop="20250824031348 +0000">
     <title>GLORY Kickboxing</title>
     <sub-title>GLORY 100 Last Heavyweight Standing</sub-title>
     <desc>GLORY 100 features four GLORY world title bouts, four separate four-man one-night tournaments to determine who qualifies for the Last Heavyweight Standing finals, and several key matchups involving some of GLORY’s most popular fighters.</desc>
