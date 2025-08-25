@@ -24,12 +24,18 @@ jobs:
       - name: Add XML Declaration and DOCTYPE
         run: |
           sed -i '1s|$| <!DOCTYPE tv SYSTEM "xmltv.dtd">|' download_EPG/individual/INTV/InUltra.xml
-
-      - name: Inject InUltra icon
+          
+      - name: Inject default icon into every programme
         run: |
           xml_file="download_EPG/individual/INTV/InUltra.xml"
-          sed -i 's|<icon src=""/>|<icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/>|' "$xml_file"
-
+          # Insert default icon after <desc> in each <programme>
+          awk '{
+            print
+            if ($0 ~ /<desc[^>]*>.*<\/desc>/) {
+              print "    <icon src=\"https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png\" />"
+            }
+          }' "$xml_file" > tmpfile && mv tmpfile "$xml_file"
+          
       - name: Translate Traditional Chinese titles and descriptions to English
         run: |
           python3 -m pip install --upgrade pip
