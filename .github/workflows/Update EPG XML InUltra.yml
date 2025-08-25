@@ -1,0 +1,81 @@
+name: Update EPG XML InUltra
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at midnight UTC daily
+  workflow_dispatch:  # Allows manual runs
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Create individual folder if it doesn't exist
+        run: mkdir -p download_EPG/individual/INTV
+
+      - name: Fetch EPG XML
+        run: |
+          curl -o download_EPG/individual/INTV/InUltra.xml \
+          "https://epg.pw/api/epg.xml?lang=en&date=$(date +%Y%m%d)&channel_id=414181"
+
+      - name: Add XML Declaration and DOCTYPE
+        run: |
+          sed -i '1s|$| <!DOCTYPE tv SYSTEM "xmltv.dtd">|' download_EPG/individual/INTV/InUltra.xml
+
+      - name: Inject InUltra icon
+        run: |
+          xml_file="download_EPG/individual/INTV/InUltra.xml"
+          sed -i 's|<icon src=""/>|<icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/>|' "$xml_file"
+
+      - name: Translate Traditional Chinese titles and descriptions to English
+        run: |
+          python3 -m pip install --upgrade pip
+          python3 -m pip install googletrans==4.0.0-rc1
+          python3 - << 'EOF'
+          import xml.etree.ElementTree as ET
+          from googletrans import Translator
+          import re
+
+          xml_file = "download_EPG/individual/INTV/InUltra.xml"
+          tree = ET.parse(xml_file)
+          root = tree.getroot()
+          translator = Translator()
+
+          def fix_spacing(text):
+              return re.sub(r'([.!?])([A-Za-z])', r'\1 \2', text)
+
+          for prog in root.findall('programme'):
+              # Translate <title>
+              for title in prog.findall('title'):
+                  if title.text and title.text.strip():
+                      try:
+                          translated = translator.translate(title.text, src='zh-TW', dest='en').text
+                          translated = fix_spacing(translated)
+                          title.text = translated
+                      except Exception as e:
+                          print(f"Title translation failed: {e}")
+
+              # Translate <desc>
+              desc = prog.find('desc')
+              if desc is not None and desc.text and desc.text.strip():
+                  try:
+                      translated = translator.translate(desc.text, src='zh-TW', dest='en').text
+                      translated = fix_spacing(translated)
+                      desc.text = translated
+                  except Exception as e:
+                      print(f"Description translation failed: {e}")
+
+          tree.write(xml_file, encoding='utf-8', xml_declaration=True)
+          EOF
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git pull --rebase --autostash
+          git add download_EPG/individual/INTV/InUltra.xml
+          git commit -m "Updated InUltra EPG $(date +%Y-%m-%d)" || echo "No changes to commit"
+          git push
