@@ -49,7 +49,6 @@ jobs:
                       try:
                           translated = translator.translate(title.text, src='zh-TW', dest='en').text
                           translated = fix_spacing(translated)
-                          # Remove placeholders like [Chinese] or [Chinese characters]
                           translated = re.sub(r'\[(Chinese|Chinese characters)\]', '', translated).strip()
                           title.text = translated
                       except Exception as e:
@@ -71,13 +70,31 @@ jobs:
 
       - name: Inject default icon after <desc> in every programme
         run: |
-          xml_file="download_EPG/individual/INTV/InUltra.xml"
-          awk '{
-            print
-            if ($0 ~ /<desc[^>]*>.*<\/desc>/) {
-              print "    <icon src=\"https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png\" />"
-            }
-          }' "$xml_file" > tmpfile && mv tmpfile "$xml_file"
+          python3 - << 'EOF'
+          import xml.etree.ElementTree as ET
+
+          xml_file = "download_EPG/individual/INTV/InUltra.xml"
+          tree = ET.parse(xml_file)
+          root = tree.getroot()
+
+          icon_url = "https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"
+
+          for prog in root.findall('programme'):
+              # Only insert icon if it does not already exist
+              if prog.find('icon') is None:
+                  desc = prog.find('desc')
+                  icon_elem = ET.Element('icon')
+                  icon_elem.set('src', icon_url)
+                  if desc is not None:
+                      # Insert icon right after <desc>
+                      index = list(prog).index(desc) + 1
+                      prog.insert(index, icon_elem)
+                  else:
+                      # If no desc, append at the end
+                      prog.append(icon_elem)
+
+          tree.write(xml_file, encoding='utf-8', xml_declaration=True)
+          EOF
 
       - name: Commit and push if changed
         run: |
