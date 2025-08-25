@@ -3,7 +3,7 @@ name: Update EPG XML InUltra
 on:
   schedule:
     - cron: '0 0 * * *'  # Runs at midnight UTC daily
-  workflow_dispatch:  # Allows manual runs
+  workflow_dispatch:
 
 jobs:
   update:
@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Create individual folder if it doesn't exist
+      - name: Create folder INTV
         run: mkdir -p download_EPG/individual/INTV
 
       - name: Fetch EPG XML
@@ -24,34 +24,8 @@ jobs:
       - name: Add XML Declaration and DOCTYPE
         run: |
           sed -i '1s|$| <!DOCTYPE tv SYSTEM "xmltv.dtd">|' download_EPG/individual/INTV/InUltra.xml
-          
-      - name: Inject default icon into every programme
-        run: |
-          python3 - << 'EOF'
-          import xml.etree.ElementTree as ET
 
-          xml_file = "download_EPG/individual/INTV/InUltra.xml"
-          tree = ET.parse(xml_file)
-          root = tree.getroot()
-
-          icon_url = "https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"
-
-          for prog in root.findall('programme'):
-              desc = prog.find('desc')
-              if desc is not None:
-                  # Remove existing <icon> if any
-                  for existing_icon in prog.findall('icon'):
-                      prog.remove(existing_icon)
-                  # Create new <icon> element
-                  icon_elem = ET.Element('icon', {'src': icon_url})
-                  # Insert it right after <desc>
-                  desc_index = list(prog).index(desc)
-                  prog.insert(desc_index + 1, icon_elem)
-
-          tree.write(xml_file, encoding='utf-8', xml_declaration=True)
-          EOF
-          
-      - name: Translate Taiwanese titles and descriptions to English
+      - name: Translate Traditional Chinese titles and descriptions, clean placeholders
         run: |
           python3 -m pip install --upgrade pip
           python3 -m pip install googletrans==4.0.0-rc1
@@ -75,6 +49,8 @@ jobs:
                       try:
                           translated = translator.translate(title.text, src='zh-TW', dest='en').text
                           translated = fix_spacing(translated)
+                          # Remove placeholders like [Chinese] or [Chinese characters]
+                          translated = re.sub(r'\[(Chinese|Chinese characters)\]', '', translated).strip()
                           title.text = translated
                       except Exception as e:
                           print(f"Title translation failed: {e}")
@@ -85,12 +61,23 @@ jobs:
                   try:
                       translated = translator.translate(desc.text, src='zh-TW', dest='en').text
                       translated = fix_spacing(translated)
+                      translated = re.sub(r'\[(Chinese|Chinese characters)\]', '', translated).strip()
                       desc.text = translated
                   except Exception as e:
                       print(f"Description translation failed: {e}")
 
           tree.write(xml_file, encoding='utf-8', xml_declaration=True)
           EOF
+
+      - name: Inject default icon after <desc> in every programme
+        run: |
+          xml_file="download_EPG/individual/INTV/InUltra.xml"
+          awk '{
+            print
+            if ($0 ~ /<desc[^>]*>.*<\/desc>/) {
+              print "    <icon src=\"https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png\" />"
+            }
+          }' "$xml_file" > tmpfile && mv tmpfile "$xml_file"
 
       - name: Commit and push if changed
         run: |
