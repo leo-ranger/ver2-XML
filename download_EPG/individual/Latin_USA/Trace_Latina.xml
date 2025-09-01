@@ -1,79 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv date="20250831090531 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/448594/20250831.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=448594&amp;date=20250831&amp;timezone=None">
+<tv date="20250901091152 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/448594/20250901.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=448594&amp;date=20250901&amp;timezone=None">
   <channel id="448594">
     <display-name lang="France">Trace Latina</display-name>
     <icon src="" />
   </channel>
-  <programme channel="448594" start="20250831000000 +0000" stop="20250831020000 +0000">
-    <title lang="zh">Latin night</title>
-    <desc>Do you have insomnia? Or do you want to spend the night in music? Look at Latin night!</desc>
-    <date>2025-08-31</date>
-  </programme>
-  <programme channel="448594" start="20250831020000 +0000" stop="20250831030000 +0000">
-    <title lang="zh">Hits Non Stop</title>
-    <desc>1 hour of non-stop hits to embellish the day with non-stop hits!</desc>
-    <date>2025-08-31</date>
-  </programme>
-  <programme channel="448594" start="20250831030000 +0000" stop="20250831080000 +0000">
-    <title lang="zh">Viva Latina</title>
-    <desc>The music never stops on Trace Vanilla! VIAV Latina is there to give you the best hits.</desc>
-    <date>2025-08-31</date>
-  </programme>
-  <programme channel="448594" start="20250831080000 +0000" stop="20250831100000 +0000">
-    <title lang="zh">Ola Latina</title>
-    <desc>Music to start the morning well and warm up for the rest of the day.</desc>
-    <date>2025-08-31</date>
-  </programme>
-  <programme channel="448594" start="20250831100000 +0000" stop="20250831110000 +0000">
-    <title lang="zh">Hits Non Stop</title>
-    <desc>1 hour of non-stop hits to embellish the day with non-stop hits!</desc>
-    <date>2025-08-31</date>
-  </programme>
-  <programme channel="448594" start="20250831110000 +0000" stop="20250831134500 +0000">
-    <title lang="zh">Hits Non Stop</title>
-    <desc>1 hour of non-stop hits to embellish the day with non-stop hits!</desc>
-    <date>2025-08-31</date>
-  </programme>
-  <programme channel="448594" start="20250831134500 +0000" stop="20250831174500 +0000">
-    <title lang="zh">Fuego play</title>
-    <desc>Music never stops on Latina trace! Fuego Play is there to give you the best Latino hits!</desc>
-    <date>2025-08-31</date>
-  </programme>
-  <programme channel="448594" start="20250831174500 +0000" stop="20250831180000 +0000">
-    <title lang="zh">Hits Non Stop</title>
-    <desc>1 hour of non-stop hits to embellish the day with non-stop hits!</desc>
-    <date>2025-08-31</date>
-  </programme>
-  <programme channel="448594" start="20250831180000 +0000" stop="20250831190000 +0000">
-    <title lang="zh">Hits Non Stop</title>
-    <desc>1 hour of non-stop hits to embellish the day with non-stop hits!</desc>
-    <date>2025-08-31</date>
-  </programme>
-  <programme channel="448594" start="20250831190000 +0000" stop="20250831200000 +0000">
-    <title lang="zh">Novedades</title>
-    <desc>Trace offers you a selection of the best novelties.</desc>
-    <date>2025-08-31</date>
-  </programme>
-  <programme channel="448594" start="20250831200000 +0000" stop="20250831210000 +0000">
-    <title lang="zh">Hits Non Stop</title>
-    <desc>1 hour of non-stop hits to embellish the day with non-stop hits!</desc>
-    <date>2025-08-31</date>
-  </programme>
-  <programme channel="448594" start="20250831210000 +0000" stop="20250831220000 +0000">
-    <title lang="zh">Rewind</title>
-    <desc>Find the best of Latin music classics with Rewind.</desc>
-    <date>2025-08-31</date>
-  </programme>
-  <programme channel="448594" start="20250831220000 +0000" stop="20250831230000 +0000">
-    <title lang="zh">Bachata vibes</title>
-    <desc>An hour from the biggest hits Bachata!</desc>
-    <date>2025-08-31</date>
-  </programme>
-  <programme channel="448594" start="20250831230000 +0000" stop="20250901000000 +0000">
-    <title lang="zh">Caliente vibes</title>
-    <desc>The most "hot" videos censored on other channels but not on Latina trace.</desc>
-    <date>2025-08-31</date>
-  </programme>
   <programme channel="448594" start="20250901000000 +0000" stop="20250901004500 +0000">
     <title lang="zh">Top 10 Caliente</title>
     <desc />
@@ -153,5 +83,100 @@
     <title lang="zh">Urban Vibes</title>
     <desc>An hour from the biggest Latin urban hits !!!</desc>
     <date>2025-09-01</date>
+  </programme>
+  <programme channel="448594" start="20250902000000 +0000" stop="20250902004500 +0000">
+    <title lang="zh">Top 10 Reggaeton</title>
+    <desc>The ranking of 10 most popular reggaeton hits of the moment.</desc>
+    <date>2025-09-02</date>
+  </programme>
+  <programme channel="448594" start="20250902004500 +0000" stop="20250902030000 +0000">
+    <title lang="zh">Latin night</title>
+    <desc>Do you have insomnia? Or do you want to spend the night in music? Look at Latin night!</desc>
+    <date>2025-09-02</date>
+  </programme>
+  <programme channel="448594" start="20250902030000 +0000" stop="20250902060000 +0000">
+    <title lang="zh">Viva Latina</title>
+    <desc>The music never stops on Trace Vanilla! VIAV Latina is there to give you the best hits.</desc>
+    <date>2025-09-02</date>
+  </programme>
+  <programme channel="448594" start="20250902060000 +0000" stop="20250902080000 +0000">
+    <title lang="zh">Wake Up Trace Latina</title>
+    <desc>Music to start the morning well and warm up for the rest of the day.</desc>
+    <date>2025-09-02</date>
+  </programme>
+  <programme channel="448594" start="20250902080000 +0000" stop="20250902100000 +0000">
+    <title lang="zh">Ola Latina</title>
+    <desc>Music to start the morning well and warm up for the rest of the day.</desc>
+    <date>2025-09-02</date>
+  </programme>
+  <programme channel="448594" start="20250902100000 +0000" stop="20250902104500 +0000">
+    <title lang="zh">Hit 10</title>
+    <desc>The daily classification of the 10 best urban titles of the moment, only on the Latina trace.</desc>
+    <date>2025-09-02</date>
+  </programme>
+  <programme channel="448594" start="20250902104500 +0000" stop="20250902140000 +0000">
+    <title lang="zh">Fuego play</title>
+    <desc>Music never stops on Latina trace! Fuego Play is there to give you the best Latino hits!</desc>
+    <date>2025-09-02</date>
+  </programme>
+  <programme channel="448594" start="20250902140000 +0000" stop="20250902144500 +0000">
+    <title lang="zh">Top 10 Reggaeton</title>
+    <desc>The ranking of 10 most popular reggaeton hits of the moment.</desc>
+    <date>2025-09-02</date>
+  </programme>
+  <programme channel="448594" start="20250902144500 +0000" stop="20250902150000 +0000">
+    <title lang="zh">Hits Non Stop</title>
+    <desc>1 hour of non-stop hits to embellish the day with non-stop hits!</desc>
+    <date>2025-09-02</date>
+  </programme>
+  <programme channel="448594" start="20250902150000 +0000" stop="20250902160000 +0000">
+    <title lang="zh">100% Ladies</title>
+    <desc>With 100% Ladies, find a selection of the best female artists of the moment! A 100% Girl Power hour!</desc>
+    <date>2025-09-02</date>
+  </programme>
+  <programme channel="448594" start="20250902160000 +0000" stop="20250902170000 +0000">
+    <title lang="zh">Latin vibes</title>
+    <desc>An hour non -stop of Hit Latin!</desc>
+    <date>2025-09-02</date>
+  </programme>
+  <programme channel="448594" start="20250902170000 +0000" stop="20250902174500 +0000">
+    <title lang="zh">Hit 10</title>
+    <desc>The daily classification of the 10 best urban titles of the moment, only on the Latina trace.</desc>
+    <date>2025-09-02</date>
+  </programme>
+  <programme channel="448594" start="20250902174500 +0000" stop="20250902180000 +0000">
+    <title lang="zh">Hits Non Stop</title>
+    <desc>1 hour of non-stop hits to embellish the day with non-stop hits!</desc>
+    <date>2025-09-02</date>
+  </programme>
+  <programme channel="448594" start="20250902180000 +0000" stop="20250902190000 +0000">
+    <title lang="zh">Hits Non Stop</title>
+    <desc>1 hour of non-stop hits to embellish the day with non-stop hits!</desc>
+    <date>2025-09-02</date>
+  </programme>
+  <programme channel="448594" start="20250902190000 +0000" stop="20250902200000 +0000">
+    <title lang="zh">Novedades</title>
+    <desc>Trace offers you a selection of the best novelties.</desc>
+    <date>2025-09-02</date>
+  </programme>
+  <programme channel="448594" start="20250902200000 +0000" stop="20250902204500 +0000">
+    <title lang="zh">Stream it</title>
+    <desc>The ranking of the 10 most downloaded and stremed titles in the world this week.</desc>
+    <date>2025-09-02</date>
+  </programme>
+  <programme channel="448594" start="20250902204500 +0000" stop="20250902220000 +0000">
+    <title lang="zh">Hits Non Stop</title>
+    <desc>1 hour of non-stop hits to embellish the day with non-stop hits!</desc>
+    <date>2025-09-02</date>
+  </programme>
+  <programme channel="448594" start="20250902220000 +0000" stop="20250902230000 +0000">
+    <title lang="zh">Pop Vibes</title>
+    <desc>An hour of great Latin Pop successes.</desc>
+    <date>2025-09-02</date>
+  </programme>
+  <programme channel="448594" start="20250902230000 +0000" stop="20250903000000 +0000">
+    <title lang="zh">Caliente vibes</title>
+    <desc>The most "hot" videos censored on other channels but not on Latina trace.</desc>
+    <date>2025-09-02</date>
   </programme>
 </tv>
