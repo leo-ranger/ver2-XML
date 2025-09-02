@@ -5,14 +5,60 @@
     <icon src="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/ef631804cdf478bca5ba96eaee4bc241.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250901000000 +0000" stop="20250901033000 +0000">
-    <title>College Football</title>
-    <sub-title>Benedict at Fayetteville State</sub-title>
-    <desc>From Luther "Nick" Jeralds Stadium in Fayetteville, Ark.</desc>
-    <date>20250830</date>
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250902010000 +0000" stop="20250902030000 +0000">
+    <title>Martha's Vineyard Comedy Fest 2022</title>
+    <sub-title>Martha's Vineyard Comedy Fest 2022</sub-title>
+    <desc>Some of the hottest comedians on the circuit perform original stand-up comedy at this annual event.</desc>
+    <date>20250902</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250901033000 +0000" stop="20250901080000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250902030000 +0000" stop="20250902040000 +0000">
+    <title>An Interview With Rhymefest</title>
+    <sub-title>An Interview With Rhymefest</sub-title>
+    <date>20250902</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250902040000 +0000" stop="20250902070000 +0000">
+    <title>College Football</title>
+    <sub-title>Virginia Union at Kentucky State</sub-title>
+    <desc>From Alumni Field in Frankfort, Ky.</desc>
+    <date>20240831</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250902070000 +0000" stop="20250902080000 +0000">
+    <title>HBCU Go Getters</title>
+    <sub-title>HBCU Go Getters</sub-title>
+    <desc>Host Nicole Watson shines a light on the amazing work of Black leaders from historically Black colleges and universities across industries.</desc>
+    <date>20250902</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250902080000 +0000" stop="20250902090000 +0000">
+    <title>Spade a Spade</title>
+    <sub-title>Mental Health</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Exploring the oft-ignored importance of mental health, over a spirited game of Spades.</desc>
+    <date>20220924</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8d611cca09a189bcf27bbd03018937df.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250902090000 +0000" stop="20250902100000 +0000">
+    <title>Spade a Spade</title>
+    <sub-title>Black Beauty</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Beauty and the many ways it is expressed and celebrated in the Black community.</desc>
+    <date>20220923</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d3ed442af701e9cde0bd135846a012c1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250902100000 +0000" stop="20250902130000 +0000">
+    <title>College Football</title>
+    <sub-title>Howard Classic 2007</sub-title>
+    <episode-num system="onscreen">S2023E45</episode-num>
+    <desc>Classic football games.</desc>
+    <date>20230819</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250902130000 +0000" stop="20250902173000 +0000">
     <title>College Football</title>
     <sub-title>Florida Classic 2004</sub-title>
     <episode-num system="onscreen">S2023E44</episode-num>
@@ -20,123 +66,56 @@
     <date>20230812</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250901080000 +0000" stop="20250901100000 +0000">
-    <title>Women's College Basketball</title>
-    <sub-title>Kentucky State at Tuskegee</sub-title>
-    <desc>From James Center Arena in Tuskegee, Ala.</desc>
-    <date>20240113</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250901100000 +0000" stop="20250901120000 +0000">
-    <title>Women's College Basketball</title>
-    <sub-title>Prairie View A&amp;M at Texas Southern</sub-title>
-    <desc>From Health and Physical Education Arena in Houston, Tex.</desc>
-    <date>20250201</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250901120000 +0000" stop="20250901140000 +0000">
-    <title>Gladiators of Education: The Making of I Will Graduate Day</title>
-    <sub-title>Gladiators of Education: The Making of I Will Graduate Day</sub-title>
-    <desc>A jubilant celebration dedicated to inspiring youth to relentlessly pursue their dreams and aspirations.</desc>
-    <date>20250901</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250901140000 +0000" stop="20250901160000 +0000">
-    <title>Conversations For Change</title>
-    <sub-title>Conversations For Change</sub-title>
-    <date>20250901</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250901160000 +0000" stop="20250901163000 +0000">
-    <title>Money-Making Conversations</title>
-    <sub-title>Stephen A. Smith</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>The always outspoken Stephen A. Smith gets candid about his love for HBCUs, the popularity of "Baby Steven A" and his humbling acting career.</desc>
-    <date>20240205</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250901163000 +0000" stop="20250901170000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250902173000 +0000" stop="20250902180000 +0000">
     <title>HBCU-Go Time</title>
     <sub-title>Tyler Perry</sub-title>
     <date>20230910</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250901170000 +0000" stop="20250901173000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250902180000 +0000" stop="20250902183000 +0000">
     <title>HBCU-Go Time</title>
-    <sub-title>Debbie Allen</sub-title>
-    <date>20231023</date>
+    <sub-title>Frances Tiafoe</sub-title>
+    <date>20230921</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250901173000 +0000" stop="20250901183000 +0000">
-    <title>In the Classroom</title>
-    <sub-title>Marc John Jefferies</sub-title>
-    <date>20240224</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250901183000 +0000" stop="20250901190000 +0000">
-    <title>In the Classroom</title>
-    <sub-title>Cindy Hsu</sub-title>
-    <date>20240204</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250901190000 +0000" stop="20250901200000 +0000">
-    <title>In the Classroom</title>
-    <sub-title>Lala Anthony</sub-title>
-    <date>20240211</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250901200000 +0000" stop="20250901210000 +0000">
-    <title>In the Classroom</title>
-    <sub-title>Daymond John</sub-title>
-    <date>20240204</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250901210000 +0000" stop="20250901220000 +0000">
-    <title>Dyana Williams</title>
-    <sub-title>Dyana Williams</sub-title>
-    <date>20250901</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250901220000 +0000" stop="20250901223000 +0000">
-    <title>Lil Jon</title>
-    <sub-title>Lil Jon</sub-title>
-    <desc>Rapper and record producer Lil Jon speaks on his musical journey, the importance of prioritizing emotional, mental and physical health, and how his focus has shifted to wellbeing in recent years.</desc>
-    <date>20250901</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250901223000 +0000" stop="20250901230000 +0000">
-    <title>HBCU Football Coaching Legends</title>
-    <sub-title>To Be Announced</sub-title>
-    <date>20250901</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250901230000 +0000" stop="20250901233000 +0000">
-    <title>Café Mocha TV</title>
-    <sub-title>Welcome to LA</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Laila Muhammad visits popular Los Angeles restaurants and the world famous Debbie Allen Dance Academy; Loni Love talks with Oscar-winning Hollywood Costume Designer Ruth E. Carter.</desc>
-    <date>20220926</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250901233000 +0000" stop="20250902000000 +0000">
-    <title>Café Mocha TV</title>
-    <sub-title>Welcome to Cincinnati</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Laila Muhammad visits the best businesses and cultural locations in downtown Cincinnati and goes behind the scenes to enjoy the best music at Cincinnati Jazz Festival.</desc>
-    <date>20221010</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250902000000 +0000" stop="20250902010000 +0000">
-    <title>HBCU First Look Film: Let's Talk!</title>
-    <sub-title>Screenwriting And Showrunning</sub-title>
-    <date>20250308</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250902010000 +0000" stop="20250902030000 +0000">
-    <title>Martha's Vineyard Comedy Fest 2022</title>
-    <sub-title>Martha's Vineyard Comedy Fest 2022</sub-title>
-    <desc>Some of the hottest comedians on the circuit perform original stand-up comedy at this annual event.</desc>
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250902183000 +0000" stop="20250902190000 +0000">
+    <title>A Discussion On Michael Jackson</title>
+    <sub-title>A Discussion On Michael Jackson</sub-title>
     <date>20250902</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250902190000 +0000" stop="20250902200000 +0000">
+    <title>Spade a Spade</title>
+    <sub-title>Role Models</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>A conversation about the importance of role models in the Black community over a spirited game of Spades.</desc>
+    <date>20220923</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/4289e86ed861de697be9fdb7eadeb4d3.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250902200000 +0000" stop="20250902220000 +0000">
+    <title>Conversations For Change</title>
+    <sub-title>Conversations For Change</sub-title>
+    <date>20250902</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250902220000 +0000" stop="20250903000000 +0000">
+    <title>Gladiators of Education: The Making of I Will Graduate Day</title>
+    <sub-title>Gladiators of Education: The Making of I Will Graduate Day</sub-title>
+    <desc>A jubilant celebration dedicated to inspiring youth to relentlessly pursue their dreams and aspirations.</desc>
+    <date>20250902</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250903000000 +0000" stop="20250903010000 +0000">
+    <title>HBCU First Look Film: Let's Talk!</title>
+    <sub-title>Finance</sub-title>
+    <date>20240618</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20250903010000 +0000" stop="20250903020000 +0000">
+    <title>HBCU First Look Film: Let's Talk!</title>
+    <sub-title>Power, Passion, And Perseverence</sub-title>
+    <date>20250814</date>
   </programme>
   
 </tv>
