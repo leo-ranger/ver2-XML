@@ -1,27 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv date="20250902090027 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403837/20250902.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403837&amp;date=20250902&amp;timezone=None">
+<tv date="20250903085653 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403837/20250903.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403837&amp;date=20250903&amp;timezone=None">
   <channel id="403837">
     <display-name lang="US">Disney XD USA - Eastern Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403837" start="20250902000000 +0000" stop="20250902120000 +0000">
-    <title lang="zh">Big City Greens</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Adventure</category>
-<category lang="en">Kids</category>
-    <desc>Chip enacts his ultimate revenge plan by framing the Green family for ruining Big City and turning everyone against them.</desc>
-    <date>2025-09-02</date>
-  </programme>
-  <programme channel="403837" start="20250902120000 +0000" stop="20250903000000 +0000">
-    <title lang="zh">Big City Greens</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Adventure</category>
-<category lang="en">Kids</category>
-    <desc>Chip enacts his ultimate revenge plan by framing the Green family for ruining Big City and turning everyone against them.</desc>
-    <date>2025-09-02</date>
-  </programme>
 </tv>
