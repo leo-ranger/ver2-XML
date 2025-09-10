@@ -5,156 +5,114 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/f345c0b8-c5b8-49a4-82f2-28fa7fcfe7e8/CM-Plex-dark_logo-CanelaTV-deportes_-_Natalia_Rodriguez.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250908215959 +0000" stop="20250908233210 +0000">
-    <title>El Curubito</title>
-    <category>Movie</category>
-    <desc>Programa de entretenimiento deportivo en el que el fútbol se debate con garra y sin filtros.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250908233210 +0000" stop="20250909005959 +0000">
-    <title>Bare Knuckle Championship Series</title>
-    <sub-title>Birmingham, Alabama</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>90 minutes of fighting in Birmingham, Alabama.</desc>
-    <date>20210101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/9008bdee-01d3-4f59-aca7-702d2d7f8a8c_ctv-bkcs-16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250909005959 +0000" stop="20250909030400 +0000">
-    <title>Red de Futbol</title>
-    <category>Movie</category>
-    <desc>Los mejores análisis, debates y noticias del mundo del fútbol.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250909030400 +0000" stop="20250909040313 +0000">
-    <title>One Championship</title>
-    <sub-title>MMA
-Vera vs. Bhullar</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Brandon Vera y Arjan Bhullar se enfrentaron en una épica batalla de campeonato mundial.</desc>
-    <date>20210101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/65770d73-e89d-4967-a04d-3d30895425e5_16x9.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250909040313 +0000" stop="20250909053945 +0000">
-    <title>One Championship</title>
-    <sub-title>Kickboxing
-Meksen vs. Ruumet</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Anissa Meksen y Marie Ruumet protagonizaron una épica batalla de Muay Thai.</desc>
-    <date>20210101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/65770d73-e89d-4967-a04d-3d30895425e5_16x9.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250909053945 +0000" stop="20250909061609 +0000">
-    <title>One Championship</title>
-    <sub-title>MMA: Lineker vs. Worthen.</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>ONE on TNT III.</desc>
-    <date>20210101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/65770d73-e89d-4967-a04d-3d30895425e5_16x9.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250909061609 +0000" stop="20250909073904 +0000">
-    <title>One Championship</title>
-    <sub-title>Muay Thai Holzken vs. Parr</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Revive el enfrentamiento entre Nieky Holzken y John Wayne Parr.</desc>
-    <date>20210101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/65770d73-e89d-4967-a04d-3d30895425e5_16x9.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250909073904 +0000" stop="20250909083414 +0000">
-    <title>One Championship</title>
-    <sub-title>Kickboxing Zhang vs. Di Bella</sub-title>
-    <episode-num system="onscreen">S02E07</episode-num>
-    <desc>Zhang Peimian y Jonathan Di Bella se enfrentaron en una batalla.</desc>
-    <date>20210101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/65770d73-e89d-4967-a04d-3d30895425e5_16x9.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250909083414 +0000" stop="20250909152318 +0000">
-    <title>ONE 172: Takeru vs. Rodtang</title>
-    <category>Movie</category>
-    <desc>Las máximas superestrellas de artes marciales del planeta llegarán al Saitama Super Arena en Japón.</desc>
-    <date>20250101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/bccebce2aae975a32dd3ec653f88ed214c76265d_2x3.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250909152318 +0000" stop="20250909163328 +0000">
-    <title>Historias de Leyendas</title>
-    <sub-title>Mario Kempes</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Mario Kempes nos cuenta detalles íntimos de su vida dentro y fuera de la cancha.</desc>
-    <date>20240101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/db4db0fa-2a81-4077-8906-2fefb60e0689_copia_de_cm-historias_de_leyendas-postergenerico-16x9_2.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250909163328 +0000" stop="20250909173139 +0000">
-    <title>One Championship</title>
-    <sub-title>2022
-Mejores Peleas Vol. 1</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Revive algunas de las peleas más emocionantes de ONE en 2022.</desc>
-    <date>20210101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/65770d73-e89d-4967-a04d-3d30895425e5_16x9.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250909173139 +0000" stop="20250909182952 +0000">
-    <title>One Championship</title>
-    <sub-title>Muay Thai: Rodtang vs. Williams.</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Rodtang contra Danial Williams.</desc>
-    <date>20210101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/65770d73-e89d-4967-a04d-3d30895425e5_16x9.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250909182952 +0000" stop="20250909192626 +0000">
-    <title>One Championship</title>
-    <sub-title>Kickboxing
-Meksen vs. Ruumet</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Anissa Meksen y Marie Ruumet protagonizaron una épica batalla de Muay Thai.</desc>
-    <date>20210101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/65770d73-e89d-4967-a04d-3d30895425e5_16x9.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250909192626 +0000" stop="20250909194220 +0000">
-    <title>One on One</title>
-    <sub-title>Fernando Fiore</sub-title>
-    <episode-num system="onscreen">S01E17</episode-num>
-    <desc>El reconocido comentarista oficial del Inter Miami, Fernando Fiore, nos relata el camino del #10.</desc>
-    <date>20230101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/067baa4c-1b77-43fd-9e42-ab63f8f100eb_ctv_oneonone_general_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250909194220 +0000" stop="20250909204124 +0000">
-    <title>One Championship</title>
-    <sub-title>MMA: De Ridder vs. Malykhin.</sub-title>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <desc>Ridder y Anatoly Malykhin se enfrentan</desc>
-    <date>20210101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/65770d73-e89d-4967-a04d-3d30895425e5_16x9.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250909204124 +0000" stop="20250909213700 +0000">
-    <title>One Championship</title>
-    <sub-title>Muay Thai: Rodtang vs. Smith.</sub-title>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <desc>Rodtang y Jacob Smith.</desc>
-    <date>20210101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/65770d73-e89d-4967-a04d-3d30895425e5_16x9.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250909213700 +0000" stop="20250910000352 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250909233108 +0000" stop="20250910003000 +0000">
     <title>One Championship</title>
     <sub-title>MMA Aoki vs. Akiyama</sub-title>
     <episode-num system="onscreen">S02E06</episode-num>
     <desc>Shinya Aoki y Yoshihiro Akiyama se enfrentan en un combate.</desc>
     <date>20210101</date>
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/65770d73-e89d-4967-a04d-3d30895425e5_16x9.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250910003000 +0000" stop="20250910010000 +0000">
+    <title>100% Futbol</title>
+    <category>Movie</category>
+    <desc>100% Futbol</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250910010000 +0000" stop="20250910030000 +0000">
+    <title>Red de Futbol</title>
+    <category>Movie</category>
+    <desc>Red de Futbol</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250910030000 +0000" stop="20250910055900 +0000">
+    <title>Serie de Contendientes: Yaqubov vs Foster III</title>
+    <category>Movie</category>
+    <desc>Evento Estelar: Muhammadkhuja Yaqubov vs William Foster III.</desc>
+    <date>20250101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/b3ccf042d86cf198e0705233a9249d27ad9677db_2x3.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250910055900 +0000" stop="20250910062610 +0000">
+    <title>One on One</title>
+    <sub-title>Alberto del Río</sub-title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <desc>Alberto del Río hizo historia, al ser el primer mexicano campeón de la WWE.</desc>
+    <date>20230101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/067baa4c-1b77-43fd-9e42-ab63f8f100eb_ctv_oneonone_general_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250910062610 +0000" stop="20250910064602 +0000">
+    <title>One on One</title>
+    <sub-title>Gastón Reyno</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Los sueños cumplidos de un artemarcialista uruguayo.</desc>
+    <date>20230101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/067baa4c-1b77-43fd-9e42-ab63f8f100eb_ctv_oneonone_general_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250910064602 +0000" stop="20250910111800 +0000">
+    <title>Serie de Contendientes: Lubin vs Holmes Jr</title>
+    <category>Movie</category>
+    <desc>Evento Estelar: Lubin vs Holmes Jr</desc>
+    <date>20250101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/8edc92c23f28afc42a9944cf4ec7500e8ca68307_2x3.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250910111800 +0000" stop="20250910150000 +0000">
+    <title>Probox TV</title>
+    <sub-title>Alberto Palmetta vs Jesus Saracho</sub-title>
+    <episode-num system="onscreen">S02E11</episode-num>
+    <desc>Evento estelar Alberto Palmetta (19-2 -0) vs Jesus Saracho (13-2 -1).</desc>
+    <date>20240101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5ce04980-5b87-4816-9134-60c7126c1543_16x9.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250910150000 +0000" stop="20250910180000 +0000">
+    <title>Serie de Contendientes: Yaqubov vs Foster III</title>
+    <category>Movie</category>
+    <desc>Evento Estelar: Muhammadkhuja Yaqubov vs William Foster III.</desc>
+    <date>20250101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/b3ccf042d86cf198e0705233a9249d27ad9677db_2x3.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250910180000 +0000" stop="20250910200600 +0000">
+    <title>Probox TV</title>
+    <sub-title>MDB: Jukembayev vs Redkach</sub-title>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <desc>Evento Principal: Batyrzhan Jukembayev vs Ivan Redkach.</desc>
+    <date>20240101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5ce04980-5b87-4816-9134-60c7126c1543_16x9.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250910200600 +0000" stop="20250910233000 +0000">
+    <title>Probox TV</title>
+    <sub-title>Katsuma Akitsugi vs Eduardo Ramirez</sub-title>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <desc>Evento estelar Katsuma Akitsugi (10-0 -0) vs Eduardo Ramirez (22-3 -3).</desc>
+    <date>20240101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5ce04980-5b87-4816-9134-60c7126c1543_16x9.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250910233000 +0000" stop="20250911000350 +0000">
+    <title>Probox TV</title>
+    <sub-title>¿Canelo a 175 libras?</sub-title>
+    <episode-num system="onscreen">S01E196</episode-num>
+    <desc>¿Podría Canelo ser el próximo paso del ganador Beterbiev/Bivol?</desc>
+    <date>20240101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5ce04980-5b87-4816-9134-60c7126c1543_16x9.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250911000350 +0000" stop="20250911030000 +0000">
+    <title>One on One</title>
+    <sub-title>Alberto del Río</sub-title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <desc>Alberto del Río hizo historia, al ser el primer mexicano campeón de la WWE.</desc>
+    <date>20230101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/067baa4c-1b77-43fd-9e42-ab63f8f100eb_ctv_oneonone_general_16x9.jpg" />
   </programme>
   
 </tv>
