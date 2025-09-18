@@ -1,231 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv date="20250917094306 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/414181/20250917.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=414181&amp;date=20250917&amp;timezone=None"><channel id="414181">
+<tv date="20250918094256 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/414181/20250918.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=414181&amp;date=20250918&amp;timezone=None"><channel id="414181">
     <display-name lang="Taiwan">INULTRA</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/03/01/20250301045946775077_46.png"/>
   </channel>
-  <programme channel="414181" start="20250917000300 +0000" stop="20250917002900 +0000">
-    <title lang="zh">Super human: George Aldrich (Invincible sense of smell)</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917002900 +0000" stop="20250917012300 +0000">
-    <title lang="zh">The Mystery of the Brain: Sense</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917012300 +0000" stop="20250917021800 +0000">
-    <title lang="zh">The mystery of the brain: Pain and fear</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917021800 +0000" stop="20250917031300 +0000">
-    <title lang="zh">Spartan Survival Race: Food Mania</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917031300 +0000" stop="20250917033900 +0000">
-    <title lang="zh">Run the world in a fancy way: Santorini</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917033900 +0000" stop="20250917040500 +0000">
-    <title lang="zh">Running the World in Fancy: Selected Episode One to Five</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917040500 +0000" stop="20250917043200 +0000">
-    <title lang="zh">Endless Road: dazzling scenes</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917043200 +0000" stop="20250917045800 +0000">
-    <title lang="zh">Endless Road: Back to the Original Start</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917045800 +0000" stop="20250917055000 +0000">
-    <title lang="zh">Walking with the animals: goats</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917055000 +0000" stop="20250917064300 +0000">
-    <title lang="zh">Walking with the animals: Alpaca</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917064300 +0000" stop="20250917073700 +0000">
-    <title lang="zh">Journey to the corner of the world: Snodonia</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917073700 +0000" stop="20250917083200 +0000">
-    <title lang="zh">The World Corner Tour: The Sahara Desert</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917083200 +0000" stop="20250917085300 +0000">
-    <title lang="zh">Iceland's limitless: Confrontation with nature</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917085300 +0000" stop="20250917091600 +0000">
-    <title lang="zh">Iceland has no limits: rivers and volcanoes</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917091600 +0000" stop="20250917101200 +0000">
-    <title lang="zh">Uncovering the boundless taste: Finland</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917101200 +0000" stop="20250917110800 +0000">
-    <title lang="zh">Uncovered: Ireland</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917110800 +0000" stop="20250917120300 +0000">
-    <title lang="zh">Holy Infant Chaser: Family Value</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917120300 +0000" stop="20250917125800 +0000">
-    <title lang="zh">Holy Infant Chaser: The Base of the Skull</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917125800 +0000" stop="20250917132400 +0000">
-    <title lang="zh">Social fabric: body rope</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917132400 +0000" stop="20250917135200 +0000">
-    <title lang="zh">Social fabric: Camouflage clothing</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917135200 +0000" stop="20250917141600 +0000">
-    <title lang="zh">Starting from the heart: Cape Town</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917141600 +0000" stop="20250917143000 +0000">
-    <title lang="zh">FMX Nomad Team</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917143000 +0000" stop="20250917145400 +0000">
-    <title lang="zh">Healthy Earth Chronicle: Natural Life First Part</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917145400 +0000" stop="20250917151800 +0000">
-    <title lang="zh">Healthy Earth Chronicle: Natural Life Second Part</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917151800 +0000" stop="20250917161300 +0000">
-    <title lang="zh">Poker Life: Daniel Negreanu (Canada)</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917161300 +0000" stop="20250917170700 +0000">
-    <title lang="zh">Poker Life: Chris Moneymaker (USA)</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917170700 +0000" stop="20250917171900 +0000">
-    <title lang="zh">Infinite Kinetic Energy: Ryan Stamrood (Extreme Winter Swimming)</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917171900 +0000" stop="20250917173100 +0000">
-    <title lang="zh">Unlimited kinetic energy: Fred Fugen (extreme skydiving)</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917173100 +0000" stop="20250917182200 +0000">
-    <title lang="zh">Modern Explorer: The Coastal Area</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917182200 +0000" stop="20250917191300 +0000">
-    <title lang="zh">Modern Explorer: The Last Frontier</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917191300 +0000" stop="20250917200800 +0000">
-    <title lang="zh">Go forward bravely: basement</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917200800 +0000" stop="20250917203500 +0000">
-    <title lang="zh">The Great Battle to Save the Earth: Land Restoration Technique</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917203500 +0000" stop="20250917210000 +0000">
-    <title lang="zh">Backyard Ballistics: Harpoon Diving</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917210000 +0000" stop="20250917212600 +0000">
-    <title lang="zh">Analysis of the World Motorcycle Championship: Both enemies and friends</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917212600 +0000" stop="20250917215200 +0000">
-    <title lang="zh">Analysis of the World Motorcycle Championship: Life-long Life</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917215200 +0000" stop="20250917224200 +0000">
-    <title lang="zh">Revival Muscle Car: 1970 Plymouth AAR Barracuda</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917224200 +0000" stop="20250917233200 +0000">
-    <title lang="zh">Revival Muscle Car: 1970 Dodge SuperBee</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
-  <programme channel="414181" start="20250917233200 +0000" stop="20250918000000 +0000">
-    <title lang="zh">Thor's Hammer Off-Road Challenge: Returning from the Raid</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-17</date>
-  </programme>
   <programme channel="414181" start="20250918002700 +0000" stop="20250918012100 +0000">
-    <title lang="zh">雷神之锤越野車挑戰賽:釐清界線</title>
+    <title lang="zh">Thor's Hammer Off-Road Challenge: Clear the Line</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918012100 +0000" stop="20250918021600 +0000">
-    <title lang="zh">大腦的奧秘:創造力</title>
+    <title lang="zh">The Mystery of the Brain: Creativity</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918021600 +0000" stop="20250918031100 +0000">
-    <title lang="zh">大腦的奧秘:睡眠</title>
+    <title lang="zh">The mystery of the brain: sleep</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918031100 +0000" stop="20250918033600 +0000">
-    <title lang="zh">極速空戰手:游擊隊</title>
+    <title lang="zh">Speedy Air Battler: Guerrillas</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918033600 +0000" stop="20250918040300 +0000">
-    <title lang="zh">極速空戰手:青年軍</title>
+    <title lang="zh">Speedy Air Fighter: Youth Army</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918040300 +0000" stop="20250918043700 +0000">
-    <title lang="zh">區塊鍊人生:性別革命</title>
+    <title lang="zh">Blockchain Life: Gender Revolution</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918043700 +0000" stop="20250918050300 +0000">
-    <title lang="zh">區塊鍊人生:奈及利亞替代經濟</title>
+    <title lang="zh">Blockchain Life: Nigeria's Alternative Economy</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
@@ -240,12 +50,12 @@
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918054800 +0000" stop="20250918064200 +0000">
-    <title lang="zh">終極製程:吉他</title>
+    <title lang="zh">Ultimate Process: Guitar</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918064200 +0000" stop="20250918073700 +0000">
-    <title lang="zh">終極製程:賽車</title>
+    <title lang="zh">Ultimate Process: Racing</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
@@ -265,7 +75,7 @@
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918091900 +0000" stop="20250918101000 +0000">
-    <title lang="zh">現代角鬥士:電競社群</title>
+    <title lang="zh">Modern Gladiator: Esports Community</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
@@ -280,87 +90,87 @@
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918110100 +0000" stop="20250918112700 +0000">
-    <title lang="zh">摧毀專家:唐卡斯特</title>
+    <title lang="zh">Destroy Expert: Doncaster</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918112700 +0000" stop="20250918115300 +0000">
-    <title lang="zh">摧毀專家:利物浦</title>
+    <title lang="zh">Destroy Expert: Liverpool</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918115300 +0000" stop="20250918124800 +0000">
-    <title lang="zh">主題樂園大比拚:最久</title>
+    <title lang="zh">Theme Park Competition: The longest</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918124800 +0000" stop="20250918134300 +0000">
-    <title lang="zh">主題樂園大比拚:心理</title>
+    <title lang="zh">Theme Park Competition: Psychology</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918134300 +0000" stop="20250918143700 +0000">
-    <title lang="zh">超能人類:野人/鷹眼</title>
+    <title lang="zh">Super Human: Savage/Hawkeye</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918143700 +0000" stop="20250918153200 +0000">
-    <title lang="zh">超能人類:貓人/蝙蝠人</title>
+    <title lang="zh">Super Human: Catman/Batman</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918153200 +0000" stop="20250918155800 +0000">
-    <title lang="zh">無盡之路:六千公里</title>
+    <title lang="zh">Endless Road: Six Thousand Miles</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918155800 +0000" stop="20250918162500 +0000">
-    <title lang="zh">無盡之路:重新回味</title>
+    <title lang="zh">Endless Road: Rejuvenate</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918162500 +0000" stop="20250918165200 +0000">
-    <title lang="zh">[中字]科技新知:長壽基因</title>
+    <title lang="zh">New knowledge of science and technology: longevity gene</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918165200 +0000" stop="20250918171900 +0000">
-    <title lang="zh">[中字]科技新知:水源永續</title>
+    <title lang="zh">New knowledge of science and technology: water source perpetuates</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918171900 +0000" stop="20250918173100 +0000">
-    <title lang="zh">無限動能:Tim Emmett(攀冰)</title>
+    <title lang="zh">Unlimited kinetic energy: Tim Emmett (Ice Climbing)</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918173100 +0000" stop="20250918174300 +0000">
-    <title lang="zh">無限動能:Shiva Keshavan(運動雪橇)</title>
+    <title lang="zh">Infinite kinetic energy: Shiva Keshavan (sport sled)</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918174300 +0000" stop="20250918182800 +0000">
-    <title lang="zh">超跑美女開箱車城:底特律</title>
+    <title lang="zh">Supercar beauty unboxing car city: Detroit</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918182800 +0000" stop="20250918191600 +0000">
-    <title lang="zh">超跑美女開箱車城:紐約</title>
+    <title lang="zh">Supercar beauty unboxing car city: New York</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918191600 +0000" stop="20250918200900 +0000">
-    <title lang="zh">勇往直前:沼澤</title>
+    <title lang="zh">Go forward bravely: Swamp</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918200900 +0000" stop="20250918203700 +0000">
-    <title lang="zh">[中字]拯救地球大作戰:生存關頭</title>
+    <title lang="zh">The battle to save the earth: survival moment</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918203700 +0000" stop="20250918204800 +0000">
-    <title lang="zh">飛天老爺車:媒體發佈</title>
+    <title lang="zh">Feitian Classic Car: Release of the Media</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
@@ -370,28 +180,203 @@
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918210000 +0000" stop="20250918215200 +0000">
-    <title lang="zh">足球兄弟擒拿歐洲:英國</title>
+    <title lang="zh">Football Brothers Grabbing Europe: UK</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918215200 +0000" stop="20250918224700 +0000">
-    <title lang="zh">足球兄弟擒拿歐洲:法國</title>
+    <title lang="zh">Football Brothers Grabbing Europe: France</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918224700 +0000" stop="20250918231100 +0000">
-    <title lang="zh">冰島無極限:冰河</title>
+    <title lang="zh">Iceland's limitless: Glacier</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918231100 +0000" stop="20250918233200 +0000">
-    <title lang="zh">冰島無極限:受困</title>
+    <title lang="zh">Iceland's limitless: trapped</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
   </programme>
   <programme channel="414181" start="20250918233200 +0000" stop="20250919000000 +0000">
-    <title lang="zh">斯巴達生存賽:厚重箱子</title>
+    <title lang="zh">Spartan Survival Race: Heavy Boxes</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-18</date>
+  </programme>
+  <programme channel="414181" start="20250919002700 +0000" stop="20250919012200 +0000">
+    <title lang="zh">Spartan Survival Race: Let the Fire Spread</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919012200 +0000" stop="20250919021600 +0000">
+    <title lang="zh">Poker Life: Joe Hachem (Australia)</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919021600 +0000" stop="20250919031100 +0000">
+    <title lang="zh">Poker Life: Nicolau Villa-Lobos (Brazil)</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919031100 +0000" stop="20250919041000 +0000">
+    <title lang="zh">Wild sentiment: Life on a barren land</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919041000 +0000" stop="20250919050800 +0000">
+    <title lang="zh">Wild feelings: living with extreme day</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919050800 +0000" stop="20250919051900 +0000">
+    <title lang="zh">Spa 24 Hours Endurance Racing: Rider Andy Soucek/Bentley Continental</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919051900 +0000" stop="20250919053100 +0000">
+    <title lang="zh">Spa 24 Hours Endurance: Driver Ahmad Al Harthy/Aston Martin Vantage</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919053100 +0000" stop="20250919062000 +0000">
+    <title lang="zh">Street Foot King Prison Revision: Colombia</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919062000 +0000" stop="20250919071000 +0000">
+    <title lang="zh">Street Foot King Prison Revision: Germany</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919071000 +0000" stop="20250919075500 +0000">
+    <title lang="zh">Indomitable: Life Fighter</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919075500 +0000" stop="20250919082600 +0000">
+    <title lang="zh">2021 U21 Dutch team legend: If you don't succeed, you will be successful</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919082600 +0000" stop="20250919085500 +0000">
+    <title lang="zh">2021 U21 Dutch team legend: quarterfinals</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919085500 +0000" stop="20250919092000 +0000">
+    <title lang="zh">Lightweight Journey: Philadelphia</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919092000 +0000" stop="20250919094500 +0000">
+    <title lang="zh">Light journey: St. Petersburg</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919094500 +0000" stop="20250919104200 +0000">
+    <title lang="zh">Winter gold is not a dream: enthusiasm</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919104200 +0000" stop="20250919113800 +0000">
+    <title lang="zh">Winter Gold Is Not a Dream: Perseverance</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919113800 +0000" stop="20250919120500 +0000">
+    <title lang="zh">Run the world in a fancy way: Lisbon</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919120500 +0000" stop="20250919123100 +0000">
+    <title lang="zh">Run the world in a fancy way: Delhi</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919123100 +0000" stop="20250919131700 +0000">
+    <title lang="zh">30/10 Aerial Challenge: Fancy Action</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919131700 +0000" stop="20250919140800 +0000">
+    <title lang="zh">30/10 Air Challenge: The Trail</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919140800 +0000" stop="20250919143400 +0000">
+    <title lang="zh">Mountain Bike Hero - Pioneer: Alaska</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919143400 +0000" stop="20250919150000 +0000">
+    <title lang="zh">Mountain Bike Hero - Pioneer: Brazil</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919150000 +0000" stop="20250919155500 +0000">
+    <title lang="zh">The Mystery of the Brain: Language</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919155500 +0000" stop="20250919165000 +0000">
+    <title lang="zh">The Mystery of the Brain: Lies</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919165000 +0000" stop="20250919171600 +0000">
+    <title lang="zh">The Endless Road: The Journey Unfolds</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919171600 +0000" stop="20250919174200 +0000">
+    <title lang="zh">Endless Road: The bicycle broke</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919174200 +0000" stop="20250919183200 +0000">
+    <title lang="zh">Revival Muscle Car: 1971 Plymouth Barracuda</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919183200 +0000" stop="20250919192200 +0000">
+    <title lang="zh">Revival Muscle Car: 1969 Plymouth Barracuda</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919192200 +0000" stop="20250919195000 +0000">
+    <title lang="zh">New knowledge of science and technology: sugar science</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919195000 +0000" stop="20250919201700 +0000">
+    <title lang="zh">New knowledge of science and technology: Save the reefs</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919201700 +0000" stop="20250919204400 +0000">
+    <title lang="zh">The Great Battle to Save the Earth: The Death of the Pole</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919204400 +0000" stop="20250919210000 +0000">
+    <title lang="zh">Unlimited kinetic energy: Jyri Keskiaho (snow motorcycle)</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919210000 +0000" stop="20250919215400 +0000">
+    <title lang="zh">Revival Muscle Car: 1967 Plymouth GTX</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919215400 +0000" stop="20250919230600 +0000">
+    <title lang="zh">Revival Muscle Car: 1970 Plymouth Barracuda</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
+  </programme>
+  <programme channel="414181" start="20250919230600 +0000" stop="20250920000000 +0000">
+    <title lang="zh">Go forward bravely: Lake</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-09-19</date>
   </programme>
 </tv>
