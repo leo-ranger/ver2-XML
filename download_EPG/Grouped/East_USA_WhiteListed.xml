@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv date="20250920093534 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403674/20250920.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403674&amp;date=20250920&amp;timezone=None"><channel id="403674">
+<tv date="20250921094639 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403674/20250921.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403674&amp;date=20250921&amp;timezone=None"><channel id="403674">
     <display-name lang="US">Disney Junior USA - East</display-name>
     <icon src=""/>
   </channel>
-  <channel id="403788">
+<channel id="403788">
     <display-name lang="US">Disney - Eastern Feed</display-name>
     <icon src=""/>
   </channel>
@@ -16,155 +16,71 @@
     <display-name lang="US">Hallmark - Eastern Feed</display-name>
     <icon src=""/>
   </channel>
-  <programme channel="403674" start="20250920002000 +0000" stop="20250920005000 +0000">
-    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
-    <desc>When Lizard's potions turn him giant, he tries to take over Stark Tower and faces giant-sized Spidey; Rhino gets ahold of White Tiger's gem and causes animal trouble in the city.</desc>
-    <date>2025-09-20</date>
+  <programme channel="403788" start="20250921100000 +0000" stop="20250921103000 +0000">
+    <title lang="zh">Mickey Mouse Clubhouse+</title>
+    <desc>Professor Von Drake gifts a calliope car for the Clubhouse Choo-Choo train; Minnie performs a song; she and Mickey help friends finish chores to join in.</desc>
+    <date>2025-09-21</date>
   </programme>
-  <programme channel="403674" start="20250920005000 +0000" stop="20250920011500 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Bluey and Bingo play pirates on the hammock swing; Bingo's favorite toy goes missing; Bluey needs advice on dealing with noisy neighbors.</desc>
-    <date>2025-09-20</date>
-  </programme>
-  <programme channel="403674" start="20250920011500 +0000" stop="20250920014000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Bluey decides to be Mum during a game of "Kids!"; Butterflies is a fun game until Bingo ends up alone; Bluey's eyes are opened to the simple beauty of nature.</desc>
-    <date>2025-09-20</date>
-  </programme>
-  <programme channel="403674" start="20250920014000 +0000" stop="20250920015500 +0000">
+  <programme channel="403788" start="20250921103000 +0000" stop="20250921110000 +0000">
     <title lang="zh">SuperKitties</title>
 <icon src="https://m.media-amazon.com/images/S/pv-target-images/e36fcf9d176e5165fbd3fe74f53921a5838b7828e378835748b93345121acb53.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Educational</category>
 <category lang="en">Kids</category>
-    <desc>Ginny, Sparks, Buddy and Bitsy are not only cute and cuddly kittens, but are also brave, smart, strong and kind and turn into SuperKitties when trouble arises.</desc>
-    <date>2025-09-20</date>
+    <desc>Bitsy worries that she and Ginny can only be besties if they like the same things; Zsa-Zsa freezes everyone for her group selfie; Ginny figures out how to use Cat-o-flauge.</desc>
+    <date>2025-09-21</date>
   </programme>
-  <programme channel="403674" start="20250920015500 +0000" stop="20250920022500 +0000">
-    <title lang="zh">SuperKitties</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e36fcf9d176e5165fbd3fe74f53921a5838b7828e378835748b93345121acb53.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-    <desc>When Zsa-Zsa steals other birds' goodies for her Aunt Lola, the SuperKitties must save the Songbird Soiree; Lab Rat lights up Kittydale in the middle of the night.</desc>
-    <date>2025-09-20</date>
+  <programme channel="403788" start="20250921110000 +0000" stop="20250921113000 +0000">
+    <title lang="zh">Iron Man and His Awesome Friends</title>
+    <desc>Tony tries to move a boulder blocking the trail; Riri wants to play paper boats, but Swarm has drained the creek to ruin the park.</desc>
+    <date>2025-09-21</date>
   </programme>
-  <programme channel="403674" start="20250920022500 +0000" stop="20250920025000 +0000">
+  <programme channel="403788" start="20250921113000 +0000" stop="20250921120000 +0000">
     <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
-    <desc>Team Spidey must save aunt May when Green Goblin's device makes people think they're pirates; Doc Ock creates a bad bot version of TRACE-E to trick Team Spidey.</desc>
-    <date>2025-09-20</date>
+    <desc>Team Spidey must rescue the Bigfoot, who gets caught in Trapster's trap; Gobby's dino-mech creates metal Gobbybots that causes chaos in the city.</desc>
+    <date>2025-09-21</date>
   </programme>
-  <programme channel="403674" start="20250920025000 +0000" stop="20250920031500 +0000">
-    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
-    <desc>Zola steals the Bookmobile and the writer Millicent McKeen; the villains team up to steal back their old inventions from the museum's new exhibit.</desc>
-    <date>2025-09-20</date>
-  </programme>
-  <programme channel="403674" start="20250920031500 +0000" stop="20250920034000 +0000">
-    <title lang="zh">Mickey Mouse Funhouse</title>
-    <desc>Mickey, Minnie and friends help Buccaneer Belle; first mate Cuckoo Loca brings pirate sidekick parrots to their pirates on Pirate Beach; Capt. Salty Bones needs the gang's help to find a treasure before his pirate rival, Pepper Lemon, finds it.</desc>
-    <date>2025-09-20</date>
-  </programme>
-  <programme channel="403674" start="20250920034000 +0000" stop="20250920040500 +0000">
-    <title lang="zh">Mickey Mouse Funhouse</title>
-    <desc>When Farfus takes the friends into the forest to meet his family, he discovers his family is missing; Mickey, Minnie and friends decorate the Funhouse Forest float for the Adventure Parade.</desc>
-    <date>2025-09-20</date>
-  </programme>
-  <programme channel="403674" start="20250920040500 +0000" stop="20250920043000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+  <programme channel="403788" start="20250921120000 +0000" stop="20250921123000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Educational</category>
+<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Bluey and Bingo make mud pizzas; Bluey and Bingo's giant, invisible friend, Tina; Bluey promises her customer Bingo the best tour ever.</desc>
-    <date>2025-09-20</date>
+    <desc>Bill receives a surprise; Jade's boss suspends her from work.</desc>
+    <date>2025-09-21</date>
   </programme>
-  <programme channel="403674" start="20250920043000 +0000" stop="20250920045500 +0000">
-    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
-    <desc>Rhino and Green Goblin steal the city's groundhog on Groundhog Day; when Zola steals all the toys, Team Spidey must get them back before Miles' little sister has her birthday.</desc>
-    <date>2025-09-20</date>
-  </programme>
-  <programme channel="403674" start="20250920045500 +0000" stop="20250920052000 +0000">
-    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
-    <desc>Lizard's monster plant takes over the city; Doc Ock captures the Spider CRAWL-R while on a mission in Space, so Miles and his mom, Rio, work together to free their ship.</desc>
-    <date>2025-09-20</date>
-  </programme>
-  <programme channel="403674" start="20250920052000 +0000" stop="20250920054500 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+  <programme channel="403788" start="20250921123000 +0000" stop="20250921130000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Educational</category>
+<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Bluey gets her own room; Bluey wants her Father's Day card to be perfect; Mum sets up a backyard obstacle course just for fun.</desc>
-    <date>2025-09-20</date>
+    <desc>Cricket tries to come up with the perfect prank to play on his girlfriend on April Fool's Day; Bill goes to extremes to prevent Tilly from experiencing grief.</desc>
+    <date>2025-09-21</date>
   </programme>
-  <programme channel="403674" start="20250920054500 +0000" stop="20250920061000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>The kids stage a horsey wedding; Bluey, Bingo and Dad play a game of Hotel; Bluey struggles to ride her bike and won't give up.</desc>
-    <date>2025-09-20</date>
+  <programme channel="403788" start="20250921130000 +0000" stop="20250921133000 +0000">
+    <title lang="zh">Phineas and Ferb</title>
+    <desc>Vanessa and Doof travel to Drusselstein while the boys dig for Mom's lost wedding ring; The kids build a bird mansion for a rare macaw while Doof deals with giant praying mantises.</desc>
+    <date>2025-09-21</date>
   </programme>
-  <programme channel="403674" start="20250920061000 +0000" stop="20250920063500 +0000">
-    <title lang="zh">Mickey Mouse Clubhouse</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/21badf3603dc20cf2e03fc3ef1a62fb85ae55f6038215597c59531f6758e5721.jpg"/>
-<category lang="en">Educational</category>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Kids</category>
-    <desc>When the wind blows away all the pages of Minnie's daily calendar, Mickey and pals help her put it back together again.</desc>
-    <date>2025-09-20</date>
+  <programme channel="403788" start="20250921133000 +0000" stop="20250921140000 +0000">
+    <title lang="zh">Phineas and Ferb</title>
+    <desc>Doof's dream-project-inator misfires and projects people's dreams for all to see; Doof becomes the center of his own solar system while Irving tries to impress Phineas and Ferb.</desc>
+    <date>2025-09-21</date>
   </programme>
-  <programme channel="403674" start="20250920063500 +0000" stop="20250920070000 +0000">
-    <title lang="zh">Mickey Mouse Clubhouse</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/21badf3603dc20cf2e03fc3ef1a62fb85ae55f6038215597c59531f6758e5721.jpg"/>
-<category lang="en">Educational</category>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Kids</category>
-    <desc>Donald becomes a genuine magical genie and realizes it is not as easy as it sounds.</desc>
-    <date>2025-09-20</date>
+  <programme channel="403788" start="20250921140000 +0000" stop="20250921155000 +0000">
+    <title lang="zh">Toy Story 3</title>
+    <desc>Woody (Tom Hanks), Buzz (Tim Allen) and the rest of the toys find themselves dumped in a day-care center after Andy leaves for college.</desc>
+    <date>2025-09-21</date>
   </programme>
-  <programme channel="403674" start="20250920070000 +0000" stop="20250920072500 +0000">
-    <title lang="zh">Mickey Mouse Clubhouse</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/21badf3603dc20cf2e03fc3ef1a62fb85ae55f6038215597c59531f6758e5721.jpg"/>
-<category lang="en">Educational</category>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Kids</category>
-    <desc>Professor Von Drake shows the Clubhouse pals a high-tech new game, Floatin' Fun-Time Mousekeball, but when the ball escapes, the game takes to the skies.</desc>
-    <date>2025-09-20</date>
+  <programme channel="403788" start="20250921155000 +0000" stop="20250921172000 +0000">
+    <title lang="zh">Pocahontas</title>
+    <desc>Based on a story of John Smith, a Powhatan Indian stops a war between her tribe and the British by interceding with the chief, her father.</desc>
+    <date>2025-09-21</date>
   </programme>
-  <programme channel="403674" start="20250920072500 +0000" stop="20250920075000 +0000">
+  <programme channel="403788" start="20250921172000 +0000" stop="20250921174500 +0000">
     <title lang="zh">Bluey</title>
 <icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
 <category lang="en">Animation</category>
@@ -175,9 +91,9 @@
 <category lang="en">and</category>
 <category lang="en">Family</category>
     <desc>Bluey and Bingo plan to stay up late at a sleepover; Bluey needs to focus during a game of hide-and-seek; Bluey makes a new friend while camping.</desc>
-    <date>2025-09-20</date>
+    <date>2025-09-21</date>
   </programme>
-  <programme channel="403674" start="20250920075000 +0000" stop="20250920081500 +0000">
+  <programme channel="403788" start="20250921174500 +0000" stop="20250921181000 +0000">
     <title lang="zh">Bluey</title>
 <icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
 <category lang="en">Animation</category>
@@ -187,160 +103,281 @@
 <category lang="en">Kids</category>
 <category lang="en">and</category>
 <category lang="en">Family</category>
-    <desc>Bluey and Bingo play restaurant with Grandad; the kids play Café so Bingo can eat Pavlova; Bluey tracks mud into the house.</desc>
-    <date>2025-09-20</date>
+    <desc>Indy and Rusty can't agree in a game of Mum and Dads; Bluey and Bingo work together to climb Mount MumandDad; magic asparagus turns the family into wild animals.</desc>
+    <date>2025-09-21</date>
   </programme>
-  <programme channel="403674" start="20250920081500 +0000" stop="20250920084000 +0000">
-    <title lang="zh">Mickey and the Roadster Racers</title>
-    <desc>While participating in a ukulele jam, Donald loses Mickey's special ukulele; The Happy Helpers are judges for a Hawaiian surfing contest and learn about a lifelong rivalry.</desc>
-    <date>2025-09-20</date>
-  </programme>
-  <programme channel="403674" start="20250920084000 +0000" stop="20250920090500 +0000">
-    <title lang="zh">Mickey and the Roadster Racers</title>
-    <desc>Goofy struggles to keep Minnie's surprise for Mickey's birthday a secret; the Happy Helpers are asked to help a band get back together.</desc>
-    <date>2025-09-20</date>
-  </programme>
-  <programme channel="403674" start="20250920090500 +0000" stop="20250921000000 +0000">
-    <title lang="zh">Mickey Mouse Clubhouse</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/21badf3603dc20cf2e03fc3ef1a62fb85ae55f6038215597c59531f6758e5721.jpg"/>
-<category lang="en">Educational</category>
+  <programme channel="403788" start="20250921181000 +0000" stop="20250921183500 +0000">
+    <title lang="zh">Bluey</title>
+<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
+<category lang="en">Educational</category>
 <category lang="en">Kids</category>
-    <desc>Various things are coming up missing.</desc>
-    <date>2025-09-20</date>
+<category lang="en">Kids</category>
+<category lang="en">and</category>
+<category lang="en">Family</category>
+    <desc>Bluey and Bingo play pirates on the hammock swing; Bingo's favorite toy goes missing; Bluey needs advice on dealing with noisy neighbors.</desc>
+    <date>2025-09-21</date>
   </programme>
-<programme channel="403788" start="20250920000000 +0000" stop="20250920003000 +0000">
+  <programme channel="403788" start="20250921183500 +0000" stop="20250921190000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Cricket earns a role in Big Coffee's new TV commercial but loses his confidence; Bill gets more than he bargained for when he trades in his pickup for a cutting-edge electric car.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403788" start="20250921190000 +0000" stop="20250921193000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>When Bill learns that Gramma has been purposely creating a bad reputation around town, he throws a barbeque to befriend the neighbors; Cricket's scheme to cash in on a wishing well snares Tilly, leaving Cricket with a dilemma.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403788" start="20250921193000 +0000" stop="20250921200000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Gloria gets stuck on an elevator with the Greens; Remy falls under the sway of an internet influencer.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403788" start="20250921200000 +0000" stop="20250921203000 +0000">
+    <title lang="zh">Primos</title>
+    <desc>Tater and Lotlot uncover the reason why the summer has been so spooky; Tater wants payback for being Gordita's lab rat.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403788" start="20250921203000 +0000" stop="20250921210000 +0000">
+    <title lang="zh">Primos</title>
+    <desc>Tater tries not to interfere in Nachito's big errand; Tater celebrates her favorite summer family holiday.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403788" start="20250921210000 +0000" stop="20250921213000 +0000">
+    <title lang="zh">Primos</title>
+    <desc>Tater and Nellie try to win the Primo-lympics; Tater and Serena infiltrate the Pigeon Scouts.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403788" start="20250921213000 +0000" stop="20250921220000 +0000">
+    <title lang="zh">Primos</title>
+    <desc>Tater tries to write a fanfic; Bibi is devastated when Tater wants to enter an art contest all by herself.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403788" start="20250921220000 +0000" stop="20250921223000 +0000">
+    <title lang="zh">Primos</title>
+    <desc>Tater finds an old diary; Tater goes silent.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403788" start="20250921223000 +0000" stop="20250921230000 +0000">
+    <title lang="zh">Primos</title>
+    <desc>Tater and the primos help Buela fulfill her American dream.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403788" start="20250921230000 +0000" stop="20250922000000 +0000">
+    <title lang="zh">Alexander and the Terrible, Horrible, No Good, Very Bad Road Trip</title>
+    <desc>Young Alexander Garcia thinks he has the worst luck in the world. When his multigenerational Mexican-American family sets off on a road trip to California, he's pretty sure disaster lurks around every corner.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403788" start="20250922004500 +0000" stop="20250922011500 +0000">
     <title lang="zh">Vampirina: Teenage Vampire</title>
     <desc>In the lead up to the Wilson Hall Welcome Dance, Vee and Elijah struggle with power imbalances; Sophie searches for her DJ persona.</desc>
-    <date>2025-09-20</date>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403788" start="20250920003000 +0000" stop="20250920010500 +0000">
+  <programme channel="403788" start="20250922011500 +0000" stop="20250922014000 +0000">
     <title lang="zh">Vampirina: Teenage Vampire</title>
     <desc>When Parents Day sneaks up on Vee and Elijah, they struggle to keep their parents from meeting; Demi learns how to disguise his ghostly form.</desc>
-    <date>2025-09-20</date>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403788" start="20250920010500 +0000" stop="20250920013500 +0000">
-    <title lang="zh">Electric Bloom</title>
-    <desc>After being forced to perform together in "Battle of the Bands," Posey, Jade, and Tulip come together despite their differences and pull off a performance that's truly electric.</desc>
-    <date>2025-09-20</date>
-  </programme>
-  <programme channel="403788" start="20250920013500 +0000" stop="20250920020000 +0000">
-    <title lang="zh">Electric Bloom</title>
-    <desc>Worried that the band may fall apart because of their differences, Tulip books Electric Bloom for their first gig; the girls ultimately learn their differences make them stronger.</desc>
-    <date>2025-09-20</date>
-  </programme>
-  <programme channel="403788" start="20250920020000 +0000" stop="20250920023000 +0000">
+  <programme channel="403788" start="20250922014000 +0000" stop="20250922020500 +0000">
     <title lang="zh">Wizards Beyond Waverly Place</title>
     <desc>When Billie's magic starts fizzling, she and Milo go to the wizard world for a cure; the family learns the true cause of her wonky magic: a power-draining Changeling!</desc>
-    <date>2025-09-20</date>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403788" start="20250920023000 +0000" stop="20250920030000 +0000">
+  <programme channel="403788" start="20250922020500 +0000" stop="20250922023000 +0000">
     <title lang="zh">Wizards Beyond Waverly Place</title>
     <desc>When an oracle from the wizard world shows up on Billie's doorstep and predicts that Billie will destroy the big summer carnival, Billie stops at nothing to change the future.</desc>
-    <date>2025-09-20</date>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403788" start="20250920030000 +0000" stop="20250920033000 +0000">
-    <title lang="zh">Vampirina: Teenage Vampire</title>
-    <desc>In the lead up to the Wilson Hall Welcome Dance, Vee and Elijah struggle with power imbalances; Sophie searches for her DJ persona.</desc>
-    <date>2025-09-20</date>
+  <programme channel="403788" start="20250922023000 +0000" stop="20250922030000 +0000">
+    <title lang="zh">Electric Bloom</title>
+    <desc>Tulip and Posey suggest a sleepover so an upset Jade will open up to them; Tulip and Posey learn to respect Jade's boundaries and Jade learns she can be vulnerable with her friends.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403788" start="20250920033000 +0000" stop="20250920040000 +0000">
-    <title lang="zh">Vampirina: Teenage Vampire</title>
-    <desc>When Parents Day sneaks up on Vee and Elijah, they struggle to keep their parents from meeting; Demi learns how to disguise his ghostly form.</desc>
-    <date>2025-09-20</date>
+  <programme channel="403788" start="20250922030000 +0000" stop="20250922033000 +0000">
+    <title lang="zh">Electric Bloom</title>
+    <desc>When Tulip votes for The Two Shellys' idea for the Halloween party theme, Jade and Posey spiral over Tulip bonding with The Shellys.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403788" start="20250920040000 +0000" stop="20250920043000 +0000">
+  <programme channel="403788" start="20250922033000 +0000" stop="20250922040000 +0000">
+    <title lang="zh">Miraculous: Tales of Ladybug and Cat Noir</title>
+<icon src="https://upload.wikimedia.org/wikipedia/en/5/5f/Miraculous-original-title-card.png"/>
+<category lang="en">Monster</category>
+<category lang="en">Of</category>
+<category lang="en">The</category>
+<category lang="en">Week</category>
+<category lang="en">Animation</category>
+<category lang="en">Super</category>
+<category lang="en">Heros</category>
+<category lang="en">Kids</category>
+    <desc>Marinette prepares to have a normal date with Adrien, but she begins to suffer repeated panic attacks.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403788" start="20250922040000 +0000" stop="20250922043000 +0000">
+    <title lang="zh">Bluey</title>
+<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Educational</category>
+<category lang="en">Kids</category>
+<category lang="en">Kids</category>
+<category lang="en">and</category>
+<category lang="en">Family</category>
+    <desc>The Heelers take a trip to Hammerbarn; Bingo has an idea for a new game; Dad eats Bingo's last chip.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403788" start="20250922043000 +0000" stop="20250922050000 +0000">
+    <title lang="zh">Bluey</title>
+<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Educational</category>
+<category lang="en">Kids</category>
+<category lang="en">Kids</category>
+<category lang="en">and</category>
+<category lang="en">Family</category>
+    <desc>Bluey and Bigno help Uncle Stripe and Bandit play squash and spend the day with Nana; Bingo has to learn to play alone.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403788" start="20250922050000 +0000" stop="20250922053000 +0000">
     <title lang="zh">Big City Greens</title>
 <icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
 <category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-    <desc>Bill takes Gramma to a doctor's checkup and leaves Tilly in charge of Cricket; Cricket learns that Bill never realized his childhood dream of becoming a gymnast.</desc>
-    <date>2025-09-20</date>
+    <desc>A pizza delivery girl from Big City has to flee from a crazed country family; when Bill gets a horse for the day, Tilly must hide how much she secretly hates horses.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403788" start="20250920043000 +0000" stop="20250920050000 +0000">
+  <programme channel="403788" start="20250922053000 +0000" stop="20250922060000 +0000">
     <title lang="zh">Big City Greens</title>
 <icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
 <category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-    <desc>Cricket Green and his family move from the country to Big City to live with Gramma; when Cricket and Bill accidentally disturb a nest of raccoons in the garage, they invade the house.</desc>
-    <date>2025-09-20</date>
+    <desc>Tilly and Andromeda exchange letters that reveal their outlooks on the world; Remy enlists the Greens to help him lie to his parents about his week in the country.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403788" start="20250920050000 +0000" stop="20250920053000 +0000">
+  <programme channel="403788" start="20250922060000 +0000" stop="20250922063000 +0000">
     <title lang="zh">Big City Greens</title>
 <icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
 <category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-    <desc>While Cricket shows Remy the fun of country life, Tilly seeks new sleeping arrangements; Cricket tries to win back his old country friend, Hector.</desc>
-    <date>2025-09-20</date>
+    <desc>The kids plan a heist to steal honey from Bill's beehive; Cricket and Remy run a campaign to get Phoenix, the dog, elected as mayor.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403788" start="20250920053000 +0000" stop="20250920060000 +0000">
+  <programme channel="403788" start="20250922063000 +0000" stop="20250922070000 +0000">
     <title lang="zh">Big City Greens</title>
 <icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
 <category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-    <desc>Remy attempts to find his country grit while Cricket takes tractor-driving lessons; Phoenix journeys back to Big City to retrieve Saxon while Gramma and Gloria go to a club.</desc>
-    <date>2025-09-20</date>
+    <desc>Cricket discovers lake life brings out Bill's fun-loving side; when rabbits threaten to destroy Bill's crops, Nancy enlists their country friends to save the harvest.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403788" start="20250920060000 +0000" stop="20250920063000 +0000">
+  <programme channel="403788" start="20250922070000 +0000" stop="20250922073000 +0000">
     <title lang="zh">Big City Greens</title>
 <icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
 <category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-    <desc>Brooke Dillman guest stars as diner owner Patti; Nancy tries to get Cricket to cut his new rat tail without admitting that she hates it.</desc>
-    <date>2025-09-20</date>
+    <desc>Tilly revives Cousin Jilly, an alter-ego she created to entertain Cricket when they were younger; Gloria opens a secret café in the former Big Coffee space without permission.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403788" start="20250920063000 +0000" stop="20250920070000 +0000">
+  <programme channel="403788" start="20250922073000 +0000" stop="20250922080000 +0000">
     <title lang="zh">Big City Greens</title>
 <icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
 <category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-    <desc>Tilly makes changes to her country's coming-of-age ceremony and Gramma wants none of it; Cricket fast-tracks his training for a rodeo and gets trapped in a never-ending montage.</desc>
-    <date>2025-09-20</date>
+    <desc>Tilly and Cricket wrestle with decision making at a truck stop between Big City and the country; Tilly rises through the ranks as a Big City jingle writer.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403788" start="20250920070000 +0000" stop="20250920073000 +0000">
-    <title lang="zh">Big City Greens</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Adventure</category>
-<category lang="en">Kids</category>
-    <desc>Cricket uses his first tip from working at Big Coffee to buy a singing toy fish; Gramma kicks the family out of the house for the day, so they stay in a hotel for the first time.</desc>
-    <date>2025-09-20</date>
-  </programme>
-  <programme channel="403788" start="20250920073000 +0000" stop="20250920080000 +0000">
-    <title lang="zh">Big City Greens</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Adventure</category>
-<category lang="en">Kids</category>
-    <desc>Gramma tells Cricket and Tilly that there's treasure buried on their property; Cricket adds his own doodles to Gloria's abstract paintings.</desc>
-    <date>2025-09-20</date>
-  </programme>
-  <programme channel="403788" start="20250920080000 +0000" stop="20250920083000 +0000">
+  <programme channel="403788" start="20250922080000 +0000" stop="20250922083000 +0000">
     <title lang="zh">Kiff</title>
-    <desc>Kiff and Barry try to stay awake until 4am to see a very special comet. Kiff meets a bad banana.</desc>
-    <date>2025-09-20</date>
+    <desc>Kiff's good deed goes unnoticed while Reggie's receives lots of attention; Kiff and Barry enjoy a kids-only dinner with their shy classmate Darryn.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403788" start="20250920083000 +0000" stop="20250920090000 +0000">
+  <programme channel="403788" start="20250922083000 +0000" stop="20250922090000 +0000">
     <title lang="zh">Kiff</title>
-    <desc>The Chatterleys get ready; Kiff and the crew run the morning announcements at school and it gets out of control.</desc>
-    <date>2025-09-20</date>
+    <desc>Kiff attempts to avoid spoilers while she finishes a popular book series; Kiff and Barry help Helen with her new, healthy muffin business.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403788" start="20250920090000 +0000" stop="20250921000000 +0000">
+  <programme channel="403788" start="20250922090000 +0000" stop="20250922093000 +0000">
+    <title lang="zh">Bluey</title>
+<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Educational</category>
+<category lang="en">Kids</category>
+<category lang="en">Kids</category>
+<category lang="en">and</category>
+<category lang="en">Family</category>
+    <desc>Dad plays trampoline games with Bluey and Bingo; Dad plans on throwing out Bluey's old drawings; Bingo causes chaos at Bluey's backyard zoo.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403788" start="20250922093000 +0000" stop="20250922100000 +0000">
+    <title lang="zh">Bluey</title>
+<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Educational</category>
+<category lang="en">Kids</category>
+<category lang="en">Kids</category>
+<category lang="en">and</category>
+<category lang="en">Family</category>
+    <desc>Bluey and Bingo are worn as Mum and Dad's backpacks; Bluey and Chloe embark on a quest to save the kingdom; while playing copycat, Bluey finds a hurt budgie.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403788" start="20250922100000 +0000" stop="20250922103000 +0000">
+    <title lang="zh">Bluey</title>
+<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Educational</category>
+<category lang="en">Kids</category>
+<category lang="en">Kids</category>
+<category lang="en">and</category>
+<category lang="en">Family</category>
+    <desc>Bluey plays a game of "Shops" with her friends; a pool trip is a blast, until Dad forgets everything; the Heeler family plays a game and goes on an adventure.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403788" start="20250922103000 +0000" stop="20250922110000 +0000">
+    <title lang="zh">Pupstruction</title>
+    <desc>The pups build Roxy a ramp so that she can access the observatory for a rare viewing of the Wishbone comet; the pups design a treehouse to help their new neighbor, Ollie.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403788" start="20250922110000 +0000" stop="20250922113000 +0000">
+    <title lang="zh">Disney Jr's Ariel</title>
+<icon src="https://variety.com/wp-content/uploads/2023/06/ARIEL.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Educational</category>
+<category lang="en">Kids</category>
+    <desc>When Lucia helps Ursula with a new magic spell, she creates magical mayhem; Ariel and her friends are tasked with building a float for Ravi's latest juice drink.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403788" start="20250922113000 +0000" stop="20250922120000 +0000">
     <title lang="zh">Bluey</title>
 <icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
 <category lang="en">Animation</category>
@@ -351,84 +388,529 @@
 <category lang="en">and</category>
 <category lang="en">Family</category>
     <desc>The adventures of a blue heeler puppy, Bluey, who lives with her mother, father and sister; her energy and spirit gets her into all kinds of funny and unpredictable situations.</desc>
-    <date>2025-09-20</date>
+    <date>2025-09-22</date>
   </programme>
-<programme channel="403837" start="20250920000000 +0000" stop="20250920003000 +0000">
+  <programme channel="403788" start="20250922120000 +0000" stop="20250922123000 +0000">
+    <title lang="zh">SuperKitties</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e36fcf9d176e5165fbd3fe74f53921a5838b7828e378835748b93345121acb53.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Educational</category>
+<category lang="en">Kids</category>
+    <desc>Ginny, Sparks, Buddy and Bitsy are not only cute and cuddly kittens, but are also brave, smart, strong and kind and turn into SuperKitties when trouble arises.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403788" start="20250922123000 +0000" stop="20250922130000 +0000">
+    <title lang="zh">Robogobo</title>
+    <desc>The story of five adorable pets without a home. A kid inventor named Dax adopts them and gives them super-powered robo-suits.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403788" start="20250922130000 +0000" stop="20250922133000 +0000">
+    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
+    <desc>The heroes stop Gobby and Rhino from wreaking havoc, but Reptil's jewel turns them into dinosaurs; the team must stop Electro from disturbing nocturnal animals in the forest.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403788" start="20250922133000 +0000" stop="20250922140000 +0000">
+    <title lang="zh">Iron Man and His Awesome Friends</title>
+    <desc>Ultron takes over the airwaves, and the Iron Friends must stop him; a visit from T'Challa turns tense when a device threatens his suit and the IQ.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403788" start="20250922140000 +0000" stop="20250922143000 +0000">
+    <title lang="zh">Mickey Mouse Clubhouse+</title>
+    <desc>When Clarabelle's coop is wrecked, Mickey and friends rebuild it using Mouseketools, giving her chickens a new, improved home!</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403788" start="20250922143000 +0000" stop="20250922150000 +0000">
+    <title lang="zh">Bluey</title>
+<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Educational</category>
+<category lang="en">Kids</category>
+<category lang="en">Kids</category>
+<category lang="en">and</category>
+<category lang="en">Family</category>
+    <desc>The adventures of a blue heeler puppy, Bluey, who lives with her mother, father and sister; her energy and spirit gets her into all kinds of funny and unpredictable situations.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403788" start="20250922150000 +0000" stop="20250922153000 +0000">
+    <title lang="zh">Bluey</title>
+<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Educational</category>
+<category lang="en">Kids</category>
+<category lang="en">Kids</category>
+<category lang="en">and</category>
+<category lang="en">Family</category>
+    <desc>Bluey and Bigno help Uncle Stripe and Bandit play squash and spend the day with Nana; Bingo has to learn to play alone.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403788" start="20250922153000 +0000" stop="20250922160000 +0000">
+    <title lang="zh">SuperKitties</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e36fcf9d176e5165fbd3fe74f53921a5838b7828e378835748b93345121acb53.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Educational</category>
+<category lang="en">Kids</category>
+    <desc>Ginny, Sparks, Buddy and Bitsy are not only cute and cuddly kittens, but are also brave, smart, strong and kind and turn into SuperKitties when trouble arises.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403788" start="20250922160000 +0000" stop="20250922163000 +0000">
+    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
+    <desc>Rhino and Zola mistake butterfly chrysalises for jewels and steal them from the community center; Doc Ock's digging in the ocean threatens a deep-sea jellyfish habitat.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403788" start="20250922163000 +0000" stop="20250922170000 +0000">
+    <title lang="zh">Iron Man and His Awesome Friends</title>
+    <desc>In Wakanda, Ultron steals Black Panther's tech and must be stopped; at Doggy Adoption Day, Swarm uses collars to cause chaos with the pups.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403788" start="20250922170000 +0000" stop="20250922173000 +0000">
+    <title lang="zh">Bluey</title>
+<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Educational</category>
+<category lang="en">Kids</category>
+<category lang="en">Kids</category>
+<category lang="en">and</category>
+<category lang="en">Family</category>
+    <desc>The girls convince Mum that Dad is a Big Teaser; Bluey struggles to train her new pet; Daddy Robot helps Bluey and Bingo tidy the playroom.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403788" start="20250922173000 +0000" stop="20250922180000 +0000">
+    <title lang="zh">Bluey</title>
+<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Educational</category>
+<category lang="en">Kids</category>
+<category lang="en">Kids</category>
+<category lang="en">and</category>
+<category lang="en">Family</category>
+    <desc>Honey's trip to Dr. Bingo keeps getting interrupted; Mum and Dad create their own Magic Claw machine; Bluey takes her tooth fairy money to the market.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403788" start="20250922180000 +0000" stop="20250922183000 +0000">
+    <title lang="zh">Mickey Mouse Clubhouse+</title>
+    <desc>Goofy's socks vanish during naps and soon, Mickey's stuff goes missing too; they find Pluto gathering items to build a cozy bed for a mama cat and her kittens.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403788" start="20250922183000 +0000" stop="20250922190000 +0000">
+    <title lang="zh">Bluey</title>
+<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Educational</category>
+<category lang="en">Kids</category>
+<category lang="en">Kids</category>
+<category lang="en">and</category>
+<category lang="en">Family</category>
+    <desc>Bluey and Bingo play The Quiet Game; when Mum and Dad have a disagreement, Bluey makes Dad write a love letter to Mum; in the park, Bluey meets a new playmate, Winnie.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403788" start="20250922190000 +0000" stop="20250922193000 +0000">
+    <title lang="zh">Bluey</title>
+<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Educational</category>
+<category lang="en">Kids</category>
+<category lang="en">Kids</category>
+<category lang="en">and</category>
+<category lang="en">Family</category>
+    <desc>The adventures of a blue heeler puppy, Bluey, who lives with her mother, father and sister; her energy and spirit gets her into all kinds of funny and unpredictable situations.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403788" start="20250922193000 +0000" stop="20250922200000 +0000">
+    <title lang="zh">Bluey</title>
+<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Educational</category>
+<category lang="en">Kids</category>
+<category lang="en">Kids</category>
+<category lang="en">and</category>
+<category lang="en">Family</category>
+    <desc>Bluey and Bingo construct a mini-civilization; Mum is crowned Queen with the girls as her butlers; Bluey and Bingo commute on the Dad-Train.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403788" start="20250922200000 +0000" stop="20250922203000 +0000">
     <title lang="zh">Big City Greens</title>
 <icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
 <category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-    <desc>The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.</desc>
-    <date>2025-09-20</date>
+    <desc>To impress her new friend, Tilly claims she saw stone gargoyles come to life; Cricket makes a deal to sell Bill's produce to a major grocery chain.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403837" start="20250920003000 +0000" stop="20250920010000 +0000">
+  <programme channel="403788" start="20250922203000 +0000" stop="20250922210000 +0000">
     <title lang="zh">Big City Greens</title>
 <icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
 <category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-    <desc>The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.</desc>
-    <date>2025-09-20</date>
+    <desc>Cricket uses his first tip from working at Big Coffee to buy a singing toy fish; Gramma kicks the family out of the house for the day, so they stay in a hotel for the first time.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403837" start="20250920010000 +0000" stop="20250920013000 +0000">
-    <title lang="zh">Kiff</title>
-    <desc>The Chatterleys get ready; Kiff and the crew run the morning announcements at school and it gets out of control.</desc>
-    <date>2025-09-20</date>
+  <programme channel="403788" start="20250922210000 +0000" stop="20250922213000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Gramma tells Cricket and Tilly that there's treasure buried on their property; Cricket adds his own doodles to Gloria's abstract paintings.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403837" start="20250920013000 +0000" stop="20250920020000 +0000">
-    <title lang="zh">Kiff</title>
-    <desc>Kiff and the crew learn magic, but end up in over their heads; Helen casts a spell on Kiff and Barry and won't tell them what it is.</desc>
-    <date>2025-09-20</date>
+  <programme channel="403788" start="20250922213000 +0000" stop="20250922220000 +0000">
+    <title lang="zh">Bluey</title>
+<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Educational</category>
+<category lang="en">Kids</category>
+<category lang="en">Kids</category>
+<category lang="en">and</category>
+<category lang="en">Family</category>
+    <desc>Dad is accused of fluffing in Bluey's face; Bluey and Mackenzie play with two older friends; Bluey and Bingo want Dad all to themselves.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403837" start="20250920020000 +0000" stop="20250920023000 +0000">
+  <programme channel="403788" start="20250922220000 +0000" stop="20250922223000 +0000">
+    <title lang="zh">Bluey</title>
+<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Educational</category>
+<category lang="en">Kids</category>
+<category lang="en">Kids</category>
+<category lang="en">and</category>
+<category lang="en">Family</category>
+    <desc>Bluey, Bingo and Mum enjoy a game of Keepy-Uppy around the house; Bluey and Bingo squabble over their magic xylophone; Coco keeps taking shortcuts while playing Shadowlands.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403788" start="20250922223000 +0000" stop="20250922230000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>To impress his new neighbors, Cricket attempts to launch a chicken into space; the Greens are excited to continue their traditional monthly steak dinner, but Cricket accidentally loses the steaks on the subway.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403788" start="20250922230000 +0000" stop="20250922233000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Cricket must wrestle a wild animal in order to prove himself worthy of the family name; when Cricket persuades Bill to convert his pickup into a french fry food truck, he discovers a mysterious blue potato that Gramma says is cursed with bad luck.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403788" start="20250922233000 +0000" stop="20250923000000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>When the Greens visit an indoor pool, Cricket is challenged to jump off the high dive; Tilly claims that the family's goat has the spirit of a dog and enters it in a dog show.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403788" start="20250923000000 +0000" stop="20250924000000 +0000">
+    <title lang="zh">Electric Bloom</title>
+    <desc>While planning Electric Bloom's first music video, Jade and Posey overlook Tulip as a potential leader of the band, causing her alter ego 'Trixie' to emerge and wreak havoc.</desc>
+    <date>2025-09-23</date>
+  </programme>
+<programme channel="403837" start="20250921000000 +0000" stop="20250921003000 +0000">
     <title lang="zh">Phineas and Ferb</title>
-    <desc>Candace puts Mom in a Candace costume in hopes that she'll finally see the boys' invention; Stacy takes on an agent role with OWCA to rescue Perry from some evil scientists.</desc>
-    <date>2025-09-20</date>
+    <desc>Paul the Delivery Man on a journey.</desc>
+    <date>2025-09-21</date>
   </programme>
-  <programme channel="403837" start="20250920023000 +0000" stop="20250920030000 +0000">
+  <programme channel="403837" start="20250921003000 +0000" stop="20250921010000 +0000">
     <title lang="zh">Phineas and Ferb</title>
-    <desc>Doof becomes a mothman; the boys make a movie set.</desc>
-    <date>2025-09-20</date>
+    <desc>When Mom asks the kids to be quiet, Phineas and Ferb create ninja outfits.</desc>
+    <date>2025-09-21</date>
   </programme>
-  <programme channel="403837" start="20250920030000 +0000" stop="20250920033000 +0000">
+  <programme channel="403837" start="20250921010000 +0000" stop="20250921013000 +0000">
+    <title lang="zh">Phineas and Ferb</title>
+    <desc>The boys search for doonkleberries for mom's famous doonkleberry pie; Phineas and Ferb create a run-through-the-sprinkler experience.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921013000 +0000" stop="20250921020000 +0000">
+    <title lang="zh">Zombies: The Re-Animated Series</title>
+    <desc>The stress of directing the school play causes Addison's alien energy to fritz; Wyatt teams up with Eliza to help him keep a secret from the wolf pack.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921020000 +0000" stop="20250921023000 +0000">
+    <title lang="zh">Zombies: The Re-Animated Series</title>
+    <desc>Bucky adopts a zombie-dog named Barky to boost his followers online; Wyatt teams up with a monster who promises to help him get over his fight with Eliza.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921023000 +0000" stop="20250921030000 +0000">
     <title lang="zh">Zombies: The Re-Animated Series</title>
     <desc>Worried that they're drifting apart, Addison and Bree set out to rekindle their BFF connection; Addison and Zed open a supernatural pet-sitting business.</desc>
-    <date>2025-09-20</date>
+    <date>2025-09-21</date>
   </programme>
-  <programme channel="403837" start="20250920033000 +0000" stop="20250920040000 +0000">
+  <programme channel="403837" start="20250921030000 +0000" stop="20250921033000 +0000">
+    <title lang="zh">Gravity Falls</title>
+    <desc>Dipper, wishing he could go back in time and undo a mistake he made, discovers a time machine.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921033000 +0000" stop="20250921040000 +0000">
+    <title lang="zh">Gravity Falls</title>
+    <desc>After Wendy's boyfriend Robbie challenges Dipper to a video game battle, his favorite playable fighter, Rumble McSkirmish, comes to life to defend him.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921040000 +0000" stop="20250921043000 +0000">
+    <title lang="zh">Kiff</title>
+    <desc>Kiff and Barry help a local bridge troll but discover he has some tricky riddles; Kiff and Barry get detention and meet a ragtag team of students who help them plot an escape.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921043000 +0000" stop="20250921063000 +0000">
+    <title lang="zh">Kiff</title>
+    <desc>Kiff and Barry want to go home, but get into a strange adventure; when he realizes Kiff doesn't know what his job is, Martin wants to prove his inventing prowess.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921063000 +0000" stop="20250921070000 +0000">
+    <title lang="zh">Lilo &amp; Stitch</title>
+    <desc>Stitch tries to make Keoni fall for Lilo.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921070000 +0000" stop="20250921073000 +0000">
+    <title lang="zh">Phineas and Ferb</title>
+    <desc>The boys invent a pair of boots that make the wearer to be faster; the kids decide to create and race a giant hot air balloon.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921073000 +0000" stop="20250921080000 +0000">
+    <title lang="zh">Phineas and Ferb</title>
+    <desc>Phineas and Ferb build a huge biodome; Candace pays a visit to Jeremy's house.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921080000 +0000" stop="20250921083000 +0000">
+    <title lang="zh">Phineas and Ferb</title>
+    <desc>The boys make a mechanical version of a historical shark; the boys take some cows to the moon.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921083000 +0000" stop="20250921090000 +0000">
+    <title lang="zh">Phineas and Ferb</title>
+    <desc>Ferb puts together a clip show of the gang's favorite moments in celebration of Phineas' birthday.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921090000 +0000" stop="20250921093000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Cricket is caught eating dog food by Gloria and must stop her from revealing his secret shame; Bill installs a parenting device to monitor and discipline Cricket for him.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921093000 +0000" stop="20250921100000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Bill receives a surprise; Jade's boss suspends her from work.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921100000 +0000" stop="20250921103000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>At the Valentine's Dance, Cricket develops an unwanted crush on Gabriella; Cricket joins forces with Officer Keys to hunt down a neighborhood litterbug.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921103000 +0000" stop="20250921110000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Gramma spurns Tilly at the city park, so Tilly tries making her jealous; Gramma makes special biscuits for the kids when they're hurt, but won't make more when they're better.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921110000 +0000" stop="20250921113000 +0000">
+    <title lang="zh">Bakugan</title>
+    <desc>Before their next big Bakugan brawl, Dan Kouzo remembers how he first met Dragonoid a year ago, when Bakugans suddenly began falling to Earth.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921113000 +0000" stop="20250921120000 +0000">
+    <title lang="zh">Yu-Gi-Oh! GO RUSH!!</title>
+    <desc>Yudias and Zuwijo battle it out in a Rush Duel that has galactic consequences!</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921120000 +0000" stop="20250921123000 +0000">
+    <title lang="zh">Beyblade X</title>
+    <desc>Team Persona's next match is set; Persona faces Yggdrasil and Zooganic. Robin's first in this new battle format; will he learn what it takes to win?</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921123000 +0000" stop="20250921130000 +0000">
     <title lang="zh">StuGo</title>
 <icon src="https://titmouse.net/titmouse-2016/wp-content/uploads/2024/06/stugo.jpeg"/>
 <category lang="en">Series</category>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
 <category lang="en">Kids</category>
-    <desc>LEAPIN LEGS! Merian is sent to a special place to learn how to relax. NICE TO PEAT YOU! Pliny dislodges a naturalist from a bog and joins him on a journey of discovery.</desc>
-    <date>2025-09-20</date>
+    <desc>A Mutant trio sets out to discover the purpose of some weird-shaped berries; a new visitor offers the kids the summer of their dreams.</desc>
+    <date>2025-09-21</date>
   </programme>
-  <programme channel="403837" start="20250920040000 +0000" stop="20250920043000 +0000">
-    <title lang="zh">Kiff</title>
-    <desc>Kiff leads a group to the mall to get a free pretzel, but leadership comes with responsibilities; Kiff and Barry try to learn more about the mysterious Ghost Wolf.</desc>
-    <date>2025-09-20</date>
-  </programme>
-  <programme channel="403837" start="20250920043000 +0000" stop="20250920050000 +0000">
-    <title lang="zh">Kiff</title>
-    <desc>A new collection craze wraps up the crew, resulting in rising tensions; when Kiff shadows Harry and Terri as they watch Kristophe, she learns that being in charge is not so easy.</desc>
-    <date>2025-09-20</date>
-  </programme>
-  <programme channel="403837" start="20250920050000 +0000" stop="20250920053000 +0000">
+  <programme channel="403837" start="20250921130000 +0000" stop="20250921133000 +0000">
     <title lang="zh">StuGo</title>
 <icon src="https://titmouse.net/titmouse-2016/wp-content/uploads/2024/06/stugo.jpeg"/>
 <category lang="en">Series</category>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
 <category lang="en">Kids</category>
-    <desc>Pliny and the Kelp Folk try to beat Lullah at her own game; Mr. Okay worries Lullah is going to replace him.</desc>
-    <date>2025-09-20</date>
+    <desc>Lullah wants alone time and creates a Manatee-Nanny to watch the kids; Pliny must choose - support Larry's noodling habit or keep him safe.</desc>
+    <date>2025-09-21</date>
   </programme>
-  <programme channel="403837" start="20250920053000 +0000" stop="20250920060000 +0000">
+  <programme channel="403837" start="20250921133000 +0000" stop="20250921140000 +0000">
+    <title lang="zh">Gravity Falls</title>
+    <desc>A prehistoric beast snatches Mabel's pig Waddles and the Pines family must take a journey.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921140000 +0000" stop="20250921143000 +0000">
+    <title lang="zh">Gravity Falls</title>
+    <desc>Dipper, Mabel and Soos must travel through Grunkle Stan's mind to defeat a tricky dream demon summoned by Lil Gideon.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921143000 +0000" stop="20250921150000 +0000">
+    <title lang="zh">Kiff</title>
+    <desc>Table Town School puts on its first musical, but it's all about Helen; the Chatterleys encounter obstacles during their weekly grocery shopping trip.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921150000 +0000" stop="20250921153000 +0000">
+    <title lang="zh">Kiff</title>
+    <desc>Kiff attempts to help Candle and Trevor with their new friendship; Miss Deer Teacher goes to Kiff for dating advice, not knowing Kiff has been getting her tips from a soap opera.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921153000 +0000" stop="20250921160000 +0000">
+    <title lang="zh">Phineas and Ferb</title>
+    <desc>The boys decide to ramp up their local summer block party with supersized attractions; the kids work to save Mom after she is hit by Doof's inator.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921160000 +0000" stop="20250921163000 +0000">
+    <title lang="zh">Phineas and Ferb</title>
+    <desc>The kids build a giant submarine sandwich submarine while Doof steals food; Candace tries to bust the boys while taking her driving test; Doof causes chaos in traffic.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921163000 +0000" stop="20250921170000 +0000">
+    <title lang="zh">Phineas and Ferb</title>
+    <desc>The boys build an endless ice luge to beat the heat while Doof brings oil to a waterpark; Candace and Doof see the same psychologist, who thinks their experiences may be connected.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921170000 +0000" stop="20250921173000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>The kids plan a heist to steal honey from Bill's beehive; Cricket and Remy run a campaign to get Phoenix, the dog, elected as mayor.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921173000 +0000" stop="20250921180000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Cricket discovers lake life brings out Bill's fun-loving side; when rabbits threaten to destroy Bill's crops, Nancy enlists their country friends to save the harvest.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921180000 +0000" stop="20250921183000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Tilly makes changes to her country's coming-of-age ceremony and Gramma wants none of it; Cricket fast-tracks his training for a rodeo and gets trapped in a never-ending montage.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921183000 +0000" stop="20250921190000 +0000">
+    <title lang="zh">Zombies: The Re-Animated Series</title>
+    <desc>Mothership produces a reality show starring all of A-Spen's friends; Eliza gets involved in a feud between werewolves and sasquatches.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921190000 +0000" stop="20250921193000 +0000">
+    <title lang="zh">Zombies: The Re-Animated Series</title>
+    <desc>Zed and his friends find a mini fridge, but it is too mini for them to share; Bree wants to get into the Cheer Hall(way) of Fame, but a negative comment destroys her confidence.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921193000 +0000" stop="20250921200000 +0000">
+    <title lang="zh">Zombies: The Re-Animated Series</title>
+    <desc>Eliza and Wyatt both want to ask the other to the school dance, but mishaps keep getting in their way; feeling pressure to plan her future, Wynter uses VR to find her dream job.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921200000 +0000" stop="20250921203000 +0000">
+    <title lang="zh">Zombies: The Re-Animated Series</title>
+    <desc>Addison uses advanced alien powers that she's not ready for yet and inadvertently causes destruction at the big school dance.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921203000 +0000" stop="20250921210000 +0000">
+    <title lang="zh">Kiff</title>
+    <desc>Kiff's plan to infiltrate a group sleepover and learn its secrets all depends on Barry's ability to lie; Kiff and Barry try to get nicknamed by a local movie theater ticket taker.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921210000 +0000" stop="20250921213000 +0000">
+    <title lang="zh">Kiff</title>
+    <desc>Kiff and Barry are identicals tentacles in everything, however an extra gift may tip the scales; Kiff and the gang get lost in the woods during a scary encounter.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921213000 +0000" stop="20250921220000 +0000">
+    <title lang="zh">Kiff</title>
+    <desc>Celebrating Halfway There Day, where everyone celebrate mild laziness.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921220000 +0000" stop="20250921223000 +0000">
+    <title lang="zh">Kiff</title>
+    <desc>While babysitting Barry's younger brother, Kiff accidentally stains his favorite stuffed toy.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921223000 +0000" stop="20250921230000 +0000">
+    <title lang="zh">Kiff</title>
+    <desc>Kiff finally meets her mom's old college friends.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921230000 +0000" stop="20250921232500 +0000">
+    <title lang="zh">Win or Lose</title>
+    <desc>Kai moves to a new town with her father, seeking a fresh start and joining the local softball team; a good player, she makes friends while facing pressure from her father to improve.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250921232500 +0000" stop="20250922000000 +0000">
+    <title lang="zh">Win or Lose</title>
+    <desc>Dan takes his role as coach seriously and strives to teach the Pickles life lessons while respecting the game; he knows his authority is important as his team works to win the championship.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="403837" start="20250922000000 +0000" stop="20250922015000 +0000">
+    <title lang="zh">UglyDolls</title>
+    <desc>UglyDoll friends travel to Perfection -- a town where more conventional dolls receive training before entering the real world. The UglyDolls soon learn what it means to be different -- ultimately realizing they don't have to be perfect to be amazing.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403837" start="20250922015000 +0000" stop="20250922022000 +0000">
+    <title lang="zh">StuGo</title>
+<icon src="https://titmouse.net/titmouse-2016/wp-content/uploads/2024/06/stugo.jpeg"/>
+<category lang="en">Series</category>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Kids</category>
+    <desc>Kids face fears to retrieve lost ball as Lullah tricks them into devious game.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403837" start="20250922022000 +0000" stop="20250922025000 +0000">
     <title lang="zh">StuGo</title>
 <icon src="https://titmouse.net/titmouse-2016/wp-content/uploads/2024/06/stugo.jpeg"/>
 <category lang="en">Series</category>
@@ -436,237 +918,334 @@
 <category lang="en">Comedy</category>
 <category lang="en">Kids</category>
     <desc>Larry must confront his jealousy or be consumed by it; to keep a secret, Lullah is forced to help Pliny assist a grub.</desc>
-    <date>2025-09-20</date>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403837" start="20250920060000 +0000" stop="20250920063000 +0000">
+  <programme channel="403837" start="20250922025000 +0000" stop="20250922030000 +0000">
+    <title lang="zh">Chibiverse</title>
+    <desc>Following the adventures of characters from various Disney shows.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403837" start="20250922030000 +0000" stop="20250922033000 +0000">
     <title lang="zh">Gravity Falls</title>
-    <desc>When Dipper and Mabel discover that the town founder is a hoax, they set out to expose the cover-up.</desc>
-    <date>2025-09-20</date>
+    <desc>Dipper is self-conscious that Mabel is taller than him so he seeks out a magic way to grow himself.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403837" start="20250920063000 +0000" stop="20250920070000 +0000">
+  <programme channel="403837" start="20250922033000 +0000" stop="20250922040000 +0000">
     <title lang="zh">Gravity Falls</title>
-    <desc>Dipper, wishing he could go back in time and undo a mistake he made, discovers a time machine.</desc>
-    <date>2025-09-20</date>
+    <desc>Dipper and Mabel are excited to join in on the fun, but when Wendy casually mentions that trick-or-treating is for kids, Dipper's whole outlook on the evening changes.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403837" start="20250920070000 +0000" stop="20250920073000 +0000">
+  <programme channel="403837" start="20250922040000 +0000" stop="20250922043000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403837" start="20250922043000 +0000" stop="20250922050000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Chip enacts his ultimate revenge plan by framing the Green family for ruining Big City and turning everyone against them.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403837" start="20250922050000 +0000" stop="20250922053000 +0000">
+    <title lang="zh">Lilo &amp; Stitch</title>
+    <desc>Stitch is captured by Gantu while trying to help Pleakley.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403837" start="20250922053000 +0000" stop="20250922060000 +0000">
+    <title lang="zh">Lilo &amp; Stitch</title>
+    <desc>Jumba creates Experiment 627, which has all of Stitch's strengths but none of his flaws.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403837" start="20250922060000 +0000" stop="20250922063000 +0000">
+    <title lang="zh">Lilo &amp; Stitch</title>
+    <desc>A ship sinking experiment runs amok.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403837" start="20250922063000 +0000" stop="20250922070000 +0000">
+    <title lang="zh">Lilo &amp; Stitch</title>
+    <desc>Lilo and Stitch must stop a sirenlike experiment that can turn good to evil.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403837" start="20250922070000 +0000" stop="20250922073000 +0000">
     <title lang="zh">Phineas and Ferb</title>
-    <desc>Candace tries to find where her brother's wild creations go when they disappear; Chez Platypus becomes the most-trendy restaurant in town.</desc>
-    <date>2025-09-20</date>
+    <desc>Candace discovers that Phineas and Ferb have invented a computer that can answer anything; Candace takes Perry to the Charity Pet Wash with her.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403837" start="20250920073000 +0000" stop="20250920080000 +0000">
+  <programme channel="403837" start="20250922073000 +0000" stop="20250922080000 +0000">
     <title lang="zh">Phineas and Ferb</title>
-    <desc>Phineas and Ferb care for an egg they believe belongs to Perry; the boys create their own video game starring themselves.</desc>
-    <date>2025-09-20</date>
+    <desc>The phone the boys invent for Candace sends her back to Easter Island; Dr. Doofenshmirtz's new invention picks Vanessa up from class.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403837" start="20250920080000 +0000" stop="20250920083000 +0000">
+  <programme channel="403837" start="20250922080000 +0000" stop="20250922083000 +0000">
+    <title lang="zh">Phineas and Ferb</title>
+    <desc>Candace gives herself a bad haircut; Doofenshmirtz enters a family meatloaf recipe with a secret ingredient into a competition.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403837" start="20250922083000 +0000" stop="20250922090000 +0000">
+    <title lang="zh">Phineas and Ferb</title>
+    <desc>Phineas and Ferb are cavemen and invent something useful; Dr. Doofenshmirtz tries to remodel his place; Phineas and Ferb must rescue Princess Isabella.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403837" start="20250922090000 +0000" stop="20250922093000 +0000">
     <title lang="zh">Big City Greens</title>
 <icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
 <category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-    <desc>To prove to his parents that he is money-wise, Remy starts his own business; feeling neglected by his family, Bill befriends a murder of crows.</desc>
-    <date>2025-09-20</date>
+    <desc>Cricket tries to come up with the perfect prank to play on his girlfriend on April Fool's Day; Bill goes to extremes to prevent Tilly from experiencing grief.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403837" start="20250920083000 +0000" stop="20250920090000 +0000">
+  <programme channel="403837" start="20250922093000 +0000" stop="20250922100000 +0000">
     <title lang="zh">Big City Greens</title>
 <icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
 <category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-    <desc>Cricket tries to avoid a fortune teller's ominous prediction that he will get a stinky slap; in an inescapable escape room, Cricket must decide between family and freedom.</desc>
-    <date>2025-09-20</date>
+    <desc>Chip Whistler attempts to create an evil family, so he takes down the Greens; the Greens move to the suburbs and live under new identities to hide from Chip.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403837" start="20250920090000 +0000" stop="20250921000000 +0000">
+  <programme channel="403837" start="20250922100000 +0000" stop="20250922103000 +0000">
     <title lang="zh">Big City Greens</title>
 <icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
 <category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-    <desc>Bill begrudgingly joins Cricket to cover up a turkey-related crime on Thanksgiving; the Greens get into crazy hijinks in a Smalton antique shop.</desc>
-    <date>2025-09-20</date>
+    <desc>To impress his new neighbors, Cricket attempts to launch a chicken into space; the Greens are excited to continue their traditional monthly steak dinner, but Cricket accidentally loses the steaks on the subway.</desc>
+    <date>2025-09-22</date>
   </programme>
-<programme channel="403490" start="20250920000000 +0000" stop="20250920020000 +0000">
-    <title lang="zh">An Unexpected Christmas</title>
-    <desc>A speech writer makes a deal with his ex-girlfriend to pretend they are a couple to save his family's Christmas. It's not long before both the ruse and their feelings catch up with them.</desc>
-    <date>2025-09-20</date>
-  </programme>
-  <programme channel="403490" start="20250920020000 +0000" stop="20250920023000 +0000">
-    <title lang="zh">The Golden Girls</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
-<category lang="en">SitCom</category>
+  <programme channel="403837" start="20250922103000 +0000" stop="20250922110000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Drama</category>
-<category lang="en">Family</category>
-    <desc>Sophia wants to join a convent, but finds the rules too strict; Blanche is in an accident.</desc>
-    <date>2025-09-20</date>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Cricket must wrestle a wild animal in order to prove himself worthy of the family name; when Cricket persuades Bill to convert his pickup into a french fry food truck, he discovers a mysterious blue potato that Gramma says is cursed with bad luck.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403490" start="20250920023000 +0000" stop="20250920030000 +0000">
-    <title lang="zh">The Golden Girls</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
-<category lang="en">SitCom</category>
+  <programme channel="403837" start="20250922110000 +0000" stop="20250922113000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Drama</category>
-<category lang="en">Family</category>
-    <desc>Dorothy tries to bring a reclusive aging hippie out of his shell.</desc>
-    <date>2025-09-20</date>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>When the Greens visit an indoor pool, Cricket is challenged to jump off the high dive; Tilly claims that the family's goat has the spirit of a dog and enters it in a dog show.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403490" start="20250920030000 +0000" stop="20250920033000 +0000">
-    <title lang="zh">The Golden Girls</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
-<category lang="en">SitCom</category>
+  <programme channel="403837" start="20250922113000 +0000" stop="20250922120000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Drama</category>
-<category lang="en">Family</category>
-    <desc>Blanche's childhood nanny pays a visit; Sophia's matchmaking irks Dorothy.</desc>
-    <date>2025-09-20</date>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>When Gramma crashes into a parked police car, she loses her driver's license and her confidence; Cricket Green hates bears.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403490" start="20250920033000 +0000" stop="20250920040000 +0000">
-    <title lang="zh">The Golden Girls</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
-<category lang="en">SitCom</category>
+  <programme channel="403837" start="20250922120000 +0000" stop="20250922123000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Drama</category>
-<category lang="en">Family</category>
-    <desc>Dorothy receives pressure because she refuses to give a passing grade to the school football star.</desc>
-    <date>2025-09-20</date>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Bill takes the family on a road trip to the country, only to wind up trapped in a traffic jam; when Tilly finds a bird's nest, she cares for the eggs hoping the chicks will think she's their mother, but the birds imprint on Cricket instead.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403490" start="20250920040000 +0000" stop="20250920043000 +0000">
-    <title lang="zh">The Golden Girls</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
-<category lang="en">SitCom</category>
+  <programme channel="403837" start="20250922123000 +0000" stop="20250922130000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Drama</category>
-<category lang="en">Family</category>
-    <desc>Dorothy does not pay heed to Sophia's advice about the rekindled romance with Stan.</desc>
-    <date>2025-09-20</date>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Bill takes Gramma to a doctor's checkup and leaves Tilly in charge of Cricket; Cricket learns that Bill never realized his childhood dream of becoming a gymnast.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403490" start="20250920043000 +0000" stop="20250920050000 +0000">
-    <title lang="zh">The Golden Girls</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
-<category lang="en">SitCom</category>
+  <programme channel="403837" start="20250922130000 +0000" stop="20250922133000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Drama</category>
-<category lang="en">Family</category>
-    <desc>Sophia wants to join a convent, but finds the rules too strict; Blanche is in an accident.</desc>
-    <date>2025-09-20</date>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Cricket Green and his family move from the country to Big City to live with Gramma; when Cricket and Bill accidentally disturb a nest of raccoons in the garage, they invade the house.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403490" start="20250920050000 +0000" stop="20250920060000 +0000">
-    <title lang="zh">Gilmore Girls</title>
-    <desc>Luke's ditzy sister surprises him with a visit; Lorelai is torn about telling her parents about her relationship with Jason; Paris talks to Rory about her affair.</desc>
-    <date>2025-09-20</date>
-  </programme>
-  <programme channel="403490" start="20250920060000 +0000" stop="20250920070000 +0000">
-    <title lang="zh">Gilmore Girls</title>
-    <desc>Car trouble strands Jess in Stars Hollow; Jess walks away from Rory over and over again, then makes a startling confession; at a charity dinner, Emily asks Lorelai and Jason to pretend to be lovey-dovey.</desc>
-    <date>2025-09-20</date>
-  </programme>
-  <programme channel="403490" start="20250920070000 +0000" stop="20250920080000 +0000">
-    <title lang="zh">Gilmore Girls</title>
-    <desc>Rory succumbs to self-doubt after a professor suggests she drop a class; Lorelai takes out her frustration on Sookie; Gran is nasty to Richard and Emily.</desc>
-    <date>2025-09-20</date>
-  </programme>
-  <programme channel="403490" start="20250920080000 +0000" stop="20250920090000 +0000">
-    <title lang="zh">Gilmore Girls</title>
-    <desc>Rory gets a glimpse of Dean's new life; Lorelai and Rory get swept up in Emily's wild shopping spree, then Emily admits her out-of-control spending is in retaliation against Richard's neglect.</desc>
-    <date>2025-09-20</date>
-  </programme>
-  <programme channel="403490" start="20250920090000 +0000" stop="20250920093000 +0000">
-    <title lang="zh">Reba</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/7727258bad222b37ca98e9cffe3e847cc474add3fa3b19f38d511e29586a76de.jpg"/>
-<category lang="en">SitCom</category>
+  <programme channel="403837" start="20250922133000 +0000" stop="20250922140000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Family</category>
-    <desc>Cheyenne suspects Van of cheating on her with a sexy publicist and kicks him out of the house.</desc>
-    <date>2025-09-20</date>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Bill promises his family a trip to the mall food court; when he reveals it was just a trick to get them to a family portrait studio, Cricket and Gramma try to escape; Remy is caught skipping his violin lessons to hang out with Cricket.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403490" start="20250920093000 +0000" stop="20250920100000 +0000">
-    <title lang="zh">Reba</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/7727258bad222b37ca98e9cffe3e847cc474add3fa3b19f38d511e29586a76de.jpg"/>
-<category lang="en">SitCom</category>
+  <programme channel="403837" start="20250922140000 +0000" stop="20250922143000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Family</category>
-    <desc>Embarrassed about living with his mother-in-law, Van tries to pass Reba off as his maid; Brock tells Reba and Barbara Jean he wants to pursue his dream of golfing professionally.</desc>
-    <date>2025-09-20</date>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>While dining at a seafood restaurant, Bill feels he must prove to the waiter that he is a Big City local, and Cricket and Tilly try to rescue a live octopus; when Cricket loses all of his critterballs over the fence, Gloria refuses to return them.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403490" start="20250920100000 +0000" stop="20250920103000 +0000">
-    <title lang="zh">The Golden Girls</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
-<category lang="en">SitCom</category>
+  <programme channel="403837" start="20250922143000 +0000" stop="20250922150000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Drama</category>
-<category lang="en">Family</category>
-    <desc>Sophia becomes a sexy seductress to lure Tony into bed; Rose promises celibacy.</desc>
-    <date>2025-09-20</date>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Cricket leaves Gloria to work the coffee shop alone while he enjoys the parade on his break; Bill uses a trip to the hardware store to teach Remy a lesson in self-reliance.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403490" start="20250920103000 +0000" stop="20250920110000 +0000">
-    <title lang="zh">The Golden Girls</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
-<category lang="en">SitCom</category>
+  <programme channel="403837" start="20250922150000 +0000" stop="20250922153000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Drama</category>
-<category lang="en">Family</category>
-    <desc>The unexpected happens when Blanche tries to break up with her disabled boyfriend.</desc>
-    <date>2025-09-20</date>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>To impress her new friend, Tilly claims she saw stone gargoyles come to life; Cricket makes a deal to sell Bill's produce to a major grocery chain.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403490" start="20250920110000 +0000" stop="20250920113000 +0000">
-    <title lang="zh">The Golden Girls</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
-<category lang="en">SitCom</category>
+  <programme channel="403837" start="20250922153000 +0000" stop="20250922160000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Drama</category>
-<category lang="en">Family</category>
-    <desc>Dorothy tries to mend the rift between her mother and recently widowed sister-in-law, Brenda, at a her brother's funeral.</desc>
-    <date>2025-09-20</date>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Cricket uses his first tip from working at Big Coffee to buy a singing toy fish; Gramma kicks the family out of the house for the day, so they stay in a hotel for the first time.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403490" start="20250920113000 +0000" stop="20250920120000 +0000">
-    <title lang="zh">The Golden Girls</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
-<category lang="en">SitCom</category>
+  <programme channel="403837" start="20250922160000 +0000" stop="20250922163000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Drama</category>
-<category lang="en">Family</category>
-    <desc>Miles feels he is competing with Rose's late husband; Blanche is mistreated by an old flame.</desc>
-    <date>2025-09-20</date>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Gramma tells Cricket and Tilly that there's treasure buried on their property; Cricket adds his own doodles to Gloria's abstract paintings.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403490" start="20250920120000 +0000" stop="20250920130000 +0000">
-    <title lang="zh">Gilmore Girls</title>
-    <desc>Lorelai tries to break up with Rory's teacher, Max, on parent-teacher night, which leads to more problems for her daughter at school.</desc>
-    <date>2025-09-20</date>
+  <programme channel="403837" start="20250922163000 +0000" stop="20250922170000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>On the trip to Big City movie multiplex, Cricket thinks he's too mature for a kids' movie, so he sneaks into a grown-up movie; Cricket registers his house on a home share website.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403490" start="20250920130000 +0000" stop="20250920140000 +0000">
-    <title lang="zh">Gilmore Girls</title>
-    <desc>After Lorelai encourages Sookie to ask out Jackson, she finds herself on a double date with Jackson's weird cousin; Rory goes on a double date as well.</desc>
-    <date>2025-09-20</date>
+  <programme channel="403837" start="20250922170000 +0000" stop="20250922173000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>When Cricket gets sick, his family steps in to fulfill his commitments for the day; the Green family's nemesis Chip Whistler shows up at the farmers' market in an attempt to steal business from them.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403490" start="20250920140000 +0000" stop="20250920160000 +0000">
-    <title lang="zh">Flip That Romance</title>
-    <desc>As spring blooms, rival house flippers find themselves renovating dual sides of a duplex. As they attempt to out-do each other every step of the way, the stakes of the renovation escalate and an old romance is rekindled.</desc>
-    <date>2025-09-20</date>
+  <programme channel="403837" start="20250922173000 +0000" stop="20250922180000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Cricket invites the local news to see the huge watermelon Bill grew; Cricket stands up to the cyberbullying of three online gamers known as the Cyber Knights.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403490" start="20250920160000 +0000" stop="20250920180000 +0000">
-    <title lang="zh">Falling for You</title>
-    <desc>A small town's radio station manager meets her match when a visiting businessman can't seem to see beyond the screen of his laptop computer. Everything changes when she ropes him into participating in her bachelor bake-off to help save the station.</desc>
-    <date>2025-09-20</date>
+  <programme channel="403837" start="20250922180000 +0000" stop="20250922183000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Tilly takes Gramma out to be a tourist for a day; Cricket and Remy arrange a dinner party for everyone to get to know each other.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403490" start="20250920180000 +0000" stop="20250920200000 +0000">
-    <title lang="zh">It Was Always You</title>
-    <desc>A woman's engagement plans get thrown into disarray when her fiance's free-spirited brother returns home.</desc>
-    <date>2025-09-20</date>
+  <programme channel="403837" start="20250922183000 +0000" stop="20250922190000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>When Big City faces a coffee bean shortage, Cricket and Gloria's boss, Ms. Cho, challenges them to retrieve one of the few remaining sacks of coffee; when the Greens' dog, Phoenix, runs away from home, the family sets out to find her.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403490" start="20250920200000 +0000" stop="20250920220000 +0000">
-    <title lang="zh">Roadhouse Romance</title>
-    <desc>Lt. Callie Jackson returns home after a military tour to find her late grandfather's barbecue joint is struggling, but she has a run-in with a TV director who teaches her that sometimes it's best to look forward instead of looking back.</desc>
-    <date>2025-09-20</date>
+  <programme channel="403837" start="20250922190000 +0000" stop="20250922193000 +0000">
+    <title lang="zh">Beyblade X</title>
+    <desc>Jaxon and Robin are helping out at Komaba Sushi when Sigrid Nana-iro comes looking for something to eat.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403490" start="20250920220000 +0000" stop="20250921000000 +0000">
-    <title lang="zh">Winter in Vail</title>
-    <desc>A Los Angeles event coordinator learns that her estranged uncle has recently passed away and left her a chalet in Vail, Colo.</desc>
-    <date>2025-09-20</date>
+  <programme channel="403837" start="20250922193000 +0000" stop="20250922200000 +0000">
+    <title lang="zh">Phineas and Ferb</title>
+    <desc>The boys build the world's greatest roller coaster; Candace is surprised during a trip to Mount Rushmore.</desc>
+    <date>2025-09-22</date>
   </programme>
-  <programme channel="403490" start="20250921000000 +0000" stop="20250921020100 +0000">
+  <programme channel="403837" start="20250922200000 +0000" stop="20250922203000 +0000">
+    <title lang="zh">Phineas and Ferb</title>
+    <desc>The boys enter the family automobile in a car race; then, a tropical beach paradise in the backyard goes awry.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403837" start="20250922203000 +0000" stop="20250922210000 +0000">
+    <title lang="zh">Phineas and Ferb</title>
+    <desc>Phineas and Ferb herd stampeding cattle back to a carnival; the boys create a winter wonderland in the middle of summer.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403837" start="20250922210000 +0000" stop="20250922213000 +0000">
+    <title lang="zh">Phineas and Ferb</title>
+    <desc>The boys capture Candace, who is wrapped up like a mummy; Phineas and the Ferb-Tones become a one-hit wonder.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403837" start="20250922213000 +0000" stop="20250922214000 +0000">
+    <title lang="zh">Chibiverse</title>
+    <desc>A new island is created; Marcy unleashes a magic potion; Grunkle Stan puts together a heist.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403837" start="20250922214000 +0000" stop="20250922221000 +0000">
+    <title lang="zh">Kiff</title>
+    <desc>Kiff and Barry intervene when Helen fills in for Principal Secretary; Kiff and her mom receive an ominous butt dial.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403837" start="20250922221000 +0000" stop="20250922222000 +0000">
+    <title lang="zh">Chibiverse</title>
+    <desc>Dr Doof showcases his laboratory; Remy becomes trapped underground following a Chibiquake; Luz embarks on a quest to discover the legendary Perfect Gift.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403837" start="20250922222000 +0000" stop="20250922230000 +0000">
+    <title lang="zh">Kiff</title>
+    <desc>Kiff and Barry try to help Helen when she loses her magic; the Chatterleys get roped into planning a wedding for their annoying neighbor, The Pone.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403837" start="20250922230000 +0000" stop="20250923000000 +0000">
+    <title lang="zh">UglyDolls</title>
+    <desc>UglyDoll friends travel to Perfection -- a town where more conventional dolls receive training before entering the real world. The UglyDolls soon learn what it means to be different -- ultimately realizing they don't have to be perfect to be amazing.</desc>
+    <date>2025-09-22</date>
+  </programme>
+<programme channel="403490" start="20250921000000 +0000" stop="20250921020100 +0000">
     <title lang="zh">The Groomsmen Last Dance</title>
     <desc>Jackson moves to Italy to be near his daughter, but a chance meeting with café owner Gabriella, and some meddling friends, may lead to a second chance at love.</desc>
     <date>2025-09-21</date>
@@ -801,9 +1380,205 @@
     <desc>Jackson moves to Italy to be near his daughter, but a chance meeting with café owner Gabriella, and some meddling friends, may lead to a second chance at love.</desc>
     <date>2025-09-21</date>
   </programme>
-  <programme channel="403490" start="20250922000000 +0000" stop="20250923000000 +0000">
+  <programme channel="403490" start="20250922000000 +0000" stop="20250922010000 +0000">
     <title lang="zh">The Chicken Sisters</title>
     <desc>A storm comes to town, and lead by Nancy's brave example, all of Merinac bands together to help their friends, family and neighbors.</desc>
     <date>2025-09-22</date>
+  </programme>
+  <programme channel="403490" start="20250922010000 +0000" stop="20250922030000 +0000">
+    <title lang="zh">The Real West</title>
+    <desc>A family vacation to a working Ranch introduces Professor Rebecca to Jake West. Rebecca is a widower chasing tenure and Jake is a handsome cowboy who never settled down.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403490" start="20250922030000 +0000" stop="20250922050000 +0000">
+    <title lang="zh">Taking the Reins</title>
+    <desc>A writer returns to her family ranch where she discovers what ended her marriage and why she stopped riding horses.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403490" start="20250922050000 +0000" stop="20250922053000 +0000">
+    <title lang="zh">The Golden Girls</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
+<category lang="en">SitCom</category>
+<category lang="en">Comedy</category>
+<category lang="en">Drama</category>
+<category lang="en">Family</category>
+    <desc>Blanche robs the cradle to convince Jason, her new lover, how young she is.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403490" start="20250922053000 +0000" stop="20250922060000 +0000">
+    <title lang="zh">The Golden Girls</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
+<category lang="en">SitCom</category>
+<category lang="en">Comedy</category>
+<category lang="en">Drama</category>
+<category lang="en">Family</category>
+    <desc>When Miles admits to lying about his professional standing, Rose gives him the heave-ho.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403490" start="20250922060000 +0000" stop="20250922063000 +0000">
+    <title lang="zh">The Golden Girls</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
+<category lang="en">SitCom</category>
+<category lang="en">Comedy</category>
+<category lang="en">Drama</category>
+<category lang="en">Family</category>
+    <desc>When Dorothy plans to remarry Stan, Sophia threatens to cut her off from the family.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403490" start="20250922063000 +0000" stop="20250922070000 +0000">
+    <title lang="zh">The Golden Girls</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
+<category lang="en">SitCom</category>
+<category lang="en">Comedy</category>
+<category lang="en">Drama</category>
+<category lang="en">Family</category>
+    <desc>While Dorothy makes wedding arrangements, the others interview potential housemate Truby.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403490" start="20250922070000 +0000" stop="20250922073000 +0000">
+    <title lang="zh">The Golden Girls</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
+<category lang="en">SitCom</category>
+<category lang="en">Comedy</category>
+<category lang="en">Drama</category>
+<category lang="en">Family</category>
+    <desc>Sophia throws herself into her job as recreational director at a retirement home.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403490" start="20250922073000 +0000" stop="20250922080000 +0000">
+    <title lang="zh">The Golden Girls</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
+<category lang="en">SitCom</category>
+<category lang="en">Comedy</category>
+<category lang="en">Drama</category>
+<category lang="en">Family</category>
+    <desc>Blanche robs the cradle to convince Jason, her new lover, how young she is.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403490" start="20250922080000 +0000" stop="20250922090000 +0000">
+    <title lang="zh">Gilmore Girls</title>
+    <desc>Though Lorelai is excited about going to a Bangles concert, she offers the four concert tickets to Rory and three of her new schoolmates.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403490" start="20250922090000 +0000" stop="20250922100000 +0000">
+    <title lang="zh">Gilmore Girls</title>
+    <desc>Lorelai enlists Luke to help find a missing chick; Rory quarrels with her boyfriend over housewifery.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403490" start="20250922100000 +0000" stop="20250922103000 +0000">
+    <title lang="zh">Reba</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/7727258bad222b37ca98e9cffe3e847cc474add3fa3b19f38d511e29586a76de.jpg"/>
+<category lang="en">SitCom</category>
+<category lang="en">Comedy</category>
+<category lang="en">Family</category>
+    <desc>Cheyenne is upset when Van decides to shave his head for the team; Barbra Jean convinces Reba to go into business with her.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403490" start="20250922103000 +0000" stop="20250922110000 +0000">
+    <title lang="zh">Reba</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/7727258bad222b37ca98e9cffe3e847cc474add3fa3b19f38d511e29586a76de.jpg"/>
+<category lang="en">SitCom</category>
+<category lang="en">Comedy</category>
+<category lang="en">Family</category>
+    <desc>Kyra punches a classmate who attacked her sister's reputation; Van helps Jake build a volcano for the science fair.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403490" start="20250922110000 +0000" stop="20250922113000 +0000">
+    <title lang="zh">Reba</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/7727258bad222b37ca98e9cffe3e847cc474add3fa3b19f38d511e29586a76de.jpg"/>
+<category lang="en">SitCom</category>
+<category lang="en">Comedy</category>
+<category lang="en">Family</category>
+    <desc>Everyone panics when Kyra disappears in the middle of the night; Van and Cheyenne appear on a cable sports show.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403490" start="20250922113000 +0000" stop="20250922120000 +0000">
+    <title lang="zh">Reba</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/7727258bad222b37ca98e9cffe3e847cc474add3fa3b19f38d511e29586a76de.jpg"/>
+<category lang="en">SitCom</category>
+<category lang="en">Comedy</category>
+<category lang="en">Family</category>
+    <desc>Barbara Jean arranges a blind date for reluctant Reba; Van uses his bonus to buy a new sports car without consulting Cheyenne.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403490" start="20250922120000 +0000" stop="20250922123000 +0000">
+    <title lang="zh">The Golden Girls</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
+<category lang="en">SitCom</category>
+<category lang="en">Comedy</category>
+<category lang="en">Drama</category>
+<category lang="en">Family</category>
+    <desc>A suspicious Rose asks neighbor Barbara Weston, to investigate her new boyfriend, at the same time that MIles returns to her life.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403490" start="20250922123000 +0000" stop="20250922130000 +0000">
+    <title lang="zh">The Golden Girls</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
+<category lang="en">SitCom</category>
+<category lang="en">Comedy</category>
+<category lang="en">Drama</category>
+<category lang="en">Family</category>
+    <desc>Long ago antics by Sophia come to light when Dorothy's high-school prom date appears.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403490" start="20250922130000 +0000" stop="20250922133000 +0000">
+    <title lang="zh">The Golden Girls</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
+<category lang="en">SitCom</category>
+<category lang="en">Comedy</category>
+<category lang="en">Drama</category>
+<category lang="en">Family</category>
+    <desc>Sophia becomes the prime suspect in the investigation surrounding a fire at Shady Pines retirement home.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403490" start="20250922133000 +0000" stop="20250922140000 +0000">
+    <title lang="zh">The Golden Girls</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/d4bfbb4598df9e90b8f9b420df3700c7d73e8965b77778d52ca715eec89e9feb.jpg"/>
+<category lang="en">SitCom</category>
+<category lang="en">Comedy</category>
+<category lang="en">Drama</category>
+<category lang="en">Family</category>
+    <desc>Sophia becomes the prime suspect in the investigation surrounding a fire at Shady Pines retirement home.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403490" start="20250922140000 +0000" stop="20250922150000 +0000">
+    <title lang="zh">Gilmore Girls</title>
+    <desc>The sudden loss of his mother undoes Richard; Emily finds an old letter to her husband from her mother-in-law; Lorelai takes over the funeral arrangements.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403490" start="20250922150000 +0000" stop="20250922160000 +0000">
+    <title lang="zh">Gilmore Girls</title>
+    <desc>Rory and Paris take off to Florida for their first spring break; Paris makes an unexpected bid for attention at a nightclub where the Shins are performing.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403490" start="20250922160000 +0000" stop="20250922170000 +0000">
+    <title lang="zh">Gilmore Girls</title>
+    <desc>Jason's father, Floyd, exposes Jason and Lorelai's secret relationship and brings a lawsuit against Jason and Richard for taking his clients.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403490" start="20250922170000 +0000" stop="20250922180000 +0000">
+    <title lang="zh">Gilmore Girls</title>
+    <desc>Lorelai angrily confronts her father about his treatment of Jason, after Jason tells her that he and Richard are no longer in business together.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403490" start="20250922180000 +0000" stop="20250922200000 +0000">
+    <title lang="zh">Autumn Dreams</title>
+    <desc>Years after the annulment of their spontaneous marriage a couple discovers a mistake in the paperwork that means they are still husband and wife.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403490" start="20250922200000 +0000" stop="20250922220000 +0000">
+    <title lang="zh">Love on the Slopes</title>
+    <desc>Alex, a copy editor from New York, is sent to an extreme sports outpost to write a story for a travel writing competition. Cole, a sports enthusiast, reluctantly agrees to be Alex's guide as she faces her fears.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403490" start="20250922220000 +0000" stop="20250923000000 +0000">
+    <title lang="zh">Love on the Danube: Kissing Stars</title>
+    <desc>A publicist and a movie star's professional collaboration leads to an unexpected romance on a cruise.</desc>
+    <date>2025-09-22</date>
+  </programme>
+  <programme channel="403490" start="20250923000000 +0000" stop="20250924000000 +0000">
+    <title lang="zh">Celebrations With Lacey Chabert</title>
+    <desc>Hayley, a Texas native, hits rock bottom after chasing acting dreams in California; she gave her last dollars to help the unhoused-sparking a movement; Iin 2014, she founded Love My Neighbor Foundation to restore dignity and hope to others.</desc>
+    <date>2025-09-23</date>
   </programme>
 </tv>
