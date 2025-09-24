@@ -5,14 +5,15 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/a4713cf8-8897-41c2-bab4-132f733d3f5f/TC2_Logo_Plex_1500X1000_LightRDX.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20250922190000 +0000" stop="20250923010000 +0000">
-    <title>Laver Cup-Live</title>
-    <category>Movie</category>
-    <desc>Live coverage from Laver Cup 2025</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e68f0fa7-4f80-4b75-ba0f-7ff7b912e17f/TC2_Plex_2000X3000_Vertical_Art_.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20250923213000 +0000" stop="20250923233000 +0000">
+    <title>Billie Jean King Cup</title>
+    <sub-title>2025 Billi Jean King Cup</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Final Jasmine Paolini (ITA) vs. Jessica Pegula (USA)</desc>
+    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_WTA_BJKC_FINALS_2024.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20250923010000 +0000" stop="20250923013000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20250923233000 +0000" stop="20250924000000 +0000">
     <title>Tennis Channel Weekly</title>
     <sub-title>Episode Thirty Eight</sub-title>
     <episode-num system="onscreen">S01E35</episode-num>
@@ -20,67 +21,57 @@
     <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_TC_WEEKLY.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20250923013000 +0000" stop="20250923073000 +0000">
-    <title>Best of the Day</title>
-    <sub-title>Hangzhou-ATP Semifinals</sub-title>
-    <episode-num system="onscreen">S01E175</episode-num>
-    <desc>Enjoy the best of today's coverage on Tennis Channel 2</desc>
-    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_BEST_OF_THE_DAY_ON_T2.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20250923073000 +0000" stop="20250923100000 +0000">
-    <title>Best of the Day</title>
-    <sub-title>Hangzhou-ATP Semifinals</sub-title>
-    <episode-num system="onscreen">S01E175</episode-num>
-    <desc>Enjoy the best of today's coverage on Tennis Channel 2</desc>
-    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_BEST_OF_THE_DAY_ON_T2.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20250923100000 +0000" stop="20250923113000 +0000">
-    <title>Best of the Day</title>
-    <sub-title>Hangzhou-ATP Semifinals</sub-title>
-    <episode-num system="onscreen">S01E175</episode-num>
-    <desc>Enjoy the best of today's coverage on Tennis Channel 2</desc>
-    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_BEST_OF_THE_DAY_ON_T2.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20250923113000 +0000" stop="20250923140000 +0000">
-    <title>Hangzhou-ATP Live</title>
-    <category>Movie</category>
-    <desc>Live coverage from Hangzhou 2025</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e68f0fa7-4f80-4b75-ba0f-7ff7b912e17f/TC2_Plex_2000X3000_Vertical_Art_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20250923140000 +0000" stop="20250923163000 +0000">
-    <title>Beijing-WTA</title>
-    <sub-title>Beijing 2024</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20250924000000 +0000" stop="20250924030000 +0000">
+    <title>Seoul-WTA</title>
+    <sub-title>2025 WTA Seoul Open</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Semifinals Coco Gauff (USA) vs. Paula Badosa (ESP)</desc>
-    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_WTA_BEIJING_T2.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20250923163000 +0000" stop="20250923183000 +0000">
-    <title>Seoul South Korea 2025</title>
-    <sub-title>Seoul-WTA Final</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Encore Tennis: 2025 WTA Seoul</desc>
+    <desc>Final Iga Swiatek (POL) vs. Ekaterina Alexandrova (RUS)</desc>
     <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_WTA_SEOUL.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20250923183000 +0000" stop="20250923190000 +0000">
-    <title>WTA All Access</title>
-    <sub-title>Episode 5</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Watch and listen to the top WTA players in this behind the scenes look at the WTA Tour</desc>
-    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16_9_WTA_All_Access.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20250924030000 +0000" stop="20250924080000 +0000">
+    <title>Beijing-WTA Live</title>
+    <category>Movie</category>
+    <desc>Live coverage from Beijing 2025</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e68f0fa7-4f80-4b75-ba0f-7ff7b912e17f/TC2_Plex_2000X3000_Vertical_Art_.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20250923190000 +0000" stop="20250924010000 +0000">
-    <title>Billie Jean King Cup 2025</title>
-    <sub-title>Billie Jean King Cup Final Tie</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Encore Tennis: 2025 ITF Billie Jean King Cup</desc>
-    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_WTA_BJKC_2025.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20250924080000 +0000" stop="20250924100000 +0000">
+    <title>Beijing-WTA Live</title>
+    <category>Movie</category>
+    <desc>Live coverage from Beijing 2025</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e68f0fa7-4f80-4b75-ba0f-7ff7b912e17f/TC2_Plex_2000X3000_Vertical_Art_.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20250924100000 +0000" stop="20250924130000 +0000">
+    <title>Beijing-WTA Live</title>
+    <category>Movie</category>
+    <desc>Live coverage from Beijing 2025</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e68f0fa7-4f80-4b75-ba0f-7ff7b912e17f/TC2_Plex_2000X3000_Vertical_Art_.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20250924130000 +0000" stop="20250924133000 +0000">
+    <title>Tennis Channel Weekly</title>
+    <sub-title>Episode Thirty Eight</sub-title>
+    <episode-num system="onscreen">S01E35</episode-num>
+    <desc>Recap of week thirty eight of the tennis season</desc>
+    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_TC_WEEKLY.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20250924133000 +0000" stop="20250924183000 +0000">
+    <title>Best of the Day</title>
+    <sub-title>Beijing-WTA First Round</sub-title>
+    <episode-num system="onscreen">S01E176</episode-num>
+    <desc>Enjoy the best of today's coverage on Tennis Channel 2</desc>
+    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_BEST_OF_THE_DAY_ON_T2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20250924183000 +0000" stop="20250924233000 +0000">
+    <title>Best of the Day</title>
+    <sub-title>Beijing-WTA First Round</sub-title>
+    <episode-num system="onscreen">S01E177</episode-num>
+    <desc>Enjoy the best of today's coverage on Tennis Channel 2</desc>
+    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_BEST_OF_THE_DAY_ON_T2.jpg" />
   </programme>
   
 </tv>
