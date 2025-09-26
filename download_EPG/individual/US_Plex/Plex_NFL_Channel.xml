@@ -5,110 +5,157 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/a7617b69-6d23-46d0-8e8e-e4ec9fa29d59/NFL_WHITE.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250924230000 +0000" stop="20250925000000 +0000">
-    <title>NFL Daily</title>
-    <sub-title>NFL Daily</sub-title>
-    <desc>Gregg Rosenthal and a rotating crew of elite NFL Media co-hosts, including Patrick Claybon, Colleen Wolfe, Steve Wyche, Nick Shook and Jourdan Rodrigue of The Athletic get viewers caught up daily on all the NFL news and analysis.</desc>
-    <date>20250924</date>
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250925230000 +0000" stop="20250926000000 +0000">
+    <title>NFL GameDay View</title>
+    <sub-title>NFL GameDay View</sub-title>
+    <desc>Hosts Patrick Claybon, Cynthia Frelund, Gregg Rosenthal provide analysis and predictions, also receive insight from reporters around the country and in-depth statistical analysis.</desc>
+    <date>20250925</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250925000000 +0000" stop="20250925010000 +0000">
-    <title>NFL Highlights</title>
-    <sub-title>Top Plays from Week 3</sub-title>
-    <desc>Highlights of the top plays from Week 3 during the 2025 NFL season.</desc>
-    <date>20250923</date>
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250926000000 +0000" stop="20250926001500 +0000">
+    <title>NFL GameDay Preview</title>
+    <sub-title>Week 4</sub-title>
+    <episode-num system="onscreen">S2025E04</episode-num>
+    <desc>NFL analysts pick every game ahead of Week 4 based on the NFL schedule with insights from reporters around the country and in-depth statistical analysis.</desc>
+    <date>20250922</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250925010000 +0000" stop="20250925013000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250926001500 +0000" stop="20250926033000 +0000">
+    <title>NFL GameCenter Live</title>
+    <sub-title>NFL GameCenter Live</sub-title>
+    <episode-num system="onscreen">S2023E05</episode-num>
+    <desc>Get NFL score updates, highlights, news and more from Week 4.</desc>
+    <date>20231001</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250926033000 +0000" stop="20250926043000 +0000">
+    <title>The Insiders</title>
+    <sub-title>The Insiders</sub-title>
+    <desc>NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.</desc>
+    <date>20250926</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250926043000 +0000" stop="20250926044800 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Weekly Game Recaps</sub-title>
+    <desc>Highlights and interviews from the NFL.</desc>
+    <date>20250926</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250926044800 +0000" stop="20250926054800 +0000">
     <title>NFL Throwback</title>
-    <sub-title>Top 10 International Games</sub-title>
-    <desc>See the best games to ever take place outside of America.</desc>
-    <date>20250924</date>
+    <sub-title>Best Regular Season Game from Every Year Since 2000</sub-title>
+    <episode-num system="onscreen">S2025E45</episode-num>
+    <date>20250904</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250925013000 +0000" stop="20250925023000 +0000">
-    <title>NFL Highlights</title>
-    <sub-title>Top Plays from Week 3</sub-title>
-    <desc>Highlights of the top plays from Week 3 during the 2025 NFL season.</desc>
-    <date>20250923</date>
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250926054800 +0000" stop="20250926064800 +0000">
+    <title>NFL GameDay View</title>
+    <sub-title>NFL GameDay View</sub-title>
+    <desc>Hosts Patrick Claybon, Cynthia Frelund, Gregg Rosenthal provide analysis and predictions, also receive insight from reporters around the country and in-depth statistical analysis.</desc>
+    <date>20250926</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250925023000 +0000" stop="20250925030000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250926064800 +0000" stop="20250926071800 +0000">
+    <title>NFL Fantasy Football Show</title>
+    <sub-title>NFL Fantasy Football Show</sub-title>
+    <desc>Marcas Grant and his guests provide detailed fantasy football analysis combining in-depth stats and film study ahead of each week.</desc>
+    <date>20250926</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250926071800 +0000" stop="20250926081800 +0000">
     <title>NFL Throwback</title>
-    <sub-title>Top 10 International Games</sub-title>
-    <desc>See the best games to ever take place outside of America.</desc>
-    <date>20250924</date>
+    <sub-title>Best Regular Season Game from Every Year Since 2000</sub-title>
+    <episode-num system="onscreen">S2025E45</episode-num>
+    <date>20250904</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250925030000 +0000" stop="20250925060100 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250926081800 +0000" stop="20250926084900 +0000">
+    <title>NFL Throwback</title>
+    <sub-title>Is 2014 the greatest WR draft class ever?</sub-title>
+    <episode-num system="onscreen">S2024E21</episode-num>
+    <desc>Five Pro Bowlers and tons of recognizable names. Relive the draft night that brought us Mike Evans, Odell Beckham Jr., Davante Adams, and many more.</desc>
+    <date>20240426</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250926084900 +0000" stop="20250926114100 +0000">
     <title>NFL Game Re-Airs</title>
-    <sub-title>2024: Ravens vs. Cowboys, Week 3</sub-title>
-    <desc>Lamar Jackson led the Ravens to a 28-25 win over the Cowboys, throwing clutch passes and rushing for 274 yards. Derrick Henry ran for 151 yards and two touchdowns.</desc>
-    <date>20240928</date>
+    <sub-title>2023 NFC Wild Card: Packers vs. Cowboys</sub-title>
+    <episode-num system="onscreen">S2025E801</episode-num>
+    <desc>Re-airs of classic NFL Super Bowls, Championships and regular season games featuring some of the game's greatest.</desc>
+    <date>20250108</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250925060100 +0000" stop="20250925063100 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250926114100 +0000" stop="20250926115900 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Weekly Game Recaps</sub-title>
+    <desc>Highlights and interviews from the NFL.</desc>
+    <date>20250926</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250926115900 +0000" stop="20250926122900 +0000">
     <title>NFL Fantasy Football Show</title>
     <sub-title>NFL Fantasy Football Show</sub-title>
     <desc>Marcas Grant and his guests provide detailed fantasy football analysis combining in-depth stats and film study ahead of each week.</desc>
-    <date>20250925</date>
+    <date>20250926</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250925063100 +0000" stop="20250925073100 +0000">
-    <title>NFL Daily</title>
-    <sub-title>NFL Daily</sub-title>
-    <desc>Gregg Rosenthal and a rotating crew of elite NFL Media co-hosts, including Patrick Claybon, Colleen Wolfe, Steve Wyche, Nick Shook and Jourdan Rodrigue of The Athletic get viewers caught up daily on all the NFL news and analysis.</desc>
-    <date>20250925</date>
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250926122900 +0000" stop="20250926132900 +0000">
+    <title>NFL GameDay View</title>
+    <sub-title>NFL GameDay View</sub-title>
+    <desc>Hosts Patrick Claybon, Cynthia Frelund, Gregg Rosenthal provide analysis and predictions, also receive insight from reporters around the country and in-depth statistical analysis.</desc>
+    <date>20250926</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250925073100 +0000" stop="20250925083100 +0000">
-    <title>Condensed Game</title>
-    <sub-title>2017: Rams vs. 49ers - Week 3</sub-title>
-    <desc>Jared Goff threw for 292 yards and three touchdowns and Todd Gurley ran for two touchdowns and caught another to help the Los Angeles Rams put up another big offensive performance with a 41-39 victory over the San Francisco 49ers.</desc>
-    <date>20230811</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250925083100 +0000" stop="20250925093100 +0000">
-    <title>Condensed Game</title>
-    <sub-title>2017: Chiefs vs. Raiders, Week 7</sub-title>
-    <desc>The Raiders overcame a 10-point fourth quarter deficit to defeat the Kansas City Chiefs on the final play of this divisional game.</desc>
-    <date>20220713</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250925093100 +0000" stop="20250925124600 +0000">
-    <title>NFL Highlights</title>
-    <sub-title>Best of Color Rush from 2015-2017 Season</sub-title>
-    <desc>The best color rush uniforms from the 2015-2017 NFL seasons.</desc>
-    <date>20250924</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250925124600 +0000" stop="20250925131600 +0000">
-    <title>NFL Fantasy Football Show</title>
-    <sub-title>NFL Fantasy Football Show</sub-title>
-    <desc>Marcas Grant and his guests provide detailed fantasy football analysis combining in-depth stats and film study ahead of each week.</desc>
-    <date>20250925</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250925131600 +0000" stop="20250925141600 +0000">
-    <title>NFL Daily</title>
-    <sub-title>NFL Daily</sub-title>
-    <desc>Gregg Rosenthal and a rotating crew of elite NFL Media co-hosts, including Patrick Claybon, Colleen Wolfe, Steve Wyche, Nick Shook and Jourdan Rodrigue of The Athletic get viewers caught up daily on all the NFL news and analysis.</desc>
-    <date>20250925</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250925141600 +0000" stop="20250925145000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250926132900 +0000" stop="20250926135200 +0000">
     <title>NFL Throwback</title>
-    <sub-title>Every passing leader from 1970-2023</sub-title>
-    <episode-num system="onscreen">S2024E23</episode-num>
-    <desc>Take a look back at each year's passing yards leader since the AFL-NFL merger.</desc>
-    <date>20240528</date>
+    <sub-title>Craziest Super Bowl Plays of All Time</sub-title>
+    <episode-num system="onscreen">S2023E10</episode-num>
+    <desc>Watch the wildest plays in Super Bowl history, which get crazier and crazier.</desc>
+    <date>20230212</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250925145000 +0000" stop="20250925165000 +0000">
-    <title>Weekly Game Previews</title>
-    <sub-title>Weekly Game Previews</sub-title>
-    <desc>NFL analysts pick every game ahead of the week based on the NFL schedule with insights from reporters around the country and in-depth statistical analysis.</desc>
-    <date>20250925</date>
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250926135200 +0000" stop="20250926141200 +0000">
+    <title>NFL Throwback</title>
+    <sub-title>Game Winners That Didn't Count</sub-title>
+    <episode-num system="onscreen">S2025E52</episode-num>
+    <desc>From overturned calls to costly penalties, check out the greatest game-winning plays that didn't count.</desc>
+    <date>20250926</date>
   </programme>
-
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250926141200 +0000" stop="20250926170500 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2025: Broncos vs. Chargers - Week 3</sub-title>
+    <desc>Justin Herbert's immaculate fourth quarter touchdown toss to Keenan Allen keeps the Bolts undefeated on the season as they take down Bo Nix and the Broncos, 23-20.</desc>
+    <date>20250923</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250926170500 +0000" stop="20250926195800 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2025: Broncos vs. Chargers - Week 3</sub-title>
+    <desc>Justin Herbert's immaculate fourth quarter touchdown toss to Keenan Allen keeps the Bolts undefeated on the season as they take down Bo Nix and the Broncos, 23-20.</desc>
+    <date>20250923</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250926195800 +0000" stop="20250926222900 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2025: Cardinals vs. 49ers - Week 3</sub-title>
+    <desc>Mac Jones calmly moved the San Francisco 49ers down the field in the closing minutes to set up Eddy Piñeiro's 35-yard field goal on the final play that gave the 49ers a 16-15 victory over the Arizona Cardinals on Sunday.</desc>
+    <date>20250926</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250926222900 +0000" stop="20250926225900 +0000">
+    <title>NFL Fantasy Football Show</title>
+    <sub-title>NFL Fantasy Football Show</sub-title>
+    <desc>Marcas Grant and his guests provide detailed fantasy football analysis combining in-depth stats and film study ahead of each week.</desc>
+    <date>20250926</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250926225900 +0000" stop="20250926235900 +0000">
+    <title>NFL Daily</title>
+    <sub-title>NFL Daily</sub-title>
+    <desc>Gregg Rosenthal and a rotating crew of elite NFL Media co-hosts, including Patrick Claybon, Colleen Wolfe, Steve Wyche, Nick Shook and Jourdan Rodrigue of The Athletic get viewers caught up daily on all the NFL news and analysis.</desc>
+    <date>20250926</date>
+  </programme>
+  
 </tv>
