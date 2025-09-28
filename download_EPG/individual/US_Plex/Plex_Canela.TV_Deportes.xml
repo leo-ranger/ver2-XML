@@ -5,97 +5,76 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/f345c0b8-c5b8-49a4-82f2-28fa7fcfe7e8/CM-Plex-dark_logo-CanelaTV-deportes_-_Natalia_Rodriguez.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250926213000 +0000" stop="20250926233000 +0000">
-    <title>Red de Futbol</title>
-    <category>Movie</category>
-    <desc>Los mejores análisis, debates y noticias del mundo del fútbol.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250926233000 +0000" stop="20250927011851 +0000">
-    <title>Partick Thistle vs Celtic</title>
-    <category>Movie</category>
-    <desc>Partick Thistle quiere dar la sorpresa. Celtic visita el Firhill Stadium.</desc>
-    <date>20250101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/47af1fbe4d36030fec481d37c34f88f1a921a47e_2x3.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250927011851 +0000" stop="20250927031650 +0000">
-    <title>Rangers vs. Hibernian</title>
-    <category>Movie</category>
-    <desc>Rangers buscará salir de la mala racha al recibir al cuadro de Hibernian.</desc>
-    <date>20250101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ebd24bb0783b5e11bee02ff1b94876f48bb7fef5_2x3.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250927031650 +0000" stop="20250927053233 +0000">
-    <title>Hibernian vs Dundee United</title>
-    <category>Movie</category>
-    <desc>Choque de tradición y ambición en el fútbol escocés.</desc>
-    <date>20250101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/35e75ff71b99fbcdad8634c7124975329c6a91bb_2x3.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250927053233 +0000" stop="20250927080632 +0000">
-    <title>Probox TV</title>
-    <sub-title>MDB: Colbert vs Salcido</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <desc>Evento Estelar: Chris Colbert vs Omar Salcido.</desc>
-    <date>20240101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5ce04980-5b87-4816-9134-60c7126c1543_16x9.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250927080632 +0000" stop="20250927102431 +0000">
-    <title>Probox TV</title>
-    <sub-title>"Swift" Jarred Hurd vs Jeison "Banana" Rosario</sub-title>
-    <episode-num system="onscreen">S02E12</episode-num>
-    <desc>Evento estelar "Swift" Jarred Hurd (25- 3 -0) vs Jeison "Banana" Rosario (24-4 -1).</desc>
-    <date>20240101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5ce04980-5b87-4816-9134-60c7126c1543_16x9.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250927102431 +0000" stop="20250927130934 +0000">
-    <title>Probox TV</title>
-    <sub-title>Alberto Palmetta vs Jesus Saracho</sub-title>
-    <episode-num system="onscreen">S02E11</episode-num>
-    <desc>Evento estelar Alberto Palmetta (19-2 -0) vs Jesus Saracho (13-2 -1).</desc>
-    <date>20240101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5ce04980-5b87-4816-9134-60c7126c1543_16x9.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250927130934 +0000" stop="20250927151026 +0000">
-    <title>Noches de Boxeo</title>
-    <sub-title>Saúl Sánchez vs Franklin González</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Saúl Sánchez y Franklin González encabezan un gran combate.</desc>
-    <date>20230101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/205d3a9a-cbee-4fd7-bb2f-3fe00c450ae1_box_generico_16x9_0.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250927151026 +0000" stop="20250927185557 +0000">
-    <title>Probox TV</title>
-    <sub-title>MDB: Schramm vs Hernandez</sub-title>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <desc>Evento Principal: Guido Schramm vs Vladimir Hernandez</desc>
-    <date>20240101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5ce04980-5b87-4816-9134-60c7126c1543_16x9.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250927185557 +0000" stop="20250927192758 +0000">
-    <title>Probox TV</title>
-    <sub-title>Jorge "Maromero" Páez</sub-title>
-    <episode-num system="onscreen">S01E15</episode-num>
-    <desc>Entrevista de lujo con Jorge "Maromero" Páez.</desc>
-    <date>20240101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5ce04980-5b87-4816-9134-60c7126c1543_16x9.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250927192758 +0000" stop="20250928033000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250927192758 +0000" stop="20250927233000 +0000">
     <title>Serie de Contendientes: Hernandez Vs Veron</title>
     <category>Movie</category>
     <desc>Evento Estelar: Vladimir Hernandez vs Francisco Veron.</desc>
     <date>20250101</date>
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/987746faec5d63b9b2756c17574a96ef3c388636_2x3.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250927233000 +0000" stop="20250928033000 +0000">
+    <title>ProBox - Serie Contendientes: López vs Henderson</title>
+    <category>Movie</category>
+    <desc>ProBox TV - Peleas Competitivas de Gran Accion</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250928033000 +0000" stop="20250928072259 +0000">
+    <title>Series de Contendientes: White vs Tellez</title>
+    <category>Movie</category>
+    <desc>Evento Estelar: Jordan White vs Rene Tellez.</desc>
+    <date>20250101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/b5dd91fb81fed9629103a2ebe77e484b7f17f05d_2x3.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250928072259 +0000" stop="20250928125652 +0000">
+    <title>ONE 170: Tawanchai vs. Superbon</title>
+    <category>Movie</category>
+    <desc>Las mega estrellas Tawanchai y Superbon se enfrentan por el título mundial de Muay Thai.</desc>
+    <date>20250101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/fb09c8b2425737d746e45ea28ea41820b8b260e7_2x3.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250928125652 +0000" stop="20250928135000 +0000">
+    <title>One Championship</title>
+    <sub-title>MMA
+N Sang vs. De Ridder II</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Reinier de Ridder venció por decisión unánime a Aung La N Sang.</desc>
+    <date>20210101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/65770d73-e89d-4967-a04d-3d30895425e5_16x9.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250928135000 +0000" stop="20250928160000 +0000">
+    <title>Scottish: Livingston vs. Rangers</title>
+    <category>Movie</category>
+    <desc>Livingston y Rangers se enfrentan en un duelo para seguir sumando puntos para la supervivencia.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250928160000 +0000" stop="20250928213250 +0000">
+    <title>ONE 170: Tawanchai vs. Superbon</title>
+    <category>Movie</category>
+    <desc>Las mega estrellas Tawanchai y Superbon se enfrentan por el título mundial de Muay Thai.</desc>
+    <date>20250101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/fb09c8b2425737d746e45ea28ea41820b8b260e7_2x3.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250928213250 +0000" stop="20250928220000 +0000">
+    <title>One on One</title>
+    <sub-title>Alberto del Río</sub-title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <desc>Alberto del Río hizo historia, al ser el primer mexicano campeón de la WWE.</desc>
+    <date>20230101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/067baa4c-1b77-43fd-9e42-ab63f8f100eb_ctv_oneonone_general_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20250928220000 +0000" stop="20250928233202 +0000">
+    <title>El Curubito</title>
+    <category>Movie</category>
+    <desc>Programa de entretenimiento deportivo en el que el fútbol se debate con garra y sin filtros.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
   </programme>
   
 </tv>
