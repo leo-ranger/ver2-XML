@@ -5,51 +5,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/a7617b69-6d23-46d0-8e8e-e4ec9fa29d59/NFL_WHITE.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250929010000 +0000" stop="20250929033000 +0000">
-    <title>NFL GameCenter Live</title>
-    <sub-title>NFL GameCenter Live</sub-title>
-    <episode-num system="onscreen">S2023E05</episode-num>
-    <desc>Get NFL score updates, highlights, news and more from Week 4.</desc>
-    <date>20231001</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250929033000 +0000" stop="20250929070600 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Weekly Game Recaps</sub-title>
-    <desc>Highlights and interviews from the NFL.</desc>
-    <date>20250929</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250929070600 +0000" stop="20250929115400 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Weekly Game Recaps</sub-title>
-    <desc>Highlights and interviews from the NFL.</desc>
-    <date>20250929</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250929115400 +0000" stop="20250929160600 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Weekly Game Recaps</sub-title>
-    <desc>Highlights and interviews from the NFL.</desc>
-    <date>20250929</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250929160600 +0000" stop="20250929191700 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Weekly Game Recaps</sub-title>
-    <desc>Highlights and interviews from the NFL.</desc>
-    <date>20250929</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250929191700 +0000" stop="20250929195800 +0000">
-    <title>NFL Throwback</title>
-    <sub-title>Every Playoff Touchdown from 2000-2009 Super Bowl Winners</sub-title>
-    <episode-num system="onscreen">S2025E02</episode-num>
-    <desc>Highlights of every playoff touchdown from a decade of Super Bowl winning seasons.</desc>
-    <date>20250116</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250929195800 +0000" stop="20250929224400 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250929195700 +0000" stop="20250929224400 +0000">
     <title>NFL Game Re-Airs</title>
     <sub-title>1994: Dolphins vs. Jets</sub-title>
     <episode-num system="onscreen">S2021E10</episode-num>
@@ -71,6 +27,262 @@
     <episode-num system="onscreen">S2023E05</episode-num>
     <desc>Get NFL score updates, highlights, news and more from Week 4.</desc>
     <date>20231001</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930033000 +0000" stop="20250930034800 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>2025: Vikings vs. Steelers Highlights - Week 4</sub-title>
+    <episode-num system="onscreen">S2025E34</episode-num>
+    <desc>Highlights from the Week 4 matchup between the Minnesota Vikings and the Pittsburgh Steelers during the 2025 NFL season.</desc>
+    <date>20250928</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930034800 +0000" stop="20250930040600 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Commanders vs. Falcons Highlights - Week 6</sub-title>
+    <desc>Highlights from the Week 6 matchup between the Washington Commanders and the Atlanta Falcons during the 2023 NFL season.</desc>
+    <date>20231015</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930040600 +0000" stop="20250930042400 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>2025: Saints vs. Bills Highlights - Week 4</sub-title>
+    <episode-num system="onscreen">S2025E35</episode-num>
+    <desc>Highlights from the Week 4 matchup between the New Orleans Saints and the Buffalo Bills during the 2025 NFL season.</desc>
+    <date>20250928</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930042400 +0000" stop="20250930044200 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>2025: Browns vs. Lions Highlights - Week 4</sub-title>
+    <episode-num system="onscreen">S2025E36</episode-num>
+    <desc>Highlights from the Week 4 matchup between the Cleveland Browns and the Detroit Lions during the 2025 NFL season.</desc>
+    <date>20250928</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930044200 +0000" stop="20250930050000 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Titans vs. Texans Highlights - Week 17</sub-title>
+    <desc>Highlights from the Week 17 matchup between the Tennessee Titans and the Houston Texans during the 2023 NFL season.</desc>
+    <date>20231231</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930050000 +0000" stop="20250930051800 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>2025: Panthers vs. Patriots Highlights - Week 4</sub-title>
+    <episode-num system="onscreen">S2025E37</episode-num>
+    <desc>Highlights from the Week 4 matchup between the Carolina Panthers and the New England Patriots during the 2025 NFL season.</desc>
+    <date>20250928</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930051800 +0000" stop="20250930053600 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>2025: Chargers vs. Giants Highlights - Week 4</sub-title>
+    <episode-num system="onscreen">S2025E38</episode-num>
+    <desc>Highlights from the Week 4 matchup between the Los Angeles Chargers and the New York Giants during the 2025 NFL season.</desc>
+    <date>20250928</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930053600 +0000" stop="20250930055400 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>2025: Eagles vs. Buccaneers Highlights - Week 4</sub-title>
+    <episode-num system="onscreen">S2025E39</episode-num>
+    <desc>Highlights from the Week 4 matchup between the Philadelphia Eagles and the Tampa Bay Buccaneers during the 2025 NFL season.</desc>
+    <date>20250928</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930055400 +0000" stop="20250930063000 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Weekly Game Recaps</sub-title>
+    <desc>Highlights and interviews from the NFL.</desc>
+    <date>20250930</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930063000 +0000" stop="20250930064800 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>2025: Packers vs. Cowboys Highlights - Week 4</sub-title>
+    <episode-num system="onscreen">S2025E44</episode-num>
+    <desc>Highlights from the Week 4 matchup between the Green Bay Packers and the Dallas Cowboys during the 2025 NFL season.</desc>
+    <date>20250928</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930064800 +0000" stop="20250930070600 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>2025: Seahawks vs. Cardinals Highlights - Week 4</sub-title>
+    <desc>Highlights from the Week 4 matchup between the Seattle Seahawks and the Arizona Cardinals during the 2025 NFL season.</desc>
+    <date>20250925</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930070600 +0000" stop="20250930072400 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>2025: Packers vs. Cowboys Highlights - Week 4</sub-title>
+    <episode-num system="onscreen">S2025E44</episode-num>
+    <desc>Highlights from the Week 4 matchup between the Green Bay Packers and the Dallas Cowboys during the 2025 NFL season.</desc>
+    <date>20250928</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930072400 +0000" stop="20250930080000 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Weekly Game Recaps</sub-title>
+    <desc>Highlights and interviews from the NFL.</desc>
+    <date>20250930</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930080000 +0000" stop="20250930081800 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>2025: Vikings vs. Steelers Highlights - Week 4</sub-title>
+    <episode-num system="onscreen">S2025E34</episode-num>
+    <desc>Highlights from the Week 4 matchup between the Minnesota Vikings and the Pittsburgh Steelers during the 2025 NFL season.</desc>
+    <date>20250928</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930081800 +0000" stop="20250930083600 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Commanders vs. Falcons Highlights - Week 6</sub-title>
+    <desc>Highlights from the Week 6 matchup between the Washington Commanders and the Atlanta Falcons during the 2023 NFL season.</desc>
+    <date>20231015</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930083600 +0000" stop="20250930085400 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>2025: Saints vs. Bills Highlights - Week 4</sub-title>
+    <episode-num system="onscreen">S2025E35</episode-num>
+    <desc>Highlights from the Week 4 matchup between the New Orleans Saints and the Buffalo Bills during the 2025 NFL season.</desc>
+    <date>20250928</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930085400 +0000" stop="20250930091200 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>2025: Browns vs. Lions Highlights - Week 4</sub-title>
+    <episode-num system="onscreen">S2025E36</episode-num>
+    <desc>Highlights from the Week 4 matchup between the Cleveland Browns and the Detroit Lions during the 2025 NFL season.</desc>
+    <date>20250928</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930091200 +0000" stop="20250930093000 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Titans vs. Texans Highlights - Week 17</sub-title>
+    <desc>Highlights from the Week 17 matchup between the Tennessee Titans and the Houston Texans during the 2023 NFL season.</desc>
+    <date>20231231</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930093000 +0000" stop="20250930094800 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>2025: Panthers vs. Patriots Highlights - Week 4</sub-title>
+    <episode-num system="onscreen">S2025E37</episode-num>
+    <desc>Highlights from the Week 4 matchup between the Carolina Panthers and the New England Patriots during the 2025 NFL season.</desc>
+    <date>20250928</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930094800 +0000" stop="20250930102400 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Weekly Game Recaps</sub-title>
+    <desc>Highlights and interviews from the NFL.</desc>
+    <date>20250930</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930102400 +0000" stop="20250930104200 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>2025: Chargers vs. Giants Highlights - Week 4</sub-title>
+    <episode-num system="onscreen">S2025E38</episode-num>
+    <desc>Highlights from the Week 4 matchup between the Los Angeles Chargers and the New York Giants during the 2025 NFL season.</desc>
+    <date>20250928</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930104200 +0000" stop="20250930111800 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Weekly Game Recaps</sub-title>
+    <desc>Highlights and interviews from the NFL.</desc>
+    <date>20250930</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930111800 +0000" stop="20250930113600 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>2025: Packers vs. Cowboys Highlights - Week 4</sub-title>
+    <episode-num system="onscreen">S2025E44</episode-num>
+    <desc>Highlights from the Week 4 matchup between the Green Bay Packers and the Dallas Cowboys during the 2025 NFL season.</desc>
+    <date>20250928</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930113600 +0000" stop="20250930141600 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2022: Vikings vs. Saints, Week 4</sub-title>
+    <episode-num system="onscreen">S2022E465</episode-num>
+    <desc>Justin Jefferson scored a touchdown and beat Marshon Lattimore on a 39-yard reception to set up a 47-yard field goal with 24 seconds left and Minnesota hung on for a 28-25 win over New Orleans at Tottenham Hotspur Stadium.</desc>
+    <date>20221122</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930141600 +0000" stop="20250930165800 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2022: Giants vs. Packers, Week 5</sub-title>
+    <episode-num system="onscreen">S2022E442</episode-num>
+    <desc>New York Giants spoil Green Bay Packers international debut with 27-22 win.</desc>
+    <date>20221030</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930165800 +0000" stop="20250930195300 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2023: 49ers vs. Rams, Week 2</sub-title>
+    <episode-num system="onscreen">S2024E21</episode-num>
+    <desc>Brock Purdy passed for 206 yards and ran for an early touchdown, Deebo Samuel rushed for an 11-yard TD with 11:28 left and San Francisco hung on for its ninth consecutive regular-season win over Los Angeles, 30-23.</desc>
+    <date>20240219</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930195300 +0000" stop="20250930201200 +0000">
+    <title>Super Bowl Halftime</title>
+    <sub-title>Jennifer Lopez, Shakira's Super Bowl LIV Halftime Show</sub-title>
+    <episode-num system="onscreen">S2024E03</episode-num>
+    <desc>Jennifer Lopez and Shakira's full Super Bowl LIV halftime show, presented by Pepsi.</desc>
+    <date>20240207</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/4767ed9ca9a9e342209abcda5baac16d.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930201200 +0000" stop="20250930203200 +0000">
+    <title>Super Bowl Halftime</title>
+    <sub-title>The Weeknd's Super Bowl LV Halftime Show</sub-title>
+    <episode-num system="onscreen">S2024E02</episode-num>
+    <desc>The Weeknd performs at the Super Bowl LV halftime show, presented by Pepsi.</desc>
+    <date>20240207</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/74d637462418cf910c83b84211dad3d3.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930203200 +0000" stop="20250930205100 +0000">
+    <title>Super Bowl Halftime</title>
+    <sub-title>Dr. Dre, Snoop Dogg, Eminem, Mary J. Blige, Kendrick Lamar Super Bowl LVI Halftime Show</sub-title>
+    <episode-num system="onscreen">S2024E01</episode-num>
+    <desc>Pepsi Super Bowl LVI Halftime Show with performers Dr. Dre, Snoop Dogg, Eminem, Mary J. Blige, Kendrick Lamar featuring 50 Cent and Anderson Paak, presented by Pepsi.</desc>
+    <date>20240207</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/fa588ac3a1f836040674471614b84166.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930205100 +0000" stop="20250930211000 +0000">
+    <title>Super Bowl Halftime</title>
+    <sub-title>Rihanna's Super Bowl LVII Halftime Show</sub-title>
+    <episode-num system="onscreen">S2024E04</episode-num>
+    <desc>Rihanna's iconic full Super Bowl LVII halftime show presented by Apple Music.</desc>
+    <date>20240207</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0aa837c531b301acfb09a16ce7d0a14e.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930211000 +0000" stop="20250930212800 +0000">
+    <title>Usher's Super Bowl Halftime Show</title>
+    <sub-title>Usher's Super Bowl Halftime Show</sub-title>
+    <desc>Usher's full Apple Music Super Bowl Halftime Show.</desc>
+    <date>20250930</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930212800 +0000" stop="20250930214700 +0000">
+    <title>NFL Explained</title>
+    <sub-title>Inside Kendrick Lamar's Super Bowl LIX Halftime Show</sub-title>
+    <desc>An inside look at Kendrick Lamar's epic Super Bowl LIX Halftime Show and how it was designed &amp; built in 8 Minutes.</desc>
+    <date>20250714</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20250930214700 +0000" stop="20250930222900 +0000">
+    <title>NFL Explained</title>
+    <sub-title>Inside Kendrick Lamar's Super Bowl LIX Halftime Show</sub-title>
+    <desc>An inside look at Kendrick Lamar's epic Super Bowl LIX Halftime Show and how it was designed &amp; built in 8 Minutes.</desc>
+    <date>20250714</date>
   </programme>
   
 </tv>
