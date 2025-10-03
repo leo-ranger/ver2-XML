@@ -5,7 +5,89 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/f345c0b8-c5b8-49a4-82f2-28fa7fcfe7e8/CM-Plex-dark_logo-CanelaTV-deportes_-_Natalia_Rodriguez.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251002000350 +0000" stop="20251002003000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251003000000 +0000" stop="20251003003000 +0000">
+    <title>FutFem</title>
+    <category>Movie</category>
+    <desc>Espacio cien por ciento dedicado al fútbol femenino internacional.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251003003000 +0000" stop="20251003010000 +0000">
+    <title>100% Futbol</title>
+    <category>Movie</category>
+    <desc>Todo lo que necesitas saber de futbol.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251003010000 +0000" stop="20251003020000 +0000">
+    <title>Red de Futbol</title>
+    <category>Movie</category>
+    <desc>Los mejores análisis, debates y noticias del mundo del fútbol.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251003020000 +0000" stop="20251003035818 +0000">
+    <title>Livingston vs. Rangers</title>
+    <category>Movie</category>
+    <desc>Livingston y Rangers se enfrentan en un duelo determinante.</desc>
+    <date>20250101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/e0da6a71b324804aa5cc27e0ee7ee7e9de601555_2x3.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251003035818 +0000" stop="20251003065050 +0000">
+    <title>Rangers vs. Celtic</title>
+    <category>Movie</category>
+    <desc>¡El clásico de Escocia! Rangers vs. Celtic.</desc>
+    <date>20250101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/540e8a519383499308f04c6b4900deecaf6d64ab_2x3.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251003065050 +0000" stop="20251003081544 +0000">
+    <title>Bare Knuckle Championship Series</title>
+    <sub-title>Daytona, Florida</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Do not miss 90 minutes of fighting in Daytona.</desc>
+    <date>20210101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/9008bdee-01d3-4f59-aca7-702d2d7f8a8c_ctv-bkcs-16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251003081544 +0000" stop="20251003094015 +0000">
+    <title>Bare Knuckle Championship Series</title>
+    <sub-title>Biloxi, Missisipi Segunda Parte</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>90 minutos de acción y adrenalina en Biloxi.</desc>
+    <date>20210101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/9008bdee-01d3-4f59-aca7-702d2d7f8a8c_ctv-bkcs-16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251003094015 +0000" stop="20251003110334 +0000">
+    <title>Bare Knuckle Championship Series</title>
+    <sub-title>Oxford, Mississippi</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Do not miss 90 minutes of action in Mississippi.</desc>
+    <date>20210101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/9008bdee-01d3-4f59-aca7-702d2d7f8a8c_ctv-bkcs-16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251003110334 +0000" stop="20251003122924 +0000">
+    <title>Bare Knuckle Championship Series</title>
+    <sub-title>Birmingham, Alabama</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>90 minutes of fighting in Birmingham, Alabama.</desc>
+    <date>20210101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/9008bdee-01d3-4f59-aca7-702d2d7f8a8c_ctv-bkcs-16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251003122924 +0000" stop="20251003134420 +0000">
+    <title>Bare Knuckle Championship Series</title>
+    <sub-title>Montana. Part 2</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>Do not miss this exciting fight in Montana.</desc>
+    <date>20210101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/9008bdee-01d3-4f59-aca7-702d2d7f8a8c_ctv-bkcs-16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251003134420 +0000" stop="20251003141030 +0000">
     <title>One on One</title>
     <sub-title>Alberto del Río</sub-title>
     <episode-num system="onscreen">S01E11</episode-num>
@@ -14,109 +96,29 @@
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/067baa4c-1b77-43fd-9e42-ab63f8f100eb_ctv_oneonone_general_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251002003000 +0000" stop="20251002010000 +0000">
-    <title>El Dugout</title>
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251003141030 +0000" stop="20251003170931 +0000">
+    <title>Serie de Contendientes: Yaqubov vs Foster III</title>
     <category>Movie</category>
-    <desc>Todo sobre el beisbol de Grandes Ligas (MLB) y la pelota del caribe.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251002010000 +0000" stop="20251002020000 +0000">
-    <title>Red de Futbol</title>
-    <category>Movie</category>
-    <desc>Los mejores análisis, debates y noticias del mundo del fútbol.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251002020000 +0000" stop="20251002040502 +0000">
-    <title>Serie de Contendientes: White vs Romero</title>
-    <category>Movie</category>
-    <desc>Evento Estelar: Jordan White vs Jose Matias Romero.</desc>
+    <desc>Evento Estelar: Muhammadkhuja Yaqubov vs William Foster III.</desc>
     <date>20250101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/b3ccf042d86cf198e0705233a9249d27ad9677db_2x3.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251002040502 +0000" stop="20251002071221 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251003170931 +0000" stop="20251003224133 +0000">
+    <title>Serie de Contendientes: Hernandez Vs Veron</title>
+    <category>Movie</category>
+    <desc>Evento Estelar: Vladimir Hernandez vs Francisco Veron.</desc>
+    <date>20250101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/987746faec5d63b9b2756c17574a96ef3c388636_2x3.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251003224133 +0000" stop="20251004010533 +0000">
     <title>Probox TV</title>
-    <sub-title>MDB: Yoshida vs Metcalf</sub-title>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <desc>Evento Principal: Miko Yoshida vs Shurretta Metcalf</desc>
+    <sub-title>MDB: Schramm vs Hernandez</sub-title>
+    <episode-num system="onscreen">S02E10</episode-num>
+    <desc>Evento Principal: Guido Schramm vs Vladimir Hernandez</desc>
     <date>20240101</date>
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5ce04980-5b87-4816-9134-60c7126c1543_16x9.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251002071221 +0000" stop="20251002090524 +0000">
-    <title>Motherwell vs Aberdeen</title>
-    <category>Movie</category>
-    <desc>Aberdeen buscará salir del sótano al visitar al Motherwell.</desc>
-    <date>20250101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/93d38ab19c079c4428a2c1b1779cb71f12d5d7e1_2x3.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251002090524 +0000" stop="20251002110342 +0000">
-    <title>Livingston vs. Rangers</title>
-    <category>Movie</category>
-    <desc>Livingston y Rangers se enfrentan en un duelo determinante.</desc>
-    <date>20250101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/e0da6a71b324804aa5cc27e0ee7ee7e9de601555_2x3.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251002110342 +0000" stop="20251002130500 +0000">
-    <title>Rangers vs. Celtic</title>
-    <category>Movie</category>
-    <desc>¡El clásico de Escocia! Rangers vs. Celtic.</desc>
-    <date>20250101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/540e8a519383499308f04c6b4900deecaf6d64ab_2x3.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251002130500 +0000" stop="20251002145351 +0000">
-    <title>Partick Thistle vs Celtic</title>
-    <category>Movie</category>
-    <desc>Partick Thistle quiere dar la sorpresa. Celtic visita el Firhill Stadium.</desc>
-    <date>20250101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/47af1fbe4d36030fec481d37c34f88f1a921a47e_2x3.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251002145351 +0000" stop="20251002154133 +0000">
-    <title>100% Futbol</title>
-    <sub-title>¿El Messi Mexicano?</sub-title>
-    <episode-num system="onscreen">S01E275</episode-num>
-    <desc>¿Tiene México a la nueva joya del fútbol mundial?</desc>
-    <date>20250101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/79a47210-eefe-4db3-9066-30ec2d837529_cd-100_futbol-1920x1080px_2_0.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251002154133 +0000" stop="20251002175112 +0000">
-    <title>Kilmarnock vs Celtic</title>
-    <category>Movie</category>
-    <desc>Kilmarnock recibe a Celtic en un duelo vibrante.</desc>
-    <date>20250101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/90764c66d49d341ad0b91503a475ee27a81bb1f5_2x3.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251002175112 +0000" stop="20251002200656 +0000">
-    <title>Hibernian vs Dundee United</title>
-    <category>Movie</category>
-    <desc>Choque de tradición y ambición en el fútbol escocés.</desc>
-    <date>20250101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/35e75ff71b99fbcdad8634c7124975329c6a91bb_2x3.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251002200656 +0000" stop="20251002233000 +0000">
-    <title>Motherwell vs Aberdeen</title>
-    <category>Movie</category>
-    <desc>Aberdeen buscará salir del sótano al visitar al Motherwell.</desc>
-    <date>20250101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/93d38ab19c079c4428a2c1b1779cb71f12d5d7e1_2x3.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251002233000 +0000" stop="20251003020000 +0000">
-    <title>Íconos Nacionales</title>
-    <sub-title>Messi vs Maradona</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>¿Quién es el mejor número 10?</desc>
-    <date>20160101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/18fc9f0b-fd52-4fcd-b279-c6f189a18b89_iconos-nacionales_16x9.jpg" />
   </programme>
   
 </tv>
