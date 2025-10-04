@@ -5,110 +5,82 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/a7617b69-6d23-46d0-8e8e-e4ec9fa29d59/NFL_WHITE.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251003000000 +0000" stop="20251003001500 +0000">
-    <title>NFL GameDay Preview</title>
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251003230100 +0000" stop="20251004000100 +0000">
+    <title>NFL Daily</title>
+    <sub-title>NFL Daily</sub-title>
+    <desc>Gregg Rosenthal and a rotating crew of elite NFL Media co-hosts, including Patrick Claybon, Colleen Wolfe, Steve Wyche, Nick Shook and Jourdan Rodrigue of The Athletic get viewers caught up daily on all the NFL news and analysis.</desc>
+    <date>20251003</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251004000100 +0000" stop="20251004032900 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2025: Packers vs. Cowboys - Week 4</sub-title>
+    <episode-num system="onscreen">S2025E21</episode-num>
+    <desc>Micah Parsons returns to Dallas for the first time as a member of the Green Bay Packers as they duel against the Dallas Cowboys in a back-and-forth brawl that goes into overtime and ends in a 40-40 tie game.</desc>
+    <date>20250930</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251004032900 +0000" stop="20251004053400 +0000">
+    <title>Weekly Game Previews</title>
     <sub-title>Week 5</sub-title>
-    <episode-num system="onscreen">S2025E05</episode-num>
-    <desc>NFL analysts pick every game ahead of Week 5 based on the NFL schedule with insights from reporters around the country and in-depth statistical analysis.</desc>
+    <desc>This weekly series breaks down what you need to know for every NFL matchup ahead of Week 5.</desc>
+    <date>20251001</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251004053400 +0000" stop="20251004055200 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>49ers vs. Rams Highlights - Week 5</sub-title>
+    <episode-num system="onscreen">S2025E47</episode-num>
+    <desc>Highlights from the matchup between the San Francisco 49ers against the Los Angeles Rams in Week 5 of the 2025 NFL season.</desc>
     <date>20251002</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251003001500 +0000" stop="20251003033000 +0000">
-    <title>NFL GameCenter Live</title>
-    <sub-title>NFL GameCenter Live</sub-title>
-    <desc>Get NFL score updates, highlights, news and more from Week 5.</desc>
-    <date>20221009</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251003033000 +0000" stop="20251003043000 +0000">
-    <title>The Insiders</title>
-    <sub-title>The Insiders</sub-title>
-    <desc>NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.</desc>
-    <date>20251003</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251003043000 +0000" stop="20251003044800 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Weekly Game Recaps</sub-title>
-    <desc>Highlights and interviews from the NFL.</desc>
-    <date>20251003</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251003044800 +0000" stop="20251003053400 +0000">
-    <title>NFL Throwback</title>
-    <sub-title>Top 10 Dominant Seasons</sub-title>
-    <episode-num system="onscreen">S2025E44</episode-num>
-    <desc>Witness the most incredible individual performances over the span of a single season.</desc>
-    <date>20250902</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251003053400 +0000" stop="20251003063400 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251004055200 +0000" stop="20251004065200 +0000">
     <title>NFL GameDay View</title>
     <sub-title>NFL GameDay View</sub-title>
     <desc>Hosts Patrick Claybon, Cynthia Frelund, Gregg Rosenthal provide analysis and predictions, also receive insight from reporters around the country and in-depth statistical analysis.</desc>
-    <date>20251003</date>
+    <date>20251004</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251003063400 +0000" stop="20251003070400 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251004065200 +0000" stop="20251004075200 +0000">
+    <title>NFL Daily</title>
+    <sub-title>NFL Daily</sub-title>
+    <desc>Gregg Rosenthal and a rotating crew of elite NFL Media co-hosts, including Patrick Claybon, Colleen Wolfe, Steve Wyche, Nick Shook and Jourdan Rodrigue of The Athletic get viewers caught up daily on all the NFL news and analysis.</desc>
+    <date>20251004</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251004075200 +0000" stop="20251004082200 +0000">
     <title>NFL Fantasy Football Show</title>
     <sub-title>NFL Fantasy Football Show</sub-title>
     <desc>Marcas Grant and his guests provide detailed fantasy football analysis combining in-depth stats and film study ahead of Week 5.</desc>
     <date>20241002</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251003070400 +0000" stop="20251003080400 +0000">
-    <title>NFL Throwback</title>
-    <sub-title>Best Regular Season Game from Every Year Since 2000</sub-title>
-    <episode-num system="onscreen">S2025E45</episode-num>
-    <date>20250904</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251003080400 +0000" stop="20251003112900 +0000">
-    <title>NFL Game Re-Airs</title>
-    <sub-title>2015: Giants vs. Saints</sub-title>
-    <episode-num system="onscreen">S2022E112</episode-num>
-    <desc>Relive the Week 8, 2015 matchup between the New Orleans Saints and the New York Giants where Drew Brees passed for 505 yards and an NFL record-tying seven touchdowns.</desc>
-    <date>20220207</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251003112900 +0000" stop="20251003114700 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251004082200 +0000" stop="20251004084000 +0000">
     <title>Weekly Game Recaps</title>
-    <sub-title>Weekly Game Recaps</sub-title>
-    <desc>Highlights and interviews from the NFL.</desc>
+    <sub-title>49ers vs. Rams Highlights - Week 5</sub-title>
+    <episode-num system="onscreen">S2025E47</episode-num>
+    <desc>Highlights from the matchup between the San Francisco 49ers against the Los Angeles Rams in Week 5 of the 2025 NFL season.</desc>
+    <date>20251002</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251004084000 +0000" stop="20251004095800 +0000">
+    <title>NFL Throwback</title>
+    <sub-title>Greatest Highlights in NFL History</sub-title>
+    <episode-num system="onscreen">S2022E16</episode-num>
+    <desc>One hour of the greatest highlights in NFL history.</desc>
+    <date>20220304</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251004095800 +0000" stop="20251004101500 +0000">
+    <title>NFL Media Originals</title>
+    <sub-title>Next Gen Stats Top Plays of September</sub-title>
+    <episode-num system="onscreen">S2025E03</episode-num>
+    <desc>Next Gen Stats dives into the stats of the top plays of September.</desc>
     <date>20251003</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251003114700 +0000" stop="20251003121700 +0000">
-    <title>NFL Fantasy Football Show</title>
-    <sub-title>NFL Fantasy Football Show</sub-title>
-    <desc>Marcas Grant and his guests provide detailed fantasy football analysis combining in-depth stats and film study ahead of Week 5.</desc>
-    <date>20241002</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251003121700 +0000" stop="20251003131700 +0000">
-    <title>NFL GameDay View</title>
-    <sub-title>NFL GameDay View</sub-title>
-    <desc>Hosts Patrick Claybon, Cynthia Frelund, Gregg Rosenthal provide analysis and predictions, also receive insight from reporters around the country and in-depth statistical analysis.</desc>
-    <date>20251003</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251003131700 +0000" stop="20251003161100 +0000">
-    <title>NFL Game Re-Airs</title>
-    <sub-title>2025: Chargers vs. Giants - Week 4</sub-title>
-    <episode-num system="onscreen">S2025E22</episode-num>
-    <desc>The Jaxson Dart era begins in New York as he energizes his squad into pulling off an upset win over the undefeated Chargers despite a massive performance from their rookie running back Omarion Hampton.</desc>
-    <date>20251003</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251003161100 +0000" stop="20251003191000 +0000">
-    <title>NFL Game Re-Airs</title>
-    <sub-title>2025: Vikings vs. Steelers - Week 4</sub-title>
-    <episode-num system="onscreen">S2025E23</episode-num>
-    <desc>Kenneth Gainwell did his part by running for 99 yards and two touchdowns in the 24-21 victory at Croke Park, and Rodgers connected with DK Metcalf on an 80-yard touchdown over the Minnesota Vikings.</desc>
-    <date>20251003</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251003191000 +0000" stop="20251003214500 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251004101500 +0000" stop="20251004124800 +0000">
     <title>NFL Game Re-Airs</title>
     <sub-title>2025: Colts vs. Rams - Week 4</sub-title>
     <episode-num system="onscreen">S2025E24</episode-num>
@@ -116,7 +88,22 @@
     <date>20251003</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251003214500 +0000" stop="20251003223000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251004124800 +0000" stop="20251004154600 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2025: Vikings vs. Steelers - Week 4</sub-title>
+    <episode-num system="onscreen">S2025E23</episode-num>
+    <desc>Kenneth Gainwell did his part by running for 99 yards and two touchdowns in the 24-21 victory at Croke Park, and Rodgers connected with DK Metcalf on an 80-yard touchdown over the Minnesota Vikings.</desc>
+    <date>20251003</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251004154600 +0000" stop="20251004161500 +0000">
+    <title>NFL Media Originals</title>
+    <sub-title>Most Interesting Jobs: NFL RedZone and Steelers Equipment Manager</sub-title>
+    <desc>Steve Smith Sr joins Scott Hanson to learn how NFL Red Zone is produced and learns what the Steeler Equipment staff does at training camp.</desc>
+    <date>20250519</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251004161500 +0000" stop="20251004170000 +0000">
     <title>NFL Replay</title>
     <sub-title>Everything That Happened in September</sub-title>
     <episode-num system="onscreen">S2025E07</episode-num>
@@ -124,26 +111,12 @@
     <date>20251003</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251003223000 +0000" stop="20251003230000 +0000">
-    <title>NFL Fantasy Football Show</title>
-    <sub-title>NFL Fantasy Football Show</sub-title>
-    <desc>Marcas Grant and his guests provide detailed fantasy football analysis combining in-depth stats and film study ahead of Week 5.</desc>
-    <date>20241002</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251003230000 +0000" stop="20251004000000 +0000">
-    <title>NFL Daily</title>
-    <sub-title>NFL Daily</sub-title>
-    <desc>Gregg Rosenthal and a rotating crew of elite NFL Media co-hosts, including Patrick Claybon, Colleen Wolfe, Steve Wyche, Nick Shook and Jourdan Rodrigue of The Athletic get viewers caught up daily on all the NFL news and analysis.</desc>
-    <date>20251003</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251004000000 +0000" stop="20251004032800 +0000">
-    <title>NFL Game Re-Airs</title>
-    <sub-title>2025: Packers vs. Cowboys - Week 4</sub-title>
-    <episode-num system="onscreen">S2025E21</episode-num>
-    <desc>Micah Parsons returns to Dallas for the first time as a member of the Green Bay Packers as they duel against the Dallas Cowboys in a back-and-forth brawl that goes into overtime and ends in a 40-40 tie game.</desc>
-    <date>20250930</date>
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251004170000 +0000" stop="20251005010000 +0000">
+    <title>NFL RedZone</title>
+    <sub-title>Week 4</sub-title>
+    <episode-num system="onscreen">S2025E05</episode-num>
+    <desc>Join Scott Hanson for live coverage of all the best NFL action from across the country and every touchdown from every game.</desc>
+    <date>20250928</date>
   </programme>
   
 </tv>
