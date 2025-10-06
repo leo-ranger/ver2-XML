@@ -5,95 +5,114 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/a3c09b3c-9f7e-40e9-b14e-5174a45ad551/P12_Insider_blue_-_Sean_Kent.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251005000027 +0000" stop="20251005020009 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251006000402 +0000" stop="20251006013336 +0000">
+    <title>Gymnastics</title>
+    <sub-title>2023 Oregon State at Stanford</sub-title>
+    <episode-num system="onscreen">S11E14</episode-num>
+    <desc>Jade Carey Perfect 10s on bars and floor; Beavers program record 198.075 at Maples Pavilion (2/24/23)</desc>
+    <date>20230224</date>
+    <icon src="https://pac-12.com/images/2025/7/26/2_24_23_WGY_OSU_STAN.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251006013336 +0000" stop="20251006030007 +0000">
+    <title>Gymnastics</title>
+    <sub-title>2023 Oregon State at Arizona State</sub-title>
+    <episode-num system="onscreen">S11E17</episode-num>
+    <desc>Jade Carey completes Gym Slam with first-career Perfect 10 on beam near hometown of Phoenix (3/4/23)</desc>
+    <date>20230304</date>
+    <icon src="https://pac-12.com/images/2025/7/29/3_4_23_WGY_OSU_ASU.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251006030007 +0000" stop="20251006043031 +0000">
+    <title>Olympic Sports Encore</title>
+    <sub-title>2018 Oklahoma at UCLA</sub-title>
+    <episode-num system="onscreen">S06E01</episode-num>
+    <desc>It's a barrage of perfect-10's as Oklahoma barely edges UCLA in Westwood, 198.050-197.950. (Feb. 4, 2018)</desc>
+    <date>20210723</date>
+    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2021-03/2018_WGYM_OKLAHOM_UCLA_WIDE.jpg?itok=v5xlJysd" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251006043031 +0000" stop="20251006060027 +0000">
+    <title>Olympic Sports Encore</title>
+    <sub-title>2019 Utah State at UCLA</sub-title>
+    <episode-num system="onscreen">S07E19</episode-num>
+    <desc>Kyla Ross completes the Gym Slam with her 1st career perfect 10 on floor exercise and 14th career perfect 10.</desc>
+    <date>20230704</date>
+    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2022-12/Kyla%2520Ross_UCLA_2019_1920x1080.jpeg?itok=hOwVhvXE" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251006060027 +0000" stop="20251006073420 +0000">
+    <title>Gymnastics</title>
+    <sub-title>2024 Oregon State at California</sub-title>
+    <episode-num system="onscreen">S12E04</episode-num>
+    <desc>Kaitlin Garcia (9.900 floor) highlights Oregon State 197.950 team score vs. California (1/27/24)</desc>
+    <date>20240127</date>
+    <icon src="https://pac-12.com/images/2025/7/30/1_27_24_WGY_OSU_CAL_11.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251006073420 +0000" stop="20251006090109 +0000">
+    <title>Gymnastics</title>
+    <sub-title>2023 Pac-12 Championships</sub-title>
+    <episode-num system="onscreen">S11E22</episode-num>
+    <desc>Jade Carey repeats as all-around champion (39.750) at 2023 Pac-12 Championships in Maverik Center (3/18/23)</desc>
+    <date>20230318</date>
+    <icon src="https://pac-12.com/images/2025/7/29/3_18_23_WGY_PAC_12_CHAMPIONSHIPS.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251006090109 +0000" stop="20251006103044 +0000">
+    <title>Gymnastics</title>
+    <sub-title>2023 Oregon State at UCLA</sub-title>
+    <episode-num system="onscreen">S11E06</episode-num>
+    <desc>Olympic medalists Jade Carey (Oregon State) and Jordan Chiles (UCLA) highlight ‘Equity Meet’ (1/29/23)</desc>
+    <date>20230129</date>
+    <icon src="https://pac-12.com/images/2025/7/26/1_29_23_WGY_OSU_UCLA.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251006103044 +0000" stop="20251006130005 +0000">
+    <title>Olympic Sports Encore</title>
+    <sub-title>2018 Pac-12 Women's Gymnastics Championships</sub-title>
+    <episode-num system="onscreen">S06E25</episode-num>
+    <desc>UCLA wins its 18th all-time Pac-12 title, narrowly edging out 197.500-197.350 in Tucson. (March 24, 2018)</desc>
+    <date>20210723</date>
+    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2021-03/2018_WGYM_CHAMPS_WIDE.jpg?itok=oPuWu5F6" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251006130005 +0000" stop="20251006145727 +0000">
     <title>Pac-12 Football Classics</title>
-    <sub-title>2006 USC at Oregon State</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>OSU's Matt Moore rushes and passes for a touchdown in an upset of No. 3 USC in Corvallis. (Oct. 28, 2006)</desc>
-    <date>20210327</date>
-    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2020-10/2006_USC_OSU_Wide.jpg?itok=zd47dhhJ" />
+    <sub-title>2004 California at USC</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>No. 1 USC stifles Aaron Rodgers and Marshawn Lynch in LA to hand Cal its first loss, 23-17. (Oct. 9, 2004)</desc>
+    <date>20210413</date>
+    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2020-09/2004_CAL_USC_WIDE_CROP.jpg?itok=qZz9K01n" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251005020009 +0000" stop="20251005040008 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251006145727 +0000" stop="20251006170013 +0000">
     <title>Football Encore</title>
-    <sub-title>2008 USC at Oregon State</sub-title>
-    <episode-num system="onscreen">S06E80</episode-num>
-    <desc>Jacquizz Rodgers ran for 186 yards and 2 TDs and Oregon State upset Mark Sanchez and the top-ranked Trojans.</desc>
-    <date>20240523</date>
-    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2020-08/FAST%2520channel_REC%25201920x1080.png?itok=SFFyjOiy" />
+    <sub-title>2004 USC at UCLA</sub-title>
+    <episode-num system="onscreen">S06E35</episode-num>
+    <desc>On This Date: Trojans punch their ticket to the Orange bowl with a 29-24 win over UCLA.</desc>
+    <date>20220820</date>
+    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2021-11/2004_USC_at_UCLA%25201920x1080.jpg?itok=RIDOQ86P" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251005040008 +0000" stop="20251005060008 +0000">
-    <title>Football Encore</title>
-    <sub-title>2000 Oregon at Oregon State</sub-title>
-    <episode-num system="onscreen">S03E05</episode-num>
-    <desc>A top-10 clash between rivals as the #8 Beavers hosts #5 Oregon with the Pac-10 title on the line.</desc>
-    <date>20240523</date>
-    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2020-08/FAST%2520channel_REC%25201920x1080.png?itok=SFFyjOiy" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251005060008 +0000" stop="20251005080013 +0000">
-    <title>Football Encore</title>
-    <sub-title>2004 Oregon at Oregon State</sub-title>
-    <episode-num system="onscreen">S05E81</episode-num>
-    <desc>Derek Anderson's 4 TD's make Oregon State Beavers bowl-eligible in big win over Oregon (11/20/04)</desc>
-    <date>20041120</date>
-    <icon src="https://pac-12.com/images/2025/2/24/PAC_12_Encore_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251005080013 +0000" stop="20251005084026 +0000">
-    <title>Y-Option</title>
-    <sub-title>Scott Barnes</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Athletic Director Scott Barnes reflects on the past two (2) years for Oregon State and the Pac-12</desc>
-    <date>20250918</date>
-    <icon src="https://pac-12.com/images/2025/3/16/Y_Option_1920_1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251005084026 +0000" stop="20251005091522 +0000">
-    <title>Y-Option</title>
-    <sub-title>Dave Revsine</sub-title>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <desc>Big Ten Network Host Dave Revsine discusses the Big Ten's evolution and the Network's beginnings</desc>
-    <date>20251004</date>
-    <icon src="https://pac-12.com/images/2025/3/16/Y_Option_1920_1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251005091522 +0000" stop="20251005101233 +0000">
-    <title>Football in 60</title>
-    <sub-title>2018 Washington State at Oregon State</sub-title>
-    <episode-num system="onscreen">S07E34</episode-num>
-    <desc>Gardner Minshew throws for 430 yards and 5 touchdowns to beat Oregon State (10/6/18).</desc>
-    <date>20240529</date>
-    <icon src="https://d2jrooo0uvo7kr.cloudfront.net/pac_default.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251005101233 +0000" stop="20251005110536 +0000">
-    <title>2018 Washington State at Stanford</title>
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251006170013 +0000" stop="20251006190206 +0000">
+    <title>2004 Notre Dame at USC</title>
     <category>Movie</category>
-    <desc>Gardner Minshew engineers a comeback win at Stanford with two crucial 4th-quarter touchdowns. (Oct. 27, 2018)</desc>
-    <date>20380119</date>
+    <desc>Matt Leinart (5 TDs, 400 yards passing) shines for #1 USC in win over Notre Dame en route to BCS (11/27/04).</desc>
+    <date>20221114</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/d3fee6f9-a7bd-458b-8866-4594422f23ae/P12_Insider_2000x3000_-_Sean_Kent.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251005110536 +0000" stop="20251005120020 +0000">
-    <title>Football in 60</title>
-    <sub-title>2018 Washington State at Colorado</sub-title>
-    <episode-num system="onscreen">S07E64</episode-num>
-    <desc>Gardner Minshew leads #10 Washington State to critical win at Colorado (11/10/18).</desc>
-    <date>20240529</date>
-    <icon src="https://d2jrooo0uvo7kr.cloudfront.net/pac_default.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251006190206 +0000" stop="20251006210240 +0000">
+    <title>Football Encore</title>
+    <sub-title>2005 UCLA at USC</sub-title>
+    <episode-num system="onscreen">S05E65</episode-num>
+    <desc>Reggie Bush rushed for 260 yards and two touchdowns as the Trojans ran over UCLA (12/3/2005)</desc>
+    <date>20220214</date>
+    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2022-02/Reggie%2520Bush%2520vs%2520UCLA.jpg?itok=MeuJv0B-" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251005120020 +0000" stop="20251005130000 +0000">
-    <title>2018 Arizona at Washington State</title>
-    <category>Movie</category>
-    <desc>Gardner Minshew throws for seven touchdowns in a rout of Arizona at Martin Stadium. (Nov. 17, 2018)</desc>
-    <date>20380119</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/d3fee6f9-a7bd-458b-8866-4594422f23ae/P12_Insider_2000x3000_-_Sean_Kent.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251005140028 +0000" stop="20251005143555 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251006210240 +0000" stop="20251006212054 +0000">
     <title>The Climb</title>
     <sub-title>San Diego State Football</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -102,76 +121,40 @@
     <icon src="https://pac-12.com/images/2025/8/27/SDSU_The_Climb_41.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251005143555 +0000" stop="20251005153740 +0000">
-    <title>Football in 60</title>
-    <sub-title>2024 San Jose State at Washington State</sub-title>
-    <episode-num system="onscreen">S13E04</episode-num>
-    <desc>John Mateer leads comeback Cougars to wild 4th quarter comeback, 2OT win 'After Dark'</desc>
-    <date>20240920</date>
-    <icon src="http://pac-12.com/images/2025/8/1/9_20_24_CFB_SJSU_WSU.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251005153740 +0000" stop="20251005163657 +0000">
-    <title>Football Postgame Podium</title>
-    <sub-title>Idaho at Washington State (8/30/25)</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Podium reaction from Gesa Field following Idaho at Washington State football (8/30/25)</desc>
-    <date>20250830</date>
-    <icon src="https://pac-12.com/images/2025/8/30/CFB_WSU_Postgame_083025_96.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251005163657 +0000" stop="20251005171239 +0000">
-    <title>Y-Option</title>
-    <sub-title>Mike Yam</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251006212054 +0000" stop="20251006220038 +0000">
+    <title>The C.L.I.M.B.</title>
+    <sub-title>Boise State Football</sub-title>
     <episode-num system="onscreen">S02E01</episode-num>
-    <desc>NFL Network and The CW College Football Host Mike Yam on covering Bill Belichick in the ACC and the new Pac-12</desc>
-    <date>20250822</date>
-    <icon src="https://pac-12.com/images/2025/3/16/Y_Option_1920_1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251005171239 +0000" stop="20251005181125 +0000">
-    <title>Football Postgame Podium</title>
-    <sub-title>Idaho at Washington State (8/30/25)</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Podium reaction from Gesa Field following Idaho at Washington State football (8/30/25)</desc>
+    <desc>An all-access look into the 2025 Boise State Bronco Football Camp</desc>
     <date>20250830</date>
-    <icon src="https://pac-12.com/images/2025/8/30/CFB_WSU_Postgame_083025_96.jpg" />
+    <icon src="https://pac-12.com/images/2025/8/29/The_C_L_I_M_B_Boise_State.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251005190339 +0000" stop="20251005203448 +0000">
-    <title>Gymnastics</title>
-    <sub-title>2022 UCLA at Oregon State</sub-title>
-    <episode-num system="onscreen">S10E05</episode-num>
-    <desc>Jade Carey (39.800) shatters all-around program-record 39.750 (Chari Knight, 1993) in front of Beaver Nation</desc>
-    <date>20220123</date>
-    <icon src="https://pac-12.com/images/2025/7/26/1_23_22_WGY_UCLA_OSU.png" />
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251006220038 +0000" stop="20251006231051 +0000">
+    <title>Football in 60</title>
+    <sub-title>2017 Boise State at Washington State</sub-title>
+    <episode-num system="onscreen">S06E02</episode-num>
+    <desc>Wild 3 OT game as Jamal Morrow seals win for #20 Cougs over Boise State. (9/9/2017)</desc>
+    <date>20210725</date>
+    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2021-07/2017%2520Boise%2520State%2520AT%2520WSU%2520%255B1920%2520x%25201080%2520-%2520Uncredited%255D.jpg?itok=QuGLH1sX" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251005203448 +0000" stop="20251005220031 +0000">
-    <title>Olympic Sports Encore</title>
-    <sub-title>Swimming &amp; Diving: 2017 USC at Stanford</sub-title>
-    <episode-num system="onscreen">S05E02</episode-num>
-    <desc>Simone Manuel &amp; Lia Neal 1-2 in 100 free.</desc>
-    <date>20220211</date>
-    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2022-02/Olympic_Encore_2017_USC%2520at%2520Stanford%25201920x1080.jpeg?itok=okRDpAa5" />
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251006231051 +0000" stop="20251007001052 +0000">
+    <title>Football in 60</title>
+    <sub-title>2024 Colorado State at Oregon State</sub-title>
+    <episode-num system="onscreen">S13E06</episode-num>
+    <desc>Future Pac-12 foes Oregon State and Colorado State square off at Reser Stadium (10/5/24)</desc>
+    <date>20241005</date>
+    <icon src="https://pac-12.com/images/2025/7/29/10_5_24_CFB_CSU_OSU.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251005220031 +0000" stop="20251006000402 +0000">
-    <title>Olympic Sports Encore</title>
-    <sub-title>2017 Pac-12 Women's Swimming &amp; Diving Championships (Day 4)</sub-title>
-    <episode-num system="onscreen">S05E04</episode-num>
-    <desc>Stanford wins the 2018 Pac-12 Women's Swimming Championships. (3/25/17)</desc>
-    <date>20210715</date>
-    <icon src="https://pac-12.com/s3/files/styles/crop_16_9_hd_1080/s3/2021-07/2018%2520WSM%2520Championships%2520%255B1920%2520x%25201080%2520-%2520Uncredited%255D.jpg?itok=0grMK_R3" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251006000402 +0000" stop="20251006013336 +0000">
-    <title>Gymnastics</title>
-    <sub-title>2023 Oregon State at Stanford</sub-title>
-    <episode-num system="onscreen">S11E14</episode-num>
-    <desc>Jade Carey Perfect 10s on bars and floor; Beavers program record 198.075 at Maples Pavilion (2/24/23)</desc>
-    <date>20230224</date>
-    <icon src="https://pac-12.com/images/2025/7/26/2_24_23_WGY_OSU_STAN.png" />
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251007001052 +0000" stop="20251007011629 +0000">
+    <title>Football in 60</title>
+    <sub-title>2024 Washington State at Oregon State</sub-title>
+    <episode-num system="onscreen">S13E11</episode-num>
+    <desc>The Beavers and Cougars battle back-and-forth 'After Dark' in Corvallis (11/23/24)</desc>
+    <date>20241123</date>
+    <icon src="https://pac-12.com/images/2025/7/29/11_23_24_CFB_WSU_OSU.png" />
   </programme>
   
 </tv>

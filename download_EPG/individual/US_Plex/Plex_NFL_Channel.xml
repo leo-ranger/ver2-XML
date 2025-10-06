@@ -5,130 +5,57 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/a7617b69-6d23-46d0-8e8e-e4ec9fa29d59/NFL_WHITE.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251005010100 +0000" stop="20251005014800 +0000">
-    <title>NFL RedZone</title>
-    <sub-title>Week 4</sub-title>
-    <episode-num system="onscreen">S2025E05</episode-num>
-    <desc>Join Scott Hanson for live coverage of all the best NFL action from across the country and every touchdown from every game.</desc>
-    <date>20250928</date>
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251006010000 +0000" stop="20251006033000 +0000">
+    <title>NFL GameCenter Live</title>
+    <sub-title>NFL GameCenter Live</sub-title>
+    <desc>Get NFL score updates, highlights, news and more for every game.</desc>
+    <date>20251006</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251005014800 +0000" stop="20251005020500 +0000">
-    <title>NFL Media Originals</title>
-    <sub-title>Next Gen Stats Top Plays of September</sub-title>
-    <episode-num system="onscreen">S2025E03</episode-num>
-    <desc>Next Gen Stats dives into the stats of the top plays of September.</desc>
-    <date>20251003</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251005020500 +0000" stop="20251005041000 +0000">
-    <title>Weekly Game Previews</title>
-    <sub-title>Week 5</sub-title>
-    <desc>This weekly series breaks down what you need to know for every NFL matchup ahead of Week 5.</desc>
-    <date>20251001</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251005041000 +0000" stop="20251005044100 +0000">
-    <title>NFL Fantasy Football Show</title>
-    <sub-title>NFL Fantasy Football Show</sub-title>
-    <desc>Marcas Grant and his guests provide detailed fantasy football analysis combining in-depth stats and film study ahead of Week 5.</desc>
-    <date>20241002</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251005044100 +0000" stop="20251005054100 +0000">
-    <title>NFL GameDay View</title>
-    <sub-title>NFL GameDay View</sub-title>
-    <desc>Hosts Patrick Claybon, Cynthia Frelund, Gregg Rosenthal provide analysis and predictions, also receive insight from reporters around the country and in-depth statistical analysis.</desc>
-    <date>20251005</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251005054100 +0000" stop="20251005064300 +0000">
-    <title>NFL Daily</title>
-    <sub-title>NFL Daily</sub-title>
-    <desc>Gregg Rosenthal and a rotating crew of elite NFL Media co-hosts, including Patrick Claybon, Colleen Wolfe, Steve Wyche, Nick Shook and Jourdan Rodrigue of The Athletic get viewers caught up daily on all the NFL news and analysis.</desc>
-    <date>20251005</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251005064300 +0000" stop="20251005071400 +0000">
-    <title>NFL Fantasy Football Show</title>
-    <sub-title>NFL Fantasy Football Show</sub-title>
-    <desc>Marcas Grant and his guests provide detailed fantasy football analysis combining in-depth stats and film study ahead of Week 5.</desc>
-    <date>20241002</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251005071400 +0000" stop="20251005081400 +0000">
-    <title>NFL Daily</title>
-    <sub-title>NFL Daily</sub-title>
-    <desc>Gregg Rosenthal and a rotating crew of elite NFL Media co-hosts, including Patrick Claybon, Colleen Wolfe, Steve Wyche, Nick Shook and Jourdan Rodrigue of The Athletic get viewers caught up daily on all the NFL news and analysis.</desc>
-    <date>20251005</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251005081400 +0000" stop="20251005084400 +0000">
-    <title>NFL Fantasy Football Show</title>
-    <sub-title>NFL Fantasy Football Show</sub-title>
-    <desc>Marcas Grant and his guests provide detailed fantasy football analysis combining in-depth stats and film study ahead of Week 5.</desc>
-    <date>20241002</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251005084400 +0000" stop="20251005090600 +0000">
-    <title>NFL Throwback</title>
-    <sub-title>Greatest Walk-Off Touchdowns</sub-title>
-    <episode-num system="onscreen">S2022E51</episode-num>
-    <desc>From 0 to 99 yards, featuring a compilation of the greatest walk-off touchdowns in NFL history.</desc>
-    <date>20221202</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251005090600 +0000" stop="20251005102600 +0000">
-    <title>NFL Highlights</title>
-    <sub-title>Top 10 Games of September</sub-title>
-    <desc>Highlights from the top 10 games played during September of the 2025 NFL season.</desc>
-    <date>20250930</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251005102600 +0000" stop="20251005111100 +0000">
-    <title>NFL Highlights</title>
-    <sub-title>Top Catches of September</sub-title>
-    <desc>Highlights of the top catches of September during the 2025 NFL season.</desc>
-    <date>20251001</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251005111100 +0000" stop="20251005113600 +0000">
-    <title>NFL Highlights</title>
-    <sub-title>Every Interception of September</sub-title>
-    <desc>Highlights of every interception of September during the 2025 NFL season.</desc>
-    <date>20250930</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251005113600 +0000" stop="20251005123600 +0000">
-    <title>NFL GameDay View</title>
-    <sub-title>NFL GameDay View</sub-title>
-    <desc>Hosts Patrick Claybon, Cynthia Frelund, Gregg Rosenthal provide analysis and predictions, also receive insight from reporters around the country and in-depth statistical analysis.</desc>
-    <date>20251005</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251005123600 +0000" stop="20251005130600 +0000">
-    <title>NFL Fantasy Football Show</title>
-    <sub-title>NFL Fantasy Football Show</sub-title>
-    <desc>Marcas Grant and his guests provide detailed fantasy football analysis combining in-depth stats and film study ahead of Week 5.</desc>
-    <date>20241002</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251005130600 +0000" stop="20251005132400 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251006033000 +0000" stop="20251006070600 +0000">
     <title>Weekly Game Recaps</title>
-    <sub-title>49ers vs. Rams Highlights - Week 5</sub-title>
-    <episode-num system="onscreen">S2025E47</episode-num>
-    <desc>Highlights from the matchup between the San Francisco 49ers against the Los Angeles Rams in Week 5 of the 2025 NFL season.</desc>
-    <date>20251002</date>
+    <sub-title>Weekly Game Recaps</sub-title>
+    <desc>Highlights and interviews from the NFL.</desc>
+    <date>20251006</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251005132400 +0000" stop="20251005152900 +0000">
-    <title>Weekly Game Previews</title>
-    <sub-title>Week 5</sub-title>
-    <desc>This weekly series breaks down what you need to know for every NFL matchup ahead of Week 5.</desc>
-    <date>20251001</date>
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251006070600 +0000" stop="20251006115400 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Weekly Game Recaps</sub-title>
+    <desc>Highlights and interviews from the NFL.</desc>
+    <date>20251006</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251005152900 +0000" stop="20251005170000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251006115400 +0000" stop="20251006162400 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Weekly Game Recaps</sub-title>
+    <desc>Highlights and interviews from the NFL.</desc>
+    <date>20251006</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251006162400 +0000" stop="20251006201800 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Weekly Game Recaps</sub-title>
+    <desc>Highlights and interviews from the NFL.</desc>
+    <date>20251006</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251006201800 +0000" stop="20251006205100 +0000">
+    <title>NFL Throwback</title>
+    <sub-title>The Best Player From Every State</sub-title>
+    <episode-num system="onscreen">S2024E50</episode-num>
+    <desc>From Alabama to Wyoming, find out who tops as the list as the best player from every state.</desc>
+    <date>20240912</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251006205100 +0000" stop="20251006234500 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2024: Buccaneers vs. Chiefs - Week 9</sub-title>
+    <desc>Kansas City Chiefs quarterback Patrick Mahomes capped a big day with 291 yards passing and three touchdowns on a gimpy ankle. Mahomes went 5 for 5 on the only drive of overtime.</desc>
+    <date>20250723</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251006234500 +0000" stop="20251007001600 +0000">
     <title>NFL GameDay Preview</title>
     <sub-title>Week 5</sub-title>
     <episode-num system="onscreen">S2025E05</episode-num>
@@ -136,18 +63,11 @@
     <date>20251002</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251005170000 +0000" stop="20251006010000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251007001600 +0000" stop="20251007033100 +0000">
     <title>NFL GameCenter Live</title>
     <sub-title>NFL GameCenter Live</sub-title>
-    <desc>Get NFL score updates, highlights, news and more for every game.</desc>
-    <date>20251005</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251006010000 +0000" stop="20251006033000 +0000">
-    <title>NFL GameCenter Live</title>
-    <sub-title>NFL GameCenter Live</sub-title>
-    <desc>Get NFL score updates, highlights, news and more for every game.</desc>
-    <date>20251006</date>
+    <desc>Get NFL score updates, highlights, news and more from Week 5.</desc>
+    <date>20221009</date>
   </programme>
   
 </tv>
