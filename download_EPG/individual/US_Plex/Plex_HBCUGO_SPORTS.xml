@@ -5,13 +5,30 @@
     <icon src="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/ef631804cdf478bca5ba96eaee4bc241.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251014003000 +0000" stop="20251014013000 +0000">
-    <title>Blackest Questions</title>
-    <sub-title>Leslie Jones</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251015003000 +0000" stop="20251015013000 +0000">
+    <title>Masters of the Game</title>
+    <sub-title>Tabitha Brown</sub-title>
+    <desc>Touré interviews living legends about their craft, brilliance, and road to become successful masters.</desc>
     <date>20250308</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251014013000 +0000" stop="20251014023000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251015013000 +0000" stop="20251015023000 +0000">
+    <title>Masters of the Game</title>
+    <sub-title>Robert F. Smith</sub-title>
+    <desc>Touré interviews living legends about their craft, brilliance, and road to become successful masters.</desc>
+    <date>20250712</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251015023000 +0000" stop="20251015033000 +0000">
+    <title>Spade a Spade</title>
+    <sub-title>Mental Health</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Exploring the oft-ignored importance of mental health, over a spirited game of Spades.</desc>
+    <date>20220924</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8d611cca09a189bcf27bbd03018937df.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251015033000 +0000" stop="20251015043000 +0000">
     <title>Spade a Spade</title>
     <sub-title>Role Models</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
@@ -20,105 +37,91 @@
     <icon src="https://metadata-static.plex.tv/4/gracenote/4289e86ed861de697be9fdb7eadeb4d3.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251014023000 +0000" stop="20251014030000 +0000">
-    <title>Earned Not Given</title>
-    <sub-title>Pretty Vee</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <date>20240727</date>
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251015043000 +0000" stop="20251015050000 +0000">
+    <title>Football Legends</title>
+    <sub-title>Football Legends</sub-title>
+    <date>20251015</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251014030000 +0000" stop="20251014053000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251015050000 +0000" stop="20251015080000 +0000">
+    <title>College Football</title>
+    <sub-title>CIAA Championship: Virginia Union vs. Virginia State</sub-title>
+    <desc>From Salem Stadium in Salem, Va.</desc>
+    <date>20241116</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251015080000 +0000" stop="20251015100000 +0000">
+    <title>College Basketball</title>
+    <sub-title>Prairie View A&amp;M at Texas Southern</sub-title>
+    <desc>From Health and Physical Education Arena in Houston, Tex.</desc>
+    <date>20250201</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251015100000 +0000" stop="20251015110000 +0000">
+    <title>Spade a Spade</title>
+    <sub-title>Women in Sports</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>A stellar group of athletes discuss their careers and the state of women's sports in society over a game of Spades.</desc>
+    <date>20220923</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/ced654163cb6ff5dfc05c19060873153.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251015110000 +0000" stop="20251015120000 +0000">
+    <title>Spade a Spade</title>
+    <sub-title>Black Beauty</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Beauty and the many ways it is expressed and celebrated in the Black community.</desc>
+    <date>20220923</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d3ed442af701e9cde0bd135846a012c1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251015120000 +0000" stop="20251015140000 +0000">
+    <title>Women's College Basketball</title>
+    <sub-title>Miles at Tuskegee</sub-title>
+    <desc>From James Center Arena in Tuskegee, Ala.</desc>
+    <date>20250208</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251015140000 +0000" stop="20251015160000 +0000">
+    <title>Women's College Basketball</title>
+    <sub-title>Prairie View A&amp;M at Texas Southern</sub-title>
+    <desc>From Health and Physical Education Arena in Houston, Tex.</desc>
+    <date>20250201</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251015160000 +0000" stop="20251015180000 +0000">
+    <title>Women's College Basketball</title>
+    <sub-title>Fayetteville State at Claflin</sub-title>
+    <desc>From Tullis Arena in Orangeburg, S.C.</desc>
+    <date>20250125</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251015180000 +0000" stop="20251015200000 +0000">
+    <title>Women's College Basketball</title>
+    <sub-title>Virginia Union at Virginia State</sub-title>
+    <desc>Women's college basketball coverage.</desc>
+    <date>20250118</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251015200000 +0000" stop="20251015220000 +0000">
     <title>Women's College Basketball</title>
     <sub-title>Jackson State at Alcorn State</sub-title>
     <desc>From Davey Whitney Complex in Lorman, Miss.</desc>
     <date>20250104</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251014053000 +0000" stop="20251014073000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251015220000 +0000" stop="20251016003000 +0000">
     <title>Women's College Basketball</title>
     <sub-title>Albany State at Fort Valley State</sub-title>
     <desc>Women's college basketball coverage.</desc>
     <date>20250222</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251014073000 +0000" stop="20251014083000 +0000">
-    <title>Big Daddy Kane</title>
-    <sub-title>Big Daddy Kane</sub-title>
-    <date>20251014</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251014083000 +0000" stop="20251014090000 +0000">
-    <title>Tale of the Tape</title>
-    <sub-title>Tale of the Tape</sub-title>
-    <desc>A documentary on the cultural foundation behind mixtapes.</desc>
-    <date>20251014</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251014090000 +0000" stop="20251014100000 +0000">
-    <title>TSU Master Class</title>
-    <sub-title>Jermaine Dupri</sub-title>
-    <desc>Jermaine Dupri has been successful as a rapper, songwriter, record producer, entrepreneur and DJ.</desc>
-    <date>20221112</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251014100000 +0000" stop="20251014130000 +0000">
-    <title>College Football</title>
-    <sub-title>Arkansas-Pine Bluff at Grambling State</sub-title>
-    <desc>From Eddie Robinson Stadium in Grambling, La.</desc>
-    <date>20241019</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251014130000 +0000" stop="20251014173000 +0000">
-    <title>College Football</title>
-    <sub-title>Florida Classic 2004</sub-title>
-    <episode-num system="onscreen">S2023E44</episode-num>
-    <desc>Classic football games.</desc>
-    <date>20230812</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251014173000 +0000" stop="20251014180000 +0000">
-    <title>HBCU-Go Time</title>
-    <sub-title>HBCU-Go Time</sub-title>
-    <date>20251014</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251014180000 +0000" stop="20251014190000 +0000">
-    <title>Blackest Questions</title>
-    <sub-title>Stephen A. Smith</sub-title>
-    <date>20250503</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251014190000 +0000" stop="20251014200000 +0000">
-    <title>Blackest Questions</title>
-    <sub-title>Leslie Jones</sub-title>
-    <date>20250308</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251014200000 +0000" stop="20251014220000 +0000">
-    <title>Gladiators of Education: The Making of I Will Graduate Day</title>
-    <sub-title>Gladiators of Education: The Making of I Will Graduate Day</sub-title>
-    <desc>A jubilant celebration dedicated to inspiring youth to relentlessly pursue their dreams and aspirations.</desc>
-    <date>20251014</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251014220000 +0000" stop="20251015000000 +0000">
-    <title>Conversations For Change</title>
-    <sub-title>Conversations For Change</sub-title>
-    <date>20251014</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251015000000 +0000" stop="20251015003000 +0000">
-    <title>An Interview With Bianca Belair &amp; Montez Ford</title>
-    <sub-title>An Interview With Bianca Belair &amp; Montez Ford</sub-title>
-    <desc>Bianca Belair and Montez Ford discuss their wrestling careers and marriage.</desc>
-    <date>20251015</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251015003000 +0000" stop="20251015013000 +0000">
-    <title>Masters of the Game</title>
-    <sub-title>Tabitha Brown</sub-title>
-    <desc>Touré interviews living legends about their craft, brilliance, and road to become successful masters.</desc>
-    <date>20250308</date>
+<programme channel="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" start="20251016003000 +0000" stop="20251016023000 +0000">
+    <title>Women's College Basketball</title>
+    <sub-title>Shaw at Johnson C. Smith</sub-title>
+    <desc>Women's college basketball coverage.</desc>
+    <date>20250215</date>
   </programme>
   
 </tv>
