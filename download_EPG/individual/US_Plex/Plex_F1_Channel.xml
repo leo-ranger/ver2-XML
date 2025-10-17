@@ -5,39 +5,103 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/df07efa9-4dbf-470b-86d6-c12a4a43d18c/F1Channel_1500x1000_for_dark_bgd_-_Eddie_Hunter-Higgins.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251015235000 +0000" stop="20251016022600 +0000">
-    <title>F1 2018 United States Grand Prix</title>
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251016213400 +0000" stop="20251017012600 +0000">
+    <title>F1 2024 Monaco Grand Prix</title>
     <category>Movie</category>
-    <desc>Verstappen wins in Austin! A thrilling race with strategy battles, Verstappen’s dominance seals the win!</desc>
-    <date>20250914</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_002.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251016022600 +0000" stop="20251016024500 +0000">
-    <title>2003 United States Grand Prix Highlights</title>
-    <category>Movie</category>
-    <desc>Schumacher wins the 2003 US GP, battling through traffic and pressure for a commanding victory.</desc>
-    <date>20240801</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_004.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251016024500 +0000" stop="20251016051500 +0000">
-    <title>F1 2017 US Grand Prix</title>
-    <category>Movie</category>
-    <desc>Hamilton conquers COTA with style, holding off Vettel as title glory looms in a thrilling 2017 US Grand Prix!</desc>
-    <date>20240801</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_003.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251016051500 +0000" stop="20251016063100 +0000">
-    <title>1982 In Review: USA West Grand Prix</title>
-    <category>Movie</category>
-    <desc>Lauda returns to glory in Long Beach as he fends off Rosberg in a fierce fight through tight city streets.</desc>
-    <date>20240930</date>
+    <desc>Leclerc takes a stunning victory in Monaco, holding off fierce rivals in a rain-soaked, dramatic race!</desc>
+    <date>20240528</date>
     <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_006.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251016063100 +0000" stop="20251016071200 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251017012600 +0000" stop="20251017015000 +0000">
+    <title>Inside Story: Leclerc thrills the Tifosi in Monza stunner</title>
+    <category>Movie</category>
+    <desc>An epic masterclass from Charles Leclerc at the Temple of Speed.</desc>
+    <date>20240915</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_002.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251017015000 +0000" stop="20251017022700 +0000">
+    <title>F1 Race in 30 - Bahrain 2022</title>
+    <category>Movie</category>
+    <desc>30 minute recap of the 2022 Bahrain Grand Prix, Ferrari make the perfect start to the 2022 season.</desc>
+    <date>20240828</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_003.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251017022700 +0000" stop="20251017030600 +0000">
+    <title>F1 Race in 30 - Austria 2022</title>
+    <category>Movie</category>
+    <desc>30 minute recap of the 2022 Austrian Grand Prix, Leclerc holds on to beat Verstappen.</desc>
+    <date>20250330</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_003.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251017030600 +0000" stop="20251017034400 +0000">
+    <title>F1 Race in 30 - United States 2024</title>
+    <category>Movie</category>
+    <desc>30 minute recap of the 2024 USA Grand Prix, Leclerc heads superb Ferrari 1-2.</desc>
+    <date>20241021</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_003.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251017034400 +0000" stop="20251017042000 +0000">
+    <title>F1 Race in 30 - Monaco 2024</title>
+    <category>Movie</category>
+    <desc>30 minute recap of the 2024 Monaco Grand Prix, Verstappen masters Monaco in rain-soaked chaos!</desc>
+    <date>20240527</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_004.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251017042000 +0000" stop="20251017063600 +0000">
+    <title>F1 2019 Belgian Grand Prix</title>
+    <category>Movie</category>
+    <desc>Charles Leclerc controls 2019 Belgian Grand Prix to secure first F1 win.</desc>
+    <date>20241213</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_004.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251017063600 +0000" stop="20251017085700 +0000">
+    <title>F1 2019 British Grand Prix</title>
+    <category>Movie</category>
+    <desc>Hamilton wins his home race at Silverstone, fending off Bottas in a tense 2019 British GP showdown!</desc>
+    <date>20250330</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_006.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251017085700 +0000" stop="20251017112000 +0000">
+    <title>F1 2019 Bahrain Grand Prix</title>
+    <category>Movie</category>
+    <desc>Leclerc leads a thrilling Bahrain GP but heartbreak strikes as Hamilton snatches victory in a stunning finale!</desc>
+    <date>20241126</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_002.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251017112000 +0000" stop="20251017140200 +0000">
+    <title>F1 2019 Monaco Grand Prix</title>
+    <category>Movie</category>
+    <desc>Lewis Hamilton triumphs in a tense Monaco GP, holding off Vettel and Verstappen for the 2019 win!</desc>
+    <date>20240201</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_004.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251017140200 +0000" stop="20251017161300 +0000">
+    <title>F1 2019 Austrian Grand Prix</title>
+    <category>Movie</category>
+    <desc>Verstappen storms from behind, duels Leclerc fiercely, and wins a breathtaking 2019 Austrian Grand Prix!</desc>
+    <date>20241130</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_001.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251017161300 +0000" stop="20251017184500 +0000">
+    <title>F1 2019 German Grand Prix</title>
+    <category>Movie</category>
+    <desc>Chaos reigns in Hockenheim: wet conditions, spins, and Verstappen wins as Ferrari's nightmare strikes!</desc>
+    <date>20241119</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_005.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251017184500 +0000" stop="20251017192500 +0000">
     <title>F1 Race in 30 - United States 2019</title>
     <category>Movie</category>
     <desc>30 minute recap of the 2019 USA Grand Prix, Bottas wins as Hamilton secures historic 6th F1 title.</desc>
@@ -45,59 +109,35 @@
     <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_001.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251016071200 +0000" stop="20251016093100 +0000">
-    <title>F1 2018 Australian Grand Prix</title>
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251017192500 +0000" stop="20251017202900 +0000">
+    <title>2024 United States Grand Prix - F1 Sprint</title>
     <category>Movie</category>
-    <desc>Vettel snatches shock win in Melbourne after a Virtual Safety Car twist stuns Hamilton at 2018 season opener!</desc>
-    <date>20241126</date>
+    <desc>Leclerc wins the Austin Sprint, holding off Verstappen in a thrilling battle that keeps fans on edge!</desc>
+    <date>20241020</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_004.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251017202900 +0000" stop="20251017210900 +0000">
+    <title>Post-Sprint Show - United States 2024</title>
+    <category>Movie</category>
+    <desc>#F1Live</desc>
+    <date>20241020</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_001.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251017210900 +0000" stop="20251017224600 +0000">
+    <title>2024 United States Grand Prix - Qualifying</title>
+    <category>Movie</category>
+    <desc>Leclerc snatches pole in Austin, edging out Verstappen in a thrilling, high-speed qualifying duel!</desc>
+    <date>20241021</date>
     <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_005.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251016093100 +0000" stop="20251016115000 +0000">
-    <title>F1 2019 Belgian Grand Prix</title>
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251017224600 +0000" stop="20251017232600 +0000">
+    <title>Post Qualifying Show - United States 2024</title>
     <category>Movie</category>
-    <desc>Charles Leclerc controls 2019 Belgian Grand Prix to secure first F1 win.</desc>
-    <date>20241213</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_004.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251016115000 +0000" stop="20251016143900 +0000">
-    <title>F1 2024 United States Grand Prix</title>
-    <category>Movie</category>
-    <desc>Leclerc triumphs in Austin with a masterful drive, fending off Verstappen in a thrilling, chaotic race!</desc>
-    <date>20241022</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_002.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251016143900 +0000" stop="20251016165900 +0000">
-    <title>F1 2024 Italian Grand Prix</title>
-    <category>Movie</category>
-    <desc>Verstappen dominates Monza, but chaos erupts behind as strategy and fierce battles heat up the race!</desc>
-    <date>20240902</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_004.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251016165900 +0000" stop="20251016191900 +0000">
-    <title>F1 2019 Belgian Grand Prix</title>
-    <category>Movie</category>
-    <desc>Charles Leclerc controls 2019 Belgian Grand Prix to secure first F1 win.</desc>
-    <date>20241213</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_004.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251016191900 +0000" stop="20251016213400 +0000">
-    <title>F1 2019 Italian Grand Prix</title>
-    <category>Movie</category>
-    <desc>Leclerc stuns with a thrilling victory at Monza, Ferrari’s first since 2010, as Hamilton fights back!</desc>
-    <date>20240716</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_005.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251016213400 +0000" stop="20251017012600 +0000">
-    <title>F1 2024 Monaco Grand Prix</title>
-    <category>Movie</category>
-    <desc>Leclerc takes a stunning victory in Monaco, holding off fierce rivals in a rain-soaked, dramatic race!</desc>
-    <date>20240528</date>
+    <desc>Qualifying reaction and analysis from the F1 Live team.</desc>
+    <date>20241021</date>
     <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_006.png" />
   </programme>
   
