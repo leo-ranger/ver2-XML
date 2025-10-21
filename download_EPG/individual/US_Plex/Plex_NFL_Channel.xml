@@ -5,7 +5,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/a7617b69-6d23-46d0-8e8e-e4ec9fa29d59/NFL_WHITE.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251020010000 +0000" stop="20251020033000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251020230000 +0000" stop="20251021050000 +0000">
     <title>NFL GameCenter Live</title>
     <sub-title>NFL GameCenter Live</sub-title>
     <episode-num system="onscreen">S2025E07</episode-num>
@@ -13,63 +13,222 @@
     <date>20251016</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251020033000 +0000" stop="20251020070600 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251021050000 +0000" stop="20251021060000 +0000">
+    <title>The Insiders</title>
+    <sub-title>The Insiders</sub-title>
+    <desc>NFL Media Insiders Ian Rapoport, Mike Garafolo, Tom Pelissero, and Judy Battista deliver the inside scoop and latest storylines of Week 7 during the 2025 NFL season.</desc>
+    <date>20250904</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251021060000 +0000" stop="20251021063000 +0000">
     <title>Weekly Game Recaps</title>
     <sub-title>Weekly Game Recaps</sub-title>
     <desc>Highlights and interviews from the NFL.</desc>
-    <date>20251020</date>
+    <date>20251021</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251020070600 +0000" stop="20251020110000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251021063000 +0000" stop="20251021064600 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Packers vs. Cardinals Highlights - Week 7</sub-title>
+    <episode-num system="onscreen">S2025E77</episode-num>
+    <desc>Highlights from the Week 7 matchup between the Green Bay Packers and the Arizona Cardinals during the 2025 NFL season.</desc>
+    <date>20251019</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251021064600 +0000" stop="20251021070100 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Commanders vs. Cowboys Highlights - Week 7</sub-title>
+    <episode-num system="onscreen">S2025E78</episode-num>
+    <desc>Highlights from the Week 7 matchup between the Washington Commanders and the Dallas Cowboys during the 2025 NFL season.</desc>
+    <date>20251019</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251021070100 +0000" stop="20251021071900 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Steelers vs. Bengals Highlights - Week 7</sub-title>
+    <episode-num system="onscreen">S2025E75</episode-num>
+    <desc>Highlights from the Week 7 matchup between the Pittsburgh Steelers and the Cincinnati Bengals during the 2025 NFL season.</desc>
+    <date>20251017</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251021071900 +0000" stop="20251021073700 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Rams vs. Jaguars Highlights - Week 7</sub-title>
+    <episode-num system="onscreen">S2025E80</episode-num>
+    <desc>Highlights from the Week 7 matchup between the Los Angeles Rams and the Jacksonville Jaguars in London, England during the 2025 NFL season.</desc>
+    <date>20251019</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251021073700 +0000" stop="20251021075500 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Saints vs. Bears Highlights - Week 7</sub-title>
+    <episode-num system="onscreen">S2025E81</episode-num>
+    <desc>Highlights from the Week 7 matchup between the New Orleans Saints and the Chicago Bears during the 2025 NFL season.</desc>
+    <date>20251019</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251021075500 +0000" stop="20251021081300 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Dolphins vs. Browns Highlights - Week 7</sub-title>
+    <episode-num system="onscreen">S2025E82</episode-num>
+    <desc>Highlights from the Week 7 matchup between the Miami Dolphins and the Cleveland Browns during the 2025 NFL season.</desc>
+    <date>20251019</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251021081300 +0000" stop="20251021083100 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Raiders vs. Chiefs Highlights - Week 7</sub-title>
+    <episode-num system="onscreen">S2025E83</episode-num>
+    <desc>Highlights from the Week 7 matchup between the Las Vegas Raiders and the Kansas City Chiefs during the 2025 NFL season.</desc>
+    <date>20251019</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251021083100 +0000" stop="20251021084900 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Eagles vs. Vikings Highlights - Week 7</sub-title>
+    <episode-num system="onscreen">S2025E84</episode-num>
+    <desc>Highlights from the Week 7 matchup between the Philadelphia Eagles and the Minnesota Vikings during the 2025 NFL season.</desc>
+    <date>20251019</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251021084900 +0000" stop="20251021090700 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Panthers vs. Jets Highlights - Week 7</sub-title>
+    <episode-num system="onscreen">S2025E85</episode-num>
+    <desc>Highlights from the Week 7 matchup between the Carolina Panthers and the New York Jets during the 2025 NFL season.</desc>
+    <date>20251019</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251021090700 +0000" stop="20251021092500 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Patriots vs. Titans Highlights - Week 7</sub-title>
+    <episode-num system="onscreen">S2025E86</episode-num>
+    <desc>Highlights from the Week 7 matchup between the New England Patriots and the Tennessee Titans during the 2025 NFL season.</desc>
+    <date>20251019</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251021092500 +0000" stop="20251021094300 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Giants vs. Broncos Highlights - Week 7</sub-title>
+    <episode-num system="onscreen">S2025E87</episode-num>
+    <desc>Highlights from the Week 7 matchup between the New York Giants and the Denver Broncos during the 2025 NFL season.</desc>
+    <date>20251019</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251021094300 +0000" stop="20251021100100 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Colts vs. Chargers Highlights - Week 7</sub-title>
+    <episode-num system="onscreen">S2025E76</episode-num>
+    <desc>Highlights from the Week 7 matchup between the Indianapolis Colts and the Los Angeles Chargers during the 2025 NFL season.</desc>
+    <date>20251019</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251021100100 +0000" stop="20251021101900 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Packers vs. Cardinals Highlights - Week 7</sub-title>
+    <episode-num system="onscreen">S2025E77</episode-num>
+    <desc>Highlights from the Week 7 matchup between the Green Bay Packers and the Arizona Cardinals during the 2025 NFL season.</desc>
+    <date>20251019</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251021101900 +0000" stop="20251021103700 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Commanders vs. Cowboys Highlights - Week 7</sub-title>
+    <episode-num system="onscreen">S2025E78</episode-num>
+    <desc>Highlights from the Week 7 matchup between the Washington Commanders and the Dallas Cowboys during the 2025 NFL season.</desc>
+    <date>20251019</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251021103700 +0000" stop="20251021105500 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Falcons vs. 49ers Highlights - Week 7</sub-title>
+    <episode-num system="onscreen">S2025E79</episode-num>
+    <desc>Highlights from the Week 7 matchup between the Atlanta Falcons and the San Francisco 49ers during the 2025 NFL season.</desc>
+    <date>20251019</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251021105500 +0000" stop="20251021113100 +0000">
     <title>Weekly Game Recaps</title>
     <sub-title>Weekly Game Recaps</sub-title>
     <desc>Highlights and interviews from the NFL.</desc>
-    <date>20251020</date>
+    <date>20251021</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251020110000 +0000" stop="20251020145400 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251021113100 +0000" stop="20251021114900 +0000">
     <title>Weekly Game Recaps</title>
-    <sub-title>Weekly Game Recaps</sub-title>
-    <desc>Highlights and interviews from the NFL.</desc>
-    <date>20251020</date>
+    <sub-title>Steelers vs. Bengals Highlights - Week 7</sub-title>
+    <episode-num system="onscreen">S2025E75</episode-num>
+    <desc>Highlights from the Week 7 matchup between the Pittsburgh Steelers and the Cincinnati Bengals during the 2025 NFL season.</desc>
+    <date>20251017</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251020145400 +0000" stop="20251020184800 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Weekly Game Recaps</sub-title>
-    <desc>Highlights and interviews from the NFL.</desc>
-    <date>20251020</date>
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251021114900 +0000" stop="20251021124900 +0000">
+    <title>The Insiders</title>
+    <sub-title>The Insiders</sub-title>
+    <desc>NFL Media Insiders Ian Rapoport, Mike Garafolo, Tom Pelissero, and Judy Battista deliver the inside scoop and latest storylines of Week 7 during the 2025 NFL season.</desc>
+    <date>20250904</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251020184800 +0000" stop="20251020192500 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251021124900 +0000" stop="20251021132600 +0000">
     <title>NFL Throwback</title>
-    <sub-title>Best and Worst Heisman Winners in NFL History</sub-title>
-    <episode-num system="onscreen">S2024E07</episode-num>
-    <desc>From Barry Sanders to Johnny Manziel, find out how each Heisman winner fared at the next level.</desc>
-    <date>20240126</date>
+    <sub-title>Draft Busts Who Became Stars</sub-title>
+    <episode-num system="onscreen">S2025E23</episode-num>
+    <desc>See which players originally labeled as busts turned their career around!</desc>
+    <date>20250519</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251020192500 +0000" stop="20251020222900 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251021132600 +0000" stop="20251021162200 +0000">
     <title>NFL Game Re-Airs</title>
-    <sub-title>2024: Seahawks vs. Lions - Week 4</sub-title>
-    <desc>Detroit Lions quarterback Jared Goff makes NFL history completing all 18 of his pass attempts to help lead the Detroit Lions to a 42-29 Monday Night Football win over the Seattle Seahawks.</desc>
-    <date>20250702</date>
+    <sub-title>2014: Colts vs. Broncos, AFC Divisional Round</sub-title>
+    <episode-num system="onscreen">S2022E490</episode-num>
+    <desc>Luck threw two touchdown passes and outplayed Peyton Manning in leading the Indianapolis Colts past the Denver Broncos 24-13.</desc>
+    <date>20221229</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251020222900 +0000" stop="20251020230000 +0000">
-    <title>NFL GameDay Preview</title>
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251021162200 +0000" stop="20251021193500 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2013: Broncos vs. Giants</sub-title>
+    <episode-num system="onscreen">S2022E213</episode-num>
+    <desc>Watch the Manning brothers face off, where Peyton Manning beats younger brother Eli, throwing two touchdown passes in leading the Denver Broncos past the New York Giants 41-23 on Sunday.</desc>
+    <date>20220324</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251021193500 +0000" stop="20251021215900 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2013: Saints vs. Patriots</sub-title>
+    <episode-num system="onscreen">S2021E01</episode-num>
+    <desc>A back-and-forth battle between Tom Brady and Drew Brees is capped off by a late-game drive and score by the New England Patriots.</desc>
+    <date>20211125</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251021215900 +0000" stop="20251021222900 +0000">
+    <title>NFL Mic'd Up</title>
+    <sub-title>Super Bowl XLV</sub-title>
+    <episode-num system="onscreen">S2010E02</episode-num>
+    <desc>The players on both the Green Bay Packers and Pittsburgh Steelers are mic'd up as they play in Super Bowl XLV.</desc>
+    <date>20111231</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251021222900 +0000" stop="20251021230000 +0000">
+    <title>Power Rankings</title>
+    <sub-title>Power Rankings</sub-title>
+    <episode-num system="onscreen">S2025E02</episode-num>
+    <desc>Hosts Mike Yam and Eric Edholm provide an in-depth look at where each team sits in the weekly ranking of all 32 NFL teams following Week 7 of the 2025 NFL season.</desc>
+    <date>20251015</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251021230000 +0000" stop="20251022000000 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>Top Plays of the Week</sub-title>
+    <desc>Best moments and compilations including player highlights, top plays, and game highlights.</desc>
+    <date>20250923</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251022000000 +0000" stop="20251022030000 +0000">
+    <title>Game of the Week</title>
     <sub-title>Week 7</sub-title>
-    <episode-num system="onscreen">S2025E07</episode-num>
-    <desc>NFL analysts pick every game ahead of Week 7 based on the NFL schedule with insights from reporters around the country and in-depth statistical analysis.</desc>
-    <date>20251016</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251020230000 +0000" stop="20251021053000 +0000">
-    <title>NFL GameCenter Live</title>
-    <sub-title>NFL GameCenter Live</sub-title>
-    <episode-num system="onscreen">S2025E07</episode-num>
-    <desc>Get NFL score updates, highlights, news and more from Week 7 of the 2025 NFL season.</desc>
-    <date>20251016</date>
+    <desc>The Game of the Week from Week 7 of the 2025 NFL season.</desc>
+    <date>20251017</date>
   </programme>
   
 </tv>
