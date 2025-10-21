@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="www.matthuisman.nz"><channel id="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60">
-    <display-name>Sonic The Hedgehog</display-name>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/dd0dbbb3-6169-4a44-976e-41598a438f2b/channel_logo_1500x1000_dark.png.png"/>
+<tv generator-info-name="www.matthuisman.nz"><channel id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a0">
+    <display-name>The Archive</display-name>
+    <icon src="https://provider-static.plex.tv/epg/images/ott_channels/logos/the-archive.png"/>
   </channel>
   
-<channel id="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514">
-    <display-name>Hallmark Movies &amp; More</display-name>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/29af70d1-d3ba-4a16-bc4d-bd99e7e7def4/hallmark-movies-and-more_color.png"/>
+<channel id="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60">
+    <display-name>Sonic The Hedgehog</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/dd0dbbb3-6169-4a44-976e-41598a438f2b/channel_logo_1500x1000_dark.png.png"/>
   </channel>
   
 <channel id="5e20b730f2f8d5003d739db7-66be944f8711311880995280">
@@ -20,845 +20,10 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/d6fba6a2-2650-487f-ab1b-1eb034bd11c7/trace_urban_light_-_Nathan_BECKER.png"/>
   </channel>
   
-<channel id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a0">
-    <display-name>The Archive</display-name>
-    <icon src="https://provider-static.plex.tv/epg/images/ott_channels/logos/the-archive.png"/>
+<channel id="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514">
+    <display-name>Hallmark Movies &amp; More</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/29af70d1-d3ba-4a16-bc4d-bd99e7e7def4/hallmark-movies-and-more_color.png"/>
   </channel>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020011218 +0000" stop="20251020014035 +0000">
-    <title>Sonic Underground</title>
-    <sub-title>Bug</sub-title>
-    <episode-num system="onscreen">S01E14</episode-num>
-    <desc>A faction of the Freedom Fighters is wiped out by a swarm of metallic fly-bots.</desc>
-    <date>19990916</date>
-    <icon src="https://vod-static.plex.tv/thumbnails/669571b5aa9e396bef410e5f/2d0b5f7a-2c6a-4e33-b45a-ef8c8fe80ec2thumb2.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020014035 +0000" stop="20251020020851 +0000">
-    <title>Sonic Underground</title>
-    <sub-title>Winner Fakes All</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Robotnik organizes a track meet to lure Sonic into a trap.</desc>
-    <date>19990913</date>
-    <icon src="https://vod-static.plex.tv/thumbnails/66956f48aa9e396bef8e3c1f/c57dcf5b-903c-48e6-b783-fb3bce1ac763thumb2.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020020851 +0000" stop="20251020023708 +0000">
-    <title>Sonic Underground</title>
-    <sub-title>Who Do You Think You Are</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Queen Aleena's royal journals are rumored to be buried under a palace in the city of Tashistan.</desc>
-    <date>19990908</date>
-    <icon src="https://vod-static.plex.tv/thumbnails/6695764eaa9e396bef81f638/5033ae85-93b1-4092-b31e-cf319c191f0cthumb2.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020023708 +0000" stop="20251020030525 +0000">
-    <title>Sonic Underground</title>
-    <sub-title>Head Games</sub-title>
-    <episode-num system="onscreen">S01E17</episode-num>
-    <desc>Sonic finds a message in the sack from his mother urging him to head to Speedster Island.</desc>
-    <date>19990921</date>
-    <icon src="https://vod-static.plex.tv/thumbnails/669571f9aa9e396bef556725/842f2511-2e15-40ea-ac53-e1c017b6df11thumb2.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020030525 +0000" stop="20251020033342 +0000">
-    <title>Sonic Underground</title>
-    <sub-title>To Catch a Queen</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>A captain of the Queen's guard is captured before he can reach the secret rendezvous.</desc>
-    <date>19990831</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjA5MDQwMjI1Ml5BMl5BanBnXkFtZTgwMjMwNjM0MjE@._V1_.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020033342 +0000" stop="20251020040200 +0000">
-    <title>Sonic Underground</title>
-    <sub-title>Tangled Webs</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>The sinister Robotnik blackmails Cyrus, an old friend of Sonic's, by holding his father hostage.</desc>
-    <date>19990906</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNTc5OTE0NDIzMl5BMl5BanBnXkFtZTgwOTMwMDM0MjE@._V1_.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020040200 +0000" stop="20251020043117 +0000">
-    <title>Sonic the Hedgehog</title>
-    <sub-title>No Brainer</sub-title>
-    <episode-num system="onscreen">S02E16</episode-num>
-    <desc>Sonic attempts a solo rescue to prevent prisoners from being roboti-sized.</desc>
-    <date>19940924</date>
-    <icon src="https://image.tmdb.org/t/p/original/AnoliMLro7MsnnBfLfDwlkZ6YeN.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020043117 +0000" stop="20251020050029 +0000">
-    <title>Sonic the Hedgehog</title>
-    <sub-title>The Odd Couple // Ro-Becca</sub-title>
-    <episode-num system="onscreen">S02E22</episode-num>
-    <desc>A blizzard hits Knothole // Rotor is putting the finishing touches on his new female robot assistant</desc>
-    <date>19941105</date>
-    <icon src="https://image.tmdb.org/t/p/original/b0Nst7pJIO7qDap601q93OKzUfW.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020050029 +0000" stop="20251020052940 +0000">
-    <title>Sonic the Hedgehog</title>
-    <sub-title>Blast to the Past Part II</sub-title>
-    <episode-num system="onscreen">S02E18</episode-num>
-    <desc>Sonic and Sally steal the Roboti-sizer plans, stop the Destroyer from polluting the Great Forest.</desc>
-    <date>19941008</date>
-    <icon src="https://image.tmdb.org/t/p/original/sMSVlqqPH5RMRG8o1xWh2z1agKW.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020052940 +0000" stop="20251020055856 +0000">
-    <title>Sonic the Hedgehog</title>
-    <sub-title>Cry of the Wolf</sub-title>
-    <episode-num system="onscreen">S02E23</episode-num>
-    <desc>King's List, Sonic and the others are forced to travel through a tunnel which carries a "curse".</desc>
-    <date>19941112</date>
-    <icon src="https://image.tmdb.org/t/p/original/26sq5AOlrxfxCmk05CnG8bgiMDb.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020055856 +0000" stop="20251020062809 +0000">
-    <title>Sonic the Hedgehog</title>
-    <sub-title>The Void</sub-title>
-    <episode-num system="onscreen">S02E21</episode-num>
-    <desc>After Sonic is almost sucked inside the Void, he finds a huge Ring.</desc>
-    <date>19941029</date>
-    <icon src="https://image.tmdb.org/t/p/original/a2ntMsG3HVqdTLhvtXZS2Yk0Hqr.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020062809 +0000" stop="20251020065725 +0000">
-    <title>Sonic the Hedgehog</title>
-    <sub-title>Ultra Sonic</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Sonic and the Freedom Fighters journey to Robotnik's lab to deciphering his roboti-sizer system.</desc>
-    <date>19931016</date>
-    <icon src="https://image.tmdb.org/t/p/original/7kiVKHJWOMDnJE4o9gWrVthI068.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020065725 +0000" stop="20251020072638 +0000">
-    <title>Sonic the Hedgehog</title>
-    <sub-title>Super Sonic</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Sonic and Sally encounter the Guardian, a mysterious cloaked figure.</desc>
-    <date>19930918</date>
-    <icon src="https://image.tmdb.org/t/p/original/xhsMME8tjSPH8HI9qCbjTpTi9Qy.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020072638 +0000" stop="20251020075551 +0000">
-    <title>Sonic the Hedgehog</title>
-    <sub-title>Harmonic Sonic</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Robotnik launches a spy satellite in an effort to locate Knothole Village.</desc>
-    <date>19931009</date>
-    <icon src="https://image.tmdb.org/t/p/original/rgvJlRadhofBL37kARYDmofx3Ur.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020075551 +0000" stop="20251020082505 +0000">
-    <title>Sonic the Hedgehog</title>
-    <sub-title>Sonic's Nightmare</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Sally uncovers Robotnik's plan to seed the cloud with toxic rain.</desc>
-    <date>19931023</date>
-    <icon src="https://image.tmdb.org/t/p/original/by3SXjkhanfOdEMCVKg7fNXltrX.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020082505 +0000" stop="20251020085323 +0000">
-    <title>Sonic Underground</title>
-    <sub-title>Mobodoon</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Sonic, Sonia, and Manic return to their birthplace, Mobodoon.</desc>
-    <date>19990901</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTUxMTQ0MTkyMV5BMl5BanBnXkFtZTgwNDUwNjM0MjE@._V1_.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020085323 +0000" stop="20251020092140 +0000">
-    <title>Sonic Underground</title>
-    <sub-title>To Catch a Queen</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>A captain of the Queen's guard is captured before he can reach the secret rendezvous.</desc>
-    <date>19990831</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjA5MDQwMjI1Ml5BMl5BanBnXkFtZTgwMjMwNjM0MjE@._V1_.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020092140 +0000" stop="20251020094958 +0000">
-    <title>Sonic Underground</title>
-    <sub-title>Head Games</sub-title>
-    <episode-num system="onscreen">S01E17</episode-num>
-    <desc>Sonic finds a message in the sack from his mother urging him to head to Speedster Island.</desc>
-    <date>19990921</date>
-    <icon src="https://vod-static.plex.tv/thumbnails/669571f9aa9e396bef556725/842f2511-2e15-40ea-ac53-e1c017b6df11thumb2.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020094958 +0000" stop="20251020101815 +0000">
-    <title>Sonic Underground</title>
-    <sub-title>The Deepest Fear</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Sonic, Manic and Sonia are told that ships are sinking due to the Mobian sea-beast.</desc>
-    <date>19990907</date>
-    <icon src="https://vod-static.plex.tv/thumbnails/6695762caa9e396bef78ff5c/febf218d-67bd-4eb7-96f8-049eef2c3d7ethumb2.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020101815 +0000" stop="20251020104632 +0000">
-    <title>Sonic Underground</title>
-    <sub-title>Artifact</sub-title>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <desc>The Hedgehogs steal historical artifacts of Mobuis from Robotnik.</desc>
-    <date>19990915</date>
-    <icon src="https://vod-static.plex.tv/thumbnails/66957026aa9e396befcdab3b/76abd5f1-2d59-4a78-b0b2-30764b84af05thumb2.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020104632 +0000" stop="20251020111449 +0000">
-    <title>Sonic Underground</title>
-    <sub-title>The Jewel of the Crown</sub-title>
-    <episode-num system="onscreen">S01E19</episode-num>
-    <desc>Robotnik has his sights set upon Queen Aleena's crown jewel, which glows as it is moved closer her.</desc>
-    <date>19990923</date>
-    <icon src="https://vod-static.plex.tv/thumbnails/66957241aa9e396bef6a6948/a8863a67-b35f-4dd9-9a99-c11ef77112a4thumb2.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020111449 +0000" stop="20251020114306 +0000">
-    <title>Sonic Underground</title>
-    <sub-title>Friend or Foe</sub-title>
-    <episode-num system="onscreen">S01E16</episode-num>
-    <desc>The Hedgehogs converge on the Floating Island to find their Mother.</desc>
-    <date>19990920</date>
-    <icon src="https://vod-static.plex.tv/thumbnails/669571e6aa9e396bef4fb088/250ccddc-5467-43ed-b709-2d5f8af5036bthumb2.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020114306 +0000" stop="20251020121123 +0000">
-    <title>Sonic Underground</title>
-    <sub-title>The Jewel of the Crown</sub-title>
-    <episode-num system="onscreen">S01E19</episode-num>
-    <desc>Robotnik has his sights set upon Queen Aleena's crown jewel, which glows as it is moved closer her.</desc>
-    <date>19990923</date>
-    <icon src="https://vod-static.plex.tv/thumbnails/66957241aa9e396bef6a6948/a8863a67-b35f-4dd9-9a99-c11ef77112a4thumb2.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020121123 +0000" stop="20251020123954 +0000">
-    <title>Sonic the Hedgehog, Adventures of</title>
-    <sub-title>Lovesick Sonic</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Sonic saves a damsel in distress, and falls in love with her, not knowing she's a robot</desc>
-    <date>19930915</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/fb4c988d2f7fa3041af9a8c7550fc266.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020123954 +0000" stop="20251020130825 +0000">
-    <title>Sonic the Hedgehog, Adventures of</title>
-    <sub-title>Robolympics</sub-title>
-    <episode-num system="onscreen">S01E46</episode-num>
-    <desc>Sonic is forced to compete in the Robolympics to save the village.</desc>
-    <date>19930914</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/8b599f2b3791c036bdfa1c852f1c172d.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020130825 +0000" stop="20251020133657 +0000">
-    <title>Sonic the Hedgehog, Adventures of</title>
-    <sub-title>Hedgehog of the Hound Table</sub-title>
-    <episode-num system="onscreen">S01E49</episode-num>
-    <desc>Part two in the four part series. Robotnik goes back to medieval times, and enlists the help of...</desc>
-    <date>19931027</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/aa37e66462d186d7faeef0215fb8a8c1.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020133657 +0000" stop="20251020140530 +0000">
-    <title>Sonic the Hedgehog, Adventures of</title>
-    <sub-title>Mass Transit Trouble</sub-title>
-    <episode-num system="onscreen">S01E42</episode-num>
-    <desc>Robotnik decides to cripple Mobius' three major transit systems.</desc>
-    <date>19931108</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d70fdaba27413e9f5e03b020d4ca4991.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020140530 +0000" stop="20251020143404 +0000">
-    <title>Sonic the Hedgehog, Adventures of</title>
-    <sub-title>Subterranean Sonic</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Sonic and Tails find an underground world of diamonds, but they are held captive there.</desc>
-    <date>19930916</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d70fdaba27413e9f5e03b020d4ca4991.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020143404 +0000" stop="20251020150236 +0000">
-    <title>Sonic the Hedgehog, Adventures of</title>
-    <sub-title>Close Encounter of the Sonic Kind</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Sonic and Tails befriend a pair of aliens who crash land their spaceship on Mobius.</desc>
-    <date>19930923</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/aaefdf7ecd80a572d32b7875e8ff614a.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020150236 +0000" stop="20251020153106 +0000">
-    <title>Sonic the Hedgehog, Adventures of</title>
-    <sub-title>Babysitter Jitters</sub-title>
-    <episode-num system="onscreen">S01E52</episode-num>
-    <desc>When Sonic rescues a village from a flash flood, he's left with the job of babysitting three baby...</desc>
-    <date>19931111</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/33dc78fcdeb86dcdf76a1a4d7376405a.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020153106 +0000" stop="20251020155944 +0000">
-    <title>Sonic the Hedgehog, Adventures of</title>
-    <sub-title>Birth of a Salesman</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>A fast talking, travelling salesman named Wes sells Robotnik various hedgehog-catching gadgets</desc>
-    <date>19930908</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d773cfa5f29ea01db122bf4f168af8a6.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020155944 +0000" stop="20251020162816 +0000">
-    <title>Sonic the Hedgehog, Adventures of</title>
-    <sub-title>High-Stakes Sonic</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Tails and other Mobius citizens are lured into Robotnik's robotic games of chance</desc>
-    <date>19930920</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/aa0f0aa20371ab98d25622b2cfe154a0.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020162816 +0000" stop="20251020165728 +0000">
-    <title>Sonic the Hedgehog</title>
-    <sub-title>Drood Henge</sub-title>
-    <episode-num system="onscreen">S02E24</episode-num>
-    <desc>Uncle Chuck's "bug" reveals Robotnik's search for the legendary Deep Power Stones</desc>
-    <date>19941119</date>
-    <icon src="https://image.tmdb.org/t/p/original/4aPyDFsysSjPSlcDopKwZ9M6U5W.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020165728 +0000" stop="20251020172640 +0000">
-    <title>Sonic the Hedgehog</title>
-    <sub-title>Hooked on Sonics</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Sonic faces a dangerous vehicle during a solo mission to the Badlands.</desc>
-    <date>19931106</date>
-    <icon src="https://image.tmdb.org/t/p/original/6gsKYqYBPyF1xNyqncmHFUr6mKz.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020172640 +0000" stop="20251020175547 +0000">
-    <title>Sonic the Hedgehog</title>
-    <sub-title>Sonic Boom</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Sonic and The Freedom Fighters go to Robotnik's underground air base.</desc>
-    <date>19930925</date>
-    <icon src="https://image.tmdb.org/t/p/original/ofWnhetIhCQ0GZfiJWWInmKyr0R.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020175547 +0000" stop="20251020182458 +0000">
-    <title>Sonic the Hedgehog</title>
-    <sub-title>Blast to the Past Part II</sub-title>
-    <episode-num system="onscreen">S02E18</episode-num>
-    <desc>Sonic and Sally steal the Roboti-sizer plans, stop the Destroyer from polluting the Great Forest.</desc>
-    <date>19941008</date>
-    <icon src="https://image.tmdb.org/t/p/original/sMSVlqqPH5RMRG8o1xWh2z1agKW.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020182458 +0000" stop="20251020185414 +0000">
-    <title>Sonic the Hedgehog</title>
-    <sub-title>Sonic and the Secret Scrolls</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Sally, Rotor, Bunnie and Antoine take off in a homemade airplane.</desc>
-    <date>19941105</date>
-    <icon src="https://image.tmdb.org/t/p/original/b0Nst7pJIO7qDap601q93OKzUfW.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020185414 +0000" stop="20251020192332 +0000">
-    <title>Sonic the Hedgehog</title>
-    <sub-title>Game Guy</sub-title>
-    <episode-num system="onscreen">S02E15</episode-num>
-    <desc>The Freedom Fighters run into a Swashbuckler, named Ari, battling Swat-Bots.</desc>
-    <date>19940917</date>
-    <icon src="https://image.tmdb.org/t/p/original/dAuEBTgw8iCtM8kJ5TdW3TD9DuO.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020192332 +0000" stop="20251020195244 +0000">
-    <title>Sonic the Hedgehog</title>
-    <sub-title>Blast to the Past Part I</sub-title>
-    <episode-num system="onscreen">S02E17</episode-num>
-    <desc>Sonic laments that they can't go back and prevent Robotnik's take-over.</desc>
-    <date>19941001</date>
-    <icon src="https://image.tmdb.org/t/p/original/8NSfZPOyEELzLRPHhQW5LkxOumG.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020195244 +0000" stop="20251020202157 +0000">
-    <title>Sonic the Hedgehog</title>
-    <sub-title>The Odd Couple // Ro-Becca</sub-title>
-    <episode-num system="onscreen">S02E22</episode-num>
-    <desc>A blizzard hits Knothole // Rotor is putting the finishing touches on his new female robot assistant</desc>
-    <date>19941105</date>
-    <icon src="https://image.tmdb.org/t/p/original/b0Nst7pJIO7qDap601q93OKzUfW.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020202157 +0000" stop="20251020205014 +0000">
-    <title>Sonic Underground</title>
-    <sub-title>Friend or Foe</sub-title>
-    <episode-num system="onscreen">S01E16</episode-num>
-    <desc>The Hedgehogs converge on the Floating Island to find their Mother.</desc>
-    <date>19990920</date>
-    <icon src="https://vod-static.plex.tv/thumbnails/669571e6aa9e396bef4fb088/250ccddc-5467-43ed-b709-2d5f8af5036bthumb2.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020205014 +0000" stop="20251020211831 +0000">
-    <title>Sonic Underground</title>
-    <sub-title>Tangled Webs</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>The sinister Robotnik blackmails Cyrus, an old friend of Sonic's, by holding his father hostage.</desc>
-    <date>19990906</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNTc5OTE0NDIzMl5BMl5BanBnXkFtZTgwOTMwMDM0MjE@._V1_.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020211831 +0000" stop="20251020214649 +0000">
-    <title>Sonic Underground</title>
-    <sub-title>When in Rome...</sub-title>
-    <episode-num system="onscreen">S01E18</episode-num>
-    <desc>Sonic becomes frustrated that their efforts of fighting for freedom may be futile.</desc>
-    <date>19990922</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTkxNTYwNjc0Nl5BMl5BanBnXkFtZTgwOTEwNjM0MjE@._V1_.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020214649 +0000" stop="20251020221506 +0000">
-    <title>Sonic Underground</title>
-    <sub-title>Wedding Bell Blues</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Robotnik announces that he will marry Queen Aleena in a plot to become the king of Mobius.</desc>
-    <date>19991004</date>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0MYOAQ11EY81/1280x720.jpg?fb=https%253A%252F%252Fimage.xumo.com%252Fv1%252Fchannels%252Fchannel%252F88889383%252F1280x720.jpg%253Ftype%253DtrcChannelTile"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020221506 +0000" stop="20251020224323 +0000">
-    <title>Sonic Underground</title>
-    <sub-title>The Price of Freedom</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Sonia travels to east Mobius to visit her friend Mindy at the LaTour estate.</desc>
-    <date>19990902</date>
-    <icon src="https://artworks.thetvdb.com/banners/episodes/73634/121974.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020224323 +0000" stop="20251020231140 +0000">
-    <title>Sonic Underground</title>
-    <sub-title>To Catch a Queen</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>A captain of the Queen's guard is captured before he can reach the secret rendezvous.</desc>
-    <date>19990831</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjA5MDQwMjI1Ml5BMl5BanBnXkFtZTgwMjMwNjM0MjE@._V1_.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020231140 +0000" stop="20251020233957 +0000">
-    <title>Sonic Underground</title>
-    <sub-title>Last Resort</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Sonic, Manic, and Sonia stumble upon an oasis called Lake Valley Resort.</desc>
-    <date>19990909</date>
-    <icon src="https://vod-static.plex.tv/thumbnails/66957665aa9e396bef8818fa/16a4a1b0-f18a-4dfe-9d04-04d3fc3cd8dfthumb2.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251020233957 +0000" stop="20251021000815 +0000">
-    <title>Sonic Underground</title>
-    <sub-title>The Jewel of the Crown</sub-title>
-    <episode-num system="onscreen">S01E19</episode-num>
-    <desc>Robotnik has his sights set upon Queen Aleena's crown jewel, which glows as it is moved closer her.</desc>
-    <date>19990923</date>
-    <icon src="https://vod-static.plex.tv/thumbnails/66957241aa9e396bef6a6948/a8863a67-b35f-4dd9-9a99-c11ef77112a4thumb2.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021000815 +0000" stop="20251021003652 +0000">
-    <title>Sonic the Hedgehog, Adventures of</title>
-    <sub-title>Birth of a Salesman</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>A fast talking, travelling salesman named Wes sells Robotnik various hedgehog-catching gadgets</desc>
-    <date>19930908</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d773cfa5f29ea01db122bf4f168af8a6.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021003652 +0000" stop="20251021010525 +0000">
-    <title>Sonic the Hedgehog, Adventures of</title>
-    <sub-title>The Robotnik Express</sub-title>
-    <episode-num system="onscreen">S01E14</episode-num>
-    <desc>The leader of a group of biker-bear rebels mistakes Scratch and Grounder for Sonic and Tails</desc>
-    <date>19930924</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9dd8d205026cc450a1ab874ad56c46bc.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021010525 +0000" stop="20251021013357 +0000">
-    <title>Sonic the Hedgehog, Adventures of</title>
-    <sub-title>High-Stakes Sonic</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Tails and other Mobius citizens are lured into Robotnik's robotic games of chance</desc>
-    <date>19930920</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/aa0f0aa20371ab98d25622b2cfe154a0.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251020002559 +0000" stop="20251020011629 +0000">
-    <title>Good Witch</title>
-    <sub-title>All in the Family</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Hallmark Original Series. Cassie's mischievous cousin Abigail is back in Middleton.</desc>
-    <date>20150321</date>
-    <icon src="https://image.tmdb.org/t/p/original/skdUg4Ir3e9AboER1tkW4ZAKS9v.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251020011629 +0000" stop="20251020020930 +0000">
-    <title>Good Witch</title>
-    <sub-title>The Truth About Lies</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Hallmark Original Series. Cassie's magic can't keep her away from Abigail's scheming.</desc>
-    <date>20150328</date>
-    <icon src="https://image.tmdb.org/t/p/original/jlSieGaL40wq02FUU7UUpFhnoIt.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251020020930 +0000" stop="20251020030200 +0000">
-    <title>Good Witch</title>
-    <sub-title>The Storm</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Hallmark Original Series. A blizzard threatens disaster in Middleton.</desc>
-    <date>20150404</date>
-    <icon src="https://image.tmdb.org/t/p/original/1gY1RucwUrcSgQwzyfgXpMmO6kn.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251020030200 +0000" stop="20251020035230 +0000">
-    <title>Good Witch</title>
-    <sub-title>Together We Stand...</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Hallmark Original Series. The winter storm continues to pose a threat to all of Middleton.</desc>
-    <date>20150411</date>
-    <icon src="https://image.tmdb.org/t/p/original/mWWC73xjb96GN33OaAd4uPUl8AK.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251020035230 +0000" stop="20251020053233 +0000">
-    <title>Good Witch</title>
-    <sub-title>True Colors</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Hallmark Original Series. Middleton's enchanting "Good Witch" Cassie receives devastating news.</desc>
-    <date>20150418</date>
-    <icon src="https://image.tmdb.org/t/p/original/da5BlJcAsIbnzBzC4I3KQZT71JX.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251020053233 +0000" stop="20251020062503 +0000">
-    <title>Good Witch</title>
-    <sub-title>Second Time Around</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <desc>Hallmark Original Series. Sam's ex-wife Linda threatens to come between them.</desc>
-    <date>20160417</date>
-    <icon src="https://image.tmdb.org/t/p/original/kr3vRlMwrX9nzRvLFPY8rtaRFKg.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251020062503 +0000" stop="20251020071534 +0000">
-    <title>Good Witch</title>
-    <sub-title>Driven</sub-title>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <desc>Hallmark Original Series. The arrival of a man from Cassie's past may complicate her relationship.</desc>
-    <date>20160424</date>
-    <icon src="https://image.tmdb.org/t/p/original/tAUpUk6nWDlBJWuYrwBjpONR94f.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251020071534 +0000" stop="20251020085834 +0000">
-    <title>Wedding March 2: Resorting to Love</title>
-    <category>Movie</category>
-    <desc>Hallmark Original Movie. Former sweethearts Olivia and Mick are now running a wedding resort.</desc>
-    <date>20170617</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/00ce323e52af40ee35652d95a8349072.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251020085834 +0000" stop="20251020103757 +0000">
-    <title>Wedding March 3: Here Comes the Bride</title>
-    <category>Movie</category>
-    <desc>Hallmark Original Movie. It's a full Valentine's Day weekend at the Inn.</desc>
-    <date>20180217</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/83671a254889c40de041b7cd4e4b350a.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251020103757 +0000" stop="20251020113430 +0000">
-    <title>Good Witch</title>
-    <sub-title>The Party</sub-title>
-    <episode-num system="onscreen">S07E01</episode-num>
-    <desc>Hallmark Original Series. Joy dreams about her parents.</desc>
-    <date>20210516</date>
-    <icon src="https://image.tmdb.org/t/p/original/7v6OX0ob0pQJ4vLAu2HrSqRRwcw.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251020113430 +0000" stop="20251020122303 +0000">
-    <title>Good Witch</title>
-    <sub-title>The Shell</sub-title>
-    <episode-num system="onscreen">S07E02</episode-num>
-    <desc>Hallmark Original Series. Martha organizes a Grease themed movie night in the park.</desc>
-    <date>20210523</date>
-    <icon src="https://image.tmdb.org/t/p/original/4Ne6mwqeKpYgwShoUfS0Wqz2GsG.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251020122303 +0000" stop="20251020131951 +0000">
-    <title>Good Witch</title>
-    <sub-title>The Delivery</sub-title>
-    <episode-num system="onscreen">S07E03</episode-num>
-    <desc>Hallmark Original Series. Cassie, Stephanie, and Abigail help Martha throw Claire a baby shower.</desc>
-    <date>20210530</date>
-    <icon src="https://image.tmdb.org/t/p/original/wkq0o4Y5xARTd17zKXqZ6q116jK.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251020131951 +0000" stop="20251020140903 +0000">
-    <title>Good Witch</title>
-    <sub-title>The Exchange</sub-title>
-    <episode-num system="onscreen">S07E04</episode-num>
-    <desc>Hallmark Original Series. Joy revives the Middleton Exchange.</desc>
-    <date>20210606</date>
-    <icon src="https://image.tmdb.org/t/p/original/1ukdWQLkd5sF0y4nE77WXmeL1Bd.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251020140903 +0000" stop="20251020150006 +0000">
-    <title>Good Witch</title>
-    <sub-title>The Kite</sub-title>
-    <episode-num system="onscreen">S07E05</episode-num>
-    <desc>Hallmark Original Series. Joy's dream sends the three Merriwicks on a trip on a search for her father.</desc>
-    <date>20210613</date>
-    <icon src="https://image.tmdb.org/t/p/original/mP0MfsZ9o85aBqeZxVppyKRuntf.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251020150006 +0000" stop="20251020155403 +0000">
-    <title>Good Witch</title>
-    <sub-title>The Wishes</sub-title>
-    <episode-num system="onscreen">S07E06</episode-num>
-    <desc>Hallmark Original Series. Wishes begin coming true in Middleton.</desc>
-    <date>20210620</date>
-    <icon src="https://image.tmdb.org/t/p/original/jzZZ3gl0qwteG6Z9dpsBlGDqcmj.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251020155403 +0000" stop="20251020164512 +0000">
-    <title>Good Witch</title>
-    <sub-title>The Magic</sub-title>
-    <episode-num system="onscreen">S07E07</episode-num>
-    <desc>Hallmark Original Series. Cassie, Joy and Abigail delve into the images on Joy's vision board.</desc>
-    <date>20210627</date>
-    <icon src="https://image.tmdb.org/t/p/original/wbDepBena11hs8FB2kZNErTqrnZ.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251020164512 +0000" stop="20251020173802 +0000">
-    <title>Good Witch</title>
-    <sub-title>The Sprint</sub-title>
-    <episode-num system="onscreen">S07E08</episode-num>
-    <desc>Hallmark Original Series. Cassie and Sam disagree about his return to work after his injury.</desc>
-    <date>20210711</date>
-    <icon src="https://image.tmdb.org/t/p/original/mbK33ldahGrQ8WQOG6OxJCc3vJq.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251020173802 +0000" stop="20251020183152 +0000">
-    <title>Good Witch</title>
-    <sub-title>The Search</sub-title>
-    <episode-num system="onscreen">S07E09</episode-num>
-    <desc>Hallmark Original Series. Strange things start happening to Cassie, Abigail and Joy's abilities.</desc>
-    <date>20210718</date>
-    <icon src="https://image.tmdb.org/t/p/original/wFzv3jaxtarXeq2vQzfQpuaQE4t.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251020183152 +0000" stop="20251020201559 +0000">
-    <title>The Good Witch</title>
-    <category>Movie</category>
-    <desc>Hallmark Original Movie. Cassie Nightingale moves into a small town's supposedly haunted house.</desc>
-    <date>20080118</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6f82d53dc16ebda76dedba5e523fae94.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251020201559 +0000" stop="20251020220217 +0000">
-    <title>The Good Witch's Charm</title>
-    <category>Movie</category>
-    <desc>Hallmark Original Movie. Cassie has her hands full juggling her job as mayor and new motherhood.</desc>
-    <date>20121027</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/4fb562eec988e01aa5f439ff04bbb1d5.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251020220217 +0000" stop="20251020234804 +0000">
-    <title>The Good Witch's Destiny</title>
-    <category>Movie</category>
-    <desc>Hallmark Original Movie. All Cassie wants for her birthday is for her family and friends to be together.</desc>
-    <date>20130701</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6e35921f83dcea32ce230914debe7ba7.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251020234804 +0000" stop="20251021013522 +0000">
-    <title>The Good Witch's Family</title>
-    <category>Movie</category>
-    <desc>Hallmark Original Movie. Cassie Nightingale and her family receive a visit from a mysterious woman.</desc>
-    <date>20110805</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/76e2b793dfe748e2358c9638bc450dd3.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66be944f8711311880995280" start="20251020000500 +0000" stop="20251020020000 +0000">
-    <title>Hercules In The Haunted World</title>
-    <category>Movie</category>
-    <desc>Hercules must journey to the depths of Hell in order to find a plant that will cure a poisoned princess.</desc>
-    <date>19611116</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1d48a69d0a81bd7dbf1cce74e1952c8f.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66be944f8711311880995280" start="20251020020000 +0000" stop="20251020040000 +0000">
-    <title>The Hellbenders</title>
-    <category>Movie</category>
-    <desc>After the civil war, a hell-bent Confederate Army Officer and his sons rob a Union Caravan carrying a fortune, killing every man and beast in the process. They hide the money in an empty coffin and hire a woman to pose as a widow to a dead officer to make it look official. Now they must con and fight their way across the west through thousands of cavalry, lawmen, bounty hunters, and Indians to make their escape.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOWJjZmU0MTktMDAwNC00MzQ5LTg1M2YtMmY3Njg4OTQzOTk3XkEyXkFqcGc@._V1_.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66be944f8711311880995280" start="20251020040000 +0000" stop="20251020061000 +0000">
-    <title>Detroit 9000</title>
-    <category>Movie</category>
-    <desc>A pair of Detroit policemen investigates a robbery that occurred at a black congressman’s fundraising banquet.</desc>
-    <date>19730801</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6c9fb852691894e31a9a3d1ca2672161.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66be944f8711311880995280" start="20251020061000 +0000" stop="20251020080000 +0000">
-    <title>Hercules In The Haunted World</title>
-    <category>Movie</category>
-    <desc>Hercules must journey to the depths of Hell in order to find a plant that will cure a poisoned princess.</desc>
-    <date>19611116</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1d48a69d0a81bd7dbf1cce74e1952c8f.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66be944f8711311880995280" start="20251020080000 +0000" stop="20251020100000 +0000">
-    <title>The Hellbenders</title>
-    <category>Movie</category>
-    <desc>After the civil war, a hell-bent Confederate Army Officer and his sons rob a Union Caravan carrying a fortune, killing every man and beast in the process. They hide the money in an empty coffin and hire a woman to pose as a widow to a dead officer to make it look official. Now they must con and fight their way across the west through thousands of cavalry, lawmen, bounty hunters, and Indians to make their escape.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOWJjZmU0MTktMDAwNC00MzQ5LTg1M2YtMmY3Njg4OTQzOTk3XkEyXkFqcGc@._V1_.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66be944f8711311880995280" start="20251020100000 +0000" stop="20251020120000 +0000">
-    <title>Grave Of The Vampire</title>
-    <category>Movie</category>
-    <desc>A young man, born of a rape committed by a legendary vampire against a living woman, vows to locate and vanquish his undead father.</desc>
-    <date>19721013</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b721f3e8c2f1a3149c3acd99598fc629.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66be944f8711311880995280" start="20251020120000 +0000" stop="20251020141500 +0000">
-    <title>Shogun's Ninja</title>
-    <category>Movie</category>
-    <desc>In the middle of the 16th century, Hideyoshi, a power hungry warlord sets out to destroy the Momochi clan. He sends his war commander in search of the clan's hidden gold only to find that two daggers are the key to the hiding place of the treasured gold. Spanning decades, the quest for the missing daggers takes Shiranui through war and ancient tradition.</desc>
-    <date>19801115</date>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/e7dfc2719b5d6e2041ca6e328bfbd8ed.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66be944f8711311880995280" start="20251020141500 +0000" stop="20251020160000 +0000">
-    <title>The Italian Connection</title>
-    <category>Movie</category>
-    <desc>The mob, bent on murderous revenge, pursues a man they mistakenly believe responsible for the theft of one of their drug shipments. Their elusive prey, however, has plans of his own, and they also include revenge.</desc>
-    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/AHPG_The-Italian-Connection_2x3.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66be944f8711311880995280" start="20251020160000 +0000" stop="20251020180000 +0000">
-    <title>Grave Of The Vampire</title>
-    <category>Movie</category>
-    <desc>A young man, born of a rape committed by a legendary vampire against a living woman, vows to locate and vanquish his undead father.</desc>
-    <date>19721013</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b721f3e8c2f1a3149c3acd99598fc629.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66be944f8711311880995280" start="20251020180000 +0000" stop="20251020201500 +0000">
-    <title>Shogun's Ninja</title>
-    <category>Movie</category>
-    <desc>In the middle of the 16th century, Hideyoshi, a power hungry warlord sets out to destroy the Momochi clan. He sends his war commander in search of the clan's hidden gold only to find that two daggers are the key to the hiding place of the treasured gold. Spanning decades, the quest for the missing daggers takes Shiranui through war and ancient tradition.</desc>
-    <date>19801115</date>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/e7dfc2719b5d6e2041ca6e328bfbd8ed.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66be944f8711311880995280" start="20251020201500 +0000" stop="20251020220000 +0000">
-    <title>The Italian Connection</title>
-    <category>Movie</category>
-    <desc>The mob, bent on murderous revenge, pursues a man they mistakenly believe responsible for the theft of one of their drug shipments. Their elusive prey, however, has plans of his own, and they also include revenge.</desc>
-    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/AHPG_The-Italian-Connection_2x3.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66be944f8711311880995280" start="20251020220000 +0000" stop="20251021000000 +0000">
-    <title>Grave Of The Vampire</title>
-    <category>Movie</category>
-    <desc>A young man, born of a rape committed by a legendary vampire against a living woman, vows to locate and vanquish his undead father.</desc>
-    <date>19721013</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b721f3e8c2f1a3149c3acd99598fc629.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66be944f8711311880995280" start="20251021000000 +0000" stop="20251021021500 +0000">
-    <title>Shogun's Ninja</title>
-    <category>Movie</category>
-    <desc>In the middle of the 16th century, Hideyoshi, a power hungry warlord sets out to destroy the Momochi clan. He sends his war commander in search of the clan's hidden gold only to find that two daggers are the key to the hiding place of the treasured gold. Spanning decades, the quest for the missing daggers takes Shiranui through war and ancient tradition.</desc>
-    <date>19801115</date>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/e7dfc2719b5d6e2041ca6e328bfbd8ed.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" start="20251020000000 +0000" stop="20251020060000 +0000">
-    <title>SOUNDS OF TRACE</title>
-    <category>Music</category>
-    <desc>The music never stops on TRACE Urban ! Sounds of Trace is here to make you enjoy the hottest global hits</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/d4df3987-704d-4d60-b58e-20282c2becca/trace_urban_artwork_vertical_-_Nathan_BECKER.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" start="20251020060000 +0000" stop="20251020120000 +0000">
-    <title>URBAN VIBES</title>
-    <category>Music</category>
-    <desc>All the 'original' Urban hits.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/d4df3987-704d-4d60-b58e-20282c2becca/trace_urban_artwork_vertical_-_Nathan_BECKER.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" start="20251020120000 +0000" stop="20251020180000 +0000">
-    <title>HITS NON STOP</title>
-    <category>Music</category>
-    <desc>All the big tunes from around the world.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/d4df3987-704d-4d60-b58e-20282c2becca/trace_urban_artwork_vertical_-_Nathan_BECKER.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" start="20251020180000 +0000" stop="20251020184500 +0000">
-    <title>HIT 10</title>
-    <category>Music</category>
-    <desc>The ranking of the top 10 Urban Hits worldwide.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/d4df3987-704d-4d60-b58e-20282c2becca/trace_urban_artwork_vertical_-_Nathan_BECKER.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" start="20251020184500 +0000" stop="20251020190000 +0000">
-    <title>HITS NON STOP</title>
-    <category>Music</category>
-    <desc>All the big tunes from around the world.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/d4df3987-704d-4d60-b58e-20282c2becca/trace_urban_artwork_vertical_-_Nathan_BECKER.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" start="20251020190000 +0000" stop="20251020200000 +0000">
-    <title>HITS &amp; LYRICS</title>
-    <category>Music</category>
-    <desc>Sing along to your favorite videos, Karaoke style.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/d4df3987-704d-4d60-b58e-20282c2becca/trace_urban_artwork_vertical_-_Nathan_BECKER.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" start="20251020200000 +0000" stop="20251020204500 +0000">
-    <title>TOP 10 HIP-HOP</title>
-    <category>Music</category>
-    <desc>Top 10 countdown of all the better Hip-Hop videos from around the world.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/d4df3987-704d-4d60-b58e-20282c2becca/trace_urban_artwork_vertical_-_Nathan_BECKER.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" start="20251020204500 +0000" stop="20251020210000 +0000">
-    <title>HITS NON STOP</title>
-    <category>Music</category>
-    <desc>All the big tunes from around the world.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/d4df3987-704d-4d60-b58e-20282c2becca/trace_urban_artwork_vertical_-_Nathan_BECKER.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" start="20251020210000 +0000" stop="20251020220000 +0000">
-    <title>HITS NON STOP</title>
-    <category>Music</category>
-    <desc>All the big tunes from around the world.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/d4df3987-704d-4d60-b58e-20282c2becca/trace_urban_artwork_vertical_-_Nathan_BECKER.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" start="20251020220000 +0000" stop="20251020230000 +0000">
-    <title>STREAM IT</title>
-    <category>Music</category>
-    <desc>The top 10 tracks downloaded and streamed worldwide this week</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/d4df3987-704d-4d60-b58e-20282c2becca/trace_urban_artwork_vertical_-_Nathan_BECKER.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" start="20251020230000 +0000" stop="20251021000000 +0000">
-    <title>NEW</title>
-    <category>Music</category>
-    <desc>An hour dedicated to freshness, NEW brings you the all the latest videos of your favorite artists.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/d4df3987-704d-4d60-b58e-20282c2becca/trace_urban_artwork_vertical_-_Nathan_BECKER.jpg"/>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" start="20251021000000 +0000" stop="20251021060000 +0000">
-    <title>SOUNDS OF TRACE</title>
-    <category>Music</category>
-    <desc>The music never stops on TRACE Urban ! Sounds of Trace is here to make you enjoy the hottest global hits</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/d4df3987-704d-4d60-b58e-20282c2becca/trace_urban_artwork_vertical_-_Nathan_BECKER.jpg"/>
-  </programme>
   
 <programme channel="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a0" start="20250911003428 +0000" stop="20250911021705 +0000">
     <title>Martial Outlaw</title>
@@ -1037,6 +202,855 @@
     <desc>The true story of a young woman's abduction by a deranged ex-convict and the race against the clock to save her--leading to the largest manhunt in Pennsylvanian history.</desc>
     <date>19910506</date>
     <icon src="https://metadata-static.plex.tv/5/gracenote/5467c6847f68e9ae58efe03e16a9f1db.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021010525 +0000" stop="20251021013357 +0000">
+    <title>Sonic the Hedgehog, Adventures of</title>
+    <sub-title>High-Stakes Sonic</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Tails and other Mobius citizens are lured into Robotnik's robotic games of chance</desc>
+    <date>19930920</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/aa0f0aa20371ab98d25622b2cfe154a0.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021013357 +0000" stop="20251021020228 +0000">
+    <title>Sonic the Hedgehog, Adventures of</title>
+    <sub-title>Sonic's Song</sub-title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <desc>Robotnik outlaws music on Mobius then takes a pop star captive.</desc>
+    <date>19930929</date>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b860439d6a7db58910b86542a83dfe53.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021020228 +0000" stop="20251021023057 +0000">
+    <title>Sonic the Hedgehog, Adventures of</title>
+    <sub-title>Sonic Gets Thrashed</sub-title>
+    <episode-num system="onscreen">S01E21</episode-num>
+    <desc>Sonic joins up with a group of Dr. Robotnik's rejects.</desc>
+    <date>19931019</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7713583c64ff6545c451991f3623cf79.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021023057 +0000" stop="20251021025930 +0000">
+    <title>Sonic the Hedgehog, Adventures of</title>
+    <sub-title>Slowww Going</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Scratch and Grounder use Robotnik's new Slo-Mo Ray Gun to capture Sonic</desc>
+    <date>19930928</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/83cb2d2217172613449e66426a14f16c.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021025930 +0000" stop="20251021032800 +0000">
+    <title>Sonic the Hedgehog, Adventures of</title>
+    <sub-title>Spaceman Sonic</sub-title>
+    <episode-num system="onscreen">S01E33</episode-num>
+    <desc>S and G rocket to outerspace to mine a radioactive mineral from asteroids</desc>
+    <date>19931109</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/04ef1013909f96b250f2c881979e7ab7.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021032800 +0000" stop="20251021035634 +0000">
+    <title>Sonic the Hedgehog, Adventures of</title>
+    <sub-title>Tails' Tale</sub-title>
+    <episode-num system="onscreen">S01E59</episode-num>
+    <desc>When Sonic vanishes mysteriously, Tails enlists the help of a bi-plane pilot named William Le' Duc.</desc>
+    <date>19931201</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c79e7084ad81fc29607e527bb66c1073.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021035634 +0000" stop="20251021042509 +0000">
+    <title>Sonic the Hedgehog, Adventures of</title>
+    <sub-title>Robo-Ninjas</sub-title>
+    <episode-num system="onscreen">S01E64</episode-num>
+    <desc>Robotnik transfers a ninja crane's martial arts knowledge to Scratch and Grounder.</desc>
+    <date>19931007</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0bbe37d1bd4b5ae71187f1d481584e9c.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021042509 +0000" stop="20251021045344 +0000">
+    <title>Sonic the Hedgehog, Adventures of</title>
+    <sub-title>Black Bot the Pirate</sub-title>
+    <episode-num system="onscreen">S01E48</episode-num>
+    <desc>Robotnik invents a time machine to go back in time and gather four powerful gemstones.</desc>
+    <date>19931026</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f50c07032e5d18820ba830be99a11008.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021045344 +0000" stop="20251021052215 +0000">
+    <title>Sonic the Hedgehog, Adventures of</title>
+    <sub-title>Spaceman Sonic</sub-title>
+    <episode-num system="onscreen">S01E33</episode-num>
+    <desc>S and G rocket to outerspace to mine a radioactive mineral from asteroids</desc>
+    <date>19931109</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/04ef1013909f96b250f2c881979e7ab7.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021052215 +0000" stop="20251021055048 +0000">
+    <title>Sonic the Hedgehog, Adventures of</title>
+    <sub-title>Robotnik's Rival</sub-title>
+    <episode-num system="onscreen">S01E36</episode-num>
+    <desc>An evil half-man, half-duck genius teams up with Robotnik to capture Sonic.</desc>
+    <date>19930930</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7b086e32f1c676beb3d4ae9c9026aeb0.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021055048 +0000" stop="20251021061920 +0000">
+    <title>Sonic the Hedgehog, Adventures of</title>
+    <sub-title>Hedgehog of the Hound Table</sub-title>
+    <episode-num system="onscreen">S01E49</episode-num>
+    <desc>Part two in the four part series. Robotnik goes back to medieval times, and enlists the help of...</desc>
+    <date>19931027</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/aa37e66462d186d7faeef0215fb8a8c1.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021061920 +0000" stop="20251021064752 +0000">
+    <title>Sonic the Hedgehog, Adventures of</title>
+    <sub-title>Close Encounter of the Sonic Kind</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Sonic and Tails befriend a pair of aliens who crash land their spaceship on Mobius.</desc>
+    <date>19930923</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/aaefdf7ecd80a572d32b7875e8ff614a.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021064752 +0000" stop="20251021071624 +0000">
+    <title>Sonic the Hedgehog, Adventures of</title>
+    <sub-title>Prehistoric Sonic</sub-title>
+    <episode-num system="onscreen">S01E51</episode-num>
+    <desc>Robotnik learns that the most powerful gemstone is located in Prehistoric Times.</desc>
+    <date>19931029</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7cce1b9d8f4e3a4351ebd133b0d592f2.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021071624 +0000" stop="20251021074452 +0000">
+    <title>Sonic the Hedgehog, Adventures of</title>
+    <sub-title>Sonic Gets Thrashed</sub-title>
+    <episode-num system="onscreen">S01E21</episode-num>
+    <desc>Sonic joins up with a group of Dr. Robotnik's rejects.</desc>
+    <date>19931019</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7713583c64ff6545c451991f3623cf79.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021074452 +0000" stop="20251021081327 +0000">
+    <title>Sonic the Hedgehog, Adventures of</title>
+    <sub-title>The Robots' Robot</sub-title>
+    <episode-num system="onscreen">S01E58</episode-num>
+    <desc>Scratch and Grounder build their own robot, a naive over-grown kid called "Robot".</desc>
+    <date>19931202</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/62839143df45a12c5623424b31f191a1.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021081327 +0000" stop="20251021084239 +0000">
+    <title>Sonic the Hedgehog</title>
+    <sub-title>Dulcy</sub-title>
+    <episode-num system="onscreen">S02E20</episode-num>
+    <desc>After Dulcy exhibits strange behavior, Sally discovers she's going through a "rites of passage".</desc>
+    <date>19941022</date>
+    <icon src="https://image.tmdb.org/t/p/original/cTfNJJjMFitetbaiq7Wnwn8RVzo.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021084239 +0000" stop="20251021091157 +0000">
+    <title>Sonic the Hedgehog</title>
+    <sub-title>Sonic Racer</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Robotnik announces a "race to determine the fastest on Mobius".</desc>
+    <date>19931211</date>
+    <icon src="https://image.tmdb.org/t/p/original/kUyLSW9ayVK08MEPvm7gGFmcUcv.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021091157 +0000" stop="20251021094114 +0000">
+    <title>Sonic the Hedgehog</title>
+    <sub-title>Sub-Sonic</sub-title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <desc>Robotnik severely upsets the ecosystem above and below the surface when he sends explosive.</desc>
+    <date>19931120</date>
+    <icon src="https://image.tmdb.org/t/p/original/dZws9wCQO8PoTdUB3adelHJx8dx.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021094114 +0000" stop="20251021101027 +0000">
+    <title>Sonic the Hedgehog</title>
+    <sub-title>Fed up with Antonie // Ghost-Busted</sub-title>
+    <episode-num system="onscreen">S02E19</episode-num>
+    <desc>Antoine decides to study martial arts // Tails begins his training to become a real Freedom Fighter.</desc>
+    <date>19941015</date>
+    <icon src="https://image.tmdb.org/t/p/original/2wcoCJiqfKX82VuuC7xykp3cYIZ.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021101027 +0000" stop="20251021103944 +0000">
+    <title>Sonic the Hedgehog</title>
+    <sub-title>Game Guy</sub-title>
+    <episode-num system="onscreen">S02E15</episode-num>
+    <desc>The Freedom Fighters run into a Swashbuckler, named Ari, battling Swat-Bots.</desc>
+    <date>19940917</date>
+    <icon src="https://image.tmdb.org/t/p/original/dAuEBTgw8iCtM8kJ5TdW3TD9DuO.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021103944 +0000" stop="20251021110856 +0000">
+    <title>Sonic the Hedgehog</title>
+    <sub-title>Hooked on Sonics</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Sonic faces a dangerous vehicle during a solo mission to the Badlands.</desc>
+    <date>19931106</date>
+    <icon src="https://image.tmdb.org/t/p/original/6gsKYqYBPyF1xNyqncmHFUr6mKz.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021110856 +0000" stop="20251021113812 +0000">
+    <title>Sonic the Hedgehog</title>
+    <sub-title>Sonic Past Cool</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>Tails brings a new friend home to Knothole, a baby Terra-Pod who has strayed from the herd.</desc>
+    <date>19931204</date>
+    <icon src="https://image.tmdb.org/t/p/original/kisZ2T463A06sVMw3ruKjxAXUe9.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021113812 +0000" stop="20251021120728 +0000">
+    <title>Sonic the Hedgehog</title>
+    <sub-title>Cry of the Wolf</sub-title>
+    <episode-num system="onscreen">S02E23</episode-num>
+    <desc>King's List, Sonic and the others are forced to travel through a tunnel which carries a "curse".</desc>
+    <date>19941112</date>
+    <icon src="https://image.tmdb.org/t/p/original/26sq5AOlrxfxCmk05CnG8bgiMDb.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021120728 +0000" stop="20251021123547 +0000">
+    <title>Sonic Underground</title>
+    <sub-title>Mobodoon</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Sonic, Sonia, and Manic return to their birthplace, Mobodoon.</desc>
+    <date>19990901</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTUxMTQ0MTkyMV5BMl5BanBnXkFtZTgwNDUwNjM0MjE@._V1_.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021123547 +0000" stop="20251021130404 +0000">
+    <title>Sonic Underground</title>
+    <sub-title>When in Rome...</sub-title>
+    <episode-num system="onscreen">S01E18</episode-num>
+    <desc>Sonic becomes frustrated that their efforts of fighting for freedom may be futile.</desc>
+    <date>19990922</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTkxNTYwNjc0Nl5BMl5BanBnXkFtZTgwOTEwNjM0MjE@._V1_.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021130404 +0000" stop="20251021133221 +0000">
+    <title>Sonic Underground</title>
+    <sub-title>Friend or Foe</sub-title>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <desc>The Hedgehogs converge on the Floating Island to find their Mother.</desc>
+    <date>19990920</date>
+    <icon src="https://vod-static.plex.tv/thumbnails/669571e6aa9e396bef4fb088/250ccddc-5467-43ed-b709-2d5f8af5036bthumb2.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021133221 +0000" stop="20251021140039 +0000">
+    <title>Sonic Underground</title>
+    <sub-title>Last Resort</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Sonic, Manic, and Sonia stumble upon an oasis called Lake Valley Resort.</desc>
+    <date>19990909</date>
+    <icon src="https://vod-static.plex.tv/thumbnails/66957665aa9e396bef8818fa/16a4a1b0-f18a-4dfe-9d04-04d3fc3cd8dfthumb2.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021140039 +0000" stop="20251021142856 +0000">
+    <title>Sonic Underground</title>
+    <sub-title>Bug</sub-title>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <desc>A faction of the Freedom Fighters is wiped out by a swarm of metallic fly-bots.</desc>
+    <date>19990916</date>
+    <icon src="https://vod-static.plex.tv/thumbnails/669571b5aa9e396bef410e5f/2d0b5f7a-2c6a-4e33-b45a-ef8c8fe80ec2thumb2.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021142856 +0000" stop="20251021145713 +0000">
+    <title>Sonic Underground</title>
+    <sub-title>Tangled Webs</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>The sinister Robotnik blackmails Cyrus, an old friend of Sonic's, by holding his father hostage.</desc>
+    <date>19990906</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNTc5OTE0NDIzMl5BMl5BanBnXkFtZTgwOTMwMDM0MjE@._V1_.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021145713 +0000" stop="20251021152531 +0000">
+    <title>Sonic Underground</title>
+    <sub-title>Who Do You Think You Are</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Queen Aleena's royal journals are rumored to be buried under a palace in the city of Tashistan.</desc>
+    <date>19990908</date>
+    <icon src="https://vod-static.plex.tv/thumbnails/6695764eaa9e396bef81f638/5033ae85-93b1-4092-b31e-cf319c191f0cthumb2.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021152531 +0000" stop="20251021155353 +0000">
+    <title>Sonic Underground</title>
+    <sub-title>A Hedgehog's Home Is Her Castle</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>Sonic, Manic, and Sonia receive a message they may be from their cousin.</desc>
+    <date>19990914</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjEyOTY1OTIzNF5BMl5BanBnXkFtZTgwMDUwMDM0MjE@._V1_.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021155353 +0000" stop="20251021162208 +0000">
+    <title>Sonic Underground</title>
+    <sub-title>Winner Fakes All</sub-title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <desc>Robotnik organizes a track meet to lure Sonic into a trap.</desc>
+    <date>19990913</date>
+    <icon src="https://vod-static.plex.tv/thumbnails/66956f48aa9e396bef8e3c1f/c57dcf5b-903c-48e6-b783-fb3bce1ac763thumb2.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021162208 +0000" stop="20251021165043 +0000">
+    <title>Sonic the Hedgehog, Adventures of</title>
+    <sub-title>Sonic Breakout</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Sonic allows himself to be captured then makes a high speed rescue and escape from prison.</desc>
+    <date>19931102</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a12684c6120c56e38a07a3018af12888.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021165043 +0000" stop="20251021171915 +0000">
+    <title>Sonic the Hedgehog, Adventures of</title>
+    <sub-title>Close Encounter of the Sonic Kind</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Sonic and Tails befriend a pair of aliens who crash land their spaceship on Mobius.</desc>
+    <date>19930923</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/aaefdf7ecd80a572d32b7875e8ff614a.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021171915 +0000" stop="20251021174744 +0000">
+    <title>Sonic the Hedgehog, Adventures of</title>
+    <sub-title>Momma Robotnik's Birthday</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Robotnik's momma escapes from the home for mothers of villains</desc>
+    <date>19930927</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a70b3c1767bd21d2869fa14c4ffd48db.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021174744 +0000" stop="20251021181614 +0000">
+    <title>Sonic the Hedgehog, Adventures of</title>
+    <sub-title>King Coconuts (AKA: "Big Daddy")</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Coconuts is exiled by Robotnik to a remote jungle; he uses a giant baby ape to destroy villages.</desc>
+    <date>19930923</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/aaefdf7ecd80a572d32b7875e8ff614a.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021181614 +0000" stop="20251021184445 +0000">
+    <title>Sonic the Hedgehog, Adventures of</title>
+    <sub-title>Sonic's Song</sub-title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <desc>Robotnik outlaws music on Mobius then takes a pop star captive.</desc>
+    <date>19930929</date>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b860439d6a7db58910b86542a83dfe53.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021184445 +0000" stop="20251021191323 +0000">
+    <title>Sonic the Hedgehog, Adventures of</title>
+    <sub-title>Birth of a Salesman</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>A fast talking, travelling salesman named Wes sells Robotnik various hedgehog-catching gadgets</desc>
+    <date>19930908</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d773cfa5f29ea01db122bf4f168af8a6.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021191323 +0000" stop="20251021194155 +0000">
+    <title>Sonic the Hedgehog, Adventures of</title>
+    <sub-title>The Robotnik Express</sub-title>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <desc>The leader of a group of biker-bear rebels mistakes Scratch and Grounder for Sonic and Tails</desc>
+    <date>19930924</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9dd8d205026cc450a1ab874ad56c46bc.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021194155 +0000" stop="20251021201027 +0000">
+    <title>Sonic the Hedgehog, Adventures of</title>
+    <sub-title>Too Tall Tails</sub-title>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <desc>Tails gets a megadose of Robotniks growth gas and grows quickly to monstrous proportions.</desc>
+    <date>19930908</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d773cfa5f29ea01db122bf4f168af8a6.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021201027 +0000" stop="20251021203939 +0000">
+    <title>Sonic the Hedgehog</title>
+    <sub-title>Dulcy</sub-title>
+    <episode-num system="onscreen">S02E20</episode-num>
+    <desc>After Dulcy exhibits strange behavior, Sally discovers she's going through a "rites of passage".</desc>
+    <date>19941022</date>
+    <icon src="https://image.tmdb.org/t/p/original/cTfNJJjMFitetbaiq7Wnwn8RVzo.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021203939 +0000" stop="20251021210855 +0000">
+    <title>Sonic the Hedgehog</title>
+    <sub-title>Sonic Past Cool</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>Tails brings a new friend home to Knothole, a baby Terra-Pod who has strayed from the herd.</desc>
+    <date>19931204</date>
+    <icon src="https://image.tmdb.org/t/p/original/kisZ2T463A06sVMw3ruKjxAXUe9.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021210855 +0000" stop="20251021213808 +0000">
+    <title>Sonic the Hedgehog</title>
+    <sub-title>Harmonic Sonic</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Robotnik launches a spy satellite in an effort to locate Knothole Village.</desc>
+    <date>19931009</date>
+    <icon src="https://image.tmdb.org/t/p/original/rgvJlRadhofBL37kARYDmofx3Ur.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021213808 +0000" stop="20251021220720 +0000">
+    <title>Sonic the Hedgehog</title>
+    <sub-title>The Odd Couple // Ro-Becca</sub-title>
+    <episode-num system="onscreen">S02E22</episode-num>
+    <desc>A blizzard hits Knothole // Rotor is putting the finishing touches on his new female robot assistant</desc>
+    <date>19941105</date>
+    <icon src="https://image.tmdb.org/t/p/original/b0Nst7pJIO7qDap601q93OKzUfW.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021220720 +0000" stop="20251021223634 +0000">
+    <title>Sonic the Hedgehog</title>
+    <sub-title>The Doomsday Project</sub-title>
+    <episode-num system="onscreen">S02E26</episode-num>
+    <desc>When a Pod lands in Knothole, Sonic and Sally realize the Doomsday Machine is already in operation.</desc>
+    <date>19941203</date>
+    <icon src="https://image.tmdb.org/t/p/original/diN2T1p4Bg8p8Gt75mlH3GTCMFV.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021223634 +0000" stop="20251021230551 +0000">
+    <title>Sonic the Hedgehog</title>
+    <sub-title>No Brainer</sub-title>
+    <episode-num system="onscreen">S02E16</episode-num>
+    <desc>Sonic attempts a solo rescue to prevent prisoners from being roboti-sized.</desc>
+    <date>19940924</date>
+    <icon src="https://image.tmdb.org/t/p/original/AnoliMLro7MsnnBfLfDwlkZ6YeN.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021230551 +0000" stop="20251021233503 +0000">
+    <title>Sonic the Hedgehog</title>
+    <sub-title>Hooked on Sonics</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Sonic faces a dangerous vehicle during a solo mission to the Badlands.</desc>
+    <date>19931106</date>
+    <icon src="https://image.tmdb.org/t/p/original/6gsKYqYBPyF1xNyqncmHFUr6mKz.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251021233503 +0000" stop="20251022000418 +0000">
+    <title>Sonic the Hedgehog</title>
+    <sub-title>Warp Sonic</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>When Sonic and The Freedom Fighters take out Robotnik's main computer, they're trapped by Swat-Bots.</desc>
+    <date>19931030</date>
+    <icon src="https://image.tmdb.org/t/p/original/iBTM4ZCRq4E05FUgcSeQHBKRKSa.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251022000418 +0000" stop="20251022003235 +0000">
+    <title>Sonic Underground</title>
+    <sub-title>Bug</sub-title>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <desc>A faction of the Freedom Fighters is wiped out by a swarm of metallic fly-bots.</desc>
+    <date>19990916</date>
+    <icon src="https://vod-static.plex.tv/thumbnails/669571b5aa9e396bef410e5f/2d0b5f7a-2c6a-4e33-b45a-ef8c8fe80ec2thumb2.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251022003235 +0000" stop="20251022010053 +0000">
+    <title>Sonic Underground</title>
+    <sub-title>Underground Masquerade</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Sleet and Dingo collect the taxes owed to Robotnik but keep it for themselves.</desc>
+    <date>19990903</date>
+    <icon src="https://vod-static.plex.tv/thumbnails/66957641aa9e396bef7e6f6b/f0197921-70d6-4f7e-bdaa-36a97d479cf8thumb2.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" start="20251022010053 +0000" stop="20251022012910 +0000">
+    <title>Sonic Underground</title>
+    <sub-title>Wedding Bell Blues</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Robotnik announces that he will marry Queen Aleena in a plot to become the king of Mobius.</desc>
+    <date>19991004</date>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0MYOAQ11EY81/1280x720.jpg?fb=https%253A%252F%252Fimage.xumo.com%252Fv1%252Fchannels%252Fchannel%252F88889383%252F1280x720.jpg%253Ftype%253DtrcChannelTile"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66be944f8711311880995280" start="20251021000000 +0000" stop="20251021021500 +0000">
+    <title>Shogun's Ninja</title>
+    <category>Movie</category>
+    <desc>In the middle of the 16th century, Hideyoshi, a power hungry warlord sets out to destroy the Momochi clan. He sends his war commander in search of the clan's hidden gold only to find that two daggers are the key to the hiding place of the treasured gold. Spanning decades, the quest for the missing daggers takes Shiranui through war and ancient tradition.</desc>
+    <date>19801115</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e7dfc2719b5d6e2041ca6e328bfbd8ed.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66be944f8711311880995280" start="20251021021500 +0000" stop="20251021040000 +0000">
+    <title>The Italian Connection</title>
+    <category>Movie</category>
+    <desc>The mob, bent on murderous revenge, pursues a man they mistakenly believe responsible for the theft of one of their drug shipments. Their elusive prey, however, has plans of his own, and they also include revenge.</desc>
+    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/AHPG_The-Italian-Connection_2x3.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66be944f8711311880995280" start="20251021040000 +0000" stop="20251021060000 +0000">
+    <title>Grave Of The Vampire</title>
+    <category>Movie</category>
+    <desc>A young man, born of a rape committed by a legendary vampire against a living woman, vows to locate and vanquish his undead father.</desc>
+    <date>19721013</date>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b721f3e8c2f1a3149c3acd99598fc629.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66be944f8711311880995280" start="20251021060000 +0000" stop="20251021081500 +0000">
+    <title>Shogun's Ninja</title>
+    <category>Movie</category>
+    <desc>In the middle of the 16th century, Hideyoshi, a power hungry warlord sets out to destroy the Momochi clan. He sends his war commander in search of the clan's hidden gold only to find that two daggers are the key to the hiding place of the treasured gold. Spanning decades, the quest for the missing daggers takes Shiranui through war and ancient tradition.</desc>
+    <date>19801115</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e7dfc2719b5d6e2041ca6e328bfbd8ed.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66be944f8711311880995280" start="20251021081500 +0000" stop="20251021100000 +0000">
+    <title>The Italian Connection</title>
+    <category>Movie</category>
+    <desc>The mob, bent on murderous revenge, pursues a man they mistakenly believe responsible for the theft of one of their drug shipments. Their elusive prey, however, has plans of his own, and they also include revenge.</desc>
+    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/AHPG_The-Italian-Connection_2x3.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66be944f8711311880995280" start="20251021100000 +0000" stop="20251021115000 +0000">
+    <title>Sister Street Fighter</title>
+    <category>Movie</category>
+    <desc>A young martial artist is on a mission to rescue her brother who's being held captive by a sadistic drug lord.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/060423c6-467c-42c9-bae9-de296bb0ce08/Action_Hollywood_Movies_artwork_vertical_-_Angela_ChanRDX.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66be944f8711311880995280" start="20251021115000 +0000" stop="20251021134500 +0000">
+    <title>The Hellbenders</title>
+    <category>Movie</category>
+    <desc>After the civil war, a hell-bent Confederate Army Officer and his sons rob a Union Caravan carrying a fortune, killing every man and beast in the process. They hide the money in an empty coffin and hire a woman to pose as a widow to a dead officer to make it look official. Now they must con and fight their way across the west through thousands of cavalry, lawmen, bounty hunters, and Indians to make their escape.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOWJjZmU0MTktMDAwNC00MzQ5LTg1M2YtMmY3Njg4OTQzOTk3XkEyXkFqcGc@._V1_.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66be944f8711311880995280" start="20251021134500 +0000" stop="20251021160000 +0000">
+    <title>Trinity Is Still My Name</title>
+    <category>Movie</category>
+    <desc>Two brothers try to fulfill the promise they made to their dying father.</desc>
+    <date>19711021</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7e8f4a7e0146f3994a7619d3377144d3.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66be944f8711311880995280" start="20251021160000 +0000" stop="20251021175000 +0000">
+    <title>Sister Street Fighter</title>
+    <category>Movie</category>
+    <desc>A young martial artist is on a mission to rescue her brother who's being held captive by a sadistic drug lord.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/060423c6-467c-42c9-bae9-de296bb0ce08/Action_Hollywood_Movies_artwork_vertical_-_Angela_ChanRDX.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66be944f8711311880995280" start="20251021175000 +0000" stop="20251021194500 +0000">
+    <title>The Hellbenders</title>
+    <category>Movie</category>
+    <desc>After the civil war, a hell-bent Confederate Army Officer and his sons rob a Union Caravan carrying a fortune, killing every man and beast in the process. They hide the money in an empty coffin and hire a woman to pose as a widow to a dead officer to make it look official. Now they must con and fight their way across the west through thousands of cavalry, lawmen, bounty hunters, and Indians to make their escape.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOWJjZmU0MTktMDAwNC00MzQ5LTg1M2YtMmY3Njg4OTQzOTk3XkEyXkFqcGc@._V1_.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66be944f8711311880995280" start="20251021194500 +0000" stop="20251021220000 +0000">
+    <title>Trinity Is Still My Name</title>
+    <category>Movie</category>
+    <desc>Two brothers try to fulfill the promise they made to their dying father.</desc>
+    <date>19711021</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7e8f4a7e0146f3994a7619d3377144d3.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66be944f8711311880995280" start="20251021220000 +0000" stop="20251021235000 +0000">
+    <title>Sister Street Fighter</title>
+    <category>Movie</category>
+    <desc>A young martial artist is on a mission to rescue her brother who's being held captive by a sadistic drug lord.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/060423c6-467c-42c9-bae9-de296bb0ce08/Action_Hollywood_Movies_artwork_vertical_-_Angela_ChanRDX.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66be944f8711311880995280" start="20251021235000 +0000" stop="20251022014500 +0000">
+    <title>The Hellbenders</title>
+    <category>Movie</category>
+    <desc>After the civil war, a hell-bent Confederate Army Officer and his sons rob a Union Caravan carrying a fortune, killing every man and beast in the process. They hide the money in an empty coffin and hire a woman to pose as a widow to a dead officer to make it look official. Now they must con and fight their way across the west through thousands of cavalry, lawmen, bounty hunters, and Indians to make their escape.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOWJjZmU0MTktMDAwNC00MzQ5LTg1M2YtMmY3Njg4OTQzOTk3XkEyXkFqcGc@._V1_.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" start="20251021000000 +0000" stop="20251021060000 +0000">
+    <title>SOUNDS OF TRACE</title>
+    <category>Music</category>
+    <desc>The music never stops on TRACE Urban ! Sounds of Trace is here to make you enjoy the hottest global hits</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/d4df3987-704d-4d60-b58e-20282c2becca/trace_urban_artwork_vertical_-_Nathan_BECKER.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" start="20251021060000 +0000" stop="20251021120000 +0000">
+    <title>URBAN VIBES</title>
+    <category>Music</category>
+    <desc>All the 'original' Urban hits.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/d4df3987-704d-4d60-b58e-20282c2becca/trace_urban_artwork_vertical_-_Nathan_BECKER.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" start="20251021120000 +0000" stop="20251021180000 +0000">
+    <title>HITS NON STOP</title>
+    <category>Music</category>
+    <desc>All the big tunes from around the world.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/d4df3987-704d-4d60-b58e-20282c2becca/trace_urban_artwork_vertical_-_Nathan_BECKER.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" start="20251021180000 +0000" stop="20251021184500 +0000">
+    <title>HIT 10</title>
+    <category>Music</category>
+    <desc>The ranking of the top 10 Urban Hits worldwide.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/d4df3987-704d-4d60-b58e-20282c2becca/trace_urban_artwork_vertical_-_Nathan_BECKER.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" start="20251021184500 +0000" stop="20251021190000 +0000">
+    <title>HITS NON STOP</title>
+    <category>Music</category>
+    <desc>All the big tunes from around the world.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/d4df3987-704d-4d60-b58e-20282c2becca/trace_urban_artwork_vertical_-_Nathan_BECKER.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" start="20251021190000 +0000" stop="20251021200000 +0000">
+    <title>HITS &amp; LYRICS</title>
+    <category>Music</category>
+    <desc>Sing along to your favorite videos, Karaoke style.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/d4df3987-704d-4d60-b58e-20282c2becca/trace_urban_artwork_vertical_-_Nathan_BECKER.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" start="20251021200000 +0000" stop="20251021204500 +0000">
+    <title>TOP 10 CALIENTE</title>
+    <category>Music</category>
+    <desc>Top 10 countdown of all the better caliente videos from around the world.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/d4df3987-704d-4d60-b58e-20282c2becca/trace_urban_artwork_vertical_-_Nathan_BECKER.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" start="20251021204500 +0000" stop="20251021210000 +0000">
+    <title>HITS NON STOP</title>
+    <category>Music</category>
+    <desc>All the big tunes from around the world.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/d4df3987-704d-4d60-b58e-20282c2becca/trace_urban_artwork_vertical_-_Nathan_BECKER.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" start="20251021210000 +0000" stop="20251021220000 +0000">
+    <title>HITS NON STOP</title>
+    <category>Music</category>
+    <desc>All the big tunes from around the world.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/d4df3987-704d-4d60-b58e-20282c2becca/trace_urban_artwork_vertical_-_Nathan_BECKER.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" start="20251021220000 +0000" stop="20251021230000 +0000">
+    <title>STREAM IT</title>
+    <category>Music</category>
+    <desc>The top 10 tracks downloaded and streamed worldwide this week</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/d4df3987-704d-4d60-b58e-20282c2becca/trace_urban_artwork_vertical_-_Nathan_BECKER.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" start="20251021230000 +0000" stop="20251022000000 +0000">
+    <title>NEW</title>
+    <category>Music</category>
+    <desc>An hour dedicated to freshness, NEW brings you the all the latest videos of your favorite artists.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/d4df3987-704d-4d60-b58e-20282c2becca/trace_urban_artwork_vertical_-_Nathan_BECKER.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" start="20251022000000 +0000" stop="20251022060000 +0000">
+    <title>SOUNDS OF TRACE</title>
+    <category>Music</category>
+    <desc>The music never stops on TRACE Urban ! Sounds of Trace is here to make you enjoy the hottest global hits</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/d4df3987-704d-4d60-b58e-20282c2becca/trace_urban_artwork_vertical_-_Nathan_BECKER.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251020234804 +0000" stop="20251021013522 +0000">
+    <title>The Good Witch's Family</title>
+    <category>Movie</category>
+    <desc>Hallmark Original Movie. Cassie Nightingale and her family receive a visit from a mysterious woman.</desc>
+    <date>20110805</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/76e2b793dfe748e2358c9638bc450dd3.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251021013522 +0000" stop="20251021032104 +0000">
+    <title>The Good Witch's Garden</title>
+    <category>Movie</category>
+    <desc>Hallmark Original Movie. Good witch Cassie Nightingale has finally found a home at stately Grey House.</desc>
+    <date>20090207</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/accc6de4797fda6f4cddfa8ee4c019eb.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251021032104 +0000" stop="20251021050820 +0000">
+    <title>The Good Witch's Gift</title>
+    <category>Movie</category>
+    <desc>Hallmark Original Movie. Cassie is surprised when Jake proposes their wedding date for Christmas Eve.</desc>
+    <date>20101113</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/35146705c4687e3048491a4b6e08406d.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251021050820 +0000" stop="20251021065406 +0000">
+    <title>The Good Witch's Wonder</title>
+    <category>Movie</category>
+    <desc>Hallmark Original Movie. Cassie Nightingale is helping to plan her stepson's wedding.</desc>
+    <date>20141025</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0397b42fe5d4d8ea9677af9f8589629b.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251021065406 +0000" stop="20251021083919 +0000">
+    <title>Good Witch Halloween</title>
+    <category>Movie</category>
+    <desc>Hallmark Original Movie. Cassie and the town of Middleton are preparing for the annual Harvest Festival.</desc>
+    <date>20151024</date>
+    <icon src="https://d181vyfqlenfbz.cloudfront.net/CMHMO/MOVINA031450_MOVINA031450_HMMORE_portrait.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251021083919 +0000" stop="20251021101754 +0000">
+    <title>Good Witch: Curse From a Rose</title>
+    <category>Movie</category>
+    <desc>Hallmark Original Movie. All is fair in love and Halloween.</desc>
+    <date>20191019</date>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b53ef7c6f8d64c8f116b0988634ad9c2.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251021101754 +0000" stop="20251021111054 +0000">
+    <title>Good Witch</title>
+    <sub-title>A Budding Romance</sub-title>
+    <episode-num system="onscreen">S03E01</episode-num>
+    <desc>Hallmark Original Series. The whole town anxiously awaits the impending blooming of the Middleton.</desc>
+    <date>20170430</date>
+    <icon src="https://image.tmdb.org/t/p/original/xBQHNURFH4Dup6RWKKew1GxQMVA.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251021111054 +0000" stop="20251021120054 +0000">
+    <title>Good Witch</title>
+    <sub-title>Without Magic for a Spell</sub-title>
+    <episode-num system="onscreen">S03E02</episode-num>
+    <desc>Hallmark Original Series. The Middleton Merriwick is still not in bloom.</desc>
+    <date>20170507</date>
+    <icon src="https://image.tmdb.org/t/p/original/83zKjRmQlF7wgGZ4A8MWe6XiRYs.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251021120054 +0000" stop="20251021125354 +0000">
+    <title>Good Witch</title>
+    <sub-title>Day After Day</sub-title>
+    <episode-num system="onscreen">S03E03</episode-num>
+    <desc>Hallmark Original Series. Two guests arrive at Grey House and are immediately at odds.</desc>
+    <date>20170514</date>
+    <icon src="https://image.tmdb.org/t/p/original/fsSnvSfTzxoA67bmxLuwYSrt9NH.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251021125354 +0000" stop="20251021134425 +0000">
+    <title>Good Witch</title>
+    <sub-title>How to Say 'I Love You!'</sub-title>
+    <episode-num system="onscreen">S03E04</episode-num>
+    <desc>Hallmark Original Series. The town is caught up in romance when Cassie helps Ben find an old film.</desc>
+    <date>20170521</date>
+    <icon src="https://image.tmdb.org/t/p/original/sooaTxVx3MRU7LUlk8GJePP89LL.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251021134425 +0000" stop="20251021143425 +0000">
+    <title>Good Witch</title>
+    <sub-title>A Birthday Wish</sub-title>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <desc>Hallmark Original Series. When a visiting chef is unable to relax, Cassie arranges for a day at the stove.</desc>
+    <date>20170528</date>
+    <icon src="https://image.tmdb.org/t/p/original/wDroZL6dpe1tcR5uM5nEPT6WLj8.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251021143425 +0000" stop="20251021152955 +0000">
+    <title>Good Witch</title>
+    <sub-title>Say It with Candy</sub-title>
+    <episode-num system="onscreen">S03E06</episode-num>
+    <desc>Hallmark Original Series. Abigail, jealous of Cassie's attention, decides to sell "special" chocolates.</desc>
+    <date>20170604</date>
+    <icon src="https://image.tmdb.org/t/p/original/trdMKX4YY8B6PtsT3xrFq9NbK2Q.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251021152955 +0000" stop="20251021162025 +0000">
+    <title>Good Witch</title>
+    <sub-title>In Sickness and in Health</sub-title>
+    <episode-num system="onscreen">S03E07</episode-num>
+    <desc>Hallmark Original Series. Cassie gives a withdrawn traveling artist a new paintbrush.</desc>
+    <date>20170611</date>
+    <icon src="https://image.tmdb.org/t/p/original/aKYgPUpY99R1PuPvSQyX9SIDAIQ.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251021162025 +0000" stop="20251021171056 +0000">
+    <title>Good Witch</title>
+    <sub-title>Somewhat Surprising</sub-title>
+    <episode-num system="onscreen">S03E08</episode-num>
+    <desc>Hallmark Original Series. Cassie decides to plan a surprise party for Sam.</desc>
+    <date>20170618</date>
+    <icon src="https://image.tmdb.org/t/p/original/o5BMagtpivbhyBLTenZ0Qjj823i.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251021171056 +0000" stop="20251021180326 +0000">
+    <title>Good Witch</title>
+    <sub-title>Not Getting Married Today, Part 1</sub-title>
+    <episode-num system="onscreen">S03E09</episode-num>
+    <desc>Hallmark Original Series. Cassie discovers a 10-year-old girl playing in the bushes at Grey House.</desc>
+    <date>20170625</date>
+    <icon src="https://image.tmdb.org/t/p/original/a4LcLFP8b0x15WvJLyDlo3r1Bux.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251021180326 +0000" stop="20251021185356 +0000">
+    <title>Good Witch</title>
+    <sub-title>Not Getting Married Today, Part 2</sub-title>
+    <episode-num system="onscreen">S03E10</episode-num>
+    <desc>Hallmark Original Series. Sam and Cassie face their future together.</desc>
+    <date>20170702</date>
+    <icon src="https://image.tmdb.org/t/p/original/4guUGqLGw0qkZXwoCsVxg67CvyQ.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251021185356 +0000" stop="20251021194836 +0000">
+    <title>Good Witch</title>
+    <sub-title>With This Ring</sub-title>
+    <episode-num system="onscreen">S04E01</episode-num>
+    <desc>Hallmark Original Series. Abigail helps Sam search for the perfect engagement ring for Cassie.</desc>
+    <date>20180429</date>
+    <icon src="https://image.tmdb.org/t/p/original/wOLuNrPioJryp5LRmKpavZy2g3i.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251021194836 +0000" stop="20251021203947 +0000">
+    <title>Good Witch</title>
+    <sub-title>In 4/4, with Emotion</sub-title>
+    <episode-num system="onscreen">S04E02</episode-num>
+    <desc>Hallmark Original Series. Cassie and Sam learn to communicate about their future together.</desc>
+    <date>20180506</date>
+    <icon src="https://image.tmdb.org/t/p/original/uf3357o0m96py9hKmN5Ob2aNDqY.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251021203947 +0000" stop="20251021213232 +0000">
+    <title>Good Witch</title>
+    <sub-title>Daddy's Home</sub-title>
+    <episode-num system="onscreen">S04E03</episode-num>
+    <desc>Hallmark Original Series. Grace is forced to think about her future.</desc>
+    <date>20180513</date>
+    <icon src="https://image.tmdb.org/t/p/original/l8pbKevsDMzGWqyWSQXNfs6C5e6.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251021213232 +0000" stop="20251021222602 +0000">
+    <title>Good Witch</title>
+    <sub-title>Family Time</sub-title>
+    <episode-num system="onscreen">S04E04</episode-num>
+    <desc>Hallmark Original Series. Cassie faces a few obstacles before they start acting like a family again.</desc>
+    <date>20180520</date>
+    <icon src="https://image.tmdb.org/t/p/original/2x7gwyVaUalrNaDhWeiPCSEJGrM.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251021222602 +0000" stop="20251021231422 +0000">
+    <title>Good Witch</title>
+    <sub-title>Written Like a Merriwick</sub-title>
+    <episode-num system="onscreen">S04E05</episode-num>
+    <desc>Hallmark Original Series. Grace finds herself under the spell of Elizabeth Merriwick.</desc>
+    <date>20180527</date>
+    <icon src="https://image.tmdb.org/t/p/original/vcwX172gQixET3bmsyw2fxpnORG.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251021231422 +0000" stop="20251022000517 +0000">
+    <title>Good Witch</title>
+    <sub-title>Match Game</sub-title>
+    <episode-num system="onscreen">S04E06</episode-num>
+    <desc>Hallmark Original Series. Cassie and Sam play detective matchmaker.</desc>
+    <date>20180603</date>
+    <icon src="https://image.tmdb.org/t/p/original/aPWdE4qQh1Fi9ipUeZOcjnmdhGt.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251022000517 +0000" stop="20251022005846 +0000">
+    <title>Good Witch</title>
+    <sub-title>Til Death Do Us Part</sub-title>
+    <episode-num system="onscreen">S04E07</episode-num>
+    <desc>Hallmark Original Series. Abigial shares the same history with her budding romance, Phil.</desc>
+    <date>20180610</date>
+    <icon src="https://image.tmdb.org/t/p/original/nycG43vlWYa9gU8LibXD2GiPydY.jpg"/>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" start="20251022005846 +0000" stop="20251022015146 +0000">
+    <title>Good Witch</title>
+    <sub-title>All Dressed Up</sub-title>
+    <episode-num system="onscreen">S04E08</episode-num>
+    <desc>Hallmark Original Series. Cassie sets out to track down Elizibeth Merriwick's original wedding dress.</desc>
+    <date>20180617</date>
+    <icon src="https://image.tmdb.org/t/p/original/5EM8CAS3lMdUamazvbVMTeNuLgG.jpg"/>
   </programme>
   
 </tv>
