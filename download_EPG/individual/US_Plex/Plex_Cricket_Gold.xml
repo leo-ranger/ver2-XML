@@ -1,121 +1,112 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224">
+<channel id="68fa84637ac952737656ae5f-65e0c8c6d899afe817b9d224">
     <display-name>Cricket Gold</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224" start="20251022235958 +0000" stop="20251023020050 +0000">
-    <title>2002/03 Ashes - 1st Test - Day 1 - Morning Session</title>
-    <category>Movie</category>
-    <date>20251022</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224" start="20251023020050 +0000" stop="20251023035719 +0000">
-    <title>2002/03 Ashes - 1st Test - Day 1 - Afternoon Session</title>
-    <category>Movie</category>
-    <date>20251023</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224" start="20251023035719 +0000" stop="20251023061658 +0000">
-    <title>2002/03 Ashes - 1st Test - Day 1 - Evening Session</title>
-    <category>Movie</category>
-    <date>20251023</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224" start="20251023061658 +0000" stop="20251023071658 +0000">
-    <title>Australia v India - Match 1 - 2003/04 ODI Tri-Series</title>
-    <category>Movie</category>
-    <date>20251023</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224" start="20251023071658 +0000" stop="20251023081059 +0000">
-    <title>2003/04 ODI Tri-Series - Match 02 - Australia v Zimbabwe</title>
-    <category>Movie</category>
-    <date>20251023</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224" start="20251023081059 +0000" stop="20251023101259 +0000">
-    <title>BBL|01 - Match 11 - Perth Scorchers v Brisbane Heat</title>
-    <category>Movie</category>
-    <date>20251021</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224" start="20251023101259 +0000" stop="20251023110259 +0000">
-    <title>1996/97 World Series Cup - Match 12 - Australia v Pakistan</title>
-    <category>Movie</category>
-    <date>20251022</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224" start="20251023110259 +0000" stop="20251023115500 +0000">
-    <title>1999/00 World Series Cup - Match 6 - Australia v Pakistan</title>
-    <category>Movie</category>
-    <date>20251021</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224" start="20251023115500 +0000" stop="20251023124959 +0000">
-    <title>2 Nations, 1 Obsession - Episode 1</title>
-    <category>Movie</category>
-    <desc>In terms of rivalries in world sport, there is arguably none as fierce as that between the Australia and Indian cricket. -   - This documentary explores the stories behind the remarkable 1986 Tied Test in Madras, the gripping final over bowled by Greg Matthews plus the remarkable feat that was Dean Jones’ double hundred. -   - Fast-forward 15 years and the 2001 series between the nations is widely regarded as one of the best series ever played. In particular, the dramatic Third Test where a plucky young off spinner named Harbhajan Singh ripped through Australia to take 15 wickets for the match, and lead India to victory. -   - 2 Nations 1 Obsession isn’t just an epic Cricket story – it’s a tale of how two countries with such different DNA - can be brought together for the love of a game. -   - Allan Border, Sunil Gavaskar, Greg Matthews, Adam Gilchrist, Ravi Shastri and Stuart Clark are just a few of the cricket legends who feature prominently in this film.</desc>
-    <date>20251023</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224" start="20251023124959 +0000" stop="20251023134803 +0000">
-    <title>2 Nations, 1 Obsession - Episode 2</title>
-    <category>Movie</category>
-    <desc>In terms of rivalries in world sport, there is arguably none as fierce as that between the Australia and Indian cricket. -   - This documentary explores the stories behind the remarkable 1986 Tied Test in Madras, the gripping final over bowled by Greg Matthews plus the remarkable feat that was Dean Jones’ double hundred. -   - Fast-forward 15 years and the 2001 series between the nations is widely regarded as one of the best series ever played. In particular, the dramatic Third Test where a plucky young off spinner named Harbhajan Singh ripped through Australia to take 15 wickets for the match, and lead India to victory. -   - 2 Nations 1 Obsession isn’t just an epic Cricket story – it’s a tale of how two countries with such different DNA - can be brought together for the love of a game. -   - Allan Border, Sunil Gavaskar, Greg Matthews, Adam Gilchrist, Ravi Shastri and Stuart Clark are just a few of the cricket legends who feature prominently in this film.</desc>
-    <date>20251023</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224" start="20251023134803 +0000" stop="20251023154855 +0000">
-    <title>2002/03 Ashes - 1st Test - Day 1 - Morning Session</title>
-    <category>Movie</category>
-    <date>20251022</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224" start="20251023154855 +0000" stop="20251023174524 +0000">
-    <title>2002/03 Ashes - 1st Test - Day 1 - Afternoon Session</title>
-    <category>Movie</category>
-    <date>20251023</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224" start="20251023174524 +0000" stop="20251023200103 +0000">
-    <title>2002/03 Ashes - 1st Test - Day 1 - Evening Session</title>
-    <category>Movie</category>
-    <date>20251023</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224" start="20251023200103 +0000" stop="20251023220059 +0000">
-    <title>Australia v India - 2nd Test - 2003/04 Border-Gavaskar Trophy</title>
-    <category>Movie</category>
-    <date>20251023</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224" start="20251023220059 +0000" stop="20251024000059 +0000">
-    <title>Australia v India - 3rd Test - 2003/04 Border-Gavaskar Trophy</title>
-    <category>Movie</category>
-    <date>20251023</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224" start="20251024000059 +0000" stop="20251024014929 +0000">
+<programme channel="68fa84637ac952737656ae5f-65e0c8c6d899afe817b9d224" start="20251024000059 +0000" stop="20251024014929 +0000">
     <title>Australia v India - 3rd Test - 1999/00 Border-Gavaskar Trophy</title>
     <category>Movie</category>
-    <date>20251021</date>
+    <date>20251024</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65e0c8c6d899afe817b9d224" start="20251024014929 +0000" stop="20251024024115 +0000">
+    <title>1999/00 World Series Cup - Match 5 - Australia v Pakistan</title>
+    <category>Movie</category>
+    <date>20251024</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65e0c8c6d899afe817b9d224" start="20251024024115 +0000" stop="20251024024415 +0000">
+    <title>Two Minute Classics: Chris Gayle 100 v Strikers - BBL|01</title>
+    <category>Movie</category>
+    <date>20251024</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65e0c8c6d899afe817b9d224" start="20251024024415 +0000" stop="20251024033430 +0000">
+    <title>1996/97 World Series Cup - Match 1 - Australia v West Indies</title>
+    <category>Movie</category>
+    <date>20251022</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65e0c8c6d899afe817b9d224" start="20251024033430 +0000" stop="20251024052316 +0000">
+    <title>Australia v India - 4th Test - 2003/04 Border-Gavaskar Trophy</title>
+    <category>Movie</category>
+    <date>20251024</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65e0c8c6d899afe817b9d224" start="20251024052316 +0000" stop="20251024072316 +0000">
+    <title>BBL|01 - Match 1 - Sydney Sixers v Brisbane Heat</title>
+    <category>Movie</category>
+    <date>20251024</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65e0c8c6d899afe817b9d224" start="20251024072316 +0000" stop="20251024092316 +0000">
+    <title>BBL|01 - Match 2 - Melbourne Stars v Sydney Thunder</title>
+    <category>Movie</category>
+    <date>20251024</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65e0c8c6d899afe817b9d224" start="20251024092316 +0000" stop="20251024112316 +0000">
+    <title>BBL|01 - Match 3 - Adelaide Strikers v Melbourne Renegades</title>
+    <category>Movie</category>
+    <date>20251024</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65e0c8c6d899afe817b9d224" start="20251024112316 +0000" stop="20251024132317 +0000">
+    <title>BBL|01 - Match 4 - Perth Scorchers v Hobart Hurricanes</title>
+    <category>Movie</category>
+    <date>20251024</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65e0c8c6d899afe817b9d224" start="20251024132317 +0000" stop="20251024151317 +0000">
+    <title>BBL|01 - Match 5 - Brisbane Heat v Melbourne Stars</title>
+    <category>Movie</category>
+    <date>20251024</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65e0c8c6d899afe817b9d224" start="20251024151317 +0000" stop="20251024171316 +0000">
+    <title>BBL|01 - Match 6 - Hobart Hurricanes v Sydney Sixers</title>
+    <category>Movie</category>
+    <date>20251024</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65e0c8c6d899afe817b9d224" start="20251024171316 +0000" stop="20251024191316 +0000">
+    <title>BBL|01 - Match 7 - Melbourne Renegades v Perth Scorchers</title>
+    <category>Movie</category>
+    <date>20251024</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65e0c8c6d899afe817b9d224" start="20251024191316 +0000" stop="20251024211316 +0000">
+    <title>BBL|01 - Match 8 - Sydney Thunder v Adelaide Strikers</title>
+    <category>Movie</category>
+    <date>20251024</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65e0c8c6d899afe817b9d224" start="20251024211316 +0000" stop="20251024231316 +0000">
+    <title>BBL|01 - Match 9 - Sydney Sixers v Melbourne Stars</title>
+    <category>Movie</category>
+    <date>20251024</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65e0c8c6d899afe817b9d224" start="20251024231316 +0000" stop="20251025011316 +0000">
+    <title>BBL|01 - Match 10 - Adelaide Strikers v Hobart Hurricanes</title>
+    <category>Movie</category>
+    <date>20251024</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg" />
   </programme>
   

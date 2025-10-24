@@ -1,36 +1,59 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-67a1421f114554261db9e459">
+<channel id="68fa84637ac952737656ae5f-67a1421f114554261db9e459">
     <display-name>Shades of Black</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/53586be4-1649-4bba-96af-339ba6d18607/Shades_Of_Black_Logo_forDarkBG_1500x1000.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-67a1421f114554261db9e459" start="20251022232726 +0000" stop="20251023011814 +0000">
-    <title>The Temptations</title>
-    <sub-title>Episode 2</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Biopic of the singers who formed the hit Motown musical act, The Temptations.</desc>
-    <date>19981102</date>
-    <icon src="https://image.tmdb.org/t/p/original/jtbMXCbXPzcQ4CuIZLAwBVLIEEr.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-67a1421f114554261db9e459" start="20251023011814 +0000" stop="20251023032836 +0000">
-    <title>Eve’s Bayou</title>
+<programme channel="68fa84637ac952737656ae5f-67a1421f114554261db9e459" start="20251023234151 +0000" stop="20251024012812 +0000">
+    <title>Playa's Ball</title>
     <category>Movie</category>
-    <desc>A girl discovers that her family's affluent existence is merely a facade.</desc>
-    <date>19971107</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/98b1bd2617c04df52cd9652b325e59e6.jpg" />
+    <desc>A 27-year-old pro athlete is on the verge of signing an endorsement contract and proposing to his girlfriend.</desc>
+    <date>20201208</date>
+    <icon src="https://img.jwplayer.com/v1/images/WGR7ZnSJ.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-67a1421f114554261db9e459" start="20251023032836 +0000" stop="20251023052154 +0000">
-    <title>Addicted</title>
+<programme channel="68fa84637ac952737656ae5f-67a1421f114554261db9e459" start="20251024012812 +0000" stop="20251024032410 +0000">
+    <title>Premium</title>
     <category>Movie</category>
-    <desc>A wife is tested when she cheats on her husband, and it threatens to ruin her and her family.</desc>
-    <date>20141010</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/0cd5aa0437fc6f440f9f34cea614c8f4.jpg" />
+    <desc>A man realizes that he's still in love with his ex-fiancé a few days before her wedding to another man.</desc>
+    <date>20060102</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8f37d2273bf0df3783e0ce2fff40f1f3.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-67a1421f114554261db9e459" start="20251023052154 +0000" stop="20251023070931 +0000">
+<programme channel="68fa84637ac952737656ae5f-67a1421f114554261db9e459" start="20251024032410 +0000" stop="20251024051416 +0000">
+    <title>Trois 3: The Escort</title>
+    <category>Movie</category>
+    <desc>An escort upsets a powerful businesswoman when he falls for a call girl who works for the same madam.</desc>
+    <date>20041228</date>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b1b2ed89f88b11b67ed8663b6214576a.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-67a1421f114554261db9e459" start="20251024051416 +0000" stop="20251024070423 +0000">
+    <title>Blacula</title>
+    <category>Movie</category>
+    <desc>An 18th-century African prince, turned into a vampire by Dracula, finds himself in modern-day Los Angeles.</desc>
+    <date>19720825</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8ca44dbb0374332427ab295345479df9.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-67a1421f114554261db9e459" start="20251024070423 +0000" stop="20251024085800 +0000">
+    <title>Diary Of A Hitman</title>
+    <category>Movie</category>
+    <desc>Forest Whitaker stars as a veteran hit man on his last job before retirement.</desc>
+    <date>19911120</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/61628ff9505e72585d1db2dabc072177.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-67a1421f114554261db9e459" start="20251024085800 +0000" stop="20251024105109 +0000">
+    <title>Iron Eagle IV: On The Attack</title>
+    <category>Movie</category>
+    <desc>Fighter pilot Doug Masters teaches at his flight school for teens in trouble with the law.</desc>
+    <date>19951201</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3002042ded759656f8c3d1bf6e403bae.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-67a1421f114554261db9e459" start="20251024105109 +0000" stop="20251024123845 +0000">
     <title>Sister Code</title>
     <category>Movie</category>
     <desc>Three foster sisters with very different personalities come together when their mother dies.</desc>
@@ -38,63 +61,15 @@
     <icon src="https://metadata-static.plex.tv/c/gracenote/cbc705935f744a005cf6ac2f92d92234.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-67a1421f114554261db9e459" start="20251023070931 +0000" stop="20251023092027 +0000">
-    <title>Beat Street</title>
+<programme channel="68fa84637ac952737656ae5f-67a1421f114554261db9e459" start="20251024123845 +0000" stop="20251024143352 +0000">
+    <title>Love Jacked</title>
     <category>Movie</category>
-    <desc>An aspiring DJ from the Bronx attempts to get into show business with his best friend.</desc>
-    <date>19840606</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b83fbc097a448aad4c87fe010cd1e170.jpg" />
+    <desc>Maya's African trip leads to heartache, but a deal with a conman sparks romance. With Keith David &amp; Mike Epps.</desc>
+    <date>20181026</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/ee00b7b8b940a5f50b1b0d5d57c39108.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-67a1421f114554261db9e459" start="20251023092027 +0000" stop="20251023103857 +0000">
-    <title>D.L. Hughley: Clear</title>
-    <category>Movie</category>
-    <desc>D.L Hughley riffs on everything from the value of having nosy white neighbors to Colorado legalizing weed.</desc>
-    <date>20140401</date>
-    <icon src="https://image.tmdb.org/t/p/original/10jrkEnT2TutZolYOeRr0nKjD7C.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-67a1421f114554261db9e459" start="20251023103857 +0000" stop="20251023123123 +0000">
-    <title>Sinbad: Make Me Wanna Holla</title>
-    <category>Movie</category>
-    <desc>Sinbad discusses his life, advice and celebrity clothing lines in this comedy special.</desc>
-    <date>20140401</date>
-    <icon src="https://image.tmdb.org/t/p/original/tm63uFV0D8PFy2L55PSKF6k1LJG.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-67a1421f114554261db9e459" start="20251023123123 +0000" stop="20251023135853 +0000">
-    <title>DeRay Davis: Power Play</title>
-    <category>Movie</category>
-    <desc>No subject is off limits for comedian DeRay Davis in his one-hour stand-up special.</desc>
-    <date>20110701</date>
-    <icon src="https://image.tmdb.org/t/p/original/1uiaSxiz4wv2IeuuhWcHAJlyVw4.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-67a1421f114554261db9e459" start="20251023135853 +0000" stop="20251023160352 +0000">
-    <title>Homer &amp; Eddie</title>
-    <category>Movie</category>
-    <desc>In this unusual road fim, a disabled man gets help from a small-time stick-up woman.</desc>
-    <date>19891124</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7eef33ac4a8a70953f80035958589a24.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-67a1421f114554261db9e459" start="20251023160352 +0000" stop="20251023174408 +0000">
-    <title>Held Up</title>
-    <category>Movie</category>
-    <desc>After his fiancé dumps him, a successful businessman is taken hostage in a small-town convenience store.</desc>
-    <date>19991008</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9a12c799b946c2e9d55d724714e78444.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-67a1421f114554261db9e459" start="20251023174408 +0000" stop="20251023195127 +0000">
-    <title>The Caveman's Valentine</title>
-    <category>Movie</category>
-    <desc>Samuel L. Jackson stars as a cave-dwelling man who tracks down the killer of a homeless boy for justice.</desc>
-    <date>20010920</date>
-    <icon src="https://image.tmdb.org/t/p/original/tcnLj41rBDHgMnqTL2748JEPdZe.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-67a1421f114554261db9e459" start="20251023195127 +0000" stop="20251023214833 +0000">
+<programme channel="68fa84637ac952737656ae5f-67a1421f114554261db9e459" start="20251024143352 +0000" stop="20251024163058 +0000">
     <title>Lila &amp; Eve</title>
     <category>Movie</category>
     <desc>Jennifer Lopez and Viola Davis star as moms who seek justice after losing their kids in a drive-by shooting.</desc>
@@ -102,20 +77,44 @@
     <icon src="https://metadata-static.plex.tv/d/gracenote/df1782d5e57d02180215566aaabf0f22.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-67a1421f114554261db9e459" start="20251023214833 +0000" stop="20251023234151 +0000">
-    <title>Addicted</title>
+<programme channel="68fa84637ac952737656ae5f-67a1421f114554261db9e459" start="20251024163058 +0000" stop="20251024182105 +0000">
+    <title>Blacula</title>
     <category>Movie</category>
-    <desc>A wife is tested when she cheats on her husband, and it threatens to ruin her and her family.</desc>
-    <date>20141010</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/0cd5aa0437fc6f440f9f34cea614c8f4.jpg" />
+    <desc>An 18th-century African prince, turned into a vampire by Dracula, finds himself in modern-day Los Angeles.</desc>
+    <date>19720825</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8ca44dbb0374332427ab295345479df9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-67a1421f114554261db9e459" start="20251023234151 +0000" stop="20251024012812 +0000">
-    <title>Playa's Ball</title>
+<programme channel="68fa84637ac952737656ae5f-67a1421f114554261db9e459" start="20251024182105 +0000" stop="20251024201839 +0000">
+    <title>Never 2 Big</title>
     <category>Movie</category>
-    <desc>A 27-year-old pro athlete is on the verge of signing an endorsement contract and proposing to his girlfriend.</desc>
-    <date>20201208</date>
-    <icon src="https://img.jwplayer.com/v1/images/WGR7ZnSJ.jpg" />
+    <desc>A music industry executive tries to uncover the truth behind a singer's murder.</desc>
+    <date>19981013</date>
+    <icon src="https://image.tmdb.org/t/p/original/cRzqM9tQ8nGbsY7JCOqmAQtv8lG.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-67a1421f114554261db9e459" start="20251024201839 +0000" stop="20251024221148 +0000">
+    <title>They Call Me Mister Tibbs!</title>
+    <category>Movie</category>
+    <desc>In this sequel to "In The Heat of the Night," Detective Virgil Tibbs (Sidney Poitier) must solve a murder.</desc>
+    <date>19700710</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/98c59a8d9cf47e515565321d7b3b9d3a.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-67a1421f114554261db9e459" start="20251024221148 +0000" stop="20251024234635 +0000">
+    <title>Holla</title>
+    <category>Movie</category>
+    <desc>A mysterious killer stalks a sitcom actress and her companions on a weekend getaway in the wilderness.</desc>
+    <date>20061201</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8d9659ec7a5cbdd4422d28c2dd549daf.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-67a1421f114554261db9e459" start="20251024234635 +0000" stop="20251025013327 +0000">
+    <title>Holla II</title>
+    <category>Movie</category>
+    <desc>Years after an attack by her ill sister, a woman’s wedding party faces deaths at a haunted plantation house.</desc>
+    <date>20130419</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c35ce1072401bc501ccb3d22ec7a63c1.jpg" />
   </programme>
   
 </tv>

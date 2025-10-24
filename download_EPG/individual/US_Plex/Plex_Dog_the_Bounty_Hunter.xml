@@ -1,227 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a">
+<channel id="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a">
     <display-name>Dog the Bounty Hunter</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/29c4fec6-9511-4368-9b02-5788f3eff6b1/Dog_the_Bounty_Hunter_WHT_Logo_1500x1000-_Ethan_Maisel.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023010216 +0000" stop="20251023015510 +0000">
-    <title>Dog The Bounty Hunter</title>
-    <sub-title>The Comeback Kid</sub-title>
-    <episode-num system="onscreen">S08E12</episode-num>
-    <desc>Dog is back in Colorado chasing a young man with a taste for trouble.</desc>
-    <date>20110112</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/52531_279146_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023015510 +0000" stop="20251023022003 +0000">
-    <title>Dog The Bounty Hunter</title>
-    <sub-title>Short Handed</sub-title>
-    <episode-num system="onscreen">S09E10</episode-num>
-    <desc>Dog is in Colorado helping a fellow bondsmen clean up his files.</desc>
-    <date>20120328</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/74579_211761_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023022003 +0000" stop="20251023024452 +0000">
-    <title>Dog The Bounty Hunter</title>
-    <sub-title>A House Divided</sub-title>
-    <episode-num system="onscreen">S09E12</episode-num>
-    <desc>Dog has dropped Duane Lee from the team.</desc>
-    <date>20120404</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/74585_279156_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023024452 +0000" stop="20251023030941 +0000">
-    <title>Dog The Bounty Hunter</title>
-    <sub-title>Ties That Bind</sub-title>
-    <episode-num system="onscreen">S09E16</episode-num>
-    <desc>With Duane Lee back on the team, the rift in the Chapman clan appears over.</desc>
-    <date>20120425</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/74586_279157_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023030941 +0000" stop="20251023033448 +0000">
-    <title>Dog The Bounty Hunter</title>
-    <sub-title>All Grown Up</sub-title>
-    <episode-num system="onscreen">S09E13</episode-num>
-    <desc>Cecily has graduated from High School.</desc>
-    <date>20120404</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/74592_279158_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023033448 +0000" stop="20251023040000 +0000">
-    <title>Dog The Bounty Hunter</title>
-    <sub-title>Fight Like A Girl</sub-title>
-    <episode-num system="onscreen">S09E14</episode-num>
-    <desc>This one is close to home. Dog's target on today's hunt is the cousin of Kali.</desc>
-    <date>20120411</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/74603_279167_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023040000 +0000" stop="20251023042626 +0000">
-    <title>Dog The Bounty Hunter</title>
-    <sub-title>Love's Labors Lost and Found</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Dog is also trying to plan a great Mother's Day for Beth.</desc>
-    <date>20040921</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023042626 +0000" stop="20251023045252 +0000">
-    <title>Dog The Bounty Hunter</title>
-    <sub-title>The Godfather Of Waikiki</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Dog is hunting a man known as "The Godfather of Waikiki".</desc>
-    <date>20040928</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023045252 +0000" stop="20251023051858 +0000">
-    <title>Dog The Bounty Hunter</title>
-    <sub-title>To Capture One's Own</sub-title>
-    <episode-num system="onscreen">S02E12</episode-num>
-    <desc>Dog faces a tough personal and professional situation.</desc>
-    <date>20050726</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023051858 +0000" stop="20251023054504 +0000">
-    <title>Dog The Bounty Hunter</title>
-    <sub-title>This One's For You</sub-title>
-    <episode-num system="onscreen">S03E28</episode-num>
-    <desc>Dog leads the team on another adrenaline-filled chase in Denver.</desc>
-    <date>20061024</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023054504 +0000" stop="20251023061056 +0000">
-    <title>Dog The Bounty Hunter</title>
-    <sub-title>Kid Stuff</sub-title>
-    <episode-num system="onscreen">S07E06</episode-num>
-    <desc>A fugitive from justice is on the lam and it's Dog's job to find him.</desc>
-    <date>20100106</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/48766_279114_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023061056 +0000" stop="20251023063633 +0000">
-    <title>Dog The Bounty Hunter</title>
-    <sub-title>Ghost Rider</sub-title>
-    <episode-num system="onscreen">S07E08</episode-num>
-    <desc>Dog believes in safety first, and today's hunt puts this philosophy to the test.</desc>
-    <date>20100120</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/48771_279118_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023063633 +0000" stop="20251023070217 +0000">
-    <title>Dog The Bounty Hunter</title>
-    <sub-title>Prodigal Son</sub-title>
-    <episode-num system="onscreen">S08E04</episode-num>
-    <desc>Fugitive beware: Dog's rolling with extra power today.</desc>
-    <date>20101027</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/52523_279139_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023070217 +0000" stop="20251023075510 +0000">
-    <title>Dog The Bounty Hunter</title>
-    <sub-title>The Comeback Kid</sub-title>
-    <episode-num system="onscreen">S08E12</episode-num>
-    <desc>Dog is back in Colorado chasing a young man with a taste for trouble.</desc>
-    <date>20110112</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/52531_279146_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023075510 +0000" stop="20251023082004 +0000">
-    <title>Dog The Bounty Hunter</title>
-    <sub-title>Short Handed</sub-title>
-    <episode-num system="onscreen">S09E10</episode-num>
-    <desc>Dog is in Colorado helping a fellow bondsmen clean up his files.</desc>
-    <date>20120328</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/74579_211761_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023082004 +0000" stop="20251023084452 +0000">
-    <title>Dog The Bounty Hunter</title>
-    <sub-title>A House Divided</sub-title>
-    <episode-num system="onscreen">S09E12</episode-num>
-    <desc>Dog has dropped Duane Lee from the team.</desc>
-    <date>20120404</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/74585_279156_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023084452 +0000" stop="20251023090941 +0000">
-    <title>Dog The Bounty Hunter</title>
-    <sub-title>Ties That Bind</sub-title>
-    <episode-num system="onscreen">S09E16</episode-num>
-    <desc>With Duane Lee back on the team, the rift in the Chapman clan appears over.</desc>
-    <date>20120425</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/74586_279157_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023090941 +0000" stop="20251023093448 +0000">
-    <title>Dog The Bounty Hunter</title>
-    <sub-title>All Grown Up</sub-title>
-    <episode-num system="onscreen">S09E13</episode-num>
-    <desc>Cecily has graduated from High School.</desc>
-    <date>20120404</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/74592_279158_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023093448 +0000" stop="20251023100000 +0000">
-    <title>Dog The Bounty Hunter</title>
-    <sub-title>Fight Like A Girl</sub-title>
-    <episode-num system="onscreen">S09E14</episode-num>
-    <desc>This one is close to home. Dog's target on today's hunt is the cousin of Kali.</desc>
-    <date>20120411</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/74603_279167_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023100000 +0000" stop="20251023102426 +0000">
-    <title>Dog The Bounty Hunter</title>
-    <sub-title>You Can't Go Home Again</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Back in Denver Dog discovers that recapturing the past can be difficult.</desc>
-    <date>20041109</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023102426 +0000" stop="20251023105022 +0000">
-    <title>Dog The Bounty Hunter</title>
-    <sub-title>Baby's Back in Town</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <desc>Dog tries to nab a fugitive named Wayne.</desc>
-    <date>20050405</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023105022 +0000" stop="20251023111648 +0000">
-    <title>Dog The Bounty Hunter</title>
-    <sub-title>Mama's Boys</sub-title>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <desc>Dog visits his mother's grave for inspiration before heading out to find Frankie.</desc>
-    <date>20050607</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023111648 +0000" stop="20251023114238 +0000">
-    <title>Dog The Bounty Hunter</title>
-    <sub-title>Do Unto Others</sub-title>
-    <episode-num system="onscreen">S03E05</episode-num>
-    <desc>Dog is a rough, tough bounty hunter, but he's a softie at heart.</desc>
-    <date>20060404</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023114238 +0000" stop="20251023120814 +0000">
-    <title>Dog The Bounty Hunter</title>
-    <sub-title>Bustin' With Justin</sub-title>
-    <episode-num system="onscreen">S03E19</episode-num>
-    <desc>Dog and the team must deal with misleading informants.</desc>
-    <date>20060815</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023120814 +0000" stop="20251023123349 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024000815 +0000" stop="20251024003351 +0000">
     <title>Dog The Bounty Hunter</title>
     <sub-title>Irons in the Fire</sub-title>
     <episode-num system="onscreen">S03E26</episode-num>
@@ -230,7 +14,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023123349 +0000" stop="20251023125925 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024003351 +0000" stop="20251024005927 +0000">
     <title>Dog The Bounty Hunter</title>
     <sub-title>Out of Sight</sub-title>
     <episode-num system="onscreen">S03E15</episode-num>
@@ -239,7 +23,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023125925 +0000" stop="20251023132501 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024005927 +0000" stop="20251024012503 +0000">
     <title>Dog The Bounty Hunter</title>
     <sub-title>Ticket to Ride</sub-title>
     <episode-num system="onscreen">S03E24</episode-num>
@@ -248,7 +32,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023132501 +0000" stop="20251023135038 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024012503 +0000" stop="20251024015040 +0000">
     <title>Dog The Bounty Hunter</title>
     <sub-title>True Identity</sub-title>
     <episode-num system="onscreen">S07E12</episode-num>
@@ -257,7 +41,7 @@
     <icon src="https://d37ntihvjf07l3.cloudfront.net/48778_279123_thumb.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023135038 +0000" stop="20251023144333 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024015040 +0000" stop="20251024024335 +0000">
     <title>Dog The Bounty Hunter</title>
     <sub-title>All My Children</sub-title>
     <episode-num system="onscreen">S07E19</episode-num>
@@ -266,7 +50,7 @@
     <icon src="https://d37ntihvjf07l3.cloudfront.net/48783_279127_thumb.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023144333 +0000" stop="20251023150942 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024024335 +0000" stop="20251024030943 +0000">
     <title>Dog The Bounty Hunter</title>
     <sub-title>Mister Mom</sub-title>
     <episode-num system="onscreen">S07E16</episode-num>
@@ -275,7 +59,7 @@
     <icon src="https://d37ntihvjf07l3.cloudfront.net/50953_279131_thumb.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023150942 +0000" stop="20251023153449 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024030943 +0000" stop="20251024033450 +0000">
     <title>Dog The Bounty Hunter</title>
     <sub-title>Who's the Boss</sub-title>
     <episode-num system="onscreen">S09E17</episode-num>
@@ -284,7 +68,7 @@
     <icon src="https://d37ntihvjf07l3.cloudfront.net/74596_279161_thumb.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023153449 +0000" stop="20251023160001 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024033450 +0000" stop="20251024040002 +0000">
     <title>Dog The Bounty Hunter</title>
     <sub-title>God Looks on the Heart</sub-title>
     <episode-num system="onscreen">S09E22</episode-num>
@@ -293,7 +77,7 @@
     <icon src="https://d37ntihvjf07l3.cloudfront.net/74600_279164_thumb.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023160001 +0000" stop="20251023162427 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024040002 +0000" stop="20251024042428 +0000">
     <title>Dog The Bounty Hunter</title>
     <sub-title>You Can't Go Home Again</sub-title>
     <episode-num system="onscreen">S01E12</episode-num>
@@ -302,7 +86,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023162427 +0000" stop="20251023165023 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024042428 +0000" stop="20251024045025 +0000">
     <title>Dog The Bounty Hunter</title>
     <sub-title>Baby's Back in Town</sub-title>
     <episode-num system="onscreen">S02E01</episode-num>
@@ -311,7 +95,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023165023 +0000" stop="20251023171649 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024045025 +0000" stop="20251024051650 +0000">
     <title>Dog The Bounty Hunter</title>
     <sub-title>Mama's Boys</sub-title>
     <episode-num system="onscreen">S02E08</episode-num>
@@ -320,7 +104,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023171649 +0000" stop="20251023174238 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024051650 +0000" stop="20251024054240 +0000">
     <title>Dog The Bounty Hunter</title>
     <sub-title>Do Unto Others</sub-title>
     <episode-num system="onscreen">S03E05</episode-num>
@@ -329,7 +113,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023174238 +0000" stop="20251023180814 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024054240 +0000" stop="20251024060816 +0000">
     <title>Dog The Bounty Hunter</title>
     <sub-title>Bustin' With Justin</sub-title>
     <episode-num system="onscreen">S03E19</episode-num>
@@ -338,7 +122,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023180814 +0000" stop="20251023183350 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024060816 +0000" stop="20251024063352 +0000">
     <title>Dog The Bounty Hunter</title>
     <sub-title>Irons in the Fire</sub-title>
     <episode-num system="onscreen">S03E26</episode-num>
@@ -347,7 +131,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023183350 +0000" stop="20251023185926 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024063352 +0000" stop="20251024065928 +0000">
     <title>Dog The Bounty Hunter</title>
     <sub-title>Out of Sight</sub-title>
     <episode-num system="onscreen">S03E15</episode-num>
@@ -356,7 +140,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023185926 +0000" stop="20251023192502 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024065928 +0000" stop="20251024072504 +0000">
     <title>Dog The Bounty Hunter</title>
     <sub-title>Ticket to Ride</sub-title>
     <episode-num system="onscreen">S03E24</episode-num>
@@ -365,7 +149,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023192502 +0000" stop="20251023195039 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024072504 +0000" stop="20251024075041 +0000">
     <title>Dog The Bounty Hunter</title>
     <sub-title>True Identity</sub-title>
     <episode-num system="onscreen">S07E12</episode-num>
@@ -374,7 +158,7 @@
     <icon src="https://d37ntihvjf07l3.cloudfront.net/48778_279123_thumb.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023195039 +0000" stop="20251023204334 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024075041 +0000" stop="20251024084336 +0000">
     <title>Dog The Bounty Hunter</title>
     <sub-title>All My Children</sub-title>
     <episode-num system="onscreen">S07E19</episode-num>
@@ -383,7 +167,7 @@
     <icon src="https://d37ntihvjf07l3.cloudfront.net/48783_279127_thumb.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023204334 +0000" stop="20251023210942 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024084336 +0000" stop="20251024090944 +0000">
     <title>Dog The Bounty Hunter</title>
     <sub-title>Mister Mom</sub-title>
     <episode-num system="onscreen">S07E16</episode-num>
@@ -392,7 +176,7 @@
     <icon src="https://d37ntihvjf07l3.cloudfront.net/50953_279131_thumb.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023210942 +0000" stop="20251023213450 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024090944 +0000" stop="20251024093451 +0000">
     <title>Dog The Bounty Hunter</title>
     <sub-title>Who's the Boss</sub-title>
     <episode-num system="onscreen">S09E17</episode-num>
@@ -401,7 +185,7 @@
     <icon src="https://d37ntihvjf07l3.cloudfront.net/74596_279161_thumb.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023213450 +0000" stop="20251023220002 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024093451 +0000" stop="20251024100000 +0000">
     <title>Dog The Bounty Hunter</title>
     <sub-title>God Looks on the Heart</sub-title>
     <episode-num system="onscreen">S09E22</episode-num>
@@ -410,75 +194,309 @@
     <icon src="https://d37ntihvjf07l3.cloudfront.net/74600_279164_thumb.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023220002 +0000" stop="20251023222428 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024100000 +0000" stop="20251024102626 +0000">
     <title>Dog The Bounty Hunter</title>
-    <sub-title>You Can't Go Home Again</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Back in Denver Dog discovers that recapturing the past can be difficult.</desc>
-    <date>20041109</date>
+    <sub-title>A Family Feud</sub-title>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <desc>Working for a bondswoman friend, Mary Ellen, Dog and his team hunt Chris.</desc>
+    <date>20041123</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023222428 +0000" stop="20251023225024 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024102626 +0000" stop="20251024105052 +0000">
     <title>Dog The Bounty Hunter</title>
-    <sub-title>Baby's Back in Town</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <desc>Dog tries to nab a fugitive named Wayne.</desc>
+    <sub-title>Second Chances</sub-title>
+    <episode-num system="onscreen">S01E18</episode-num>
+    <desc>Dog decides to offer one of the fugitives a second chance.</desc>
+    <date>20050125</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024105052 +0000" stop="20251024111648 +0000">
+    <title>Dog The Bounty Hunter</title>
+    <sub-title>Brother's Keeper</sub-title>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <desc>Leland has a full plate of fugitives in Kona.</desc>
+    <date>20050531</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024111648 +0000" stop="20251024114243 +0000">
+    <title>Dog The Bounty Hunter</title>
+    <sub-title>Take Your Daughter to Work Day</sub-title>
+    <episode-num system="onscreen">S03E08</episode-num>
+    <desc>Baby Lyssa, who's just turned 18 and is studying to become a bondsman.</desc>
+    <date>20060502</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024114243 +0000" stop="20251024120909 +0000">
+    <title>Dog The Bounty Hunter</title>
+    <sub-title>A Helping Hand</sub-title>
+    <episode-num system="onscreen">S03E07</episode-num>
+    <desc>Dog answers two very different calls for help from women.</desc>
+    <date>20060425</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024120909 +0000" stop="20251024123445 +0000">
+    <title>Dog The Bounty Hunter</title>
+    <sub-title>Playing Possum</sub-title>
+    <episode-num system="onscreen">S03E22</episode-num>
+    <desc>Tim's got a big problem on his hands.</desc>
+    <date>20060905</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024123445 +0000" stop="20251024130040 +0000">
+    <title>Dog The Bounty Hunter</title>
+    <sub-title>Surprise! Surprise!</sub-title>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <desc>Dog and his team are out to revoke bail on Eugene, a chronic heroin addict.</desc>
     <date>20050405</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023225024 +0000" stop="20251023231650 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024130040 +0000" stop="20251024132636 +0000">
     <title>Dog The Bounty Hunter</title>
-    <sub-title>Mama's Boys</sub-title>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <desc>Dog visits his mother's grave for inspiration before heading out to find Frankie.</desc>
-    <date>20050607</date>
+    <sub-title>Cupid in Cuffs</sub-title>
+    <episode-num system="onscreen">S03E16</episode-num>
+    <desc>It's the day before Valentine's Day and love is in the air at Da Kine Bail Bonds.</desc>
+    <date>20060725</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023231650 +0000" stop="20251023234239 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024132636 +0000" stop="20251024135235 +0000">
     <title>Dog The Bounty Hunter</title>
-    <sub-title>Do Unto Others</sub-title>
-    <episode-num system="onscreen">S03E05</episode-num>
-    <desc>Dog is a rough, tough bounty hunter, but he's a softie at heart.</desc>
-    <date>20060404</date>
+    <sub-title>Lost in Paradise</sub-title>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <desc>Dog lectures high school students about the dangers of drugs.</desc>
+    <date>20050621</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251023234239 +0000" stop="20251024000815 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024135235 +0000" stop="20251024141812 +0000">
     <title>Dog The Bounty Hunter</title>
-    <sub-title>Bustin' With Justin</sub-title>
-    <episode-num system="onscreen">S03E19</episode-num>
-    <desc>Dog and the team must deal with misleading informants.</desc>
-    <date>20060815</date>
+    <sub-title>Back Behind Bars</sub-title>
+    <episode-num system="onscreen">S06E10</episode-num>
+    <desc>Today the team isn't pulling any punches, literally or figuratively!</desc>
+    <date>20090408</date>
+    <icon src="https://d37ntihvjf07l3.cloudfront.net/38954_279101_thumb.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024141812 +0000" stop="20251024144349 +0000">
+    <title>Dog The Bounty Hunter</title>
+    <sub-title>All in the Family</sub-title>
+    <episode-num system="onscreen">S06E12</episode-num>
+    <desc>The Big Island of Hawaii boasts both lush tropical splendor and stark volcanoes.</desc>
+    <date>20090422</date>
+    <icon src="https://d37ntihvjf07l3.cloudfront.net/38956_279103_thumb.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024144349 +0000" stop="20251024150931 +0000">
+    <title>Dog The Bounty Hunter</title>
+    <sub-title>Secrets and Lies</sub-title>
+    <episode-num system="onscreen">S07E13</episode-num>
+    <desc>What do you do when you have a fugitive you believe can be helped?</desc>
+    <date>20100324</date>
+    <icon src="https://d37ntihvjf07l3.cloudfront.net/48776_279121_thumb.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024150931 +0000" stop="20251024153448 +0000">
+    <title>Dog The Bounty Hunter</title>
+    <sub-title>Bus Stop Bruiser</sub-title>
+    <episode-num system="onscreen">S09E18</episode-num>
+    <desc>When an alleged abuser goes on the lamb Dog gathers the team to bring him in.</desc>
+    <date>20120509</date>
+    <icon src="https://d37ntihvjf07l3.cloudfront.net/74597_279162_thumb.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024153448 +0000" stop="20251024160000 +0000">
+    <title>Dog The Bounty Hunter</title>
+    <sub-title>Big Brother</sub-title>
+    <episode-num system="onscreen">S09E21</episode-num>
+    <desc>Today's case involves a Samoan.</desc>
+    <date>20120616</date>
+    <icon src="https://d37ntihvjf07l3.cloudfront.net/74602_279166_thumb.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024160000 +0000" stop="20251024162626 +0000">
+    <title>Dog The Bounty Hunter</title>
+    <sub-title>A Family Feud</sub-title>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <desc>Working for a bondswoman friend, Mary Ellen, Dog and his team hunt Chris.</desc>
+    <date>20041123</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251024000815 +0000" stop="20251024003351 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024162626 +0000" stop="20251024165052 +0000">
     <title>Dog The Bounty Hunter</title>
-    <sub-title>Irons in the Fire</sub-title>
-    <episode-num system="onscreen">S03E26</episode-num>
-    <desc>Dog is back hunting in the big city of Denver.</desc>
-    <date>20061010</date>
+    <sub-title>Second Chances</sub-title>
+    <episode-num system="onscreen">S01E18</episode-num>
+    <desc>Dog decides to offer one of the fugitives a second chance.</desc>
+    <date>20050125</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251024003351 +0000" stop="20251024005927 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024165052 +0000" stop="20251024171648 +0000">
     <title>Dog The Bounty Hunter</title>
-    <sub-title>Out of Sight</sub-title>
-    <episode-num system="onscreen">S03E15</episode-num>
-    <desc>Dog knows very little about Peter, but what he does know, he doesn't like!</desc>
-    <date>20060718</date>
+    <sub-title>Brother's Keeper</sub-title>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <desc>Leland has a full plate of fugitives in Kona.</desc>
+    <date>20050531</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" start="20251024005927 +0000" stop="20251024012503 +0000">
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024171648 +0000" stop="20251024174243 +0000">
     <title>Dog The Bounty Hunter</title>
-    <sub-title>Ticket to Ride</sub-title>
-    <episode-num system="onscreen">S03E24</episode-num>
-    <desc>As Dog likes to say, "it's not the years it's the miles."</desc>
-    <date>20060919</date>
+    <sub-title>Take Your Daughter to Work Day</sub-title>
+    <episode-num system="onscreen">S03E08</episode-num>
+    <desc>Baby Lyssa, who's just turned 18 and is studying to become a bondsman.</desc>
+    <date>20060502</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024174243 +0000" stop="20251024180909 +0000">
+    <title>Dog The Bounty Hunter</title>
+    <sub-title>A Helping Hand</sub-title>
+    <episode-num system="onscreen">S03E07</episode-num>
+    <desc>Dog answers two very different calls for help from women.</desc>
+    <date>20060425</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024180909 +0000" stop="20251024183445 +0000">
+    <title>Dog The Bounty Hunter</title>
+    <sub-title>Playing Possum</sub-title>
+    <episode-num system="onscreen">S03E22</episode-num>
+    <desc>Tim's got a big problem on his hands.</desc>
+    <date>20060905</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024183445 +0000" stop="20251024190040 +0000">
+    <title>Dog The Bounty Hunter</title>
+    <sub-title>Surprise! Surprise!</sub-title>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <desc>Dog and his team are out to revoke bail on Eugene, a chronic heroin addict.</desc>
+    <date>20050405</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024190040 +0000" stop="20251024192636 +0000">
+    <title>Dog The Bounty Hunter</title>
+    <sub-title>Cupid in Cuffs</sub-title>
+    <episode-num system="onscreen">S03E16</episode-num>
+    <desc>It's the day before Valentine's Day and love is in the air at Da Kine Bail Bonds.</desc>
+    <date>20060725</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024192636 +0000" stop="20251024195235 +0000">
+    <title>Dog The Bounty Hunter</title>
+    <sub-title>Lost in Paradise</sub-title>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <desc>Dog lectures high school students about the dangers of drugs.</desc>
+    <date>20050621</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024195235 +0000" stop="20251024201812 +0000">
+    <title>Dog The Bounty Hunter</title>
+    <sub-title>Back Behind Bars</sub-title>
+    <episode-num system="onscreen">S06E10</episode-num>
+    <desc>Today the team isn't pulling any punches, literally or figuratively!</desc>
+    <date>20090408</date>
+    <icon src="https://d37ntihvjf07l3.cloudfront.net/38954_279101_thumb.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024201812 +0000" stop="20251024204349 +0000">
+    <title>Dog The Bounty Hunter</title>
+    <sub-title>All in the Family</sub-title>
+    <episode-num system="onscreen">S06E12</episode-num>
+    <desc>The Big Island of Hawaii boasts both lush tropical splendor and stark volcanoes.</desc>
+    <date>20090422</date>
+    <icon src="https://d37ntihvjf07l3.cloudfront.net/38956_279103_thumb.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024204349 +0000" stop="20251024210931 +0000">
+    <title>Dog The Bounty Hunter</title>
+    <sub-title>Secrets and Lies</sub-title>
+    <episode-num system="onscreen">S07E13</episode-num>
+    <desc>What do you do when you have a fugitive you believe can be helped?</desc>
+    <date>20100324</date>
+    <icon src="https://d37ntihvjf07l3.cloudfront.net/48776_279121_thumb.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024210931 +0000" stop="20251024213448 +0000">
+    <title>Dog The Bounty Hunter</title>
+    <sub-title>Bus Stop Bruiser</sub-title>
+    <episode-num system="onscreen">S09E18</episode-num>
+    <desc>When an alleged abuser goes on the lamb Dog gathers the team to bring him in.</desc>
+    <date>20120509</date>
+    <icon src="https://d37ntihvjf07l3.cloudfront.net/74597_279162_thumb.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024213448 +0000" stop="20251024220000 +0000">
+    <title>Dog The Bounty Hunter</title>
+    <sub-title>Big Brother</sub-title>
+    <episode-num system="onscreen">S09E21</episode-num>
+    <desc>Today's case involves a Samoan.</desc>
+    <date>20120616</date>
+    <icon src="https://d37ntihvjf07l3.cloudfront.net/74602_279166_thumb.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024220000 +0000" stop="20251024222626 +0000">
+    <title>Dog The Bounty Hunter</title>
+    <sub-title>A Family Feud</sub-title>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <desc>Working for a bondswoman friend, Mary Ellen, Dog and his team hunt Chris.</desc>
+    <date>20041123</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024222626 +0000" stop="20251024225052 +0000">
+    <title>Dog The Bounty Hunter</title>
+    <sub-title>Second Chances</sub-title>
+    <episode-num system="onscreen">S01E18</episode-num>
+    <desc>Dog decides to offer one of the fugitives a second chance.</desc>
+    <date>20050125</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024225052 +0000" stop="20251024231648 +0000">
+    <title>Dog The Bounty Hunter</title>
+    <sub-title>Brother's Keeper</sub-title>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <desc>Leland has a full plate of fugitives in Kona.</desc>
+    <date>20050531</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024231648 +0000" stop="20251024234244 +0000">
+    <title>Dog The Bounty Hunter</title>
+    <sub-title>Take Your Daughter to Work Day</sub-title>
+    <episode-num system="onscreen">S03E08</episode-num>
+    <desc>Baby Lyssa, who's just turned 18 and is studying to become a bondsman.</desc>
+    <date>20060502</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251024234244 +0000" stop="20251025000910 +0000">
+    <title>Dog The Bounty Hunter</title>
+    <sub-title>A Helping Hand</sub-title>
+    <episode-num system="onscreen">S03E07</episode-num>
+    <desc>Dog answers two very different calls for help from women.</desc>
+    <date>20060425</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66428faa5116d565e63ae32a" start="20251025000910 +0000" stop="20251025003445 +0000">
+    <title>Dog The Bounty Hunter</title>
+    <sub-title>Playing Possum</sub-title>
+    <episode-num system="onscreen">S03E22</episode-num>
+    <desc>Tim's got a big problem on his hands.</desc>
+    <date>20060905</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/c91c4bb2-8e90-49c2-988d-1088813ef65a/Dog_the_Bounty_Hunter_1920x1080_-_Ethan_Maisel.jpg" />
   </programme>
   

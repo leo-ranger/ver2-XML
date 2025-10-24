@@ -1,209 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9">
+<channel id="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9">
     <display-name>Racing America</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/58d6bf78-1acf-4d3e-8e82-fdf0f7b5137a/Plex_Logo_Light_1500x1000_-_Jillian_Schwartz.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023003041 +0000" stop="20251023013041 +0000">
-    <title>The Kenny Conversation</title>
-    <sub-title>1 on 1 with Ray Evernham</sub-title>
-    <episode-num system="onscreen">S03E04</episode-num>
-    <desc>Hall-of-Famer Crew Chief Ray Evernham joins Kenny Wallace</desc>
-    <date>20251007</date>
-    <icon src="https://images.frequency.com/video/7381387301887563093/solid/rectangle/w1920_h1080/538hviz0loh714p2xn01v5f8f.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023013041 +0000" stop="20251023020012 +0000">
-    <title>Bites and Burnouts</title>
-    <sub-title>Las Vegas</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Check out popular food destinations surrounding Las Vegas Motor Speedway</desc>
-    <date>20251001</date>
-    <icon src="https://images.frequency.com/video/7379176612334655726/solid/rectangle/w1920_h1080/13o40vaca6w8e1usamh01zogsf.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023020012 +0000" stop="20251023030012 +0000">
-    <title>Instant Classic</title>
-    <sub-title>Episode 25</sub-title>
-    <episode-num system="onscreen">S03E25</episode-num>
-    <desc>The American-Canadian Tour helped kick off Oxford 250 weekend with a thrilling 125 lap race</desc>
-    <date>20251020</date>
-    <icon src="https://images.frequency.com/video/7347708120601868794/solid/rectangle/w1920_h1080/1ube12lpjxmqn1axjf9136kevs.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023030012 +0000" stop="20251023033012 +0000">
-    <title>Racers Forum NASCAR Industry Podcast</title>
-    <sub-title>ft. Bill Anthony, Alex Strand, Dave Alpern, and Chad Knaus</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Hear from NASCAR industry professionals on this podcast from the Racers Forum event</desc>
-    <date>20251013</date>
-    <icon src="https://images.frequency.com/video/7383564212982492555/solid/rectangle/w1920_h1080/b48uyatkhgsf1kkxq6571tu9i.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023033012 +0000" stop="20251023043012 +0000">
-    <title>The Kenny Conversation</title>
-    <sub-title>The Kenny Conversation</sub-title>
-    <episode-num system="onscreen">S01E20</episode-num>
-    <desc>Kenny Wallace is joined by former NASCAR &amp; Indycar driver, Danica Patrick - Part 2</desc>
-    <date>20251020</date>
-    <icon src="https://images.frequency.com/video/7347438001143935567/solid/rectangle/w1920_h1080/8b8zeiofpnoc1rx8wyxpbyhkh.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023043012 +0000" stop="20251023050012 +0000">
-    <title>Cup Weekend Wrap</title>
-    <sub-title>Las Vegas</sub-title>
-    <episode-num system="onscreen">S02E33</episode-num>
-    <desc>Hear from the winner, Denny Hamlin, as he secures his 60th Cup Series win and a spot in the Championship 4</desc>
-    <date>20251014</date>
-    <icon src="https://images.frequency.com/video/7383913712490039449/solid/rectangle/w1920_h1080/1d6r49u0psp1y15mjzgovk1q45.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023050012 +0000" stop="20251023060012 +0000">
-    <title>Instant Classic</title>
-    <sub-title>Episode 5</sub-title>
-    <episode-num system="onscreen">S04E05</episode-num>
-    <desc>The 100 lap Pro Late Model main event from Cordele Motor Speedway, GA</desc>
-    <date>20251020</date>
-    <icon src="https://images.frequency.com/video/7348844692396192278/solid/rectangle/w1920_h1080/rd0w1n23w5n21jk33o82ps67i.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023060012 +0000" stop="20251023063013 +0000">
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024000112 +0000" stop="20251024003113 +0000">
     <title>Racers Forum NASCAR Industry Podcast</title>
     <sub-title>ft. Brian Herbst, Mike Verlander, Dawn Turner, and Justin Marks</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
     <desc>Hear from NASCAR industry professionals on this podcast from the Racers Forum event</desc>
-    <date>20251013</date>
+    <date>20251020</date>
     <icon src="https://images.frequency.com/video/7383560513501152718/solid/rectangle/w1920_h1080/nx9l9vcg846y1u4uam6ktqn7v.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023063013 +0000" stop="20251023073013 +0000">
-    <title>The Kenny Conversation</title>
-    <sub-title>1 on 1 with Ray Evernham</sub-title>
-    <episode-num system="onscreen">S03E04</episode-num>
-    <desc>Hall-of-Famer Crew Chief Ray Evernham joins Kenny Wallace</desc>
-    <date>20251007</date>
-    <icon src="https://images.frequency.com/video/7381387301887563093/solid/rectangle/w1920_h1080/538hviz0loh714p2xn01v5f8f.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023073013 +0000" stop="20251023075944 +0000">
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024003113 +0000" stop="20251024010113 +0000">
     <title>Bites and Burnouts</title>
-    <sub-title>Las Vegas</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Check out popular food destinations surrounding Las Vegas Motor Speedway</desc>
-    <date>20251001</date>
-    <icon src="https://images.frequency.com/video/7379176612334655726/solid/rectangle/w1920_h1080/13o40vaca6w8e1usamh01zogsf.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023075944 +0000" stop="20251023085944 +0000">
-    <title>Instant Classic</title>
-    <sub-title>Episode 22</sub-title>
-    <episode-num system="onscreen">S03E22</episode-num>
-    <desc>The Monaco Modified Tri-Track Series hits the high banks of White Mountain Motorsports Park</desc>
-    <date>20251020</date>
-    <icon src="https://images.frequency.com/video/7347742638747345311/solid/rectangle/w1920_h1080/dtblaepwnkux1hg0g54pc9p0c.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023085944 +0000" stop="20251023092945 +0000">
-    <title>Victory Lane with Davey Segal</title>
-    <sub-title>Jacob Goede</sub-title>
-    <episode-num system="onscreen">S01E28</episode-num>
-    <desc>Two-time NASCAR Advance Auto Parts Weekly Series Champion, Jacob Goede, joins the show</desc>
-    <date>20251014</date>
-    <icon src="https://images.frequency.com/video/7383930001472926764/solid/rectangle/w1920_h1080/83j0d9mvr4tm1m4783zjudad8.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023092945 +0000" stop="20251023102945 +0000">
-    <title>Instant Classic</title>
-    <sub-title>Thunder Roadsters and Vores CRA Late Models</sub-title>
-    <episode-num system="onscreen">S04E34</episode-num>
-    <desc>Thunder Roadsters and Vores CRA Late Models at Winchester Speedway, Winchester, IN</desc>
-    <date>20251014</date>
-    <icon src="https://images.frequency.com/video/7383917343062425746/solid/rectangle/w1920_h1080/gwmm9ta6bwtj1hyjhiucaxl1o.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023102945 +0000" stop="20251023105942 +0000">
-    <title>Backstretch Banter with RFK Racing</title>
-    <sub-title>ft. Leigh Diffey</sub-title>
-    <episode-num system="onscreen">S02E29</episode-num>
-    <desc>Leigh Diffey talks about how he got into broadcasting and his decorated career</desc>
-    <date>20251009</date>
-    <icon src="https://images.frequency.com/video/7382150690307039982/solid/rectangle/w1920_h1080/x44lwef21de71i99tasgg7a2k.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023105942 +0000" stop="20251023115942 +0000">
-    <title>The Kenny Conversation</title>
-    <sub-title>1 on 1 with Ray Evernham</sub-title>
-    <episode-num system="onscreen">S03E04</episode-num>
-    <desc>Hall-of-Famer Crew Chief Ray Evernham joins Kenny Wallace</desc>
-    <date>20251007</date>
-    <icon src="https://images.frequency.com/video/7381387301887563093/solid/rectangle/w1920_h1080/538hviz0loh714p2xn01v5f8f.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023115942 +0000" stop="20251023122953 +0000">
-    <title>Cup Weekend Wrap</title>
-    <sub-title>Charlotte Motor Speedway ROVAL</sub-title>
-    <episode-num system="onscreen">S02E32</episode-num>
-    <desc>Hear from the winner, Shane van Gisbergen, as he continues his road-course dominance</desc>
-    <date>20251007</date>
-    <icon src="https://images.frequency.com/video/7381311938330882131/solid/rectangle/w1920_h1080/ofobydtv9n01irja97w35n1r.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023122953 +0000" stop="20251023132953 +0000">
-    <title>Instant Classic</title>
-    <sub-title>FOAR Scored Modified</sub-title>
-    <episode-num system="onscreen">S04E33</episode-num>
-    <desc>FOAR Scored Modified at Wyoming County International Speedway, Perry, NY</desc>
-    <date>20251007</date>
-    <icon src="https://images.frequency.com/video/7381330466025926220/solid/rectangle/w1920_h1080/q4yb0qwrsxm81cdt2c5jkyem2.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023132953 +0000" stop="20251023135930 +0000">
-    <title>Victory Lane with Davey Segal</title>
-    <sub-title>Episode 15</sub-title>
-    <episode-num system="onscreen">S01E15</episode-num>
-    <desc>Corey Day, up and coming driver with Hendrick Motorsports, joins the show</desc>
-    <date>20251020</date>
-    <icon src="https://images.frequency.com/video/7347396461282736741/solid/rectangle/w1920_h1080/cajr9s44pjs01seuopl6iqbrs.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023135930 +0000" stop="20251023145930 +0000">
-    <title>The Bullring</title>
-    <sub-title>The Bullring with Guests</sub-title>
-    <episode-num system="onscreen">S2024E15</episode-num>
-    <desc>Guests include Blake Rowe, Ty Fredrickson, Zach Evans, Gabe Brown, and Darren Hackett</desc>
-    <date>20251020</date>
-    <icon src="https://images.frequency.com/video/7347265673002829081/solid/rectangle/w1920_h1080/sq1h3om489c5171aqtnm79iub.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023145930 +0000" stop="20251023152912 +0000">
-    <title>Leaders in Racing</title>
-    <sub-title>Episode 2</sub-title>
+    <sub-title>Talladega</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Alan Cavanna catches up with longtime NASCAR Team executive, Ty Norris</desc>
+    <desc>Check out popular food destinations surrounding Talladega Superspeedway ahead of race weekend!</desc>
     <date>20251020</date>
-    <icon src="https://images.frequency.com/video/7346924253887981540/solid/rectangle/w1920_h1080/l8wuh6fcvmct12wi7usul3omc.jpg" />
+    <icon src="https://images.frequency.com/video/7381326864252948363/solid/rectangle/w1920_h1080/14bo4fxjf9m6n1eba4j6h1thml.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023152912 +0000" stop="20251023162912 +0000">
-    <title>Money Lap</title>
-    <sub-title>Money Lap with Parker and Landon</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Parker Kligerman revisits his big win in the Daytona Xfinity series and both talk new F1 roster changes.</desc>
-    <date>20250915</date>
-    <icon src="https://images.frequency.com/video/7373170169080736096/solid/rectangle/w1920_h1080/132wigoe01pmt11mi1ollvghcf.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023162912 +0000" stop="20251023172912 +0000">
-    <title>Money Lap</title>
-    <sub-title>Money Lap with Parker and Landon</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Parker Kligerman and Landon Cassill talk Talladega weekend, fuel saving, and more!</desc>
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024010113 +0000" stop="20251024020113 +0000">
+    <title>Born to Perform Podcast</title>
+    <sub-title>Episode 3</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>NASCAR Cup Series driver Noah Gragson joins Brandon McReynolds</desc>
     <date>20251020</date>
-    <icon src="https://images.frequency.com/video/7347390597806816507/solid/rectangle/w1920_h1080/1grqtaxml6s5j1xnu7eja0gfns.jpg" />
+    <icon src="https://images.frequency.com/video/7361031283934526984/solid/rectangle/w1920_h1080/1ug38eb9j3d2a15vngkks31v8u.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023172912 +0000" stop="20251023173111 +0000">
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024020113 +0000" stop="20251024025743 +0000">
+    <title>Must See Racing</title>
+    <sub-title>Owosso Speedway</sub-title>
+    <episode-num system="onscreen">S04E04</episode-num>
+    <desc>The Must See Racing sprint cars take to Owosso Speedway on a beautiful Labor Day weekend.</desc>
+    <date>20250904</date>
+    <icon src="https://images.frequency.com/video/originals/7369448576302858064/rectangle/2ep0re2qxs0p13n5ltxv6lsax.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024025743 +0000" stop="20251024025942 +0000">
     <title>racing_ad_slate.mp4</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -212,70 +50,232 @@
     <icon src="https://images.frequency.com/video/7377395348007181607/solid/rectangle/w1920_h1080/88ww830y8nym1xpy8vjd35hzi.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023173111 +0000" stop="20251023180111 +0000">
-    <title>Cup Weekend Wrap</title>
-    <sub-title>Las Vegas</sub-title>
-    <episode-num system="onscreen">S02E33</episode-num>
-    <desc>Hear from the winner, Denny Hamlin, as he secures his 60th Cup Series win and a spot in the Championship 4</desc>
-    <date>20251014</date>
-    <icon src="https://images.frequency.com/video/7383913712490039449/solid/rectangle/w1920_h1080/1d6r49u0psp1y15mjzgovk1q45.jpg" />
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024025942 +0000" stop="20251024030141 +0000">
+    <title>racing_ad_slate.mp4</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>racing_ad_slate.mp4</desc>
+    <date>20250926</date>
+    <icon src="https://images.frequency.com/video/7377395348007181607/solid/rectangle/w1920_h1080/88ww830y8nym1xpy8vjd35hzi.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023180111 +0000" stop="20251023183111 +0000">
-    <title>Bites and Burnouts</title>
-    <sub-title>Talladega</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Check out popular food destinations surrounding Talladega Superspeedway ahead of race weekend!</desc>
-    <date>20251007</date>
-    <icon src="https://images.frequency.com/video/7381326864252948363/solid/rectangle/w1920_h1080/14bo4fxjf9m6n1eba4j6h1thml.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023183111 +0000" stop="20251023193111 +0000">
-    <title>Instant Classic</title>
-    <sub-title>Thunder Roadsters and Vores CRA Late Models</sub-title>
-    <episode-num system="onscreen">S04E34</episode-num>
-    <desc>Thunder Roadsters and Vores CRA Late Models at Winchester Speedway, Winchester, IN</desc>
-    <date>20251014</date>
-    <icon src="https://images.frequency.com/video/7383917343062425746/solid/rectangle/w1920_h1080/gwmm9ta6bwtj1hyjhiucaxl1o.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023193111 +0000" stop="20251023200112 +0000">
-    <title>Racers Forum NASCAR Industry Podcast</title>
-    <sub-title>ft. Brian Herbst, Mike Verlander, Dawn Turner, and Justin Marks</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Hear from NASCAR industry professionals on this podcast from the Racers Forum event</desc>
-    <date>20251013</date>
-    <icon src="https://images.frequency.com/video/7383560513501152718/solid/rectangle/w1920_h1080/nx9l9vcg846y1u4uam6ktqn7v.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023200112 +0000" stop="20251023203112 +0000">
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024030141 +0000" stop="20251024033141 +0000">
     <title>Racers Forum NASCAR Industry Podcast</title>
     <sub-title>ft. Bill Anthony, Alex Strand, Dave Alpern, and Chad Knaus</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
     <desc>Hear from NASCAR industry professionals on this podcast from the Racers Forum event</desc>
-    <date>20251013</date>
+    <date>20251020</date>
     <icon src="https://images.frequency.com/video/7383564212982492555/solid/rectangle/w1920_h1080/b48uyatkhgsf1kkxq6571tu9i.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023203112 +0000" stop="20251023213112 +0000">
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024033141 +0000" stop="20251024040141 +0000">
+    <title>Bites and Burnouts</title>
+    <sub-title>Talladega</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Check out popular food destinations surrounding Talladega Superspeedway ahead of race weekend!</desc>
+    <date>20251020</date>
+    <icon src="https://images.frequency.com/video/7381326864252948363/solid/rectangle/w1920_h1080/14bo4fxjf9m6n1eba4j6h1thml.png" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024040141 +0000" stop="20251024050141 +0000">
+    <title>Born to Perform Podcast</title>
+    <sub-title>Episode 3</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>NASCAR Cup Series driver Noah Gragson joins Brandon McReynolds</desc>
+    <date>20251020</date>
+    <icon src="https://images.frequency.com/video/7361031283934526984/solid/rectangle/w1920_h1080/1ug38eb9j3d2a15vngkks31v8u.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024050141 +0000" stop="20251024060141 +0000">
+    <title>Must See Racing</title>
+    <sub-title>Montgomery Speedway</sub-title>
+    <episode-num system="onscreen">S04E32</episode-num>
+    <desc>The Must See Racing sprint cars take on  Montgomery Speedway!</desc>
+    <date>20251016</date>
+    <icon src="https://images.frequency.com/video/7384643136964032183/solid/rectangle/w1920_h1080/ozm2r5vc13qb1cwa2bfr05m6m.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024060141 +0000" stop="20251024063142 +0000">
+    <title>Racers Forum NASCAR Industry Podcast</title>
+    <sub-title>ft. Brian Herbst, Mike Verlander, Dawn Turner, and Justin Marks</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Hear from NASCAR industry professionals on this podcast from the Racers Forum event</desc>
+    <date>20251020</date>
+    <icon src="https://images.frequency.com/video/7383560513501152718/solid/rectangle/w1920_h1080/nx9l9vcg846y1u4uam6ktqn7v.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024063142 +0000" stop="20251024070111 +0000">
+    <title>NASCAR Comeback: Kasey Kahne Returns</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Kasey Kahne gets ready for his NASCAR return at Rockingham! Hear from him and the RCR team</desc>
+    <date>20251020</date>
+    <icon src="https://images.frequency.com/video/7348337958151225321/solid/rectangle/w1920_h1080/af1l6hhecn2b1fsr649tpm6zt.png" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024070111 +0000" stop="20251024080111 +0000">
+    <title>Born to Perform Podcast</title>
+    <sub-title>Episode 2</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>NASCAR Cup Series driver Cole Custer joins Brandon McReynolds for a new episode of "Born to Perform"</desc>
+    <date>20251020</date>
+    <icon src="https://images.frequency.com/video/7354309155814421330/solid/rectangle/w1920_h1080/1nqsyqqmf7x441fcb1o4s1vx25.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024080111 +0000" stop="20251024090111 +0000">
+    <title>Must See Racing</title>
+    <sub-title>Montgomery Speedway</sub-title>
+    <episode-num system="onscreen">S04E32</episode-num>
+    <desc>The Must See Racing sprint cars take on  Montgomery Speedway!</desc>
+    <date>20251016</date>
+    <icon src="https://images.frequency.com/video/7384643136964032183/solid/rectangle/w1920_h1080/ozm2r5vc13qb1cwa2bfr05m6m.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024090111 +0000" stop="20251024100111 +0000">
+    <title>Instant Classic</title>
+    <sub-title>Episode 16</sub-title>
+    <episode-num system="onscreen">S04E16</episode-num>
+    <desc>Canada's APC Late Model Series takes on the Sunset Speedway in Ontario</desc>
+    <date>20251020</date>
+    <icon src="https://images.frequency.com/video/7346899091213756773/solid/rectangle/w1920_h1080/1wdk9ek4onnyc1rktbnv235odx.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024100111 +0000" stop="20251024110111 +0000">
+    <title>Instant Classic</title>
+    <sub-title>Episode 4</sub-title>
+    <episode-num system="onscreen">S04E04</episode-num>
+    <desc>The UARA Sportsman Series kicks off their 2025 season at the Freedom Factory</desc>
+    <date>20251020</date>
+    <icon src="https://images.frequency.com/video/7347235731330636554/solid/rectangle/w1920_h1080/1eki8bmmr8io31ufiaw46x7fiz.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024110111 +0000" stop="20251024120111 +0000">
+    <title>Instant Classic</title>
+    <sub-title>Episode 28</sub-title>
+    <episode-num system="onscreen">S03E28</episode-num>
+    <desc>Owosso Speedway hosts the UARA National Tour for the Love's Travel Center 150</desc>
+    <date>20251020</date>
+    <icon src="https://images.frequency.com/video/7347280148931442789/solid/rectangle/w1920_h1080/1up97c5eksp9e1tnp0mk9ouup4.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024120111 +0000" stop="20251024130111 +0000">
+    <title>Instant Classic</title>
+    <sub-title>Episode 7</sub-title>
+    <episode-num system="onscreen">S03E07</episode-num>
+    <desc>The Pro All Star Series heats up the northeast racing season at Thompson Speedway, Connecticut</desc>
+    <date>20251020</date>
+    <icon src="https://images.frequency.com/video/7347332681645290676/solid/rectangle/w1920_h1080/1ilv1pbx7y34d1uzbg1pzfbgeq.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024130111 +0000" stop="20251024140111 +0000">
+    <title>Instant Classic</title>
+    <sub-title>Episode 29</sub-title>
+    <episode-num system="onscreen">S03E29</episode-num>
+    <desc>The Pro Al-Stars Series runs 150 laps at White Mountain Motorsports Park</desc>
+    <date>20251020</date>
+    <icon src="https://images.frequency.com/video/7347357724334173553/solid/rectangle/w1920_h1080/7ql3bsw6lsy116iquu3cbtiyp.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024140111 +0000" stop="20251024150111 +0000">
+    <title>Instant Classic</title>
+    <sub-title>Episode 35</sub-title>
+    <episode-num system="onscreen">S03E35</episode-num>
+    <desc>The 2024 American-Canadian Tour season wraps up at Seekonk Speedway</desc>
+    <date>20251020</date>
+    <icon src="https://images.frequency.com/video/7347497964043364205/solid/rectangle/w1920_h1080/j0x1dwwcg07i1ak8mz8foa09n.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024150111 +0000" stop="20251024160111 +0000">
+    <title>Must See Racing</title>
+    <sub-title>Montgomery Speedway</sub-title>
+    <episode-num system="onscreen">S04E32</episode-num>
+    <desc>The Must See Racing sprint cars take on  Montgomery Speedway!</desc>
+    <date>20251016</date>
+    <icon src="https://images.frequency.com/video/7384643136964032183/solid/rectangle/w1920_h1080/ozm2r5vc13qb1cwa2bfr05m6m.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024160111 +0000" stop="20251024163112 +0000">
+    <title>Backstretch Banter with RFK Racing</title>
+    <sub-title>ft. Jaquan Bailey and Nick Patterson</sub-title>
+    <episode-num system="onscreen">S02E30</episode-num>
+    <desc>#17 Tire Carrier Jaquan Bailey and #17 Jackman Nick Patterson talk about the teamwork and camaraderie of the #17 pit crew</desc>
+    <date>20251016</date>
+    <icon src="https://images.frequency.com/video/7384640959626322777/solid/rectangle/w1920_h1080/1nxx0blutts9a1c6n957wqen8e.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024163112 +0000" stop="20251024170112 +0000">
+    <title>Cup Weekend Wrap</title>
+    <sub-title>Las Vegas</sub-title>
+    <episode-num system="onscreen">S02E33</episode-num>
+    <desc>Hear from the winner, Denny Hamlin, as he secures his 60th Cup Series win and a spot in the Championship 4</desc>
+    <date>20251020</date>
+    <icon src="https://images.frequency.com/video/7383913712490039449/solid/rectangle/w1920_h1080/1d6r49u0psp1y15mjzgovk1q45.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024170112 +0000" stop="20251024173113 +0000">
+    <title>Victory Lane with Davey Segal</title>
+    <sub-title>Jacob Goede</sub-title>
+    <episode-num system="onscreen">S01E28</episode-num>
+    <desc>Two-time NASCAR Advance Auto Parts Weekly Series Champion, Jacob Goede, joins the show</desc>
+    <date>20251020</date>
+    <icon src="https://images.frequency.com/video/7383930001472926764/solid/rectangle/w1920_h1080/83j0d9mvr4tm1m4783zjudad8.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024173113 +0000" stop="20251024180113 +0000">
+    <title>Racers Forum NASCAR Industry Podcast</title>
+    <sub-title>ft. Bill Anthony, Alex Strand, Dave Alpern, and Chad Knaus</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Hear from NASCAR industry professionals on this podcast from the Racers Forum event</desc>
+    <date>20251020</date>
+    <icon src="https://images.frequency.com/video/7383564212982492555/solid/rectangle/w1920_h1080/b48uyatkhgsf1kkxq6571tu9i.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024180113 +0000" stop="20251024183114 +0000">
+    <title>Racers Forum NASCAR Industry Podcast</title>
+    <sub-title>ft. Brian Herbst, Mike Verlander, Dawn Turner, and Justin Marks</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Hear from NASCAR industry professionals on this podcast from the Racers Forum event</desc>
+    <date>20251020</date>
+    <icon src="https://images.frequency.com/video/7383560513501152718/solid/rectangle/w1920_h1080/nx9l9vcg846y1u4uam6ktqn7v.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024183114 +0000" stop="20251024193114 +0000">
     <title>Instant Classic</title>
     <sub-title>Thunder Roadsters and Vores CRA Late Models</sub-title>
     <episode-num system="onscreen">S04E34</episode-num>
     <desc>Thunder Roadsters and Vores CRA Late Models at Winchester Speedway, Winchester, IN</desc>
-    <date>20251014</date>
+    <date>20251020</date>
     <icon src="https://images.frequency.com/video/7383917343062425746/solid/rectangle/w1920_h1080/gwmm9ta6bwtj1hyjhiucaxl1o.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023213112 +0000" stop="20251023223112 +0000">
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024193114 +0000" stop="20251024203114 +0000">
+    <title>Instant Classic</title>
+    <sub-title>Thunder Roadsters and Vores CRA Late Models</sub-title>
+    <episode-num system="onscreen">S04E34</episode-num>
+    <desc>Thunder Roadsters and Vores CRA Late Models at Winchester Speedway, Winchester, IN</desc>
+    <date>20251020</date>
+    <icon src="https://images.frequency.com/video/7383917343062425746/solid/rectangle/w1920_h1080/gwmm9ta6bwtj1hyjhiucaxl1o.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024203114 +0000" stop="20251024213114 +0000">
     <title>Instant Classic</title>
     <sub-title>FOAR Scored Modified</sub-title>
     <episode-num system="onscreen">S04E33</episode-num>
     <desc>FOAR Scored Modified at Wyoming County International Speedway, Perry, NY</desc>
-    <date>20251007</date>
+    <date>20251020</date>
     <icon src="https://images.frequency.com/video/7381330466025926220/solid/rectangle/w1920_h1080/q4yb0qwrsxm81cdt2c5jkyem2.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023223112 +0000" stop="20251023233112 +0000">
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024213114 +0000" stop="20251024223116 +0000">
+    <title>Born to Perform Podcast</title>
+    <sub-title>Sam Mayer</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Xfinity Series driver Sam Mayer joins Brandon McReynolds on the show</desc>
+    <date>20251020</date>
+    <icon src="https://images.frequency.com/video/7379542078346736834/solid/rectangle/w1920_h1080/k136ufv6vtoi1jt2ylq4crdlv.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024223116 +0000" stop="20251024233116 +0000">
     <title>Instant Classic</title>
     <sub-title>Episode 34</sub-title>
     <episode-num system="onscreen">S03E34</episode-num>
@@ -284,40 +284,22 @@
     <icon src="https://images.frequency.com/video/7347647357017497233/solid/rectangle/w1920_h1080/xp42wlxxg51m12zowomtmhx3c.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251023233112 +0000" stop="20251024000113 +0000">
-    <title>Victory Lane with Davey Segal</title>
-    <sub-title>Jacob Goede</sub-title>
-    <episode-num system="onscreen">S01E28</episode-num>
-    <desc>Two-time NASCAR Advance Auto Parts Weekly Series Champion, Jacob Goede, joins the show</desc>
-    <date>20251014</date>
-    <icon src="https://images.frequency.com/video/7383930001472926764/solid/rectangle/w1920_h1080/83j0d9mvr4tm1m4783zjudad8.jpg" />
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251024233116 +0000" stop="20251025000052 +0000">
+    <title>Game On: Racing Edition</title>
+    <sub-title>Game On: Racing Edition</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Meet UEL founder, Titus Walker and learn how NASCAR Truck Series Driver Rajah Caruth got his start in iRacing</desc>
+    <date>20251020</date>
+    <icon src="https://images.frequency.com/video/7348955783075675371/solid/rectangle/w1920_h1080/oiqhwxzvdn8q1vr0cx4tbmctp.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251024000113 +0000" stop="20251024003114 +0000">
-    <title>Racers Forum NASCAR Industry Podcast</title>
-    <sub-title>ft. Brian Herbst, Mike Verlander, Dawn Turner, and Justin Marks</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Hear from NASCAR industry professionals on this podcast from the Racers Forum event</desc>
-    <date>20251013</date>
-    <icon src="https://images.frequency.com/video/7383560513501152718/solid/rectangle/w1920_h1080/nx9l9vcg846y1u4uam6ktqn7v.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251024003114 +0000" stop="20251024010114 +0000">
+<programme channel="68fa84637ac952737656ae5f-61a945156547ba4d6d238dc9" start="20251025000052 +0000" stop="20251025003052 +0000">
     <title>Bites and Burnouts</title>
     <sub-title>Talladega</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
     <desc>Check out popular food destinations surrounding Talladega Superspeedway ahead of race weekend!</desc>
-    <date>20251007</date>
+    <date>20251020</date>
     <icon src="https://images.frequency.com/video/7381326864252948363/solid/rectangle/w1920_h1080/14bo4fxjf9m6n1eba4j6h1thml.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" start="20251024010114 +0000" stop="20251024020114 +0000">
-    <title>Born to Perform Podcast</title>
-    <sub-title>Episode 3</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>NASCAR Cup Series driver Noah Gragson joins Brandon McReynolds</desc>
-    <date>20250812</date>
-    <icon src="https://images.frequency.com/video/7361031283934526984/solid/rectangle/w1920_h1080/1ug38eb9j3d2a15vngkks31v8u.jpg" />
   </programme>
   
 </tv>

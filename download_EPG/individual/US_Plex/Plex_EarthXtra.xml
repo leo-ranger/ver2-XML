@@ -1,458 +1,295 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f">
+<channel id="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f">
     <display-name>EarthXtra</display-name>
     <icon src="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6b0966e5d90288e08bae81a080108d96.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023002900 +0000" stop="20251023012500 +0000">
-    <title>Saving the Wild</title>
-    <sub-title>Big Cats</sub-title>
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024000000 +0000" stop="20251024002800 +0000">
+    <title>Never Too Small</title>
+    <sub-title>Living Differently</sub-title>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <desc>From Italy to Hong Kong, these tailor-made micro homes reveal how unique, personal designs are not limited by space.</desc>
+    <date>20240111</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/373dad1508fd78ddad4781ff759b0464.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024002800 +0000" stop="20251024005700 +0000">
+    <title>Never Too Small</title>
+    <sub-title>Multi-Story Living</sub-title>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <desc>Multi-level designs bring new possibilities for small homes, filling spaces of increasingly odd shapes and sizes while combatting urban density.</desc>
+    <date>20240118</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/65cfd394a6e55b9be093084d3e8cf716.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024005700 +0000" stop="20251024012600 +0000">
+    <title>Never Too Small</title>
+    <sub-title>Working With Color and Light</sub-title>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <desc>Working with color and light is the key to making a small home feel spacious and open. Architects use creative color schemes and light shapes to uniquely expand micro spaces.</desc>
+    <date>20240118</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7aeaa9f6f524ae664ac4e48502d30f35.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024012600 +0000" stop="20251024015400 +0000">
+    <title>Never Too Small</title>
+    <sub-title>More Under 30m2</sub-title>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <desc>How some of the smallest spaces become livable homes; these unique, meticulously crafted creations reflect the very best in efficient design.</desc>
+    <date>20240201</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/4e86930d3ea9b0f47ca88426cdec0b7a.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024015400 +0000" stop="20251024022300 +0000">
+    <title>Never Too Small</title>
+    <sub-title>More City Centers</sub-title>
+    <episode-num system="onscreen">S02E10</episode-num>
+    <desc>In constrained city centers, cleverly designed spaces with multifunctional rooms make these homes feel much larger than they are.</desc>
+    <date>20240201</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/016ad29943be470c0114f5634ab39090.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024022300 +0000" stop="20251024025200 +0000">
+    <title>Never Too Small</title>
+    <sub-title>Basements &amp; Lofts</sub-title>
+    <episode-num system="onscreen">S02E11</episode-num>
+    <desc>Creative expansion, above and below.</desc>
+    <date>20240208</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8a999472180ebe312076cca672f219e1.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024025200 +0000" stop="20251024032100 +0000">
+    <title>Never Too Small</title>
+    <sub-title>Heritage Homes</sub-title>
+    <episode-num system="onscreen">S02E12</episode-num>
+    <desc>A look at how architects have managed to retain authenticity while revamping heritage homes for modern living.</desc>
+    <date>20240208</date>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/555efc532700fa4765661c9ece3ace91.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024032100 +0000" stop="20251024035000 +0000">
+    <title>Never Too Small</title>
+    <sub-title>Adaptive Re-Use</sub-title>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <desc>Confronted with housing shortages and rising prices, architects around the world renovate existing buildings to create sustainable micro homes in some of the busiest city centers.</desc>
+    <date>20231221</date>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/11000e757d4c36c6923a7dea9f24a540.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024035000 +0000" stop="20251024044600 +0000">
+    <title>Leave No Trace</title>
+    <sub-title>The Endangered Orang-utans of Borneo</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>The forest habitat in Borneo for Orang-utans has been rapidly disappearing. Richard understands how the locals are fighting the threat.</desc>
+    <date>20210213</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/991c19f0edb170225a01d3b08d011d22.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024044600 +0000" stop="20251024054200 +0000">
+    <title>Leave No Trace</title>
+    <sub-title>Maldives</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Soneva Fushi in the Maldives offers incredible insight into how environmental sensitivity doesn't preclude luxury; Eco-Centro is the heart of the resort, turning waste into recycled products.</desc>
+    <date>20210501</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/4a604ea067537fed454d543dd69d31f3.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024054200 +0000" stop="20251024063700 +0000">
+    <title>Leave No Trace</title>
+    <sub-title>Maldives: Part 2</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Richard visits the famous Jani resort, followed by a leisurely cruise on Soneva's floating villa; He helps to teach local children to swim and find out how the Soneva organization is helping to produce fresh drinking water to neighboring islands.</desc>
+    <date>20210701</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/dc630994be7628ad21ca4706657afd9f.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024063700 +0000" stop="20251024073100 +0000">
+    <title>Leave No Trace</title>
+    <sub-title>Valley of the Kings and Machu Picchu, Peru</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Journeying to the game reserves of South Africa and seeing how conservationists are protecting lions and cheetahs.</desc>
-    <date>20230621</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/39e164c66035f6c67daabfd10539e80a.jpg" />
+    <desc>Richard visits Peruvian eco-tourism pioneers, the Incan Valley of the Kings, Skylodge Adventure Suites and lofty Machu Picchu.</desc>
+    <date>20200331</date>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/bc3ee82f8ea7957d40c3a2248a155b33.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023012500 +0000" stop="20251023022100 +0000">
-    <title>Saving the Wild</title>
-    <sub-title>Rhinos</sub-title>
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024073100 +0000" stop="20251024082700 +0000">
+    <title>Leave No Trace</title>
+    <sub-title>Kho Kood, Thailand</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Nkomazi Game Reserve in South Africa is home to some amazing wildlife, but poachers have attacked. In a matter of weeks, poachers have reduced the number of rhino here to just five.</desc>
-    <date>20230628</date>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/2c10df9eb397250359711ae80c072d10.jpg" />
+    <desc>In Thailand, ancient Siam meets privacy and "intelligent luxury" at Soneva Kiri, an award-winning luxury resort located on Koh Kood, the country's fourth largest island.</desc>
+    <date>20200331</date>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/1d2fee227d2f714c148fd48bd2907280.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023022100 +0000" stop="20251023025000 +0000">
-    <title>The Secret Lives of Big Cats</title>
-    <sub-title>The Secret Lives of Tigers</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Siberian tigers, the largest of all cats, have experienced an almost total population crash during the past century with at least 97% gone.</desc>
-    <date>20250730</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/763c51eaa6cc5f0eb35257d8fd8a38d9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023025000 +0000" stop="20251023031700 +0000">
-    <title>The Secret Lives of Big Cats</title>
-    <sub-title>The Secret Lives of Snow Leopards</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>The snow leopard becomes legendary for its rarity and elusiveness.</desc>
-    <date>20250730</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/a578747cfe04afb6111846dac58953ba.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023031700 +0000" stop="20251023034500 +0000">
-    <title>The Secret Lives of Big Cats</title>
-    <sub-title>The Secret Lives of Pumas</sub-title>
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024082700 +0000" stop="20251024092300 +0000">
+    <title>Leave No Trace</title>
+    <sub-title>New Mexico</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Pumas, also known as cougars or mountain lions, are much more closely related to cheetahs than lions.</desc>
-    <date>20250730</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/8e3605f9e5454480bac84ecaa8bf560d.jpg" />
+    <desc>Richard visits media mogul Ted Turner's 600,000-acre Vermejo Park Ranch in New Mexico dedicated to conservation and reintroducing a number of endangered species; Richard explores historic sites along the Sante Fe Trail.</desc>
+    <date>20200331</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/82064587923076865db38fe634293de3.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023034500 +0000" stop="20251023041400 +0000">
-    <title>The Secret Lives of Big Cats</title>
-    <sub-title>The Secret Lives of Lions</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Unlike other cats, lions are highly social, forming prides of up to 35 animals.</desc>
-    <date>20250730</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/834a08a34951067b21aec8d486c9ddf5.jpg" />
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024092300 +0000" stop="20251024101900 +0000">
+    <title>Leave No Trace</title>
+    <sub-title>The Endangered Orang-utans of Borneo</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>The forest habitat in Borneo for Orang-utans has been rapidly disappearing. Richard understands how the locals are fighting the threat.</desc>
+    <date>20210213</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/991c19f0edb170225a01d3b08d011d22.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023041400 +0000" stop="20251023044300 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Adaptive Re-Use</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <desc>Confronted with housing shortages and rising prices, architects around the world renovate existing buildings to create sustainable micro homes in some of the busiest city centers.</desc>
-    <date>20231221</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/11000e757d4c36c6923a7dea9f24a540.jpg" />
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024101900 +0000" stop="20251024111500 +0000">
+    <title>Leave No Trace</title>
+    <sub-title>Maldives</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Soneva Fushi in the Maldives offers incredible insight into how environmental sensitivity doesn't preclude luxury; Eco-Centro is the heart of the resort, turning waste into recycled products.</desc>
+    <date>20210501</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/4a604ea067537fed454d543dd69d31f3.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023044300 +0000" stop="20251023051200 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Hideaways</sub-title>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <desc>The micro-getaways, located in some of the most beautiful parts of Australia, incorporate all the comforts of a larger home in a small footprint.</desc>
-    <date>20231221</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/47c9f0c3e8fbd3d3ce9536a1b9b2b7ce.jpg" />
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024111500 +0000" stop="20251024120900 +0000">
+    <title>Leave No Trace</title>
+    <sub-title>Maldives: Part 2</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Richard visits the famous Jani resort, followed by a leisurely cruise on Soneva's floating villa; He helps to teach local children to swim and find out how the Soneva organization is helping to produce fresh drinking water to neighboring islands.</desc>
+    <date>20210701</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/dc630994be7628ad21ca4706657afd9f.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023051200 +0000" stop="20251023054100 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Homes for All Stages</sub-title>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <desc>Creating purposeful homes ensures the best use of limited space as cities continue to grow; exploring homes that have been meticulously crafted to reflect each life stage of their occupants.</desc>
-    <date>20240104</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7ec83a976b6be78f70f09d3c29597488.jpg" />
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024120900 +0000" stop="20251024122200 +0000">
+    <title>Bright Now!</title>
+    <sub-title>Saving Tokyo</sub-title>
+    <episode-num system="onscreen">S01E46</episode-num>
+    <desc>The ambitious projects under development to save Tokyo, the most populated urban zone on the planet that is built on a fault line, and threatened by flooding and several active volcanoes.</desc>
+    <date>20250422</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/485219f53a0d4a2130abec8bb83128fb.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023054100 +0000" stop="20251023061000 +0000">
-    <title>Never Too Small</title>
-    <sub-title>30m2 and Under</sub-title>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <desc>With under 30 square meters of space, barely larger than the average living room, these homes have transformed from cramped spaces into functional, long-term dwellings.</desc>
-    <date>20240104</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5b17c6d73f74d7ab58a58b6fbeec090b.jpg" />
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024122200 +0000" stop="20251024131700 +0000">
+    <title>Leave No Trace</title>
+    <sub-title>Valley of the Kings and Machu Picchu, Peru</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Richard visits Peruvian eco-tourism pioneers, the Incan Valley of the Kings, Skylodge Adventure Suites and lofty Machu Picchu.</desc>
+    <date>20200331</date>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/bc3ee82f8ea7957d40c3a2248a155b33.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023061000 +0000" stop="20251023063800 +0000">
-    <title>Never Too Small</title>
-    <sub-title>City Centers</sub-title>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <desc>As city space becomes more valuable than ever, designing smart, modern homes in a smaller footprint is becoming critical for future habitation.</desc>
-    <date>20240111</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/373d381f3fdf018c2c913155faf36f6a.jpg" />
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024131700 +0000" stop="20251024141300 +0000">
+    <title>Leave No Trace</title>
+    <sub-title>Kho Kood, Thailand</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>In Thailand, ancient Siam meets privacy and "intelligent luxury" at Soneva Kiri, an award-winning luxury resort located on Koh Kood, the country's fourth largest island.</desc>
+    <date>20200331</date>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/1d2fee227d2f714c148fd48bd2907280.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023063800 +0000" stop="20251023070700 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Living Differently</sub-title>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <desc>From Italy to Hong Kong, these tailor-made micro homes reveal how unique, personal designs are not limited by space.</desc>
-    <date>20240111</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/373dad1508fd78ddad4781ff759b0464.jpg" />
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024141300 +0000" stop="20251024150900 +0000">
+    <title>Leave No Trace</title>
+    <sub-title>New Mexico</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Richard visits media mogul Ted Turner's 600,000-acre Vermejo Park Ranch in New Mexico dedicated to conservation and reintroducing a number of endangered species; Richard explores historic sites along the Sante Fe Trail.</desc>
+    <date>20200331</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/82064587923076865db38fe634293de3.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023070700 +0000" stop="20251023073600 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Multi-Story Living</sub-title>
-    <episode-num system="onscreen">S02E07</episode-num>
-    <desc>Multi-level designs bring new possibilities for small homes, filling spaces of increasingly odd shapes and sizes while combatting urban density.</desc>
-    <date>20240118</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/65cfd394a6e55b9be093084d3e8cf716.jpg" />
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024150900 +0000" stop="20251024160500 +0000">
+    <title>Leave No Trace</title>
+    <sub-title>The Endangered Orang-utans of Borneo</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>The forest habitat in Borneo for Orang-utans has been rapidly disappearing. Richard understands how the locals are fighting the threat.</desc>
+    <date>20210213</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/991c19f0edb170225a01d3b08d011d22.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023073600 +0000" stop="20251023080500 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Working With Color and Light</sub-title>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <desc>Working with color and light is the key to making a small home feel spacious and open. Architects use creative color schemes and light shapes to uniquely expand micro spaces.</desc>
-    <date>20240118</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7aeaa9f6f524ae664ac4e48502d30f35.jpg" />
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024160500 +0000" stop="20251024170100 +0000">
+    <title>Leave No Trace</title>
+    <sub-title>Maldives</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Soneva Fushi in the Maldives offers incredible insight into how environmental sensitivity doesn't preclude luxury; Eco-Centro is the heart of the resort, turning waste into recycled products.</desc>
+    <date>20210501</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/4a604ea067537fed454d543dd69d31f3.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023080500 +0000" stop="20251023083300 +0000">
-    <title>Never Too Small</title>
-    <sub-title>More Under 30m2</sub-title>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <desc>How some of the smallest spaces become livable homes; these unique, meticulously crafted creations reflect the very best in efficient design.</desc>
-    <date>20240201</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/4e86930d3ea9b0f47ca88426cdec0b7a.jpg" />
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024170100 +0000" stop="20251024175500 +0000">
+    <title>Leave No Trace</title>
+    <sub-title>Maldives: Part 2</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Richard visits the famous Jani resort, followed by a leisurely cruise on Soneva's floating villa; He helps to teach local children to swim and find out how the Soneva organization is helping to produce fresh drinking water to neighboring islands.</desc>
+    <date>20210701</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/dc630994be7628ad21ca4706657afd9f.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023083300 +0000" stop="20251023090200 +0000">
-    <title>Never Too Small</title>
-    <sub-title>More City Centers</sub-title>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <desc>In constrained city centers, cleverly designed spaces with multifunctional rooms make these homes feel much larger than they are.</desc>
-    <date>20240201</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/016ad29943be470c0114f5634ab39090.jpg" />
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024175500 +0000" stop="20251024182400 +0000">
+    <title>EarthX Reels</title>
+    <sub-title>EarthX Reels</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Fall in love with our planet and the extraordinary people striving to make it a better place.</desc>
+    <date>20251008</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023090200 +0000" stop="20251023093100 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Basements &amp; Lofts</sub-title>
-    <episode-num system="onscreen">S02E11</episode-num>
-    <desc>Creative expansion, above and below.</desc>
-    <date>20240208</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/8a999472180ebe312076cca672f219e1.jpg" />
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024182400 +0000" stop="20251024191900 +0000">
+    <title>Leave No Trace</title>
+    <sub-title>Valley of the Kings and Machu Picchu, Peru</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Richard visits Peruvian eco-tourism pioneers, the Incan Valley of the Kings, Skylodge Adventure Suites and lofty Machu Picchu.</desc>
+    <date>20200331</date>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/bc3ee82f8ea7957d40c3a2248a155b33.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023093100 +0000" stop="20251023100000 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Heritage Homes</sub-title>
-    <episode-num system="onscreen">S02E12</episode-num>
-    <desc>A look at how architects have managed to retain authenticity while revamping heritage homes for modern living.</desc>
-    <date>20240208</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/555efc532700fa4765661c9ece3ace91.jpg" />
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024191900 +0000" stop="20251024201400 +0000">
+    <title>Leave No Trace</title>
+    <sub-title>Kho Kood, Thailand</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>In Thailand, ancient Siam meets privacy and "intelligent luxury" at Soneva Kiri, an award-winning luxury resort located on Koh Kood, the country's fourth largest island.</desc>
+    <date>20200331</date>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/1d2fee227d2f714c148fd48bd2907280.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023100000 +0000" stop="20251023102900 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Adaptive Re-Use</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <desc>Confronted with housing shortages and rising prices, architects around the world renovate existing buildings to create sustainable micro homes in some of the busiest city centers.</desc>
-    <date>20231221</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/11000e757d4c36c6923a7dea9f24a540.jpg" />
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024201400 +0000" stop="20251024211200 +0000">
+    <title>Leave No Trace</title>
+    <sub-title>New Mexico</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Richard visits media mogul Ted Turner's 600,000-acre Vermejo Park Ranch in New Mexico dedicated to conservation and reintroducing a number of endangered species; Richard explores historic sites along the Sante Fe Trail.</desc>
+    <date>20200331</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/82064587923076865db38fe634293de3.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023102900 +0000" stop="20251023105700 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Hideaways</sub-title>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <desc>The micro-getaways, located in some of the most beautiful parts of Australia, incorporate all the comforts of a larger home in a small footprint.</desc>
-    <date>20231221</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/47c9f0c3e8fbd3d3ce9536a1b9b2b7ce.jpg" />
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024211200 +0000" stop="20251024220800 +0000">
+    <title>Leave No Trace</title>
+    <sub-title>The Endangered Orang-utans of Borneo</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>The forest habitat in Borneo for Orang-utans has been rapidly disappearing. Richard understands how the locals are fighting the threat.</desc>
+    <date>20210213</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/991c19f0edb170225a01d3b08d011d22.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023105700 +0000" stop="20251023112600 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Homes for All Stages</sub-title>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <desc>Creating purposeful homes ensures the best use of limited space as cities continue to grow; exploring homes that have been meticulously crafted to reflect each life stage of their occupants.</desc>
-    <date>20240104</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7ec83a976b6be78f70f09d3c29597488.jpg" />
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024220800 +0000" stop="20251024230500 +0000">
+    <title>Leave No Trace</title>
+    <sub-title>Maldives</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Soneva Fushi in the Maldives offers incredible insight into how environmental sensitivity doesn't preclude luxury; Eco-Centro is the heart of the resort, turning waste into recycled products.</desc>
+    <date>20210501</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/4a604ea067537fed454d543dd69d31f3.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023112600 +0000" stop="20251023115500 +0000">
-    <title>Never Too Small</title>
-    <sub-title>30m2 and Under</sub-title>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <desc>With under 30 square meters of space, barely larger than the average living room, these homes have transformed from cramped spaces into functional, long-term dwellings.</desc>
-    <date>20240104</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5b17c6d73f74d7ab58a58b6fbeec090b.jpg" />
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251024230500 +0000" stop="20251025000000 +0000">
+    <title>Leave No Trace</title>
+    <sub-title>Maldives: Part 2</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Richard visits the famous Jani resort, followed by a leisurely cruise on Soneva's floating villa; He helps to teach local children to swim and find out how the Soneva organization is helping to produce fresh drinking water to neighboring islands.</desc>
+    <date>20210701</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/dc630994be7628ad21ca4706657afd9f.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023115500 +0000" stop="20251023122400 +0000">
-    <title>Never Too Small</title>
-    <sub-title>City Centers</sub-title>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <desc>As city space becomes more valuable than ever, designing smart, modern homes in a smaller footprint is becoming critical for future habitation.</desc>
-    <date>20240111</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/373d381f3fdf018c2c913155faf36f6a.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023122400 +0000" stop="20251023125300 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Living Differently</sub-title>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <desc>From Italy to Hong Kong, these tailor-made micro homes reveal how unique, personal designs are not limited by space.</desc>
-    <date>20240111</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/373dad1508fd78ddad4781ff759b0464.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023125300 +0000" stop="20251023132200 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Multi-Story Living</sub-title>
-    <episode-num system="onscreen">S02E07</episode-num>
-    <desc>Multi-level designs bring new possibilities for small homes, filling spaces of increasingly odd shapes and sizes while combatting urban density.</desc>
-    <date>20240118</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/65cfd394a6e55b9be093084d3e8cf716.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023132200 +0000" stop="20251023135100 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Working With Color and Light</sub-title>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <desc>Working with color and light is the key to making a small home feel spacious and open. Architects use creative color schemes and light shapes to uniquely expand micro spaces.</desc>
-    <date>20240118</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7aeaa9f6f524ae664ac4e48502d30f35.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023135100 +0000" stop="20251023141900 +0000">
-    <title>Never Too Small</title>
-    <sub-title>More Under 30m2</sub-title>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <desc>How some of the smallest spaces become livable homes; these unique, meticulously crafted creations reflect the very best in efficient design.</desc>
-    <date>20240201</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/4e86930d3ea9b0f47ca88426cdec0b7a.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023141900 +0000" stop="20251023144800 +0000">
-    <title>Never Too Small</title>
-    <sub-title>More City Centers</sub-title>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <desc>In constrained city centers, cleverly designed spaces with multifunctional rooms make these homes feel much larger than they are.</desc>
-    <date>20240201</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/016ad29943be470c0114f5634ab39090.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023144800 +0000" stop="20251023151600 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Basements &amp; Lofts</sub-title>
-    <episode-num system="onscreen">S02E11</episode-num>
-    <desc>Creative expansion, above and below.</desc>
-    <date>20240208</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/8a999472180ebe312076cca672f219e1.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023151600 +0000" stop="20251023154800 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Heritage Homes</sub-title>
-    <episode-num system="onscreen">S02E12</episode-num>
-    <desc>A look at how architects have managed to retain authenticity while revamping heritage homes for modern living.</desc>
-    <date>20240208</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/555efc532700fa4765661c9ece3ace91.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023154800 +0000" stop="20251023161700 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Adaptive Re-Use</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <desc>Confronted with housing shortages and rising prices, architects around the world renovate existing buildings to create sustainable micro homes in some of the busiest city centers.</desc>
-    <date>20231221</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/11000e757d4c36c6923a7dea9f24a540.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023161700 +0000" stop="20251023164600 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Hideaways</sub-title>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <desc>The micro-getaways, located in some of the most beautiful parts of Australia, incorporate all the comforts of a larger home in a small footprint.</desc>
-    <date>20231221</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/47c9f0c3e8fbd3d3ce9536a1b9b2b7ce.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023164600 +0000" stop="20251023171500 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Homes for All Stages</sub-title>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <desc>Creating purposeful homes ensures the best use of limited space as cities continue to grow; exploring homes that have been meticulously crafted to reflect each life stage of their occupants.</desc>
-    <date>20240104</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7ec83a976b6be78f70f09d3c29597488.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023171500 +0000" stop="20251023174400 +0000">
-    <title>Never Too Small</title>
-    <sub-title>30m2 and Under</sub-title>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <desc>With under 30 square meters of space, barely larger than the average living room, these homes have transformed from cramped spaces into functional, long-term dwellings.</desc>
-    <date>20240104</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5b17c6d73f74d7ab58a58b6fbeec090b.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023174400 +0000" stop="20251023181300 +0000">
-    <title>Never Too Small</title>
-    <sub-title>City Centers</sub-title>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <desc>As city space becomes more valuable than ever, designing smart, modern homes in a smaller footprint is becoming critical for future habitation.</desc>
-    <date>20240111</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/373d381f3fdf018c2c913155faf36f6a.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023181300 +0000" stop="20251023184200 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Living Differently</sub-title>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <desc>From Italy to Hong Kong, these tailor-made micro homes reveal how unique, personal designs are not limited by space.</desc>
-    <date>20240111</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/373dad1508fd78ddad4781ff759b0464.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023184200 +0000" stop="20251023191100 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Multi-Story Living</sub-title>
-    <episode-num system="onscreen">S02E07</episode-num>
-    <desc>Multi-level designs bring new possibilities for small homes, filling spaces of increasingly odd shapes and sizes while combatting urban density.</desc>
-    <date>20240118</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/65cfd394a6e55b9be093084d3e8cf716.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023191100 +0000" stop="20251023194000 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Working With Color and Light</sub-title>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <desc>Working with color and light is the key to making a small home feel spacious and open. Architects use creative color schemes and light shapes to uniquely expand micro spaces.</desc>
-    <date>20240118</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7aeaa9f6f524ae664ac4e48502d30f35.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023194000 +0000" stop="20251023200800 +0000">
-    <title>Never Too Small</title>
-    <sub-title>More Under 30m2</sub-title>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <desc>How some of the smallest spaces become livable homes; these unique, meticulously crafted creations reflect the very best in efficient design.</desc>
-    <date>20240201</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/4e86930d3ea9b0f47ca88426cdec0b7a.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023200800 +0000" stop="20251023203600 +0000">
-    <title>Never Too Small</title>
-    <sub-title>More City Centers</sub-title>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <desc>In constrained city centers, cleverly designed spaces with multifunctional rooms make these homes feel much larger than they are.</desc>
-    <date>20240201</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/016ad29943be470c0114f5634ab39090.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023203600 +0000" stop="20251023210600 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Basements &amp; Lofts</sub-title>
-    <episode-num system="onscreen">S02E11</episode-num>
-    <desc>Creative expansion, above and below.</desc>
-    <date>20240208</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/8a999472180ebe312076cca672f219e1.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023210600 +0000" stop="20251023213500 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Heritage Homes</sub-title>
-    <episode-num system="onscreen">S02E12</episode-num>
-    <desc>A look at how architects have managed to retain authenticity while revamping heritage homes for modern living.</desc>
-    <date>20240208</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/555efc532700fa4765661c9ece3ace91.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023213500 +0000" stop="20251023220400 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Adaptive Re-Use</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <desc>Confronted with housing shortages and rising prices, architects around the world renovate existing buildings to create sustainable micro homes in some of the busiest city centers.</desc>
-    <date>20231221</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/11000e757d4c36c6923a7dea9f24a540.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023220400 +0000" stop="20251023223300 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Hideaways</sub-title>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <desc>The micro-getaways, located in some of the most beautiful parts of Australia, incorporate all the comforts of a larger home in a small footprint.</desc>
-    <date>20231221</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/47c9f0c3e8fbd3d3ce9536a1b9b2b7ce.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023223300 +0000" stop="20251023230200 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Homes for All Stages</sub-title>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <desc>Creating purposeful homes ensures the best use of limited space as cities continue to grow; exploring homes that have been meticulously crafted to reflect each life stage of their occupants.</desc>
-    <date>20240104</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7ec83a976b6be78f70f09d3c29597488.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023230200 +0000" stop="20251023233100 +0000">
-    <title>Never Too Small</title>
-    <sub-title>30m2 and Under</sub-title>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <desc>With under 30 square meters of space, barely larger than the average living room, these homes have transformed from cramped spaces into functional, long-term dwellings.</desc>
-    <date>20240104</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5b17c6d73f74d7ab58a58b6fbeec090b.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251023233100 +0000" stop="20251024000000 +0000">
-    <title>Never Too Small</title>
-    <sub-title>City Centers</sub-title>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <desc>As city space becomes more valuable than ever, designing smart, modern homes in a smaller footprint is becoming critical for future habitation.</desc>
-    <date>20240111</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/373d381f3fdf018c2c913155faf36f6a.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251024000000 +0000" stop="20251024002800 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Living Differently</sub-title>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <desc>From Italy to Hong Kong, these tailor-made micro homes reveal how unique, personal designs are not limited by space.</desc>
-    <date>20240111</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/373dad1508fd78ddad4781ff759b0464.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251024002800 +0000" stop="20251024005700 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Multi-Story Living</sub-title>
-    <episode-num system="onscreen">S02E07</episode-num>
-    <desc>Multi-level designs bring new possibilities for small homes, filling spaces of increasingly odd shapes and sizes while combatting urban density.</desc>
-    <date>20240118</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/65cfd394a6e55b9be093084d3e8cf716.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20251024005700 +0000" stop="20251024012600 +0000">
-    <title>Never Too Small</title>
-    <sub-title>Working With Color and Light</sub-title>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <desc>Working with color and light is the key to making a small home feel spacious and open. Architects use creative color schemes and light shapes to uniquely expand micro spaces.</desc>
-    <date>20240118</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7aeaa9f6f524ae664ac4e48502d30f35.jpg" />
+<programme channel="68fa84637ac952737656ae5f-65f0cae2046e6131ecc3183f" start="20251025000000 +0000" stop="20251025005500 +0000">
+    <title>Leave No Trace</title>
+    <sub-title>Valley of the Kings and Machu Picchu, Peru</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Richard visits Peruvian eco-tourism pioneers, the Incan Valley of the Kings, Skylodge Adventure Suites and lofty Machu Picchu.</desc>
+    <date>20200331</date>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/bc3ee82f8ea7957d40c3a2248a155b33.jpg" />
   </programme>
   
 </tv>

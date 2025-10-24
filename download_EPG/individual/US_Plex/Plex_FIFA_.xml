@@ -1,56 +1,110 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4">
+<channel id="68fa84637ac952737656ae5f-66628d4a8dfc36b8c8a399c4">
     <display-name>FIFA+</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/6281ae4b-8ce7-45ea-a431-524ca3104d3f/FIFA__Logo_Rectangle_1500x1000_WHT.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4" start="20251023002416 +0000" stop="20251023021743 +0000">
-    <title>USA v Romania | Group Matches | 1994 FIFA World Cup USA™ | Full Match Replay</title>
+<programme channel="68fa84637ac952737656ae5f-66628d4a8dfc36b8c8a399c4" start="20251024001242 +0000" stop="20251024020444 +0000">
+    <title>Mexico v USA | Round of 16 | 2002 FIFA World Cup Korea/Japan™ | Full Match Replay</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Watch the full match replay between USA and Romania played at Rose Bowl, Pasadena on Sunday, 26 June 1994.</desc>
+    <desc>Watch the full match replay between Mexico and USA played at Jeonju World Cup Stadium, Jeonju on Monday, 17 June 2002.</desc>
     <date>20250109</date>
-    <icon src="https://partner-upload-assets.wurl.com/sysdata_s_p_a/21301.jpg" />
+    <icon src="https://partner-upload-assets.wurl.com/sysdata_s_p_a/18442.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4" start="20251023021743 +0000" stop="20251023024355 +0000">
+<programme channel="68fa84637ac952737656ae5f-66628d4a8dfc36b8c8a399c4" start="20251024020444 +0000" stop="20251024040158 +0000">
+    <title>Hinein | The Official Film of the 1958 FIFA World Cup™</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>This enrapturing film looks at inimitable talents Garrincha and Pele propelling Brazil to their first FIFA World Cup trophy, and exclusive footage of how players entertained themselves off the pitch in Sweden.</desc>
+    <date>20240523</date>
+    <icon src="https://partner-upload-assets.wurl.com/sysdata_s_p_a/58JBDzeVl67XjZh5Iipg9X.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66628d4a8dfc36b8c8a399c4" start="20251024040158 +0000" stop="20251024054942 +0000">
+    <title>Brazil v Italy | Final | 1970 FIFA World Cup Mexico™ | Full Match Replay</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Watch the full replay from the match between Brazil and Italy played at Estadio Azteca, Mexico City on Sunday, 21 June 1970.</desc>
+    <date>20240521</date>
+    <icon src="https://partner-upload-assets.wurl.com/sysdata_s_p_a/1PWVyYB9n0irNo8j8ndgTL.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66628d4a8dfc36b8c8a399c4" start="20251024054942 +0000" stop="20251024073306 +0000">
+    <title>The World at their Feet | The Official Film of the 1970 FIFA World Cup™</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Enjoy a legendary FIFA World Cup™ and the iconic Brazil side of Pele, Jairzinho and Tostao through the eyes of an excited young boy determined to take in the action.</desc>
+    <date>20240523</date>
+    <icon src="https://partner-upload-assets.wurl.com/sysdata_s_p_a/SUE2NnhdIyrcvoZV4rHyZ.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66628d4a8dfc36b8c8a399c4" start="20251024073306 +0000" stop="20251024092657 +0000">
+    <title>Uruguay v Netherlands | Semi-finals | 2010 FIFA World Cup South Africa™ | Full Match Replay</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Watch the full match replay from the match between Uruguay and Netherlands played at Cape Town Stadium, Cape Town on Tuesday, 06 July 2010.</desc>
+    <date>20240521</date>
+    <icon src="https://partner-upload-assets.wurl.com/sysdata_s_p_a/3vunriEC53XWX34x0PykxI.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66628d4a8dfc36b8c8a399c4" start="20251024092657 +0000" stop="20251024111739 +0000">
+    <title>Germany v Spain | Semi-finals | 2010 FIFA World Cup South Africa™ | Full Match Replay</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Watch the full match replay from the match between Germany and Spain played at Durban Stadium, Durban on Wednesday, 07 July 2010.</desc>
+    <date>20240521</date>
+    <icon src="https://partner-upload-assets.wurl.com/sysdata_s_p_a/49vj3pGgnTdTtEhWYo4DbM.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66628d4a8dfc36b8c8a399c4" start="20251024111739 +0000" stop="20251024134821 +0000">
+    <title>Netherlands v Spain | Final | 2010 FIFA World Cup South Africa™ | Full Match Replay</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Watch the full replay from the match between Netherlands and Spain played at Soccer City, Johannesburg on Sunday, 11 July 2010.</desc>
+    <date>20240521</date>
+    <icon src="https://partner-upload-assets.wurl.com/sysdata_s_p_a/7EHrmMBlG7zt4ycAYCVy4d.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66628d4a8dfc36b8c8a399c4" start="20251024134821 +0000" stop="20251024140633 +0000">
     <title>FIFA U-20 World Cup Chile 2025™: Highlights</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
     <desc>Watch the latest highlights from the FIFA U-20 World Cup Chile 2025™.</desc>
     <date>20251001</date>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/44632-46680/91782879-default_v1.png" />
+    <icon src="https://provider-static.plex.tv/epg/cms/production/c80b140f-b4b5-4e22-b955-46204e90c468/FIFA__HORIZONTAL.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4" start="20251023024355 +0000" stop="20251023051810 +0000">
-    <title>Brazil v Italy | Final | 1994 FIFA World Cup USA™ | Full Match Replay</title>
+<programme channel="68fa84637ac952737656ae5f-66628d4a8dfc36b8c8a399c4" start="20251024140633 +0000" stop="20251024163433 +0000">
+    <title>Germany FR v England | Semi-finals | 1990 FIFA World Cup Italy™ | Full Match Replay</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Watch the full replay from the match between Brazil and Italy played at Rose Bowl, Pasadena on Sunday, 17 July 1994.</desc>
-    <date>20240521</date>
-    <icon src="https://partner-upload-assets.wurl.com/sysdata_s_p_a/5gHFVHGXu1z25dDe6id7TE.jpg" />
+    <desc>Watch the full match replay between Germany FR and England played at Stadio delle Alpi, Turin on Wednesday, 4 July 1990 at 20:00 (local time).</desc>
+    <date>20250315</date>
+    <icon src="https://partner-upload-assets.wurl.com/sysdata_s_p_a/133708.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4" start="20251023051810 +0000" stop="20251023071126 +0000">
-    <title>France v Argentina | Round of 16 | 2018 FIFA World Cup Russia™ | Full Match Replay</title>
+<programme channel="68fa84637ac952737656ae5f-66628d4a8dfc36b8c8a399c4" start="20251024163433 +0000" stop="20251024182133 +0000">
+    <title>Italy v Germany FR | Final | 1982 FIFA World Cup Spain™ | Full Match Replay</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Watch the full match replay from the match between France and Argentina played at Kazan Arena, Kazan on Saturday, 30 June 2018.</desc>
+    <desc>Watch the full replay from the match between Italy and Germany FR played at Santiago Bernabeu, Madrid on Sunday, 11 July 1982.</desc>
     <date>20240521</date>
-    <icon src="https://partner-upload-assets.wurl.com/sysdata_s_p_a/6oCdbGIK44b3OZ9xr73iWK.jpg" />
+    <icon src="https://partner-upload-assets.wurl.com/sysdata_s_p_a/1mTRUzxa860cV3SUfs2xXC.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4" start="20251023071126 +0000" stop="20251023094927 +0000">
-    <title>Croatia v England | Semi-finals | 2018 FIFA World Cup Russia™ | Full Match Replay</title>
+<programme channel="68fa84637ac952737656ae5f-66628d4a8dfc36b8c8a399c4" start="20251024182133 +0000" stop="20251024185009 +0000">
+    <title>FIFA World Cup™ Host Nation Champions 2</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Watch the full match replay from the match between Croatia and England played at Luzhniki Stadium, Moscow on Wednesday, 11 July 2018.</desc>
-    <date>20240521</date>
-    <icon src="https://partner-upload-assets.wurl.com/sysdata_s_p_a/5bJzS3JTN2yxSugTf8mGu9.jpg" />
+    <desc>Get excited again with the host nations that managed to lift the trophy in front of their fans.</desc>
+    <date>20240613</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/29416-31464/60283395-default_v1.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4" start="20251023094927 +0000" stop="20251023114421 +0000">
+<programme channel="68fa84637ac952737656ae5f-66628d4a8dfc36b8c8a399c4" start="20251024185009 +0000" stop="20251024204504 +0000">
     <title>France v Croatia | Final | 2018 FIFA World Cup Russia™ | Full Match Replay</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -59,112 +113,31 @@
     <icon src="https://partner-upload-assets.wurl.com/sysdata_s_p_a/3BQrtPUrkXSPDs5n6jgbUG.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4" start="20251023114421 +0000" stop="20251023122240 +0000">
-    <title>World Champions: France 2018</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The glorious victory of France at the 2018 FIFA World Cup™ in Russia.</desc>
-    <date>20250716</date>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/42037-44085/86399862-default_v2.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4" start="20251023122240 +0000" stop="20251023131943 +0000">
-    <title>Lineker | Golden Boot</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The one where Klinsmann meets Lineker in London, UK.</desc>
-    <date>20240523</date>
-    <icon src="https://partner-upload-assets.wurl.com/sysdata_s_p_a/4HtZGTmaoP3Uo5uwC9uoex.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4" start="20251023131943 +0000" stop="20251023133755 +0000">
-    <title>FIFA U-20 World Cup Chile 2025™: Highlights</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Watch the latest highlights from the FIFA U-20 World Cup Chile 2025™.</desc>
-    <date>20251001</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/c80b140f-b4b5-4e22-b955-46204e90c468/FIFA__HORIZONTAL.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4" start="20251023133755 +0000" stop="20251023143535 +0000">
-    <title>Ronaldo | Golden Boot</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The one where Lineker meets Ronaldo in Ibiza, Spain.</desc>
-    <date>20240523</date>
-    <icon src="https://partner-upload-assets.wurl.com/sysdata_s_p_a/48CCGEppQBDWCza1BPJp41.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4" start="20251023143535 +0000" stop="20251023150424 +0000">
-    <title>France's Triumph in Russia 2018™</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Relive France's victories against Argentina and in the final against Croatia in the 2018 FIFA World Cup™.</desc>
-    <date>20241105</date>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/30153-32201/61795246-default_v1.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4" start="20251023150424 +0000" stop="20251023152333 +0000">
-    <title>FIFA U-20 World Cup Chile 2025™ - Highlights Quarter-Finals</title>
+<programme channel="68fa84637ac952737656ae5f-66628d4a8dfc36b8c8a399c4" start="20251024204504 +0000" stop="20251024210245 +0000">
+    <title>25 Memorable FIFA U-17 Women’s World Cup Goals</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
     <desc>Remember some of the best strikes in the history of the tournament.</desc>
-    <date>20251013</date>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/44875-46923/92286701-default_v1.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4" start="20251023152333 +0000" stop="20251023182243 +0000">
-    <title>Argentina v France | Final | FIFA World Cup Qatar 2022™ | Full Match Replay</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Watch the full match replay between Argentina and France played at Lusail Stadium, Al Daayen on Sunday, 18 December 2022 at 18:00.</desc>
-    <date>20240521</date>
-    <icon src="https://partner-upload-assets.wurl.com/sysdata_s_p_a/FIM101244-M00.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4" start="20251023182243 +0000" stop="20251023204010 +0000">
-    <title>Spain v England | Final | FIFA Women's World Cup Australia &amp; New Zealand 2023™ | Full Match Replay</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Watch the full match replay between Spain and England played at Stadium Australia, Sydney / Wangal on Sunday, August 20, 2023 at 8:00 PM (local time).</desc>
-    <date>20240524</date>
-    <icon src="https://partner-upload-assets.wurl.com/sysdata_s_p_a/116232.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4" start="20251023204010 +0000" stop="20251023212053 +0000">
-    <title>World Champions: Germany 2014</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The brilliant triumph of Germany at the 2014 FIFA World Cup™ in Brazil.</desc>
-    <date>20250826</date>
-    <icon src="https://partner-upload-assets.wurl.com/sysdata_s_p_a/500050.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4" start="20251023212053 +0000" stop="20251023235430 +0000">
-    <title>Germany v Argentina | Final | 2014 FIFA World Cup Brazil™ | Full Match Replay</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Watch the full replay from the match between Germany and Argentina played at Maracanã, Rio de Janeiro on Sunday, 13 July 2014.</desc>
-    <date>20240521</date>
-    <icon src="https://partner-upload-assets.wurl.com/sysdata_s_p_a/1RVVOGHQmVA8puXQU33tCZ.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4" start="20251023235430 +0000" stop="20251024001242 +0000">
-    <title>FIFA U-20 World Cup Chile 2025™: Highlights</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Watch the latest highlights from the FIFA U-20 World Cup Chile 2025™.</desc>
     <date>20251001</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/c80b140f-b4b5-4e22-b955-46204e90c468/FIFA__HORIZONTAL.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4" start="20251024001242 +0000" stop="20251024020444 +0000">
-    <title>Mexico v USA | Round of 16 | 2002 FIFA World Cup Korea/Japan™ | Full Match Replay</title>
+<programme channel="68fa84637ac952737656ae5f-66628d4a8dfc36b8c8a399c4" start="20251024210245 +0000" stop="20251024223232 +0000">
+    <title>Dreams | The Official Film of the 2018 FIFA World Cup™</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Watch the full match replay between Mexico and USA played at Jeonju World Cup Stadium, Jeonju on Monday, 17 June 2002.</desc>
-    <date>20250109</date>
-    <icon src="https://partner-upload-assets.wurl.com/sysdata_s_p_a/18442.jpg" />
+    <desc>The unseen story of the 2018 FIFA World Cup™, the country and the millions of fans from around the world who witnessed one of the greatest football tournaments in history.</desc>
+    <date>20240523</date>
+    <icon src="https://partner-upload-assets.wurl.com/sysdata_s_p_a/73FQXiZLjOnTD6RqSbrixE.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66628d4a8dfc36b8c8a399c4" start="20251024223232 +0000" stop="20251025002344 +0000">
+    <title>Germany v USA | Quarter-finals | 2002 FIFA World Cup Korea/Japan™ | Full Match Replay</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Watch the full match replay from the match between Germany and USA played at Munsu Football Stadium, Ulsan on Friday, 21 June 2002.</desc>
+    <date>20250226</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/37011-39059/75969883-Image-1_v1.jpg" />
   </programme>
   
 </tv>

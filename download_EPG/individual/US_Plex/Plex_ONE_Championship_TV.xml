@@ -1,251 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1">
+<channel id="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1">
     <display-name>ONE Championship TV</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/a3b45d90-8290-4886-8017-d55ed6517f6c/ONE_1500x1000_for_dark_bgd_-_Eddie_Hunter-HigginsRDX.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251022235833 +0000" stop="20251023022939 +0000">
-    <title>ONE Numbered Event</title>
-    <sub-title>ONE 134: ON TNT III</sub-title>
-    <episode-num system="onscreen">S21E11</episode-num>
-    <desc>In the main event, bantamweight bruiser John Lineker risks his #1 spot against elite wrestler Troy Worthen.</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFN_20.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023022939 +0000" stop="20251023053748 +0000">
-    <title>ONE Numbered Event</title>
-    <sub-title>ONE 135: ON TNT IV</sub-title>
-    <episode-num system="onscreen">S21E12</episode-num>
-    <desc>A thrilling grudge match with Aung La N Sang v Reinier De Ridder, and Eddie Alvarez and Ok Raw Yoon battle.</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFN_20.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023053748 +0000" stop="20251023060319 +0000">
-    <title>ONE Friday Fights 2025</title>
-    <sub-title>OFF 111: Hussain v Matsuda</sub-title>
-    <episode-num system="onscreen">S2025E182</episode-num>
-    <desc>A thrilling Featherweight MMA bout kicks off OFF 115 with Pakistan v Japan!</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023060319 +0000" stop="20251023063633 +0000">
-    <title>ONE Friday Fights 2025</title>
-    <sub-title>OFF 111: Eskiev v Satiev</sub-title>
-    <episode-num system="onscreen">S2025E183</episode-num>
-    <desc>Undefeated debutant Satiev showcases his powerful punches in a fight against Uzbekistan's Eskiev.</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023063633 +0000" stop="20251023065941 +0000">
-    <title>ONE Friday Fights 2025</title>
-    <sub-title>OFF 111: Ran v Misaki</sub-title>
-    <episode-num system="onscreen">S2025E184</episode-num>
-    <desc>Powerful kicks from these strong women Ran Longshu (China) v Misaki (Japan).</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023065941 +0000" stop="20251023071604 +0000">
-    <title>ONE Friday Fights 2025</title>
-    <sub-title>OFF 111: Bakhtin v Aparicio</sub-title>
-    <episode-num system="onscreen">S2025E185</episode-num>
-    <desc>Fireworks and fast work from Maksim Bakhtin (Russia) and Javier Aparicio (Argentina) in Lightweight Muay Thai.</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023071604 +0000" stop="20251023073534 +0000">
-    <title>ONE Friday Fights 2025</title>
-    <sub-title>OFF 111: Baranov v Bauza</sub-title>
-    <episode-num system="onscreen">S2025E186</episode-num>
-    <desc>Big shots back and forth with another battle of the nations: Russia and Argentina in Featherweight Muay Thai.</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023073534 +0000" stop="20251023075617 +0000">
-    <title>ONE Friday Fights 2025</title>
-    <sub-title>OFF 111: Bomogao v Rubio</sub-title>
-    <episode-num system="onscreen">S2025E187</episode-num>
-    <desc>Featured Muay Thai Fight: Philippines vs Spain in a fierce and inspiring battle.</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023075617 +0000" stop="20251023082152 +0000">
-    <title>ONE Friday Fights 2025</title>
-    <sub-title>OFF 111: Lanyakaew v Mezentsev</sub-title>
-    <episode-num system="onscreen">S2025E188</episode-num>
-    <desc>Thailand taking on Ukraine in a Catchweight 118lbs Muay Thai battle.</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023082152 +0000" stop="20251023084103 +0000">
-    <title>ONE Friday Fights 2025</title>
-    <sub-title>OFF 111:  Korpai v Jaopuenyai</sub-title>
-    <episode-num system="onscreen">S2025E189</episode-num>
-    <desc>A knockout victory for one of these powerhouse atheletes!</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023084103 +0000" stop="20251023090448 +0000">
-    <title>ONE Friday Fights 2025</title>
-    <sub-title>OFF 111: Watcharaphon v Petpayathai</sub-title>
-    <episode-num system="onscreen">S2025E190</episode-num>
-    <desc>In an all Thai battle, we witness strength and determination in Catchweight 130lbs Muay Thai.</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023090448 +0000" stop="20251023093006 +0000">
-    <title>ONE Friday Fights 2025</title>
-    <sub-title>OFF 111: Petwichit v Sonrak</sub-title>
-    <episode-num system="onscreen">S2025E191</episode-num>
-    <desc>An absolute scorcher as Petwichit takes on Sonrak in Catchweight (137 lbs) Muay Thai.</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023093006 +0000" stop="20251023095219 +0000">
-    <title>ONE Friday Fights 2025</title>
-    <sub-title>OFF 111: Puengluang v Pompet</sub-title>
-    <episode-num system="onscreen">S2025E192</episode-num>
-    <desc>Puengluang Baanramba vs Pompet Panthonggym in a Flyweight Muay Thai clash.</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023095219 +0000" stop="20251023101705 +0000">
-    <title>ONE Friday Fights 2025</title>
-    <sub-title>OFF 111: Petsukumvit v Silviu Vitez</sub-title>
-    <episode-num system="onscreen">S2025E193</episode-num>
-    <desc>Romanian striker Vitez is adding to the global flavor of competition in the main event against Petsukumvit.</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023101705 +0000" stop="20251023111720 +0000">
-    <title>ONE Vault 2022</title>
-    <sub-title>ONE Vault 22: Volume 69</sub-title>
-    <episode-num system="onscreen">S22E69</episode-num>
-    <desc>Recapping some exciting fights from 2022, including the Heavyweight MMA battle: Brandon Vera v Amir Aliakbari.</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/ONEVAULT.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023111720 +0000" stop="20251023121624 +0000">
-    <title>ONE Vault 2022</title>
-    <sub-title>ONE Vault 22: Volume 70</sub-title>
-    <episode-num system="onscreen">S22E70</episode-num>
-    <desc>We look back at the MMA World Title bout between Joshua Pacio and Jarred Brooks.</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/ONEVAULT.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023121624 +0000" stop="20251023144730 +0000">
-    <title>ONE Numbered Event</title>
-    <sub-title>ONE 134: ON TNT III</sub-title>
-    <episode-num system="onscreen">S21E11</episode-num>
-    <desc>In the main event, bantamweight bruiser John Lineker risks his #1 spot against elite wrestler Troy Worthen.</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFN_20.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023144730 +0000" stop="20251023175638 +0000">
-    <title>ONE Numbered Event</title>
-    <sub-title>ONE 135: ON TNT IV</sub-title>
-    <episode-num system="onscreen">S21E12</episode-num>
-    <desc>A thrilling grudge match with Aung La N Sang v Reinier De Ridder, and Eddie Alvarez and Ok Raw Yoon battle.</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFN_20.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023175638 +0000" stop="20251023183350 +0000">
-    <title>ONE Friday Fights 2025</title>
-    <sub-title>OFF 112: Vinh Mui v Xiangzhao</sub-title>
-    <episode-num system="onscreen">S2025E194</episode-num>
-    <desc>Flyweight MMA kicks off ONE 112.</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023183350 +0000" stop="20251023185157 +0000">
-    <title>ONE Friday Fights 2025</title>
-    <sub-title>OFF 112: Zhang Haiyang v Hiroki Naruo</sub-title>
-    <episode-num system="onscreen">S2025E196</episode-num>
-    <desc>Its a knockdown special with nowhere to hide!</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023185157 +0000" stop="20251023191658 +0000">
-    <title>ONE Friday Fights 2025</title>
-    <sub-title>OFF 112: Trowbridge v Saw Min Min</sub-title>
-    <episode-num system="onscreen">S2025E197</episode-num>
-    <desc>Strictly business at the front with volume punching!</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023191658 +0000" stop="20251023193809 +0000">
-    <title>ONE Friday Fights 2025</title>
-    <sub-title>OFF 112: Padejsuk v Clarisse</sub-title>
-    <episode-num system="onscreen">S2025E198</episode-num>
-    <desc>Muay Khao monster vs wild “Totoy”!</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023193809 +0000" stop="20251023200912 +0000">
-    <title>ONE Friday Fights 2025</title>
-    <sub-title>OFF 112: Khunponnoi v Moe Htet Aung</sub-title>
-    <episode-num system="onscreen">S2025E199</episode-num>
-    <desc>Feature Fight of the Night.</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023200912 +0000" stop="20251023203743 +0000">
-    <title>ONE Friday Fights 2025</title>
-    <sub-title>OFF 112: Khunpon v Tang</sub-title>
-    <episode-num system="onscreen">S2025E200</episode-num>
-    <desc>Young sniper Khunpon faces power-puncher Tang!</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023203743 +0000" stop="20251023210624 +0000">
-    <title>ONE Friday Fights 2025</title>
-    <sub-title>OFF 112: Tahaneak v Binladin</sub-title>
-    <episode-num system="onscreen">S2025E201</episode-num>
-    <desc>Southpaw Tahaneak’s faces a powerful Binladin.</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023210624 +0000" stop="20251023212933 +0000">
-    <title>ONE Friday Fights 2025</title>
-    <sub-title>OFF 112: Samanchai v Arsoonnoi</sub-title>
-    <episode-num system="onscreen">S2025E202</episode-num>
-    <desc>Femur finesse &amp; Muay Dern pressure!</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023212933 +0000" stop="20251023214948 +0000">
-    <title>ONE Friday Fights 2025</title>
-    <sub-title>OFF 112: Face v PayakSurin</sub-title>
-    <episode-num system="onscreen">S2025E203</episode-num>
-    <desc>High level strikers looking for TKO's.</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023214948 +0000" stop="20251023220854 +0000">
-    <title>ONE Friday Fights 2025</title>
-    <sub-title>OFF 112: Kritpet v Thway Lin Htet</sub-title>
-    <episode-num system="onscreen">S2025E204</episode-num>
-    <desc>Treated to some tip top taps tonight!</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023220854 +0000" stop="20251023223413 +0000">
-    <title>ONE Friday Fights 2025</title>
-    <sub-title>OFF 112: Singdomthong v Abdallah Ondash</sub-title>
-    <episode-num system="onscreen">S2025E205</episode-num>
-    <desc>Much anticipated main event!</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023223413 +0000" stop="20251023233628 +0000">
-    <title>ONE Vault 2022</title>
-    <sub-title>ONE Vault 22: Volume 71</sub-title>
-    <episode-num system="onscreen">S22E71</episode-num>
-    <desc>Relive some of the best bouts featuring superstars such as Oumar Kane, Tye Ruotolo and Denice Zamboanga.</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/ONEVAULT.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251023233628 +0000" stop="20251024003637 +0000">
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251023233628 +0000" stop="20251024003637 +0000">
     <title>ONE Vault 2022</title>
     <sub-title>ONE Vault 22: Volume 72</sub-title>
     <episode-num system="onscreen">S22E72</episode-num>
@@ -253,12 +13,243 @@
     <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/ONEVAULT.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20251024003637 +0000" stop="20251024011844 +0000">
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024003637 +0000" stop="20251024011844 +0000">
     <title>ONE Friday Fights 2025</title>
     <sub-title>OFF 129: Quirante v Ali Afroogh</sub-title>
     <episode-num system="onscreen">S2025E385</episode-num>
     <desc>The Green Goblin's wild striking meets Afroogh’s calm counters in a clash of chaos vs control.</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_5.jpg" />
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_1.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024011844 +0000" stop="20251024013813 +0000">
+    <title>ONE Friday Fights 2025</title>
+    <sub-title>OFF 129: Volders v Erkinov</sub-title>
+    <episode-num system="onscreen">S2025E386</episode-num>
+    <desc>Volders’ boxing vs Erkinov’s takedowns. Expect sharp hands and ground dominance.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_1.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024013813 +0000" stop="20251024020222 +0000">
+    <title>ONE Friday Fights 2025</title>
+    <sub-title>OFF 129: Har Ling Om v Tanitsu</sub-title>
+    <episode-num system="onscreen">S2025E387</episode-num>
+    <desc>Slugger HLO trades bombs with Tanitsu’s slick combos and body kicks.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_1.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024020222 +0000" stop="20251024023100 +0000">
+    <title>ONE Friday Fights 2025</title>
+    <sub-title>OFF 129: Hemati v Bayramov</sub-title>
+    <episode-num system="onscreen">S2025E388</episode-num>
+    <desc>Hemati’s elbows and kicks collide with Bayramov’s spinning attacks and grit.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_1.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024023100 +0000" stop="20251024024837 +0000">
+    <title>ONE Friday Fights 2025</title>
+    <sub-title>OFF 129: Kampeetewada v Rachid</sub-title>
+    <episode-num system="onscreen">S2025E389</episode-num>
+    <desc>Kampeetewada’s finesse faces 'The Reaper' Rachid’s knockout power in a battle of styles.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_1.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024024837 +0000" stop="20251024030926 +0000">
+    <title>ONE Friday Fights 2025</title>
+    <sub-title>OFF 129: Smith v Al-Wesabi</sub-title>
+    <episode-num system="onscreen">S2025E390</episode-num>
+    <desc>Smith’s IQ and precision meet Al-Wesabi’s relentless pressure and unpredictability.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_1.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024030926 +0000" stop="20251024035722 +0000">
+    <title>ONE Friday Fights 2025</title>
+    <sub-title>OFF 129: Feat. Petchakrit v YodAnucha</sub-title>
+    <episode-num system="onscreen">S2025E391</episode-num>
+    <desc>Petchakrit’s power meets YodAnucha’s sharp elbows + Samanchai v Tamnanthai in Muay Thai battles.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_1.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024035722 +0000" stop="20251024041842 +0000">
+    <title>ONE Friday Fights 2025</title>
+    <sub-title>OFF 129: Brazil v Patika</sub-title>
+    <episode-num system="onscreen">S2025E392</episode-num>
+    <desc>Brazil’s slick counters face Mejdoubi’s fearless brawling and forward drive.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_1.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024041842 +0000" stop="20251024044251 +0000">
+    <title>ONE Friday Fights 2025</title>
+    <sub-title>OFF 129: Lamsing v Salomov</sub-title>
+    <episode-num system="onscreen">S2025E393</episode-num>
+    <desc>Lamsing’s timing and knees vs 'The Wolf' Salomov’s wild combos and flying strikes.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_1.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024044251 +0000" stop="20251024050056 +0000">
+    <title>ONE Friday Fights 2025</title>
+    <sub-title>OFF 129: Petlampun v Albadr</sub-title>
+    <episode-num system="onscreen">S2025E394</episode-num>
+    <desc>Petlampun’s KO power clashes with 'The Matrix' Albadr’s elusive, high-volume style.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_1.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024050056 +0000" stop="20251024054550 +0000">
+    <title>ONE Friday Fights 2025</title>
+    <sub-title>OFF 129: Tengnueng v Tun Min Aung</sub-title>
+    <episode-num system="onscreen">S2025E395</episode-num>
+    <desc>Tengnueng’s left kick and power vs TMA’s nonstop pressure and aggression.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_1.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024054550 +0000" stop="20251024062301 +0000">
+    <title>ONE Friday Fights 2025</title>
+    <sub-title>OFF 112: Vinh Mui v Xiangzhao</sub-title>
+    <episode-num system="onscreen">S2025E194</episode-num>
+    <desc>Flyweight MMA kicks off ONE 112.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_1.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024062301 +0000" stop="20251024064108 +0000">
+    <title>ONE Friday Fights 2025</title>
+    <sub-title>OFF 112: Zhang Haiyang v Hiroki Naruo</sub-title>
+    <episode-num system="onscreen">S2025E196</episode-num>
+    <desc>Its a knockdown special with nowhere to hide!</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_1.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024064108 +0000" stop="20251024070609 +0000">
+    <title>ONE Friday Fights 2025</title>
+    <sub-title>OFF 112: Trowbridge v Saw Min Min</sub-title>
+    <episode-num system="onscreen">S2025E197</episode-num>
+    <desc>Strictly business at the front with volume punching!</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_1.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024070609 +0000" stop="20251024072721 +0000">
+    <title>ONE Friday Fights 2025</title>
+    <sub-title>OFF 112: Padejsuk v Clarisse</sub-title>
+    <episode-num system="onscreen">S2025E198</episode-num>
+    <desc>Muay Khao monster vs wild “Totoy”!</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_1.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024072721 +0000" stop="20251024075823 +0000">
+    <title>ONE Friday Fights 2025</title>
+    <sub-title>OFF 112: Khunponnoi v Moe Htet Aung</sub-title>
+    <episode-num system="onscreen">S2025E199</episode-num>
+    <desc>Feature Fight of the Night.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_1.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024075823 +0000" stop="20251024082655 +0000">
+    <title>ONE Friday Fights 2025</title>
+    <sub-title>OFF 112: Khunpon v Tang</sub-title>
+    <episode-num system="onscreen">S2025E200</episode-num>
+    <desc>Young sniper Khunpon faces power-puncher Tang!</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_1.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024082655 +0000" stop="20251024085535 +0000">
+    <title>ONE Friday Fights 2025</title>
+    <sub-title>OFF 112: Tahaneak v Binladin</sub-title>
+    <episode-num system="onscreen">S2025E201</episode-num>
+    <desc>Southpaw Tahaneak’s faces a powerful Binladin.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_1.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024085535 +0000" stop="20251024091845 +0000">
+    <title>ONE Friday Fights 2025</title>
+    <sub-title>OFF 112: Samanchai v Arsoonnoi</sub-title>
+    <episode-num system="onscreen">S2025E202</episode-num>
+    <desc>Femur finesse &amp; Muay Dern pressure!</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_1.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024091845 +0000" stop="20251024093751 +0000">
+    <title>ONE Friday Fights 2025</title>
+    <sub-title>OFF 112: Kritpet v Thway Lin Htet</sub-title>
+    <episode-num system="onscreen">S2025E204</episode-num>
+    <desc>Treated to some tip top taps tonight!</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_1.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024093751 +0000" stop="20251024100310 +0000">
+    <title>ONE Friday Fights 2025</title>
+    <sub-title>OFF 112: Singdomthong v Abdallah Ondash</sub-title>
+    <episode-num system="onscreen">S2025E205</episode-num>
+    <desc>Much anticipated main event!</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_1.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024100310 +0000" stop="20251024102727 +0000">
+    <title>ONE Warrior Series</title>
+    <sub-title>Malaysia</sub-title>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <desc>Rich Franklin returns to Malaysia to meet a new prospect with an impressive jiu-jitsu and wushu acumen.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OWS2_1.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024102727 +0000" stop="20251024112942 +0000">
+    <title>ONE Vault 2022</title>
+    <sub-title>ONE Vault 22: Volume 71</sub-title>
+    <episode-num system="onscreen">S22E71</episode-num>
+    <desc>Relive some of the best bouts featuring superstars such as Oumar Kane, Tye Ruotolo and Denice Zamboanga.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/ONEVAULT.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024112942 +0000" stop="20251024123000 +0000">
+    <title>ONE Vault 2022</title>
+    <sub-title>ONE Vault 22: Volume 72</sub-title>
+    <episode-num system="onscreen">S22E72</episode-num>
+    <desc>Revisit some of the biggest bouts including thrilling MMA encounter between Eduard Folayang and Edson Marques.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/ONEVAULT.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024123000 +0000" stop="20251024163000 +0000">
+    <title>LIVE: ONE Friday Fights 130</title>
+    <category>Movie</category>
+    <desc>The 130th edition of ONE Friday Fights is bought to you LIVE from the world famous Lumpinee Stadium.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/48772efe-4b7a-4953-a712-3674043797aa/ONE_2000x300_-_Eddie_Hunter-Higgins.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024163000 +0000" stop="20251024214145 +0000">
+    <title>ONE Numbered Event</title>
+    <sub-title>ONE 152: Bad Blood</sub-title>
+    <episode-num system="onscreen">S22E03</episode-num>
+    <desc>Undefeated heavyweights collide for a World Title in ONE: BAD BLOOD, as Malykhin faces Grishenko.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFN_20.png" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024214145 +0000" stop="20251024215739 +0000">
+    <title>ONE Friday Fights 2025</title>
+    <sub-title>OFF 123: Nuapet v Albadr</sub-title>
+    <episode-num system="onscreen">S2025E322</episode-num>
+    <desc>Nuapet and Albadr clash in a technical Muay Thai war, where every strike speaks of pride and precision.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_1.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024215739 +0000" stop="20251024230013 +0000">
+    <title>ONE Vault 2022</title>
+    <sub-title>ONE Vault 22: Volume 73</sub-title>
+    <episode-num system="onscreen">S22E73</episode-num>
+    <desc>Recapping the MMA World Champion showdown: Reinier de Ridder v Anatoly Malykhin from 2022.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/ONEVAULT.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251024230013 +0000" stop="20251025000000 +0000">
+    <title>ONE Vault 2021</title>
+    <sub-title>ONE Vault 21: Volume 1</sub-title>
+    <episode-num system="onscreen">S21E01</episode-num>
+    <desc>Feat. knockouts from Filipino superstar Lito Adiwang and kickboxing giant Rade Opacic.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/ONEVAULT.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-6785867ad3749c9bdd4d2ed1" start="20251025000000 +0000" stop="20251025003140 +0000">
+    <title>ONE Friday Fights 2025</title>
+    <sub-title>OFF 122: Tonglampoon v Kohtao</sub-title>
+    <episode-num system="onscreen">S2025E310</episode-num>
+    <desc>Tonglampoon’s aggression meets Kohtao’s IQ in a 122 lb technical showcase at Lumpinee Stadium.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_1.jpg" />
   </programme>
   
 </tv>

@@ -1,443 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee">
+<channel id="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee">
     <display-name>Classic Doctor Who</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/898a6ea0-15c2-476e-a7a9-18bbe0aa6e0e/PLEX_DOCTOR_WHO_CLASSIC_Logo_Light_1500X1000.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023011021 +0000" stop="20251023013804 +0000">
-    <title>Doctor Who: Enemy of the World</title>
-    <sub-title>Part Three</sub-title>
-    <episode-num system="onscreen">S40E03</episode-num>
-    <desc>The Doctor learns more about would-be dictator Salamander as his companions close in.</desc>
-    <date>19680601</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/CDW_Enemy_of_the_World_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023013804 +0000" stop="20251023020642 +0000">
-    <title>Doctor Who: Enemy of the World</title>
-    <sub-title>Part Four</sub-title>
-    <episode-num system="onscreen">S40E04</episode-num>
-    <desc>The Doctor, Giles, Astrid and Fariah team up to escape Benik's and his men.</desc>
-    <date>20230802</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/CDW_Enemy_of_the_World_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023020642 +0000" stop="20251023023540 +0000">
-    <title>Doctor Who: Enemy of the World</title>
-    <sub-title>Part Five</sub-title>
-    <episode-num system="onscreen">S40E05</episode-num>
-    <desc>Victoria and Jamie confront Salamander with his crimes.</desc>
-    <date>20230802</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/CDW_Enemy_of_the_World_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023023540 +0000" stop="20251023030210 +0000">
-    <title>Doctor Who: Enemy of the World</title>
-    <sub-title>Part Six</sub-title>
-    <episode-num system="onscreen">S40E06</episode-num>
-    <desc>Astrid discovers Salamander's secret, who attempts to escape in the TARDIS.</desc>
-    <date>20230802</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/CDW_Enemy_of_the_World_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023030210 +0000" stop="20251023032805 +0000">
-    <title>Doctor Who: The Mind Robber</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The Doctor is forced to use the emergency unit, removing them from time space dimension!</desc>
-    <date>20221116</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/ClassicDW_TheMindRobber_STANDARD_3840x2160_eng_gb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023032805 +0000" stop="20251023035417 +0000">
-    <title>Doctor Who: The Mind Robber</title>
-    <sub-title>Episode 2</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Zoe, Jamie and the Doctor are transported to a puzzling world where they are confronted by riddles.</desc>
-    <date>20221116</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/ClassicDW_TheMindRobber_STANDARD_3840x2160_eng_gb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023035417 +0000" stop="20251023041819 +0000">
-    <title>Doctor Who: The Mind Robber</title>
-    <sub-title>Episode 3</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>The Doctor and his companions are apparently being tested, but by whom and why?</desc>
-    <date>20221116</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/ClassicDW_TheMindRobber_STANDARD_3840x2160_eng_gb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023041819 +0000" stop="20251023044202 +0000">
-    <title>Doctor Who: The Mind Robber</title>
-    <sub-title>Episode 4</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>The Doctor and Zoe have to fight the fabled Medusa and a 21st Century comic strip creation.</desc>
-    <date>19680510</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/ClassicDW_TheMindRobber_STANDARD_3840x2160_eng_gb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023044202 +0000" stop="20251023050430 +0000">
-    <title>Doctor Who: The Mind Robber</title>
-    <sub-title>Episode 5</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>The Doctor attempts to save his companions but instead finds himself imprisoned.</desc>
-    <date>19681210</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/ClassicDW_TheMindRobber_STANDARD_3840x2160_eng_gb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023050430 +0000" stop="20251023053219 +0000">
-    <title>Classic Doctor Who: The Seeds of Death</title>
-    <sub-title>Part One</sub-title>
-    <episode-num system="onscreen">S48E01</episode-num>
-    <desc>(1/6) The Doctor learns of the discovery of two alien seed pods in the Antarctic.</desc>
-    <date>20210611</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Seeds_Of_Death.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023053219 +0000" stop="20251023060116 +0000">
-    <title>Classic Doctor Who: The Seeds of Death</title>
-    <sub-title>Part Two</sub-title>
-    <episode-num system="onscreen">S48E02</episode-num>
-    <desc>(2/6) The Krynoid is on the loose in the arctic.</desc>
-    <date>19690102</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Seeds_Of_Death.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023060116 +0000" stop="20251023063039 +0000">
-    <title>Classic Doctor Who: The Seeds of Death</title>
-    <sub-title>Part Three</sub-title>
-    <episode-num system="onscreen">S48E03</episode-num>
-    <desc>(3/6) The Doctor and Sarah track down the remaining Krynoid pod.</desc>
-    <date>19690802</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Seeds_Of_Death.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023063039 +0000" stop="20251023070011 +0000">
-    <title>Classic Doctor Who: The Seeds of Death</title>
-    <sub-title>Part Four</sub-title>
-    <episode-num system="onscreen">S48E04</episode-num>
-    <desc>(4/6) Keeler has been infected by the alien pod and is transforming into a Krynoid.</desc>
-    <date>20210611</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Seeds_Of_Death.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023070011 +0000" stop="20251023072937 +0000">
-    <title>Classic Doctor Who: The Seeds of Death</title>
-    <sub-title>Part Five</sub-title>
-    <episode-num system="onscreen">S48E05</episode-num>
-    <desc>(5/6) The Krynoid demands that the Doctor be surrendered to it.</desc>
-    <date>20210611</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Seeds_Of_Death.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023072937 +0000" stop="20251023075844 +0000">
-    <title>Classic Doctor Who: The Seeds of Death</title>
-    <sub-title>Part Six</sub-title>
-    <episode-num system="onscreen">S48E06</episode-num>
-    <desc>(6/6) The Doctor, Sarah and Scorby are hunted down by the mad Harrison Chase.</desc>
-    <date>19690103</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Seeds_Of_Death.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023075844 +0000" stop="20251023082823 +0000">
-    <title>Classic Doctor Who: The War Games</title>
-    <sub-title>Part One</sub-title>
-    <episode-num system="onscreen">S50E01</episode-num>
-    <desc>(1/10) The TARDIS arrives in no mans land during World War I.</desc>
-    <date>20210611</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_War_Games.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023082823 +0000" stop="20251023085752 +0000">
-    <title>Classic Doctor Who: The War Games</title>
-    <sub-title>Part Two</sub-title>
-    <episode-num system="onscreen">S50E02</episode-num>
-    <desc>(2/10) The Doctor, Jamie and Zoe make their escape in Lady Jennifers ambulance.</desc>
-    <date>19690426</date>
-    <icon src="https://image.tmdb.org/t/p/original/k40lAKVDIEIAl1FkYMNnPBuRLOj.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023085752 +0000" stop="20251023092627 +0000">
-    <title>Classic Doctor Who: The War Games</title>
-    <sub-title>Part Three</sub-title>
-    <episode-num system="onscreen">S50E03</episode-num>
-    <desc>(3/10) The Doctor discovers that they are on a planet where soldiers fight never ending wars.</desc>
-    <date>19690305</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_War_Games.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023092627 +0000" stop="20251023095400 +0000">
-    <title>Classic Doctor Who: The War Games</title>
-    <sub-title>Part Four</sub-title>
-    <episode-num system="onscreen">S50E04</episode-num>
-    <desc>(4/10) The Doctor and Zoe penetrate the Aliens' HQ.</desc>
-    <date>19691005</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_War_Games.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023095400 +0000" stop="20251023102313 +0000">
-    <title>Classic Doctor Who: The War Games</title>
-    <sub-title>Part Five</sub-title>
-    <episode-num system="onscreen">S50E05</episode-num>
-    <desc>(5/10) In the American Civil War zone, Jamie and Lady Jennifer join forces.</desc>
-    <date>20210611</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_War_Games.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023102313 +0000" stop="20251023105046 +0000">
-    <title>Classic Doctor Who: The War Games</title>
-    <sub-title>Part Six</sub-title>
-    <episode-num system="onscreen">S50E06</episode-num>
-    <desc>(6/10) The Doctor sends Zoe to the war zones to assemble a resistance force.</desc>
-    <date>20210611</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_War_Games.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023105046 +0000" stop="20251023111753 +0000">
-    <title>Classic Doctor Who: The War Games</title>
-    <sub-title>Part Seven</sub-title>
-    <episode-num system="onscreen">S50E07</episode-num>
-    <desc>(7/10) The Doctor, Jamie and Carstairs have escaped back to the 1917 war zone.</desc>
-    <date>20210611</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_War_Games.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023111753 +0000" stop="20251023114707 +0000">
-    <title>Classic Doctor Who: The War Games</title>
-    <sub-title>Part Eight</sub-title>
-    <episode-num system="onscreen">S50E08</episode-num>
-    <desc>(8/10) The Doctor is captured by the War Chief.</desc>
-    <date>19690706</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_War_Games.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023114707 +0000" stop="20251023121622 +0000">
-    <title>Classic Doctor Who: The War Games</title>
-    <sub-title>Part Nine</sub-title>
-    <episode-num system="onscreen">S50E09</episode-num>
-    <desc>(9/10) The rebels seize control of the Aliens' HQ.</desc>
-    <date>20210611</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_War_Games.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023121622 +0000" stop="20251023124525 +0000">
-    <title>Classic Doctor Who: The War Games</title>
-    <sub-title>Part Ten</sub-title>
-    <episode-num system="onscreen">S50E10</episode-num>
-    <desc>(10/10) The war games are over and the Doctor is put on trial.</desc>
-    <date>20210611</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_War_Games.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023124525 +0000" stop="20251023131448 +0000">
-    <title>Classic Doctor Who: The Ribos Operation</title>
-    <sub-title>Part Two</sub-title>
-    <episode-num system="onscreen">S98E02</episode-num>
-    <desc>(2/4) Garron tries to trick the Graff Vynda-K into buying the planet Ribos.</desc>
-    <date>19780909</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Ribos_Operation.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023131448 +0000" stop="20251023134353 +0000">
-    <title>Classic Doctor Who: The Ribos Operation</title>
-    <sub-title>Part Three</sub-title>
-    <episode-num system="onscreen">S98E03</episode-num>
-    <desc>(3/4) The Doctor and Romana are taken prisoner by the Graff Vynda-K.</desc>
-    <date>20210525</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Ribos_Operation.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023134353 +0000" stop="20251023141320 +0000">
-    <title>Classic Doctor Who: The Ribos Operation</title>
-    <sub-title>Part Four</sub-title>
-    <episode-num system="onscreen">S98E04</episode-num>
-    <desc>(4/4) The Doctor and Romana are pursued by the Graff and attacked by the ferocious Shrivenzale.</desc>
-    <date>20210525</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Ribos_Operation.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023141320 +0000" stop="20251023144331 +0000">
-    <title>Classic Doctor Who: The Invasion of Time</title>
-    <sub-title>Part One</sub-title>
-    <episode-num system="onscreen">S97E01</episode-num>
-    <desc>(1/6) The Doctor returns to Gallifrey to claim his position as President of the Time Lords.</desc>
-    <date>19780402</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Invasion_Of_Time.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023144331 +0000" stop="20251023151326 +0000">
-    <title>Classic Doctor Who: The Invasion of Time</title>
-    <sub-title>Part Two</sub-title>
-    <episode-num system="onscreen">S97E02</episode-num>
-    <desc>(2/6) The Doctor orders K9 to lower the Gallifrey's defences.</desc>
-    <date>19781102</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Invasion_Of_Time.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023151326 +0000" stop="20251023154321 +0000">
-    <title>Classic Doctor Who: The Invasion of Time</title>
-    <sub-title>Part Three</sub-title>
-    <episode-num system="onscreen">S97E03</episode-num>
-    <desc>(3/6) The Doctor is accused of betrayal when the Vardans invade Gallifrey.</desc>
-    <date>20210526</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Invasion_Of_Time.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023154321 +0000" stop="20251023161143 +0000">
-    <title>Classic Doctor Who: The Invasion of Time</title>
-    <sub-title>Part Four</sub-title>
-    <episode-num system="onscreen">S97E04</episode-num>
-    <desc>(4/6) As the Vardans materialise on Gallifrey, the Doctor prepares to spring his trap.</desc>
-    <date>20210526</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Invasion_Of_Time.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023161143 +0000" stop="20251023164132 +0000">
-    <title>Classic Doctor Who: The Invasion of Time</title>
-    <sub-title>Part Five</sub-title>
-    <episode-num system="onscreen">S97E05</episode-num>
-    <desc>(5/6) The Sontarans attempt to take full control of Gallifrey.</desc>
-    <date>19780403</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Invasion_Of_Time.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023164132 +0000" stop="20251023171209 +0000">
-    <title>Classic Doctor Who: The Invasion of Time</title>
-    <sub-title>Part Six</sub-title>
-    <episode-num system="onscreen">S97E06</episode-num>
-    <desc>(6/6) A dangerous game of hide and seek begins inside the TARDIS when the Sontarans get in.</desc>
-    <date>19781103</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Invasion_Of_Time.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023171209 +0000" stop="20251023174147 +0000">
-    <title>Classic Doctor Who: The Ribos Operation</title>
-    <sub-title>Part One</sub-title>
-    <episode-num system="onscreen">S98E01</episode-num>
-    <desc>(1/4) The Guardian of Time gives the Doctor a difficult task - and a new assistant.</desc>
-    <date>19780209</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Ribos_Operation.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023174147 +0000" stop="20251023180941 +0000">
-    <title>Classic Doctor Who: The Power of Kroll</title>
-    <sub-title>Part One</sub-title>
-    <episode-num system="onscreen">S102E01</episode-num>
-    <desc>(1/4) On the third moon of Delta Magna, the Doctor and Romana are soon caught up in a conflict.</desc>
-    <date>20210525</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Power_Of_Kroll.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023180941 +0000" stop="20251023183614 +0000">
-    <title>Classic Doctor Who: The Power of Kroll</title>
-    <sub-title>Part Three</sub-title>
-    <episode-num system="onscreen">S102E03</episode-num>
-    <desc>(3/4) With Kroll awake and angry, the Swampies are eager to sacrifice the Doctor.</desc>
-    <date>19790601</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Power_Of_Kroll.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023183614 +0000" stop="20251023190448 +0000">
-    <title>Classic Doctor Who: The Power of Kroll</title>
-    <sub-title>Part Two</sub-title>
-    <episode-num system="onscreen">S102E02</episode-num>
-    <desc>(2/4) The Doctor arrives in time to save Romana from being sacrificed to the bogus god, Kroll.</desc>
-    <date>20210525</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Power_Of_Kroll.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023190448 +0000" stop="20251023193107 +0000">
-    <title>Classic Doctor Who: The Power of Kroll</title>
-    <sub-title>Part Four</sub-title>
-    <episode-num system="onscreen">S102E04</episode-num>
-    <desc>(4/4) The Doctor and Romana are appalled that Thawn intends to fire a rocket at Kroll.</desc>
-    <date>20210525</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Power_Of_Kroll.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023193107 +0000" stop="20251023200043 +0000">
-    <title>Classic Doctor Who: The Sunmakers</title>
-    <sub-title>Part One</sub-title>
-    <episode-num system="onscreen">S95E01</episode-num>
-    <desc>(1/4) The TARDIS arrives on a dystopian Pluto where a large company exploits it's workers.</desc>
-    <date>20210526</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Sunmakers.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023200043 +0000" stop="20251023203002 +0000">
-    <title>Classic Doctor Who: The Sunmakers</title>
-    <sub-title>Part Two</sub-title>
-    <episode-num system="onscreen">S95E02</episode-num>
-    <desc>(2/4) The Doctor is taken prisoner by the Gatherer and sent to the Correction Centre.</desc>
-    <date>19770312</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Sunmakers.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023203002 +0000" stop="20251023205951 +0000">
-    <title>Classic Doctor Who: The Sunmakers</title>
-    <sub-title>Part Three</sub-title>
-    <episode-num system="onscreen">S95E03</episode-num>
-    <desc>(3/4) Leela has been captured by the Gatherer and is sentenced to death by public steaming.</desc>
-    <date>19771012</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Sunmakers.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023205951 +0000" stop="20251023212910 +0000">
-    <title>Classic Doctor Who: The Sunmakers</title>
-    <sub-title>Part Four</sub-title>
-    <episode-num system="onscreen">S95E04</episode-num>
-    <desc>(4/4) The rebels turn on the Gatherer while the Doctor confronts the real head of the Company.</desc>
-    <date>20210526</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Sunmakers.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023212910 +0000" stop="20251023215810 +0000">
-    <title>Classic Doctor Who: The Android Invasion</title>
-    <sub-title>Part One</sub-title>
-    <episode-num system="onscreen">S83E01</episode-num>
-    <desc>(1/4) The TARDIS arrives back on Earth but all is not as it seems.</desc>
-    <date>20210525</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Android_Invasion.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023215810 +0000" stop="20251023222802 +0000">
-    <title>Classic Doctor Who: The Android Invasion</title>
-    <sub-title>Part Two</sub-title>
-    <episode-num system="onscreen">S83E02</episode-num>
-    <desc>(2/4) The Doctor discovers the truth behind the village and its robot population.</desc>
-    <date>20210525</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Android_Invasion.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023222802 +0000" stop="20251023225731 +0000">
-    <title>Classic Doctor Who: The Android Invasion</title>
-    <sub-title>Part Three</sub-title>
-    <episode-num system="onscreen">S83E03</episode-num>
-    <desc>(3/4) The Kraals intend to invade Earth by stowing away aboard Crayfords rocket as it returns home.</desc>
-    <date>19750612</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Android_Invasion.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023225731 +0000" stop="20251023232446 +0000">
-    <title>Classic Doctor Who: The Android Invasion</title>
-    <sub-title>Part Four</sub-title>
-    <episode-num system="onscreen">S83E04</episode-num>
-    <desc>(4/4) The Doctor and Sarah are desperate to warn UNIT of the Kraals invasion, but nobody will believe them.</desc>
-    <date>20210525</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Android_Invasion.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023232446 +0000" stop="20251023235340 +0000">
-    <title>Classic Doctor Who: Planet of Evil</title>
-    <sub-title>Part One</sub-title>
-    <episode-num system="onscreen">S81E01</episode-num>
-    <desc>(1/4) The TARDIS takes the Doctor and Sarah to Zeta Minor on the edge of the universe.</desc>
-    <date>20210525</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Planet_Of_Evil.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251023235340 +0000" stop="20251024002102 +0000">
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251023235340 +0000" stop="20251024002102 +0000">
     <title>Classic Doctor Who: Planet of Evil</title>
     <sub-title>Part Two</sub-title>
     <episode-num system="onscreen">S81E02</episode-num>
@@ -446,7 +14,7 @@
     <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Planet_Of_Evil.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251024002102 +0000" stop="20251024005007 +0000">
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024002102 +0000" stop="20251024005007 +0000">
     <title>Classic Doctor Who: The Sontaran Experiment</title>
     <sub-title>Part One</sub-title>
     <episode-num system="onscreen">S77E01</episode-num>
@@ -455,13 +23,445 @@
     <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Sontaran_Experiment.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-63068b870bbec3b06755a0ee" start="20251024005007 +0000" stop="20251024012016 +0000">
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024005007 +0000" stop="20251024012016 +0000">
     <title>Classic Doctor Who: The Sontaran Experiment</title>
     <sub-title>Part Two</sub-title>
     <episode-num system="onscreen">S77E02</episode-num>
     <desc>(2/2) Sarah has been captured by Styre who is conducting experiments on the captured humans.</desc>
     <date>19750103</date>
     <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Sontaran_Experiment.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024012016 +0000" stop="20251024014915 +0000">
+    <title>Classic Doctor Who: Resurrection of the Daleks</title>
+    <sub-title>Part One</sub-title>
+    <episode-num system="onscreen">S134E01</episode-num>
+    <desc>(1/4) Davros is held captive aboard a prison in space.</desc>
+    <date>19840802</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Resurrection_Of_The_Daleks.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024014915 +0000" stop="20251024021834 +0000">
+    <title>Classic Doctor Who: Resurrection of the Daleks</title>
+    <sub-title>Part Two</sub-title>
+    <episode-num system="onscreen">S134E02</episode-num>
+    <desc>(2/4) The Daleks have constructed android duplicates of the Doctor.</desc>
+    <date>19840802</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Resurrection_Of_The_Daleks.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024021834 +0000" stop="20251024024800 +0000">
+    <title>Classic Doctor Who: Resurrection of the Daleks</title>
+    <sub-title>Part Three</sub-title>
+    <episode-num system="onscreen">S134E03</episode-num>
+    <desc>(3/4) The battle at the prison station continues.</desc>
+    <date>20210611</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Resurrection_Of_The_Daleks.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024024800 +0000" stop="20251024031728 +0000">
+    <title>Classic Doctor Who: Resurrection of the Daleks</title>
+    <sub-title>Part Four</sub-title>
+    <episode-num system="onscreen">S134E04</episode-num>
+    <desc>(4/4) The Dalek agents on Earth take extreme measures to protect the time corridor.</desc>
+    <date>20210611</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Resurrection_Of_The_Daleks.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024031728 +0000" stop="20251024034609 +0000">
+    <title>Classic Doctor Who: Destiny of the Daleks</title>
+    <sub-title>Part One</sub-title>
+    <episode-num system="onscreen">S104E01</episode-num>
+    <desc>(1/4) The TARDIS lands on the old Dalek homeworld of Skaro.</desc>
+    <date>19790109</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Destiny_Of_The_Daleks.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024034609 +0000" stop="20251024041545 +0000">
+    <title>Classic Doctor Who: Destiny of the Daleks</title>
+    <sub-title>Part Two</sub-title>
+    <episode-num system="onscreen">S104E02</episode-num>
+    <desc>(2/4) Romana is captured and interrogated by the Daleks whilst the Doctor meets the Movellans.</desc>
+    <date>19790809</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Destiny_Of_The_Daleks.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024041545 +0000" stop="20251024044455 +0000">
+    <title>Classic Doctor Who: Destiny of the Daleks</title>
+    <sub-title>Part Three</sub-title>
+    <episode-num system="onscreen">S104E03</episode-num>
+    <desc>(3/4) Davros has awoken from his centuries long slumber and is taken prisoner by the Doctor.</desc>
+    <date>20210526</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Destiny_Of_The_Daleks.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024044455 +0000" stop="20251024051552 +0000">
+    <title>Classic Doctor Who: Destiny of the Daleks</title>
+    <sub-title>Part Four</sub-title>
+    <episode-num system="onscreen">S104E04</episode-num>
+    <desc>(4/4) The Doctor discovers that the Daleks need Davros to break the stalemate in their war with the Movellans.</desc>
+    <date>20210526</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Destiny_Of_The_Daleks.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024051552 +0000" stop="20251024054507 +0000">
+    <title>Classic Doctor Who: Earthshock</title>
+    <sub-title>Part One</sub-title>
+    <episode-num system="onscreen">S122E01</episode-num>
+    <desc>(1/4) Silent but deadly androids are protecting a bomb buried beneath the Earth.</desc>
+    <date>19820803</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Earthshock.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024054507 +0000" stop="20251024061421 +0000">
+    <title>Classic Doctor Who: Earthshock</title>
+    <sub-title>Part Two</sub-title>
+    <episode-num system="onscreen">S122E02</episode-num>
+    <desc>(2/4) With her crew slowly vanishing, Briggs assumes the Doctor to be the guilty party.</desc>
+    <date>19820903</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Earthshock.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024061421 +0000" stop="20251024064337 +0000">
+    <title>Classic Doctor Who: Earthshock</title>
+    <sub-title>Part Three</sub-title>
+    <episode-num system="onscreen">S122E03</episode-num>
+    <desc>(3/4) The Cybermen are released from their silos and on the march.</desc>
+    <date>20210525</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Earthshock.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024064337 +0000" stop="20251024071257 +0000">
+    <title>Classic Doctor Who: Earthshock</title>
+    <sub-title>Part Four</sub-title>
+    <episode-num system="onscreen">S122E04</episode-num>
+    <desc>(4/4) The Doctor realizes the freighter is now a huge bomb, with one passenger still aboard.</desc>
+    <date>20210525</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Earthshock.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024071257 +0000" stop="20251024074153 +0000">
+    <title>Classic Doctor Who: Revenge of the Cybermen</title>
+    <sub-title>Part One</sub-title>
+    <episode-num system="onscreen">S79E01</episode-num>
+    <desc>(1/4) The Doctor, Sarah and Harry return to Nerva, but at an earlier point in time.</desc>
+    <date>20210525</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Revenge_Of_The_Cybermen.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024074153 +0000" stop="20251024081123 +0000">
+    <title>Classic Doctor Who: Revenge of the Cybermen</title>
+    <sub-title>Part Two</sub-title>
+    <episode-num system="onscreen">S79E02</episode-num>
+    <desc>(2/4) Sarah is the latest victim of the space plague.</desc>
+    <date>20210525</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Revenge_Of_The_Cybermen.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024081123 +0000" stop="20251024084031 +0000">
+    <title>Classic Doctor Who: Revenge of the Cybermen</title>
+    <sub-title>Part Three</sub-title>
+    <episode-num system="onscreen">S79E03</episode-num>
+    <desc>(3/4) The Cybermen who are intent on destroying Voga.</desc>
+    <date>19750305</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Revenge_Of_The_Cybermen.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024084031 +0000" stop="20251024090829 +0000">
+    <title>Classic Doctor Who: Revenge of the Cybermen</title>
+    <sub-title>Part Four</sub-title>
+    <episode-num system="onscreen">S79E04</episode-num>
+    <desc>(4/4) Their plan to blow up Voga thwarted, the Cybermen intend to crash Nerva into the planet.</desc>
+    <date>19751005</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Revenge_Of_The_Cybermen.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024090829 +0000" stop="20251024093733 +0000">
+    <title>Classic Doctor Who: Revelation of the Daleks</title>
+    <sub-title>Part One</sub-title>
+    <episode-num system="onscreen">S143E01</episode-num>
+    <desc>(1/4) The Doctor and Peri visit Necros to pay their respects to Professor Stengos.</desc>
+    <date>20210611</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Revelation_Of_The_Daleks.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024093733 +0000" stop="20251024100549 +0000">
+    <title>Classic Doctor Who: Revelation of the Daleks</title>
+    <sub-title>Part Two</sub-title>
+    <episode-num system="onscreen">S143E02</episode-num>
+    <desc>(2/4) The Daleks and Davros are also on Necros, but what do they want?</desc>
+    <date>20210611</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Revelation_Of_The_Daleks.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024100549 +0000" stop="20251024103508 +0000">
+    <title>Classic Doctor Who: Revelation of the Daleks</title>
+    <sub-title>Part Three</sub-title>
+    <episode-num system="onscreen">S143E03</episode-num>
+    <desc>(3/4) An assassin plots to murder Davros.</desc>
+    <date>20210611</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Revelation_Of_The_Daleks.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024103508 +0000" stop="20251024110414 +0000">
+    <title>Classic Doctor Who: Revelation of the Daleks</title>
+    <sub-title>Part Four</sub-title>
+    <episode-num system="onscreen">S143E04</episode-num>
+    <desc>(4/4) Davros' new generation of Daleks is destroyed, but what of their creator?</desc>
+    <date>20210611</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Revelation_Of_The_Daleks.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024110414 +0000" stop="20251024113203 +0000">
+    <title>Classic Doctor Who: The Seeds of Death</title>
+    <sub-title>Part One</sub-title>
+    <episode-num system="onscreen">S48E01</episode-num>
+    <desc>(1/6) The Doctor learns of the discovery of two alien seed pods in the Antarctic.</desc>
+    <date>20210611</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Seeds_Of_Death.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024113203 +0000" stop="20251024120100 +0000">
+    <title>Classic Doctor Who: The Seeds of Death</title>
+    <sub-title>Part Two</sub-title>
+    <episode-num system="onscreen">S48E02</episode-num>
+    <desc>(2/6) The Krynoid is on the loose in the arctic.</desc>
+    <date>19690102</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Seeds_Of_Death.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024120100 +0000" stop="20251024123023 +0000">
+    <title>Classic Doctor Who: The Seeds of Death</title>
+    <sub-title>Part Three</sub-title>
+    <episode-num system="onscreen">S48E03</episode-num>
+    <desc>(3/6) The Doctor and Sarah track down the remaining Krynoid pod.</desc>
+    <date>19690802</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Seeds_Of_Death.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024123023 +0000" stop="20251024125955 +0000">
+    <title>Classic Doctor Who: The Seeds of Death</title>
+    <sub-title>Part Four</sub-title>
+    <episode-num system="onscreen">S48E04</episode-num>
+    <desc>(4/6) Keeler has been infected by the alien pod and is transforming into a Krynoid.</desc>
+    <date>20210611</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Seeds_Of_Death.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024125955 +0000" stop="20251024132921 +0000">
+    <title>Classic Doctor Who: The Seeds of Death</title>
+    <sub-title>Part Five</sub-title>
+    <episode-num system="onscreen">S48E05</episode-num>
+    <desc>(5/6) The Krynoid demands that the Doctor be surrendered to it.</desc>
+    <date>20210611</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Seeds_Of_Death.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024132921 +0000" stop="20251024135828 +0000">
+    <title>Classic Doctor Who: The Seeds of Death</title>
+    <sub-title>Part Six</sub-title>
+    <episode-num system="onscreen">S48E06</episode-num>
+    <desc>(6/6) The Doctor, Sarah and Scorby are hunted down by the mad Harrison Chase.</desc>
+    <date>19690103</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_The_Seeds_Of_Death.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024135828 +0000" stop="20251024142707 +0000">
+    <title>Classic Doctor Who: Tomb of the Cybermen</title>
+    <sub-title>Part One</sub-title>
+    <episode-num system="onscreen">S37E01</episode-num>
+    <desc>(1/4) The Doctor discovers archaeologists trying to find the lost tombs of the Cybermen.</desc>
+    <date>19670209</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Tomb_Of_The_Cybermen.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024142707 +0000" stop="20251024145628 +0000">
+    <title>Classic Doctor Who: Tomb of the Cybermen</title>
+    <sub-title>Part Two</sub-title>
+    <episode-num system="onscreen">S37E02</episode-num>
+    <desc>(2/4) The Doctor and archaeologists discover the city of Telos isn't as dead as they assumed.</desc>
+    <date>19670909</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Tomb_Of_The_Cybermen.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024145628 +0000" stop="20251024152556 +0000">
+    <title>Classic Doctor Who: Tomb of the Cybermen</title>
+    <sub-title>Tomb of the Cybermen: Episode 3</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Trapped in the tombs, the Cybermen release their poisonous pets, Cybermats.</desc>
+    <date>20210525</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Tomb_Of_The_Cybermen.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024152556 +0000" stop="20251024155400 +0000">
+    <title>Classic Doctor Who: Tomb of the Cybermen</title>
+    <sub-title>Part Four</sub-title>
+    <episode-num system="onscreen">S37E04</episode-num>
+    <desc>(4/4) How will the Doctor rid Telos of Cybermen once and for all?</desc>
+    <date>20210525</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Tomb_Of_The_Cybermen.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024155400 +0000" stop="20251024162205 +0000">
+    <title>Doctor Who: Day of the Daleks</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>When Sir Reginald Styles claims to have seen a ghost, UNIT is called in.</desc>
+    <date>19720101</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Doctor%2520Who%2520Day%2520of%2520the%2520Daleks_STANDARD_3840x2160_eng_gb.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024162205 +0000" stop="20251024165028 +0000">
+    <title>Doctor Who: Day of the Daleks</title>
+    <sub-title>Episode 2</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>The Doctor learns of a plot to change history and Jo is transported to the 22nd Century.</desc>
+    <date>19720108</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Doctor%2520Who%2520Day%2520of%2520the%2520Daleks_STANDARD_3840x2160_eng_gb.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024165028 +0000" stop="20251024171917 +0000">
+    <title>Doctor Who: Day of the Daleks</title>
+    <sub-title>Episode 3</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>The Doctor arrives in a future where Earth is ruled by the Daleks.</desc>
+    <date>19720115</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Doctor%2520Who%2520Day%2520of%2520the%2520Daleks_STANDARD_3840x2160_eng_gb.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024171917 +0000" stop="20251024174807 +0000">
+    <title>Doctor Who: Day of the Daleks</title>
+    <sub-title>Episode 4</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>The Daleks travel back in time to ensure that the peace conference fails.</desc>
+    <date>19720122</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Doctor%2520Who%2520Day%2520of%2520the%2520Daleks_STANDARD_3840x2160_eng_gb.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024174807 +0000" stop="20251024181720 +0000">
+    <title>Classic Doctor Who: Remembrance of the Daleks</title>
+    <sub-title>Part One</sub-title>
+    <episode-num system="onscreen">S149E01</episode-num>
+    <desc>(1/4) In Shoreditch, 1963, the Doctors past begins to catch up with him.</desc>
+    <date>19880510</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Remembrance_Of_The_Daleks.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024181720 +0000" stop="20251024184631 +0000">
+    <title>Classic Doctor Who: Remembrance of the Daleks</title>
+    <sub-title>Part Two</sub-title>
+    <episode-num system="onscreen">S149E02</episode-num>
+    <desc>(2/4) Renegade Daleks battle Imperial Daleks for control of the Hand of Omega.</desc>
+    <date>19881210</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Remembrance_Of_The_Daleks.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024184631 +0000" stop="20251024191618 +0000">
+    <title>Classic Doctor Who: Remembrance of the Daleks</title>
+    <sub-title>Remembrance of the Daleks: Episode 2</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Renegade Daleks battle Imperial Daleks for control of the Hand of Omega.</desc>
+    <date>19881210</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Remembrance_Of_The_Daleks.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024191618 +0000" stop="20251024194527 +0000">
+    <title>Classic Doctor Who: Remembrance of the Daleks</title>
+    <sub-title>Part Three</sub-title>
+    <episode-num system="onscreen">S149E03</episode-num>
+    <desc>(3/4) The Doctor discovers the difference between the two Dalek factions.</desc>
+    <date>20210611</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Remembrance_Of_The_Daleks.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024194527 +0000" stop="20251024201438 +0000">
+    <title>Classic Doctor Who: Remembrance of the Daleks</title>
+    <sub-title>Part Four</sub-title>
+    <episode-num system="onscreen">S149E04</episode-num>
+    <desc>(4/4) The streets of East London shake under a civil war between the Daleks.</desc>
+    <date>20210611</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Classic_Doctor_Who_Remembrance_Of_The_Daleks.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024201438 +0000" stop="20251024204252 +0000">
+    <title>Classic Doctor Who: The Chase</title>
+    <sub-title>The Executioners</sub-title>
+    <episode-num system="onscreen">S16E01</episode-num>
+    <desc>(1/6) Ian and Vicki are trapped by tentacled creatures on the planet Aridius.</desc>
+    <date>19650522</date>
+    <icon src="https://image.tmdb.org/t/p/original/2Vfwzd8xyeJY3QRmsh6KwHf4r1B.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024204252 +0000" stop="20251024211104 +0000">
+    <title>Classic Doctor Who: The Chase</title>
+    <sub-title>The Death of Time</sub-title>
+    <episode-num system="onscreen">S16E02</episode-num>
+    <desc>(2/6) The Doctor and his friends have been given shelter from the Daleks by the Aridians.</desc>
+    <date>19650529</date>
+    <icon src="https://image.tmdb.org/t/p/original/enNQTAE5ClwtANjjQDBTxSjVAmk.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024211104 +0000" stop="20251024214059 +0000">
+    <title>Classic Doctor Who: The Chase</title>
+    <sub-title>Flight Through Eternity</sub-title>
+    <episode-num system="onscreen">S16E03</episode-num>
+    <desc>(3/6) The Daleks pursue the TARDIS through time and space.</desc>
+    <date>19650605</date>
+    <icon src="https://image.tmdb.org/t/p/original/uoboCsh58euX4Z05Cb2yPJcK4iB.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024214059 +0000" stop="20251024220926 +0000">
+    <title>Classic Doctor Who: The Chase</title>
+    <sub-title>Journey into Terror</sub-title>
+    <episode-num system="onscreen">S16E04</episode-num>
+    <desc>(4/6) With the Daleks in pursuit, the TARDIS lands in what appears to be a haunted house.</desc>
+    <date>19650612</date>
+    <icon src="https://image.tmdb.org/t/p/original/uen2mfm8XFHPAu6jKu9xdEHA6EE.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024220926 +0000" stop="20251024223730 +0000">
+    <title>Classic Doctor Who: The Chase</title>
+    <sub-title>The Death of Doctor Who</sub-title>
+    <episode-num system="onscreen">S16E05</episode-num>
+    <desc>(5/6) The Daleks follow the TARDIS to the jungle world of Mechanus.</desc>
+    <date>19650619</date>
+    <icon src="https://image.tmdb.org/t/p/original/7SViV6NknNDNK0VZvrfpnsnGCNf.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024223730 +0000" stop="20251024230834 +0000">
+    <title>Classic Doctor Who: The Chase</title>
+    <sub-title>The Planet of Decision</sub-title>
+    <episode-num system="onscreen">S16E06</episode-num>
+    <desc>(6/6) The Doctor and his friends are taken prisoner by the Mechonoids.</desc>
+    <date>19650626</date>
+    <icon src="https://image.tmdb.org/t/p/original/5Y4zFk0oCU7FitDYFdVgCj7WVhe.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024230834 +0000" stop="20251024233740 +0000">
+    <title>Doctor Who: Genesis of the Daleks</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>The Time Lords send the Doctor, Sarah and Harry to a time shortly before the creation of the Daleks.</desc>
+    <date>19750803</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Doctor_Who_Genesis_of_the_Daleks_STANDARD_3840x2160_eng_gb.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251024233740 +0000" stop="20251025000709 +0000">
+    <title>Doctor Who: Genesis of the Daleks</title>
+    <sub-title>Episode 2</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>The Doctor finds that some of Davros's fellow Kaleds are unhappy with the development of the Daleks.</desc>
+    <date>20220706</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Doctor_Who_Genesis_of_the_Daleks_STANDARD_3840x2160_eng_gb.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-63068b870bbec3b06755a0ee" start="20251025000709 +0000" stop="20251025003424 +0000">
+    <title>Doctor Who: Genesis of the Daleks</title>
+    <sub-title>Episode 3</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>The Doctor informs the Kaled government of Davros's experiments and they move to shut down the bunker.</desc>
+    <date>20220706</date>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/Doctor_Who_Genesis_of_the_Daleks_STANDARD_3840x2160_eng_gb.jpg" />
   </programme>
   
 </tv>

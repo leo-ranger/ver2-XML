@@ -1,263 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75">
+<channel id="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75">
     <display-name>Crime Scenes</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/0d2a0e73-1ddb-4648-81e9-c333b714aef3/CrimeScenes_Logo_Dark_1500x1000.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023003050 +0000" stop="20251023011923 +0000">
-    <title>Murder Decoded</title>
-    <sub-title>Murder on the Rocks</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Cutting-edge technology helps police zero in on a teen girl's killer.</desc>
-    <date>20190420</date>
-    <icon src="https://image.tmdb.org/t/p/original/7RTMDxjnjQODGiQ7lvN0MiwBt49.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023011923 +0000" stop="20251023020759 +0000">
-    <title>Murder Decoded</title>
-    <sub-title>Revenge with a Bullet</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Investigators find evidence of a brutal assassination and fiery cover-up.</desc>
-    <date>20190427</date>
-    <icon src="https://image.tmdb.org/t/p/original/e1dMDpn9KdOL6D6ZPPAps99w1uu.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023020759 +0000" stop="20251023025633 +0000">
-    <title>Murder Decoded</title>
-    <sub-title>Anatomy of Murder</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>An autopsy reveals that a man found in his burning home was murdered.</desc>
-    <date>20190504</date>
-    <icon src="https://image.tmdb.org/t/p/original/fFuv2BzHwJ7A4QmW4cDgePAC2N.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023025633 +0000" stop="20251023034706 +0000">
-    <title>Murder Decoded</title>
-    <sub-title>The Cocoon</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Animal hair and DNA put detectives on the trail of an enraged predator.</desc>
-    <date>20190511</date>
-    <icon src="https://image.tmdb.org/t/p/original/rRECv7wIliuaApqqnBqY3umqM1v.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023034706 +0000" stop="20251023043542 +0000">
-    <title>Murder Decoded</title>
-    <sub-title>Bridge of Betrayal</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Investigators find clues in a killer's attempt to destroy evidence.</desc>
-    <date>20190518</date>
-    <icon src="https://image.tmdb.org/t/p/original/qeCOu4GeoS5FvZ0nP5LzZI4Di7n.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023043542 +0000" stop="20251023052415 +0000">
-    <title>Murder Decoded</title>
-    <sub-title>Prowling Wolf</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Detectives search for answers to the murder of a mother and her children.</desc>
-    <date>20190525</date>
-    <icon src="https://image.tmdb.org/t/p/original/cLPO4pxVqtM47cJ0WUyKwC7s9DC.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023052415 +0000" stop="20251023061251 +0000">
-    <title>My Murder Story</title>
-    <sub-title>The Devil's Angels</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>A series of mysterious deaths have plagued a small community in Kansas.</desc>
-    <date>20200308</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/550f8a60ea951f7a94a2188fc982fa2d.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023061251 +0000" stop="20251023070325 +0000">
-    <title>My Murder Story</title>
-    <sub-title>Last Wife Standing</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>A woman marries a charming man, but she gets more than she bargained for.</desc>
-    <date>20200309</date>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/2e1e458d3bae42ba57b71170225e3c52.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023070325 +0000" stop="20251023075400 +0000">
-    <title>My Murder Story</title>
-    <sub-title>The Secrets We Keep</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>The investigation of a tragic murder leads to long hidden family secrets.</desc>
-    <date>20200315</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1f5492d3cd77df6dc9d4aad7d09e153c.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023075400 +0000" stop="20251023084235 +0000">
-    <title>My Murder Story</title>
-    <sub-title>The Search for Justice</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>In a secluded park in Baltimore, a disabled man is found shot to death.</desc>
-    <date>20200316</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/a8a74c983cb6c6bb10a6d051533bf674.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023084235 +0000" stop="20251023093110 +0000">
-    <title>My Murder Story</title>
-    <sub-title>Soaked In Murder</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>A series of tragic deaths leaves three siblings reeling.</desc>
-    <date>20200322</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/020a3f7adbbeeaa9b6355e21598ddc43.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023093110 +0000" stop="20251023101657 +0000">
-    <title>My Murder Story</title>
-    <sub-title>Journey for Justice</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>On a deserted road in Arkansas, a man is gunned down in his car.</desc>
-    <date>20200323</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/0527e7fd801bd155f69ce4503d4f9e26.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023101657 +0000" stop="20251023110830 +0000">
-    <title>Swamp Murders</title>
-    <sub-title>Multiple Personalities</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Police fear the worst when a model daughter disappears in Virginia.</desc>
-    <date>20130604</date>
-    <icon src="https://artworks.thetvdb.com/banners/episodes/270476/4585829.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023110830 +0000" stop="20251023120005 +0000">
-    <title>Swamp Murders</title>
-    <sub-title>Chain Reaction</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Police uncover a twisted tale of friendship and betrayal in Georgia.</desc>
-    <date>20130611</date>
-    <icon src="https://artworks.thetvdb.com/banners/episodes/270476/4612699.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023120005 +0000" stop="20251023124938 +0000">
-    <title>Swamp Murders</title>
-    <sub-title>Gospel Girl</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>A sweet-natured choir girl is found murdered in the Louisiana bayou.</desc>
-    <date>20130718</date>
-    <icon src="https://artworks.thetvdb.com/banners/episodes/270476/4612702.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023124938 +0000" stop="20251023133912 +0000">
-    <title>Swamp Murders</title>
-    <sub-title>Drive Me Crazy</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Texas police must untangle a web of betrayal and lies to solve a murder.</desc>
-    <date>20130702</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/66c772534d370f1efcb9ab1f8bc451c5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023133912 +0000" stop="20251023142846 +0000">
-    <title>Swamp Murders</title>
-    <sub-title>We Miss You, Darling</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>A teenager's diary reveals the sordid secret behind her murder in Florida.</desc>
-    <date>20130709</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/ddc60e54b5549b2ac1c7eb0a97bdcead.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023142846 +0000" stop="20251023151720 +0000">
-    <title>Swamp Murders</title>
-    <sub-title>Out of the Swamp</sub-title>
-    <episode-num system="onscreen">S03E01</episode-num>
-    <desc>A murder victim leaves cryptic clues for detectives in North Carolina.</desc>
-    <date>20150812</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/01d74e2baa62de1f120f544800ff23ae.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023151720 +0000" stop="20251023160554 +0000">
-    <title>Swamp Murders</title>
-    <sub-title>Good Friday, Deadly Friday</sub-title>
-    <episode-num system="onscreen">S03E02</episode-num>
-    <desc>A young woman vanishes after her car breaks down near a Texas swamp.</desc>
-    <date>20150909</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6bc39fcd92c840893076aedf213eb4f0.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023160554 +0000" stop="20251023165527 +0000">
-    <title>Swamp Murders</title>
-    <sub-title>Missouri River Murder</sub-title>
-    <episode-num system="onscreen">S03E03</episode-num>
-    <desc>Racial tensions erupt when a Lakota teen disappears in South Dakota.</desc>
-    <date>20150826</date>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/ed887f2804deedd8f50d5897826fdb51.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023165527 +0000" stop="20251023174702 +0000">
-    <title>Swamp Murders</title>
-    <sub-title>Mississippi Black Widow</sub-title>
-    <episode-num system="onscreen">S03E04</episode-num>
-    <desc>Detectives unearth a deadly conspiracy in small town Mississippi.</desc>
-    <date>20150902</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/825e16bb5e5a7702fb5e63d5b5c0e47d.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023174702 +0000" stop="20251023183636 +0000">
-    <title>Swamp Murders</title>
-    <sub-title>One for the Road</sub-title>
-    <episode-num system="onscreen">S03E05</episode-num>
-    <desc>A night of partying takes a sinister turn for a young woman in Louisiana.</desc>
-    <date>20150909</date>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/ec9b359cf4d6d6ea8aaa396621ec8954.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023183636 +0000" stop="20251023192615 +0000">
-    <title>Swamp Murders</title>
-    <sub-title>Murder on the Hudson</sub-title>
-    <episode-num system="onscreen">S03E06</episode-num>
-    <desc>Two women fight to bring a killer to justice in New York.</desc>
-    <date>20150916</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d61621e1c74e12a51bccbc17008b35f6.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023192615 +0000" stop="20251023201548 +0000">
-    <title>Swamp Murders</title>
-    <sub-title>Murder in the Ozarks</sub-title>
-    <episode-num system="onscreen">S03E07</episode-num>
-    <desc>A Missouri town erupts in fear when a beloved wife and mom disappears.</desc>
-    <date>20150923</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9df7bd16ee73af0a2b93a6bbb2ca0066.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023201548 +0000" stop="20251023210522 +0000">
-    <title>Swamp Murders</title>
-    <sub-title>Murder of the Medic</sub-title>
-    <episode-num system="onscreen">S03E08</episode-num>
-    <desc>A vivacious Army medic disappears after a night out near Fort Bragg, NC.</desc>
-    <date>20150930</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/59ebdca0608138682bdb3723f27c92d0.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023210522 +0000" stop="20251023215656 +0000">
-    <title>Swamp Murders</title>
-    <sub-title>The Devil Down in Georgia</sub-title>
-    <episode-num system="onscreen">S03E09</episode-num>
-    <desc>Georgia detectives untangle a web of lies to solve a young woman's murder.</desc>
-    <date>20151007</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/0f2b723d3ff4762acf141048aa3ca0c0.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023215656 +0000" stop="20251023224630 +0000">
-    <title>Swamp Murders</title>
-    <sub-title>Goth Girl, Gone</sub-title>
-    <episode-num system="onscreen">S03E10</episode-num>
-    <desc>A young woman with a dark side disappears from a roadside bar.</desc>
-    <date>20151014</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/416d8421b501bf710ae2deb3106854ea.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023224630 +0000" stop="20251023233504 +0000">
-    <title>Swamp Murders</title>
-    <sub-title>A Dark Place to Die</sub-title>
-    <episode-num system="onscreen">S04E01</episode-num>
-    <desc>A fun night on the town turns sinister for a single mom in Alabama.</desc>
-    <date>20160816</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/8a39aea44a8c0146a6cf2e9e45978c3e.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251023233504 +0000" stop="20251024002538 +0000">
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251023233504 +0000" stop="20251024002538 +0000">
     <title>Swamp Murders</title>
     <sub-title>Misty River</sub-title>
     <episode-num system="onscreen">S04E02</episode-num>
@@ -266,7 +14,7 @@
     <icon src="https://metadata-static.plex.tv/9/gracenote/9b51278bfc60dd1399e214d778d761de.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251024002538 +0000" stop="20251024011412 +0000">
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024002538 +0000" stop="20251024011412 +0000">
     <title>Swamp Murders</title>
     <sub-title>River Monster</sub-title>
     <episode-num system="onscreen">S04E03</episode-num>
@@ -275,13 +23,265 @@
     <icon src="https://metadata-static.plex.tv/7/gracenote/7b100f437dff46c8924cccf071512a9d.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" start="20251024011412 +0000" stop="20251024020246 +0000">
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024011412 +0000" stop="20251024020246 +0000">
     <title>Swamp Murders</title>
     <sub-title>Down the Canal</sub-title>
     <episode-num system="onscreen">S04E04</episode-num>
     <desc>A runaway teen's murder in Fresno, CA, hits too close to home.</desc>
     <date>20160902</date>
     <icon src="https://metadata-static.plex.tv/5/gracenote/53a20c26f174f11b64295b7acc06858d.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024020246 +0000" stop="20251024025119 +0000">
+    <title>Swamp Murders</title>
+    <sub-title>Shoeprints in the Mud</sub-title>
+    <episode-num system="onscreen">S04E05</episode-num>
+    <desc>A Washington teen's innocent trip to the store ends in murder.</desc>
+    <date>20160909</date>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/1a92162f906f4230228913616a0cf046.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024025119 +0000" stop="20251024034153 +0000">
+    <title>Swamp Murders</title>
+    <sub-title>Dark Water</sub-title>
+    <episode-num system="onscreen">S04E06</episode-num>
+    <desc>A Georgia woman's sanctuary turns into a crime scene.</desc>
+    <date>20160926</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjM0OTY3MDQ0NF5BMl5BanBnXkFtZTgwNTU4NzYxMDI@._V1_.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024034153 +0000" stop="20251024043027 +0000">
+    <title>Swamp Murders</title>
+    <sub-title>In Too Deep</sub-title>
+    <episode-num system="onscreen">S04E07</episode-num>
+    <desc>A hotline tipster helps police track down a Florida woman's killer.</desc>
+    <date>20161003</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjQxMDA4NDMxOF5BMl5BanBnXkFtZTgwNjk1NjMyMDI@._V1_.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024043027 +0000" stop="20251024052101 +0000">
+    <title>Swamp Murders</title>
+    <sub-title>Rocky Waters</sub-title>
+    <episode-num system="onscreen">S04E08</episode-num>
+    <desc>A young mom is found brutally murdered on the banks of an Ohio river.</desc>
+    <date>20161011</date>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/1c412b5f9df87823c14acffa0667001c.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024052101 +0000" stop="20251024060935 +0000">
+    <title>Swamp Murders</title>
+    <sub-title>What Lies Beneath</sub-title>
+    <episode-num system="onscreen">S04E09</episode-num>
+    <desc>A small town is left up in arms after a local beauty queen is murdered.</desc>
+    <date>20161018</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a7fced8f90af819ed85a25b35a4c616a.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024060935 +0000" stop="20251024065809 +0000">
+    <title>Swamp Murders</title>
+    <sub-title>Oasis of Death</sub-title>
+    <episode-num system="onscreen">S04E10</episode-num>
+    <desc>A mysterious phone number could be key to solving a teen's murder.</desc>
+    <date>20161018</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/eecfa1bb1104b7dc20b3074753ad1342.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024065809 +0000" stop="20251024074843 +0000">
+    <title>Swamp Murders</title>
+    <sub-title>Wrong Side of the Tracks</sub-title>
+    <episode-num system="onscreen">S05E01</episode-num>
+    <desc>A wealthy real estate agent and his mother are found murdered in Missouri.</desc>
+    <date>20170819</date>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/1eb1c862688aa50aec76b62b6b2e1f3e.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024074843 +0000" stop="20251024083918 +0000">
+    <title>Swamp Murders</title>
+    <sub-title>Secret Rendezvous</sub-title>
+    <episode-num system="onscreen">S05E02</episode-num>
+    <desc>A night out in Houston, Texas, ends in bloodshed for a young Navy veteran.</desc>
+    <date>20170826</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/31a3de233177f27c79ed888a57f3614d.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024083918 +0000" stop="20251024092748 +0000">
+    <title>Swamp Murders</title>
+    <sub-title>What Happened in the Woods</sub-title>
+    <episode-num system="onscreen">S05E03</episode-num>
+    <desc>A party ends in tragedy when a body is found floating in an Oklahoma lake.</desc>
+    <date>20170902</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/2c5467ee993173678203803bbd11b6ed.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024092748 +0000" stop="20251024101623 +0000">
+    <title>Swamp Murders</title>
+    <sub-title>Lethal Attraction</sub-title>
+    <episode-num system="onscreen">S05E04</episode-num>
+    <desc>Police must sort out friend from foe to solve a young woman's murder.</desc>
+    <date>20170909</date>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/506d47c08c43a48fab9e232041233cc4.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024101623 +0000" stop="20251024110658 +0000">
+    <title>Swamp Murders</title>
+    <sub-title>Deadliest Catch</sub-title>
+    <episode-num system="onscreen">S05E05</episode-num>
+    <desc>A Illinois fisherman is found dead along the shores of Lake Michigan.</desc>
+    <date>20170916</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/43cf880668569b6bfccb4715417265e3.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024110658 +0000" stop="20251024115533 +0000">
+    <title>Swamp Murders</title>
+    <sub-title>Stranger in the Night</sub-title>
+    <episode-num system="onscreen">S05E06</episode-num>
+    <desc>Texas police band together to bring a young woman's killer to justice.</desc>
+    <date>20170923</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/ddfaf64f292326a6106018cdea3e6b0e.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024115533 +0000" stop="20251024124407 +0000">
+    <title>Swamp Murders</title>
+    <sub-title>Mystery at Palm Beach</sub-title>
+    <episode-num system="onscreen">S05E07</episode-num>
+    <desc>A Texas man is mysteriously gunned down on a lakefront beach.</desc>
+    <date>20170930</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/cb734dffddb6ed1c09084da92b7afc05.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024124407 +0000" stop="20251024133237 +0000">
+    <title>Swamp Murders</title>
+    <sub-title>Point of No Return</sub-title>
+    <episode-num system="onscreen">S05E08</episode-num>
+    <desc>Two Georgia teens are gunned down in broad light on a remote Florida beach.</desc>
+    <date>20171007</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/abc42fadbb37f79c341c4de597e88906.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024133237 +0000" stop="20251024142112 +0000">
+    <title>Swamp Murders</title>
+    <sub-title>Lost Highway</sub-title>
+    <episode-num system="onscreen">S05E09</episode-num>
+    <desc>A late-night trip to the store ends in tragedy for a young single mother.</desc>
+    <date>20171014</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a0c6c086a5bcc3cc55a8f3ba71805707.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024142112 +0000" stop="20251024150943 +0000">
+    <title>Swamp Murders</title>
+    <sub-title>Double-Crossed</sub-title>
+    <episode-num system="onscreen">S05E10</episode-num>
+    <desc>Ohio police hunt down the ruthless killer of a transgender woman.</desc>
+    <date>20171021</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d06f31718877e99b2c353048e105516c.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024150943 +0000" stop="20251024160016 +0000">
+    <title>Deadly Legacy</title>
+    <sub-title>Bill Bundy</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Detective Moran seeks to identify the remains of a missing 19-year-old man.</desc>
+    <date>20181208</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/dbca84e26d5da34f26893c20826ca663.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024160016 +0000" stop="20251024164850 +0000">
+    <title>Deadly Legacy</title>
+    <sub-title>Edward Beaudion</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Detective Moran seeks to identify the remains of a missing 22-year-old man.</desc>
+    <date>20181215</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/340e55ffe3bcd7f0b6648e97546944d4.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024164850 +0000" stop="20251024173724 +0000">
+    <title>Deadly Legacy</title>
+    <sub-title>Jimmy Haakenson</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Detective Moran seeks to identify the remains of a missing 16-year-old boy.</desc>
+    <date>20181222</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/aabd795702e0b52e5cab6722317d3869.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024173724 +0000" stop="20251024182559 +0000">
+    <title>Murder Chose Me</title>
+    <sub-title>Something in the Water</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Detective Rod Demery investigates the murder of a young mother-to-be.</desc>
+    <date>20170101</date>
+    <icon src="https://image.tmdb.org/t/p/original/eIpzSQAASyUZpMhNv17ue24tyc4.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024182559 +0000" stop="20251024191633 +0000">
+    <title>Murder Chose Me</title>
+    <sub-title>The Boogie Man</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Two young children witness the gruesome murder of their mother.</desc>
+    <date>20170215</date>
+    <icon src="https://image.tmdb.org/t/p/original/jiEN81dYaZHQCFsT6iBDMdlccie.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024191633 +0000" stop="20251024200709 +0000">
+    <title>Murder Chose Me</title>
+    <sub-title>Friendly Fire</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Rod must locate the body of a missing sailor in order to find his murderer.</desc>
+    <date>20170222</date>
+    <icon src="https://image.tmdb.org/t/p/original/rIG2S0xXdLGMMVzyKryUK1EyBAd.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024200709 +0000" stop="20251024205545 +0000">
+    <title>Murder Chose Me</title>
+    <sub-title>Looking for Love</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>A chance meeting goes terribly awry for a good-natured Vietnam vet.</desc>
+    <date>20170301</date>
+    <icon src="https://image.tmdb.org/t/p/original/qtulzOZHSkY5LN4QUpBYIIaSMTV.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024205545 +0000" stop="20251024214418 +0000">
+    <title>Murder Chose Me</title>
+    <sub-title>The Woman in the Leopard Dress</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>A drunken brawl at a bar culminates in the stabbing death of a regular.</desc>
+    <date>20170308</date>
+    <icon src="https://image.tmdb.org/t/p/original/wIlvwJCxGPCwwO2vS2Kw9YPpbRu.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024214418 +0000" stop="20251024223454 +0000">
+    <title>Murder Chose Me</title>
+    <sub-title>Snake Eyes</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Casino surveillance leads Detective Rod Demery to an unexpected killer.</desc>
+    <date>20170315</date>
+    <icon src="https://image.tmdb.org/t/p/original/wiq6nPw1NyzbBFKUtdcztSmHzer.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024223454 +0000" stop="20251024232327 +0000">
+    <title>Murder Chose Me</title>
+    <sub-title>Domino Effect</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Rod has one night to solve a case before it's taken out of his hands.</desc>
+    <date>20170322</date>
+    <icon src="https://image.tmdb.org/t/p/original/8ruaD0RJqujtaHIoMMOOVvwAmIa.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251024232327 +0000" stop="20251025001202 +0000">
+    <title>Murder Chose Me</title>
+    <sub-title>My First Homicide</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Rookie detective Rod Demery solves the first homicide of his career.</desc>
+    <date>20170329</date>
+    <icon src="https://image.tmdb.org/t/p/original/rDUCSkDDzAmtIwcW0fxF5KaMqHv.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2bfe594b6a49cb5054d75" start="20251025001202 +0000" stop="20251025005936 +0000">
+    <title>Murder Chose Me</title>
+    <sub-title>Deadliest Sin</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>A popular cheerleader is murdered in a hail of gunfire.</desc>
+    <date>20170404</date>
+    <icon src="https://image.tmdb.org/t/p/original/bT9biChwCKQomtXAvKtzfra99ub.jpg" />
   </programme>
   
 </tv>

@@ -1,128 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643">
+<channel id="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643">
     <display-name>BBC Comedy</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/1e92ab4a-8016-45ef-8f59-1190695f2c6a/BBC_COMEDY_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023010046 +0000" stop="20251023013805 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Happy New Year</sub-title>
-    <episode-num system="onscreen">S03E02</episode-num>
-    <desc>Edina and Patsy await the arrival of Patsy's long-lost sister, Jackie.</desc>
-    <date>19950406</date>
-    <icon src="https://image.tmdb.org/t/p/original/a9XIFpRPMpTw948ZAbMq3SLzyBv.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023013805 +0000" stop="20251023021319 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Jealous</sub-title>
-    <episode-num system="onscreen">S03E04</episode-num>
-    <desc>Rival Claudia Bing poaches first an award, then a celebrity friend, from Edina.</desc>
-    <date>19950427</date>
-    <icon src="https://image.tmdb.org/t/p/original/y1Cnw3MTHOH8LaROfjBau6XkWMf.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023021319 +0000" stop="20251023025016 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Fear</sub-title>
-    <episode-num system="onscreen">S03E05</episode-num>
-    <desc>Saffy moves out, so Patsy moves in - but can her friendship with Edina take the strain?</desc>
-    <date>19950504</date>
-    <icon src="https://image.tmdb.org/t/p/original/cYYC2DS72dFkS3yegzrYRnDyxno.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023025016 +0000" stop="20251023032313 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>The End</sub-title>
-    <episode-num system="onscreen">S03E06</episode-num>
-    <desc>Edina heads to a retreat to find herself, while Patsy goes to work in New York.</desc>
-    <date>19950511</date>
-    <icon src="https://image.tmdb.org/t/p/original/Agh0M6G9N7sKwEfqWYtz6cBFlQg.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023032313 +0000" stop="20251023040017 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Parralox</sub-title>
-    <episode-num system="onscreen">S04E01</episode-num>
-    <desc>Patsy has had injections to freeze her wrinkles, and Edina has a TV appearance scheduled.</desc>
-    <date>20010831</date>
-    <icon src="https://image.tmdb.org/t/p/original/n2JRbT2HbO4D0TTWeEtuZahTwI8.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023040017 +0000" stop="20251023043607 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Fish Farm</sub-title>
-    <episode-num system="onscreen">S04E02</episode-num>
-    <desc>Eddy tries to charm Jago, the landscape gardener brother of a well known aristocrat.</desc>
-    <date>20010907</date>
-    <icon src="https://image.tmdb.org/t/p/original/eQX7joQzKaVeeeKYiqFvwEMUom0.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023043607 +0000" stop="20251023050910 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Paris</sub-title>
-    <episode-num system="onscreen">S04E03</episode-num>
-    <desc>Patsy and Edina travel to Paris for a photo-shoot in which old and young mingle.</desc>
-    <date>20010914</date>
-    <icon src="https://image.tmdb.org/t/p/original/2mS0NEmWuRO6W6mN7057E64rCcU.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023050910 +0000" stop="20251023054151 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Donkey</sub-title>
-    <episode-num system="onscreen">S04E04</episode-num>
-    <desc>Edina embarks on a detox diet, whilst Patsy tries life without a fringe.</desc>
-    <date>20010921</date>
-    <icon src="https://image.tmdb.org/t/p/original/5wOr39P16583KrrvCV5f6uL1EQC.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023054151 +0000" stop="20251023061605 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Menopause</sub-title>
-    <episode-num system="onscreen">S04E06</episode-num>
-    <desc>Eddy's company is losing clients, while Patsy seems to be going through the menopause.</desc>
-    <date>20011005</date>
-    <icon src="https://image.tmdb.org/t/p/original/nNGKoU3yb1dqvt5rVHeO3jGwexr.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023061605 +0000" stop="20251023064909 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Small Opening</sub-title>
-    <episode-num system="onscreen">S04E05</episode-num>
-    <desc>Saffy's play looks set to embarrass Eddy, so she and bubble try to get it cancelled.</desc>
-    <date>20010928</date>
-    <icon src="https://image.tmdb.org/t/p/original/i97QT5CVwKWg1gL6IZbkFLPUC1O.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023064909 +0000" stop="20251023072234 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Cleanin'</sub-title>
-    <episode-num system="onscreen">S05E01</episode-num>
-    <desc>Saffy arrives home from Iraq and she has some shocking news in store for Eddy.</desc>
-    <date>20031017</date>
-    <icon src="https://image.tmdb.org/t/p/original/cRoelLIxSeL4ny9J0KNBYP8U6Cx.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023072234 +0000" stop="20251023075542 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Book Clubbin'</sub-title>
-    <episode-num system="onscreen">S05E02</episode-num>
-    <desc>Eddy meets with her book club to discuss the merits of a celebrity magazine.</desc>
-    <date>20031017</date>
-    <icon src="https://image.tmdb.org/t/p/original/lvPwo1X6rt9QU1WG9m6WOj8fRzp.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023075542 +0000" stop="20251023083116 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Huntin' Shootin' Fishin'</sub-title>
-    <episode-num system="onscreen">S05E04</episode-num>
-    <desc>Eddy has splashed out on a weekend of country pursuits with Patsy.</desc>
-    <date>20031031</date>
-    <icon src="https://image.tmdb.org/t/p/original/tPRXF7HsvIhEiHNlFLPC2mZDBO9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023083116 +0000" stop="20251023090430 +0000">
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251023235428 +0000" stop="20251024002742 +0000">
     <title>The Office</title>
     <sub-title>Judgement</sub-title>
     <episode-num system="onscreen">S01E06</episode-num>
@@ -131,7 +14,7 @@
     <icon src="https://image.tmdb.org/t/p/original/1npmXs8bEupfDV1yWSERt1Lpcm8.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023090430 +0000" stop="20251023093732 +0000">
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024002742 +0000" stop="20251024010044 +0000">
     <title>The Office</title>
     <sub-title>Charity</sub-title>
     <episode-num system="onscreen">S02E05</episode-num>
@@ -140,97 +23,7 @@
     <icon src="https://image.tmdb.org/t/p/original/csZXkFTIdGubFRdu3IVc1zQaGfX.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023093732 +0000" stop="20251023100924 +0000">
-    <title>Gavin and Stacey</title>
-    <sub-title>Episode 2</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>After a huge misunderstanding on the phone, Stacey thinks Gavin has finished with her.</desc>
-    <date>20070513</date>
-    <icon src="https://image.tmdb.org/t/p/original/jIEbugEZdQq2aqBqOYb2kk8Srqb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023100924 +0000" stop="20251023104429 +0000">
-    <title>Gavin and Stacey</title>
-    <sub-title>Episode 3</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Uncle Bryn agrees to drive the family to Essex to meet the Shipmans.</desc>
-    <date>20070520</date>
-    <icon src="https://image.tmdb.org/t/p/original/e0SEaE3h3ygnww6lVUEP5qAc5wh.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023104429 +0000" stop="20251023111921 +0000">
-    <title>Gavin and Stacey</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <desc>Stacey and Gavin return from Honeymoon to a big welcome from both families.</desc>
-    <date>20080316</date>
-    <icon src="https://image.tmdb.org/t/p/original/rCCg5ep0E1KvcHURcPsQyyZyH9v.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023111921 +0000" stop="20251023115154 +0000">
-    <title>Gavin and Stacey</title>
-    <sub-title>Episode 2</sub-title>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <desc>Devastated by the news he's to become a father, Smithy goes AWOL.</desc>
-    <date>20080316</date>
-    <icon src="https://image.tmdb.org/t/p/original/2VOv69OyjFXWYJiHdPsBQhXWGV6.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023115154 +0000" stop="20251023122645 +0000">
-    <title>Gavin and Stacey</title>
-    <sub-title>Episode 3</sub-title>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <desc>Gavin, Stacey and Smithy head for Barry so that Smithy can go for the scan with Nessa.</desc>
-    <date>20080323</date>
-    <icon src="https://image.tmdb.org/t/p/original/plggQcnK5CkleigFWpmueV1FA5y.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023122645 +0000" stop="20251023130135 +0000">
-    <title>Gavin and Stacey</title>
-    <sub-title>Episode 4</sub-title>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <desc>Stacey is miserable and homesick because she still hasn't got a job, or her own home.</desc>
-    <date>20080330</date>
-    <icon src="https://image.tmdb.org/t/p/original/4Ts8F1XIdyIcAsYUIgPId95Jclu.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023130135 +0000" stop="20251023133354 +0000">
-    <title>Gavin and Stacey</title>
-    <sub-title>Episode 5</sub-title>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <desc>Stacey and Gavin argue over where to live and Smithy admits to another fling with Nessa.</desc>
-    <date>20080406</date>
-    <icon src="https://image.tmdb.org/t/p/original/b5kGqg6jIqW3Xnvu0yjqcqECtf6.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023133354 +0000" stop="20251023144650 +0000">
-    <title>Gavin and Stacey Specials</title>
-    <sub-title>Gavin and Stacey: Special: Christmas 2019: A Special Christmas</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>The iconic, multi-award-winning sitcom returns after 10 years for a Christmas special.</desc>
-    <date>20191225</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/BBCS_GavinandStacey_S001_SCID-359929_KeyArt_LANG-English_bu8tbn5nuq.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023144650 +0000" stop="20251023152004 +0000">
-    <title>The Office</title>
-    <sub-title>Judgement</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>It's decision day at Wernham Hogg. Will the Slough or Swindon branch get the axe?</desc>
-    <date>20010820</date>
-    <icon src="https://image.tmdb.org/t/p/original/1npmXs8bEupfDV1yWSERt1Lpcm8.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023152004 +0000" stop="20251023155306 +0000">
-    <title>The Office</title>
-    <sub-title>Charity</sub-title>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <desc>Neil and Rachel are a hit with their charity dance routine. David responds as only he can.</desc>
-    <date>20021028</date>
-    <icon src="https://image.tmdb.org/t/p/original/csZXkFTIdGubFRdu3IVc1zQaGfX.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023155306 +0000" stop="20251023161946 +0000">
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024010044 +0000" stop="20251024012724 +0000">
     <title>Moone Boy</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -239,7 +32,7 @@
     <icon src="https://image.tmdb.org/t/p/original/2lI8GOwsS5uryTzTFtPmuXhX0sh.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023161946 +0000" stop="20251023164601 +0000">
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024012724 +0000" stop="20251024015339 +0000">
     <title>Moone Boy</title>
     <sub-title>Episode 2</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
@@ -248,7 +41,7 @@
     <icon src="https://image.tmdb.org/t/p/original/yQEXWmBSXXS59NqRKJrx8TV40GC.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023164601 +0000" stop="20251023171135 +0000">
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024015339 +0000" stop="20251024021913 +0000">
     <title>Moone Boy</title>
     <sub-title>Episode 3</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
@@ -257,7 +50,7 @@
     <icon src="https://image.tmdb.org/t/p/original/au4KcDx30hQrl2csGsIZSVRmdlP.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023171135 +0000" stop="20251023173729 +0000">
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024021913 +0000" stop="20251024024507 +0000">
     <title>Moone Boy</title>
     <sub-title>Episode 4</sub-title>
     <episode-num system="onscreen">S01E04</episode-num>
@@ -266,7 +59,7 @@
     <icon src="https://image.tmdb.org/t/p/original/hj2uttVjkTdChzNLlTDMA4VHFwr.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023173729 +0000" stop="20251023180347 +0000">
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024024507 +0000" stop="20251024031125 +0000">
     <title>Moone Boy</title>
     <sub-title>Episode 5</sub-title>
     <episode-num system="onscreen">S01E05</episode-num>
@@ -275,7 +68,7 @@
     <icon src="https://image.tmdb.org/t/p/original/W4kPFkn32rzKXgoblPdC2uPRbK.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023180347 +0000" stop="20251023183012 +0000">
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024031125 +0000" stop="20251024033750 +0000">
     <title>Moone Boy</title>
     <sub-title>Episode 6</sub-title>
     <episode-num system="onscreen">S01E06</episode-num>
@@ -284,7 +77,7 @@
     <icon src="https://image.tmdb.org/t/p/original/d5UVgGcpXeArFW9Oqn8cF5tZkXC.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023183012 +0000" stop="20251023185649 +0000">
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024033750 +0000" stop="20251024040427 +0000">
     <title>Moone Boy</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S02E01</episode-num>
@@ -293,7 +86,7 @@
     <icon src="https://image.tmdb.org/t/p/original/lPegmv3mvXrWlmbJCGP7GYLSb7R.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023185649 +0000" stop="20251023192320 +0000">
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024040427 +0000" stop="20251024043058 +0000">
     <title>Moone Boy</title>
     <sub-title>Episode 2</sub-title>
     <episode-num system="onscreen">S02E02</episode-num>
@@ -302,7 +95,7 @@
     <icon src="https://image.tmdb.org/t/p/original/ojZVsuxPm5wmzTas9MqNWwIRvgQ.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023192320 +0000" stop="20251023194940 +0000">
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024043058 +0000" stop="20251024045718 +0000">
     <title>Moone Boy</title>
     <sub-title>Episode 3</sub-title>
     <episode-num system="onscreen">S02E03</episode-num>
@@ -311,7 +104,7 @@
     <icon src="https://image.tmdb.org/t/p/original/k2ydod5M0pHbknxXipelctOUdKb.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023194940 +0000" stop="20251023201607 +0000">
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024045718 +0000" stop="20251024052345 +0000">
     <title>Moone Boy</title>
     <sub-title>Episode 4</sub-title>
     <episode-num system="onscreen">S02E04</episode-num>
@@ -320,7 +113,7 @@
     <icon src="https://image.tmdb.org/t/p/original/rPrUZJDHSR8Oz1CiWpZhgo9ZV4i.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023201607 +0000" stop="20251023204242 +0000">
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024052345 +0000" stop="20251024055020 +0000">
     <title>Moone Boy</title>
     <sub-title>Episode 5</sub-title>
     <episode-num system="onscreen">S02E05</episode-num>
@@ -329,7 +122,7 @@
     <icon src="https://image.tmdb.org/t/p/original/x6BljD1WzVo6azPocF2Ixo2VLzh.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023204242 +0000" stop="20251023210916 +0000">
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024055020 +0000" stop="20251024061654 +0000">
     <title>Moone Boy</title>
     <sub-title>Episode 6</sub-title>
     <episode-num system="onscreen">S02E06</episode-num>
@@ -338,7 +131,7 @@
     <icon src="https://image.tmdb.org/t/p/original/7gD7tx9ojx4aKqGeRL9IvX9KkAY.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023210916 +0000" stop="20251023213557 +0000">
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024061654 +0000" stop="20251024064335 +0000">
     <title>Moone Boy</title>
     <sub-title>Where the Streets Do Have Names</sub-title>
     <episode-num system="onscreen">S03E01</episode-num>
@@ -347,7 +140,7 @@
     <icon src="https://image.tmdb.org/t/p/original/q965zfJIgBIRrbYNbkA2vy79Nsi.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023213557 +0000" stop="20251023220238 +0000">
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024064335 +0000" stop="20251024071016 +0000">
     <title>Moone Boy</title>
     <sub-title>The Plunder Years</sub-title>
     <episode-num system="onscreen">S03E02</episode-num>
@@ -356,7 +149,7 @@
     <icon src="https://image.tmdb.org/t/p/original/zlvtz6lyi3P6piAjNKTnyvmIUs8.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023220238 +0000" stop="20251023222903 +0000">
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024071016 +0000" stop="20251024073641 +0000">
     <title>Moone Boy</title>
     <sub-title>Fecks, Lies and Videotape</sub-title>
     <episode-num system="onscreen">S03E03</episode-num>
@@ -365,7 +158,7 @@
     <icon src="https://image.tmdb.org/t/p/original/gdylgp7MrKlvEtXxTO7AgeG11zw.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023222903 +0000" stop="20251023225538 +0000">
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024073641 +0000" stop="20251024080316 +0000">
     <title>Moone Boy</title>
     <sub-title>Unidentified Feckin' Objects</sub-title>
     <episode-num system="onscreen">S03E04</episode-num>
@@ -374,7 +167,7 @@
     <icon src="https://image.tmdb.org/t/p/original/hQX6yBJbmGYWvk0U4AGILZF2rIz.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023225538 +0000" stop="20251023232150 +0000">
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024080316 +0000" stop="20251024082928 +0000">
     <title>Moone Boy</title>
     <sub-title>Bells N Smells</sub-title>
     <episode-num system="onscreen">S03E05</episode-num>
@@ -383,16 +176,241 @@
     <icon src="https://image.tmdb.org/t/p/original/3SrIxBRdGkROpZsw40FsIguddnI.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023232150 +0000" stop="20251023235428 +0000">
-    <title>Moone Boy</title>
-    <sub-title>Gershwin's Bucket List</sub-title>
-    <episode-num system="onscreen">S03E06</episode-num>
-    <desc>Martin discovers that Grandad's Alzheimer's has led to the return of his imaginary friend.</desc>
-    <date>20150406</date>
-    <icon src="https://artworks.thetvdb.com/banners/episodes/260871/5112010.jpg" />
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024082928 +0000" stop="20251024085541 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>The Sofabed</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Mum and Dad are having a clear-out, and Dad's been ordered to chuck away all his old junk.</desc>
+    <date>20110225</date>
+    <icon src="https://image.tmdb.org/t/p/original/y8ujOHYNetNjbXtaCIg3sNgDn1l.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251023235428 +0000" stop="20251024002742 +0000">
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024085541 +0000" stop="20251024092114 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>The Jingle</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Mum is very proud as Adam's first ever jingle is going to be on the radio.</desc>
+    <date>20110304</date>
+    <icon src="https://image.tmdb.org/t/p/original/eQIGCyARhqq3KLlQLy5wOlRzleP.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024092114 +0000" stop="20251024095009 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>The Curtains</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Grandma arrives for dinner but she gets her hair stuck in the window of Jonny's car.</desc>
+    <date>20110311</date>
+    <icon src="https://image.tmdb.org/t/p/original/t2bl6GvcXUjwAF7sXj80vQrf1lu.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024095009 +0000" stop="20251024101655 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>The Date</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Adam comes home to find the house looking immaculate. What is Mum up to?</desc>
+    <date>20110408</date>
+    <icon src="https://image.tmdb.org/t/p/original/om6IWRrDAEswNm66H4EUJo4lOyq.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024101655 +0000" stop="20251024104324 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>Buggy</sub-title>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <desc>Jonny finds Adam's childhood diary and discovers a terrible secret. So now it's war!</desc>
+    <date>20121007</date>
+    <icon src="https://image.tmdb.org/t/p/original/bbQxP0QIeRJL3LsIWMbvfVO70Fb.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024104324 +0000" stop="20251024110930 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>Mr Morris</sub-title>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <desc>The boys are excited, because Grandma is coming for dinner.</desc>
+    <date>20121014</date>
+    <icon src="https://image.tmdb.org/t/p/original/jCVf0F5SVCzhx5jXt4mVCylOuGi.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024110930 +0000" stop="20251024113655 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>The Loft</sub-title>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <desc>To get out of cleaning the loft, Jonny claims to have dislocated his shoulder.</desc>
+    <date>20121021</date>
+    <icon src="https://image.tmdb.org/t/p/original/rxQd4R8ExVIHgP2wxHcyCenuyLF.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024113655 +0000" stop="20251024120428 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>The New Car</sub-title>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <desc>Dad is very excited. He's just bought a new fax machine.</desc>
+    <date>20121028</date>
+    <icon src="https://image.tmdb.org/t/p/original/oxi8bjiW0EJmh0p3XxKwZHz27IH.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024120428 +0000" stop="20251024123212 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>The Mouse</sub-title>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <desc>The boys come home to find the house in a real state.</desc>
+    <date>20121111</date>
+    <icon src="https://image.tmdb.org/t/p/original/iokQLzidN3TxpJ9GAIAMjw7gZJM.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024123212 +0000" stop="20251024130155 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>Christmas</sub-title>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <desc>It's Christmas day. Mum has made a fantastic Christmas dinner.</desc>
+    <date>20121224</date>
+    <icon src="https://image.tmdb.org/t/p/original/gu3dWJIPKToMCx6E4rYeTwoB7qO.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024130155 +0000" stop="20251024132959 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>The Fox</sub-title>
+    <episode-num system="onscreen">S03E02</episode-num>
+    <desc>Dad's been secretly hiding a dead fox in the outside freezer, but mum needs to use it.</desc>
+    <date>20140627</date>
+    <icon src="https://image.tmdb.org/t/p/original/8vZq6U7ybqC7nOKNIcHlOJFow98.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024132959 +0000" stop="20251024135633 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>Mr Morris Returns</sub-title>
+    <episode-num system="onscreen">S03E03</episode-num>
+    <desc>The family are distraught when Grandma gets engaged to Mr Morris.</desc>
+    <date>20140704</date>
+    <icon src="https://image.tmdb.org/t/p/original/2x4oWorjjezYr9g84tXxyEGl5E8.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024135633 +0000" stop="20251024142320 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>The Piano</sub-title>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <desc>Dad's bought a piano, and the world's most sarcastic piano tuner comes round to tune it.</desc>
+    <date>20140718</date>
+    <icon src="https://image.tmdb.org/t/p/original/wFz9cXtVrDVM8BbL5rDFoJbvczk.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024142320 +0000" stop="20251024145113 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>The Two Tonys</sub-title>
+    <episode-num system="onscreen">S04E01</episode-num>
+    <desc>Dad accidentally invites someone he used to hate round for dinner.</desc>
+    <date>20160722</date>
+    <icon src="https://image.tmdb.org/t/p/original/vjsE1z6jSEz0UjQnXBShOr1bti8.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024145113 +0000" stop="20251024151907 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>The Carpet Cleaner</sub-title>
+    <episode-num system="onscreen">S04E02</episode-num>
+    <desc>Trouble occurs on Dad's hinge oiling evening, as oil is split on Mum's beloved carpet.</desc>
+    <date>20160729</date>
+    <icon src="https://image.tmdb.org/t/p/original/aCb5h5azQMdgWUtMv1KQozhJ7Yl.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024151907 +0000" stop="20251024154521 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>Congratulations</sub-title>
+    <episode-num system="onscreen">S04E03</episode-num>
+    <desc>Adam has been recognised for his musical talent but is overshadowed by Jonny's news.</desc>
+    <date>20160805</date>
+    <icon src="https://image.tmdb.org/t/p/original/9CF2uLqlFUaN9prbHusjqeHO1nV.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024154521 +0000" stop="20251024161044 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>The Pyjamas</sub-title>
+    <episode-num system="onscreen">S04E04</episode-num>
+    <desc>Adam has been staying at Mum and Dad's all week and starts behaving like a little boy.</desc>
+    <date>20160812</date>
+    <icon src="https://image.tmdb.org/t/p/original/73jBbslxRFZKu7LV56oQNfbsWDh.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024161044 +0000" stop="20251024163706 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>For Sale</sub-title>
+    <episode-num system="onscreen">S04E06</episode-num>
+    <desc>The boys arrive home to find a 'For Sale' sign in front of the house.</desc>
+    <date>20160826</date>
+    <icon src="https://image.tmdb.org/t/p/original/lQqWxHXdZs2xdipF8E7VJvZ3PLO.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024163706 +0000" stop="20251024170441 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>The Other Jackie</sub-title>
+    <episode-num system="onscreen">S05E01</episode-num>
+    <desc>Mum and Dad get a hot tub, but Adam and Jonny aren't keen on the idea.</desc>
+    <date>20180504</date>
+    <icon src="https://image.tmdb.org/t/p/original/zY9O5fejos377DND2IYsJ1fmyJs.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024170441 +0000" stop="20251024173139 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>The Violin</sub-title>
+    <episode-num system="onscreen">S05E05</episode-num>
+    <desc>Adam isn't happy when he is forced to play his violin for Mum and her best friend Val.</desc>
+    <date>20180601</date>
+    <icon src="https://image.tmdb.org/t/p/original/lyxC7oPVoVQroClAQIo7ktRAVwp.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024173139 +0000" stop="20251024175838 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>Wilson</sub-title>
+    <episode-num system="onscreen">S05E06</episode-num>
+    <desc>The boys are threatened with no crumble if they don't help to assemble a wooden shelf.</desc>
+    <date>20180608</date>
+    <icon src="https://image.tmdb.org/t/p/original/wFpWFGze88h4L7tCPoD1lsDbQtZ.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024175838 +0000" stop="20251024182610 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>The Caravan</sub-title>
+    <episode-num system="onscreen">S06E01</episode-num>
+    <desc>Dad's bought a grotty caravan. Jim's got a new dog. And the boys have new 'females'.</desc>
+    <date>20200327</date>
+    <icon src="https://image.tmdb.org/t/p/original/A1ilK9Ri3gmn5nPiktba2U7cA7g.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024182610 +0000" stop="20251024185412 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>The Plastic Bag</sub-title>
+    <episode-num system="onscreen">S06E02</episode-num>
+    <desc>Martin becomes obsessed with a plastic bag that's stuck up a tree.</desc>
+    <date>20200403</date>
+    <icon src="https://image.tmdb.org/t/p/original/zOSSZXyPTwMFfpV2GQSSy2BfRVo.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024185412 +0000" stop="20251024192139 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>The Au Pair</sub-title>
+    <episode-num system="onscreen">S06E03</episode-num>
+    <desc>The family's cream-tea-obsessed former au pair pays the Goodmans a surprise visit.</desc>
+    <date>20200410</date>
+    <icon src="https://image.tmdb.org/t/p/original/k43IxLFlRPd46F7l87jdBw1D0qf.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024192139 +0000" stop="20251024194850 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>Dad's Birthday</sub-title>
+    <episode-num system="onscreen">S06E04</episode-num>
+    <desc>Dad has the birthday blues - because he has worked out the date when he's going to die.</desc>
+    <date>20200417</date>
+    <icon src="https://image.tmdb.org/t/p/original/6G6CA6AC2hQpI6x0ZqVeYM0VEEv.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024194850 +0000" stop="20251024201843 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>The Females</sub-title>
+    <episode-num system="onscreen">S06E06</episode-num>
+    <desc>Adam and Jonny bring their 'females' home to meet the parents. Cue excitement from Mum.</desc>
+    <date>20200501</date>
+    <icon src="https://image.tmdb.org/t/p/original/fsk82d8LMJ4Mu5AiHY16CHsCBQB.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024201843 +0000" stop="20251024205156 +0000">
     <title>The Office</title>
     <sub-title>Judgement</sub-title>
     <episode-num system="onscreen">S01E06</episode-num>
@@ -401,7 +419,7 @@
     <icon src="https://image.tmdb.org/t/p/original/1npmXs8bEupfDV1yWSERt1Lpcm8.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251024002742 +0000" stop="20251024010044 +0000">
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024205156 +0000" stop="20251024212458 +0000">
     <title>The Office</title>
     <sub-title>Charity</sub-title>
     <episode-num system="onscreen">S02E05</episode-num>
@@ -410,13 +428,67 @@
     <icon src="https://image.tmdb.org/t/p/original/csZXkFTIdGubFRdu3IVc1zQaGfX.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251024010044 +0000" stop="20251024012724 +0000">
-    <title>Moone Boy</title>
-    <sub-title>Episode 1</sub-title>
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024212458 +0000" stop="20251024215111 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>The Sofabed</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Martin's birthday takes a bad turn when his new bike gets trashed by the Bonner brothers.</desc>
-    <date>20120914</date>
-    <icon src="https://image.tmdb.org/t/p/original/2lI8GOwsS5uryTzTFtPmuXhX0sh.jpg" />
+    <desc>Mum and Dad are having a clear-out, and Dad's been ordered to chuck away all his old junk.</desc>
+    <date>20110225</date>
+    <icon src="https://image.tmdb.org/t/p/original/y8ujOHYNetNjbXtaCIg3sNgDn1l.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024215111 +0000" stop="20251024221644 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>The Jingle</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Mum is very proud as Adam's first ever jingle is going to be on the radio.</desc>
+    <date>20110304</date>
+    <icon src="https://image.tmdb.org/t/p/original/eQIGCyARhqq3KLlQLy5wOlRzleP.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024221644 +0000" stop="20251024224539 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>The Curtains</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Grandma arrives for dinner but she gets her hair stuck in the window of Jonny's car.</desc>
+    <date>20110311</date>
+    <icon src="https://image.tmdb.org/t/p/original/t2bl6GvcXUjwAF7sXj80vQrf1lu.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024224539 +0000" stop="20251024231225 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>The Date</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Adam comes home to find the house looking immaculate. What is Mum up to?</desc>
+    <date>20110408</date>
+    <icon src="https://image.tmdb.org/t/p/original/om6IWRrDAEswNm66H4EUJo4lOyq.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024231225 +0000" stop="20251024233854 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>Buggy</sub-title>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <desc>Jonny finds Adam's childhood diary and discovers a terrible secret. So now it's war!</desc>
+    <date>20121007</date>
+    <icon src="https://image.tmdb.org/t/p/original/bbQxP0QIeRJL3LsIWMbvfVO70Fb.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251024233854 +0000" stop="20251025000500 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>Mr Morris</sub-title>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <desc>The boys are excited, because Grandma is coming for dinner.</desc>
+    <date>20121014</date>
+    <icon src="https://image.tmdb.org/t/p/original/jCVf0F5SVCzhx5jXt4mVCylOuGi.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-65622fb65dbccec83a87b643" start="20251025000500 +0000" stop="20251025003225 +0000">
+    <title>Friday Night Dinner</title>
+    <sub-title>The Loft</sub-title>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <desc>To get out of cleaning the loft, Jonny claims to have dislocated his shoulder.</desc>
+    <date>20121021</date>
+    <icon src="https://image.tmdb.org/t/p/original/rxQd4R8ExVIHgP2wxHcyCenuyLF.jpg" />
   </programme>
   
 </tv>

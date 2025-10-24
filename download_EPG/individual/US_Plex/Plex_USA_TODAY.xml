@@ -1,11 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607">
+<channel id="68fa84637ac952737656ae5f-60df3e18541143002f3b8607">
     <display-name>USA TODAY</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/ae42c76a-809f-465b-aed8-cfdc8e33a04b/usatoday_logo_light.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023010000 +0000" stop="20251023020000 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024000000 +0000" stop="20251024003000 +0000">
+    <title>Entrepreneur Elevator Pitch</title>
+    <category>Movie</category>
+    <desc>Marc Randolph, Kim Perell, and Dhani Jones hear pitches from three new contestants on "Entrepreneur Elevator Pitch."</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024003000 +0000" stop="20251024010000 +0000">
+    <title>Entrepreneur Elevator Pitch</title>
+    <category>Movie</category>
+    <desc>This week on "Entrepreneur Elevator Pitch," investors hear final pitches. Featuring Marc Randolph, Kim Perell, and Rogers Healy.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024010000 +0000" stop="20251024020000 +0000">
     <title>News and politics on USA TODAY</title>
     <category>Movie</category>
     <desc>The most important stories impacting the nation.</desc>
@@ -13,7 +27,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023020000 +0000" stop="20251023023000 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024020000 +0000" stop="20251024023000 +0000">
     <title>Sports Seriously</title>
     <category>Movie</category>
     <desc>Welcome to Sports Seriously, a show filled with real analysis, fascinating conversations, and diehard fandom.</desc>
@@ -21,21 +35,21 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023023000 +0000" stop="20251023030000 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024023000 +0000" stop="20251024030000 +0000">
     <title>World Tour</title>
     <category>Movie</category>
     <desc>In the thrilling travel show “World Tour,” viewers embark on captivating adventures to the most exotic corners of the planet. From the charming streets of Paris to the breathtaking landscapes of New Zealand, each episode offers new amazing places, cultures, and traditions. With inspiring stories from locals and unexpected discoveries, “World Tour” immerses viewers in the exciting world of travel and adventure.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023030000 +0000" stop="20251023033000 +0000">
-    <title>Ottawa and Zurich</title>
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024030000 +0000" stop="20251024033000 +0000">
+    <title>Amman and Charleston</title>
     <category>Movie</category>
-    <desc>Seasoned travel writer Jonathan Thompson sets out to explore the adventurous sides of Zürich, Switzerland and Ottawa, Canada</desc>
+    <desc>Seasoned travel writer Jonathan Thompson sets out to explore the adventurous sides of Amman, Jordan and Charleston, North Carolina</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023033000 +0000" stop="20251023040000 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024033000 +0000" stop="20251024040000 +0000">
     <title>The Excerpt</title>
     <category>Movie</category>
     <desc>The most important headlines and compelling topics in culture, entertainment, sports, politics, and more.</desc>
@@ -43,7 +57,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023040000 +0000" stop="20251023043000 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024040000 +0000" stop="20251024043000 +0000">
     <title>USA TODAY Top Headlines</title>
     <category>Movie</category>
     <desc>The most important stories impacting the nation.</desc>
@@ -51,31 +65,39 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023043000 +0000" stop="20251023051500 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024043000 +0000" stop="20251024050000 +0000">
     <title>Entrepreneur Elevator Pitch</title>
     <category>Movie</category>
-    <desc>Marc Randolph, Kim Perell, and Gary Swart hear food-themed pitches on "Entrepreneur Elevator Pitch."</desc>
+    <desc>Marc Randolph, Kim Perell, and Dhani Jones hear pitches from three new contestants on "Entrepreneur Elevator Pitch."</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023051500 +0000" stop="20251023053000 +0000">
-    <title>News and politics on USA TODAY</title>
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024050000 +0000" stop="20251024053000 +0000">
+    <title>Entrepreneur Elevator Pitch</title>
     <category>Movie</category>
-    <desc>The most important stories impacting the nation.</desc>
-    <date>20190101</date>
+    <desc>This week on "Entrepreneur Elevator Pitch," investors hear final pitches. Featuring Marc Randolph, Kim Perell, and Rogers Healy.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023053000 +0000" stop="20251023063000 +0000">
-    <title>Connections: Game On</title>
-    <sub-title>Connections: A small-town basketball dream like no other| Game On</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>This is the world's most unlikely basketball tournament. Which team will win the basketball glory?</desc>
-    <date>20250114</date>
-    <icon src="https://d1wy27gbaq1ujb.cloudfront.net/USATN/Game%20On%20EP1A%20Thumbnail.png" />
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024053000 +0000" stop="20251024060000 +0000">
+    <title>Connections: Sister Cities</title>
+    <sub-title>Connections: Discover the surprising bond that unites NYC and Beijing</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Part two reveals the surprising and inspiring connectivity that binds Beijing and New York City together.</desc>
+    <date>20240819</date>
+    <icon src="https://d1wy27gbaq1ujb.cloudfront.net/USATN/SisterCitiesEp6.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023063000 +0000" stop="20251023064500 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024060000 +0000" stop="20251024063000 +0000">
+    <title>Connections: Sister Cities</title>
+    <sub-title>Connections: San Francisco's cultural, artistic and economic bond with Shanghai</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Explore the wonders of two amazing Sister Cities, San Francisco and Shanghai, in this two-part episode.</desc>
+    <date>20220718</date>
+    <icon src="https://d1wy27gbaq1ujb.cloudfront.net/USATN/SisterCities.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024063000 +0000" stop="20251024064500 +0000">
     <title>USA TODAY Top Headlines</title>
     <category>Movie</category>
     <desc>The most important stories impacting the nation.</desc>
@@ -83,7 +105,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023064500 +0000" stop="20251023083000 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024064500 +0000" stop="20251024083000 +0000">
     <title>News and politics on USA TODAY</title>
     <category>Movie</category>
     <desc>The most important stories impacting the nation.</desc>
@@ -91,16 +113,16 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023083000 +0000" stop="20251023090000 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024083000 +0000" stop="20251024090000 +0000">
     <title>Alive &amp; Well with Michelle Harris</title>
-    <sub-title>Cow hug therapy</sub-title>
-    <episode-num system="onscreen">S16E12</episode-num>
-    <desc>Michelle and musician MOBY show how interacting with animals can be healing</desc>
+    <sub-title>At home with Ed Begley</sub-title>
+    <episode-num system="onscreen">S15E86</episode-num>
+    <desc>Michelle visits the eco-friendly home of Ed Begley and his wife Rachelle</desc>
     <date>20250321</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/184dc8bc-f121-433b-8bec-de9831114eaf/usatoday_artwork_horizontal.jpeg" />
+    <icon src="https://d1wy27gbaq1ujb.cloudfront.net/USATN/AliveandWell.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023090000 +0000" stop="20251023093000 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024090000 +0000" stop="20251024093000 +0000">
     <title>USA TODAY Top Headlines</title>
     <category>Movie</category>
     <desc>The most important stories impacting the nation.</desc>
@@ -108,7 +130,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023093000 +0000" stop="20251023100000 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024093000 +0000" stop="20251024100000 +0000">
     <title>USA TODAY Trending News</title>
     <category>Movie</category>
     <desc>The most trending and talked about news from USA TODAY.</desc>
@@ -116,7 +138,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023100000 +0000" stop="20251023110000 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024100000 +0000" stop="20251024110000 +0000">
     <title>News and politics on USA TODAY</title>
     <category>Movie</category>
     <desc>The most important stories impacting the nation.</desc>
@@ -124,14 +146,14 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023110000 +0000" stop="20251023130000 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024110000 +0000" stop="20251024130000 +0000">
     <title>CONNECTING AMERICA</title>
     <category>Movie</category>
     <desc>CONNECTING AMERICA</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023130000 +0000" stop="20251023133000 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024130000 +0000" stop="20251024133000 +0000">
     <title>USA TODAY Top Headlines</title>
     <category>Movie</category>
     <desc>The most important stories impacting the nation.</desc>
@@ -139,7 +161,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023133000 +0000" stop="20251023140000 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024133000 +0000" stop="20251024140000 +0000">
     <title>USA TODAY Trending News</title>
     <category>Movie</category>
     <desc>The most trending and talked about news from USA TODAY.</desc>
@@ -147,7 +169,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023140000 +0000" stop="20251023143000 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024140000 +0000" stop="20251024143000 +0000">
     <title>Entertain This!</title>
     <category>Movie</category>
     <desc>Get a fresh take on the top-trending stories of the day from our entertainment experts.</desc>
@@ -155,7 +177,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023143000 +0000" stop="20251023150000 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024143000 +0000" stop="20251024150000 +0000">
     <title>Sports Seriously</title>
     <category>Movie</category>
     <desc>Welcome to Sports Seriously, a show filled with real analysis, fascinating conversations, and diehard fandom.</desc>
@@ -163,15 +185,15 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023150000 +0000" stop="20251023153000 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024150000 +0000" stop="20251024154500 +0000">
     <title>Entrepreneur Elevator Pitch</title>
     <category>Movie</category>
-    <desc>This episode features a founder with 20 years of experience in her industry...and an entrepreneur who's only 12 years old.</desc>
+    <desc>One entrepreneur claims a 9-figure sale of his last business while another has only been in business for six months.</desc>
     <date>20221205</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023153000 +0000" stop="20251023160000 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024154500 +0000" stop="20251024160000 +0000">
     <title>Top Headlines</title>
     <category>Movie</category>
     <desc>The biggest news out of the world of Sports from the experts at USA TODAY.</desc>
@@ -179,7 +201,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023160000 +0000" stop="20251023170000 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024160000 +0000" stop="20251024170000 +0000">
     <title>News and politics on USA TODAY</title>
     <category>Movie</category>
     <desc>The most important stories impacting the nation.</desc>
@@ -187,7 +209,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023170000 +0000" stop="20251023173000 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024170000 +0000" stop="20251024173000 +0000">
     <title>USA TODAY Trending News</title>
     <category>Movie</category>
     <desc>The most trending and talked about news from USA TODAY.</desc>
@@ -195,30 +217,30 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023173000 +0000" stop="20251023180000 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024173000 +0000" stop="20251024180000 +0000">
     <title>Expedia</title>
     <category>Movie</category>
-    <desc>Put away the parasol &amp; lace up your shoes to join proud islander, Judith Rodriguez Perez, on a journey discovering the vibrant heart of the Dominican Republic. Venture beyond the beaches and see the island as the locals do. Dive into Our Dominicana.</desc>
+    <desc>Unplanned experiences leave the biggest impact. Watch this episode of The Next Turn, a docu-style travel series, powered by Expedia and Visit Orlando, as it takes host Jo Franco on a journey to embrace adventure to discover the Orlando she never knew. Also an adventure in Azerbaijan, join filmaker Jade Healy as she ventures to the other side of the world to find inspiration in the local tales and colours of Azerbaijan.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023180000 +0000" stop="20251023183000 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024180000 +0000" stop="20251024183000 +0000">
     <title>World Tour</title>
     <category>Movie</category>
     <desc>In the thrilling travel show “World Tour,” viewers embark on captivating adventures to the most exotic corners of the planet. From the charming streets of Paris to the breathtaking landscapes of New Zealand, each episode offers new amazing places, cultures, and traditions. With inspiring stories from locals and unexpected discoveries, “World Tour” immerses viewers in the exciting world of travel and adventure.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023183000 +0000" stop="20251023193000 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024183000 +0000" stop="20251024193000 +0000">
     <title>Connections: Game On</title>
-    <sub-title>Connections: A small-town basketball dream like no other| Game On</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>This is the world's most unlikely basketball tournament. Which team will win the basketball glory?</desc>
+    <sub-title>Connections: Which team will take the basketball glory? | Game On</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Game On: Basketball showdown heats up as teams battle in tournament’s high-stakes finale</desc>
     <date>20250114</date>
-    <icon src="https://d1wy27gbaq1ujb.cloudfront.net/USATN/Game%20On%20EP1A%20Thumbnail.png" />
+    <icon src="https://d1wy27gbaq1ujb.cloudfront.net/USATN/Game%20On%20EP1B%20Thumbnail.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023193000 +0000" stop="20251023200000 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024193000 +0000" stop="20251024200000 +0000">
     <title>USA TODAY Top Headlines</title>
     <category>Movie</category>
     <desc>The most important stories impacting the nation.</desc>
@@ -226,14 +248,14 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023200000 +0000" stop="20251023204500 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024200000 +0000" stop="20251024204500 +0000">
     <title>Entrepreneur Elevator Pitch</title>
     <category>Movie</category>
-    <desc>Tech entrepreneurs face explaining complex solutions on Entrepreneur Elevator Pitch. 60 seconds to impress, but one leaves investors puzzled. Watch now!</desc>
+    <desc>In the season 10 finale of Elevator Pitch, three finalists vie for life-changing deals. Emotions run high as money flows. Watch for surprises!</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023204500 +0000" stop="20251023210000 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024204500 +0000" stop="20251024210000 +0000">
     <title>USA TODAY's Most Treasured Views</title>
     <category>Movie</category>
     <desc>Experience USA TODAY's Most Treasured Views across the country.</desc>
@@ -241,7 +263,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023210000 +0000" stop="20251023223000 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024210000 +0000" stop="20251024223000 +0000">
     <title>News and politics on USA TODAY</title>
     <category>Movie</category>
     <desc>The most important stories impacting the nation.</desc>
@@ -249,7 +271,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023223000 +0000" stop="20251023230000 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024223000 +0000" stop="20251024230000 +0000">
     <title>USA TODAY Trending News</title>
     <category>Movie</category>
     <desc>The most trending and talked about news from USA TODAY.</desc>
@@ -257,39 +279,24 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023230000 +0000" stop="20251023233000 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024230000 +0000" stop="20251024233000 +0000">
     <title>World Tour</title>
     <category>Movie</category>
     <desc>In the thrilling travel show “World Tour,” viewers embark on captivating adventures to the most exotic corners of the planet. From the charming streets of Paris to the breathtaking landscapes of New Zealand, each episode offers new amazing places, cultures, and traditions. With inspiring stories from locals and unexpected discoveries, “World Tour” immerses viewers in the exciting world of travel and adventure.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251023233000 +0000" stop="20251024000000 +0000">
-    <title>Amman and Charleston</title>
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251024233000 +0000" stop="20251025000000 +0000">
+    <title>Alice Springs and Long Beach</title>
     <category>Movie</category>
-    <desc>Seasoned travel writer Jonathan Thompson sets out to explore the adventurous sides of Amman, Jordan and Charleston, North Carolina</desc>
+    <desc>Seasoned travel writer Jonathan Thompson sets out to explore the adventurous sides of Alice Springs, Australia &amp; Long Beach, California</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251024000000 +0000" stop="20251024003000 +0000">
+<programme channel="68fa84637ac952737656ae5f-60df3e18541143002f3b8607" start="20251025000000 +0000" stop="20251025004500 +0000">
     <title>Entrepreneur Elevator Pitch</title>
     <category>Movie</category>
-    <desc>Marc Randolph, Kim Perell, and Dhani Jones hear pitches from three new contestants on "Entrepreneur Elevator Pitch."</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251024003000 +0000" stop="20251024010000 +0000">
-    <title>Entrepreneur Elevator Pitch</title>
-    <category>Movie</category>
-    <desc>This week on "Entrepreneur Elevator Pitch," investors hear final pitches. Featuring Marc Randolph, Kim Perell, and Rogers Healy.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" start="20251024010000 +0000" stop="20251024020000 +0000">
-    <title>News and politics on USA TODAY</title>
-    <category>Movie</category>
-    <desc>The most important stories impacting the nation.</desc>
-    <date>20190101</date>
+    <desc>On "Entrepreneur Elevator Pitch," entrepreneurs pitch digital marketplaces. Investors focus on their target audience.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg" />
   </programme>
   

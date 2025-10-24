@@ -1,83 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661">
+<channel id="68fa84637ac952737656ae5f-5f91c4ea96a391002df9a661">
     <display-name>pocket.watch Game-On</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/b580b328-e44f-4554-bc2e-09f9fb7a2ee3/pocket.watchGame-On_Channel_Logo_Stacked_Color_1500x1000.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" start="20251023010000 +0000" stop="20251023020000 +0000">
+<programme channel="68fa84637ac952737656ae5f-5f91c4ea96a391002df9a661" start="20251024000000 +0000" stop="20251024010000 +0000">
+    <title>Denis</title>
+    <sub-title>| Roblox Haunted House!</sub-title>
+    <episode-num system="onscreen">S01E34</episode-num>
+    <desc>Meet Denis, the gaming superstar who takes on obbys – and builds his own – within Roblox and Minecraft!</desc>
+    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-5f91c4ea96a391002df9a661" start="20251024010000 +0000" stop="20251024020000 +0000">
     <title>Mackenzie Turner Roblox</title>
-    <sub-title>| Vol 8</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
+    <sub-title>| Vol 10</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
     <desc>Roblox fanatic Mackenzie Turner is known for her comedic and exuberant Brookhaven and Adopt Me videos!</desc>
     <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" start="20251023020000 +0000" stop="20251023030000 +0000">
-    <title>KidCity</title>
-    <sub-title>| Gaming Heroes!</sub-title>
-    <episode-num system="onscreen">S01E21</episode-num>
-    <desc>Play along with the KidCity family —Little Flash, Ava, DadCity, and MomCity— in all their kid-friendly games!</desc>
-    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" start="20251023030000 +0000" stop="20251023040000 +0000">
-    <title>LankyBox</title>
-    <sub-title>| Ultimate mishmash Vol 15</sub-title>
-    <episode-num system="onscreen">S02E15</episode-num>
-    <desc>LankyBox is Roblox superstars Justin and Adam, two best friends who love playing popular video games!</desc>
-    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" start="20251023040000 +0000" stop="20251023050000 +0000">
-    <title>Denis</title>
-    <sub-title>| Jumping In Roblox!</sub-title>
-    <episode-num system="onscreen">S01E32</episode-num>
-    <desc>Meet Denis, the gaming superstar who takes on obbys – and builds his own – within Roblox and Minecraft!</desc>
-    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" start="20251023050000 +0000" stop="20251023060000 +0000">
-    <title>Onyx Family</title>
-    <sub-title>Ultimate mishmash Vol 10</sub-title>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <desc>Onyx Family is best known for their spooky skits, starring the Onyx Kids: Shiloh, Shasha, Sinead, and Shalom.</desc>
-    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" start="20251023060000 +0000" stop="20251023070000 +0000">
-    <title>HobbyKidsTV</title>
-    <sub-title>| Roblox Rollercoaster!</sub-title>
-    <episode-num system="onscreen">S01E42</episode-num>
-    <desc>Come along for the fun with popular YouTube family, HobbyKidsTV! Plus, HobbyKids Adventures!</desc>
-    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" start="20251023070000 +0000" stop="20251023080000 +0000">
-    <title>LankyBox</title>
-    <sub-title>| Ultimate mishmash Vol 18</sub-title>
-    <episode-num system="onscreen">S02E18</episode-num>
-    <desc>LankyBox is Roblox superstars Justin and Adam, two best friends who love playing popular video games!</desc>
-    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" start="20251023080000 +0000" stop="20251023090000 +0000">
-    <title>Denis</title>
-    <sub-title>| Roblox Floor Is Lava!</sub-title>
-    <episode-num system="onscreen">S01E33</episode-num>
-    <desc>Meet Denis, the gaming superstar who takes on obbys – and builds his own – within Roblox and Minecraft!</desc>
-    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" start="20251023090000 +0000" stop="20251023100000 +0000">
-    <title>MeganPlays</title>
-    <sub-title>| Mega Roblox Pets!</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Roblox star MeganPlays is known for her positive, family-friendly gaming stories and upbeat vlogs!</desc>
-    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" start="20251023100000 +0000" stop="20251023110000 +0000">
+<programme channel="68fa84637ac952737656ae5f-5f91c4ea96a391002df9a661" start="20251024020000 +0000" stop="20251024030000 +0000">
     <title>KidCity</title>
     <sub-title>| Roblox Challenge!</sub-title>
     <episode-num system="onscreen">S01E25</episode-num>
@@ -85,7 +29,7 @@
     <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" start="20251023110000 +0000" stop="20251023120000 +0000">
+<programme channel="68fa84637ac952737656ae5f-5f91c4ea96a391002df9a661" start="20251024030000 +0000" stop="20251024040000 +0000">
     <title>LankyBox</title>
     <sub-title>| Ultimate mishmash Vol 17</sub-title>
     <episode-num system="onscreen">S02E17</episode-num>
@@ -93,39 +37,7 @@
     <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" start="20251023120000 +0000" stop="20251023130000 +0000">
-    <title>Denis</title>
-    <sub-title>| Roblox Haunted House!</sub-title>
-    <episode-num system="onscreen">S01E34</episode-num>
-    <desc>Meet Denis, the gaming superstar who takes on obbys – and builds his own – within Roblox and Minecraft!</desc>
-    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" start="20251023130000 +0000" stop="20251023140000 +0000">
-    <title>Onyx Family</title>
-    <sub-title>Ultimate mishmash Vol 11</sub-title>
-    <episode-num system="onscreen">S02E11</episode-num>
-    <desc>Onyx Family is best known for their spooky skits, starring the Onyx Kids: Shiloh, Shasha, Sinead, and Shalom.</desc>
-    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" start="20251023140000 +0000" stop="20251023150000 +0000">
-    <title>Mackenzie Turner Roblox</title>
-    <sub-title>| Vol 11</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Roblox fanatic Mackenzie Turner is known for her comedic and exuberant Brookhaven and Adopt Me videos!</desc>
-    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" start="20251023150000 +0000" stop="20251023160000 +0000">
-    <title>LankyBox</title>
-    <sub-title>| Ultimate mishmash Vol 18</sub-title>
-    <episode-num system="onscreen">S02E18</episode-num>
-    <desc>LankyBox is Roblox superstars Justin and Adam, two best friends who love playing popular video games!</desc>
-    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" start="20251023160000 +0000" stop="20251023170000 +0000">
+<programme channel="68fa84637ac952737656ae5f-5f91c4ea96a391002df9a661" start="20251024040000 +0000" stop="20251024050000 +0000">
     <title>Denis</title>
     <sub-title>| Halloween In Bloxburg!</sub-title>
     <episode-num system="onscreen">S01E35</episode-num>
@@ -133,47 +45,15 @@
     <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" start="20251023170000 +0000" stop="20251023180000 +0000">
-    <title>Ryan's World Specials</title>
-    <sub-title>| Power On! 1</sub-title>
-    <episode-num system="onscreen">S01E32</episode-num>
-    <desc>Discover how fun learning can be with YouTube superstar, Ryan, and all of his Ryan's World friends!</desc>
+<programme channel="68fa84637ac952737656ae5f-5f91c4ea96a391002df9a661" start="20251024050000 +0000" stop="20251024060000 +0000">
+    <title>Onyx Family</title>
+    <sub-title>Ultimate mishmash Vol 11</sub-title>
+    <episode-num system="onscreen">S02E11</episode-num>
+    <desc>Onyx Family is best known for their spooky skits, starring the Onyx Kids: Shiloh, Shasha, Sinead, and Shalom.</desc>
     <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" start="20251023180000 +0000" stop="20251023190000 +0000">
-    <title>Ryan's World Specials</title>
-    <sub-title>| Power On! 2</sub-title>
-    <episode-num system="onscreen">S01E33</episode-num>
-    <desc>Discover how fun learning can be with YouTube superstar, Ryan, and all of his Ryan's World friends!</desc>
-    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" start="20251023190000 +0000" stop="20251023200000 +0000">
-    <title>LankyBox</title>
-    <sub-title>| Ultimate mishmash Vol 17</sub-title>
-    <episode-num system="onscreen">S02E17</episode-num>
-    <desc>LankyBox is Roblox superstars Justin and Adam, two best friends who love playing popular video games!</desc>
-    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" start="20251023200000 +0000" stop="20251023210000 +0000">
-    <title>Denis</title>
-    <sub-title>| Roblox Floor Is Lava!</sub-title>
-    <episode-num system="onscreen">S01E33</episode-num>
-    <desc>Meet Denis, the gaming superstar who takes on obbys – and builds his own – within Roblox and Minecraft!</desc>
-    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" start="20251023210000 +0000" stop="20251023220000 +0000">
-    <title>MeganPlays</title>
-    <sub-title>| Mega Roblox Pets!</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Roblox star MeganPlays is known for her positive, family-friendly gaming stories and upbeat vlogs!</desc>
-    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" start="20251023220000 +0000" stop="20251023230000 +0000">
+<programme channel="68fa84637ac952737656ae5f-5f91c4ea96a391002df9a661" start="20251024060000 +0000" stop="20251024070000 +0000">
     <title>HobbyKidsTV</title>
     <sub-title>| Roblox Piggy!</sub-title>
     <episode-num system="onscreen">S01E49</episode-num>
@@ -181,27 +61,147 @@
     <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" start="20251023230000 +0000" stop="20251024000000 +0000">
+<programme channel="68fa84637ac952737656ae5f-5f91c4ea96a391002df9a661" start="20251024070000 +0000" stop="20251024080000 +0000">
     <title>LankyBox</title>
-    <sub-title>| Ultimate mishmash Vol 18</sub-title>
-    <episode-num system="onscreen">S02E18</episode-num>
+    <sub-title>| Ultimate mishmash Vol 20</sub-title>
+    <episode-num system="onscreen">S02E20</episode-num>
     <desc>LankyBox is Roblox superstars Justin and Adam, two best friends who love playing popular video games!</desc>
     <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" start="20251024000000 +0000" stop="20251024010000 +0000">
+<programme channel="68fa84637ac952737656ae5f-5f91c4ea96a391002df9a661" start="20251024080000 +0000" stop="20251024090000 +0000">
     <title>Denis</title>
-    <sub-title>| Roblox Haunted House!</sub-title>
-    <episode-num system="onscreen">S01E34</episode-num>
+    <sub-title>| Roblox Obby Insanity!</sub-title>
+    <episode-num system="onscreen">S01E14</episode-num>
     <desc>Meet Denis, the gaming superstar who takes on obbys – and builds his own – within Roblox and Minecraft!</desc>
     <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" start="20251024010000 +0000" stop="20251024020000 +0000">
+<programme channel="68fa84637ac952737656ae5f-5f91c4ea96a391002df9a661" start="20251024090000 +0000" stop="20251024100000 +0000">
+    <title>MeganPlays</title>
+    <sub-title>| Adopt Me Galore!</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Roblox star MeganPlays is known for her positive, family-friendly gaming stories and upbeat vlogs!</desc>
+    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-5f91c4ea96a391002df9a661" start="20251024100000 +0000" stop="20251024110000 +0000">
+    <title>KidCity</title>
+    <sub-title>| Roblox Escape!</sub-title>
+    <episode-num system="onscreen">S01E26</episode-num>
+    <desc>Play along with the KidCity family —Little Flash, Ava, DadCity, and MomCity— in all their kid-friendly games!</desc>
+    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-5f91c4ea96a391002df9a661" start="20251024110000 +0000" stop="20251024120000 +0000">
+    <title>LankyBox</title>
+    <sub-title>| Ultimate mishmash Vol 19</sub-title>
+    <episode-num system="onscreen">S02E19</episode-num>
+    <desc>LankyBox is Roblox superstars Justin and Adam, two best friends who love playing popular video games!</desc>
+    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-5f91c4ea96a391002df9a661" start="20251024120000 +0000" stop="20251024130000 +0000">
+    <title>Denis</title>
+    <sub-title>| Roblox Runs and Races!</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>Meet Denis, the gaming superstar who takes on obbys – and builds his own – within Roblox and Minecraft!</desc>
+    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-5f91c4ea96a391002df9a661" start="20251024130000 +0000" stop="20251024140000 +0000">
+    <title>Onyx Family</title>
+    <sub-title>Ultimate mishmash Vol 12</sub-title>
+    <episode-num system="onscreen">S02E12</episode-num>
+    <desc>Onyx Family is best known for their spooky skits, starring the Onyx Kids: Shiloh, Shasha, Sinead, and Shalom.</desc>
+    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-5f91c4ea96a391002df9a661" start="20251024140000 +0000" stop="20251024150000 +0000">
     <title>Mackenzie Turner Roblox</title>
-    <sub-title>| Vol 10</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
+    <sub-title>| Vol 13</sub-title>
+    <episode-num system="onscreen">S01E13</episode-num>
     <desc>Roblox fanatic Mackenzie Turner is known for her comedic and exuberant Brookhaven and Adopt Me videos!</desc>
+    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-5f91c4ea96a391002df9a661" start="20251024150000 +0000" stop="20251024160000 +0000">
+    <title>LankyBox</title>
+    <sub-title>| Ultimate mishmash Vol 20</sub-title>
+    <episode-num system="onscreen">S02E20</episode-num>
+    <desc>LankyBox is Roblox superstars Justin and Adam, two best friends who love playing popular video games!</desc>
+    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-5f91c4ea96a391002df9a661" start="20251024160000 +0000" stop="20251024170000 +0000">
+    <title>Denis</title>
+    <sub-title>| Travels and Triumphs!</sub-title>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <desc>Meet Denis, the gaming superstar who takes on obbys – and builds his own – within Roblox and Minecraft!</desc>
+    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-5f91c4ea96a391002df9a661" start="20251024170000 +0000" stop="20251024180000 +0000">
+    <title>Ryan's World Specials</title>
+    <sub-title>| Power On! 3</sub-title>
+    <episode-num system="onscreen">S01E34</episode-num>
+    <desc>Discover how fun learning can be with YouTube superstar, Ryan, and all of his Ryan's World friends!</desc>
+    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-5f91c4ea96a391002df9a661" start="20251024180000 +0000" stop="20251024190000 +0000">
+    <title>Ryan's World Specials</title>
+    <sub-title>| Power On! 4</sub-title>
+    <episode-num system="onscreen">S01E35</episode-num>
+    <desc>Discover how fun learning can be with YouTube superstar, Ryan, and all of his Ryan's World friends!</desc>
+    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-5f91c4ea96a391002df9a661" start="20251024190000 +0000" stop="20251024200000 +0000">
+    <title>LankyBox</title>
+    <sub-title>| Ultimate mishmash Vol 19</sub-title>
+    <episode-num system="onscreen">S02E19</episode-num>
+    <desc>LankyBox is Roblox superstars Justin and Adam, two best friends who love playing popular video games!</desc>
+    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-5f91c4ea96a391002df9a661" start="20251024200000 +0000" stop="20251024210000 +0000">
+    <title>Denis</title>
+    <sub-title>| Roblox Obby Insanity!</sub-title>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <desc>Meet Denis, the gaming superstar who takes on obbys – and builds his own – within Roblox and Minecraft!</desc>
+    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-5f91c4ea96a391002df9a661" start="20251024210000 +0000" stop="20251024220000 +0000">
+    <title>MeganPlays</title>
+    <sub-title>| Adopt Me Galore!</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Roblox star MeganPlays is known for her positive, family-friendly gaming stories and upbeat vlogs!</desc>
+    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-5f91c4ea96a391002df9a661" start="20251024220000 +0000" stop="20251024230000 +0000">
+    <title>HobbyKidsTV</title>
+    <sub-title>| Minecraft Among Us!</sub-title>
+    <episode-num system="onscreen">S01E50</episode-num>
+    <desc>Come along for the fun with popular YouTube family, HobbyKidsTV! Plus, HobbyKids Adventures!</desc>
+    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-5f91c4ea96a391002df9a661" start="20251024230000 +0000" stop="20251025000000 +0000">
+    <title>LankyBox</title>
+    <sub-title>| Ultimate mishmash Vol 20</sub-title>
+    <episode-num system="onscreen">S02E20</episode-num>
+    <desc>LankyBox is Roblox superstars Justin and Adam, two best friends who love playing popular video games!</desc>
+    <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-5f91c4ea96a391002df9a661" start="20251025000000 +0000" stop="20251025010000 +0000">
+    <title>Denis</title>
+    <sub-title>| Roblox Runs and Races!</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>Meet Denis, the gaming superstar who takes on obbys – and builds his own – within Roblox and Minecraft!</desc>
     <icon src="https://d28a0f3hsvoehg.cloudfront.net/PW_Default_1920x1080.jpg" />
   </programme>
   

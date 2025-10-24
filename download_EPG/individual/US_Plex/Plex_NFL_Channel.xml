@@ -1,124 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f">
+<channel id="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f">
     <display-name>NFL Channel</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/a7617b69-6d23-46d0-8e8e-e4ec9fa29d59/NFL_WHITE.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251023010000 +0000" stop="20251023030000 +0000">
-    <title>Weekly Game Previews</title>
-    <sub-title>Weekly Game Previews</sub-title>
-    <desc>NFL analysts pick every game ahead of the week based on the NFL schedule with insights from reporters around the country and in-depth statistical analysis.</desc>
-    <date>20251023</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251023030000 +0000" stop="20251023053600 +0000">
-    <title>NFL Replay</title>
-    <sub-title>Game of the Week: Denver Broncos at Dallas Cowboys</sub-title>
-    <episode-num system="onscreen">S2013E31</episode-num>
-    <desc>Peyton Manning outdueled Tony Romo to keep Denver's perfect season intact with the thrilling 51-48 win in Dallas. From Oct. 6, 2013.</desc>
-    <date>20131009</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251023053600 +0000" stop="20251023060600 +0000">
-    <title>NFL Fantasy Football Show</title>
-    <sub-title>NFL Fantasy Football Show</sub-title>
-    <desc>Marcas Grant and his guests provide detailed fantasy football analysis combining in-depth stats and film study ahead of each week.</desc>
-    <date>20241021</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251023060600 +0000" stop="20251023070600 +0000">
-    <title>NFL Daily</title>
-    <sub-title>NFL Daily</sub-title>
-    <desc>Gregg Rosenthal and a rotating crew of elite NFL Media co-hosts get you caught up daily on all the NFL news and analysis you need to be smarter and funnier than your friends ahead of Week 8 of the 2025 NFL season.</desc>
-    <date>20251022</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251023070600 +0000" stop="20251023075900 +0000">
-    <title>NFL Throwback</title>
-    <sub-title>Best Short Careers</sub-title>
-    <episode-num system="onscreen">S2025E42</episode-num>
-    <desc>Hear the stories of some of the best careers in NFL history that were tragically cut short.</desc>
-    <date>20250826</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251023075900 +0000" stop="20251023085600 +0000">
-    <title>NFL Throwback</title>
-    <sub-title>Every Team's Biggest Win and Loss</sub-title>
-    <episode-num system="onscreen">S2025E21</episode-num>
-    <desc>Find out every NFL team's biggest win and most embarrassing defeat of the Super Bowl era.</desc>
-    <date>20250508</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251023085600 +0000" stop="20251023115900 +0000">
-    <title>NFL Game Re-Airs</title>
-    <sub-title>2023: Chargers vs. Vikings - Week 3</sub-title>
-    <episode-num system="onscreen">S2024E47</episode-num>
-    <desc>Justin Herbert and the Chargers keep Vikings winless and pull out a 28-24 victory which was sealed by a game-sealing interception by Kenneth Murray Jr. with seven seconds left.</desc>
-    <date>20240523</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251023115900 +0000" stop="20251023122900 +0000">
-    <title>NFL Fantasy Football Show</title>
-    <sub-title>NFL Fantasy Football Show</sub-title>
-    <desc>Marcas Grant and his guests provide detailed fantasy football analysis combining in-depth stats and film study ahead of Week 8 during the 2025 NFL season.</desc>
-    <date>20251022</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251023122900 +0000" stop="20251023132900 +0000">
-    <title>NFL Daily</title>
-    <sub-title>NFL Daily</sub-title>
-    <desc>Gregg Rosenthal and a rotating crew of elite NFL Media co-hosts get you caught up daily on all the NFL news and analysis you need to be smarter and funnier than your friends ahead of Week 8 of the 2025 NFL season.</desc>
-    <date>20251022</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251023132900 +0000" stop="20251023152900 +0000">
-    <title>Weekly Game Previews</title>
-    <sub-title>Week 8</sub-title>
+<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251024001500 +0000" stop="20251024033000 +0000">
+    <title>NFL GameCenter Live</title>
+    <sub-title>NFL GameCenter Live</sub-title>
     <episode-num system="onscreen">S2025E08</episode-num>
-    <desc>This weekly series breaks down what you need to know for every NFL matchup ahead of Week 8 from the 2025 NFL season.</desc>
+    <desc>Get NFL score updates, highlights, news and more from Week 8 of the 2025 NFL season.</desc>
     <date>20251023</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251023152900 +0000" stop="20251023154700 +0000">
-    <title>NFL Throwback</title>
-    <sub-title>Top 10 Madden Teams</sub-title>
-    <episode-num system="onscreen">S2025E41</episode-num>
-    <desc>See which Madden teams were the biggest cheat codes.</desc>
-    <date>20250820</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251023154700 +0000" stop="20251023185900 +0000">
-    <title>NFL Game Re-Airs</title>
-    <sub-title>2020: Chargers vs. Raiders</sub-title>
-    <episode-num system="onscreen">S2022E41</episode-num>
-    <desc>Rookie Justin Herbert scored on a 1-yard plunge to give the Los Angeles Chargers a 30-27 overtime victory over the Las Vegas Raiders on Thursday night.</desc>
-    <date>20220110</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251023185900 +0000" stop="20251023195900 +0000">
-    <title>NFL Daily</title>
-    <sub-title>NFL Daily</sub-title>
-    <desc>Gregg Rosenthal and a rotating crew of elite NFL Media co-hosts get you caught up daily on all the NFL news and analysis you need to be smarter and funnier than your friends ahead of Week 8 of the 2025 NFL season.</desc>
-    <date>20251022</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251023195900 +0000" stop="20251023215900 +0000">
-    <title>Weekly Game Previews</title>
-    <sub-title>Week 8</sub-title>
-    <episode-num system="onscreen">S2025E08</episode-num>
-    <desc>This weekly series breaks down what you need to know for every NFL matchup ahead of Week 8 from the 2025 NFL season.</desc>
-    <date>20251023</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251023215900 +0000" stop="20251023230000 +0000">
+<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251024033000 +0000" stop="20251024043000 +0000">
     <title>The Insiders</title>
     <sub-title>The Insiders</sub-title>
     <desc>NFL Media Insiders Ian Rapoport, Mike Garafolo, Tom Pelissero, and Judy Battista deliver the inside scoop and latest storylines of Week 8 during the 2025 NFL season.</desc>
     <date>20251023</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251023230000 +0000" stop="20251024000000 +0000">
+<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251024043000 +0000" stop="20251024044800 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Weekly Game Recaps</sub-title>
+    <desc>Weekly highlight series featuring the biggest moments and best plays from every NFL game from Week 8 of the 2025 NFL season.</desc>
+    <date>20251023</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251024044800 +0000" stop="20251024053000 +0000">
+    <title>NFL Throwback</title>
+    <sub-title>Best Play From Every Season (1980-2024)</sub-title>
+    <episode-num system="onscreen">S2025E11</episode-num>
+    <desc>The greatest play from every year since 1980.</desc>
+    <date>20250303</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251024053000 +0000" stop="20251024063000 +0000">
     <title>NFL GameDay View</title>
     <sub-title>NFL GameDay View</sub-title>
     <episode-num system="onscreen">S2025E08</episode-num>
@@ -126,20 +43,103 @@
     <date>20251023</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251024000000 +0000" stop="20251024001500 +0000">
-    <title>NFL GameDay Preview</title>
-    <sub-title>NFL GameDay Preview</sub-title>
-    <episode-num system="onscreen">S2025E08</episode-num>
-    <desc>NFL analysts pick every game ahead of Week 8 based on the NFL schedule with insights from reporters around the country and in-depth statistical analysis during the 2025 NFL season.</desc>
+<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251024063000 +0000" stop="20251024070000 +0000">
+    <title>NFL Fantasy Football Show</title>
+    <sub-title>NFL Fantasy Football Show</sub-title>
+    <desc>Marcas Grant and his guests provide detailed fantasy football analysis combining in-depth stats and film study ahead of Week 8 during the 2025 NFL season.</desc>
+    <date>20251022</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251024070000 +0000" stop="20251024081000 +0000">
+    <title>NFL Throwback</title>
+    <sub-title>Best Decade Ever: The 2000s</sub-title>
+    <episode-num system="onscreen">S2025E53</episode-num>
+    <desc>From dominant dynasties to wild underdog stories and Super Bowl thrillers, NFL Throwback takes a deep dive into the 2000s.</desc>
+    <date>20250930</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251024081000 +0000" stop="20251024084300 +0000">
+    <title>NFL Throwback</title>
+    <sub-title>Greatest Game Ever: Broncos vs. Cowboys (2013)</sub-title>
+    <episode-num system="onscreen">S2025E29</episode-num>
+    <desc>The record-setting Broncos travel to Dallas where Peyton Manning and Tony Romo have a shoot-out for the ages.</desc>
+    <date>20250706</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251024084300 +0000" stop="20251024115100 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2013: Broncos vs. Cowboys - Week 5</sub-title>
+    <episode-num system="onscreen">S2023E114</episode-num>
+    <desc>In an offensive showcase for the ages, Peyton Manning's Broncos pull out a wild win over Tony Romo's Cowboys. Denver and Dallas combined for 99 points and more than 1,000 total scrimmage yards in a wild Week 5 matchup in 2013.</desc>
+    <date>20231018</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251024115100 +0000" stop="20251024120900 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Weekly Game Recaps</sub-title>
+    <desc>Weekly highlight series featuring the biggest moments and best plays from every NFL game from Week 8 of the 2025 NFL season.</desc>
     <date>20251023</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251024001500 +0000" stop="20251024033000 +0000">
-    <title>NFL GameCenter Live</title>
-    <sub-title>NFL GameCenter Live</sub-title>
+<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251024120900 +0000" stop="20251024123900 +0000">
+    <title>NFL Fantasy Football Show</title>
+    <sub-title>NFL Fantasy Football Show</sub-title>
+    <desc>Marcas Grant and his guests provide detailed fantasy football analysis combining in-depth stats and film study ahead of Week 8 during the 2025 NFL season.</desc>
+    <date>20251022</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251024123900 +0000" stop="20251024133900 +0000">
+    <title>NFL GameDay View</title>
+    <sub-title>NFL GameDay View</sub-title>
     <episode-num system="onscreen">S2025E08</episode-num>
-    <desc>Get NFL score updates, highlights, news and more from Week 8 of the 2025 NFL season.</desc>
+    <desc>Hosts Patrick Claybon, Cynthia Frelund, Gregg Rosenthal provide analysis and predictions, also receive insight from reporters around the country and in-depth statistical analysis ahead of Week 8 during the 2025 NFL season.</desc>
     <date>20251023</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251024133900 +0000" stop="20251024162600 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2025: Colts vs. Chargers - Week 7</sub-title>
+    <episode-num system="onscreen">S2025E32</episode-num>
+    <desc>The wheels keep rolling for Daniel Jones and the Indianapolis Colts behind Jonathan Taylor's third three touchdown performance of the season, this time against Justin Herbert and the Los Angeles Chargers in a 38-24 Colts' victory.</desc>
+    <date>20251024</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251024162600 +0000" stop="20251024190900 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2025: Packers vs. Cardinals - Week 7</sub-title>
+    <episode-num system="onscreen">S2025E33</episode-num>
+    <desc>Micah Parsons had 3 sacks and Josh Jacobs had 2 touchdowns to seal the Packers victory against the Arizona Cardinals.</desc>
+    <date>20251024</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251024190900 +0000" stop="20251024222900 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2025: Giants vs. Broncos - Week 7</sub-title>
+    <episode-num system="onscreen">S2025E34</episode-num>
+    <desc>The Broncos complete one of the wildest comebacks in NFL history, scoring 33-points in the fourth quarter to rally from a 19-0 Giants' lead in a crazy game between the Jaxson Dart led Giants and the Bo Nix led Broncos.</desc>
+    <date>20251024</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251024222900 +0000" stop="20251024225900 +0000">
+    <title>NFL Fantasy Football Show</title>
+    <sub-title>NFL Fantasy Football Show</sub-title>
+    <desc>Marcas Grant and his guests provide detailed fantasy football analysis combining in-depth stats and film study ahead of Week 8 during the 2025 NFL season.</desc>
+    <date>20251022</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251024225900 +0000" stop="20251024235900 +0000">
+    <title>NFL Daily</title>
+    <sub-title>NFL Daily</sub-title>
+    <desc>Gregg Rosenthal and a rotating crew of elite NFL Media co-hosts get you caught up daily on all the NFL news and analysis you need to be smarter and funnier than your friends ahead of Week 8 of the 2025 NFL season.</desc>
+    <date>20251022</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251024235900 +0000" stop="20251025025900 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2025: Steelers vs. Bengals - Week 7</sub-title>
+    <episode-num system="onscreen">S2025E31</episode-num>
+    <desc>Joe Flacco passed for 342 yards and three touchdowns as he rallied Cincinnati to a 33-31 victory over the Pittsburgh Steelers as the third time during the regular season where both starting quarterbacks are in their 40s.</desc>
+    <date>20251021</date>
   </programme>
   
 </tv>

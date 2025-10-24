@@ -1,272 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77">
+<channel id="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77">
     <display-name>Rig TV</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/cab375d6-3971-46c5-bd2e-66dc640879d2/RIGTV_Logo_White_1500X1000_.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023011355 +0000" stop="20251023020526 +0000">
-    <title>Jay Leno's Garage</title>
-    <sub-title>Pre-War Racecars</sub-title>
-    <episode-num system="onscreen">S08E13</episode-num>
-    <desc>The Nethercutt Collection shares rare, world-class cars with Jay and you, showcasing auto history's finest.</desc>
-    <date>20241008</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/Jay_Lenos_Garage_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023020526 +0000" stop="20251023025501 +0000">
-    <title>Jay Leno's Garage</title>
-    <sub-title>The Roaring 90's</sub-title>
-    <episode-num system="onscreen">S08E14</episode-num>
-    <desc>Exclusive cars: a rare McLaren and a Pontiac SOHC six by Delorean—low production makes them extra rare.</desc>
-    <date>20241008</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/Jay_Lenos_Garage_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023025501 +0000" stop="20251023034604 +0000">
-    <title>Jay Leno's Garage</title>
-    <sub-title>The Shape of Speed (Aerodynamics)</sub-title>
-    <episode-num system="onscreen">S08E15</episode-num>
-    <desc>French cars bring romance to engineering, driving brilliant design advances in every era.</desc>
-    <date>20241009</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/Jay_Lenos_Garage_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023034604 +0000" stop="20251023043634 +0000">
-    <title>Black Gold</title>
-    <sub-title>Digging Deep</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Gerald’s crew has drill problems and a roughneck on the Viking crew has a career-threatening injury.</desc>
-    <date>20130213</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/BlackGold_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023043634 +0000" stop="20251023052704 +0000">
-    <title>Black Gold</title>
-    <sub-title>Blood and Guts</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Driller Justin has doubts about his rig’s worm. The Viking rig struggles to reach total depth.</desc>
-    <date>20080709</date>
-    <icon src="https://image.tmdb.org/t/p/original/pJDYzKPAtO39YpHbTmeb8td4TLi.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023052704 +0000" stop="20251023061734 +0000">
-    <title>Black Gold</title>
-    <sub-title>Enough is Enough</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Two roughnecks are injured on Viking. On Longhorn, roughnecks are pushed past their breaking point.</desc>
-    <date>20080716</date>
-    <icon src="https://image.tmdb.org/t/p/original/AbocB3lcVzWGh9p2pEs1jNJTEFK.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023061734 +0000" stop="20251023071208 +0000">
-    <title>Monster Garage</title>
-    <sub-title>Figure 8 Racer</sub-title>
-    <episode-num system="onscreen">S03E07</episode-num>
-    <desc>Jesse and the crew armor plate a 1971 El Camino in hopes it can survive serious damage.</desc>
-    <date>20040927</date>
-    <icon src="https://image.tmdb.org/t/p/original/zlJdrzpdlQSSxHoGicSBIM1eVdm.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023071208 +0000" stop="20251023080641 +0000">
-    <title>Monster Garage</title>
-    <sub-title>Mercedes/Handicap</sub-title>
-    <episode-num system="onscreen">S03E08</episode-num>
-    <desc>The team transforms a Mercedes ML320, into a car accessible by anyone in a wheelchair.</desc>
-    <date>20041011</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/MonsterGarage_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023080641 +0000" stop="20251023085655 +0000">
-    <title>Verminators</title>
-    <sub-title>Bed Bugs Bite</sub-title>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <desc>Mike and the team travel to a bed bug-infested apartment complex in Bakersfield.</desc>
-    <date>20090927</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/Verminators_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023085655 +0000" stop="20251023094709 +0000">
-    <title>Verminators</title>
-    <sub-title>Trial By Rat</sub-title>
-    <episode-num system="onscreen">S02E11</episode-num>
-    <desc>A family is ready to move into their new home when Mike discovers the house is infested with rats.</desc>
-    <date>20090715</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/Verminators_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023094709 +0000" stop="20251023103742 +0000">
-    <title>America's Port</title>
-    <sub-title>Crane Breakdown</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Chief Port Pilot Captain Rubino counts on Captain Mike Wilsons 105-foot tugboat to tow.</desc>
-    <date>20080512</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/AmericasPort_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023103742 +0000" stop="20251023112813 +0000">
-    <title>America's Port</title>
-    <sub-title>Black Market Bust</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Dr. Knatz looks a ship that plugs in to use ampalternative maritime power.</desc>
-    <date>20080519</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/AmericasPort_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023112813 +0000" stop="20251023121845 +0000">
-    <title>America's Port</title>
-    <sub-title>Missing Man</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>A man from Hollywood is missing and Port Police divers scour the marina searching for a body.</desc>
-    <date>20080406</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/AmericasPort_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023121845 +0000" stop="20251023130917 +0000">
-    <title>America's Port</title>
-    <sub-title>Bomb Sweep</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Cunard’s Queen Victoria, “target-rich” in counter-terrorism terms.</desc>
-    <date>20080407</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/AmericasPort_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023130917 +0000" stop="20251023140553 +0000">
-    <title>Monster Nation</title>
-    <sub-title>Episode 11</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Monster Nation features Harley drag racing and car dancers.</desc>
-    <date>20041116</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/MonsterNation_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023140553 +0000" stop="20251023150229 +0000">
-    <title>Monster Nation</title>
-    <sub-title>Episode 12</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Monster Nation features speedster and RobOlympics.</desc>
-    <date>20041117</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/MonsterNation_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023150229 +0000" stop="20251023155902 +0000">
-    <title>Monster House</title>
-    <sub-title>Soccer House</sub-title>
-    <episode-num system="onscreen">S02E16</episode-num>
-    <desc>Goooooaaaaaaallllll! A family of soccer fanatics get their dream home.</desc>
-    <date>20040705</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/MonsterHouse_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023155902 +0000" stop="20251023165535 +0000">
-    <title>Monster House</title>
-    <sub-title>Shark House</sub-title>
-    <episode-num system="onscreen">S02E17</episode-num>
-    <desc>Dunh dunh, dunh dunh, dunh dunh... Can we send a living room beneath the sea?</desc>
-    <date>20040726</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/MonsterHouse_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023165535 +0000" stop="20251023172436 +0000">
-    <title>Storage Wars: Northern Treasures</title>
-    <sub-title>Crazy From The Heat</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>One way or another, all the buyers get burned on the hottest auction day of the year.</desc>
-    <date>20131031</date>
-    <icon src="https://image.tmdb.org/t/p/original/AfjhsaCxwH0fZELcxGjm6PZ7PYI.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023172436 +0000" stop="20251023175339 +0000">
-    <title>Storage Wars: Northern Treasures</title>
-    <sub-title>The Thrilla in Clairevilla</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>It’s father vs. son as Paul challenges Bogart to see who can get the best locker.</desc>
-    <date>20131107</date>
-    <icon src="https://image.tmdb.org/t/p/original/y224x64uOa1FtOOFraEAVus1vpI.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023175339 +0000" stop="20251023182241 +0000">
-    <title>Storage Wars: Northern Treasures</title>
-    <sub-title>Big Cow Trouble in Little Ajax</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>The grand opening of Paul and Bogart’s store finally arrives, but a kink is put into their plans.</desc>
-    <date>20131114</date>
-    <icon src="https://image.tmdb.org/t/p/original/sJRPuy5maaOVNg6NiGPy3e0Jzvn.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023182241 +0000" stop="20251023185143 +0000">
-    <title>Storage Wars: Northern Treasures</title>
-    <sub-title>All Out Storage War</sub-title>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <desc>Tempers flare and prices soar as the buyers confront aggressive guest auctioneer Jeff Schwartz.</desc>
-    <date>20140112</date>
-    <icon src="https://image.tmdb.org/t/p/original/mI7p4w9pp1cT8UcPmGYF0oMmxJK.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023185143 +0000" stop="20251023192044 +0000">
-    <title>Storage Wars: Northern Treasures</title>
-    <sub-title>Canadian Pecker</sub-title>
-    <episode-num system="onscreen">S01E14</episode-num>
-    <desc>Guest auctioneer Patrick Pecker brings “the full Pecker” to the auction, fuelling his feud with Roy.</desc>
-    <date>20140116</date>
-    <icon src="https://image.tmdb.org/t/p/original/1kWkJ80ErCDTdnQG4VbHcGswulQ.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023192044 +0000" stop="20251023194945 +0000">
-    <title>Storage Wars: Northern Treasures</title>
-    <sub-title>A-Locker-Lypse Now</sub-title>
-    <episode-num system="onscreen">S01E15</episode-num>
-    <desc>Roy suits up in full army gear to declare war on the buyers in Scarborough.</desc>
-    <date>20140123</date>
-    <icon src="https://image.tmdb.org/t/p/original/aTCCeumUcD5Gkf1ysloaX3peTvd.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023194945 +0000" stop="20251023201846 +0000">
-    <title>Storage Wars: Northern Treasures</title>
-    <sub-title>Even Veterans Get The Blues</sub-title>
-    <episode-num system="onscreen">S01E16</episode-num>
-    <desc>Roy’s paltry gifts are no match for Cindy’s foul mood at the auction in Scarborough.</desc>
-    <date>20140130</date>
-    <icon src="https://image.tmdb.org/t/p/original/7dlUPQIQpysrzIWBiNCzuhNijio.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023201846 +0000" stop="20251023210831 +0000">
-    <title>Wild Justice</title>
-    <sub-title>Boozin' &amp; Snoozin'</sub-title>
-    <episode-num system="onscreen">S03E02</episode-num>
-    <desc>Wardens confront deer poachers and a wanted man with an unusual stash.</desc>
-    <date>20120618</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/bbdd92731a70f0c60f5855cb01b1d5c0.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023210831 +0000" stop="20251023215813 +0000">
-    <title>Wild Justice</title>
-    <sub-title>Quicksand</sub-title>
-    <episode-num system="onscreen">S03E03</episode-num>
-    <desc>California Fish and Game wardens hunt down a wanted felon and rescue a cow.</desc>
-    <date>20120415</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/937c7010e66232095d220f5de46eb987.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023215813 +0000" stop="20251023224758 +0000">
-    <title>Wild Justice</title>
-    <sub-title>Bearly Legal</sub-title>
-    <episode-num system="onscreen">S03E04</episode-num>
-    <desc>California Fish and Game wardens track down bear hunters and do a necropsy on an eagle.</desc>
-    <date>20120625</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/fd842655f7c98be44e6173954c137708.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023224758 +0000" stop="20251023233759 +0000">
-    <title>Swords: Life on the Line</title>
-    <sub-title>Gamblers and Legends</sub-title>
-    <episode-num system="onscreen">S03E01</episode-num>
-    <desc>Linda and Scotty renew their friendly rivalry, and Slick suffers with a clumsy greenhorn crew.</desc>
-    <date>20110907</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/SwordsLifeOnTheLine_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251023233759 +0000" stop="20251024002759 +0000">
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251023233759 +0000" stop="20251024002759 +0000">
     <title>Swords: Life on the Line</title>
     <sub-title>Long Lines and Short Tempers</sub-title>
     <episode-num system="onscreen">S03E02</episode-num>
@@ -275,12 +14,282 @@
     <icon src="https://d3b6szcg0ko948.cloudfront.net/SwordsLifeOnTheLine_1920x1080.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20251024002759 +0000" stop="20251024011759 +0000">
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024002759 +0000" stop="20251024011759 +0000">
     <title>Swords: Life on the Line</title>
     <sub-title>Storm of the Century</sub-title>
     <episode-num system="onscreen">S03E03</episode-num>
     <desc>The biggest hurricane system since the "Perfect Storm" unleashes its fury across the North Atlantic.</desc>
     <date>20110921</date>
+    <icon src="https://d3b6szcg0ko948.cloudfront.net/SwordsLifeOnTheLine_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024011759 +0000" stop="20251024020915 +0000">
+    <title>Jay Leno's Garage</title>
+    <sub-title>Pony Cars</sub-title>
+    <episode-num system="onscreen">S08E16</episode-num>
+    <desc>Jay loves when Gabriel Iglesias visits to relive youthful rides and share laughs on Jay Leno's Garage.</desc>
+    <date>20241009</date>
+    <icon src="https://d3b6szcg0ko948.cloudfront.net/Jay_Lenos_Garage_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024020915 +0000" stop="20251024030053 +0000">
+    <title>Jay Leno's Garage</title>
+    <sub-title>In The Line of Duty</sub-title>
+    <episode-num system="onscreen">S08E17</episode-num>
+    <desc>Banned from drag strips, the Dodge Demon 170 and Jay's 27L WWII Rolls-Royce Merlin engine impress.</desc>
+    <date>20241010</date>
+    <icon src="https://d3b6szcg0ko948.cloudfront.net/Jay_Lenos_Garage_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024030053 +0000" stop="20251024034918 +0000">
+    <title>Jay Leno's Garage</title>
+    <sub-title>Armed and Dangerous</sub-title>
+    <episode-num system="onscreen">S08E18</episode-num>
+    <desc>If wheels could talk, they'd share racing tales. Mike Joy and Dr. Nagamatsu preserve Old Yeller II.</desc>
+    <date>20241010</date>
+    <icon src="https://d3b6szcg0ko948.cloudfront.net/Jay_Lenos_Garage_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024034918 +0000" stop="20251024043947 +0000">
+    <title>Black Gold</title>
+    <sub-title>An Accident Waiting to Happen</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Big Dog moves to its new home, but old tensions flare. Josh and his crew take over on the Longhorn.</desc>
+    <date>20080723</date>
+    <icon src="https://image.tmdb.org/t/p/original/kyPIzZ2pusZux7Y8TlQV2kRP5zP.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024043947 +0000" stop="20251024053017 +0000">
+    <title>Black Gold</title>
+    <sub-title>Hitting Bottom</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Justin is losing patience with Derek. Wayne’s crew faces a crisis that could cost them the well.</desc>
+    <date>20080730</date>
+    <icon src="https://image.tmdb.org/t/p/original/iDVQfHJsgaX11t9Y9cs4F7OROrs.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024053017 +0000" stop="20251024062048 +0000">
+    <title>Black Gold</title>
+    <sub-title>The Big Strike</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>On Longhorn, Josh’s performance jeopardizes his crew. The Viking rig makes an unexpected find.</desc>
+    <date>20080806</date>
+    <icon src="https://image.tmdb.org/t/p/original/cz80ETF6dLF2pTftkRRMLy8rG2b.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024062048 +0000" stop="20251024071521 +0000">
+    <title>Monster Garage</title>
+    <sub-title>Deplorean</sub-title>
+    <episode-num system="onscreen">S03E09</episode-num>
+    <desc>Jesse and the guys take on a 1982 DeLorean DMC 12 and transform it into a hovercraft.</desc>
+    <date>20041018</date>
+    <icon src="https://image.tmdb.org/t/p/original/6SF3Qc548p4usVGKfpwmUZWU6Pj.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024071521 +0000" stop="20251024080954 +0000">
+    <title>Monster Garage</title>
+    <sub-title>Grim Reaper II</sub-title>
+    <episode-num system="onscreen">S03E10</episode-num>
+    <desc>The team gets a second chance to prove they can complete a Monster that didn’t work the first time.</desc>
+    <date>20041025</date>
+    <icon src="https://d3b6szcg0ko948.cloudfront.net/MonsterGarage_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024080954 +0000" stop="20251024090008 +0000">
+    <title>Verminators</title>
+    <sub-title>They're Not Your Friends</sub-title>
+    <episode-num system="onscreen">S02E12</episode-num>
+    <desc>A mother get a wake up call when rats threaten her daughter.</desc>
+    <date>20091207</date>
+    <icon src="https://d3b6szcg0ko948.cloudfront.net/Verminators_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024090008 +0000" stop="20251024095022 +0000">
+    <title>Verminators</title>
+    <sub-title>Lights! Camera! Vermin!</sub-title>
+    <episode-num system="onscreen">S02E13</episode-num>
+    <desc>Gary helps a horror director get over his fear of rats and spiders.</desc>
+    <date>20090913</date>
+    <icon src="https://d3b6szcg0ko948.cloudfront.net/Verminators_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024095022 +0000" stop="20251024104038 +0000">
+    <title>Motor City Motors</title>
+    <sub-title>Spider</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>The Brothers attempt their most bizarre build to date: a giant, walking mechanical spider.</desc>
+    <date>20100405</date>
+    <icon src="https://d3b6szcg0ko948.cloudfront.net/MotorCityMotors_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024104038 +0000" stop="20251024113055 +0000">
+    <title>Motor City Motors</title>
+    <sub-title>Ice Bikes</sub-title>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <desc>Jamie and Dave are at it again, but this time things have gotten cold – ice cold.</desc>
+    <date>20100406</date>
+    <icon src="https://d3b6szcg0ko948.cloudfront.net/MotorCityMotors_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024113055 +0000" stop="20251024122112 +0000">
+    <title>Motor City Motors</title>
+    <sub-title>The Gasser</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>The Detroit Brothers give five local down-on-their-luck guys a chance to win $5k in tools.</desc>
+    <date>20091228</date>
+    <icon src="https://vod-static.plex.tv/thumbnails/62be08785e5872e950993200/2f935268-ffac-4898-a02e-6323989f1cf8thumb2.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024122112 +0000" stop="20251024131128 +0000">
+    <title>Motor City Motors</title>
+    <sub-title>Asphalter</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Dave and Jamie attempt to mend the broken streets of Detroit.</desc>
+    <date>20100104</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/23ba1d712562db2c623acff53081c2b5.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024131128 +0000" stop="20251024140805 +0000">
+    <title>Monster Nation</title>
+    <sub-title>Episode 13</sub-title>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <desc>Monster Nation features good old boys and flying cars.</desc>
+    <date>20041118</date>
+    <icon src="https://d3b6szcg0ko948.cloudfront.net/MonsterNation_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024140805 +0000" stop="20251024150441 +0000">
+    <title>Monster Nation</title>
+    <sub-title>Episode 14</sub-title>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <desc>Monster Nation features bike builder and rock crawlers.</desc>
+    <date>20041119</date>
+    <icon src="https://d3b6szcg0ko948.cloudfront.net/MonsterNation_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024150441 +0000" stop="20251024160114 +0000">
+    <title>Monster House</title>
+    <sub-title>Dog House: Part 1</sub-title>
+    <episode-num system="onscreen">S02E18</episode-num>
+    <desc>We needed 2 full hours to cover the drama when our builders got another chance to redeem themselves.</desc>
+    <date>20041220</date>
+    <icon src="https://d3b6szcg0ko948.cloudfront.net/MonsterHouse_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024160114 +0000" stop="20251024165545 +0000">
+    <title>Monster House</title>
+    <sub-title>Doghouse Part 2</sub-title>
+    <episode-num system="onscreen">S03E01</episode-num>
+    <desc>Continuation of the dog-themed house transformation.</desc>
+    <date>20050603</date>
+    <icon src="https://d3b6szcg0ko948.cloudfront.net/MonsterHouse_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024165545 +0000" stop="20251024172449 +0000">
+    <title>Storage Wars: Northern Treasures</title>
+    <sub-title>The Seven Habits of Highly Effective Instigators</sub-title>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <desc>The Thornhill buyers run for cover when a self-help CD gives Roy a new lease on his egomaniacal life.</desc>
+    <date>20140206</date>
+    <icon src="https://image.tmdb.org/t/p/original/i6Frml2K7o2QQxmZnCIcmsoYBuS.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024172449 +0000" stop="20251024175348 +0000">
+    <title>Storage Wars: Northern Treasures</title>
+    <sub-title>Fast Times at Storage High</sub-title>
+    <episode-num system="onscreen">S01E18</episode-num>
+    <desc>A Brampton auction near some of the gang’s old high school proves they’re all still rowdy teenagers.</desc>
+    <date>20140213</date>
+    <icon src="https://image.tmdb.org/t/p/original/8n3MpcehrmmOEAh64hDkh22zvRn.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024175348 +0000" stop="20251024182251 +0000">
+    <title>Storage Wars: Northern Treasures</title>
+    <sub-title>Com-Paul-Sive Behaviour</sub-title>
+    <episode-num system="onscreen">S01E19</episode-num>
+    <desc>Paul’s locker addiction reaches new highs (and lows) at the Wasaga Beach auction.</desc>
+    <date>20140220</date>
+    <icon src="https://image.tmdb.org/t/p/original/7YCamSwjkVwShgi7Y1LEtNnGWOa.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024182251 +0000" stop="20251024185152 +0000">
+    <title>Storage Wars: Northern Treasures</title>
+    <sub-title>Psychic Psych Out</sub-title>
+    <episode-num system="onscreen">S01E20</episode-num>
+    <desc>Rick and Cindy bring a psychic to help them land the best lockers in Don Mills.</desc>
+    <date>20140227</date>
+    <icon src="https://image.tmdb.org/t/p/original/9L3aUFnORKJ1kgdb6W4vN0qCnDT.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024185152 +0000" stop="20251024192052 +0000">
+    <title>Storage Wars: Northern Treasures</title>
+    <sub-title>Cold Turkeys</sub-title>
+    <episode-num system="onscreen">S01E21</episode-num>
+    <desc>Rick and Cindy try to give up smoking at an auction in Leslieville.</desc>
+    <date>20140306</date>
+    <icon src="https://image.tmdb.org/t/p/original/rdTvW6HNDwhAeBU3UtydMjcbYMu.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024192052 +0000" stop="20251024194953 +0000">
+    <title>Storage Wars: Northern Treasures</title>
+    <sub-title>Worst Best Man Ever</sub-title>
+    <episode-num system="onscreen">S01E22</episode-num>
+    <desc>A wedding-bound Roy arrives at a Guelph auction in his tuxedo.</desc>
+    <date>20140313</date>
+    <icon src="https://image.tmdb.org/t/p/original/3F2MpxkSeFC5dENPPOfH34xbpjP.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024194953 +0000" stop="20251024201855 +0000">
+    <title>Storage Wars: Northern Treasures</title>
+    <sub-title>The Lame, Sick and The Crazy</sub-title>
+    <episode-num system="onscreen">S01E23</episode-num>
+    <desc>With Bogart on crutches and Cindy nursing a cold, it’s a tough day at the auction.</desc>
+    <date>20140320</date>
+    <icon src="https://image.tmdb.org/t/p/original/9ecxhKanejo3ZsIOEavnfd1vEyU.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024201855 +0000" stop="20251024210838 +0000">
+    <title>Wild Justice</title>
+    <sub-title>Later, Baiter</sub-title>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <desc>An inhumane bobcat trapper; orphaned baby bobcats; poaching raid in the black market; a dead mountain lion.</desc>
+    <date>20120820</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/4abea1230e903936bb22c9500484126b.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024210838 +0000" stop="20251024215822 +0000">
+    <title>Wild Justice</title>
+    <sub-title>Meth Madness</sub-title>
+    <episode-num system="onscreen">S03E06</episode-num>
+    <desc>Wardens save a dog from venom and chase a trophy buck poacher across states.</desc>
+    <date>20120702</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6d2fb75aded43599b67f2c50803ce407.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024215822 +0000" stop="20251024224804 +0000">
+    <title>Wild Justice</title>
+    <sub-title>Undercover Cat</sub-title>
+    <episode-num system="onscreen">S03E07</episode-num>
+    <desc>Wardens foil pre-season fish plundering and undercover, halt exotic animal trade.</desc>
+    <date>20120709</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/61acbff86a611b6142503b960a8188b5.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024224804 +0000" stop="20251024233804 +0000">
+    <title>Swords: Life on the Line</title>
+    <sub-title>With Friends Like These</sub-title>
+    <episode-num system="onscreen">S03E04</episode-num>
+    <desc>Linda's decision to ride out Igor on the grounds has her in a prime spot: alone on the Grand Banks.</desc>
+    <date>20110928</date>
+    <icon src="https://d3b6szcg0ko948.cloudfront.net/SwordsLifeOnTheLine_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66a2d97c94b6a49cb5054d77" start="20251024233804 +0000" stop="20251025002806 +0000">
+    <title>Swords: Life on the Line</title>
+    <sub-title>Charlie Foxtrot</sub-title>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <desc>Halfway through one of the worst fishing seasons in memory, every crew is put to the test.</desc>
+    <date>20111005</date>
     <icon src="https://d3b6szcg0ko948.cloudfront.net/SwordsLifeOnTheLine_1920x1080.jpg" />
   </programme>
   

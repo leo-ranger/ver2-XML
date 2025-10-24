@@ -1,262 +1,361 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25">
+<channel id="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25">
     <display-name>Grit Xtra</display-name>
     <icon src="https://provider-static.plex.tv/5/epg/channels/logos/gracenote/5fce72f97ee456426ac8e0d890050bdd.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023000000 +0000" stop="20251023023000 +0000">
-    <title>Geronimo</title>
-    <category>Movie</category>
-    <desc>The Apache chief (Chuck Connors) escapes to Mexico with his mate (Kamala Devi), his warriors and his right-hand man (Ross Martin).</desc>
-    <date>19620102</date>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/cab73f745fbeca007c552b80c4c1f214.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023023000 +0000" stop="20251023040000 +0000">
-    <title>Tomahawk Trail</title>
-    <category>Movie</category>
-    <desc>A trailwise cavalry sergeant must take charge when his commanding officer goes crazy following an Indian attack.</desc>
-    <date>19570102</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/a6bcc2764f5c981065eadb7e040f8036.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023040000 +0000" stop="20251023060000 +0000">
-    <title>Roughshod</title>
-    <category>Movie</category>
-    <desc>An escaped convict tracks two brothers (Robert Sterling, Claude Jarman Jr.) herding horses and four stranded dance-hall hostesses.</desc>
-    <date>19490102</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/56b39032c72e49c97af79f33d37cf4fc.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023060000 +0000" stop="20251023080000 +0000">
-    <title>Fort Bowie</title>
-    <category>Movie</category>
-    <desc>A cavalry captain's (Ben Johnson) colonel (Kent Taylor) sends him on a suicide mission in Apache country.</desc>
-    <date>19580102</date>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c5b73fcd25f7d0d41966c82680edf2fd.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023080000 +0000" stop="20251023083000 +0000">
-    <title>The Roy Rogers Show</title>
-    <sub-title>Badman's Brother</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Dale and Roy must convince an 11-year-old boy help catch his outlaw brother.</desc>
-    <date>19520210</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023083000 +0000" stop="20251023090000 +0000">
-    <title>The Roy Rogers Show</title>
-    <sub-title>The Unwilling Outlaw</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>A bank employee (Stanford Jolley) is forced to join a gang after being framed for embezzlement.</desc>
-    <date>19520308</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023090000 +0000" stop="20251023093000 +0000">
-    <title>The Roy Rogers Show</title>
-    <sub-title>Carnival Killer</sub-title>
-    <episode-num system="onscreen">S01E22</episode-num>
-    <desc>A young carnival worker is framed for the murder of his boss.</desc>
-    <date>19520608</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/a60e21af4c2a237762364d0b515e3271.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023093000 +0000" stop="20251023100000 +0000">
-    <title>The Roy Rogers Show</title>
-    <sub-title>Flying Bullets</sub-title>
-    <episode-num system="onscreen">S01E23</episode-num>
-    <desc>Pat Brady is elected sheriff just in time to catch a notorious killer.</desc>
-    <date>19520615</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023100000 +0000" stop="20251023103000 +0000">
-    <title>Hopalong Cassidy</title>
-    <sub-title>Knife of Carlos Valero</sub-title>
-    <episode-num system="onscreen">S01E14</episode-num>
-    <desc>Hoppy believes a young Mexican murder suspect has been framed.</desc>
-    <date>19520925</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/8473df16516ca77a53c2115678c89e17.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023103000 +0000" stop="20251023123000 +0000">
-    <title>Fort Yuma</title>
-    <category>Movie</category>
-    <desc>Apaches plan to attack a fort by wearing uniforms plundered from a cavalry officer's (Peter Graves) supply column.</desc>
-    <date>19550102</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/dd622670a91820aaafa4167db21c69df.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023123000 +0000" stop="20251023150000 +0000">
-    <title>Three Violent People</title>
-    <category>Movie</category>
-    <desc>A rancher (Charlton Heston), his shady bride (Anne Baxter) and his one-armed brother (Tom Tryon) fight amid carpetbaggers in Texas.</desc>
-    <date>19560102</date>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/e44ceeb7348b9130d65e0dbcc19d9075.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023150000 +0000" stop="20251023153000 +0000">
-    <title>The Californians</title>
-    <sub-title>The Street</sub-title>
-    <episode-num system="onscreen">S01E26</episode-num>
-    <desc>Matt unknowingly appoints a man hired to kill him as a policeman.</desc>
-    <date>19580325</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/70f87a7c27b72747155adfcc633e09ae.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023153000 +0000" stop="20251023160000 +0000">
-    <title>The Californians</title>
-    <sub-title>J. Jimmerson Jones, Inc.</sub-title>
-    <episode-num system="onscreen">S01E27</episode-num>
-    <desc>A prospector goes to great lengths to avoid paying debts.</desc>
-    <date>19580401</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/4db4685cadd1533d4ee5b6521cce46a7.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023160000 +0000" stop="20251023163000 +0000">
-    <title>The Californians</title>
-    <sub-title>Skeleton in the Closet</sub-title>
-    <episode-num system="onscreen">S01E28</episode-num>
-    <desc>Blackmailer has been murdered and his victims are suspects.</desc>
-    <date>19580408</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/56afca1f3ea426a6fc206bd0bd32ca83.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023163000 +0000" stop="20251023170000 +0000">
-    <title>The Californians</title>
-    <sub-title>Pipeline</sub-title>
-    <episode-num system="onscreen">S01E29</episode-num>
-    <desc>Doc Haley tangles with the owner of the water company regarding impure water.</desc>
-    <date>19580422</date>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/e04299dbfbf5e5fb846b0432da423bdd.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023170000 +0000" stop="20251023173000 +0000">
-    <title>Tombstone Territory</title>
-    <sub-title>The Black Marshal From Deadwood</sub-title>
-    <episode-num system="onscreen">S01E37</episode-num>
-    <desc>Sheriff Hollister is concerned when Marshal Daggett, the Black marshal of Deadwood, arrives in Tombstone to settle down as a rancher.</desc>
-    <date>19580903</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023173000 +0000" stop="20251023180000 +0000">
-    <title>Tombstone Territory</title>
-    <sub-title>Thicker Than Water</sub-title>
-    <episode-num system="onscreen">S01E38</episode-num>
-    <desc>Hollister is left for dead in the dessert by an alleged murderer and his brother.</desc>
-    <date>19580910</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023180000 +0000" stop="20251023183000 +0000">
-    <title>The Rifleman</title>
-    <sub-title>Lou Mallory</sub-title>
-    <episode-num system="onscreen">S05E03</episode-num>
-    <desc>Lou Mallory, a stunning redhead, arrives in North Fork and buys the hotel.</desc>
-    <date>19621015</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5864f7e41af13f0c4c9b4949819b4ac2.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023183000 +0000" stop="20251023190000 +0000">
-    <title>The Rifleman</title>
-    <sub-title>Quiet Night, Deadly Night</sub-title>
-    <episode-num system="onscreen">S05E04</episode-num>
-    <desc>Lucas and several others are trapped in the hotel with a dangerous outlaw.</desc>
-    <date>19621022</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/076010e9ae8a3e546d5ba7c96536c7f5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023190000 +0000" stop="20251023193000 +0000">
-    <title>The Rifleman</title>
-    <sub-title>Death Never Rides Alone</sub-title>
-    <episode-num system="onscreen">S05E05</episode-num>
-    <desc>A former gunfighter arrives in North Fork with the intention of settling down.</desc>
-    <date>19621029</date>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/252c94d92718e57d6017ec4abff59132.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023193000 +0000" stop="20251023200000 +0000">
-    <title>The Rifleman</title>
-    <sub-title>I Take This Woman</sub-title>
-    <episode-num system="onscreen">S05E06</episode-num>
-    <desc>A charming Irishman claims Lou for his bride.</desc>
-    <date>19621105</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/8bfef21cdf00e79148af910072295ece.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023200000 +0000" stop="20251023203000 +0000">
-    <title>Yancy Derringer</title>
-    <sub-title>The Wayward Warrior</sub-title>
-    <episode-num system="onscreen">S01E28</episode-num>
-    <desc>Coco LaSalle convinces Yancy to back her fighter in an illegal boxing match.</desc>
-    <date>19590416</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/653cdf51410eeba5cd182b5df0d19d44.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023203000 +0000" stop="20251023210000 +0000">
-    <title>Yancy Derringer</title>
-    <sub-title>A State of Crisis</sub-title>
-    <episode-num system="onscreen">S01E29</episode-num>
-    <desc>General Wheeler heads to New Orleans under orders to break up a nation-wide counterfeiting gang.</desc>
-    <date>19590430</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/16047b8790dd5cfd64ac8a8d8eb01bbc.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023210000 +0000" stop="20251023213000 +0000">
-    <title>Bat Masterson</title>
-    <sub-title>Buffalo Kill</sub-title>
-    <episode-num system="onscreen">S01E37</episode-num>
-    <desc>When Bat replaces the leader of buffalo hunters as they roam Indian territory, the former leader retaliates by framing Bat for the murder of a Sioux.</desc>
-    <date>19590729</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d0a198f136a0387c1c1140b2294c8c11.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023213000 +0000" stop="20251023220000 +0000">
-    <title>Bat Masterson</title>
-    <sub-title>The Canvas and the Cane</sub-title>
-    <episode-num system="onscreen">S02E11</episode-num>
-    <desc>Bat's attempt to expose a forged painting purchased by a friend takes a dark turn when he becomes the prime suspect in the murder of an art critic.</desc>
-    <date>19591217</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1d6ca05b613f90bb2551fcfa9daaad29.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023220000 +0000" stop="20251023223000 +0000">
-    <title>The Texan</title>
-    <sub-title>The Stampede</sub-title>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <desc>Bill is hired to drive a cattle herd to Abilene, but he must contend with two big problems: a hostile trail hand and a rival drive whose leader will stop at nothing to ensure that his herd gets to Abilene first.</desc>
-    <date>19591102</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023223000 +0000" stop="20251023230000 +0000">
-    <title>The Texan</title>
-    <sub-title>Showdown At Abilene</sub-title>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <desc>After failing in an attempt to ambush Bill, Bishop pays a band of Native Americans to attack the Akins herd, hoping to scatter the cattle and prevent them from reaching Abilene first.</desc>
-    <date>19591109</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023230000 +0000" stop="20251023233000 +0000">
-    <title>The Texan</title>
-    <sub-title>Trouble On The Trail</sub-title>
-    <episode-num system="onscreen">S02E11</episode-num>
-    <desc>Still leading the cattle drive, Bill takes his herd across a powerful rancher's land; he finds a woman who claims she is fleeing from a rancher's advances, but he learns that she isn't telling the whole truth.</desc>
-    <date>19591123</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251023233000 +0000" stop="20251024000000 +0000">
-    <title>The Texan</title>
-    <sub-title>Cowards Don't Die</sub-title>
-    <episode-num system="onscreen">S02E12</episode-num>
-    <desc>A former lawman who lost his nerve after a shooting incident is being harassed by brothers of a man he once killed; the ex-lawman's daughter refuses to let him fight back.</desc>
-    <date>19591130</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" start="20251024000000 +0000" stop="20251024020000 +0000">
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024000000 +0000" stop="20251024020000 +0000">
     <title>Devil's Canyon</title>
     <category>Movie</category>
     <desc>An outlaw woman (Virginia Mayo) helps one Arizona convict (Dale Robertson) stop another (Stephen McNally) with a Gatling gun.</desc>
     <date>19530102</date>
     <icon src="https://metadata-static.plex.tv/b/gracenote/b025cbcc73cd1cfc9472add0168a38b6.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024020000 +0000" stop="20251024040000 +0000">
+    <title>Thunder Over Arizona</title>
+    <category>Movie</category>
+    <desc>Taken for a gunfighter, a cowboy (Skip Homeier) helps an orphan (Kristine Miller) and her brothers guard their silver mine.</desc>
+    <date>19560102</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d844b82087b16deb4d99b53f168aaa81.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024040000 +0000" stop="20251024043000 +0000">
+    <title>The Texan</title>
+    <sub-title>Border Incident</sub-title>
+    <episode-num system="onscreen">S02E13</episode-num>
+    <desc>Bill travels to Ciudad Juarez to accept a job from a cattleman, only to find out he's actually been hired to become a scapegoat in a counterfeiting scheme.</desc>
+    <date>19591207</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/909b2a0e8839835b4a11a3acea4ccb58.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024043000 +0000" stop="20251024050000 +0000">
+    <title>The Texan</title>
+    <sub-title>Dangerous Ground</sub-title>
+    <episode-num system="onscreen">S02E14</episode-num>
+    <desc>A rancher warns Bill and the railroad workers not to put track down through the land his cattle graze on, even though it is government land; he shoots one of the workers, which sends the rest of the workers into a lynching mood.</desc>
+    <date>19591214</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024050000 +0000" stop="20251024053000 +0000">
+    <title>The Texan</title>
+    <sub-title>End Of The Track</sub-title>
+    <episode-num system="onscreen">S02E15</episode-num>
+    <desc>Bill tries to find out who's supplying whiskey to railroad workers during their working hours in order to halt railroad progress; he first suspects a saloon owner, but it becomes clear she's not the guilty party.</desc>
+    <date>19591221</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024053000 +0000" stop="20251024060000 +0000">
+    <title>The Texan</title>
+    <sub-title>Friend Of The Family</sub-title>
+    <episode-num system="onscreen">S02E17</episode-num>
+    <desc>Bill agrees to take his former Civil War commander's oldest son with him to make a man out of him; Bill quickly detects the son has an intense bitterness towards his father.</desc>
+    <date>19600104</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c3f5bc34a3ab9a3d59e89f9c703fc088.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024060000 +0000" stop="20251024063000 +0000">
+    <title>Shotgun Slade</title>
+    <sub-title>Killer's Brand</sub-title>
+    <episode-num system="onscreen">S01E33</episode-num>
+    <desc>A rancher whose foreman is murdered asks Slade for help.</desc>
+    <date>20250417</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/2c3174ea5a581d6436671f2e118e3324.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024063000 +0000" stop="20251024070000 +0000">
+    <title>Shotgun Slade</title>
+    <sub-title>A Flower on Boot Hill</sub-title>
+    <episode-num system="onscreen">S01E34</episode-num>
+    <desc>Slade is attacked by escaped bank robbers looking for their partner who has hidden their loot.</desc>
+    <date>20250417</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/248fee0266a396d0005ad197651b2100.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024070000 +0000" stop="20251024073000 +0000">
+    <title>Shotgun Slade</title>
+    <sub-title>Charcoal Bullet</sub-title>
+    <episode-num system="onscreen">S01E35</episode-num>
+    <desc>A drunken artist (Ned Glass) provides a critical clue to a bank robbery.</desc>
+    <date>20240716</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024073000 +0000" stop="20251024080000 +0000">
+    <title>Shotgun Slade</title>
+    <sub-title>Lost Gold</sub-title>
+    <episode-num system="onscreen">S01E36</episode-num>
+    <desc>Slade is hired to find out who is stealing gold ore from a mining company.</desc>
+    <date>20250417</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024080000 +0000" stop="20251024083000 +0000">
+    <title>Hopalong Cassidy</title>
+    <sub-title>The Trap</sub-title>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <desc>A former cellmate blackmails an ex-con engaged to an heiress.</desc>
+    <date>19520926</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/99eac77cc4aa167b3c46b024a07713a9.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024083000 +0000" stop="20251024090000 +0000">
+    <title>Hopalong Cassidy</title>
+    <sub-title>Alien Range</sub-title>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <desc>A gang of thieves fuels resentment against successful immigrant ranchers.</desc>
+    <date>19521001</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6199f37141b58bf0476b8f7172e489cc.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024090000 +0000" stop="20251024093000 +0000">
+    <title>Hopalong Cassidy</title>
+    <sub-title>The Feud</sub-title>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <desc>A murderer frames a rancher to steal his ranch and wife.</desc>
+    <date>19521014</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a1bffa2448d6908b57058a0b7d221695.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024093000 +0000" stop="20251024100000 +0000">
+    <title>Hopalong Cassidy</title>
+    <sub-title>Ghost Trails</sub-title>
+    <episode-num system="onscreen">S01E18</episode-num>
+    <desc>On several occasions, the same three men seem to disappear just after a robbery occurs and Hopalong Cassidy sets out to prove another man is behind the series of robberies.</desc>
+    <date>19521021</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f30eebfd86cd91975dd931a1a3a99528.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024100000 +0000" stop="20251024103000 +0000">
+    <title>Hopalong Cassidy</title>
+    <sub-title>Marked Cards</sub-title>
+    <episode-num system="onscreen">S01E19</episode-num>
+    <desc>A saloon keeper is killed for allegedly using marked cards.</desc>
+    <date>19521028</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c59fefd3d2f82171f00a4e6cddbf7ce4.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024103000 +0000" stop="20251024110000 +0000">
+    <title>Hopalong Cassidy</title>
+    <sub-title>Don Colorado</sub-title>
+    <episode-num system="onscreen">S01E20</episode-num>
+    <desc>Hoppy is busy tending to Red, who was injured in a fall, and helping a pretty woman hold onto her copper mine.</desc>
+    <date>19521101</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e5d2e553d0e9aa12954c4cdccc971228.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024110000 +0000" stop="20251024113000 +0000">
+    <title>Hopalong Cassidy</title>
+    <sub-title>Black Waters</sub-title>
+    <episode-num system="onscreen">S01E21</episode-num>
+    <desc>Hoppy must locate an oil field on an Indian reservation.</desc>
+    <date>19521107</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af1db7d0b97565c72eb527bac1803b25.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024113000 +0000" stop="20251024120000 +0000">
+    <title>Hopalong Cassidy</title>
+    <sub-title>Blind Encounter</sub-title>
+    <episode-num system="onscreen">S01E22</episode-num>
+    <desc>A blind woman's son, framed for murder, hides from the law.</desc>
+    <date>19521201</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/21ed3e1c2db9eb3dc84b63ffe69fa844.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024120000 +0000" stop="20251024123000 +0000">
+    <title>Stories of the Century</title>
+    <sub-title>Little Britches</sub-title>
+    <episode-num system="onscreen">S01E22</episode-num>
+    <desc>A young woman meets an outlaw; Matt investigates a railroad holdup.</desc>
+    <date>19540617</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024123000 +0000" stop="20251024130000 +0000">
+    <title>Stories of the Century</title>
+    <sub-title>Black Jack Ketchum</sub-title>
+    <episode-num system="onscreen">S01E23</episode-num>
+    <desc>An outlaw convinces the son of a former gang-member to join his gang.</desc>
+    <date>19540624</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024130000 +0000" stop="20251024133000 +0000">
+    <title>Stories of the Century</title>
+    <sub-title>Tom Horn</sub-title>
+    <episode-num system="onscreen">S01E24</episode-num>
+    <desc>Matt's old friend, Tom Horn, turns into an outlaw and starts a land war.</desc>
+    <date>19540701</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024133000 +0000" stop="20251024140000 +0000">
+    <title>Stories of the Century</title>
+    <sub-title>Ben Thompson</sub-title>
+    <episode-num system="onscreen">S01E25</episode-num>
+    <desc>Matt and Frankie look into Ben Thompson's background; Matt gets a job at a gambling den to obtain evidence about Ben's criminal activities.</desc>
+    <date>19540708</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024140000 +0000" stop="20251024143000 +0000">
+    <title>Stories of the Century</title>
+    <sub-title>Clay Allison</sub-title>
+    <episode-num system="onscreen">S01E26</episode-num>
+    <desc>Matt arrests John Allison; Frankie's doctor is kidnapped; Clay falls into Matt's trap.</desc>
+    <date>19540715</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3081f1277ddeba3d60e32ec3cbbb86c7.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024143000 +0000" stop="20251024150000 +0000">
+    <title>Stories of the Century</title>
+    <sub-title>Burt Alvord</sub-title>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <desc>A train is robbed and money stolen; Matt Clark and Margaret Jones investigate; a shipment of dynamite is also reported missing.</desc>
+    <date>19550102</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024150000 +0000" stop="20251024153000 +0000">
+    <title>Stories of the Century</title>
+    <sub-title>Apache Kid</sub-title>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <desc>Matt and Margaret arrive at Fort Huachuca, Arizona to confer with Al Seiber in the murder of a ticket agent.</desc>
+    <date>19550109</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024153000 +0000" stop="20251024160000 +0000">
+    <title>Stories of the Century</title>
+    <sub-title>Tom Bell</sub-title>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <desc>A railroad detective pursues famous criminals.</desc>
+    <date>19550116</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024160000 +0000" stop="20251024163000 +0000">
+    <title>Stories of the Century</title>
+    <sub-title>Kate Bender</sub-title>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <desc>Detectives Matt and Margaret try to find a youth who disappeared while traveling in Kansas, but uncover more missing people with one thing in common -- they all stayed with Kate Bender.</desc>
+    <date>19550123</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024163000 +0000" stop="20251024170000 +0000">
+    <title>Stories of the Century</title>
+    <sub-title>Augustine Chacon</sub-title>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <desc>Infamous outlaw Augustine Chacon murders two Texas Rangers, prompting Matt and Margaret to travel south of the border to bring him to justice.</desc>
+    <date>19550130</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/07b8526940464901e6ae4b9bd2f95bac.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024170000 +0000" stop="20251024173000 +0000">
+    <title>Tombstone Territory</title>
+    <sub-title>Rose of the Rio Bravo</sub-title>
+    <episode-num system="onscreen">S01E39</episode-num>
+    <desc>Hollister offers Claibourne's friend, a recent arrival in the West, a job as the jailer, but things go awry when Hollister arrests a woman.</desc>
+    <date>19580917</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8adc8c7b1c5af5c46010b568765e7708.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024173000 +0000" stop="20251024180000 +0000">
+    <title>Tombstone Territory</title>
+    <sub-title>Whipsaw</sub-title>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <desc>An accused killer escapes from a neighboring jail before Hollister can bring him to trial in Tombstone.</desc>
+    <date>19590313</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024180000 +0000" stop="20251024183000 +0000">
+    <title>The Rifleman</title>
+    <sub-title>The Assailants</sub-title>
+    <episode-num system="onscreen">S05E07</episode-num>
+    <desc>Lucas gets wind of an assassination plot.</desc>
+    <date>19621112</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/40d86e1527698f12f2e0f88e060b5706.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024183000 +0000" stop="20251024190000 +0000">
+    <title>The Rifleman</title>
+    <sub-title>Mark's Rifle</sub-title>
+    <episode-num system="onscreen">S05E08</episode-num>
+    <desc>Mark befriends a circus advance-man suspected of robbery.</desc>
+    <date>19621119</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d194d7d5fb6056fbae246ca67747458e.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024190000 +0000" stop="20251024193000 +0000">
+    <title>The Rifleman</title>
+    <sub-title>The Most Amazing Man</sub-title>
+    <episode-num system="onscreen">S05E09</episode-num>
+    <desc>A dapper little braggart invites challenge with tales of his gunfighting prowess.</desc>
+    <date>19621126</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3604d8ae3056ef12594d156be3b994c5.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024193000 +0000" stop="20251024200000 +0000">
+    <title>The Rifleman</title>
+    <sub-title>Squeeze Play</sub-title>
+    <episode-num system="onscreen">S05E10</episode-num>
+    <desc>An unscrupulous land buyer tries to get Lucas to sell his ranch.</desc>
+    <date>19621203</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/4083e0e94cfab8124c6a9dcd56c2e9ac.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024200000 +0000" stop="20251024203000 +0000">
+    <title>Yancy Derringer</title>
+    <sub-title>Outlaw at Liberty</sub-title>
+    <episode-num system="onscreen">S01E30</episode-num>
+    <desc>Yancy travels to Missouri to help a friend standing trial for a murder he didn't commit.</desc>
+    <date>19590507</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/46d3151999eb21b410f5fd0af3e85c97.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024203000 +0000" stop="20251024210000 +0000">
+    <title>Yancy Derringer</title>
+    <sub-title>V as in Voodoo</sub-title>
+    <episode-num system="onscreen">S01E31</episode-num>
+    <desc>Yancy and Administrator Colton attempt to combat superstition when a voodoo priestess terrorizes the city.</desc>
+    <date>19590514</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e62f43469d2ecc87c16bd75308025673.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024210000 +0000" stop="20251024213000 +0000">
+    <title>Bat Masterson</title>
+    <sub-title>Wanted ... Dead</sub-title>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <desc>Bat places himself between a trigger-happy sheriff and a reformed gunman involved in a recent killing.</desc>
+    <date>19591015</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/2d1abe6286490b0c4a5069ff8ba8846b.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024213000 +0000" stop="20251024220000 +0000">
+    <title>Bat Masterson</title>
+    <sub-title>To the Manner Born</sub-title>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <desc>Bat resorts to dueling pistols to expose the cowardice of a Confederate deserter.</desc>
+    <date>19591001</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9a2cf5971f459bff07f8c5f389fd14f8.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024220000 +0000" stop="20251024230000 +0000">
+    <title>Bonanza</title>
+    <sub-title>Badge Without Honor</sub-title>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <desc>A Deputy U.S. Marshal arrives to escort a man to California to testify against a gang; guest Dan Duryea.</desc>
+    <date>19600924</date>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/1f107c978bdbfb221fa0bd839b2879ca.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251024230000 +0000" stop="20251025000000 +0000">
+    <title>Bonanza</title>
+    <sub-title>The Mill</sub-title>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <desc>A hired hand (Claude Akins) victimizes the Cartwrights' disabled neighbor (Harry Townes).</desc>
+    <date>19601001</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/ede481fc7d21b725a68b3ce4acd7b549.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-62b45f15b4508e0eedacdf25" start="20251025000000 +0000" stop="20251025020000 +0000">
+    <title>Fort Defiance</title>
+    <category>Movie</category>
+    <desc>A man (Ben Johnson) tracking a Civil War deserter (Dane Clark) helps him and his blind brother (Peter Graves) during an Indian attack.</desc>
+    <date>19510102</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/fa099b8a925219c1a0f697de92c5fdbc.jpg" />
   </programme>
   
 </tv>

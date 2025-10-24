@@ -1,146 +1,128 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-66fbfd67bde73c589ab2af42">
+<channel id="68fa84637ac952737656ae5f-66fbfd67bde73c589ab2af42">
     <display-name>PLL Network</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/3db52a85-5e90-49f6-8d8e-170d71c86b33/PLLL_WHITE_TEXT_1500x1000_DarkBG.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-66fbfd67bde73c589ab2af42" start="20251022233030 +0000" stop="20251023020030 +0000">
+<programme channel="68fa84637ac952737656ae5f-66fbfd67bde73c589ab2af42" start="20251023220030 +0000" stop="20251024003030 +0000">
     <title>PLL Playback</title>
-    <sub-title>PLL Playback</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Denver Outlaws vs Utah Archers from June 7, 2024</desc>
-    <date>20250419</date>
-    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/widescreen/3840x2160/pllplayback_landscape.jpg" />
+    <category>Movie</category>
+    <desc>Waterdogs vs Archers from July 30, 2023</desc>
+    <date>20251009</date>
+    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/pllplayback_portrait.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66fbfd67bde73c589ab2af42" start="20251023020030 +0000" stop="20251023023000 +0000">
-    <title>Losing Is Worse Than Death | The Bill Tierney Documentary</title>
+<programme channel="68fa84637ac952737656ae5f-66fbfd67bde73c589ab2af42" start="20251024003030 +0000" stop="20251024010030 +0000">
+    <title>Will Manny Feature</title>
     <category>Movie</category>
-    <desc>Coach Bill Tierney is a legend. Over his five decade coaching career, he's accomplished almost everything: NCAA Championships, Coach of the Year honors, induction into the Hall of Fame. The last accomplishment left for his resume? A PLL Championship. Philadelphia finished 2-8 in Coach Tierney's inaugural year at the helm. Now in his second season, Tierney is aiming to right the ship and has his sights on one more ring.</desc>
-    <date>20251009</date>
+    <desc>Last year, veteran attackman Will Manny was cast off by the Whipsnakes. TLN followed him to Boston Cannons training camp before the 2025 season to highlight his return to the field — 635 days after his last appearance in a PLL game. Watch him prepare for camp at UAlbany, battle with the fourth-overall pick for a spot on the game day roster and, ultimately, help lift the Cannons to victory.</desc>
+    <date>20250621</date>
+    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/pll788_portrait.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66fbfd67bde73c589ab2af42" start="20251024010030 +0000" stop="20251024030030 +0000">
+    <title>PLL Playback</title>
+    <category>Movie</category>
+    <desc>Chaos vs Redwoods from July 29, 2020</desc>
+    <date>20250607</date>
+    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/pllplayback_portrait.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66fbfd67bde73c589ab2af42" start="20251024030030 +0000" stop="20251024040000 +0000">
+    <title>RJ's Vlogs</title>
+    <sub-title>RJ's Vlogs</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Description: Welcome to Albany, New York for the start of a brand new season. Kick off 2025 with the all-access vlog for training camp and week one.</desc>
+    <date>20250611</date>
+    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/widescreen/3840x2160/rjvlogs1_landscape.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66fbfd67bde73c589ab2af42" start="20251024040000 +0000" stop="20251024060030 +0000">
+    <title>PLL Playback</title>
+    <category>Movie</category>
+    <desc>Archers vs Chrome from June 1, 2019</desc>
+    <date>20250506</date>
+    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/pllplayback_portrait.jpg" />
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-66fbfd67bde73c589ab2af42" start="20251024060030 +0000" stop="20251024080030 +0000">
+    <title>2025 PLL Playback</title>
+    <category>Movie</category>
+    <desc>Boston Cannons vs Denver Outlaws from July 19, 2025</desc>
+    <date>20250815</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/4ca8182d-83c6-4cd8-9658-dbc24fa369bc/PLL2000X3000RDX.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66fbfd67bde73c589ab2af42" start="20251023023000 +0000" stop="20251023040000 +0000">
-    <title>2025 Lexus Championship Series</title>
-    <category>Movie</category>
-    <desc>PLL Semifinal New York Atlas vs Boston Cannons from February 16, 2025</desc>
-    <date>20250319</date>
-    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/pll_generic_portrait.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66fbfd67bde73c589ab2af42" start="20251023040000 +0000" stop="20251023060030 +0000">
+<programme channel="68fa84637ac952737656ae5f-66fbfd67bde73c589ab2af42" start="20251024080030 +0000" stop="20251024100030 +0000">
     <title>PLL Playback</title>
     <category>Movie</category>
-    <desc>Cannons vs Chrome from June 25, 2022</desc>
-    <date>20251009</date>
+    <desc>Chaos vs Redwoods from June 15, 2019</desc>
+    <date>20250506</date>
     <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/pllplayback_portrait.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66fbfd67bde73c589ab2af42" start="20251023060030 +0000" stop="20251023083030 +0000">
+<programme channel="68fa84637ac952737656ae5f-66fbfd67bde73c589ab2af42" start="20251024100030 +0000" stop="20251024120030 +0000">
     <title>PLL Playback</title>
     <category>Movie</category>
-    <desc>Waterdogs vs Archers from July 30, 2023</desc>
-    <date>20251009</date>
+    <desc>Cannons vs Waterdogs from June 15, 2024</desc>
+    <date>20250419</date>
     <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/pllplayback_portrait.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66fbfd67bde73c589ab2af42" start="20251023083030 +0000" stop="20251023090030 +0000">
-    <title>Will Manny Feature</title>
-    <category>Movie</category>
-    <desc>Last year, veteran attackman Will Manny was cast off by the Whipsnakes. TLN followed him to Boston Cannons training camp before the 2025 season to highlight his return to the field — 635 days after his last appearance in a PLL game. Watch him prepare for camp at UAlbany, battle with the fourth-overall pick for a spot on the game day roster and, ultimately, help lift the Cannons to victory.</desc>
-    <date>20250621</date>
-    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/pll788_portrait.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66fbfd67bde73c589ab2af42" start="20251023090030 +0000" stop="20251023110030 +0000">
+<programme channel="68fa84637ac952737656ae5f-66fbfd67bde73c589ab2af42" start="20251024120030 +0000" stop="20251024140030 +0000">
     <title>PLL Playback</title>
     <category>Movie</category>
-    <desc>Chaos vs Redwoods from July 29, 2020</desc>
-    <date>20250607</date>
+    <desc>Archers vs Chrome from June 1, 2019</desc>
+    <date>20250506</date>
     <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/pllplayback_portrait.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66fbfd67bde73c589ab2af42" start="20251023110030 +0000" stop="20251023120030 +0000">
-    <title>RJ's Vlogs</title>
-    <sub-title>RJ's Vlogs</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Description: Welcome to Albany, New York for the start of a brand new season. Kick off 2025 with the all-access vlog for training camp and week one.</desc>
-    <date>20250611</date>
-    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/widescreen/3840x2160/rjvlogs1_landscape.jpg" />
+<programme channel="68fa84637ac952737656ae5f-66fbfd67bde73c589ab2af42" start="20251024140030 +0000" stop="20251024160030 +0000">
+    <title>2025 PLL Playback</title>
+    <category>Movie</category>
+    <desc>Boston Cannons vs Denver Outlaws from July 19, 2025</desc>
+    <date>20250815</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/4ca8182d-83c6-4cd8-9658-dbc24fa369bc/PLL2000X3000RDX.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66fbfd67bde73c589ab2af42" start="20251023120030 +0000" stop="20251023140030 +0000">
+<programme channel="68fa84637ac952737656ae5f-66fbfd67bde73c589ab2af42" start="20251024160030 +0000" stop="20251024180030 +0000">
     <title>PLL Playback</title>
     <category>Movie</category>
-    <desc>Cannons vs Chrome from June 25, 2022</desc>
-    <date>20251009</date>
+    <desc>Chaos vs Redwoods from June 15, 2019</desc>
+    <date>20250506</date>
     <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/pllplayback_portrait.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66fbfd67bde73c589ab2af42" start="20251023140030 +0000" stop="20251023163030 +0000">
+<programme channel="68fa84637ac952737656ae5f-66fbfd67bde73c589ab2af42" start="20251024180030 +0000" stop="20251024200030 +0000">
     <title>PLL Playback</title>
     <category>Movie</category>
-    <desc>Waterdogs vs Archers from July 30, 2023</desc>
-    <date>20251009</date>
+    <desc>Cannons vs Waterdogs from June 15, 2024</desc>
+    <date>20250419</date>
     <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/pllplayback_portrait.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66fbfd67bde73c589ab2af42" start="20251023163030 +0000" stop="20251023170030 +0000">
-    <title>Will Manny Feature</title>
-    <category>Movie</category>
-    <desc>Last year, veteran attackman Will Manny was cast off by the Whipsnakes. TLN followed him to Boston Cannons training camp before the 2025 season to highlight his return to the field — 635 days after his last appearance in a PLL game. Watch him prepare for camp at UAlbany, battle with the fourth-overall pick for a spot on the game day roster and, ultimately, help lift the Cannons to victory.</desc>
-    <date>20250621</date>
-    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/pll788_portrait.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66fbfd67bde73c589ab2af42" start="20251023170030 +0000" stop="20251023190030 +0000">
+<programme channel="68fa84637ac952737656ae5f-66fbfd67bde73c589ab2af42" start="20251024200030 +0000" stop="20251024220030 +0000">
     <title>PLL Playback</title>
     <category>Movie</category>
-    <desc>Chaos vs Redwoods from July 29, 2020</desc>
-    <date>20250607</date>
+    <desc>Archers vs Chrome from June 1, 2019</desc>
+    <date>20250506</date>
     <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/pllplayback_portrait.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66fbfd67bde73c589ab2af42" start="20251023190030 +0000" stop="20251023200030 +0000">
-    <title>RJ's Vlogs</title>
-    <sub-title>RJ's Vlogs</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Description: Welcome to Albany, New York for the start of a brand new season. Kick off 2025 with the all-access vlog for training camp and week one.</desc>
-    <date>20250611</date>
-    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/widescreen/3840x2160/rjvlogs1_landscape.jpg" />
+<programme channel="68fa84637ac952737656ae5f-66fbfd67bde73c589ab2af42" start="20251024220030 +0000" stop="20251025000030 +0000">
+    <title>2025 PLL Playback</title>
+    <category>Movie</category>
+    <desc>Boston Cannons vs Denver Outlaws from July 19, 2025</desc>
+    <date>20250815</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/4ca8182d-83c6-4cd8-9658-dbc24fa369bc/PLL2000X3000RDX.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66fbfd67bde73c589ab2af42" start="20251023200030 +0000" stop="20251023220030 +0000">
+<programme channel="68fa84637ac952737656ae5f-66fbfd67bde73c589ab2af42" start="20251025000030 +0000" stop="20251025020030 +0000">
     <title>PLL Playback</title>
     <category>Movie</category>
-    <desc>Cannons vs Chrome from June 25, 2022</desc>
-    <date>20251009</date>
-    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/pllplayback_portrait.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66fbfd67bde73c589ab2af42" start="20251023220030 +0000" stop="20251024003030 +0000">
-    <title>PLL Playback</title>
-    <category>Movie</category>
-    <desc>Waterdogs vs Archers from July 30, 2023</desc>
-    <date>20251009</date>
-    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/pllplayback_portrait.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66fbfd67bde73c589ab2af42" start="20251024003030 +0000" stop="20251024010030 +0000">
-    <title>Will Manny Feature</title>
-    <category>Movie</category>
-    <desc>Last year, veteran attackman Will Manny was cast off by the Whipsnakes. TLN followed him to Boston Cannons training camp before the 2025 season to highlight his return to the field — 635 days after his last appearance in a PLL game. Watch him prepare for camp at UAlbany, battle with the fourth-overall pick for a spot on the game day roster and, ultimately, help lift the Cannons to victory.</desc>
-    <date>20250621</date>
-    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/pll788_portrait.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66fbfd67bde73c589ab2af42" start="20251024010030 +0000" stop="20251024030030 +0000">
-    <title>PLL Playback</title>
-    <category>Movie</category>
-    <desc>Chaos vs Redwoods from July 29, 2020</desc>
-    <date>20250607</date>
+    <desc>Chaos vs Redwoods from June 15, 2019</desc>
+    <date>20250506</date>
     <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/pllplayback_portrait.jpg" />
   </programme>
   

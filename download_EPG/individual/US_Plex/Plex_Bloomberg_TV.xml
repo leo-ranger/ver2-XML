@@ -1,140 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516">
+<channel id="68fa84637ac952737656ae5f-61d73ab0a7b7c7f703418516">
     <display-name>Bloomberg TV</display-name>
     <icon src="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/66a30548bffdf5f5e158e3baf755afad.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" start="20251023010000 +0000" stop="20251023013000 +0000">
-    <title>The David Rubenstein Show: Peer to Peer Conversations</title>
-    <sub-title>Alan M. Garber, Harvard University President</sub-title>
-    <episode-num system="onscreen">S11E03</episode-num>
-    <desc>Financier and philanthropist David Rubenstein talks with his peers who leaders of some of America's biggest companies.</desc>
-    <date>20251022</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" start="20251023013000 +0000" stop="20251023020000 +0000">
-    <title>Bloomberg Chief Future Officer</title>
-    <sub-title>Matt Skaruppa, Duolingo</sub-title>
-    <episode-num system="onscreen">S2025E05</episode-num>
-    <desc>Duolingo CFO Matt Skaruppa has the world's leading language-learning app poised for a new phase of growth powered by AI.</desc>
-    <date>20250521</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" start="20251023020000 +0000" stop="20251023030000 +0000">
-    <title>An Optimist's Guide to the Planet</title>
-    <sub-title>Protect</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <desc>Nikolaj Coster-Waldau begins season two and we're reminded of the delicate balance between human progress and protecting our planet.</desc>
-    <date>20251022</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" start="20251023030000 +0000" stop="20251023040000 +0000">
-    <title>Insight with Haslinda Amin</title>
-    <sub-title>Insight with Haslinda Amin</sub-title>
-    <desc>In a volatile and unpredictable world, the show will be the definitive guide for the global news audience to get the complete picture on the biggest story of the day. With news making executives, officials and thought-leaders from the world of business, politics and academia we will explore a story through probing interviews and nuanced conversations. The hour of programming will also highlight the most relevant stories from India which is currently one of the hottest investment destinations, but also has compelling stories that play into the Bloomberg's priority issues such as Climate change, Diversity and Technological innovation.</desc>
+<programme channel="68fa84637ac952737656ae5f-61d73ab0a7b7c7f703418516" start="20251023230000 +0000" stop="20251024003000 +0000">
+    <title>Bloomberg The Asia Trade</title>
+    <sub-title>Bloomberg The Asia Trade</sub-title>
+    <desc>Bringing global investors everything you need to know as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders.</desc>
     <date>20251023</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" start="20251023040000 +0000" stop="20251023050000 +0000">
-    <title>Bloomberg Horizons Middle East &amp; Africa</title>
-    <sub-title>Bloomberg Horizons Middle East &amp; Africa</sub-title>
-    <desc>A spotlight on the fast paced growth and major deals happening across the Middle East and Africa, linking the market drivers from overnight in the U.S. and across Asia into the region's trading day, with deep-dive analysis of the top businesses.</desc>
-    <date>20251023</date>
+<programme channel="68fa84637ac952737656ae5f-61d73ab0a7b7c7f703418516" start="20251024003000 +0000" stop="20251024010000 +0000">
+    <title>Bloomberg Tech: Asia</title>
+    <sub-title>Bloomberg Tech: Asia</sub-title>
+    <desc>We offer access to emerging voices and important stories shaping the future of tech worldwide; hosted by Shery Ahn in Tokyo and Annabelle Droulers in Hong Kong.</desc>
+    <date>20251024</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" start="20251023050000 +0000" stop="20251023060000 +0000">
-    <title>Bloomberg Daybreak: Europe</title>
-    <sub-title>Bloomberg Daybreak: Europe</sub-title>
-    <desc>From London, essential morning viewing to stay ahead of the day's market trends with news stories from the U.S. and Asia in the lead-up to the opening of European markets.</desc>
-    <date>20251023</date>
+<programme channel="68fa84637ac952737656ae5f-61d73ab0a7b7c7f703418516" start="20251024010000 +0000" stop="20251024020000 +0000">
+    <title>Bloomberg: The China Show</title>
+    <sub-title>Bloomberg: The China Show</sub-title>
+    <desc>From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors insight into the world's second-biggest economy, delivering in-depth discussions with newsmakers.</desc>
+    <date>20251024</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" start="20251023060000 +0000" stop="20251023080000 +0000">
-    <title>Bloomberg The Opening Trade</title>
-    <sub-title>Bloomberg The Opening Trade</sub-title>
-    <desc>"The Opening Trade" explores things to know as markets open across Europe; analysis that isn't available anywhere else, a break down of the biggest stories of the day and top guests who have skin in the game.</desc>
-    <date>20251023</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" start="20251023080000 +0000" stop="20251023090000 +0000">
-    <title>The Pulse with Francine Lacqua</title>
-    <sub-title>The Pulse with Francine Lacqua</sub-title>
-    <desc>Based in London, Francine Lacqua speaks with guests about global business, economics, finance and politics.</desc>
-    <date>20251023</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" start="20251023090000 +0000" stop="20251023100000 +0000">
-    <title>Bloomberg Brief</title>
-    <sub-title>Bloomberg Brief</sub-title>
-    <desc>"Bloomberg Brief" delivers the market news, data and analysis viewers need to set their agendas.</desc>
-    <date>20251023</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" start="20251023100000 +0000" stop="20251023130000 +0000">
-    <title>Bloomberg Surveillance</title>
-    <sub-title>Bloomberg Surveillance</sub-title>
-    <desc>Jonathan, Lisa and Annmarie survey the economy and global markets with daily conversations with leaders and decision makers, from Wall Street to Washington and beyond, to cover the latest in business, investment and geopolitics.</desc>
-    <date>20251023</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" start="20251023130000 +0000" stop="20251023150000 +0000">
-    <title>Bloomberg Open Interest</title>
-    <sub-title>Bloomberg Open Interest</sub-title>
-    <desc>Delivering the market-moving news anyone needs to know to get a jump start on the U.S. trading day.</desc>
-    <date>20251023</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" start="20251023150000 +0000" stop="20251023160000 +0000">
-    <title>Bloomberg Tech</title>
-    <sub-title>Bloomberg Tech</sub-title>
-    <desc>Bloomberg Tech is the only daily live technology program with a focus on breaking news, market-moving reporting and analysis of global technology companies and stories. The program brings the audience interviews from the biggest names in the business, offering in-depth analysis and critical insights.</desc>
-    <date>20251023</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" start="20251023160000 +0000" stop="20251023170000 +0000">
-    <title>Bloomberg Markets</title>
-    <sub-title>Bloomberg Markets</sub-title>
-    <desc>The most important global business and breaking markets news and information as it happens.</desc>
-    <date>20251023</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" start="20251023170000 +0000" stop="20251023180000 +0000">
-    <title>Bloomberg: Balance of Power</title>
-    <sub-title>Bloomberg: Balance of Power</sub-title>
-    <desc>Focusing on the intersection of politics and global business.</desc>
-    <date>20251023</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" start="20251023180000 +0000" stop="20251023190000 +0000">
-    <title>Bloomberg Businessweek Daily</title>
-    <sub-title>Bloomberg Businessweek Daily</sub-title>
-    <desc>Carol Massar and Tim Stenovec bring reporting from the magazine that helps global leaders stay ahead, plus insight on the people, companies and trends shaping today's complex economy.</desc>
-    <date>20251023</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" start="20251023190000 +0000" stop="20251023210000 +0000">
-    <title>Bloomberg: The Close</title>
-    <sub-title>Bloomberg: The Close</sub-title>
-    <desc>Alix Steel, Romaine Bostick and Scarlet Fu own the market-moving breaking news around the closing bell; a synthesis of the top stories; key insights from investors, strategists and the companies of today and tomorrow.</desc>
-    <date>20251023</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" start="20251023210000 +0000" stop="20251023220000 +0000">
-    <title>Bloomberg: Balance of Power</title>
-    <sub-title>Bloomberg: Balance of Power</sub-title>
-    <desc>Focusing on the intersection of politics and global business.</desc>
-    <date>20251023</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" start="20251023220000 +0000" stop="20251023223000 +0000">
+<programme channel="68fa84637ac952737656ae5f-61d73ab0a7b7c7f703418516" start="20251024020000 +0000" stop="20251024023000 +0000">
     <title>Power Players</title>
     <sub-title>How Youth Sports Became a $38 Billion Play</sub-title>
     <desc>Major League Baseball Hall of Famer Cal Ripken Jr. and his brother Bill have turned youth sports into big business.</desc>
     <date>20240708</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" start="20251023223000 +0000" stop="20251023230000 +0000">
+<programme channel="68fa84637ac952737656ae5f-61d73ab0a7b7c7f703418516" start="20251024023000 +0000" stop="20251024030000 +0000">
     <title>Power Players</title>
     <sub-title>Week in the Life of an F1 Driver</sub-title>
     <episode-num system="onscreen">S2025E53</episode-num>
@@ -142,25 +41,138 @@
     <date>20251023</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" start="20251023230000 +0000" stop="20251024003000 +0000">
-    <title>Bloomberg The Asia Trade</title>
-    <sub-title>Bloomberg The Asia Trade</sub-title>
-    <desc>Bringing global investors everything you need to know as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders.</desc>
-    <date>20251023</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" start="20251024003000 +0000" stop="20251024010000 +0000">
-    <title>Bloomberg Tech: Asia</title>
-    <sub-title>Bloomberg Tech: Asia</sub-title>
-    <desc>We offer access to emerging voices and important stories shaping the future of tech worldwide; hosted by Shery Ahn in Tokyo and Annabelle Droulers in Hong Kong.</desc>
+<programme channel="68fa84637ac952737656ae5f-61d73ab0a7b7c7f703418516" start="20251024030000 +0000" stop="20251024040000 +0000">
+    <title>Insight with Haslinda Amin</title>
+    <sub-title>Insight with Haslinda Amin</sub-title>
+    <desc>In a volatile and unpredictable world, the show will be the definitive guide for the global news audience to get the complete picture on the biggest story of the day. With news making executives, officials and thought-leaders from the world of business, politics and academia we will explore a story through probing interviews and nuanced conversations. The hour of programming will also highlight the most relevant stories from India which is currently one of the hottest investment destinations, but also has compelling stories that play into the Bloomberg's priority issues such as Climate change, Diversity and Technological innovation.</desc>
     <date>20251024</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" start="20251024010000 +0000" stop="20251024020000 +0000">
-    <title>Bloomberg: The China Show</title>
-    <sub-title>Bloomberg: The China Show</sub-title>
-    <desc>From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors insight into the world's second-biggest economy, delivering in-depth discussions with newsmakers.</desc>
+<programme channel="68fa84637ac952737656ae5f-61d73ab0a7b7c7f703418516" start="20251024040000 +0000" stop="20251024050000 +0000">
+    <title>Bloomberg Horizons Middle East &amp; Africa</title>
+    <sub-title>Bloomberg Horizons Middle East &amp; Africa</sub-title>
+    <desc>A spotlight on the fast paced growth and major deals happening across the Middle East and Africa, linking the market drivers from overnight in the U.S. and across Asia into the region's trading day, with deep-dive analysis of the top businesses.</desc>
     <date>20251024</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61d73ab0a7b7c7f703418516" start="20251024050000 +0000" stop="20251024060000 +0000">
+    <title>Bloomberg Daybreak: Europe</title>
+    <sub-title>Bloomberg Daybreak: Europe</sub-title>
+    <desc>From London, essential morning viewing to stay ahead of the day's market trends with news stories from the U.S. and Asia in the lead-up to the opening of European markets.</desc>
+    <date>20251024</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61d73ab0a7b7c7f703418516" start="20251024060000 +0000" stop="20251024080000 +0000">
+    <title>Bloomberg The Opening Trade</title>
+    <sub-title>Bloomberg The Opening Trade</sub-title>
+    <desc>"The Opening Trade" explores things to know as markets open across Europe; analysis that isn't available anywhere else, a break down of the biggest stories of the day and top guests who have skin in the game.</desc>
+    <date>20251024</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61d73ab0a7b7c7f703418516" start="20251024080000 +0000" stop="20251024090000 +0000">
+    <title>The Pulse with Francine Lacqua</title>
+    <sub-title>The Pulse with Francine Lacqua</sub-title>
+    <desc>Based in London, Francine Lacqua speaks with guests about global business, economics, finance and politics.</desc>
+    <date>20251024</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61d73ab0a7b7c7f703418516" start="20251024090000 +0000" stop="20251024100000 +0000">
+    <title>Bloomberg Brief</title>
+    <sub-title>Bloomberg Brief</sub-title>
+    <desc>"Bloomberg Brief" delivers the market news, data and analysis viewers need to set their agendas.</desc>
+    <date>20251024</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61d73ab0a7b7c7f703418516" start="20251024100000 +0000" stop="20251024130000 +0000">
+    <title>Bloomberg Surveillance</title>
+    <sub-title>Bloomberg Surveillance</sub-title>
+    <desc>Jonathan, Lisa and Annmarie survey the economy and global markets with daily conversations with leaders and decision makers, from Wall Street to Washington and beyond, to cover the latest in business, investment and geopolitics.</desc>
+    <date>20251024</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61d73ab0a7b7c7f703418516" start="20251024130000 +0000" stop="20251024150000 +0000">
+    <title>Bloomberg Open Interest</title>
+    <sub-title>Bloomberg Open Interest</sub-title>
+    <desc>Delivering the market-moving news anyone needs to know to get a jump start on the U.S. trading day.</desc>
+    <date>20251024</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61d73ab0a7b7c7f703418516" start="20251024150000 +0000" stop="20251024160000 +0000">
+    <title>Bloomberg Tech</title>
+    <sub-title>Bloomberg Tech</sub-title>
+    <desc>Bloomberg Tech is the only daily live technology program with a focus on breaking news, market-moving reporting and analysis of global technology companies and stories. The program brings the audience interviews from the biggest names in the business, offering in-depth analysis and critical insights.</desc>
+    <date>20251024</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61d73ab0a7b7c7f703418516" start="20251024160000 +0000" stop="20251024163000 +0000">
+    <title>Bloomberg Real Yield</title>
+    <sub-title>Bloomberg Real Yield</sub-title>
+    <desc>Guests from major bond companies join to give their insight and perspective on how to trade the global headlines.</desc>
+    <date>20251024</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61d73ab0a7b7c7f703418516" start="20251024163000 +0000" stop="20251024170000 +0000">
+    <title>Bloomberg Markets</title>
+    <sub-title>Bloomberg Markets</sub-title>
+    <desc>The most important global business and breaking markets news and information as it happens.</desc>
+    <date>20251024</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61d73ab0a7b7c7f703418516" start="20251024170000 +0000" stop="20251024180000 +0000">
+    <title>Bloomberg: Balance of Power</title>
+    <sub-title>Bloomberg: Balance of Power</sub-title>
+    <desc>Focusing on the intersection of politics and global business.</desc>
+    <date>20251024</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61d73ab0a7b7c7f703418516" start="20251024180000 +0000" stop="20251024190000 +0000">
+    <title>Bloomberg Businessweek Daily</title>
+    <sub-title>Bloomberg Businessweek Daily</sub-title>
+    <desc>Carol Massar and Tim Stenovec bring reporting from the magazine that helps global leaders stay ahead, plus insight on the people, companies and trends shaping today's complex economy.</desc>
+    <date>20251024</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61d73ab0a7b7c7f703418516" start="20251024190000 +0000" stop="20251024210000 +0000">
+    <title>Bloomberg: The Close</title>
+    <sub-title>Bloomberg: The Close</sub-title>
+    <desc>Romaine Bostick and Katie Greifeld break down the day's top market-moving stories and trading action around the closing bell.</desc>
+    <date>20251024</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61d73ab0a7b7c7f703418516" start="20251024210000 +0000" stop="20251024220000 +0000">
+    <title>Bloomberg: Balance of Power</title>
+    <sub-title>Bloomberg: Balance of Power</sub-title>
+    <desc>Focusing on the intersection of politics and global business.</desc>
+    <date>20251024</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61d73ab0a7b7c7f703418516" start="20251024220000 +0000" stop="20251024230000 +0000">
+    <title>Bloomberg Wall Street Week</title>
+    <sub-title>Bloomberg Wall Street Week</sub-title>
+    <desc>A weekly program telling the stories of capitalism from around the world, David Westin in New York hosts.</desc>
+    <date>20251024</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61d73ab0a7b7c7f703418516" start="20251024230000 +0000" stop="20251024233000 +0000">
+    <title>Bloomberg Next Africa</title>
+    <sub-title>Bloomberg Next Africa</sub-title>
+    <desc>A monthly deep dive into Africa's biggest stories through a Bloomberg lens. Global investors see the continent as one of the top areas for opportunity and growth, and some African nations are well-positioned to be global hubs for development. This show will discuss key steps taken to help deliver on Africa's quest of bridging the gap with global powers, and track capital flows and the direction of funds amid the underlying political, economic and social developments.</desc>
+    <date>20251024</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61d73ab0a7b7c7f703418516" start="20251024233000 +0000" stop="20251025000000 +0000">
+    <title>The Mishal Husain Show</title>
+    <sub-title>The Mishal Husain Show</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <date>20251024</date>
+  </programme>
+  
+<programme channel="68fa84637ac952737656ae5f-61d73ab0a7b7c7f703418516" start="20251025000000 +0000" stop="20251025010000 +0000">
+    <title>An Optimist's Guide to the Planet</title>
+    <sub-title>Protect</sub-title>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <desc>Nikolaj Coster-Waldau begins season two and we're reminded of the delicate balance between human progress and protecting our planet.</desc>
+    <date>20251022</date>
   </programme>
   
 </tv>
