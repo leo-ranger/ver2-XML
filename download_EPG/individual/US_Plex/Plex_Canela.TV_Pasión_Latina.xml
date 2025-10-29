@@ -1,198 +1,189 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="68fa84637ac952737656ae5f-5f5132e362fe160040f26c18">
+<channel id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18">
     <display-name>Canela.TV Pasión Latina</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/ae3262d6-5ccd-498f-a869-d511ccfc0e6f/CM-Plex-dark_logo-CanelaTV-pasioin_latina_-_Mariana_Gonzalez__1_.png" />
   </channel>
   
-<programme channel="68fa84637ac952737656ae5f-5f5132e362fe160040f26c18" start="20251028003304 +0000" stop="20251028021133 +0000">
-    <title>12 Segundos</title>
-    <category>Movie</category>
-    <desc>Selma se ve obligada a viajar a la montaña en busca de su jefe.</desc>
-    <date>20130101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/d6cbeede-351b-47c3-9eec-bbbe0f332a13/CM-Plex-logo-pasion_latina-2000x3000_-_Mariana_Gonzalez.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5f5132e362fe160040f26c18" start="20251028021133 +0000" stop="20251028040327 +0000">
-    <title>Cometa</title>
-    <category>Movie</category>
-    <desc>Roberto, tras perderlo todo, encuentra a Cometa, un perro abandonado.</desc>
-    <date>20170101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/d6cbeede-351b-47c3-9eec-bbbe0f332a13/CM-Plex-logo-pasion_latina-2000x3000_-_Mariana_Gonzalez.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5f5132e362fe160040f26c18" start="20251028040327 +0000" stop="20251028055738 +0000">
-    <title>De Lanchero A Millonario</title>
-    <category>Movie</category>
-    <desc>Cosco es un lanchero hasta que su sueño se cumple.</desc>
-    <date>20190101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/d6cbeede-351b-47c3-9eec-bbbe0f332a13/CM-Plex-logo-pasion_latina-2000x3000_-_Mariana_Gonzalez.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5f5132e362fe160040f26c18" start="20251028055738 +0000" stop="20251028080704 +0000">
-    <title>De Lanchero a Millonario 2</title>
-    <category>Movie</category>
-    <desc>Cosco Lino Galindo y Alma Marcela de los Altos nos sorprenderán.</desc>
-    <date>20190101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/d6cbeede-351b-47c3-9eec-bbbe0f332a13/CM-Plex-logo-pasion_latina-2000x3000_-_Mariana_Gonzalez.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5f5132e362fe160040f26c18" start="20251028080704 +0000" stop="20251028095101 +0000">
-    <title>El Todas Mías</title>
-    <category>Movie</category>
-    <desc>A Gaso le va mal con las mujeres y sus amigos le ayudarán.</desc>
-    <date>20180101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/d6cbeede-351b-47c3-9eec-bbbe0f332a13/CM-Plex-logo-pasion_latina-2000x3000_-_Mariana_Gonzalez.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5f5132e362fe160040f26c18" start="20251028095101 +0000" stop="20251028100938 +0000">
-    <title>Raíces</title>
-    <sub-title>Banda con La Arrolladora y Banda MS</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Banda, el regalo de México para todo el mundo.</desc>
-    <date>20230101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/73cea933-d7c1-4aa0-b8fd-8a4ba0acc5f8_cmu-mt-banda-16x9-v2-2023.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5f5132e362fe160040f26c18" start="20251028100938 +0000" stop="20251028112426 +0000">
-    <title>Secretos de las Indomables</title>
-    <sub-title>S01E01 - Va a Estallar la Guerra</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Las Indomables llegan a Tulum y Yuri las recibe con una exótica cena.</desc>
-    <date>20230101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/8179f3e0-e231-4da4-bfae-ada4249b7b99_ep-01-16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5f5132e362fe160040f26c18" start="20251028112426 +0000" stop="20251028130900 +0000">
-    <title>Afuera del Tiempo</title>
-    <category>Movie</category>
-    <desc>Ricardo viaja al pasado para rescatar su amor incumplido.</desc>
-    <date>20190101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/d6cbeede-351b-47c3-9eec-bbbe0f332a13/CM-Plex-logo-pasion_latina-2000x3000_-_Mariana_Gonzalez.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5f5132e362fe160040f26c18" start="20251028130900 +0000" stop="20251028140246 +0000">
-    <title>Amores que Engañan</title>
-    <sub-title>La Familia Perfecta</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Mariana era muy independiente, pero al casarse depende de su esposo.</desc>
-    <date>20230101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/0970c186-9389-43d6-a483-8dabed21934b_lafamiliaperfecta-16x9-cris_1.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5f5132e362fe160040f26c18" start="20251028140246 +0000" stop="20251028145512 +0000">
-    <title>La Mamá Del 10</title>
-    <sub-title>La Negociación</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Víctor y Tina negocian con "Los Cebras".</desc>
-    <date>20180101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/c3a815b3-bd38-42f0-b0d0-a58bb28a2c8a_0_lslt3hil.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5f5132e362fe160040f26c18" start="20251028145512 +0000" stop="20251028154754 +0000">
-    <title>La Mamá Del 10</title>
-    <sub-title>Nuevo Club</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Víctor finalmente es contratado por "Los Cebras"</desc>
-    <date>20180101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/8fb396ba-1efc-4465-bbf4-4f3cf83d37ed_0_hjkekxv8.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5f5132e362fe160040f26c18" start="20251028154754 +0000" stop="20251028163942 +0000">
-    <title>La Mamá Del 10</title>
-    <sub-title>Primer Enfrentamiento</sub-title>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <desc>Primer enfrentamiento en el equipo de Víctor.</desc>
-    <date>20180101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/086f2e02-7210-45b7-bf6a-400ff82f180e_0_61p7nodd.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5f5132e362fe160040f26c18" start="20251028163942 +0000" stop="20251028173118 +0000">
-    <title>La Mamá Del 10</title>
-    <sub-title>La Fiesta</sub-title>
-    <episode-num system="onscreen">S01E14</episode-num>
-    <desc>Miguel Ánguel descubre la verdad.</desc>
-    <date>20180101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/4bd2ab93-59a8-4b66-8678-08c66799aa71_0_66kv4el8.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5f5132e362fe160040f26c18" start="20251028173118 +0000" stop="20251028182220 +0000">
-    <title>La Mamá Del 10</title>
-    <sub-title>Prófugo</sub-title>
-    <episode-num system="onscreen">S01E15</episode-num>
-    <desc>Los problemas para Rojitas no paran.</desc>
-    <date>20180101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/effa8ed9-eafb-4a35-9dce-54dc0a6b875a_0_bk9g1m7q.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5f5132e362fe160040f26c18" start="20251028182220 +0000" stop="20251028191342 +0000">
-    <title>La Mamá Del 10</title>
-    <sub-title>Los Problemas De Otoniel</sub-title>
-    <episode-num system="onscreen">S01E16</episode-num>
-    <desc>Tina viaja a Santa Marta a visitar a Otoniel.</desc>
-    <date>20180101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/6c9b9087-2098-4b49-98ef-2d07386158d6_0_8gcmmv6a.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5f5132e362fe160040f26c18" start="20251028191342 +0000" stop="20251028200608 +0000">
-    <title>La Mamá Del 10</title>
-    <sub-title>La Lesión</sub-title>
-    <episode-num system="onscreen">S01E17</episode-num>
-    <desc>Víctor va fuerte en el entrenamiento.</desc>
-    <date>20180101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/56161e92-f19e-4c00-a2cb-bfc42c58256b_0_2bkauh63.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5f5132e362fe160040f26c18" start="20251028200608 +0000" stop="20251028205752 +0000">
-    <title>La Mamá Del 10</title>
-    <sub-title>El Secuestro De Tina</sub-title>
-    <episode-num system="onscreen">S01E18</episode-num>
-    <desc>Tina está secuestrada y piden millonaria suma.</desc>
-    <date>20180101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/d12ff686-46df-42c5-a2c2-f07feaa03e82_0_49lx2cy7.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5f5132e362fe160040f26c18" start="20251028205752 +0000" stop="20251028214934 +0000">
-    <title>La Mamá Del 10</title>
-    <sub-title>Entre La Vida Y La Muerte</sub-title>
-    <episode-num system="onscreen">S01E19</episode-num>
-    <desc>Victor es hospitalizado luego de la golpiza.</desc>
-    <date>20180101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/aaed224a-f6ac-4a9d-9343-ab451b769f47_0_3zkdhlc9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5f5132e362fe160040f26c18" start="20251028214934 +0000" stop="20251028224059 +0000">
-    <title>La Mamá Del 10</title>
-    <sub-title>El Arrepentimiento</sub-title>
-    <episode-num system="onscreen">S01E20</episode-num>
-    <desc>Rojitas se arrepiente de cometer un delito.</desc>
-    <date>20180101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/d9d93a75-a1fc-481d-af8e-70136958d22e_0_bamn2eho.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5f5132e362fe160040f26c18" start="20251028224059 +0000" stop="20251028230414 +0000">
-    <title>Secretos de Parejas: Trailers y Extras</title>
-    <sub-title>Exclusiva: Julián Gil</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Julián Gil hace un llamado a la congruencia.</desc>
-    <date>20250101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/Channel-CanelaTV-16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5f5132e362fe160040f26c18" start="20251028230414 +0000" stop="20251029001623 +0000">
-    <title>Secretos de Parejas</title>
-    <sub-title>En la Cama del Rey</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Las Parejas se reúnen con un terapeuta sexual que les propone un reto bastante complicado.</desc>
-    <date>20250101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/3cdc8c15ddf86c8db645dc88d114e3305b62863d_16x9.png" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5f5132e362fe160040f26c18" start="20251029001623 +0000" stop="20251029020343 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" start="20251029001623 +0000" stop="20251029020343 +0000">
     <title>Al Fin y al Cabo</title>
     <category>Movie</category>
     <desc>Dos policías dominicanos ayudan al FBI a capturar a unos ladrones en Nueva York.</desc>
     <date>20080101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/d6cbeede-351b-47c3-9eec-bbbe0f332a13/CM-Plex-logo-pasion_latina-2000x3000_-_Mariana_Gonzalez.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" start="20251029020343 +0000" stop="20251029035952 +0000">
+    <title>Cazadoras de Millonarios</title>
+    <category>Movie</category>
+    <desc>Tres mujeres se inscriben a un curso para conquistar a millonarios.</desc>
+    <date>20240101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/d6cbeede-351b-47c3-9eec-bbbe0f332a13/CM-Plex-logo-pasion_latina-2000x3000_-_Mariana_Gonzalez.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" start="20251029035952 +0000" stop="20251029053237 +0000">
+    <title>Amor a Fuego Lento</title>
+    <category>Movie</category>
+    <desc>Un chef redescubre su amor por la cocina y a un antiguo amor.</desc>
+    <date>20240101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/d6cbeede-351b-47c3-9eec-bbbe0f332a13/CM-Plex-logo-pasion_latina-2000x3000_-_Mariana_Gonzalez.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" start="20251029053237 +0000" stop="20251029071922 +0000">
+    <title>El Teacher</title>
+    <category>Movie</category>
+    <desc>Dos hermanos gemelos intercambian papeles.</desc>
+    <date>20130101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/d6cbeede-351b-47c3-9eec-bbbe0f332a13/CM-Plex-logo-pasion_latina-2000x3000_-_Mariana_Gonzalez.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" start="20251029071922 +0000" stop="20251029090407 +0000">
+    <title>En Qué Trabaja El Muchacho</title>
+    <category>Movie</category>
+    <desc>Un muchacho consigue trabajo como asesino a sueldo</desc>
+    <date>20050101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/d6cbeede-351b-47c3-9eec-bbbe0f332a13/CM-Plex-logo-pasion_latina-2000x3000_-_Mariana_Gonzalez.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" start="20251029090407 +0000" stop="20251029100211 +0000">
+    <title>Mi Vida</title>
+    <sub-title>Kate Del Castillo  - </sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Kate Del Castillo nos cuenta todo sobre su vida personal y profesional.</desc>
+    <date>20220101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/1c974050-296b-4320-980b-9bdd72ce7894_mv-katedelcastillo-16x9-cris_2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" start="20251029100211 +0000" stop="20251029110342 +0000">
+    <title>Secretos de las Indomables</title>
+    <sub-title>S01E02 - ¡Va a Fluir la Sangre!</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Yuri sorprende a las Indomables con una clase de pintura.</desc>
+    <date>20230101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/25384bfb-7cda-4bd9-aac4-8bb4e5ea02b7_ep-02-16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" start="20251029110342 +0000" stop="20251029131726 +0000">
+    <title>Amores de Película</title>
+    <category>Movie</category>
+    <desc>La historia entrelazada de tres romances.</desc>
+    <date>20160101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/d6cbeede-351b-47c3-9eec-bbbe0f332a13/CM-Plex-logo-pasion_latina-2000x3000_-_Mariana_Gonzalez.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" start="20251029131726 +0000" stop="20251029140944 +0000">
+    <title>Amores que Engañan</title>
+    <sub-title>El Preferido de Mamá</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>A sus sesenta años, Lorena sigue creyendo que Reynaldo es el hijo perfecto.</desc>
+    <date>20230101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/2043e973-2f5a-4d83-b240-87220c34e6e3_elpreferidodemama-16x9-cris_0.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" start="20251029140944 +0000" stop="20251029150247 +0000">
+    <title>Estrambótica Anastasia</title>
+    <sub-title>Amor</sub-title>
+    <episode-num system="onscreen">S01E41</episode-num>
+    <desc>Aureliano le habla a Alexandra de su amor por Anastasia.</desc>
+    <date>20040101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/7c174945-963d-4934-9ff3-16356598b35a_1_y1c49ihh.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" start="20251029150247 +0000" stop="20251029155534 +0000">
+    <title>Estrambótica Anastasia</title>
+    <sub-title>¿Culpable?</sub-title>
+    <episode-num system="onscreen">S01E42</episode-num>
+    <desc>Alexandra cree que Ovidio desapareció a Anastasia.</desc>
+    <date>20040101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/a5b4587b-009a-48c8-a53a-3f3e818bb208_1_t9pek48s.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" start="20251029155534 +0000" stop="20251029164737 +0000">
+    <title>Estrambótica Anastasia</title>
+    <sub-title>Prostituta</sub-title>
+    <episode-num system="onscreen">S01E43</episode-num>
+    <desc>Violeta hace una importante revelación.</desc>
+    <date>20040101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/f89bc7aa-f838-4e96-b766-3df7853a3fbc_1_46exq68j.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" start="20251029164737 +0000" stop="20251029174112 +0000">
+    <title>Estrambótica Anastasia</title>
+    <sub-title>El Dedo</sub-title>
+    <episode-num system="onscreen">S01E44</episode-num>
+    <desc>El Monje manda el presunto dedo de Anastasia.</desc>
+    <date>20040101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/86a50042-f475-444d-b387-5b7b54c1a1d9_1_vih81g8y.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" start="20251029174112 +0000" stop="20251029183419 +0000">
+    <title>Estrambótica Anastasia</title>
+    <sub-title>La Culebra</sub-title>
+    <episode-num system="onscreen">S01E45</episode-num>
+    <desc>Ovidio escucha el cuento de la culebra.</desc>
+    <date>20040101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/8192c113-529b-48a2-8647-281de17ee494_1_p0uxliru.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" start="20251029183419 +0000" stop="20251029192818 +0000">
+    <title>Estrambótica Anastasia</title>
+    <sub-title>Alexandra y Ovidio</sub-title>
+    <episode-num system="onscreen">S01E46</episode-num>
+    <desc>Alexandra decidió salir con Ovidio.</desc>
+    <date>20040101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/06130c3b-5e10-41db-bb3e-389cc3390f7c_1_ljnsswiw.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" start="20251029192818 +0000" stop="20251029202147 +0000">
+    <title>Estrambótica Anastasia</title>
+    <sub-title>El Sobre</sub-title>
+    <episode-num system="onscreen">S01E47</episode-num>
+    <desc>El sobre con el ADN está al alcance de Yolanda.</desc>
+    <date>20040101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/66c594ad-1b71-434b-b0a6-019e00281ada_1_36zkujsr.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" start="20251029202147 +0000" stop="20251029211621 +0000">
+    <title>Estrambótica Anastasia</title>
+    <sub-title>La Nota</sub-title>
+    <episode-num system="onscreen">S01E48</episode-num>
+    <desc>Anastasia se asegura de que Claudia esté bien.</desc>
+    <date>20040101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/8c18340a-04e8-4968-81c7-f63f73929180_1_tzg4trx7.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" start="20251029211621 +0000" stop="20251029221048 +0000">
+    <title>Estrambótica Anastasia</title>
+    <sub-title>La Garra del Monje</sub-title>
+    <episode-num system="onscreen">S01E49</episode-num>
+    <desc>Aureliano le entrega a Cubillán la garra del Monje.</desc>
+    <date>20040101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ee1b27e1-f81b-4202-9fd7-a476f25aa005_1_p322sze7.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" start="20251029221048 +0000" stop="20251029231138 +0000">
+    <title>Estrambótica Anastasia</title>
+    <sub-title>Amordazada</sub-title>
+    <episode-num system="onscreen">S01E50</episode-num>
+    <desc>El Monje se lleva a Anastasia.</desc>
+    <date>20040101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/05a7ec66-2512-4359-a03b-2b2ff14518f3_1_17mk5626.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" start="20251029231138 +0000" stop="20251030002534 +0000">
+    <title>Secretos de Parejas</title>
+    <sub-title>Las Máscaras se Caen</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Durante el paseo con los elefantes la tensión llega a su punto máximo.</desc>
+    <date>20250101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ae4f60698bea05fb225e1797ba187408f47a6e9e_16x9.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" start="20251030002534 +0000" stop="20251030020802 +0000">
+    <title>Anna Antinarcóticos</title>
+    <category>Movie</category>
+    <desc>Unos detectives investigan un nuevo tipo de narcótico.</desc>
+    <date>20180101</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/d6cbeede-351b-47c3-9eec-bbbe0f332a13/CM-Plex-logo-pasion_latina-2000x3000_-_Mariana_Gonzalez.jpg" />
   </programme>
   

@@ -1,413 +1,287 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd">
+<channel id="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd">
     <display-name>Construcciones Asombrosas</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/5d7cca59-b42c-4b5c-9616-279706ab07af/Construcciones_Asombrosas_WHT_RDX.png" />
   </channel>
   
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028005658 +0000" stop="20251028014438 +0000">
-    <title>Hogares extraños</title>
-    <sub-title>Autobús, taberna y casa de geisha</sub-title>
-    <episode-num system="onscreen">S03E08</episode-num>
-    <desc>Estas casas están hechas a partir de autobuses, tabernas y mucho más.</desc>
-    <date>20141107</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/172207_007_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028014438 +0000" stop="20251028023404 +0000">
-    <title>Mansiones en los árboles</title>
-    <sub-title>A la orilla del río</sub-title>
-    <episode-num system="onscreen">S10E03</episode-num>
-    <desc>Pete construye una casa del árbol a orillas del río Misisipi.</desc>
-    <date>20180120</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/161876_002_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028023404 +0000" stop="20251028032333 +0000">
-    <title>Mansiones en los árboles</title>
-    <sub-title>Un sauna en Alaska</sub-title>
-    <episode-num system="onscreen">S10E04</episode-num>
-    <desc>Pete instala un sauna en la casa del árbol de una pareja de Alaska.</desc>
-    <date>20180127</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/161876_003_S10E4_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028032333 +0000" stop="20251028041514 +0000">
-    <title>Mansiones en los árboles</title>
-    <sub-title>Una escapada</sub-title>
-    <episode-num system="onscreen">S10E02</episode-num>
-    <desc>Pete crea un lugar único para el descanso para viejos amigos en Washington.</desc>
-    <date>20180113</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/161876_004_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028041514 +0000" stop="20251028050440 +0000">
-    <title>Mansiones en los árboles</title>
-    <sub-title>Casa del árbol de Utopía</sub-title>
-    <episode-num system="onscreen">S10E05</episode-num>
-    <desc>En Utopía, Texas, Pete construye una casa para el romance.</desc>
-    <date>20180203</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/161876_005_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028050440 +0000" stop="20251028055405 +0000">
-    <title>Mansiones en los árboles</title>
-    <sub-title>El búngalo de los bulldogs</sub-title>
-    <episode-num system="onscreen">S10E07</episode-num>
-    <desc>Pete y su equipo hacen un búngalo de bulldogs con ventanas amplias.</desc>
-    <date>20180224</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/161876_007_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028055405 +0000" stop="20251028064325 +0000">
-    <title>Mansiones en los árboles</title>
-    <sub-title>Internacional: Francia</sub-title>
-    <episode-num system="onscreen">S10E08</episode-num>
-    <desc>Pete viaja a través de Francia con un visionario de las casas del árbol.</desc>
-    <date>20180303</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/161876_009_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028064325 +0000" stop="20251028072811 +0000">
-    <title>Operación Alaska</title>
-    <sub-title>, la nueva generación</sub-title>
-    <episode-num system="onscreen">S07E01</episode-num>
-    <desc>Una nueva generación se aventura en las tierras salvajes de Alaska.</desc>
-    <date>20170227</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/171111_001_S7E1_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028072811 +0000" stop="20251028081112 +0000">
-    <title>Operación Alaska</title>
-    <sub-title>La disciplina supera al talento</sub-title>
-    <episode-num system="onscreen">S07E02</episode-num>
-    <desc>Nick lucha contra la marea para recuperar columnas.</desc>
-    <date>20170227</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/171111_002_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028081112 +0000" stop="20251028085752 +0000">
-    <title>Operación Alaska</title>
-    <sub-title>El arca de Noé</sub-title>
-    <episode-num system="onscreen">S07E03</episode-num>
-    <desc>Jere, Ben y Tim luchan con vientos huracanados para colocar la barcaza.</desc>
-    <date>20170306</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/171111_003_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028085752 +0000" stop="20251028094242 +0000">
-    <title>Operación Alaska</title>
-    <sub-title>Varados en Shelikof</sub-title>
-    <episode-num system="onscreen">S07E04</episode-num>
-    <desc>Nick busca madera mientras el equipo de Brannon completa su cabaña.</desc>
-    <date>20170306</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/171111_004_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028094242 +0000" stop="20251028102528 +0000">
-    <title>Operación Alaska</title>
-    <sub-title>Que deje de llover</sub-title>
-    <episode-num system="onscreen">S07E05</episode-num>
-    <desc>La construcción de la cabaña de Brannon se retrasa.</desc>
-    <date>20170313</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/171111_005_S7E5_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028102528 +0000" stop="20251028111023 +0000">
-    <title>Operación Alaska</title>
-    <sub-title>El inodoro</sub-title>
-    <episode-num system="onscreen">S07E06</episode-num>
-    <desc>Nick y Kent diseñan y construyen un "balde de miel" o inodoro de Alaska.</desc>
-    <date>20170313</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/171111_006_S7E6_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028111023 +0000" stop="20251028115259 +0000">
-    <title>Operación Alaska</title>
-    <sub-title>Los últimos esfuerzos</sub-title>
-    <episode-num system="onscreen">S07E07</episode-num>
-    <desc>Los constructores están en la recta final para terminar las cabañas.</desc>
-    <date>20170320</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/171111_007_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028115259 +0000" stop="20251028123839 +0000">
-    <title>Operación Alaska</title>
-    <sub-title>La gran final</sub-title>
-    <episode-num system="onscreen">S07E08</episode-num>
-    <desc>Las cabañas están listas, y clientes, huéspedes y familia llegan a verlas.</desc>
-    <date>20170320</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/171111_008_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028123839 +0000" stop="20251028130204 +0000">
-    <title>Manhattan VIP</title>
-    <sub-title>El mejor apartamento de soltero</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Un apartamento enorme se transforma en un piso de soltero.</desc>
-    <date>20111017</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/181008_001_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028130204 +0000" stop="20251028132329 +0000">
-    <title>Manhattan VIP</title>
-    <sub-title>19 diseñadores y 1 Fanuka</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Stephen Fanuka transforma un lavadero en un espacio futurista.</desc>
-    <date>20111121</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/181008_002_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028132329 +0000" stop="20251028134459 +0000">
-    <title>Manhattan VIP</title>
-    <sub-title>Un hogar en la Quinta Avenida</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Stephen debe renovar un baño pequeño en el segundo hogar de un cliente.</desc>
-    <date>20111114</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/181008_003_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028134459 +0000" stop="20251028140624 +0000">
-    <title>Manhattan VIP</title>
-    <sub-title>Nate Berkus y Manhasset</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Stephen ayuda a Nate Berkus a renovar el apartamento de sus sueños.</desc>
-    <date>20111031</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/181008_004_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028140624 +0000" stop="20251028142929 +0000">
-    <title>Manhattan VIP</title>
-    <sub-title>Carrera hacia la meta</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Stephen ayuda a sus amigos a diseñar una habitación para una exhibición.</desc>
-    <date>20111024</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/181008_005_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028142929 +0000" stop="20251028145239 +0000">
-    <title>Manhattan VIP</title>
-    <sub-title>Un apartamento familiar en el Upper East Side (parte 1)</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>El diseño llega a la vida familiar en este enorme apartamento.</desc>
-    <date>20120123</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/181008_006_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028145239 +0000" stop="20251028151404 +0000">
-    <title>Manhattan VIP</title>
-    <sub-title>El apartamento de la maestra</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>¿Podrá Stephen hacer algo de gran calidad con un presupuesto pequeño?</desc>
-    <date>20120116</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/181008_007_S1E6_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028151404 +0000" stop="20251028153733 +0000">
-    <title>Manhattan VIP</title>
-    <sub-title>Un apartamento familiar en el Upper East Side (parte 2)</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>La renovación del enorme apartamento del Upper East Side continúa.</desc>
-    <date>20120213</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/181008_008_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028153733 +0000" stop="20251028160058 +0000">
-    <title>Manhattan VIP</title>
-    <sub-title>Una casa de vidrio</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>El contratista Stephen Fanuka se enfrenta a su mayor desafío: un solarium.</desc>
-    <date>20120130</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/181008_009_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028160058 +0000" stop="20251028162228 +0000">
-    <title>Manhattan VIP</title>
-    <sub-title>Renovación en el Upper West Side</sub-title>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <desc>Stephen no escatima esfuerzos para esta renovación en el Upper West Side.</desc>
-    <date>20120312</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/181008_010_S1E13_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028162228 +0000" stop="20251028164353 +0000">
-    <title>Manhattan VIP</title>
-    <sub-title>Una habitación de dos millones</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>¿Qué le falta a un apartamento de 1.700 m²? Una sala de entretenimiento.</desc>
-    <date>20120227</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/181008_011_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028164353 +0000" stop="20251028170528 +0000">
-    <title>Manhattan VIP</title>
-    <sub-title>La perfección en Central Park</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Un apartamento exquisito, excepto por la cocina.</desc>
-    <date>20120220</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/181008_012_S1E10_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028170528 +0000" stop="20251028172651 +0000">
-    <title>Manhattan VIP</title>
-    <sub-title>Thom Filicia</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Stephen Fanuka se une a Thom Filicia para renovar un apartamento.</desc>
-    <date>20120305</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/181008_013_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028172651 +0000" stop="20251028174852 +0000">
-    <title>Manhattan VIP</title>
-    <sub-title>Reto de cien años</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <desc>Fanuka tiene un desafío masivo: renovar y restaurar un apartamento.</desc>
-    <date>20120903</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/180747_001_S2E1_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028174852 +0000" stop="20251028181053 +0000">
-    <title>Manhattan VIP</title>
-    <sub-title>Renovación en el oeste (parte 2)</sub-title>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <desc>Fanuka se enfoca en la cocina y el comedor en esta renovación radical.</desc>
-    <date>20120910</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/180747_002_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028181053 +0000" stop="20251028183255 +0000">
-    <title>Manhattan VIP</title>
-    <sub-title>Cocina para los niños</sub-title>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <desc>Fanuka se une al famoso chef Marcus Samuelson para renovar una cocina.</desc>
-    <date>20120917</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/180747_003_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028183255 +0000" stop="20251028185456 +0000">
-    <title>Manhattan VIP</title>
-    <sub-title>Dentro de la casa de vidrio</sub-title>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <desc>Fanuka tiene el desafío de terminar de renovar un exclusivo penthouse.</desc>
-    <date>20120924</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/180747_004_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028185456 +0000" stop="20251028191657 +0000">
-    <title>Manhattan VIP</title>
-    <sub-title>Una habitación grande grande</sub-title>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <desc>Fanuka debe convertir un apartamento de dos habitaciones en una habitación.</desc>
-    <date>20121001</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/180747_005_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028191657 +0000" stop="20251028193857 +0000">
-    <title>Manhattan VIP</title>
-    <sub-title>Paredes de madera</sub-title>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <desc>La experiencia de Stephen trabajando con madera será puesta a prueba.</desc>
-    <date>20121008</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/180747_006_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028193857 +0000" stop="20251028200258 +0000">
-    <title>Manhattan VIP</title>
-    <sub-title>La puerta secreta</sub-title>
-    <episode-num system="onscreen">S02E07</episode-num>
-    <desc>Stephen construye un estudio con una puerta oculta en una biblioteca.</desc>
-    <date>20121015</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/180747_007_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028200258 +0000" stop="20251028202459 +0000">
-    <title>Manhattan VIP</title>
-    <sub-title>Más uno</sub-title>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <desc>Stephen Fanuka combina dos espacios para crear una habitación principal.</desc>
-    <date>20121022</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/180747_008_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028202459 +0000" stop="20251028204700 +0000">
-    <title>Manhattan VIP</title>
-    <sub-title>Dúplex con vista al museo, parte 1</sub-title>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <desc>Fanuka debe restaurar un comedor con paneles de madera.</desc>
-    <date>20121029</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/180747_009_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028204700 +0000" stop="20251028210900 +0000">
-    <title>Manhattan VIP</title>
-    <sub-title>Dúplex con vista al museo, parte 2</sub-title>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <desc>Fanuka renueva un espacio que cualquier neoyorquino envidiaría.</desc>
-    <date>20121105</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/180747_010_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028210900 +0000" stop="20251028213059 +0000">
-    <title>Manhattan VIP</title>
-    <sub-title>Dúplex en la Quinta Avenida, parte 1</sub-title>
-    <episode-num system="onscreen">S02E11</episode-num>
-    <desc>Stephen Fanuka renueva un apartamento dúplex enorme.</desc>
-    <date>20130107</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/180747_011_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028213059 +0000" stop="20251028215459 +0000">
-    <title>Manhattan VIP</title>
-    <sub-title>Dúplex en la Quinta Avenida, parte 2</sub-title>
-    <episode-num system="onscreen">S02E12</episode-num>
-    <desc>Stephen tiene el desafío de construir una vinoteca y un bar.</desc>
-    <date>20130114</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/180747_012_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028215459 +0000" stop="20251028221859 +0000">
-    <title>Manhattan VIP</title>
-    <sub-title>La cocina en la avenida Madison</sub-title>
-    <episode-num system="onscreen">S02E13</episode-num>
-    <desc>El equipo Fanuka se une para conquistar uno de sus mayores trabajos.</desc>
-    <date>20130121</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/180747_013_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028221859 +0000" stop="20251028230958 +0000">
-    <title>Hogares de lujo</title>
-    <sub-title>2</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Una cocina que está entre las diez habitaciones más costosas del mundo.</desc>
-    <date>20110101</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/171733_002_S1E1_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028230958 +0000" stop="20251028235856 +0000">
-    <title>Hogares de lujo</title>
-    <sub-title>3</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Un armario que está entre las diez habitaciones más elaboradas del mundo.</desc>
-    <date>20110506</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/171733_003_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251028235856 +0000" stop="20251029004954 +0000">
-    <title>Hogares de lujo</title>
-    <sub-title>Baños y cocinas de lujo</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Un recorrido que comienza con una mesa de comedor de 300 mil dólares.</desc>
-    <date>20120102</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/171733_004_SE_TXTD_1920x1080_es.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-671c1c8f572427bfa1eb7ecd" start="20251029004954 +0000" stop="20251029013853 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029004954 +0000" stop="20251029013853 +0000">
     <title>Hogares de lujo</title>
     <sub-title>Exteriores de lujo</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
     <desc>Un ring de boxeo que encabeza increíbles espacios al aire libre.</desc>
     <date>20120101</date>
-    <icon src="https://d3r7ib22akc064.cloudfront.net/171733_005_S1E3_1920x1080_es.jpg" />
+    <icon src="https://d3r7ib22akc064.cloudfront.net/171733_005_SE_TXTD_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029013853 +0000" stop="20251029022952 +0000">
+    <title>Hogares de lujo</title>
+    <sub-title>106</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Una mirada al interior de los hogares de lujo más increíbles del mundo.</desc>
+    <date>20120101</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/171733_006_S1E4_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029022952 +0000" stop="20251029032445 +0000">
+    <title>Con el agua al cuello</title>
+    <sub-title>La pecera para tontos de Jeff Dunham</sub-title>
+    <episode-num system="onscreen">S09E05</episode-num>
+    <desc>El ventrílocuo Jeff Dunham quiere una pecera inspirada en un teatro.</desc>
+    <date>20150627</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/148565_001_SE_TXTD_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029032445 +0000" stop="20251029041731 +0000">
+    <title>Con el agua al cuello</title>
+    <sub-title>La magia de Penn y Teller</sub-title>
+    <episode-num system="onscreen">S09E07</episode-num>
+    <desc>Dos magos famosos quieren una pecera para celebrar su 40 aniversario.</desc>
+    <date>20150926</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/148565_002_SE_TXTD_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029041731 +0000" stop="20251029051018 +0000">
+    <title>Con el agua al cuello</title>
+    <sub-title>Howie Mandel, el cerebro tras ATM</sub-title>
+    <episode-num system="onscreen">S09E01</episode-num>
+    <desc>Howie Mandel le encarga al equipo una pecera para su oficina de producción.</desc>
+    <date>20150530</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/148565_003_SE_TXTD_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029051018 +0000" stop="20251029060513 +0000">
+    <title>Con el agua al cuello</title>
+    <sub-title>La pecera "peluche" de Gabriel Iglesias</sub-title>
+    <episode-num system="onscreen">S09E03</episode-num>
+    <desc>Un comediante quiere una pecera para su oficina recién remodelada.</desc>
+    <date>20150613</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/148565_004_SE_TXTD_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029060513 +0000" stop="20251029065913 +0000">
+    <title>Con el agua al cuello</title>
+    <sub-title>La pecera reptante de Dwight Howard</sub-title>
+    <episode-num system="onscreen">S09E02</episode-num>
+    <desc>El equipo viaja a Texas para ayudar a estrella de la NBA Dwight Howard.</desc>
+    <date>20150606</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/148565_005_SE_TXTD_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029065913 +0000" stop="20251029075407 +0000">
+    <title>Con el agua al cuello</title>
+    <sub-title>La pecera de Sherri Shepherd</sub-title>
+    <episode-num system="onscreen">S09E08</episode-num>
+    <desc>Sherri Shepherd encarga una pecera simple y elegante para su casa.</desc>
+    <date>20151003</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/148565_006_SE_TXTD_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029075407 +0000" stop="20251029084900 +0000">
+    <title>Con el agua al cuello</title>
+    <sub-title>Marshawn Lynch a lo Beast Mode</sub-title>
+    <episode-num system="onscreen">S09E04</episode-num>
+    <desc>Marshawn Lynch quiere una pecera inspirada en su marca de ropa.</desc>
+    <date>20150620</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/148565_007_SE_TXTD_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029084900 +0000" stop="20251029094154 +0000">
+    <title>Con el agua al cuello</title>
+    <sub-title>Una pecera para Hoff</sub-title>
+    <episode-num system="onscreen">S09E06</episode-num>
+    <desc>El equipo se entusiasma al saber que David Hasselhoff quiere una pecera.</desc>
+    <date>20150919</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/148565_008_S9E6_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029094154 +0000" stop="20251029103449 +0000">
+    <title>Con el agua al cuello</title>
+    <sub-title>La pecera de Shaq</sub-title>
+    <episode-num system="onscreen">S09E14</episode-num>
+    <desc>El equipo crea una pecera digna de un faraón para Shaquille O’Neal.</desc>
+    <date>20151121</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/148565_009_SE_TXTD_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029103449 +0000" stop="20251029112620 +0000">
+    <title>Con el agua al cuello</title>
+    <sub-title>Peceras y rosas</sub-title>
+    <episode-num system="onscreen">S09E10</episode-num>
+    <desc>Un exguitarrista de Guns N’ Rose encarga una pecera inspirada en calaveras.</desc>
+    <date>20151024</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/148565_010_SE_TXTD_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029112620 +0000" stop="20251029121905 +0000">
+    <title>Con el agua al cuello</title>
+    <sub-title>Bill Engvall: ¡ten tu pecera!</sub-title>
+    <episode-num system="onscreen">S09E09</episode-num>
+    <desc>Bill Engvall encarga una pecera estilo zen para su nueva oficina.</desc>
+    <date>20151010</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/150304_011_SE_TXTD_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029121905 +0000" stop="20251029131209 +0000">
+    <title>Con el agua al cuello</title>
+    <sub-title>La magia de la NBA</sub-title>
+    <episode-num system="onscreen">S09E12</episode-num>
+    <desc>John Wall encarga un acuario con forma de un par gigante de dados.</desc>
+    <date>20151107</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/150304_012_SE_TXTD_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029131209 +0000" stop="20251029140456 +0000">
+    <title>Con el agua al cuello</title>
+    <sub-title>Un estéreo para los Toros de Chicago</sub-title>
+    <episode-num system="onscreen">S09E13</episode-num>
+    <desc>El equipo crea un acuario con forma de estéreo para Jimmy Butler.</desc>
+    <date>20151114</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/150304_014_SE_TXTD_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029140456 +0000" stop="20251029145751 +0000">
+    <title>Con el agua al cuello</title>
+    <sub-title>Vacaciones de locura</sub-title>
+    <episode-num system="onscreen">S09E15</episode-num>
+    <desc>Wayde y Brett intentan superarse en la competencia mundial Tank Off.</desc>
+    <date>20151226</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/150304_015_SE_TXTD_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029145751 +0000" stop="20251029154233 +0000">
+    <title>Construcciones remotas</title>
+    <sub-title>Contrucciones remotas: Alaska</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Los Perrins construyen una cabaña de caza en el corazón de Alaska.</desc>
+    <date>20141208</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/180689_000_SE_TXTD_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029154233 +0000" stop="20251029162752 +0000">
+    <title>Construcciones remotas</title>
+    <sub-title>las montañas de Alaska</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Los White construyen la cabaña de sus sueños en el interior de Alaska.</desc>
+    <date>20151216</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/180834_000_SE_TXTD_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029162752 +0000" stop="20251029171154 +0000">
+    <title>Hogares de lujo</title>
+    <sub-title>Complejo deportivo subterráneo y habitación principal</sub-title>
+    <episode-num system="onscreen">S03E03</episode-num>
+    <desc>Carter nos lleva a tres increíbles habitaciones de un millón de dólares.</desc>
+    <date>20121017</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/171063_001_SE_TXTD_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029171154 +0000" stop="20251029175528 +0000">
+    <title>Hogares de lujo</title>
+    <sub-title>Garaje, bodega de vinos, espacio deportivo y piscina</sub-title>
+    <episode-num system="onscreen">S03E01</episode-num>
+    <desc>Carter obtiene acceso exclusivo a un garaje de un millón de dólares.</desc>
+    <date>20121003</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/171063_002_S3E1_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029175528 +0000" stop="20251029183858 +0000">
+    <title>Hogares de lujo</title>
+    <sub-title>Gruta montañosa y bodega de vinos misteriosa</sub-title>
+    <episode-num system="onscreen">S03E02</episode-num>
+    <desc>Esta rústica gruta es tan lujosa que atrae a celebridades de primer nivel.</desc>
+    <date>20121010</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/171063_003_SE_TXTD_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029183858 +0000" stop="20251029192555 +0000">
+    <title>Hogares de lujo</title>
+    <sub-title>Complejo ecuestre, gran salón, habitación portuguesa</sub-title>
+    <episode-num system="onscreen">S03E04</episode-num>
+    <desc>Carter Oosterhouse guía un tour por 6 lujosas habitaciones millonarias.</desc>
+    <date>20121024</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/171063_004_SE_TXTD_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029192555 +0000" stop="20251029200919 +0000">
+    <title>Hogares de lujo</title>
+    <sub-title>Espacio de yoga y habitación principal</sub-title>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <desc>Carter Oosterhouse guía un tour por 6 lujosas habitaciones millonarias.</desc>
+    <date>20121031</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/171063_005_S3E5_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029200919 +0000" stop="20251029205235 +0000">
+    <title>Hogares de lujo</title>
+    <sub-title>Plaza italiana, habitación hawaiana, habitación de vinos, y sala en Barcelona</sub-title>
+    <episode-num system="onscreen">S03E06</episode-num>
+    <desc>Carter Oosterhouse guía un tour por 6 lujosas habitaciones millonarias.</desc>
+    <date>20121107</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/171063_006_SE_TXTD_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029205235 +0000" stop="20251029213605 +0000">
+    <title>Hogares de lujo</title>
+    <sub-title>Baño romano y sala de entretenimiento</sub-title>
+    <episode-num system="onscreen">S03E07</episode-num>
+    <desc>Visita habitaciones de un millón de dólares con Carter Oosterhouse.</desc>
+    <date>20121114</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/171063_007_SE_TXTD_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029213605 +0000" stop="20251029221902 +0000">
+    <title>Hogares de lujo</title>
+    <sub-title>Habitación principal, Maldivas, cocina de Atlanta y sala de Las Vegas</sub-title>
+    <episode-num system="onscreen">S03E08</episode-num>
+    <desc>Carter da un tour por increíbles habitaciones de un millón de dólares.</desc>
+    <date>20121121</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/171063_008_SE_TXTD_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029221902 +0000" stop="20251029230207 +0000">
+    <title>Hogares de lujo</title>
+    <sub-title>Patio trasero, entrada y habitación submarina</sub-title>
+    <episode-num system="onscreen">S03E09</episode-num>
+    <desc>Una sala multimedia submarina tan lujosa que envidiaría el mismo Poseidón.</desc>
+    <date>20121128</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/171063_009_SE_TXTD_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029230207 +0000" stop="20251029234732 +0000">
+    <title>Hogares de lujo</title>
+    <sub-title>Sala de estar californiana, oficina, entrada, habitación principal y salón de baile</sub-title>
+    <episode-num system="onscreen">S03E10</episode-num>
+    <desc>Carter Oosterhouse guía un tour por 7 lujosas habitaciones millonarias.</desc>
+    <date>20121205</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/171063_010_SE_TXTD_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251029234732 +0000" stop="20251030003032 +0000">
+    <title>Hogares de lujo</title>
+    <sub-title>Habitación roquera y piscina mediterránea en la cima</sub-title>
+    <episode-num system="onscreen">S03E11</episode-num>
+    <desc>Contempla la extravagancia del rock 'n' roll en esta suite principal única.</desc>
+    <date>20121212</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/171063_011_S3E11_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251030003032 +0000" stop="20251030011319 +0000">
+    <title>Hogares de lujo</title>
+    <sub-title>Teatro de Aspen, habitación principal, lub de Florida y patio de Texas</sub-title>
+    <episode-num system="onscreen">S03E13</episode-num>
+    <desc>Carter recorre seis habitaciones de millón de dólares, incluido un teatro.</desc>
+    <date>20140711</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/171063_012_SE_TXTD_1920x1080_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd" start="20251030011319 +0000" stop="20251030015658 +0000">
+    <title>Hogares de lujo</title>
+    <sub-title>Cancha de hockey millonaria y piscina</sub-title>
+    <episode-num system="onscreen">S03E12</episode-num>
+    <desc>Carter visita una de las mejores instalaciones deportivas del mundo.</desc>
+    <date>20140704</date>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/171063_013_SE_TXTD_1920x1080_es.jpg" />
   </programme>
   
 </tv>

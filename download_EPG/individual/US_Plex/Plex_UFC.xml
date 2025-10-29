@@ -1,29 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135">
+<channel id="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135">
     <display-name>UFC</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/1e8bdf68-10f9-4a30-9a60-9c3670b5f821/UFC_logo_WHT_1500x1000.png" />
   </channel>
   
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251028004959 +0000" stop="20251028011948 +0000">
-    <title>UFC Fight Flashback</title>
-    <sub-title>Teixeira vs Prochazka</sub-title>
-    <episode-num system="onscreen">S01E35</episode-num>
-    <desc>Relive their fight with enhanced replays and angles, new footage, and exclusive audio.</desc>
-    <date>20250115</date>
-    <icon src="https://images.frequency.com/video/originals/7285348589297995720/Textless/rectangle/12tk7zrx880dl1c548olh1gzr1.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251028011948 +0000" stop="20251028014937 +0000">
-    <title>UFC Fight Flashback</title>
-    <sub-title>Figueiredo vs Moreno 1</sub-title>
-    <episode-num system="onscreen">S01E29</episode-num>
-    <desc>Relive Figueiredo vs Moreno 1 like never before with enhanced replays, new footage, and exclusive audio.</desc>
-    <date>20241021</date>
-    <icon src="https://images.frequency.com/video/originals/7254155097644847885/Textless/rectangle/ocnsxgrh01gu1ntszay1rezdc.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251028014937 +0000" stop="20251028021926 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251029010824 +0000" stop="20251029013813 +0000">
     <title>UFC Fight Flashback</title>
     <sub-title>Moreno vs Figueiredo 3</sub-title>
     <episode-num system="onscreen">S01E34</episode-num>
@@ -32,7 +14,7 @@
     <icon src="https://images.frequency.com/video/originals/7262567515275064795/Textless/rectangle/upbk4lcclbwm1q1je788hr08i.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251028021926 +0000" stop="20251028032005 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251029013813 +0000" stop="20251029023852 +0000">
     <title>UFC Unfiltered</title>
     <sub-title>​Merab Dvalishvili eyes fourth title defense, Glover Teixeira on Pereira’s future, UFC 321 picks</sub-title>
     <episode-num system="onscreen">S01E930</episode-num>
@@ -41,16 +23,7 @@
     <icon src="https://images.frequency.com/video/7387223511554842989/solid/rectangle/w1920_h1080/p1qcvj7n2ltkzw6ocoyh81d6.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251028032005 +0000" stop="20251028042210 +0000">
-    <title>UFC 321 Embedded | Ep. 1-6</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Watch UFC 321 Embedded now!</desc>
-    <date>20251020</date>
-    <icon src="https://images.frequency.com/video/7386085997193488290/solid/rectangle/w1920_h1080/zo1x45z260e81k3tk35hkwvst.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251028042210 +0000" stop="20251028052936 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251029023852 +0000" stop="20251029034618 +0000">
     <title>About Last Fight</title>
     <sub-title>Mackenzie Dern goes from jiu-jitsu star to UFC Champion</sub-title>
     <episode-num system="onscreen">S01E04</episode-num>
@@ -59,7 +32,16 @@
     <icon src="https://images.frequency.com/video/7388071891964383237/solid/rectangle/w1920_h1080/6m0h6mdcgsha13qdkxka3rjrm.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251028052936 +0000" stop="20251028072818 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251029034618 +0000" stop="20251029044823 +0000">
+    <title>UFC 321 Embedded | Ep. 1-6</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Watch UFC 321 Embedded now!</desc>
+    <date>20251020</date>
+    <icon src="https://images.frequency.com/video/7386085997193488290/solid/rectangle/w1920_h1080/zo1x45z260e81k3tk35hkwvst.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251029044823 +0000" stop="20251029064705 +0000">
     <title>UFC Glory Days</title>
     <sub-title>Paul Felder and Laura Sanko on Khabib, Low Blows and Abu Dhabi</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
@@ -68,7 +50,16 @@
     <icon src="https://images.frequency.com/video/7384263101902123604/solid/rectangle/w1920_h1080/det7lekziqis1hiamam1nyrxr.png" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251028072818 +0000" stop="20251028082857 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251029064705 +0000" stop="20251029071146 +0000">
+    <title>Knockouts Only: Counters</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>On this episode of Knockouts Only, watch the best counter KOs exclusively on UFC Fight Pass.</desc>
+    <date>20250314</date>
+    <icon src="https://images.frequency.com/video/7306436175238260589/solid/rectangle/w1920_h1080/xp94dtpp93kz17ch09r9b27e9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251029071146 +0000" stop="20251029081225 +0000">
     <title>UFC Unfiltered</title>
     <sub-title>​Merab Dvalishvili eyes fourth title defense, Glover Teixeira on Pereira’s future, UFC 321 picks</sub-title>
     <episode-num system="onscreen">S01E930</episode-num>
@@ -77,7 +68,7 @@
     <icon src="https://images.frequency.com/video/7387223511554842989/solid/rectangle/w1920_h1080/p1qcvj7n2ltkzw6ocoyh81d6.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251028082857 +0000" stop="20251028093623 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251029081225 +0000" stop="20251029091951 +0000">
     <title>About Last Fight</title>
     <sub-title>Mackenzie Dern goes from jiu-jitsu star to UFC Champion</sub-title>
     <episode-num system="onscreen">S01E04</episode-num>
@@ -86,7 +77,7 @@
     <icon src="https://images.frequency.com/video/7388071891964383237/solid/rectangle/w1920_h1080/6m0h6mdcgsha13qdkxka3rjrm.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251028093623 +0000" stop="20251028103828 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251029091951 +0000" stop="20251029102156 +0000">
     <title>UFC 321 Embedded | Ep. 1-6</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -95,7 +86,7 @@
     <icon src="https://images.frequency.com/video/7386085997193488290/solid/rectangle/w1920_h1080/zo1x45z260e81k3tk35hkwvst.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251028103828 +0000" stop="20251028115027 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251029102156 +0000" stop="20251029113355 +0000">
     <title>1 Hour of the Greatest Knockouts!</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -104,7 +95,7 @@
     <icon src="https://images.frequency.com/video/originals/7300936551311600947/Textless/rectangle/119mso2io5jfc1ffbbmytyssec.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251028115027 +0000" stop="20251028124226 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251029113355 +0000" stop="20251029122554 +0000">
     <title>UFC Main Event</title>
     <sub-title>Silva vs Bisping</sub-title>
     <episode-num system="onscreen">S01E51</episode-num>
@@ -113,7 +104,7 @@
     <icon src="https://images.frequency.com/video/1956uacuub4vjz5np2vzz7gfb/w1920_h1080/1956uacuub4vjz5np2vzz7gfb.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251028124226 +0000" stop="20251028131215 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251029122554 +0000" stop="20251029125543 +0000">
     <title>UFC Fight Flashback</title>
     <sub-title>Gaethje vs Holloway</sub-title>
     <episode-num system="onscreen">S01E37</episode-num>
@@ -122,7 +113,7 @@
     <icon src="https://images.frequency.com/video/originals/7293692958067772989/Textless/rectangle/sytqvv2ftct61jf9cbe1vzl5w.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251028131215 +0000" stop="20251028134156 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251029125543 +0000" stop="20251029132524 +0000">
     <title>UFC Fight Flashback</title>
     <sub-title>McGregor vs Diaz 1</sub-title>
     <episode-num system="onscreen">S01E19</episode-num>
@@ -131,7 +122,7 @@
     <icon src="https://images.frequency.com/video/7295149503439517823/solid/rectangle/w1920_h1080/3ihoaqh62bh1gy8kzzjxpb47.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251028134156 +0000" stop="20251028141152 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251029132524 +0000" stop="20251029135520 +0000">
     <title>UFC Fight Flashback</title>
     <sub-title>Diaz vs McGregor 2</sub-title>
     <episode-num system="onscreen">S01E20</episode-num>
@@ -140,7 +131,7 @@
     <icon src="https://images.frequency.com/video/originals/7313139095413286713/Textless/rectangle/564821xnfmkj17xatkllack6s.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251028141152 +0000" stop="20251028144142 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251029135520 +0000" stop="20251029142510 +0000">
     <title>UFC Fight Flashback</title>
     <sub-title>Gastelum vs Adesanya</sub-title>
     <episode-num system="onscreen">S01E23</episode-num>
@@ -149,7 +140,7 @@
     <icon src="https://images.frequency.com/video/7288237683940130515/solid/rectangle/w1920_h1080/eru9sfndf8vc1cpyr1dx8m130.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251028144142 +0000" stop="20251028152135 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251029142510 +0000" stop="20251029150503 +0000">
     <title>Fight Week Focus</title>
     <sub-title>Tom Aspinall &amp; Ciryl Gane | UFC 321</sub-title>
     <episode-num system="onscreen">S01E05</episode-num>
@@ -158,7 +149,7 @@
     <icon src="https://images.frequency.com/video/7387190297706036812/solid/rectangle/w1280_h720/n2q2h029pe1r1bzj5kwoavd19.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251028152135 +0000" stop="20251028162214 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251029150503 +0000" stop="20251029160542 +0000">
     <title>UFC Unfiltered</title>
     <sub-title>​Merab Dvalishvili eyes fourth title defense, Glover Teixeira on Pereira’s future, UFC 321 picks</sub-title>
     <episode-num system="onscreen">S01E930</episode-num>
@@ -167,7 +158,7 @@
     <icon src="https://images.frequency.com/video/7387223511554842989/solid/rectangle/w1920_h1080/p1qcvj7n2ltkzw6ocoyh81d6.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251028162214 +0000" stop="20251028172940 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251029160542 +0000" stop="20251029171308 +0000">
     <title>About Last Fight</title>
     <sub-title>Mackenzie Dern goes from jiu-jitsu star to UFC Champion</sub-title>
     <episode-num system="onscreen">S01E04</episode-num>
@@ -176,7 +167,7 @@
     <icon src="https://images.frequency.com/video/7388071891964383237/solid/rectangle/w1920_h1080/6m0h6mdcgsha13qdkxka3rjrm.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251028172940 +0000" stop="20251028183145 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251029171308 +0000" stop="20251029181513 +0000">
     <title>UFC 321 Embedded | Ep. 1-6</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -185,7 +176,7 @@
     <icon src="https://images.frequency.com/video/7386085997193488290/solid/rectangle/w1920_h1080/zo1x45z260e81k3tk35hkwvst.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251028183145 +0000" stop="20251028190135 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251029181513 +0000" stop="20251029184503 +0000">
     <title>UFC Fight Flashback</title>
     <sub-title>Gastelum vs Adesanya</sub-title>
     <episode-num system="onscreen">S01E23</episode-num>
@@ -194,7 +185,7 @@
     <icon src="https://images.frequency.com/video/7288237683940130515/solid/rectangle/w1920_h1080/eru9sfndf8vc1cpyr1dx8m130.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251028190135 +0000" stop="20251028193116 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251029184503 +0000" stop="20251029191444 +0000">
     <title>UFC Fight Flashback</title>
     <sub-title>McGregor vs Diaz 1</sub-title>
     <episode-num system="onscreen">S01E19</episode-num>
@@ -203,7 +194,7 @@
     <icon src="https://images.frequency.com/video/7295149503439517823/solid/rectangle/w1920_h1080/3ihoaqh62bh1gy8kzzjxpb47.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251028193116 +0000" stop="20251028200105 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251029191444 +0000" stop="20251029194433 +0000">
     <title>UFC Fight Flashback</title>
     <sub-title>Gaethje vs Holloway</sub-title>
     <episode-num system="onscreen">S01E37</episode-num>
@@ -212,7 +203,7 @@
     <icon src="https://images.frequency.com/video/originals/7293692958067772989/Textless/rectangle/sytqvv2ftct61jf9cbe1vzl5w.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251028200105 +0000" stop="20251028210144 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251029194433 +0000" stop="20251029204512 +0000">
     <title>UFC Unfiltered</title>
     <sub-title>​Merab Dvalishvili eyes fourth title defense, Glover Teixeira on Pereira’s future, UFC 321 picks</sub-title>
     <episode-num system="onscreen">S01E930</episode-num>
@@ -221,7 +212,7 @@
     <icon src="https://images.frequency.com/video/7387223511554842989/solid/rectangle/w1920_h1080/p1qcvj7n2ltkzw6ocoyh81d6.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251028210144 +0000" stop="20251028220910 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251029204512 +0000" stop="20251029215238 +0000">
     <title>About Last Fight</title>
     <sub-title>Mackenzie Dern goes from jiu-jitsu star to UFC Champion</sub-title>
     <episode-num system="onscreen">S01E04</episode-num>
@@ -230,7 +221,7 @@
     <icon src="https://images.frequency.com/video/7388071891964383237/solid/rectangle/w1920_h1080/6m0h6mdcgsha13qdkxka3rjrm.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251028220910 +0000" stop="20251028231115 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251029215238 +0000" stop="20251029225443 +0000">
     <title>UFC 321 Embedded | Ep. 1-6</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -239,7 +230,7 @@
     <icon src="https://images.frequency.com/video/7386085997193488290/solid/rectangle/w1920_h1080/zo1x45z260e81k3tk35hkwvst.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251028231115 +0000" stop="20251029000846 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251029225443 +0000" stop="20251029235214 +0000">
     <title>UFC Main Event</title>
     <sub-title>Khabib vs McGregor</sub-title>
     <episode-num system="onscreen">S01E60</episode-num>
@@ -248,7 +239,7 @@
     <icon src="https://images.frequency.com/video/11iaupkgx14jd11yyorujqjtx/w1920_h1080/11iaupkgx14jd11yyorujqjtx.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251029000846 +0000" stop="20251029003835 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251029235214 +0000" stop="20251030002203 +0000">
     <title>UFC Fight Flashback</title>
     <sub-title>Figueiredo vs Moreno 1</sub-title>
     <episode-num system="onscreen">S01E29</episode-num>
@@ -257,7 +248,7 @@
     <icon src="https://images.frequency.com/video/originals/7254155097644847885/Textless/rectangle/ocnsxgrh01gu1ntszay1rezdc.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251029003835 +0000" stop="20251029010824 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251030002203 +0000" stop="20251030005152 +0000">
     <title>UFC Fight Flashback</title>
     <sub-title>Zhang vs Joanna</sub-title>
     <episode-num system="onscreen">S01E28</episode-num>
@@ -266,7 +257,7 @@
     <icon src="https://images.frequency.com/video/7288238738912481915/solid/rectangle/w1920_h1080/1fzaj1ct0bee612bmg5bwbporb.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-66ccac69fdf9cd3a568ef135" start="20251029010824 +0000" stop="20251029013813 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135" start="20251030005152 +0000" stop="20251030012141 +0000">
     <title>UFC Fight Flashback</title>
     <sub-title>Moreno vs Figueiredo 3</sub-title>
     <episode-num system="onscreen">S01E34</episode-num>

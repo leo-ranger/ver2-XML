@@ -1,260 +1,242 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce">
+<channel id="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce">
     <display-name>The Walking Dead Universe</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/17192c32-77cd-4da0-bc8e-e64836d08592/AMCN_TWDU_Plex_logo_dark_v01.png" />
   </channel>
   
-<programme channel="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce" start="20251028011400 +0000" stop="20251028021400 +0000">
-    <title>The Walking Dead</title>
-    <sub-title>Lines We Cross</sub-title>
-    <episode-num system="onscreen">S10E01</episode-num>
-    <desc>The group in Oceanside continues to train in case the Whisperers return; tensions are high as the heroes struggle to hold onto their concept of civilization.</desc>
-    <date>20191006</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/651c3bb65c1455d0a364fe89621cd5ff.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce" start="20251028021400 +0000" stop="20251028030700 +0000">
-    <title>The Walking Dead</title>
-    <sub-title>We Are the End of the World</sub-title>
-    <episode-num system="onscreen">S10E02</episode-num>
-    <desc>A flashback reveals the origins of Alpha and Beta; Alpha attempts to toughen up Lydia as they prepare to walk with the dead; the Whisperers create their herds.</desc>
-    <date>20191013</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/717c7672f018ed0de03579bfcea51e35.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce" start="20251028030700 +0000" stop="20251028040400 +0000">
-    <title>The Walking Dead</title>
-    <sub-title>Ghosts</sub-title>
-    <episode-num system="onscreen">S10E03</episode-num>
-    <desc>The threat of the Whisperers return leads to paranoia sweeping over Alexandria; in the meantime, Carol battles with the need for revenge.</desc>
-    <date>20191020</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b8738a86498097b65460b1b89966db4d.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce" start="20251028040400 +0000" stop="20251028045500 +0000">
-    <title>The Walking Dead</title>
-    <sub-title>Silence the Whisperers</sub-title>
-    <episode-num system="onscreen">S10E04</episode-num>
-    <desc>Still-paranoid Alexandrians get riled up over the Whisperers and take their fear out on Negan; at Hilltop, the group deals with an unexpected safety issue.</desc>
-    <date>20191027</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/df63ec238f4786c5472214c452827e64.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce" start="20251028045500 +0000" stop="20251028054900 +0000">
-    <title>The Walking Dead</title>
-    <sub-title>What It Always Is</sub-title>
-    <episode-num system="onscreen">S10E05</episode-num>
-    <desc>Supplies go missing from Hilltop; Negan is idolized by an Alexandrian; Ezekiel holds a secret.</desc>
-    <date>20191103</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/035dfba0c1c61c4ee5b5728c01b43896.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce" start="20251028054900 +0000" stop="20251028064300 +0000">
-    <title>The Walking Dead</title>
-    <sub-title>Bonds</sub-title>
-    <episode-num system="onscreen">S10E06</episode-num>
-    <desc>Carol and Daryl go on a mission together while Siddiq struggles to solve a mystery.</desc>
-    <date>20191110</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/8200b0f0d5128dc5c9e41233290bcc7d.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce" start="20251028064300 +0000" stop="20251028073400 +0000">
-    <title>The Walking Dead</title>
-    <sub-title>Open Your Eyes</sub-title>
-    <episode-num system="onscreen">S10E07</episode-num>
-    <desc>Carol pushes boundaries that make Daryl uncomfortable; Alpha and Beta have reservations about someone.</desc>
-    <date>20191117</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f8bda4be2a880a99103dbffb424860db.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce" start="20251028073400 +0000" stop="20251028083800 +0000">
-    <title>The Walking Dead</title>
-    <sub-title>The World Before</sub-title>
-    <episode-num system="onscreen">S10E08</episode-num>
-    <desc>A fight causes tensions in Oceanside while the Alexandrians set out on a high-stakes mission.</desc>
-    <date>20191124</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1996b7f794b58fe25cd5e241e67f3ab4.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce" start="20251028083800 +0000" stop="20251028093100 +0000">
-    <title>The Walking Dead</title>
-    <sub-title>Squeeze</sub-title>
-    <episode-num system="onscreen">S10E09</episode-num>
-    <desc>The group must figure out how to get out of a precarious situation.</desc>
-    <date>20200223</date>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/cea7b57237821fd06d405ce3a48673f2.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce" start="20251028093100 +0000" stop="20251028102500 +0000">
-    <title>The Walking Dead</title>
-    <sub-title>Stalker</sub-title>
-    <episode-num system="onscreen">S10E10</episode-num>
-    <desc>The group must defend Alexandria from a threatening outside force.</desc>
-    <date>20200301</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ac14227eab923a93d6009c875f12772e.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce" start="20251028102500 +0000" stop="20251028111800 +0000">
-    <title>The Walking Dead</title>
-    <sub-title>Morning Star</sub-title>
-    <episode-num system="onscreen">S10E11</episode-num>
-    <desc>The Whisperers are coming for Hilltop; after Daryl and Lydia's encounter with Alpha, the communities must decide whether to run or fight; Eugene's communication with Stephanie gets complicated.</desc>
-    <date>20200308</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/0dc44564758cdccc707f29ddd5dbc198.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce" start="20251028111800 +0000" stop="20251028121600 +0000">
-    <title>The Walking Dead</title>
-    <sub-title>What We Become</sub-title>
-    <episode-num system="onscreen">S10E13</episode-num>
-    <desc>Michonne takes Virgil back to his mysterious island to reunite with his family; in exchange, Virgil promises weapons that could change the tide of the Whisperer War.</desc>
-    <date>20200322</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/562f71b929372d5a2afc2b5404d8c01f.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce" start="20251028121600 +0000" stop="20251028130700 +0000">
-    <title>The Walking Dead</title>
-    <sub-title>Walk With Us</sub-title>
-    <episode-num system="onscreen">S10E12</episode-num>
-    <desc>With Negan's help, Alpha and the Whisperers attack Hilltop.</desc>
-    <date>20200315</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/a6ec3b7d0a0775d68ca5e2a94e33e91b.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce" start="20251028130700 +0000" stop="20251028140000 +0000">
-    <title>The Walking Dead</title>
-    <sub-title>Look at the Flowers</sub-title>
-    <episode-num system="onscreen">S10E14</episode-num>
-    <desc>Heroes and villains reckon with the aftermath of the Hilltop fire; Eugene takes a group on a journey to meet Stephanie, with the hopes of befriending another civilization.</desc>
-    <date>20200329</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/4e02aed81428d1201dfcfdcfb9c2742f.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce" start="20251028140000 +0000" stop="20251028144900 +0000">
-    <title>The Walking Dead</title>
-    <sub-title>The Tower</sub-title>
-    <episode-num system="onscreen">S10E15</episode-num>
-    <desc>The communities prepare for the final battle of the Whisperer War; meanwhile, Eugene's group encounters Princess.</desc>
-    <date>20200405</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9563c126219dc069346f37314ee35bdf.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce" start="20251028144900 +0000" stop="20251028154200 +0000">
-    <title>The Walking Dead</title>
-    <sub-title>A Certain Doom</sub-title>
-    <episode-num system="onscreen">S10E16</episode-num>
-    <desc>Beta engages the final battle of the Whisperer War.</desc>
-    <date>20201004</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/a61906d28cce91b42f83ce0188832d70.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce" start="20251028154200 +0000" stop="20251028163000 +0000">
-    <title>The Walking Dead</title>
-    <sub-title>Home Sweet Home</sub-title>
-    <episode-num system="onscreen">S10E17</episode-num>
-    <desc>Maggie returns, to the dismay of Negan; the trials she endured since leaving have made her harder in order for her and her son to survive; Daryl and Maggie unexpectedly fight an unseen and unknown threat.</desc>
-    <date>20210228</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f0a7a9680a38c2a3ea31f3a02ab174b6.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce" start="20251028163000 +0000" stop="20251028172000 +0000">
-    <title>The Walking Dead</title>
-    <sub-title>Find Me</sub-title>
-    <episode-num system="onscreen">S10E18</episode-num>
-    <desc>Daryl and Carol find an old cabin that takes Daryl back to his years away from the group after Rick disappeared; he relives the painful memory of meeting a reticent survivor and the toxic events that amplified his relationship with Dog.</desc>
-    <date>20210307</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/354bcd6209709440e138ad8f8461e3e3.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce" start="20251028172000 +0000" stop="20251028181500 +0000">
-    <title>The Walking Dead</title>
-    <sub-title>One More</sub-title>
-    <episode-num system="onscreen">S10E19</episode-num>
-    <desc>With Maggie's map, Gabriel and Aaron search for food and supplies to bring back to Alexandria; checking out one more location, they chance upon a stash; faith is broken and optimism is fragmented when they are put to the ultimate test.</desc>
-    <date>20210314</date>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c08288dfe1bd8730d5fc764618d3b623.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce" start="20251028181500 +0000" stop="20251028190200 +0000">
-    <title>The Walking Dead</title>
-    <sub-title>Splinter</sub-title>
-    <episode-num system="onscreen">S10E20</episode-num>
-    <desc>Eugene, Ezekiel, Yumiko, and Princess are captured and separated by the mysterious troopers that surrounded them at the rail yard; claustrophobic with mounting anxiety, Princess struggles with memories of her traumatic past and plans to escape.</desc>
-    <date>20210321</date>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/23da0147f74b22ba307c1bbaa7b6423d.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce" start="20251028190200 +0000" stop="20251028195100 +0000">
-    <title>The Walking Dead</title>
-    <sub-title>Diverged</sub-title>
-    <episode-num system="onscreen">S10E21</episode-num>
-    <desc>At the lowest point in their friendship, Daryl and Carol come to a fork in the road and head their separate ways; Carol returns to Alexandria, while Daryl stays on the road, each going into their own type of survival mode.</desc>
-    <date>20210328</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b7e1a5e6f75fd9e09bc78e52d18723a3.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce" start="20251028195100 +0000" stop="20251028204900 +0000">
-    <title>The Walking Dead</title>
-    <sub-title>Here's Negan</sub-title>
-    <episode-num system="onscreen">S10E22</episode-num>
-    <desc>With Maggie back at Alexandria, Carol takes Negan on a journey to minimize the increasing tension; here, Negan reflects on his late wife, Lucille, and the events that led him to this point.</desc>
-    <date>20210404</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/430ad809563b9ad8a9be54ccc6e466c5.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce" start="20251028204900 +0000" stop="20251028213900 +0000">
-    <title>The Walking Dead</title>
-    <sub-title>Always Accountable</sub-title>
-    <episode-num system="onscreen">S06E06</episode-num>
-    <desc>Daryl, Abraham and Sasha encounter many obstacles and a new threat while trying to return to Alexandria.</desc>
-    <date>20151115</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7c4f089ba19444f2f2e78d154930af7c.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce" start="20251028213900 +0000" stop="20251028222900 +0000">
-    <title>The Walking Dead</title>
-    <sub-title>Heads Up</sub-title>
-    <episode-num system="onscreen">S06E07</episode-num>
-    <desc>Alexandria is finally able to begin pulling itself back together; peace is embraced between the two groups.</desc>
-    <date>20151122</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/3769524492d5925af307c94338cfc323.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce" start="20251028222900 +0000" stop="20251028232000 +0000">
-    <title>The Walking Dead</title>
-    <sub-title>Start to Finish</sub-title>
-    <episode-num system="onscreen">S06E08</episode-num>
-    <desc>After a few moments of peace, trouble finds its way to Alexandria again with a threat that may be too big to defeat.</desc>
-    <date>20151129</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/661d6ff74223a42386e32e39bcb63983.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce" start="20251028232000 +0000" stop="20251029001100 +0000">
-    <title>The Walking Dead</title>
-    <sub-title>No Way Out</sub-title>
-    <episode-num system="onscreen">S06E09</episode-num>
-    <desc>Now that walkers have shown up inside the gates of Alexandria, Rick and the other survivors are scared and outnumbered.</desc>
-    <date>20160214</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7ea2c0148832794e3c13dd1f38896017.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce" start="20251029001100 +0000" stop="20251029010200 +0000">
-    <title>The Walking Dead</title>
-    <sub-title>The Next World</sub-title>
-    <episode-num system="onscreen">S06E10</episode-num>
-    <desc>A simple scavenging run proves to be more tricky, when the survivors are not the only ones after a goldmine of supplies.</desc>
-    <date>20160220</date>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/2757bef088b30a94a364927427d08174.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-5fc705ff2f220e002d5e6bce" start="20251029010200 +0000" stop="20251029015200 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" start="20251029010200 +0000" stop="20251029015200 +0000">
     <title>The Walking Dead</title>
     <sub-title>Knots Untie</sub-title>
     <episode-num system="onscreen">S06E11</episode-num>
     <desc>After realizing that Alexandria may not be as safe as he originally thought, Rick must make decisions about where to go.</desc>
     <date>20160228</date>
     <icon src="https://metadata-static.plex.tv/b/gracenote/b399084905b12927b29aa8d3a4b1b9e5.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" start="20251029015200 +0000" stop="20251029024200 +0000">
+    <title>The Walking Dead</title>
+    <sub-title>Not Tomorrow Yet</sub-title>
+    <episode-num system="onscreen">S06E12</episode-num>
+    <desc>Rick and the others determine that the only way to keep peace in Alexandria, is to wage a war with a new enemy.</desc>
+    <date>20160306</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/eadfd7b1ed9c421383054aea863560cd.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" start="20251029024200 +0000" stop="20251029033200 +0000">
+    <title>The Walking Dead</title>
+    <sub-title>The Same Boat</sub-title>
+    <episode-num system="onscreen">S06E13</episode-num>
+    <desc>After a minor success, two members of the group are taken hostage; Carol struggles morally with the lengths she has gone to survive.</desc>
+    <date>20160313</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e726f635b623c437bb76a15bf3029349.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" start="20251029033200 +0000" stop="20251029042200 +0000">
+    <title>The Walking Dead</title>
+    <sub-title>Twice as Far</sub-title>
+    <episode-num system="onscreen">S06E14</episode-num>
+    <desc>Two separate groups leave Alexandria for supplies, and while both worry over the future of the community, they will face immediate danger.</desc>
+    <date>20160320</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e17ac6ceef0fb6292b7799932c1cd263.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" start="20251029042200 +0000" stop="20251029051200 +0000">
+    <title>The Walking Dead</title>
+    <sub-title>East</sub-title>
+    <episode-num system="onscreen">S06E15</episode-num>
+    <desc>When someone goes missing in Alexandria, the community goes on alert, and search parties venture out.</desc>
+    <date>20160327</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/479f6dbcf90b2fed94e8fcc065f474a0.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" start="20251029051200 +0000" stop="20251029062800 +0000">
+    <title>The Walking Dead</title>
+    <sub-title>Last Day on Earth</sub-title>
+    <episode-num system="onscreen">S06E16</episode-num>
+    <desc>To save one of their own, Rick's group must venture outside the walls; their experience changes their lives forever.</desc>
+    <date>20160403</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/2c4e377a5e6e34e09ff66302aefc7abb.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" start="20251029062800 +0000" stop="20251029072400 +0000">
+    <title>The Walking Dead</title>
+    <sub-title>The Day Will Come When You Won't Be</sub-title>
+    <episode-num system="onscreen">S07E01</episode-num>
+    <desc>As the members of the group remain helpless, Negan takes action that will forever haunt those who survive.</desc>
+    <date>20161023</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9d6e8878616e6c758028d8cca65a6e18.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" start="20251029072400 +0000" stop="20251029082000 +0000">
+    <title>The Walking Dead</title>
+    <sub-title>The Well</sub-title>
+    <episode-num system="onscreen">S07E02</episode-num>
+    <desc>For a number of familiar faces, a new, well-established community seems too good to be true.</desc>
+    <date>20161030</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3c41bf7f137b26cfb678462677d67c22.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" start="20251029082000 +0000" stop="20251029091100 +0000">
+    <title>The Walking Dead</title>
+    <sub-title>The Cell</sub-title>
+    <episode-num system="onscreen">S07E03</episode-num>
+    <desc>A new group of survivors seem to have it all in their impressive community; however, there is a price.</desc>
+    <date>20161106</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9e887469deed55233b7951225f39fd58.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" start="20251029091100 +0000" stop="20251029102200 +0000">
+    <title>The Walking Dead</title>
+    <sub-title>Service</sub-title>
+    <episode-num system="onscreen">S07E04</episode-num>
+    <desc>The remaining members of the group try to keep it together in Alexandria; they receive a sobering visit.</desc>
+    <date>20161113</date>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/51e0aba05a313012096ccb8cc7853ad3.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" start="20251029102200 +0000" stop="20251029111500 +0000">
+    <title>The Walking Dead</title>
+    <sub-title>Go Getters</sub-title>
+    <episode-num system="onscreen">S07E05</episode-num>
+    <desc>Saddled with grief and surrounded by enemies, members of the group try to find safety at the Hilltop before it's too late.</desc>
+    <date>20161120</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/2f013efc6932f9ac9b0ef463a0224cff.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" start="20251029111500 +0000" stop="20251029121500 +0000">
+    <title>The Walking Dead</title>
+    <sub-title>Swear</sub-title>
+    <episode-num system="onscreen">S07E06</episode-num>
+    <desc>Someone stumbles upon a brand new society unlike anything seen before.</desc>
+    <date>20161127</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/342d4bf54c4715f7d5ce2e6693afc1b7.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" start="20251029121500 +0000" stop="20251029133000 +0000">
+    <title>The Walking Dead</title>
+    <sub-title>Sing Me a Song</sub-title>
+    <episode-num system="onscreen">S07E07</episode-num>
+    <desc>A deeper look at the Sanctuary and the world of the Saviors; members of Alexandria look for supplies.</desc>
+    <date>20161204</date>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b069dcbd8dd2bc623bafe29b86b0d24c.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" start="20251029133000 +0000" stop="20251029144200 +0000">
+    <title>The Walking Dead</title>
+    <sub-title>Hearts Still Beating</sub-title>
+    <episode-num system="onscreen">S07E08</episode-num>
+    <desc>Negan's unwelcome visit to Alexandria continues as other members scavenge for supplies; things quickly spin out of control.</desc>
+    <date>20161211</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6d36cca9d22f4c73d58fc2bc32207940.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" start="20251029144200 +0000" stop="20251029154400 +0000">
+    <title>The Walking Dead</title>
+    <sub-title>Rock in the Road</sub-title>
+    <episode-num system="onscreen">S07E09</episode-num>
+    <desc>Rick and the others are led to a new community, where they meet the residents and their ruler; a familiar face resurfaces.</desc>
+    <date>20170212</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/892cd0b8cb22d518733ff1f8f5e9ee51.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" start="20251029154400 +0000" stop="20251029163900 +0000">
+    <title>The Walking Dead</title>
+    <sub-title>New Best Friends</sub-title>
+    <episode-num system="onscreen">S07E10</episode-num>
+    <desc>While searching for a missing Alexandrian, Rick and his group encounter a mysterious collective, its inhabitants unlike any they have come across.</desc>
+    <date>20170219</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/95f822f6f95f2ae923753aa39aa684d5.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" start="20251029163900 +0000" stop="20251029173700 +0000">
+    <title>The Walking Dead</title>
+    <sub-title>Hostiles and Calamities</sub-title>
+    <episode-num system="onscreen">S07E11</episode-num>
+    <desc>An Alexandrian discovers they must navigate the mysterious, confusing and terrifying world within the Saviors' compound.</desc>
+    <date>20170226</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/098f03cdea1428f0d22d7725972eea4d.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" start="20251029173700 +0000" stop="20251029182800 +0000">
+    <title>The Walking Dead</title>
+    <sub-title>Say Yes</sub-title>
+    <episode-num system="onscreen">S07E12</episode-num>
+    <desc>The group scavenges for supplies; back in Alexandria, someone must make a morally challenging decision.</desc>
+    <date>20170305</date>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/574ea1aa7f735ae4df4e0c19bb5e5b94.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" start="20251029182800 +0000" stop="20251029192500 +0000">
+    <title>The Walking Dead</title>
+    <sub-title>Bury Me Here</sub-title>
+    <episode-num system="onscreen">S07E13</episode-num>
+    <desc>Things do not go as planned when a group of Kingdommers delivers goods to the Saviors during a routine supply drop-off.</desc>
+    <date>20170312</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/fff1954911ad415a9412a13fa5db37fb.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" start="20251029192500 +0000" stop="20251029202000 +0000">
+    <title>The Walking Dead</title>
+    <sub-title>The Other Side</sub-title>
+    <episode-num system="onscreen">S07E14</episode-num>
+    <desc>The Saviors visit the Hilltop unexpectedly, surprising everyone, with plans of taking more than supplies.</desc>
+    <date>20170319</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0b37df8d527899a3020503ab0dbc2df5.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" start="20251029202000 +0000" stop="20251029211100 +0000">
+    <title>The Walking Dead</title>
+    <sub-title>Something They Need</sub-title>
+    <episode-num system="onscreen">S07E15</episode-num>
+    <desc>A group of Alexandrians embarks on a journey; one member of the group must make a heartbreaking decision.</desc>
+    <date>20170326</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3048c3bdd5acb05c89e33f5abb1e34df.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" start="20251029211100 +0000" stop="20251029222300 +0000">
+    <title>The Walking Dead</title>
+    <sub-title>The First Day of the Rest of Your Life</sub-title>
+    <episode-num system="onscreen">S07E16</episode-num>
+    <desc>The stakes continue to grow higher as paths cross; the group enacts an intricate plan.</desc>
+    <date>20170402</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d882fc4084bd912850bc27420b535977.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" start="20251029222300 +0000" stop="20251029232000 +0000">
+    <title>The Walking Dead</title>
+    <sub-title>Mercy</sub-title>
+    <episode-num system="onscreen">S08E01</episode-num>
+    <desc>Rick and his group, along with the Kingdom and Hilltop, have banded together to bring the fight to Negan and the Saviors.</desc>
+    <date>20171022</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/fab063ec03622f7458c096bc5a64767b.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" start="20251029232000 +0000" stop="20251030001000 +0000">
+    <title>The Walking Dead</title>
+    <sub-title>The Damned</sub-title>
+    <episode-num system="onscreen">S08E02</episode-num>
+    <desc>The plan involving Alexandrians, Kingdommers and Hilltoppers unfolds; as Rick continues to fight, he encounters a familiar face.</desc>
+    <date>20171029</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/cb53e64bb663eb02311900c5b04e9cc0.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" start="20251030001000 +0000" stop="20251030010000 +0000">
+    <title>The Walking Dead</title>
+    <sub-title>Monsters</sub-title>
+    <episode-num system="onscreen">S08E03</episode-num>
+    <desc>Conflict with the Saviors leads to unintended consequences for the Hilltop, the Kingdom, and Alexandria; morality proves tricky in wartime.</desc>
+    <date>20171105</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3499c004ee06a93251c14826633a0aed.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" start="20251030010000 +0000" stop="20251030015000 +0000">
+    <title>The Walking Dead</title>
+    <sub-title>Some Guy</sub-title>
+    <episode-num system="onscreen">S08E04</episode-num>
+    <desc>A new weapon in the Savior arsenal proves to be a giant hurdle as fighting continues between Rick's forces and those of the Saviors.</desc>
+    <date>20171112</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d21d15e682dfec2da0278d90fc611632.jpg" />
   </programme>
   
 </tv>

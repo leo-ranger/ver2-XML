@@ -1,19 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="68fa84637ac952737656ae5f-64fba469bb3e0baa5dcc0947">
+<channel id="5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947">
     <display-name>Canela.TV Clásicos</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/3b35a0b8-05da-4dcb-ab8d-4155a92274eb/CM-Plex-dark_logo-CanelaTV-clasicos_-_Natalia_Rodriguez.png" />
   </channel>
   
-<programme channel="68fa84637ac952737656ae5f-64fba469bb3e0baa5dcc0947" start="20251027235044 +0000" stop="20251028013514 +0000">
-    <title>La Comadrita</title>
-    <category>Movie</category>
-    <desc>Una empleada doméstica instala a su familia en la casa de sus patrones.</desc>
-    <date>19760101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/6b544cf0-f3d4-49f4-8cf9-54a46abdd8b1_ctv-comadrita-2x3.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-64fba469bb3e0baa5dcc0947" start="20251028013514 +0000" stop="20251028032118 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" start="20251029010550 +0000" stop="20251029025154 +0000">
     <title>La Criada Bien Criada</title>
     <category>Movie</category>
     <desc>Las aventuras y enredos de María Inocencia en su búqueda de empleo como ama de llaves.</desc>
@@ -21,108 +13,116 @@
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/d8be48ec-cc2e-4129-9ecc-253866b3dd60_ctv-criadabiencriada-2x3.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-64fba469bb3e0baa5dcc0947" start="20251028032118 +0000" stop="20251028052138 +0000">
-    <title>Cuando Quiere Un Mexicano</title>
+<programme channel="5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" start="20251029025154 +0000" stop="20251029043138 +0000">
+    <title>Claudia y el Deseo</title>
     <category>Movie</category>
-    <desc>Una chica argentina tiene que casarse para cobrar una herencia.</desc>
-    <date>19440101</date>
+    <desc>Claudia busca el espíritu de su difunto esposo.</desc>
+    <date>19700101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/4fd25c61-d90f-4679-b7e3-34d6ff6011dd_40309_claudia-y-el-deseoposter_2x3.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" start="20251029043138 +0000" stop="20251029061227 +0000">
+    <title>Cada Quien Su Lucha</title>
+    <category>Movie</category>
+    <desc>Capulina tiene que aprender a luchar.</desc>
+    <date>19660101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/c9acae58-f1be-4b28-87e5-92dfa9217e02_38844_2x3_poster.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" start="20251029061227 +0000" stop="20251029075646 +0000">
+    <title>La Mujer de Oro</title>
+    <category>Movie</category>
+    <desc>Silvia roba un banco y pierde el botín.</desc>
+    <date>19700101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/09b47f7a-9597-4454-b738-a59922a84cf0_lamujerdeoro-v2-2x3-cris.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" start="20251029075646 +0000" stop="20251029095140 +0000">
+    <title>La Vida de Chucho El Roto</title>
+    <category>Movie</category>
+    <desc>El carpintero Jesús Arriaga es "Chucho El Roto".</desc>
+    <date>19700101</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/2432188c-f32f-47a3-a3d9-dd5e3a35440f/CM-Plex-logo-clasicos-2000x3000_-_Natalia_Rodriguez.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-64fba469bb3e0baa5dcc0947" start="20251028052138 +0000" stop="20251028071501 +0000">
-    <title>Duro pero Seguro</title>
+<programme channel="5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" start="20251029095140 +0000" stop="20251029112257 +0000">
+    <title>Yo Soy Chucho El Roto</title>
     <category>Movie</category>
-    <desc>Una vendedora de tacos trae suerte a sus clientes.</desc>
-    <date>19750101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/0af8c251-c8f8-4245-b3a1-6537ef21d4b5_ctv-duroperoseguro-2x3.jpg" />
+    <desc>Chucho El Roto es un Robin Hood mexicano.</desc>
+    <date>19700101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/2432188c-f32f-47a3-a3d9-dd5e3a35440f/CM-Plex-logo-clasicos-2000x3000_-_Natalia_Rodriguez.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-64fba469bb3e0baa5dcc0947" start="20251028071501 +0000" stop="20251028090102 +0000">
-    <title>La Devoradora</title>
+<programme channel="5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" start="20251029112257 +0000" stop="20251029132312 +0000">
+    <title>La Vida de Pedro Infante</title>
     <category>Movie</category>
-    <desc>Una hermosa mujer seduce a un joven y lo convence de asesinar a su amante.</desc>
-    <date>19460101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/2ffd1528-6c79-41c9-8c40-c1bdc90dba90_ladevoradora-2x3-cris_0.jpg" />
+    <desc>Basada en la vida real de Pedro Infante.</desc>
+    <date>19630101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/2432188c-f32f-47a3-a3d9-dd5e3a35440f/CM-Plex-logo-clasicos-2000x3000_-_Natalia_Rodriguez.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-64fba469bb3e0baa5dcc0947" start="20251028090102 +0000" stop="20251028104015 +0000">
-    <title>La Madrecita</title>
+<programme channel="5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" start="20251029132312 +0000" stop="20251029150147 +0000">
+    <title>Ven a Cantar Conmigo</title>
     <category>Movie</category>
-    <desc>Sor María Nicolasa arma líos en el convento donde es trasladada.</desc>
-    <date>19740101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/688861d7-5429-4810-a9ea-efe4a28183e1_ctv-la_madrecita-2x3.jpg" />
+    <desc>Una niña de 11 añosy una enfermera entablan una gran amistad.</desc>
+    <date>19660101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/07abf5cb-8b81-4b1d-b614-ab981d2458fd_ven-a-cantar-conmigo-2x3-cris.png" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-64fba469bb3e0baa5dcc0947" start="20251028104015 +0000" stop="20251028130541 +0000">
-    <title>La Mujer sin Alma</title>
+<programme channel="5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" start="20251029150147 +0000" stop="20251029164315 +0000">
+    <title>Tres Lecciones de Amor</title>
     <category>Movie</category>
-    <desc>Una joven decide utilizar su extraordinaria belleza para beneficiarse.</desc>
-    <date>19440101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/1db706ae-1622-4a55-89f7-7f54f7116465_lamujer_sinalma-2x3-albert_1.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-64fba469bb3e0baa5dcc0947" start="20251028130541 +0000" stop="20251028145825 +0000">
-    <title>La Presidenta Municipal</title>
-    <category>Movie</category>
-    <desc>La India María es elegida como alcaldesa de su pueblo.</desc>
-    <date>19740101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/94b1fe20-8230-4a8c-8d61-da91fddc9a71_ctv-presidentamunicipal-2x3.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-64fba469bb3e0baa5dcc0947" start="20251028145825 +0000" stop="20251028163956 +0000">
-    <title>La Selva de Fuego</title>
-    <category>Movie</category>
-    <desc>Una mujer despierta pasiones en los trabajadores de un campamento en la selva.</desc>
-    <date>19450101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/a5478860-4ed7-457f-9605-c4c2d09d43ef_ctv-selva_de_fuego-2x3_0.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-64fba469bb3e0baa5dcc0947" start="20251028163956 +0000" stop="20251028181216 +0000">
-    <title>La Sombra del Otro</title>
-    <category>Movie</category>
-    <desc>Víctor quiere ser campeón de boxeo, pero su madre lo impide.</desc>
+    <desc>Tin-Tan tuvo como antepasado a Casanova.</desc>
     <date>19570101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/b0140134-fcbf-4bfc-968f-f286ce82ee8f_la_sombra_del_otro-2x3-albert.jpg" />
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/7802e1ad-c489-4ba4-a3dc-35317836db38_tres-lecciones-de-amor-2x3-cris.png" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-64fba469bb3e0baa5dcc0947" start="20251028181216 +0000" stop="20251028200002 +0000">
-    <title>Las Aventuras de Pito Pérez</title>
+<programme channel="5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" start="20251029164315 +0000" stop="20251029181429 +0000">
+    <title>El Santo contra los Cazadores de Cabezas</title>
     <category>Movie</category>
-    <desc>Un hombre regresa a su pueblo y cuenta sus aventuras a un escritor.</desc>
-    <date>19570101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/8eaf10ca-3b1a-4f39-a245-02c94e9229fa_las_aventuras_de_pito_perez-2x3-albert.jpg" />
+    <desc>Santo, el Enmascarado de Plata, escapa de la selva</desc>
+    <date>19690101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/7c82c97c-8a3e-4f3b-af94-a573ab0289a4_el-santo-contra-los-cazadores-de-cabezas-2x3-cris.png" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-64fba469bb3e0baa5dcc0947" start="20251028200002 +0000" stop="20251028213908 +0000">
-    <title>Las Colegialas</title>
+<programme channel="5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" start="20251029181429 +0000" stop="20251029194313 +0000">
+    <title>Santo contra Capulina</title>
     <category>Movie</category>
-    <desc>En un internado de señoritas destaca Amelia por su comportamiento.</desc>
-    <date>19460101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/157d3f51-02b8-49d9-b1a5-772fd0a0f3d8_ctv-las_colegialas-2x3.jpg" />
+    <desc>Capulina es un gran admirador del Santo.</desc>
+    <date>19700101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/dab90015-c09f-485e-8844-877b5c1045f5_santo-contra-capulina-2x3-cris.png" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-64fba469bb3e0baa5dcc0947" start="20251028213908 +0000" stop="20251028232220 +0000">
-    <title>Las Locuras de Tin-Tan</title>
+<programme channel="5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" start="20251029194313 +0000" stop="20251029212137 +0000">
+    <title>Rebelde sin Casa</title>
     <category>Movie</category>
-    <desc>Tin-Tan crea un invento extraordinario para dejar de trabajar.</desc>
-    <date>19520101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5459130f-4c51-431f-acad-3edf788731b0_ctv-locurastintan-2x3.jpg" />
+    <desc>Tin-Tan gana propinas estacionando autos.</desc>
+    <date>19560101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/716c6b04-7ca7-4d7e-bea0-592edea8c2ed_rebelde-sin-casaa-2x3-cris.png" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-64fba469bb3e0baa5dcc0947" start="20251028232220 +0000" stop="20251029010550 +0000">
-    <title>La Comadrita</title>
+<programme channel="5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" start="20251029212137 +0000" stop="20251029225019 +0000">
+    <title>El Pecado de Adán y Eva</title>
     <category>Movie</category>
-    <desc>Una empleada doméstica instala a su familia en la casa de sus patrones.</desc>
-    <date>19760101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/6b544cf0-f3d4-49f4-8cf9-54a46abdd8b1_ctv-comadrita-2x3.jpg" />
+    <desc>Adán recuerda su vida antes de ser expulsado del Paraíso.</desc>
+    <date>19680101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/2432188c-f32f-47a3-a3d9-dd5e3a35440f/CM-Plex-logo-clasicos-2000x3000_-_Natalia_Rodriguez.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-64fba469bb3e0baa5dcc0947" start="20251029010550 +0000" stop="20251029025154 +0000">
-    <title>La Criada Bien Criada</title>
+<programme channel="5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" start="20251029225019 +0000" stop="20251030003025 +0000">
+    <title>Operación Carambola</title>
     <category>Movie</category>
-    <desc>Las aventuras y enredos de María Inocencia en su búqueda de empleo como ama de llaves.</desc>
-    <date>19710101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/d8be48ec-cc2e-4129-9ecc-253866b3dd60_ctv-criadabiencriada-2x3.jpg" />
+    <desc>Capulina es un torpe agente secreto.</desc>
+    <date>19700101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/468162b6-0478-4ab5-994b-16e378dd5240_operacion-carambola-2x3-cris_0.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" start="20251030003025 +0000" stop="20251030020909 +0000">
+    <title>La Odalisca No. 13</title>
+    <category>Movie</category>
+    <desc>Una bailarina mexicana es secuestrada por un sultán.</desc>
+    <date>19580101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/2c3dd235-8588-406d-8725-da9e01a57f45_la-odalisca-no-13-2x3-cris.png" />
   </programme>
   
 </tv>

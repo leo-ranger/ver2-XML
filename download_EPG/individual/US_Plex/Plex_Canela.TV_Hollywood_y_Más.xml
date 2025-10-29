@@ -1,27 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="68fa84637ac952737656ae5f-64fba5f3214cf8b3b54b5ecc">
+<channel id="5e20b730f2f8d5003d739db7-64fba5f3214cf8b3b54b5ecc">
     <display-name>Canela.TV Hollywood y Más</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/c3cadef2-bd63-425b-a7d4-e48752f83c1d/CM-Plex-dark_logo-CanelaTV-hollywood_y_mas_-_Mariana_Gonzalez.png" />
   </channel>
   
-<programme channel="68fa84637ac952737656ae5f-64fba5f3214cf8b3b54b5ecc" start="20251028002519 +0000" stop="20251028023529 +0000">
-    <title>Ven y Encuéntrame</title>
+<programme channel="5e20b730f2f8d5003d739db7-64fba5f3214cf8b3b54b5ecc" start="20251028235339 +0000" stop="20251029014444 +0000">
+    <title>Detective Knight: Redención</title>
     <category>Movie</category>
-    <desc>Claire desaparece y David sigue su rastro por un camino frenético y peligroso.</desc>
-    <date>20160101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/81e584c5-cb67-4940-8da3-d41e276c3c32_2x3.png" />
+    <desc>Knight debe redimirse enfrentando a un grupo terrorista en Navidad.</desc>
+    <date>20220101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/4a748a41a6f926d92a8170f354d982a5d7ea63a7_2x3.png" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-64fba5f3214cf8b3b54b5ecc" start="20251028023529 +0000" stop="20251028042452 +0000">
-    <title>El que Busca Encuentra</title>
-    <category>Movie</category>
-    <desc>Esperanza y Marcos son dos personas que creen en el destino…</desc>
-    <date>20170101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5a59956a-46ec-456b-aaf8-103cbef74053_el-que-busca-encuentra-2x3-cris.png" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-64fba5f3214cf8b3b54b5ecc" start="20251028042452 +0000" stop="20251028062857 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64fba5f3214cf8b3b54b5ecc" start="20251029014444 +0000" stop="20251029034849 +0000">
     <title>Detective Knight: Sin Piedad</title>
     <category>Movie</category>
     <desc>Knight persigue ladrones desde Los Ángeles a Nueva York.</desc>
@@ -29,55 +21,63 @@
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/4d270d613fb4819dfd2a3298c0d9fd646143209d_2x3.png" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-64fba5f3214cf8b3b54b5ecc" start="20251028062857 +0000" stop="20251028082302 +0000">
-    <title>Detective Knight: Redención</title>
+<programme channel="5e20b730f2f8d5003d739db7-64fba5f3214cf8b3b54b5ecc" start="20251029034849 +0000" stop="20251029054053 +0000">
+    <title>Atraco Americano</title>
     <category>Movie</category>
-    <desc>Knight debe redimirse enfrentando a un grupo terrorista en Navidad.</desc>
-    <date>20220101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/4a748a41a6f926d92a8170f354d982a5d7ea63a7_2x3.png" />
+    <desc>James esta en deuda con su hermano mayor Frankie</desc>
+    <date>20150101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/bcc673e98daae4daf61e1967cd05dae116d48d6a_2x3.png" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-64fba5f3214cf8b3b54b5ecc" start="20251028082302 +0000" stop="20251028101135 +0000">
-    <title>Detective Knight: Independencia</title>
+<programme channel="5e20b730f2f8d5003d739db7-64fba5f3214cf8b3b54b5ecc" start="20251029054053 +0000" stop="20251029073708 +0000">
+    <title>Milagro en la Caverna</title>
     <category>Movie</category>
-    <desc>El detective Knight debe salvar el Día de la Independencia.</desc>
+    <desc>Un equipo de fútbol queda atrapado en una cueva esperando ser rescatado.</desc>
+    <date>20190101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/737a43cfed780f9badc8402c35a4db18baa725c1_2x3.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba5f3214cf8b3b54b5ecc" start="20251029073708 +0000" stop="20251029092802 +0000">
+    <title>El Mensajero</title>
+    <category>Movie</category>
+    <desc>Jake es el mejor en el negocio de mensajería</desc>
+    <date>20240101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/daadff39-830d-47fb-bcf5-3ba76a2a1764_2x3.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba5f3214cf8b3b54b5ecc" start="20251029092802 +0000" stop="20251029111601 +0000">
+    <title>Rescate en el Océano</title>
+    <category>Movie</category>
+    <desc>Un grupo antiterrorista se une a la marina para evitar una crisis.</desc>
     <date>20230101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/fe3a4286622bee50bcc01ba0dfbb2ccc04306e5a_2x3.png" />
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/80212ed7-1743-433b-8e81-bcd73ab98766_rescateeneloceano-2x3-cris.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-64fba5f3214cf8b3b54b5ecc" start="20251028101135 +0000" stop="20251028115142 +0000">
-    <title>40 Días y 40 Noches</title>
+<programme channel="5e20b730f2f8d5003d739db7-64fba5f3214cf8b3b54b5ecc" start="20251029111601 +0000" stop="20251029125947 +0000">
+    <title>Huracán</title>
     <category>Movie</category>
-    <desc>Tras una catástrofe, una microbióloga recopila el ADN de múltiples especies.</desc>
-    <date>20120101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/719e5cd2fc31e805cc05197c01800151d2ffb5e9_2x3.png" />
+    <desc>Un experimento energético enloquece y una oleada de huracanes se desata.</desc>
+    <date>20130101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ddfad76d-4d1b-4dd9-a8c8-a666356dcd00_huracan-2x3-cris.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-64fba5f3214cf8b3b54b5ecc" start="20251028115142 +0000" stop="20251028133455 +0000">
-    <title>Súper Ciclón</title>
+<programme channel="5e20b730f2f8d5003d739db7-64fba5f3214cf8b3b54b5ecc" start="20251029125947 +0000" stop="20251029144411 +0000">
+    <title>Erupción en Miami</title>
     <category>Movie</category>
-    <desc>Un súper ciclón amenaza la Costa Este de Estados Unidos. ¿Qué pasará?</desc>
-    <date>20120101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/3ebc9ce2-0b88-4adb-920c-601f9710914d_superciclon-2x3-cris.jpg" />
+    <desc>¡Un súper-volcán está a punto de estallar!</desc>
+    <date>20110101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/9a878d79-661f-45cc-9da2-11267ffe0ff2_erupcion-en-miami-2x3-cris.png" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-64fba5f3214cf8b3b54b5ecc" start="20251028133455 +0000" stop="20251028151620 +0000">
-    <title>Terremoto Fantasmal</title>
+<programme channel="5e20b730f2f8d5003d739db7-64fba5f3214cf8b3b54b5ecc" start="20251029144411 +0000" stop="20251029162359 +0000">
+    <title>Titanes del Atlántico: Resurección</title>
     <category>Movie</category>
-    <desc>Los adolescentes quedan atrapados en su escuela secundaria por el fantasma de un ex director.</desc>
-    <date>20120101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/9b39fdce-71b1-4c71-9a67-772f7cfc6a80_terremoto-fantasmal_2x3.png" />
+    <desc>Gigantescos robots vuelven a la acción para salvar al mundo.</desc>
+    <date>20180101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/f38c40a16901a7137f0a067b7e87251eed2cc019_2x3.png" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-64fba5f3214cf8b3b54b5ecc" start="20251028151620 +0000" stop="20251028170237 +0000">
-    <title>Apocalipsis de Hielo</title>
-    <category>Movie</category>
-    <desc>La Tierra se congela y un grupo lucha por sobrevivir.</desc>
-    <date>20200101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/046f7c30-9cac-44c0-87ee-9772700906a7_apocalipsisdehielo-2x3-cris.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-64fba5f3214cf8b3b54b5ecc" start="20251028170237 +0000" stop="20251028184702 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64fba5f3214cf8b3b54b5ecc" start="20251029162359 +0000" stop="20251029180524 +0000">
     <title>Peligro De Tornado</title>
     <category>Movie</category>
     <desc>Estudiantes luchan contra el tiempo para prevenir más desastres.</desc>
@@ -85,36 +85,36 @@
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/2fee9c92-f5c4-4830-b49a-6e0d6e977a45_peligro-de-tornado_2x3_0.png" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-64fba5f3214cf8b3b54b5ecc" start="20251028184702 +0000" stop="20251028202800 +0000">
-    <title>Soltera a los 30</title>
+<programme channel="5e20b730f2f8d5003d739db7-64fba5f3214cf8b3b54b5ecc" start="20251029180524 +0000" stop="20251029195323 +0000">
+    <title>Rescate en el Océano</title>
     <category>Movie</category>
-    <desc>Kate está a punto de cumplir 30.</desc>
-    <date>20160101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f9800ae4-f40d-4003-92b5-aa9023dfc385/CM-Plex-logo-hollywood_y_mas-2000x3000_-_Mariana_Gonzalez.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-64fba5f3214cf8b3b54b5ecc" start="20251028202800 +0000" stop="20251028220806 +0000">
-    <title>40 Días y 40 Noches</title>
-    <category>Movie</category>
-    <desc>Tras una catástrofe, una microbióloga recopila el ADN de múltiples especies.</desc>
-    <date>20120101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/719e5cd2fc31e805cc05197c01800151d2ffb5e9_2x3.png" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-64fba5f3214cf8b3b54b5ecc" start="20251028220806 +0000" stop="20251028235339 +0000">
-    <title>Detective Knight: Independencia</title>
-    <category>Movie</category>
-    <desc>El detective Knight debe salvar el Día de la Independencia.</desc>
+    <desc>Un grupo antiterrorista se une a la marina para evitar una crisis.</desc>
     <date>20230101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/fe3a4286622bee50bcc01ba0dfbb2ccc04306e5a_2x3.png" />
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/80212ed7-1743-433b-8e81-bcd73ab98766_rescateeneloceano-2x3-cris.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-64fba5f3214cf8b3b54b5ecc" start="20251028235339 +0000" stop="20251029014444 +0000">
-    <title>Detective Knight: Redención</title>
+<programme channel="5e20b730f2f8d5003d739db7-64fba5f3214cf8b3b54b5ecc" start="20251029195323 +0000" stop="20251029223512 +0000">
+    <title>Metro</title>
     <category>Movie</category>
-    <desc>Knight debe redimirse enfrentando a un grupo terrorista en Navidad.</desc>
-    <date>20220101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/4a748a41a6f926d92a8170f354d982a5d7ea63a7_2x3.png" />
+    <desc>El terror golpea el sistema de trenes subterráneos en Moscú.</desc>
+    <date>20130101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ca425f81-9556-471f-8217-10eed7e324e3_metro-2x3-cris.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba5f3214cf8b3b54b5ecc" start="20251029223512 +0000" stop="20251030002906 +0000">
+    <title>El Mensajero</title>
+    <category>Movie</category>
+    <desc>Jake es el mejor en el negocio de mensajería</desc>
+    <date>20240101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/daadff39-830d-47fb-bcf5-3ba76a2a1764_2x3.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba5f3214cf8b3b54b5ecc" start="20251030002906 +0000" stop="20251030022821 +0000">
+    <title>Milagro en la Caverna</title>
+    <category>Movie</category>
+    <desc>Un equipo de fútbol queda atrapado en una cueva esperando ser rescatado.</desc>
+    <date>20190101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/737a43cfed780f9badc8402c35a4db18baa725c1_2x3.png" />
   </programme>
   
 </tv>

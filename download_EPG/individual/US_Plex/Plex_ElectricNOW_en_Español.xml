@@ -1,11 +1,82 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="68fa84637ac952737656ae5f-6434540bf43c8cfbfdc6e600">
+<channel id="5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600">
     <display-name>ElectricNOW en Español</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/2ba8f950-5d83-4adb-8fd5-e0bf4426de43/ENow_ES_Logo_-_Dark_Backgrounds_1500x1000RDX.png" />
   </channel>
   
-<programme channel="68fa84637ac952737656ae5f-6434540bf43c8cfbfdc6e600" start="20251028010000 +0000" stop="20251028020000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600" start="20251029010000 +0000" stop="20251029020000 +0000">
+    <title>Leverage</title>
+    <sub-title>El Caso en la Nieve</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>El equipo ayuda a un Guardia Nacional a encontrar justicia por la clausura de su hogar.</desc>
+    <date>20090925</date>
+    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_horizontal.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600" start="20251029020000 +0000" stop="20251029030000 +0000">
+    <title>Leverage</title>
+    <sub-title>A Kilómetros de Altura</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>El equipo busca exponer el encubrimiento de un homicidio a manos de una corporación.</desc>
+    <date>20090925</date>
+    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_horizontal.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600" start="20251029030000 +0000" stop="20251029040000 +0000">
+    <title>Leverage</title>
+    <sub-title>El Caso de los Dos Caballos</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Un corredor de Wall Street quema un establo para deshacerse de caballos de carreras perdedores.</desc>
+    <date>20080925</date>
+    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_horizontal.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600" start="20251029040000 +0000" stop="20251029050000 +0000">
+    <title>Leverage Redemption</title>
+    <sub-title>El Golpe del Golf</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>Un viejo amigo llega de visita, lo que hace que Harry se llene de dudas.</desc>
+    <date>20210925</date>
+    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_redemption_s01e12_es_0.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600" start="20251029050000 +0000" stop="20251029060000 +0000">
+    <title>Almost Paradise</title>
+    <sub-title>Una Boda para Morirse</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Kai es asignado a ir de encubierta.</desc>
+    <date>20200925</date>
+    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/almost_paradise_s01e09_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600" start="20251029060000 +0000" stop="20251029070000 +0000">
+    <title>Almost Paradise</title>
+    <sub-title>Algo Camina Hacia Walker</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Alex se apresura para salvar a su hija.</desc>
+    <date>20200925</date>
+    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/almost_paradise_s01e10_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600" start="20251029070000 +0000" stop="20251029080000 +0000">
+    <title>The Librarians</title>
+    <sub-title>Y la Corona del Rey Arturo</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Alguien se está deshaciendo de posibles Bibliotecarios</desc>
+    <date>20140712</date>
+    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/librarians_s01e01_es_0.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600" start="20251029080000 +0000" stop="20251029090000 +0000">
+    <title>The Librarians</title>
+    <sub-title>Y la Espada en la Piedra</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>La Hermandad de la Serpiente está tratando de regresar la magia a nuestro mundo.</desc>
+    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/librarians_s01e02_es_0.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600" start="20251029090000 +0000" stop="20251029100000 +0000">
     <title>The Librarians</title>
     <sub-title>Y las Fabulas de la Perdición</sub-title>
     <episode-num system="onscreen">S01E06</episode-num>
@@ -14,7 +85,7 @@
     <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/librarians_s01e06_es_0.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-6434540bf43c8cfbfdc6e600" start="20251028020000 +0000" stop="20251028030000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600" start="20251029100000 +0000" stop="20251029110000 +0000">
     <title>Leverage</title>
     <sub-title>El Caso de los 10 Obsequios</sub-title>
     <episode-num system="onscreen">S04E02</episode-num>
@@ -23,7 +94,7 @@
     <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_horizontal.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-6434540bf43c8cfbfdc6e600" start="20251028030000 +0000" stop="20251028040000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600" start="20251029110000 +0000" stop="20251029120000 +0000">
     <title>Leverage</title>
     <sub-title>El Caso Nigeriano</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -32,178 +103,7 @@
     <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_horizontal.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-6434540bf43c8cfbfdc6e600" start="20251028040000 +0000" stop="20251028050000 +0000">
-    <title>Leverage</title>
-    <sub-title>El Caso del Trabajo del Oro</sub-title>
-    <episode-num system="onscreen">S04E16</episode-num>
-    <desc>El equipo Leverage se enfrenta a la industria de Oro-por-Efectivo impulsada por la recesión.</desc>
-    <date>20120925</date>
-    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_horizontal.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6434540bf43c8cfbfdc6e600" start="20251028050000 +0000" stop="20251028060000 +0000">
-    <title>Leverage</title>
-    <sub-title>El Caso de la Patente</sub-title>
-    <episode-num system="onscreen">S04E17</episode-num>
-    <desc>El equipo Leverage debe orquestar una falsa toma de rehenes.</desc>
-    <date>20120925</date>
-    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_horizontal.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6434540bf43c8cfbfdc6e600" start="20251028060000 +0000" stop="20251028070000 +0000">
-    <title>Leverage</title>
-    <sub-title>El Caso del Último Trabajo</sub-title>
-    <episode-num system="onscreen">S04E18</episode-num>
-    <desc>El equipo Leverage debe reclutar a viejos amigos.</desc>
-    <date>20120925</date>
-    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_horizontal.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6434540bf43c8cfbfdc6e600" start="20251028070000 +0000" stop="20251028080000 +0000">
-    <title>Leverage</title>
-    <sub-title>El Trabajo del Ave Grande</sub-title>
-    <episode-num system="onscreen">S05E01</episode-num>
-    <desc>El equipo se enfrenta a un magnate de aviación.</desc>
-    <date>20120925</date>
-    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_horizontal.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6434540bf43c8cfbfdc6e600" start="20251028080000 +0000" stop="20251028090000 +0000">
-    <title>Leverage</title>
-    <sub-title>El Trabajo de la Línea Azul</sub-title>
-    <episode-num system="onscreen">S05E02</episode-num>
-    <desc>El equipo salva a un jugador de hockey de ser herido de forma permanente durante los playoffs.</desc>
-    <date>20120925</date>
-    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_horizontal.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6434540bf43c8cfbfdc6e600" start="20251028090000 +0000" stop="20251028100000 +0000">
-    <title>Leverage</title>
-    <sub-title>El Trabajo del Primer Contacto</sub-title>
-    <episode-num system="onscreen">S05E03</episode-num>
-    <desc>El equipo Leverage derrota a un científico adinerado.</desc>
-    <date>20120925</date>
-    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_horizontal.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6434540bf43c8cfbfdc6e600" start="20251028100000 +0000" stop="20251028110000 +0000">
-    <title>Leverage</title>
-    <sub-title>El Trabajo de la Conexión Francesa</sub-title>
-    <episode-num system="onscreen">S05E04</episode-num>
-    <desc>Leverage se adentra en el mundo de las escuelas culinarias.</desc>
-    <date>20120925</date>
-    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_horizontal.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6434540bf43c8cfbfdc6e600" start="20251028110000 +0000" stop="20251028120000 +0000">
-    <title>Leverage</title>
-    <sub-title>El Trabajo Dame una Calle A-K</sub-title>
-    <episode-num system="onscreen">S05E05</episode-num>
-    <desc>El equipo debe derribar a su enemigo más corrupto: El Congreso.</desc>
-    <date>20120925</date>
-    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_horizontal.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6434540bf43c8cfbfdc6e600" start="20251028120000 +0000" stop="20251028130000 +0000">
-    <title>Leverage</title>
-    <sub-title>El Trabajo del Caso D.B. Cooper</sub-title>
-    <episode-num system="onscreen">S05E06</episode-num>
-    <desc>En un flashback a los 70s se resuelve uno de los misterios más grandes de América.</desc>
-    <date>20120925</date>
-    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_horizontal.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6434540bf43c8cfbfdc6e600" start="20251028130000 +0000" stop="20251028140000 +0000">
-    <title>Leverage</title>
-    <sub-title>El Trabajo del Verdadero Auto Falso</sub-title>
-    <episode-num system="onscreen">S05E07</episode-num>
-    <desc>Leverage falsifica el descubrimiento de un legendario coche antiguo.</desc>
-    <date>20120925</date>
-    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_horizontal.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6434540bf43c8cfbfdc6e600" start="20251028140000 +0000" stop="20251028150000 +0000">
-    <title>Leverage</title>
-    <sub-title>El Trabajo del Ala Partida</sub-title>
-    <episode-num system="onscreen">S05E08</episode-num>
-    <desc>Parker espía a los clientes del Brew Pub por diversión.</desc>
-    <date>20120925</date>
-    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_horizontal.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6434540bf43c8cfbfdc6e600" start="20251028150000 +0000" stop="20251028160000 +0000">
-    <title>Leverage</title>
-    <sub-title>El Trabajo del Montaje</sub-title>
-    <episode-num system="onscreen">S05E09</episode-num>
-    <desc>Nate debe usar todas sus habilidades como detective.</desc>
-    <date>20120925</date>
-    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_horizontal.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6434540bf43c8cfbfdc6e600" start="20251028160000 +0000" stop="20251028170000 +0000">
-    <title>Leverage</title>
-    <sub-title>El Trabajo de la Bomba Sucia</sub-title>
-    <episode-num system="onscreen">S05E10</episode-num>
-    <desc>Eliot, Hardison y Parker se unen al Coronel Vance en una carrera para detener un ataque terrorista.</desc>
-    <date>20120925</date>
-    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_horizontal.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6434540bf43c8cfbfdc6e600" start="20251028170000 +0000" stop="20251028180000 +0000">
-    <title>Leverage</title>
-    <sub-title>El Trabajo del Precio Bajo</sub-title>
-    <episode-num system="onscreen">S05E11</episode-num>
-    <desc>El equipo Leverage sabotea la inauguración una megatienda.</desc>
-    <date>20120925</date>
-    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_horizontal.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6434540bf43c8cfbfdc6e600" start="20251028180000 +0000" stop="20251028190000 +0000">
-    <title>Leverage</title>
-    <sub-title>El Trabajo del Conejo Blanco</sub-title>
-    <episode-num system="onscreen">S05E12</episode-num>
-    <desc>El equipo debe ejecutar la estafa más difícil de toda la historia.</desc>
-    <date>20120925</date>
-    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_horizontal.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6434540bf43c8cfbfdc6e600" start="20251028190000 +0000" stop="20251028200000 +0000">
-    <title>Leverage</title>
-    <sub-title>El Trabajo del Viñedo</sub-title>
-    <episode-num system="onscreen">S05E13</episode-num>
-    <desc>El equipo Leverage estafa al dueño corrupto de una viña.</desc>
-    <date>20120925</date>
-    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_horizontal.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6434540bf43c8cfbfdc6e600" start="20251028200000 +0000" stop="20251028210000 +0000">
-    <title>Leverage</title>
-    <sub-title>El Trabajo del Juguete</sub-title>
-    <episode-num system="onscreen">S05E14</episode-num>
-    <desc>El equipo crea una manía global por un juguete.</desc>
-    <date>20120925</date>
-    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_horizontal.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6434540bf43c8cfbfdc6e600" start="20251028210000 +0000" stop="20251028220000 +0000">
-    <title>Leverage</title>
-    <sub-title>El Trabajo del Largo Adiós</sub-title>
-    <episode-num system="onscreen">S05E15</episode-num>
-    <desc>Nate guía al equipo a través de su estafa más riesgosa y mortal.</desc>
-    <date>20120925</date>
-    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_horizontal.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6434540bf43c8cfbfdc6e600" start="20251028220000 +0000" stop="20251028230000 +0000">
-    <title>Leverage</title>
-    <sub-title>El Caso Nigeriano</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Nate Ford lidera un equipo de ladrones expertos.</desc>
-    <date>20080925</date>
-    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_horizontal.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6434540bf43c8cfbfdc6e600" start="20251028230000 +0000" stop="20251029000000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600" start="20251029120000 +0000" stop="20251029130000 +0000">
     <title>Leverage</title>
     <sub-title>De Regreso a Casa</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
@@ -212,22 +112,110 @@
     <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_horizontal.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-6434540bf43c8cfbfdc6e600" start="20251029000000 +0000" stop="20251029010000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600" start="20251029130000 +0000" stop="20251029150000 +0000">
+    <title>Asalto al Cine</title>
+    <category>Movie</category>
+    <desc>Cuatro jóvenes planean robar un cine, sin saber que sus vidas cambiarán drásticamente.</desc>
+    <date>20110925</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/3e6951ec-e546-485a-aa2a-b393c89564b8/Electric_Now_ES_Channel_Art_Vertical1500x1000.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600" start="20251029150000 +0000" stop="20251029160000 +0000">
+    <title>The Librarians</title>
+    <sub-title>Y los Ecos del Recuerdo</sub-title>
+    <episode-num system="onscreen">S04E12</episode-num>
+    <desc>Baird debe unir a los Bibliotecarios antes de que un mundo sin conocimiento se convierta en una realidad.</desc>
+    <date>20180702</date>
+    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/libs_s4_3840x2160-1_0_0.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600" start="20251029160000 +0000" stop="20251029170000 +0000">
+    <title>The Librarians</title>
+    <sub-title>Y el Oscuro Secreto</sub-title>
+    <episode-num system="onscreen">S04E01</episode-num>
+    <desc>Una secta secreta del Vaticano descubre un mapa antiguo.</desc>
+    <date>20171213</date>
+    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/libs_s4_3840x2160-1_0_0.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600" start="20251029170000 +0000" stop="20251029180000 +0000">
+    <title>The Librarians</title>
+    <sub-title>Y las Fabulas de la Perdición</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Los Bibliotecarios viajan a un pueblo donde los cuentos de hadas están cobrando vida.</desc>
+    <date>20140401</date>
+    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/librarians_s01e06_es_0.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600" start="20251029180000 +0000" stop="20251029190000 +0000">
     <title>Leverage</title>
-    <sub-title>La Boda</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>El equipo se hace pasar por planeadores de bodas para recuperar el dinero prometido a un chivo expiatorio.</desc>
-    <date>20090925</date>
+    <sub-title>El Caso de los 10 Obsequios</sub-title>
+    <episode-num system="onscreen">S04E02</episode-num>
+    <desc>El equipo debe completar una estafa antes de que Nate vaya a la carcel por asesinato.</desc>
+    <date>20110925</date>
     <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_horizontal.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-6434540bf43c8cfbfdc6e600" start="20251029010000 +0000" stop="20251029020000 +0000">
-    <title>Leverage</title>
-    <sub-title>El Caso en la Nieve</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>El equipo ayuda a un Guardia Nacional a encontrar justicia por la clausura de su hogar.</desc>
-    <date>20090925</date>
-    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_horizontal.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600" start="20251029190000 +0000" stop="20251029200000 +0000">
+    <title>Leverage Redemption</title>
+    <sub-title>El Golpe de los Rembrants</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Tras la muerte de Nate, el equipo recluta a Harry, un abogado corporativo lleno de remordimientos.</desc>
+    <date>20210925</date>
+    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_redemption_s01e01_es_0.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600" start="20251029200000 +0000" stop="20251029210000 +0000">
+    <title>Leverage Redemption</title>
+    <sub-title>El Golpe de los Monos Panameños</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>La hermana adoptiva de Hardison llega de visita cuando el grupo viaja a Panamá a realizar un atraco.</desc>
+    <date>20210925</date>
+    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/leverage_redemption_s01e02_es_0.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600" start="20251029210000 +0000" stop="20251029220000 +0000">
+    <title>Almost Paradise</title>
+    <sub-title>Una Boda para Morirse</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Kai es asignado a ir de encubierta.</desc>
+    <date>20200925</date>
+    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/almost_paradise_s01e09_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600" start="20251029220000 +0000" stop="20251029230000 +0000">
+    <title>Almost Paradise</title>
+    <sub-title>Algo Camina Hacia Walker</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Alex se apresura para salvar a su hija.</desc>
+    <date>20200925</date>
+    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/almost_paradise_s01e10_es.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600" start="20251029230000 +0000" stop="20251030000000 +0000">
+    <title>The Librarians</title>
+    <sub-title>Y la Corona del Rey Arturo</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Alguien se está deshaciendo de posibles Bibliotecarios</desc>
+    <date>20140712</date>
+    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/librarians_s01e01_es_0.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600" start="20251030000000 +0000" stop="20251030010000 +0000">
+    <title>The Librarians</title>
+    <sub-title>Y la Espada en la Piedra</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>La Hermandad de la Serpiente está tratando de regresar la magia a nuestro mundo.</desc>
+    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/librarians_s01e02_es_0.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600" start="20251030010000 +0000" stop="20251030020000 +0000">
+    <title>The Librarians</title>
+    <sub-title>Y las Fabulas de la Perdición</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Los Bibliotecarios viajan a un pueblo donde los cuentos de hadas están cobrando vida.</desc>
+    <date>20140401</date>
+    <icon src="https://d2mlon68o0r7mn.cloudfront.net/Images/S3/librarians_s01e06_es_0.jpg" />
   </programme>
   
 </tv>

@@ -1,147 +1,120 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="68fa84637ac952737656ae5f-6334a8e48a7b2a349d903b8c">
+<channel id="5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c">
     <display-name>Billiard TV</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/d413e5e7-6a1a-4539-8c84-1bf57faee1a3/Plex_billiard__1500x1000__color_rdxfds.png" />
   </channel>
   
-<programme channel="68fa84637ac952737656ae5f-6334a8e48a7b2a349d903b8c" start="20251028010000 +0000" stop="20251028020000 +0000">
-    <title>2024 APA Junior Championships</title>
-    <sub-title>2024 APA Junior Championships</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Black Tier Championship: Konner McFadyen vs Tyler Ramos from July 1, 2024</desc>
-    <date>20250816</date>
-    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/widescreen/3840x2160/24apajuniorchamp_16by9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6334a8e48a7b2a349d903b8c" start="20251028020000 +0000" stop="20251028040000 +0000">
-    <title>2024 Predator New Zealand World Championships</title>
-    <sub-title>Yalin WPA Men’s World 8-Ball Championship</sub-title>
-    <episode-num system="onscreen">S01E22</episode-num>
-    <desc>Final: Joshua Filler vs (Ryan) Hsu Jui-An from September 8, 2024</desc>
-    <date>20250412</date>
-    <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_rfqkwek1/version/0/vid_sec/1900/width/3840/height/2160/type/3/a.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6334a8e48a7b2a349d903b8c" start="20251028040000 +0000" stop="20251028050000 +0000">
-    <title>2025 Predator EuroTour Arc Estonian Open</title>
-    <category>Movie</category>
-    <desc>Men's Winners Qualifications: Konrad Juszczyszyn vs Albin Ouschan Jr from April 11, 2025</desc>
-    <date>20250615</date>
-    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/bill2961_portrait.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6334a8e48a7b2a349d903b8c" start="20251028050000 +0000" stop="20251028060000 +0000">
-    <title>2025 Predator EuroTour Arc Estonian Open</title>
-    <category>Movie</category>
-    <desc>Men's Loser Round 4: Fabio Rizzi vs Önder Kemal Kilic from April 11, 2025</desc>
-    <date>20250615</date>
-    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/bill2962_portrait.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6334a8e48a7b2a349d903b8c" start="20251028060000 +0000" stop="20251028070000 +0000">
-    <title>2025 Predator EuroTour Arc Estonian Open</title>
-    <category>Movie</category>
-    <desc>Men's Losers Qualification: Mark Mägi vs Jose Alberto Delgado from April 11, 2025</desc>
-    <date>20250615</date>
-    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/bill2963_portrait.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6334a8e48a7b2a349d903b8c" start="20251028070000 +0000" stop="20251028090000 +0000">
-    <title>2025 Predator EuroTour Arc Estonian Open</title>
-    <category>Movie</category>
-    <desc>Men's Quarterfinal: Albin Ouschan Jr vs Denis Grabe from April 12, 2025</desc>
-    <date>20250511</date>
-    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/bill2966_portrait.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6334a8e48a7b2a349d903b8c" start="20251028090000 +0000" stop="20251028113000 +0000">
-    <title>2025 Predator EuroTour Arc Estonian Open</title>
-    <category>Movie</category>
-    <desc>Men's Quarterfinal: Roman Hybler vs Stefan Kasper from April 12, 2025</desc>
-    <date>20250615</date>
-    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/bill2970_portrait.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6334a8e48a7b2a349d903b8c" start="20251028113000 +0000" stop="20251028133000 +0000">
-    <title>2025 Predator EuroTour Arc Estonian Open</title>
-    <category>Movie</category>
-    <desc>Men's Semifinal: Stefan Kasper vs Joshua Filler from April 12, 2025</desc>
-    <date>20250511</date>
-    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/bill2968_portrait.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6334a8e48a7b2a349d903b8c" start="20251028133000 +0000" stop="20251028153000 +0000">
-    <title>2025 Predator EuroTour Arc Estonian Open</title>
-    <category>Movie</category>
-    <desc>Men's Semifinal: Denis Grabe vs Yuma Dörner from April 12, 2025</desc>
-    <date>20250513</date>
-    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/bill2971_portrait.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6334a8e48a7b2a349d903b8c" start="20251028153000 +0000" stop="20251028170000 +0000">
-    <title>2025 Predator EuroTour Arc Estonian Open</title>
-    <category>Movie</category>
-    <desc>Men's Final: Deis Grabe vs Joshua Filler from April 12, 2025</desc>
-    <date>20250426</date>
-    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/bill2974_portrait.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6334a8e48a7b2a349d903b8c" start="20251028170000 +0000" stop="20251028173000 +0000">
-    <title>2025 American Poolplayers Association: World Championship</title>
-    <sub-title>2025 American Poolplayers Association: Team Captains Championship Final</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Team Captains Championship Final from August 15, 2025</desc>
-    <date>20250822</date>
-    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/widescreen/3840x2160/25apachamp_teamcaptainchamp_thumbnail_16by9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6334a8e48a7b2a349d903b8c" start="20251028173000 +0000" stop="20251028190000 +0000">
-    <title>2025 Predator EuroTour Dutch Open</title>
-    <category>Movie</category>
-    <desc>Loser Round 5: Lazar Kostic vs Kevin Lannoye from September 26, 2025</desc>
-    <date>20251023</date>
-    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/25predeurodo_2by3.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6334a8e48a7b2a349d903b8c" start="20251028190000 +0000" stop="20251028200000 +0000">
-    <title>2025 Predator EuroTour Dutch Open</title>
-    <category>Movie</category>
-    <desc>Last 32: Wiktor Zielinski vs Ivo Aarts from September 26, 2025</desc>
-    <date>20251011</date>
-    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/25predeurodo_2by3.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6334a8e48a7b2a349d903b8c" start="20251028200000 +0000" stop="20251028213000 +0000">
-    <title>2025 Predator EuroTour Dutch Open</title>
-    <category>Movie</category>
-    <desc>Last 16: Marc Bijsterbosch vs Karl Gnadeberg from September 27, 2025</desc>
-    <date>20251011</date>
-    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/25predeurodo_2by3.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6334a8e48a7b2a349d903b8c" start="20251028213000 +0000" stop="20251028230000 +0000">
-    <title>2025 Predator EuroTour Dutch Open</title>
-    <category>Movie</category>
-    <desc>Quarterfinals: Tim Jonkman vs Tobias Bongers from September 27, 2025</desc>
-    <date>20251011</date>
-    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/25predeurodo_2by3.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6334a8e48a7b2a349d903b8c" start="20251028230000 +0000" stop="20251029003000 +0000">
-    <title>2025 Predator EuroTour Dutch Open</title>
-    <category>Movie</category>
-    <desc>Semifinals: Tobias Bongers vs Marc Bijsterbosch from September 27, 2025</desc>
-    <date>20251011</date>
-    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/25predeurodo_2by3.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6334a8e48a7b2a349d903b8c" start="20251029003000 +0000" stop="20251029020000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c" start="20251029003000 +0000" stop="20251029020000 +0000">
     <title>2025 Predator EuroTour Dutch Open</title>
     <category>Movie</category>
     <desc>Semifinals: Wiktor Fortunksi vs Dominik Jastrzab from September 27, 2025</desc>
     <date>20251011</date>
     <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/25predeurodo_2by3.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c" start="20251029020000 +0000" stop="20251029040000 +0000">
+    <title>2025 Predator EuroTour Dutch Open</title>
+    <category>Movie</category>
+    <desc>Final: Tobias Bongers vs Dominik Jastrzab from September 27, 2025</desc>
+    <date>20251011</date>
+    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/25predeurodo_2by3.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c" start="20251029040000 +0000" stop="20251029070000 +0000">
+    <title>2023 Predator Puerto Rico Open</title>
+    <category>Movie</category>
+    <desc>Women's 10-Ball Semifinal: Chieh-Yu Chou vs Kelly Fisher from November 11, 2023</desc>
+    <date>20250517</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/00a4bdae-6ad8-4e30-b302-0ebf5b6854bd/Plex_billiard_vertical.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c" start="20251029070000 +0000" stop="20251029083000 +0000">
+    <title>2023 Predator Puerto Rico Open</title>
+    <category>Movie</category>
+    <desc>Women's 10-Ball Final: Tzu-Chien Wei vs Kelly Fisher from November 11, 2023</desc>
+    <date>20250412</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/00a4bdae-6ad8-4e30-b302-0ebf5b6854bd/Plex_billiard_vertical.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c" start="20251029083000 +0000" stop="20251029123000 +0000">
+    <title>2023 Predator Puerto Rico Open</title>
+    <category>Movie</category>
+    <desc>World Teams Last 8: USA vs Austria from November 11, 2023</desc>
+    <date>20250517</date>
+    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/probilliardseries_portrait.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c" start="20251029123000 +0000" stop="20251029133000 +0000">
+    <title>2017 Mosconi Cup Highlights</title>
+    <category>Movie</category>
+    <desc>Highlights from the 2017 Mosconi Cup Episode 1</desc>
+    <date>20250426</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/00a4bdae-6ad8-4e30-b302-0ebf5b6854bd/Plex_billiard_vertical.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c" start="20251029133000 +0000" stop="20251029143000 +0000">
+    <title>2017 Mosconi Cup Highlights</title>
+    <category>Movie</category>
+    <desc>Highlights from the 2017 Mosconi Cup Episode 2</desc>
+    <date>20250426</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/00a4bdae-6ad8-4e30-b302-0ebf5b6854bd/Plex_billiard_vertical.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c" start="20251029143000 +0000" stop="20251029153000 +0000">
+    <title>2017 Mosconi Cup Highlights</title>
+    <category>Movie</category>
+    <desc>Highlights from the 2017 Mosconi Cup Episode 3</desc>
+    <date>20250407</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/00a4bdae-6ad8-4e30-b302-0ebf5b6854bd/Plex_billiard_vertical.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c" start="20251029153000 +0000" stop="20251029163000 +0000">
+    <title>2025 Predator Vietnam Open</title>
+    <category>Movie</category>
+    <desc>Winner Round 1: Shasha Liu vs Chezka Centeno from September 21, 2025</desc>
+    <date>20250924</date>
+    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/25predviet_2by3.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c" start="20251029163000 +0000" stop="20251029180000 +0000">
+    <title>2025 Predator Vietnam Open</title>
+    <category>Movie</category>
+    <desc>Losers Round 1: Annita Kanjaya vs Đào Trúc Mai from September 21, 2025</desc>
+    <date>20250925</date>
+    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/25predviet_2by3.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c" start="20251029180000 +0000" stop="20251029193000 +0000">
+    <title>2025 Predator Vietnam Open</title>
+    <category>Movie</category>
+    <desc>Loser Round 2: Kelly Fisher / Alexander Kazakis vs Mayte Ropero Garcia / Gilbert Martinez from September 18, 2025</desc>
+    <date>20251002</date>
+    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/25predviet_2by3.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c" start="20251029193000 +0000" stop="20251029210000 +0000">
+    <title>2025 Predator Vietnam Open</title>
+    <category>Movie</category>
+    <desc>Losers Round 2: Liu Shasha / Hsieh Chia-Chen vs Wei Tzu-Chien / Ko Pin-yi from September 18, 2025</desc>
+    <date>20251002</date>
+    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/25predviet_2by3.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c" start="20251029210000 +0000" stop="20251029223000 +0000">
+    <title>2025 Predator Vietnam Open</title>
+    <category>Movie</category>
+    <desc>Round 1: Marco Spitzky vs Dương Quốc Hoàng from September 20, 2025</desc>
+    <date>20250924</date>
+    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/25predviet_2by3.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c" start="20251029223000 +0000" stop="20251030013000 +0000">
+    <title>2025 Predator Vietnam Open</title>
+    <category>Movie</category>
+    <desc>Winner Round 1: Carlo Biado vs Stefan Kasper from September 21, 2025</desc>
+    <date>20251002</date>
+    <icon src="https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/25predviet_2by3.jpg" />
   </programme>
   
 </tv>

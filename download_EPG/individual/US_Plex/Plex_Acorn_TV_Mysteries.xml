@@ -1,11 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="68fa84637ac952737656ae5f-6848269efd17cd629e5df2e9">
+<channel id="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9">
     <display-name>Acorn TV Mysteries</display-name>
     <icon src="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/28afda1284b95048ca001849ddc89e20.png" />
   </channel>
   
-<programme channel="68fa84637ac952737656ae5f-6848269efd17cd629e5df2e9" start="20251028004200 +0000" stop="20251028014100 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" start="20251029004600 +0000" stop="20251029013900 +0000">
+    <title>Murder Before Evensong</title>
+    <sub-title>Murder Before Evensong</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Canon Daniel Clement's life unravels when his mother, Audrey, arrives unannounced, and one of his parishioners is found dead; as Clement investigates the man's death, he begins to receive threats and questions who he can trust.</desc>
+    <date>20250929</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c875a2aebee8f445392e1ee24c97f92c.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" start="20251029013900 +0000" stop="20251029023800 +0000">
     <title>Hidden Assets</title>
     <sub-title>Hidden Assets</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -14,7 +23,7 @@
     <icon src="https://metadata-static.plex.tv/b/gracenote/baa5fcdf0d87462c4dbc73bcc99bed65.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-6848269efd17cd629e5df2e9" start="20251028014100 +0000" stop="20251028024000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" start="20251029023800 +0000" stop="20251029033700 +0000">
     <title>Hidden Assets</title>
     <sub-title>Hidden Assets</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
@@ -23,7 +32,7 @@
     <icon src="https://metadata-static.plex.tv/4/gracenote/4623b18cc27c1b58173de3efacb8c033.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-6848269efd17cd629e5df2e9" start="20251028024000 +0000" stop="20251028034200 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" start="20251029033700 +0000" stop="20251029043900 +0000">
     <title>Hidden Assets</title>
     <sub-title>Hidden Assets</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
@@ -32,193 +41,220 @@
     <icon src="https://metadata-static.plex.tv/3/gracenote/3881b8d24cbc75051ea6899cc084141f.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-6848269efd17cd629e5df2e9" start="20251028034200 +0000" stop="20251028044100 +0000">
-    <title>Hidden Assets</title>
-    <sub-title>Hidden Assets</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>As the search for Fionn begins, Christian suggests that Fionn's frequent travels to Surat, India, may point to a diamond connection.</desc>
-    <date>20211128</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/88a0d29c1bddbd615666ebcab7b40648.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6848269efd17cd629e5df2e9" start="20251028044100 +0000" stop="20251028054100 +0000">
-    <title>Hidden Assets</title>
-    <sub-title>Hidden Assets</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>While her team follows the money trail in Ireland, Emer and Christian discover the real identity of the bombers; a very unexpected source provides the investigation with invaluable information.</desc>
-    <date>20211205</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/070747f762c6f64d10ec0f50adbb9537.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6848269efd17cd629e5df2e9" start="20251028054100 +0000" stop="20251028064300 +0000">
-    <title>Hidden Assets</title>
-    <sub-title>Hidden Assets</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>With someone now in custody, Emer and Christian face a desperate race against time to stop the final bombing and uncover who was really behind the terrorist campaign.</desc>
-    <date>20211212</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ac0b5bacd2d27211ae1c8c928d80111a.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6848269efd17cd629e5df2e9" start="20251028064300 +0000" stop="20251028074500 +0000">
-    <title>Acceptable Risk</title>
-    <sub-title>Acceptable Risk</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" start="20251029043900 +0000" stop="20251029053200 +0000">
+    <title>Queens of Mystery</title>
+    <sub-title>Murder in the Dark: First Chapter</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Lee Manning is found dead in Montreal, sending his wife's world into a tailspin.</desc>
-    <date>20170924</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9bf87e0f32d22e29e23d4e89c68b75c0.jpg" />
+    <desc>Detective Sgt. Mattie Stone uncovers several publishing-related suspects while trying to clear her Aunt Beth in a murder case.</desc>
+    <date>20190408</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/aa0557b304716fe86981a725d06fa1f9.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-6848269efd17cd629e5df2e9" start="20251028074500 +0000" stop="20251028084700 +0000">
-    <title>Acceptable Risk</title>
-    <sub-title>Acceptable Risk</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" start="20251029053200 +0000" stop="20251029062600 +0000">
+    <title>Queens of Mystery</title>
+    <sub-title>Murder in the Dark: Final Chapter</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Despite Emer Byrne's suspicion of Sarah, both women press for answers; Emer thinks Gumbiner-Fischer is hiding something; Sarah wants to know who is responsible for her husband's death.</desc>
-    <date>20171001</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1a9be3f7a8330018ea3df2bb39550af6.jpg" />
+    <desc>Detective Sgt. Mattie Stone's list of murder suspects includes a publisher, literary agent and author.</desc>
+    <date>20190415</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/925b24dd5e2abe51b109dfad7c079ec8.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-6848269efd17cd629e5df2e9" start="20251028084700 +0000" stop="20251028094700 +0000">
-    <title>Acceptable Risk</title>
-    <sub-title>Acceptable Risk</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" start="20251029062600 +0000" stop="20251029071900 +0000">
+    <title>Queens of Mystery</title>
+    <sub-title>Death by Vinyl, First Chapter</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Sarah makes an unexpected discovery.</desc>
-    <date>20171008</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/91d51adc4b417526b360d930741c6df6.jpg" />
+    <desc>Mattie is assigned the unglamorous job of searching for a lost dog, but the case is put on hold when one of a band's members turns up murdered.</desc>
+    <date>20190415</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/4e05ccf4ec2ab799b272e2eb6ddfbd7c.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-6848269efd17cd629e5df2e9" start="20251028094700 +0000" stop="20251028104900 +0000">
-    <title>Acceptable Risk</title>
-    <sub-title>Acceptable Risk</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" start="20251029071900 +0000" stop="20251029081300 +0000">
+    <title>Queens of Mystery</title>
+    <sub-title>Death by Vinyl, Final Chapter</sub-title>
     <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Armed with her new-found knowledge, Sarah attempts to blackmail Gumbiner-Fischer; Emer risks her career in pursuit of the truth; by doing so, both unwittingly set in process a chain of events that will only end in tragedy.</desc>
-    <date>20171015</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/93082d0c2b85bd81a34530770499193a.jpg" />
+    <desc>Mattie investigates a new victim: the band's manager, who was stabbed in the back with a kitchen knife.</desc>
+    <date>20190415</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d2409a5839e052ae2e5fdd8a9e34d731.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-6848269efd17cd629e5df2e9" start="20251028104900 +0000" stop="20251028115100 +0000">
-    <title>Acceptable Risk</title>
-    <sub-title>Acceptable Risk</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" start="20251029081300 +0000" stop="20251029090700 +0000">
+    <title>Queens of Mystery</title>
+    <sub-title>Smoke &amp; Mirrors, First Chapter</sub-title>
     <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Sarah Manning comes to realize that she knows nothing about her husbands past.</desc>
-    <date>20171022</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/01fdf673011a0b7f792ba65e8b8ef468.jpg" />
+    <desc>The stage adaptation of Jane's book endures numerous snafus before opening night.</desc>
+    <date>20190422</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/4178c50d6ab4cddf0cd7cc48415800ec.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-6848269efd17cd629e5df2e9" start="20251028115100 +0000" stop="20251028125100 +0000">
-    <title>Acceptable Risk</title>
-    <sub-title>Acceptable Risk</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" start="20251029090700 +0000" stop="20251029100100 +0000">
+    <title>Queens of Mystery</title>
+    <sub-title>Smoke &amp; Mirrors, Final Chapter</sub-title>
     <episode-num system="onscreen">S01E06</episode-num>
-    <desc>A leaked document and search warrant soon lead Sarah and Emer to the true horror Hoffman fought so hard to conceal, exposing a collusion and a cover-up striking deep into the heart of one of Ireland's most shameful histories.</desc>
-    <date>20171029</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5583018e4d502afde70ef1860d75be44.jpg" />
+    <desc>Contending with another murder and a missing lead actress, the theatre company is forced to switch up the cast.</desc>
+    <date>20190422</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7abc1678d464ea592f0a11e7dad4b43e.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-6848269efd17cd629e5df2e9" start="20251028125100 +0000" stop="20251028135700 +0000">
-    <title>Bloodlands</title>
-    <sub-title>The Kidnapping</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Veteran detective Tom Brannick connects a car pulled from the sea to a series of disappearances, including his own wife's 20 years earlier; Brannick begins a campaign to unmask a possible assassin, code-named Goliath.</desc>
-    <date>20210221</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d2fd18221790785910d8b412f27f288f.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6848269efd17cd629e5df2e9" start="20251028135700 +0000" stop="20251028150300 +0000">
-    <title>Bloodlands</title>
-    <sub-title>The Island</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Tom continues to search for Pat Keenan's kidnapper, hoping they will lead him to Goliath; somebody might be leading him down a false trail.</desc>
-    <date>20210228</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/95c3cbb6b97152ffcebcd73cafe63b22.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6848269efd17cd629e5df2e9" start="20251028150300 +0000" stop="20251028160800 +0000">
-    <title>Bloodlands</title>
-    <sub-title>The Manhunt</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Tom and Niamh launch a manhunt for Adam Corry, who has disappeared in mysterious circumstances; Tori Matthews agrees to help Tom in the quest to identify Goliath, but as pressure builds on the police.</desc>
-    <date>20210307</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/84cb0f83d3da90bca9a6903ed7ec4fc2.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6848269efd17cd629e5df2e9" start="20251028160800 +0000" stop="20251028171300 +0000">
-    <title>Bloodlands</title>
-    <sub-title>Goliath</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Tom Brannick enlists the help of Heather Pentland to find out what Jackie Twomey knows about Goliath; Tori Matthews and Tom's daughter Izzy put pressure on Tom to get to the truth; Tom must unmask Goliath before it's too late.</desc>
-    <date>20210314</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d61307b04ebc916c116a71e4b025e533.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6848269efd17cd629e5df2e9" start="20251028171300 +0000" stop="20251028182000 +0000">
-    <title>Bloodlands</title>
-    <sub-title>Bloodlands</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" start="20251029100100 +0000" stop="20251029105100 +0000">
+    <title>Queens of Mystery</title>
+    <sub-title>Sparring with Death: Part 1</sub-title>
     <episode-num system="onscreen">S02E01</episode-num>
-    <desc>DCI Tom Brannick and DS Niamh McGovern are called to the scene of a shooting on the shores of Strangford Lough; Tom recognizes the victim as an accountant from his troubled past.</desc>
-    <date>20220918</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/88ce4f1915aada0830d984481252afc6.jpg" />
+    <desc>Beth and Cat head to a luxury spa run by Dr. Angela Isherwood, who unexpectedly announces her retirement, names her successor, and then gets murdered that very same night.</desc>
+    <date>20211129</date>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b15f2850ca58cba8703c24733396477a.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-6848269efd17cd629e5df2e9" start="20251028182000 +0000" stop="20251028192700 +0000">
-    <title>Bloodlands</title>
-    <sub-title>Bloodlands</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" start="20251029105100 +0000" stop="20251029114000 +0000">
+    <title>Queens of Mystery</title>
+    <sub-title>Sparring with Death: Part 2</sub-title>
     <episode-num system="onscreen">S02E02</episode-num>
-    <desc>The search for Robert Dardis leads Tom and Niamh to an abandoned house; Tom takes advantage of the unfolding situation to deceive his colleagues and try to find out more, but a heated confrontation leads to a fatal mistake.</desc>
-    <date>20220925</date>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/26c8a4226d41cc500fd8a3f23c177b21.jpg" />
+    <desc>Matilda now faces two murders to solve, made all the more complicated due to the fact that one of the victims used a fake identity.</desc>
+    <date>20250829</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/2cbf9c055611f8ab6065281f94247477.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-6848269efd17cd629e5df2e9" start="20251028192700 +0000" stop="20251028203300 +0000">
-    <title>Bloodlands</title>
-    <sub-title>Bloodlands</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" start="20251029114000 +0000" stop="20251029123200 +0000">
+    <title>Queens of Mystery</title>
+    <sub-title>The Modern Art of Murder: Part 1</sub-title>
     <episode-num system="onscreen">S02E03</episode-num>
-    <desc>Tom and Olivia race to track down the gold before the police can find it; Olivia proves her worth by sharing information with Tom that leads him and Niamh to a major breakthrough and an arrest.</desc>
-    <date>20221002</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f5dde10f881a1995eec5a53c54059408.jpg" />
+    <desc>The body of the gallery owner's ex-husband unexpectedly forms the gruesome centerpiece of a star artist's installation, marring the debut of Aunt Cat's own art exhibit at Wildemarsh's trendiest new gallery.</desc>
+    <date>20250901</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/053290603f8c0508975b7ee91a439b26.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-6848269efd17cd629e5df2e9" start="20251028203300 +0000" stop="20251028213900 +0000">
-    <title>Bloodlands</title>
-    <sub-title>Bloodlands</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" start="20251029123200 +0000" stop="20251029132800 +0000">
+    <title>Queens of Mystery</title>
+    <sub-title>The Modern Art of Murder: Part 2</sub-title>
     <episode-num system="onscreen">S02E04</episode-num>
-    <desc>With the origins of the gold confirmed, an American gangster named Ryan Savage arrives in Dunfolan to take back what belongs to his family; as Tom and Olivia close in on the gold, Niamh and Birdy inch closer to the truth.</desc>
-    <date>20221009</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/129bafcc5ba63d31f1ac811c01abca3c.jpg" />
+    <desc>A violent message hidden in an artwork suggests others beside Cox also hide something; Matilda finds evidence of a destroyed forgery as Jane uncovers shady dealings.</desc>
+    <date>20250901</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/27f53ce0fd0b96db5338fb40076deb54.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-6848269efd17cd629e5df2e9" start="20251028213900 +0000" stop="20251028224600 +0000">
-    <title>Bloodlands</title>
-    <sub-title>Bloodlands</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" start="20251029132800 +0000" stop="20251029141500 +0000">
+    <title>Queens of Mystery</title>
+    <sub-title>The Raven: Part 1</sub-title>
     <episode-num system="onscreen">S02E05</episode-num>
-    <desc>Tom is forced to suppress his rage to cover up the crime that Olivia has committed; Tom struggles to recover the gold and the evidence that could incriminate him as a revelation from Izzy knocks him off course.</desc>
-    <date>20221016</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/a9ad1ec3c6a6c30de465540977589763.jpg" />
+    <desc>A raven feather replaces an Edgar Allan Poe manuscript stolen before its sale; when Jane finds a body hidden in the museum, the theft investigation switches to a murder case.</desc>
+    <date>20250901</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/2917448ecd3e62048bfe8cb17869967c.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-6848269efd17cd629e5df2e9" start="20251028224600 +0000" stop="20251028235200 +0000">
-    <title>Bloodlands</title>
-    <sub-title>Bloodlands</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" start="20251029141500 +0000" stop="20251029151100 +0000">
+    <title>Queens of Mystery</title>
+    <sub-title>The Raven: Part 2</sub-title>
     <episode-num system="onscreen">S02E06</episode-num>
-    <desc>The police investigation threatens to collide with Tom's illicit pursuit of Olivia, the murder weapon and the gold; Tom must move the pieces into place so he can come out on top.</desc>
-    <date>20221023</date>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/2965dc2a773a4bd1c4e2b46838e1fc1b.jpg" />
+    <desc>As Matilda inches closer to solving the murders and the connection to her mother's disappearance, her aunts try to distract her; Dr. Lynch attempts to confess his love.</desc>
+    <date>20250901</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e35daa551ff670c74c9ba8095f922676.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-6848269efd17cd629e5df2e9" start="20251028235200 +0000" stop="20251029004600 +0000">
-    <title>The Red King</title>
-    <sub-title>The Red King</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" start="20251029151100 +0000" stop="20251029160400 +0000">
+    <title>Queens of Mystery</title>
+    <sub-title>Murder in the Dark: First Chapter</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>After blowing the whistle on a colleague Detective Grace Narayan is sent to a small Welsh island; there she encounters local GP Doctor Pridaux who explains that his son Cai vanished a year ago, but the investigation proved fruitless.</desc>
-    <date>20240424</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f5e36ef4d1d1ec2f84d6ad0be9be76b3.jpg" />
+    <desc>Detective Sgt. Mattie Stone uncovers several publishing-related suspects while trying to clear her Aunt Beth in a murder case.</desc>
+    <date>20190408</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/aa0557b304716fe86981a725d06fa1f9.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-6848269efd17cd629e5df2e9" start="20251029004600 +0000" stop="20251029013900 +0000">
-    <title>Murder Before Evensong</title>
-    <sub-title>Murder Before Evensong</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Canon Daniel Clement's life unravels when his mother, Audrey, arrives unannounced, and one of his parishioners is found dead; as Clement investigates the man's death, he begins to receive threats and questions who he can trust.</desc>
-    <date>20250929</date>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c875a2aebee8f445392e1ee24c97f92c.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" start="20251029160400 +0000" stop="20251029165800 +0000">
+    <title>Queens of Mystery</title>
+    <sub-title>Murder in the Dark: Final Chapter</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Detective Sgt. Mattie Stone's list of murder suspects includes a publisher, literary agent and author.</desc>
+    <date>20190415</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/925b24dd5e2abe51b109dfad7c079ec8.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" start="20251029165800 +0000" stop="20251029175100 +0000">
+    <title>Queens of Mystery</title>
+    <sub-title>Death by Vinyl, First Chapter</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Mattie is assigned the unglamorous job of searching for a lost dog, but the case is put on hold when one of a band's members turns up murdered.</desc>
+    <date>20190415</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/4e05ccf4ec2ab799b272e2eb6ddfbd7c.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" start="20251029175100 +0000" stop="20251029184500 +0000">
+    <title>Queens of Mystery</title>
+    <sub-title>Death by Vinyl, Final Chapter</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Mattie investigates a new victim: the band's manager, who was stabbed in the back with a kitchen knife.</desc>
+    <date>20190415</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d2409a5839e052ae2e5fdd8a9e34d731.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" start="20251029184500 +0000" stop="20251029193900 +0000">
+    <title>Queens of Mystery</title>
+    <sub-title>Smoke &amp; Mirrors, First Chapter</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>The stage adaptation of Jane's book endures numerous snafus before opening night.</desc>
+    <date>20190422</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/4178c50d6ab4cddf0cd7cc48415800ec.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" start="20251029193900 +0000" stop="20251029203300 +0000">
+    <title>Queens of Mystery</title>
+    <sub-title>Smoke &amp; Mirrors, Final Chapter</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Contending with another murder and a missing lead actress, the theatre company is forced to switch up the cast.</desc>
+    <date>20190422</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7abc1678d464ea592f0a11e7dad4b43e.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" start="20251029203300 +0000" stop="20251029212300 +0000">
+    <title>Queens of Mystery</title>
+    <sub-title>Sparring with Death: Part 1</sub-title>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <desc>Beth and Cat head to a luxury spa run by Dr. Angela Isherwood, who unexpectedly announces her retirement, names her successor, and then gets murdered that very same night.</desc>
+    <date>20211129</date>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b15f2850ca58cba8703c24733396477a.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" start="20251029212300 +0000" stop="20251029221200 +0000">
+    <title>Queens of Mystery</title>
+    <sub-title>Sparring with Death: Part 2</sub-title>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <desc>Matilda now faces two murders to solve, made all the more complicated due to the fact that one of the victims used a fake identity.</desc>
+    <date>20250829</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/2cbf9c055611f8ab6065281f94247477.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" start="20251029221200 +0000" stop="20251029230400 +0000">
+    <title>Queens of Mystery</title>
+    <sub-title>The Modern Art of Murder: Part 1</sub-title>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <desc>The body of the gallery owner's ex-husband unexpectedly forms the gruesome centerpiece of a star artist's installation, marring the debut of Aunt Cat's own art exhibit at Wildemarsh's trendiest new gallery.</desc>
+    <date>20250901</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/053290603f8c0508975b7ee91a439b26.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" start="20251029230400 +0000" stop="20251030000000 +0000">
+    <title>Queens of Mystery</title>
+    <sub-title>The Modern Art of Murder: Part 2</sub-title>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <desc>A violent message hidden in an artwork suggests others beside Cox also hide something; Matilda finds evidence of a destroyed forgery as Jane uncovers shady dealings.</desc>
+    <date>20250901</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/27f53ce0fd0b96db5338fb40076deb54.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" start="20251030000000 +0000" stop="20251030004700 +0000">
+    <title>Queens of Mystery</title>
+    <sub-title>The Raven: Part 1</sub-title>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <desc>A raven feather replaces an Edgar Allan Poe manuscript stolen before its sale; when Jane finds a body hidden in the museum, the theft investigation switches to a murder case.</desc>
+    <date>20250901</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/2917448ecd3e62048bfe8cb17869967c.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2e9" start="20251030004700 +0000" stop="20251030014300 +0000">
+    <title>Queens of Mystery</title>
+    <sub-title>The Raven: Part 2</sub-title>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <desc>As Matilda inches closer to solving the murders and the connection to her mother's disappearance, her aunts try to distract her; Dr. Lynch attempts to confess his love.</desc>
+    <date>20250901</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e35daa551ff670c74c9ba8095f922676.jpg" />
   </programme>
   
 </tv>

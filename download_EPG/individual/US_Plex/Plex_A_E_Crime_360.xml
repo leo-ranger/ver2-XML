@@ -1,268 +1,404 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41">
+<channel id="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41">
     <display-name>A&amp;E Crime 360</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/06c3d1f2-d57d-438d-a589-049a07abc5a0/AE_Crime_360_color_WHT_TXT.png" />
   </channel>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251028003412 +0000" stop="20251028012636 +0000">
-    <title>The Menendez Murders: Erik Tells All</title>
-    <sub-title>Abuse Excuse?</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Erik Menendez recalls his mother's decline in the years leading up to the murders.</desc>
-    <date>20171214</date>
-    <icon src="https://image.tmdb.org/t/p/original/bMZ58hm3tLfT57vHFaL3zauOMHY.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029003344 +0000" stop="20251029012302 +0000">
+    <title>The First 48</title>
+    <sub-title>Easy Money / Ambushed</sub-title>
+    <episode-num system="onscreen">S13E11</episode-num>
+    <desc>Dallas young dad shot, silent witnesses; Cleveland store clerk killed in holdup.</desc>
+    <date>20130530</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNTczMDI2NjQxOV5BMl5BanBnXkFtZTgwOTE0NDEzMjE@._V1_.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251028012636 +0000" stop="20251028021809 +0000">
-    <title>The Menendez Murders: Erik Tells All</title>
-    <sub-title>Trials and Reversals</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>The first trial ends in a stunning surprise verdict</desc>
-    <date>20171221</date>
-    <icon src="https://image.tmdb.org/t/p/original/tV8dx1X48UvUoe5It76U8wMHo5q.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029012302 +0000" stop="20251029021425 +0000">
+    <title>The First 48</title>
+    <sub-title>Into the Graveyard</sub-title>
+    <episode-num system="onscreen">S13E13</episode-num>
+    <desc>Miami family shattered; 2 brothers killed; friends lead detectives to gunmen.</desc>
+    <date>20130808</date>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/1bfe7a0f9c4cfe25cf597569ec100f45.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251028021809 +0000" stop="20251028030942 +0000">
-    <title>The Menendez Murders: Erik Tells All</title>
-    <sub-title>Final Verdict</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029021425 +0000" stop="20251029030714 +0000">
+    <title>The First 48</title>
+    <sub-title>The Case That Haunts Me</sub-title>
+    <episode-num system="onscreen">S17E13</episode-num>
+    <desc>In 2008, an intruder savagely attacks a family in their Memphis home.</desc>
+    <date>20180412</date>
+    <icon src="https://image.tmdb.org/t/p/original/tHvCqeUmBlVo0pH3CfHMEIHCVC1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029030714 +0000" stop="20251029040000 +0000">
+    <title>The First 48</title>
+    <sub-title>The Good Son / Jacked Up</sub-title>
+    <episode-num system="onscreen">S09E23</episode-num>
+    <desc>16-year-old boy murdered at family taco stand; Investigator Palacios on the case.</desc>
+    <date>20100812</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTc5MjE5OTQwOV5BMl5BanBnXkFtZTgwMjUyODEzMjE@._V1_.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029040000 +0000" stop="20251029042546 +0000">
+    <title>Manhunters: Fugitive Task Force</title>
+    <sub-title>Third Time's The Charm</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>ICE/DRO Supervisor Tommy Kilbride has been in law enforcement for 20 years.</desc>
+    <date>20081209</date>
+    <icon src="https://ingest-assets.wurl.com/426564/132189890-1.jpeg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029042546 +0000" stop="20251029045136 +0000">
+    <title>Manhunters: Fugitive Task Force</title>
+    <sub-title>Roxanne's First Fugitive</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Two years ago, a young girl was sexually assaulted multiple times.</desc>
+    <date>20081209</date>
+    <icon src="https://ingest-assets.wurl.com/426564/132189882-1.jpeg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029045136 +0000" stop="20251029051723 +0000">
+    <title>Manhunters: Fugitive Task Force</title>
+    <sub-title>Valentine's Day Heist</sub-title>
     <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Erik Menendez and his brother, Lyle, are sent to separate prisons.</desc>
-    <date>20171228</date>
-    <icon src="https://image.tmdb.org/t/p/original/1kuZzItSFAjuFBUZ0Ob4ke9TitX.jpg" />
+    <desc>Female bank robbers are a rare breed.</desc>
+    <date>20081223</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjE2MTcwNTQ1M15BMl5BanBnXkFtZTgwMzE0NTY2MjE@._V1_.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251028030942 +0000" stop="20251028040000 +0000">
-    <title>Sentenced to Life: Teen Killers</title>
-    <category>Movie</category>
-    <desc>When it comes to kids who kill, the U.S. has a zero tolerance policy.</desc>
-    <date>20220406</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/a7522610-d958-464a-afb8-82de53cf7d91/AE_Crime_360_2000x3000.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029051723 +0000" stop="20251029054309 +0000">
+    <title>Manhunters: Fugitive Task Force</title>
+    <sub-title>Pep Takes it Personal</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Detective Rasheen Peppers and Inspector Danny Potucek receive a case.</desc>
+    <date>20081230</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTkyNTY1OTc4OF5BMl5BanBnXkFtZTgwMDU2NTY2MjE@._V1_.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251028040000 +0000" stop="20251028045123 +0000">
-    <title>The First 48</title>
-    <sub-title>Deadly Premonition</sub-title>
-    <episode-num system="onscreen">S18E01</episode-num>
-    <desc>The New Orleans homicide team discovers a woman's killer may have killed before.</desc>
-    <date>20190110</date>
-    <icon src="https://image.tmdb.org/t/p/original/qwxNO0EYKLJCxMjGwMaW4TjrwIN.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029054309 +0000" stop="20251029060856 +0000">
+    <title>Manhunters: Fugitive Task Force</title>
+    <sub-title>15 Years Running</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>In 1993 a man was convicted of selling narcotics in South Carolina.</desc>
+    <date>20090106</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTg2OTk5OTYyMF5BMl5BanBnXkFtZTgwNjQ2NTY2MjE@._V1_.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251028045123 +0000" stop="20251028054323 +0000">
-    <title>The First 48</title>
-    <sub-title>Deadly Lies / Stay Down</sub-title>
-    <episode-num system="onscreen">S18E09</episode-num>
-    <desc>In Tulsa, a man is shot and run over by a car.</desc>
-    <date>20190228</date>
-    <icon src="https://image.tmdb.org/t/p/original/7E6vuqLB53dV4DPCSkdgT81yGjH.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029060856 +0000" stop="20251029063340 +0000">
+    <title>Dog the Bounty Hunter</title>
+    <sub-title>Girl Power</sub-title>
+    <episode-num system="onscreen">S08E03</episode-num>
+    <desc>Dog decides to spend the day caring for his newest granddaughter.</desc>
+    <date>20091216</date>
+    <icon src="https://image.tmdb.org/t/p/original/wgSN3YHAPN4NaDqvnXgIyVUIbCD.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251028054323 +0000" stop="20251028063342 +0000">
-    <title>The First 48</title>
-    <sub-title>Thicker Than Water</sub-title>
-    <episode-num system="onscreen">S10E10</episode-num>
-    <desc>In Harris County, TX a man due to testify in assault case is murdered near home.</desc>
-    <date>20100325</date>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/2f3447f91f5b9b427578224a0751875d.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029063340 +0000" stop="20251029072616 +0000">
+    <title>Dog the Bounty Hunter</title>
+    <sub-title>Bounty Baby</sub-title>
+    <episode-num system="onscreen">S07E21</episode-num>
+    <desc>What's a father to do?</desc>
+    <date>20100616</date>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/15f3eb84ea6b4d9a2310e729ef45624d.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251028063342 +0000" stop="20251028072300 +0000">
-    <title>The First 48</title>
-    <sub-title>Easy Money / Ambushed</sub-title>
-    <episode-num system="onscreen">S13E11</episode-num>
-    <desc>Dallas young dad shot, silent witnesses; Cleveland store clerk killed in holdup.</desc>
-    <date>20130530</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNTczMDI2NjQxOV5BMl5BanBnXkFtZTgwOTE0NDEzMjE@._V1_.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029072616 +0000" stop="20251029075142 +0000">
+    <title>Dog the Bounty Hunter</title>
+    <sub-title>No Fly Zone</sub-title>
+    <episode-num system="onscreen">S06E05</episode-num>
+    <desc>The felon bonded out is booked on an afternoon flight to Florida.</desc>
+    <date>20090403</date>
+    <icon src="https://image.tmdb.org/t/p/original/hfLyvvNNcEboizSrM0nlumCLBt7.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251028072300 +0000" stop="20251028081423 +0000">
-    <title>The First 48</title>
-    <sub-title>Into the Graveyard</sub-title>
-    <episode-num system="onscreen">S13E13</episode-num>
-    <desc>Miami family shattered; 2 brothers killed; friends lead detectives to gunmen.</desc>
-    <date>20130808</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1bfe7a0f9c4cfe25cf597569ec100f45.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029075142 +0000" stop="20251029081723 +0000">
+    <title>Dog the Bounty Hunter</title>
+    <sub-title>Do Unto Others</sub-title>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <desc>Dog is a rough, tough bounty hunter, but he's a softie at heart.</desc>
+    <date>20060404</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTU3OTgxNTc1NF5BMl5BanBnXkFtZTgwMTk3NzQ2MjE@._V1_.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251028081423 +0000" stop="20251028090712 +0000">
-    <title>The First 48</title>
-    <sub-title>The Case That Haunts Me</sub-title>
-    <episode-num system="onscreen">S17E13</episode-num>
-    <desc>In 2008, an intruder savagely attacks a family in their Memphis home.</desc>
-    <date>20180412</date>
-    <icon src="https://image.tmdb.org/t/p/original/tHvCqeUmBlVo0pH3CfHMEIHCVC1.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029081723 +0000" stop="20251029090912 +0000">
+    <title>Dog the Bounty Hunter</title>
+    <sub-title>This Dog Can Hunt</sub-title>
+    <episode-num system="onscreen">S02E13</episode-num>
+    <desc>Dog and the family visit the Rockies for a little work and lot of fun.</desc>
+    <date>20050628</date>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/1677cc95a895537863a259b79c82a337.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251028090712 +0000" stop="20251028100000 +0000">
-    <title>The First 48</title>
-    <sub-title>The Good Son / Jacked Up</sub-title>
-    <episode-num system="onscreen">S09E23</episode-num>
-    <desc>16-year-old boy murdered at family taco stand; Investigator Palacios on the case.</desc>
-    <date>20100812</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTc5MjE5OTQwOV5BMl5BanBnXkFtZTgwMjUyODEzMjE@._V1_.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029090912 +0000" stop="20251029100000 +0000">
+    <title>Dog the Bounty Hunter</title>
+    <sub-title>Year of the Dog</sub-title>
+    <episode-num system="onscreen">S03E33</episode-num>
+    <desc>A one-hour special that looks back at 2006, one of Dog's most tumultuous years.</desc>
+    <date>20061128</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTYwNTI4MTcwN15BMl5BanBnXkFtZTgwOTUxNzQ2MjE@._V1_.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251028100000 +0000" stop="20251028105124 +0000">
-    <title>The First 48</title>
-    <sub-title>Deadly Premonition</sub-title>
-    <episode-num system="onscreen">S18E01</episode-num>
-    <desc>The New Orleans homicide team discovers a woman's killer may have killed before.</desc>
-    <date>20190110</date>
-    <icon src="https://image.tmdb.org/t/p/original/qwxNO0EYKLJCxMjGwMaW4TjrwIN.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029100000 +0000" stop="20251029102547 +0000">
+    <title>Manhunters: Fugitive Task Force</title>
+    <sub-title>Third Time's The Charm</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>ICE/DRO Supervisor Tommy Kilbride has been in law enforcement for 20 years.</desc>
+    <date>20081209</date>
+    <icon src="https://ingest-assets.wurl.com/426564/132189890-1.jpeg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251028105124 +0000" stop="20251028114323 +0000">
-    <title>The First 48</title>
-    <sub-title>Deadly Lies / Stay Down</sub-title>
-    <episode-num system="onscreen">S18E09</episode-num>
-    <desc>In Tulsa, a man is shot and run over by a car.</desc>
-    <date>20190228</date>
-    <icon src="https://image.tmdb.org/t/p/original/7E6vuqLB53dV4DPCSkdgT81yGjH.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029102547 +0000" stop="20251029105137 +0000">
+    <title>Manhunters: Fugitive Task Force</title>
+    <sub-title>Roxanne's First Fugitive</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Two years ago, a young girl was sexually assaulted multiple times.</desc>
+    <date>20081209</date>
+    <icon src="https://ingest-assets.wurl.com/426564/132189882-1.jpeg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251028114323 +0000" stop="20251028123343 +0000">
-    <title>The First 48</title>
-    <sub-title>Thicker Than Water</sub-title>
-    <episode-num system="onscreen">S10E10</episode-num>
-    <desc>In Harris County, TX a man due to testify in assault case is murdered near home.</desc>
-    <date>20100325</date>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/2f3447f91f5b9b427578224a0751875d.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029105137 +0000" stop="20251029111724 +0000">
+    <title>Manhunters: Fugitive Task Force</title>
+    <sub-title>Valentine's Day Heist</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Female bank robbers are a rare breed.</desc>
+    <date>20081223</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjE2MTcwNTQ1M15BMl5BanBnXkFtZTgwMzE0NTY2MjE@._V1_.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251028123343 +0000" stop="20251028132300 +0000">
-    <title>The First 48</title>
-    <sub-title>Easy Money / Ambushed</sub-title>
-    <episode-num system="onscreen">S13E11</episode-num>
-    <desc>Dallas young dad shot, silent witnesses; Cleveland store clerk killed in holdup.</desc>
-    <date>20130530</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNTczMDI2NjQxOV5BMl5BanBnXkFtZTgwOTE0NDEzMjE@._V1_.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029111724 +0000" stop="20251029114310 +0000">
+    <title>Manhunters: Fugitive Task Force</title>
+    <sub-title>Pep Takes it Personal</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Detective Rasheen Peppers and Inspector Danny Potucek receive a case.</desc>
+    <date>20081230</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTkyNTY1OTc4OF5BMl5BanBnXkFtZTgwMDU2NTY2MjE@._V1_.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251028132300 +0000" stop="20251028141424 +0000">
-    <title>The First 48</title>
-    <sub-title>Into the Graveyard</sub-title>
-    <episode-num system="onscreen">S13E13</episode-num>
-    <desc>Miami family shattered; 2 brothers killed; friends lead detectives to gunmen.</desc>
-    <date>20130808</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1bfe7a0f9c4cfe25cf597569ec100f45.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029114310 +0000" stop="20251029120857 +0000">
+    <title>Manhunters: Fugitive Task Force</title>
+    <sub-title>15 Years Running</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>In 1993 a man was convicted of selling narcotics in South Carolina.</desc>
+    <date>20090106</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTg2OTk5OTYyMF5BMl5BanBnXkFtZTgwNjQ2NTY2MjE@._V1_.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251028141424 +0000" stop="20251028150713 +0000">
-    <title>The First 48</title>
-    <sub-title>The Case That Haunts Me</sub-title>
-    <episode-num system="onscreen">S17E13</episode-num>
-    <desc>In 2008, an intruder savagely attacks a family in their Memphis home.</desc>
-    <date>20180412</date>
-    <icon src="https://image.tmdb.org/t/p/original/tHvCqeUmBlVo0pH3CfHMEIHCVC1.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029120857 +0000" stop="20251029123341 +0000">
+    <title>Dog the Bounty Hunter</title>
+    <sub-title>Girl Power</sub-title>
+    <episode-num system="onscreen">S08E03</episode-num>
+    <desc>Dog decides to spend the day caring for his newest granddaughter.</desc>
+    <date>20091216</date>
+    <icon src="https://image.tmdb.org/t/p/original/wgSN3YHAPN4NaDqvnXgIyVUIbCD.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251028150713 +0000" stop="20251028160001 +0000">
-    <title>The First 48</title>
-    <sub-title>The Good Son / Jacked Up</sub-title>
-    <episode-num system="onscreen">S09E23</episode-num>
-    <desc>16-year-old boy murdered at family taco stand; Investigator Palacios on the case.</desc>
-    <date>20100812</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTc5MjE5OTQwOV5BMl5BanBnXkFtZTgwMjUyODEzMjE@._V1_.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029123341 +0000" stop="20251029132617 +0000">
+    <title>Dog the Bounty Hunter</title>
+    <sub-title>Bounty Baby</sub-title>
+    <episode-num system="onscreen">S07E21</episode-num>
+    <desc>What's a father to do?</desc>
+    <date>20100616</date>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/15f3eb84ea6b4d9a2310e729ef45624d.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251028160001 +0000" stop="20251028165124 +0000">
-    <title>The First 48</title>
-    <sub-title>Deadly Premonition</sub-title>
-    <episode-num system="onscreen">S18E01</episode-num>
-    <desc>The New Orleans homicide team discovers a woman's killer may have killed before.</desc>
-    <date>20190110</date>
-    <icon src="https://image.tmdb.org/t/p/original/qwxNO0EYKLJCxMjGwMaW4TjrwIN.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029132617 +0000" stop="20251029135143 +0000">
+    <title>Dog the Bounty Hunter</title>
+    <sub-title>No Fly Zone</sub-title>
+    <episode-num system="onscreen">S06E05</episode-num>
+    <desc>The felon bonded out is booked on an afternoon flight to Florida.</desc>
+    <date>20090403</date>
+    <icon src="https://image.tmdb.org/t/p/original/hfLyvvNNcEboizSrM0nlumCLBt7.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251028165124 +0000" stop="20251028174324 +0000">
-    <title>The First 48</title>
-    <sub-title>Deadly Lies / Stay Down</sub-title>
-    <episode-num system="onscreen">S18E09</episode-num>
-    <desc>In Tulsa, a man is shot and run over by a car.</desc>
-    <date>20190228</date>
-    <icon src="https://image.tmdb.org/t/p/original/7E6vuqLB53dV4DPCSkdgT81yGjH.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029135143 +0000" stop="20251029141724 +0000">
+    <title>Dog the Bounty Hunter</title>
+    <sub-title>Do Unto Others</sub-title>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <desc>Dog is a rough, tough bounty hunter, but he's a softie at heart.</desc>
+    <date>20060404</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTU3OTgxNTc1NF5BMl5BanBnXkFtZTgwMTk3NzQ2MjE@._V1_.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251028174324 +0000" stop="20251028183344 +0000">
-    <title>The First 48</title>
-    <sub-title>Thicker Than Water</sub-title>
-    <episode-num system="onscreen">S10E10</episode-num>
-    <desc>In Harris County, TX a man due to testify in assault case is murdered near home.</desc>
-    <date>20100325</date>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/2f3447f91f5b9b427578224a0751875d.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029141724 +0000" stop="20251029150913 +0000">
+    <title>Dog the Bounty Hunter</title>
+    <sub-title>This Dog Can Hunt</sub-title>
+    <episode-num system="onscreen">S02E13</episode-num>
+    <desc>Dog and the family visit the Rockies for a little work and lot of fun.</desc>
+    <date>20050628</date>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/1677cc95a895537863a259b79c82a337.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251028183344 +0000" stop="20251028192301 +0000">
-    <title>The First 48</title>
-    <sub-title>Easy Money / Ambushed</sub-title>
-    <episode-num system="onscreen">S13E11</episode-num>
-    <desc>Dallas young dad shot, silent witnesses; Cleveland store clerk killed in holdup.</desc>
-    <date>20130530</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNTczMDI2NjQxOV5BMl5BanBnXkFtZTgwOTE0NDEzMjE@._V1_.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029150913 +0000" stop="20251029160001 +0000">
+    <title>Dog the Bounty Hunter</title>
+    <sub-title>Year of the Dog</sub-title>
+    <episode-num system="onscreen">S03E33</episode-num>
+    <desc>A one-hour special that looks back at 2006, one of Dog's most tumultuous years.</desc>
+    <date>20061128</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTYwNTI4MTcwN15BMl5BanBnXkFtZTgwOTUxNzQ2MjE@._V1_.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251028192301 +0000" stop="20251028201425 +0000">
-    <title>The First 48</title>
-    <sub-title>Into the Graveyard</sub-title>
-    <episode-num system="onscreen">S13E13</episode-num>
-    <desc>Miami family shattered; 2 brothers killed; friends lead detectives to gunmen.</desc>
-    <date>20130808</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1bfe7a0f9c4cfe25cf597569ec100f45.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029160001 +0000" stop="20251029162548 +0000">
+    <title>Manhunters: Fugitive Task Force</title>
+    <sub-title>Third Time's The Charm</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>ICE/DRO Supervisor Tommy Kilbride has been in law enforcement for 20 years.</desc>
+    <date>20081209</date>
+    <icon src="https://ingest-assets.wurl.com/426564/132189890-1.jpeg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251028201425 +0000" stop="20251028210713 +0000">
-    <title>The First 48</title>
-    <sub-title>The Case That Haunts Me</sub-title>
-    <episode-num system="onscreen">S17E13</episode-num>
-    <desc>In 2008, an intruder savagely attacks a family in their Memphis home.</desc>
-    <date>20180412</date>
-    <icon src="https://image.tmdb.org/t/p/original/tHvCqeUmBlVo0pH3CfHMEIHCVC1.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029162548 +0000" stop="20251029165138 +0000">
+    <title>Manhunters: Fugitive Task Force</title>
+    <sub-title>Roxanne's First Fugitive</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Two years ago, a young girl was sexually assaulted multiple times.</desc>
+    <date>20081209</date>
+    <icon src="https://ingest-assets.wurl.com/426564/132189882-1.jpeg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251028210713 +0000" stop="20251028220001 +0000">
-    <title>The First 48</title>
-    <sub-title>The Good Son / Jacked Up</sub-title>
-    <episode-num system="onscreen">S09E23</episode-num>
-    <desc>16-year-old boy murdered at family taco stand; Investigator Palacios on the case.</desc>
-    <date>20100812</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTc5MjE5OTQwOV5BMl5BanBnXkFtZTgwMjUyODEzMjE@._V1_.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029165138 +0000" stop="20251029171725 +0000">
+    <title>Manhunters: Fugitive Task Force</title>
+    <sub-title>Valentine's Day Heist</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Female bank robbers are a rare breed.</desc>
+    <date>20081223</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjE2MTcwNTQ1M15BMl5BanBnXkFtZTgwMzE0NTY2MjE@._V1_.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251028220001 +0000" stop="20251028225125 +0000">
-    <title>The First 48</title>
-    <sub-title>Deadly Premonition</sub-title>
-    <episode-num system="onscreen">S18E01</episode-num>
-    <desc>The New Orleans homicide team discovers a woman's killer may have killed before.</desc>
-    <date>20190110</date>
-    <icon src="https://image.tmdb.org/t/p/original/qwxNO0EYKLJCxMjGwMaW4TjrwIN.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029171725 +0000" stop="20251029174311 +0000">
+    <title>Manhunters: Fugitive Task Force</title>
+    <sub-title>Pep Takes it Personal</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Detective Rasheen Peppers and Inspector Danny Potucek receive a case.</desc>
+    <date>20081230</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTkyNTY1OTc4OF5BMl5BanBnXkFtZTgwMDU2NTY2MjE@._V1_.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251028225125 +0000" stop="20251028234325 +0000">
-    <title>The First 48</title>
-    <sub-title>Deadly Lies / Stay Down</sub-title>
-    <episode-num system="onscreen">S18E09</episode-num>
-    <desc>In Tulsa, a man is shot and run over by a car.</desc>
-    <date>20190228</date>
-    <icon src="https://image.tmdb.org/t/p/original/7E6vuqLB53dV4DPCSkdgT81yGjH.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029174311 +0000" stop="20251029180858 +0000">
+    <title>Manhunters: Fugitive Task Force</title>
+    <sub-title>15 Years Running</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>In 1993 a man was convicted of selling narcotics in South Carolina.</desc>
+    <date>20090106</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTg2OTk5OTYyMF5BMl5BanBnXkFtZTgwNjQ2NTY2MjE@._V1_.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251028234325 +0000" stop="20251029003344 +0000">
-    <title>The First 48</title>
-    <sub-title>Thicker Than Water</sub-title>
-    <episode-num system="onscreen">S10E10</episode-num>
-    <desc>In Harris County, TX a man due to testify in assault case is murdered near home.</desc>
-    <date>20100325</date>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/2f3447f91f5b9b427578224a0751875d.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029180858 +0000" stop="20251029183342 +0000">
+    <title>Dog the Bounty Hunter</title>
+    <sub-title>Girl Power</sub-title>
+    <episode-num system="onscreen">S08E03</episode-num>
+    <desc>Dog decides to spend the day caring for his newest granddaughter.</desc>
+    <date>20091216</date>
+    <icon src="https://image.tmdb.org/t/p/original/wgSN3YHAPN4NaDqvnXgIyVUIbCD.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-5f74cf7effbe690040689f41" start="20251029003344 +0000" stop="20251029012302 +0000">
-    <title>The First 48</title>
-    <sub-title>Easy Money / Ambushed</sub-title>
-    <episode-num system="onscreen">S13E11</episode-num>
-    <desc>Dallas young dad shot, silent witnesses; Cleveland store clerk killed in holdup.</desc>
-    <date>20130530</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNTczMDI2NjQxOV5BMl5BanBnXkFtZTgwOTE0NDEzMjE@._V1_.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029183342 +0000" stop="20251029192618 +0000">
+    <title>Dog the Bounty Hunter</title>
+    <sub-title>Bounty Baby</sub-title>
+    <episode-num system="onscreen">S07E21</episode-num>
+    <desc>What's a father to do?</desc>
+    <date>20100616</date>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/15f3eb84ea6b4d9a2310e729ef45624d.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029192618 +0000" stop="20251029195144 +0000">
+    <title>Dog the Bounty Hunter</title>
+    <sub-title>No Fly Zone</sub-title>
+    <episode-num system="onscreen">S06E05</episode-num>
+    <desc>The felon bonded out is booked on an afternoon flight to Florida.</desc>
+    <date>20090403</date>
+    <icon src="https://image.tmdb.org/t/p/original/hfLyvvNNcEboizSrM0nlumCLBt7.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029195144 +0000" stop="20251029201725 +0000">
+    <title>Dog the Bounty Hunter</title>
+    <sub-title>Do Unto Others</sub-title>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <desc>Dog is a rough, tough bounty hunter, but he's a softie at heart.</desc>
+    <date>20060404</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTU3OTgxNTc1NF5BMl5BanBnXkFtZTgwMTk3NzQ2MjE@._V1_.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029201725 +0000" stop="20251029210914 +0000">
+    <title>Dog the Bounty Hunter</title>
+    <sub-title>This Dog Can Hunt</sub-title>
+    <episode-num system="onscreen">S02E13</episode-num>
+    <desc>Dog and the family visit the Rockies for a little work and lot of fun.</desc>
+    <date>20050628</date>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/1677cc95a895537863a259b79c82a337.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029210914 +0000" stop="20251029220002 +0000">
+    <title>Dog the Bounty Hunter</title>
+    <sub-title>Year of the Dog</sub-title>
+    <episode-num system="onscreen">S03E33</episode-num>
+    <desc>A one-hour special that looks back at 2006, one of Dog's most tumultuous years.</desc>
+    <date>20061128</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTYwNTI4MTcwN15BMl5BanBnXkFtZTgwOTUxNzQ2MjE@._V1_.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029220002 +0000" stop="20251029222549 +0000">
+    <title>Manhunters: Fugitive Task Force</title>
+    <sub-title>Third Time's The Charm</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>ICE/DRO Supervisor Tommy Kilbride has been in law enforcement for 20 years.</desc>
+    <date>20081209</date>
+    <icon src="https://ingest-assets.wurl.com/426564/132189890-1.jpeg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029222549 +0000" stop="20251029225139 +0000">
+    <title>Manhunters: Fugitive Task Force</title>
+    <sub-title>Roxanne's First Fugitive</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Two years ago, a young girl was sexually assaulted multiple times.</desc>
+    <date>20081209</date>
+    <icon src="https://ingest-assets.wurl.com/426564/132189882-1.jpeg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029225139 +0000" stop="20251029231726 +0000">
+    <title>Manhunters: Fugitive Task Force</title>
+    <sub-title>Valentine's Day Heist</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Female bank robbers are a rare breed.</desc>
+    <date>20081223</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjE2MTcwNTQ1M15BMl5BanBnXkFtZTgwMzE0NTY2MjE@._V1_.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029231726 +0000" stop="20251029234312 +0000">
+    <title>Manhunters: Fugitive Task Force</title>
+    <sub-title>Pep Takes it Personal</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Detective Rasheen Peppers and Inspector Danny Potucek receive a case.</desc>
+    <date>20081230</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTkyNTY1OTc4OF5BMl5BanBnXkFtZTgwMDU2NTY2MjE@._V1_.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251029234312 +0000" stop="20251030000859 +0000">
+    <title>Manhunters: Fugitive Task Force</title>
+    <sub-title>15 Years Running</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>In 1993 a man was convicted of selling narcotics in South Carolina.</desc>
+    <date>20090106</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTg2OTk5OTYyMF5BMl5BanBnXkFtZTgwNjQ2NTY2MjE@._V1_.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251030000859 +0000" stop="20251030003343 +0000">
+    <title>Dog the Bounty Hunter</title>
+    <sub-title>Girl Power</sub-title>
+    <episode-num system="onscreen">S08E03</episode-num>
+    <desc>Dog decides to spend the day caring for his newest granddaughter.</desc>
+    <date>20091216</date>
+    <icon src="https://image.tmdb.org/t/p/original/wgSN3YHAPN4NaDqvnXgIyVUIbCD.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" start="20251030003343 +0000" stop="20251030012619 +0000">
+    <title>Dog the Bounty Hunter</title>
+    <sub-title>Bounty Baby</sub-title>
+    <episode-num system="onscreen">S07E21</episode-num>
+    <desc>What's a father to do?</desc>
+    <date>20100616</date>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/15f3eb84ea6b4d9a2310e729ef45624d.jpg" />
   </programme>
   
 </tv>

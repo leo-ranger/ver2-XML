@@ -1,281 +1,182 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13">
+<channel id="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13">
     <display-name>The Martha Stewart Channel</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/2426b3e1-57b3-4f1c-84a8-df9a49d95414/MSChannel_Logo_Light_-_Kimberly_Dumer.png" />
   </channel>
   
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028002036 +0000" stop="20251028011930 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029003538 +0000" stop="20251029013151 +0000">
     <title>Martha Stewart Living</title>
-    <sub-title>Pumpkins and Figs</sub-title>
-    <episode-num system="onscreen">S09E47</episode-num>
-    <desc>Party Favor Witch Hats, Beef Ghoul-ash, Giant Pumpkin Contest (Field Trip), Sweet and Spicy Pumpkin Seeds, Shrunken Heads, Eyeball Highball, Halloween Cookie Decorations</desc>
-    <date>20011025</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/1d17de4416fc6b0d/Martha_Stewart_Living_9084_SCREENSHOT_16x9.jpg" />
+    <sub-title>Baby Chicken Halloween Costume</sub-title>
+    <episode-num system="onscreen">S10E44</episode-num>
+    <desc>Baby Chicken Costume: Lemon Chicken Cutlets, Arranging Salvia, Abdominal Exercises, Baby Chicken Halloween Costume, Using Apple iPhoto, Plant of the Week: Salvia</desc>
+    <date>20021022</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/b3ea19bb3910e80b/Martha_Stewart_Living_10082_SCREENSHOT_16x9.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028011930 +0000" stop="20251028021503 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029013151 +0000" stop="20251029022848 +0000">
     <title>Martha Stewart Living</title>
-    <sub-title>Simple Pumpkin Carving</sub-title>
-    <episode-num system="onscreen">S09E48</episode-num>
-    <desc>Simple Pumpkin Carving, The Devil's Black Bean Salsa, Halloween Memorabilia, Tortilla Chip Good Thing, Chocolate Pudding Cake, Halloween Garland, Bat Myths and Legends</desc>
-    <date>20011026</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/b88d765201190de6/Martha_Stewart_Living_9085_SCREENSHOT_16x9.jpg" />
+    <sub-title>Spooky Halloween</sub-title>
+    <episode-num system="onscreen">S10E46</episode-num>
+    <desc>Spooky Halloween: Wiffle Ball Eyes, Supermarket Costumes, Glow Stick Spider, Halloween Lollipops, Pillowcase Trick or Treat Bags, Taxidermy (Field Trip), Thai Fried Rice</desc>
+    <date>20021024</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/b91613989314de57/Martha_Stewart_Living_10084_SCREENSHOT_16x9.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028021503 +0000" stop="20251028024657 +0000">
-    <title>Martha Bakes</title>
-    <sub-title>Gulf</sub-title>
-    <episode-num system="onscreen">S07E07</episode-num>
-    <desc>Martha shares her techniques for preparing three American Gulf Coast desserts: southern caramel cake, Mississippi mud tart, and a delicious Lane cake</desc>
-    <date>20161117</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/cab6a8952c8e3912/Martha_Bakes_707_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028024657 +0000" stop="20251028032255 +0000">
-    <title>Martha Bakes</title>
-    <sub-title>Pennsylvania Dutch</sub-title>
-    <episode-num system="onscreen">S07E08</episode-num>
-    <desc>Martha explores the Pennsylvania Dutch community through their regional desserts, including Montgomery pie, two delectable whoopie pie recipes, and apple dumplings</desc>
-    <date>20161124</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/0ac99d203b79cac6/Martha_Bakes_708_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028032255 +0000" stop="20251028035509 +0000">
-    <title>Martha Bakes</title>
-    <sub-title>South Atlantic</sub-title>
-    <episode-num system="onscreen">S07E09</episode-num>
-    <desc>Martha shows us her favorite South Atlantic desserts: Virginia peanut pie, light and fluffy Lady Baltimore cake, and the ever-popular strawberry shortcake</desc>
-    <date>20160112</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/2b7b3fa7f3855148/Martha_Bakes_709_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028035509 +0000" stop="20251028042955 +0000">
-    <title>Martha Bakes</title>
-    <sub-title>West</sub-title>
-    <episode-num system="onscreen">S07E10</episode-num>
-    <desc>Martha makes iconic Western recipes like Blum's coffee crunch cake, Nevada's gateau Basque, individual pineapple upside-down cakes, and delectable date bars</desc>
-    <date>20160812</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/335bf86bb6c7dc2e/Martha_Bakes_710_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028042955 +0000" stop="20251028050204 +0000">
-    <title>Martha Bakes</title>
-    <sub-title>South</sub-title>
-    <episode-num system="onscreen">S07E12</episode-num>
-    <desc>Martha shares three how-stopping Southern desserts: tangy buttermilk pie, decadent bourbon bread pudding, and carrot cake with candied carrot roses and ribbons</desc>
-    <date>20161222</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/04de8c0dc451289b/Martha_Bakes_712_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028050204 +0000" stop="20251028053436 +0000">
-    <title>Martha Bakes</title>
-    <sub-title>Great Lakes</sub-title>
-    <episode-num system="onscreen">S07E13</episode-num>
-    <desc>Martha shows us her favorite recipes from the Great Lakes: Belgian rice pie, an unforgettable blitz torte, Indiana sugar cream pie (known as Hoosier pie), and savory cheddar bread</desc>
-    <date>20161229</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/f66cd21a57017517/Martha_Bakes_713_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028053436 +0000" stop="20251028061128 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029030128 +0000" stop="20251029033443 +0000">
     <title>Martha Stewart's Cooking School</title>
-    <sub-title>Eggs</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>All about eggs! Martha shares her methods for preparing eggs, any style: soft- and hard-boiled eggs, fried eggs, scrambled eggs, omelet, and frittata</desc>
-    <date>20120927</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/d301f2ce48fea09c/Martha_Stewarts_Cooking_School_101_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028061128 +0000" stop="20251028064906 +0000">
-    <title>Martha Stewart's Cooking School</title>
-    <sub-title>Sauces</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Martha makes three easy, classic sauces: hollandaise, bechamel, beurre blanc, and marinara</desc>
-    <date>20120410</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/60b8b4fb611009fa/Martha_Stewarts_Cooking_School_102_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028064906 +0000" stop="20251028072445 +0000">
-    <title>Martha Stewart's Cooking School</title>
-    <sub-title>Vegetables</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Eat your vegetables! Martha prepares: spring peas with mint, brown-sugared carrots, sauteed broccoli rabe, roasted acorn squash, corn on the cob, and lemony kale salad</desc>
-    <date>20121110</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/992c43e74b955ac0/Martha_Stewarts_Cooking_School_103_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028072445 +0000" stop="20251028075754 +0000">
-    <title>Martha Stewart's Cooking School</title>
-    <sub-title>Stocks</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Martha shares techniques for three homemade stocks: chicken (including a pressure-cooker version), beef, and vegetable. Plus, cooking and storage tips</desc>
-    <date>20121025</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/3849b0eb7822d7a6/Martha_Stewarts_Cooking_School_104_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028075754 +0000" stop="20251028083559 +0000">
-    <title>Martha Stewart's Cooking School</title>
-    <sub-title>Butchering</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Butcher Evan Lobel joins Martha for a master class on meat. Learn how to choose and prepare the best cuts of meat to save you money</desc>
-    <date>20120111</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/07a1f735e4e4d3b6/Martha_Stewarts_Cooking_School_105_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028083559 +0000" stop="20251028090910 +0000">
-    <title>Martha Stewart's Cooking School</title>
-    <sub-title>Rice</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Starting with a perfect pot of fluffy white rice, Martha demonstrates her techniques for a flavorful pilaf and a delicious Thai-style fried rice</desc>
-    <date>20120811</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/5b5b9564b5f5909a/Martha_Stewarts_Cooking_School_106_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028090910 +0000" stop="20251028094239 +0000">
-    <title>Martha Stewart's Cooking School</title>
-    <sub-title>Dressings and Emulsions</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Homemade dressings don't compare to store-bought. Martha shows you how easy it is to make your own: vinaigrette, creamy blue cheese dressing, homemade mayonnaise, and aioli</desc>
-    <date>20121115</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/4b11b916a8e531b1/Martha_Stewarts_Cooking_School_107_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028094239 +0000" stop="20251028101540 +0000">
-    <title>Martha Gardens</title>
-    <sub-title>Martha's Amazing Maze; How to Grow Trees</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Welcome to Martha's passion project: the maze on her Bedford farm. Learn how to properly plant trees including measuring, fertilizing, and watering. Plus, how to start trees from seedlings.</desc>
-    <date>20221014</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/37437916c2c8ee27/MG_0101_MAZE_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028101540 +0000" stop="20251028105440 +0000">
-    <title>Martha Gardens</title>
-    <sub-title>Everything You Need To Know About Conifers</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Martha celebrates all things conifers, the cone-bearing trees that are typically evergreens. Go inside the Christmas tree farm on her Bedford farm and learn how to properly move an established tree.</desc>
-    <date>20221111</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/875e2c766a14b5b5/MG_0102_CONIFERS_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028105440 +0000" stop="20251028112805 +0000">
-    <title>Martha Gardens</title>
-    <sub-title>Amazing Houseplants</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Martha shares her love of houseplants and brings the outdoors into her home. Learn all about the most popular and sought after houseplants, topiaries and begonias and how to take care of them.</desc>
-    <date>20221209</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/668e4371c95a1339/MG_0103_HOUSEPLANTS_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028112805 +0000" stop="20251028120044 +0000">
-    <title>Martha Gardens</title>
-    <sub-title>The World of Succulents</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Succulents are known for their vibrant colors, interesting textures, and often beautiful blooms. Martha explores how best to care for succulents including watering, fertilizing, and repotting.</desc>
-    <date>20230113</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/c66d22cd60055d14/MG_0104_SUCCULENTS_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028120044 +0000" stop="20251028123327 +0000">
-    <title>Martha Gardens</title>
-    <sub-title>Inside Martha's Vegetable Greenhouse</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Martha takes us inside her vegetable greenhouse to see how she has turned her harvest into a year-round bounty. Then, how she collects, stores, and sows seeds. Plus Martha makes her perfect green drink.</desc>
-    <date>20230210</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/6af1761a762f12a8/MG_0105_VEGETABLE_GREENHOUSE_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028123327 +0000" stop="20251028130551 +0000">
-    <title>Martha Gardens</title>
-    <sub-title>The Incredible World of Orchids</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Martha visits the incredible Orchid Show at the New York Botanical Garden. This year's show immerses you in a mesmerizing array of orchids designed by acclaimed artist Lily Kwong.</desc>
-    <date>20230310</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/d51e76d2a4d6d4e8/MG_0106_ORCHIDS_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028130551 +0000" stop="20251028133835 +0000">
-    <title>Martha Cooks</title>
-    <sub-title>Paella on an Open Fire</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Martha's crowd-pleasing paella and sangria recipes</desc>
-    <date>20220512</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/5336bf676a022a8c/MCooksSeriesTextless_S1_16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028133835 +0000" stop="20251028141124 +0000">
-    <title>Martha Cooks</title>
-    <sub-title>Vietnamese Cuisine</sub-title>
+    <sub-title>Roasting</sub-title>
     <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Martha and her friend Monica create a Vietnamese feast</desc>
-    <date>20221212</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/5336bf676a022a8c/MCooksSeriesTextless_S1_16x9.jpg" />
+    <desc>Roasting is an adaptable technique that works well for meat, fish, chicken, and vegetables. Martha prepares roast chicken, beef tenderloin, and autumn vegetable salad</desc>
+    <date>20121129</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/1b18b68123867fce/Martha_Stewarts_Cooking_School_109_SCREENSHOT_16x9.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028141124 +0000" stop="20251028144655 +0000">
-    <title>Martha Cooks</title>
-    <sub-title>Sweet and Savory Apple Dishes</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029033443 +0000" stop="20251029040804 +0000">
+    <title>Martha Stewart's Cooking School</title>
+    <sub-title>Braising</sub-title>
     <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Martha makes sweet and savory apple recipes</desc>
-    <date>20221212</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/5336bf676a022a8c/MCooksSeriesTextless_S1_16x9.jpg" />
+    <desc>With little hands-on time and no special equipment, braising produces hearty, flavorful dishes. Martha shares recipes for pot roast, braised cabbage, and pulled pork shoulder</desc>
+    <date>20120612</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/a5091d39e6fe699d/Martha_Stewarts_Cooking_School_110_SCREENSHOT_16x9.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028144655 +0000" stop="20251028152137 +0000">
-    <title>Martha Cooks</title>
-    <sub-title>Perfect Chicken Dinner</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029040804 +0000" stop="20251029044150 +0000">
+    <title>Martha Stewart's Cooking School</title>
+    <sub-title>Frying</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>Fried foods should be golden brown and never greasy. Martha deep-fries and pan-fries to perfection: French fries, pan-fried chicken, and Japanese tempura vegetables</desc>
+    <date>20121220</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/32b224b255f2efca/Martha_Stewarts_Cooking_School_112_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029044150 +0000" stop="20251029051439 +0000">
+    <title>Martha Stewart's Cooking School</title>
+    <sub-title>Pan Searing</sub-title>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <desc>Pan-searing means browning food over high heat to develop a crust and lock in juiciness. Martha prepares scallops, salmon fillets, steak with mustard cream sauce, duck breasts</desc>
+    <date>20121227</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/e8746bf4a2b99504/Martha_Stewarts_Cooking_School_113_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029051439 +0000" stop="20251029054708 +0000">
+    <title>Martha Stewart's Cooking School</title>
+    <sub-title>Perfect Roast</sub-title>
     <episode-num system="onscreen">S02E01</episode-num>
-    <desc>Martha serves up a delicious chicken dinner with fresh ingredients from her greenhouse; joined by her good friend Kevin Sharkey, they celebrate the perfect meal for a taste of home-cooked goodness.</desc>
-    <date>20230304</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/5336bf676a022a8c/MCooksSeriesTextless_S1_16x9.jpg" />
+    <desc>A beautifully cooked roast makes a grand centerpiece for any dinner. Martha shares techniques for prime rib roast, crown roast of pork, and stuffed turkey breast</desc>
+    <date>20130404</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/76f6563240458bae/Martha_Stewarts_Cooking_School_201_SCREENSHOT_16x9.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028152137 +0000" stop="20251028155805 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029054708 +0000" stop="20251029062005 +0000">
+    <title>Martha Bakes</title>
+    <sub-title>Updated Classics</sub-title>
+    <episode-num system="onscreen">S08E01</episode-num>
+    <desc>Martha teaches us grain substitutions for three classics: rhubarb and raspberry rye crisp, buttermilk barley biscuits, and spelt layer cake with whipped cream and berries</desc>
+    <date>20170710</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/f16c57cdd7cb2348/Martha_Bakes_801_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029062005 +0000" stop="20251029065229 +0000">
+    <title>Martha Bakes</title>
+    <sub-title>Coffee Shop Favorites</sub-title>
+    <episode-num system="onscreen">S08E02</episode-num>
+    <desc>Martha shows how to make three coffee shop favorites at home: scrumptious apple cider doughnut cake, pumpkin spelt scones with maple glaze, and seeded graham biscotti</desc>
+    <date>20171014</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/21b428b06e16f117/Martha_Bakes_802_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029065229 +0000" stop="20251029072722 +0000">
+    <title>Martha Bakes</title>
+    <sub-title>For the Cookie Jar</sub-title>
+    <episode-num system="onscreen">S08E03</episode-num>
+    <desc>Martha updates three cookie favorites: pecan, oat, and dark chocolate chunk cookies, chewy molasses cookies, and buckwheat-espresso cookies.</desc>
+    <date>20171021</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/1bf0fa1e220d1790/Martha_Bakes_803_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029072722 +0000" stop="20251029075943 +0000">
+    <title>Martha Bakes</title>
+    <sub-title>Alternative Crusts</sub-title>
+    <episode-num system="onscreen">S08E04</episode-num>
+    <desc>Martha makes pies with healthier crust alternatives, including plum galette with cornmeal crust and dairy-free chocolate-coconut pie. Plus, a mushroom tart made with tahini</desc>
+    <date>20171028</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/6f6f41652434490a/Martha_Bakes_804_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029075943 +0000" stop="20251029083152 +0000">
+    <title>Martha Bakes</title>
+    <sub-title>Flour Power</sub-title>
+    <episode-num system="onscreen">S08E05</episode-num>
+    <desc>Martha creates three baked goods using unique flours beyond the white variety: herb quiche with rye crust, muesli coffee cake, and seeded savory quick bread</desc>
+    <date>20170411</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/47eabcd70370cc5d/Martha_Bakes_805_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029083152 +0000" stop="20251029090353 +0000">
+    <title>Martha Bakes</title>
+    <sub-title>Seeded</sub-title>
+    <episode-num system="onscreen">S08E06</episode-num>
+    <desc>Martha shows the versatility of seeds by using them in three recipes: seeded English muffins, seeded Saratoga torte, and light and crispy whole-grain seeded wafer crackers</desc>
+    <date>20171111</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/8e89fe71f6051eb0/Martha_Bakes_806_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029090353 +0000" stop="20251029094130 +0000">
+    <title>Martha Bakes</title>
+    <sub-title>Yeasted Breakfast Favorites</sub-title>
+    <episode-num system="onscreen">S08E07</episode-num>
+    <desc>Martha shares tasty breakfast favorites made with yeast: hazelnut hot-cross buns, honey whole-wheat bread, and pull-apart whole-wheat monkey bread</desc>
+    <date>20171118</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/19b99e205ba605a1/Martha_Bakes_807_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029094130 +0000" stop="20251029101406 +0000">
     <title>Martha Cooks</title>
-    <sub-title>Maine Lobster Dinner</sub-title>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <desc>The man behind Beal's Lobster Pier, where Martha's loves to dine in Maine, shows viewers everything they need to know about boiling lobster; then, Martha turns up the flavor with her spicy lobster linguine.</desc>
+    <sub-title>Brunch Favorites</sub-title>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <desc>Martha starts off brunch with a citrus cocktail Mary's knees; Chef Ignacio Mattos joins and makes an omelette with caviar and creme fraiche; Martha makes an endive salad; Martha makes waffles.</desc>
     <date>20230304</date>
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/5336bf676a022a8c/MCooksSeriesTextless_S1_16x9.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028155805 +0000" stop="20251028165513 +0000">
-    <title>Martha Stewart Living</title>
-    <sub-title>Halloween Makeup</sub-title>
-    <episode-num system="onscreen">S09E50</episode-num>
-    <desc>Scary Spider, Hot Spiced Concord Grape Juice, Halloween Makeup (Field Trip), Popcorn Hand, Mummy Treat Boxes, Halloween Decorating (Field Trip), Vegetable Specimen Bottles</desc>
-    <date>20011029</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/2fa72ca4392a5ba2/Martha_Stewart_Living_9091_SCREENSHOT_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029101406 +0000" stop="20251029105007 +0000">
+    <title>Martha Cooks</title>
+    <sub-title>How to Make Croissants and Sourdough Bread</sub-title>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <desc>Martha journeys through her local area in search of the ultimate fresh-baked croissants and sourdough bread; learning about homemade bread and pastries.</desc>
+    <date>20230304</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/5336bf676a022a8c/MCooksSeriesTextless_S1_16x9.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028165513 +0000" stop="20251028175045 +0000">
-    <title>Martha Stewart Living</title>
-    <sub-title>Saving Heirloom Seeds</sub-title>
-    <episode-num system="onscreen">S09E51</episode-num>
-    <desc>Vampire Cocktail, Spider Treat Boxes, Pet Superstitions, Pumpkins at Jones Tree Farm (Field Trip), Saving Heirloom Seeds, Pumpkin Souffles, Arranging Coxcomb</desc>
-    <date>20011030</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/8a77c316425afa1f/Martha_Stewart_Living_9092_SCREENSHOT_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029105007 +0000" stop="20251029112626 +0000">
+    <title>Martha Cooks</title>
+    <sub-title>One Pot Wonders With Jamie Oliver</sub-title>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <desc>Martha is in the test kitchen with English chef, restaurateur, and author Jamie Oliver, and they're cooking up a mouth-watering menu of dishes that are easy to make.</desc>
+    <date>20230304</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/5336bf676a022a8c/MCooksSeriesTextless_S1_16x9.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028175045 +0000" stop="20251028184618 +0000">
-    <title>Martha Stewart Living</title>
-    <sub-title>Bride of Frankenstein</sub-title>
-    <episode-num system="onscreen">S09E52</episode-num>
-    <desc>Frankenstein Lab Tour, Bride of Frankenstein and Makeup, Anatomy Trays, Eyeball Looking Glass Good Thing, Monte Cristo Sandwich, Creamy Tomato Soup</desc>
-    <date>20011031</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/4fe13bcb444df359/Martha_Stewart_Living_9093_SCREENSHOT_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029112908 +0000" stop="20251029120150 +0000">
+    <title>Martha Cooks</title>
+    <sub-title>Martha Throws a Tea Party</sub-title>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <desc>Martha and her niece Sophie visit their favorite tea shop, Arogya, in Westport, Conn., to discover the do's and don'ts of making tea; they return to Martha's kitchen to create dishes with tea.</desc>
+    <date>20230304</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/5336bf676a022a8c/MCooksSeriesTextless_S1_16x9.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028184618 +0000" stop="20251028191632 +0000">
-    <title>Martha Stewart Living</title>
-    <sub-title>Halloween Party, Caramel Apples</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Halloween Party at a Castle, Caramel Candied Apples, Making a Box Lantern, Halloween Costumes for Children, Pumpkin Cookies, Pumpkin Carving Good Thing</desc>
-    <date>19931023</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/61a84c4b1093a606/Martha_Stewart_Living_106_SCREENSHOT_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029120150 +0000" stop="20251029123408 +0000">
+    <title>Martha Cooks</title>
+    <sub-title>Martha and the Chocolate Factory</sub-title>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <desc>Martha visits Mast Market in Mt. Kisco, N.Y., and learns the art behind making their renowned chocolate; from roasting cacao, to stone grinding, to forming delicious bars and chips.</desc>
+    <date>20230304</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/5336bf676a022a8c/MCooksSeriesTextless_S1_16x9.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028191632 +0000" stop="20251028194929 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029131039 +0000" stop="20251029134328 +0000">
     <title>Martha Gardens</title>
     <sub-title>Hens and Chicks</sub-title>
     <episode-num system="onscreen">S01E07</episode-num>
@@ -284,16 +185,7 @@
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/182e031fbda5e2f8/MG_0107_CHICKENS_SCREENSHOT_16x9.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028194929 +0000" stop="20251028202239 +0000">
-    <title>Martha Gardens</title>
-    <sub-title>Martha Builds a Raised Bed Vegetable Garden</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Martha builds a brand new, half-acre raised bed vegetable garden on her farm! It's a step-by-step guide to designing, building, preparing the soil, and planting.</desc>
-    <date>20230512</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/8b10377059b09ae5/MG_0108_RAISED_BED_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028202239 +0000" stop="20251028205450 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029141546 +0000" stop="20251029144822 +0000">
     <title>Martha Gardens</title>
     <sub-title>Everything's Coming Up Roses</sub-title>
     <episode-num system="onscreen">S01E09</episode-num>
@@ -302,7 +194,7 @@
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/cd73cc04dc770c60/MG_0109_ROSES_SCREENSHOT_16x9.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028205450 +0000" stop="20251028212849 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029144822 +0000" stop="20251029152338 +0000">
     <title>Martha Gardens</title>
     <sub-title>Azaleas, Hostas, and Wild Birds</sub-title>
     <episode-num system="onscreen">S01E10</episode-num>
@@ -311,7 +203,7 @@
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/83cf8dfc63b3df57/MG_0110_AZALEAS_SCREENSHOT_16x9.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028212849 +0000" stop="20251028220202 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029152338 +0000" stop="20251029155609 +0000">
     <title>Martha Gardens</title>
     <sub-title>Martha's Garden Tours of Turkey Hill and Bedford</sub-title>
     <episode-num system="onscreen">S01E11</episode-num>
@@ -320,49 +212,130 @@
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/d18e791b6410d8b7/MG_0111_GARDEN_TOURS_SCREENSHOT_16x9.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028220202 +0000" stop="20251028223500 +0000">
-    <title>Martha Gardens</title>
-    <sub-title>Color For All Seasons</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>One of the joys of gardening is planning for beautiful color all through the year. Bulbs and tubers are at the center of this show because of their beautiful blooms from spring to winter.</desc>
-    <date>20230908</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/5777a23cc4327bb1/MG_0112_COLORS_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028223500 +0000" stop="20251028230725 +0000">
-    <title>Martha Gardens</title>
-    <sub-title>Martha's Amazing Maze; How to Grow Trees</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Welcome to Martha's passion project: the maze on her Bedford farm. Learn how to properly plant trees including measuring, fertilizing, and watering. Plus, how to start trees from seedlings.</desc>
-    <date>20221014</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/37437916c2c8ee27/MG_0101_MAZE_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028230725 +0000" stop="20251028234057 +0000">
-    <title>Martha Gardens</title>
-    <sub-title>Martha's Amazing Maze; How to Grow Trees</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Welcome to Martha's passion project: the maze on her Bedford farm. Learn how to properly plant trees including measuring, fertilizing, and watering. Plus, how to start trees from seedlings.</desc>
-    <date>20221014</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/37437916c2c8ee27/MG_0101_MAZE_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251028234057 +0000" stop="20251029003538 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029155752 +0000" stop="20251029165203 +0000">
     <title>Martha Stewart Living</title>
-    <sub-title>Halloween</sub-title>
-    <episode-num system="onscreen">S10E34</episode-num>
-    <desc>Halloween: Glowing Spider Web, Hot Glue Gun Creatures, Baked Rigaboney, Nocturnal Pets, Pumpkin Flower Pots, Bat and Moon Paper Treat Bags, Spider Cakes, Heirloom Pumpkin Varieties (Field Trip)</desc>
-    <date>20021010</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/bee7f8802c83a9f0/Martha_Stewart_Living_10064_SCREENSHOT_16x9.jpg" />
+    <sub-title>Haunted Halloween Forest</sub-title>
+    <episode-num system="onscreen">S10E47</episode-num>
+    <desc>Haunted Halloween Forest: Haunted Papier Mache Trees, Pumpkin Creatures, Making Haunted Forest Masks, Professional-Sounding Spooky Effects (Foley Artist), Bat Invitation, Making a Bat House</desc>
+    <date>20021025</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/0a4fc5e87d369e1a/Martha_Stewart_Living_10085_SCREENSHOT_16x9.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-672948f0297d4ea7584a2e13" start="20251029003538 +0000" stop="20251029013151 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029165203 +0000" stop="20251029174709 +0000">
     <title>Martha Stewart Living</title>
-    <sub-title>Baby Chicken Halloween Costume</sub-title>
-    <episode-num system="onscreen">S10E44</episode-num>
-    <desc>Baby Chicken Costume: Lemon Chicken Cutlets, Arranging Salvia, Abdominal Exercises, Baby Chicken Halloween Costume, Using Apple iPhoto, Plant of the Week: Salvia</desc>
-    <date>20021022</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/b3ea19bb3910e80b/Martha_Stewart_Living_10082_SCREENSHOT_16x9.jpg" />
+    <sub-title>Bride of Frankenstein</sub-title>
+    <episode-num system="onscreen">S10E49</episode-num>
+    <desc>Bride of Frankenstein: Bride of Frankenstein Makeup, Anatomy Trays, Collecting Halloween Memorabilia (Field Trip), Eyeball Looking Glass Good Thing, Monte Cristo Sandwich, Creamy Tomato Soup</desc>
+    <date>20021028</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/f09041d2ab26e43c/Martha_Stewart_Living_10091_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029174709 +0000" stop="20251029184147 +0000">
+    <title>Martha Stewart Living</title>
+    <sub-title>Halloween Creepy Crawlers</sub-title>
+    <episode-num system="onscreen">S10E50</episode-num>
+    <desc>Halloween Creepy Crawlers: Vampire Cocktail, Decomposed Salad, Tuile Cookies, Pumpkin Carving Basics, Pork with Mashed Pumpkin, Creepy Crawlers (Tarantulas, Scorpions, Hermit Crabs)</desc>
+    <date>20021029</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/d08e6d3e15bb1021/Martha_Stewart_Living_10092_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029184147 +0000" stop="20251029191918 +0000">
+    <title>Martha Cooks</title>
+    <sub-title>Today's Catch: Fish Recipes for Everyday</sub-title>
+    <episode-num system="onscreen">S03E01</episode-num>
+    <desc>Hannah Heimbuch and Martha demonstrate how to prepare fish for cooking; Chef Marcus Samuelsson makes cured king salmon and halibut en papillote; Martha breaks down a Dungeness crab.</desc>
+    <date>20231113</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/5336bf676a022a8c/MCooksSeriesTextless_S1_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029191918 +0000" stop="20251029195810 +0000">
+    <title>Martha Cooks</title>
+    <sub-title>India: A Tour of Food</sub-title>
+    <episode-num system="onscreen">S03E02</episode-num>
+    <desc>Martha's friend and restaurateur, Shiva Natarajan, shares the key to making any Indian dish - spices; back in Martha's kitchen, they make butter chicken, lemon rice, and a tangy yogurt sauce.</desc>
+    <date>20231113</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/5336bf676a022a8c/MCooksSeriesTextless_S1_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029195810 +0000" stop="20251029203043 +0000">
+    <title>Martha Cooks</title>
+    <sub-title>Magic Mushrooms</sub-title>
+    <episode-num system="onscreen">S03E03</episode-num>
+    <desc>Martha learns about the magic of mushrooms; mushroom expert Andrew Carter explains each mushroom variety; Martha and mushroom cookbook author Andrea Gentl make delicious mushroom recipes.</desc>
+    <date>20231113</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/5336bf676a022a8c/MCooksSeriesTextless_S1_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029203043 +0000" stop="20251029210350 +0000">
+    <title>Martha Cooks</title>
+    <sub-title>Picture Perfect Rolled Lasagna</sub-title>
+    <episode-num system="onscreen">S03E04</episode-num>
+    <desc>Restaurant owners Angie Rito and Scott Tacinelli join Martha in making their rolled lasagna with San Marzano tomato sauce, Italian bolognese, and chrysanthemum Caesar salad.</desc>
+    <date>20231113</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/5336bf676a022a8c/MCooksSeriesTextless_S1_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029210350 +0000" stop="20251029213921 +0000">
+    <title>Martha Cooks</title>
+    <sub-title>Easy Homemade Dumplings</sub-title>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <desc>Martha, Monica Tran Carden, and Andrew Yu make homemade dumplings; Martha and Monica hand-make wontons and pork dumplings; Andrew and Martha prepare jade dumplings and pork and shrimp dumplings.</desc>
+    <date>20231113</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/5336bf676a022a8c/MCooksSeriesTextless_S1_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029213921 +0000" stop="20251029221300 +0000">
+    <title>Martha Cooks</title>
+    <sub-title>The Bagel Show</sub-title>
+    <episode-num system="onscreen">S03E06</episode-num>
+    <desc>Martha samples bagel toppings and is joined by Gary Greengrass, owner of Barney Greengrass, an NYC staple; at PopUp Bagels, Martha makes bagels and constructs breakfast sandwiches with Adam Goldberg.</desc>
+    <date>20231113</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/5336bf676a022a8c/MCooksSeriesTextless_S1_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029221300 +0000" stop="20251029224537 +0000">
+    <title>Martha Cooks</title>
+    <sub-title>Martha's Favorite Cakes</sub-title>
+    <episode-num system="onscreen">S03E07</episode-num>
+    <desc>Martha makes the classic meringue cake from Casa Cipriani with pastry chef Alessia Tomassetti; Martha and bakery owner Lucie Franc De Ferriere bake a pear raspberry cake with jam and maple buttercream.</desc>
+    <date>20231113</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/5336bf676a022a8c/MCooksSeriesTextless_S1_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029224537 +0000" stop="20251029232148 +0000">
+    <title>Martha Cooks</title>
+    <sub-title>Vegan Cuisine Redefined</sub-title>
+    <episode-num system="onscreen">S03E08</episode-num>
+    <desc>Martha and Chef Daniel Humm make redefined vegan dishes; Martha and Chef Daniel make a refreshing cocktail and gazpacho, followed by mushroom and seaweed baked rice and a rhubarb cobbler for dessert.</desc>
+    <date>20231113</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/5336bf676a022a8c/MCooksSeriesTextless_S1_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029232148 +0000" stop="20251029235327 +0000">
+    <title>Martha Cooks</title>
+    <sub-title>Japanese Cuisine: Sushi, Sashimi and More</sub-title>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <desc>Martha visits the Japanese restaurant Joji in the heart of New York, where Chef George Ruan shares his secrets for the ultimate omakase experience; culinary giant Daniel Boulud stops by.</desc>
+    <date>20230304</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/5336bf676a022a8c/MCooksSeriesTextless_S1_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251029235327 +0000" stop="20251030004729 +0000">
+    <title>Martha Stewart Living</title>
+    <sub-title>Halloween Pun Costumes</sub-title>
+    <episode-num system="onscreen">S10E52</episode-num>
+    <desc>Halloween Pun Costumes: Scary Candy Bowl, Pigs in a Blanket Costume, Black-Eyed Peas Costume, Ice Face and Hands, The Seven Seas Costume, Haunted House (Field Trip), Raining Cats and Dogs Costume</desc>
+    <date>20021031</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/0eff50af2af2d7c6/Martha_Stewart_Living_10094_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251030004729 +0000" stop="20251030014341 +0000">
+    <title>Martha Stewart Living</title>
+    <sub-title>Halloween Pirate Ship Party</sub-title>
+    <episode-num system="onscreen">S11E41</episode-num>
+    <desc>Halloween Pirate Ship Party: Pirate Costume Accessories, Pirate Ship Invitation, Stuffed Shells with Crabmeat, Scary Pear Heads, Martha's Favorite Book: The Pirate Hunter, Pirate Parrots</desc>
+    <date>20031024</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/1130a92b3bc32e21/Martha_Stewart_Living_11075_SCREENSHOT_16x9.jpg" />
   </programme>
   
 </tv>

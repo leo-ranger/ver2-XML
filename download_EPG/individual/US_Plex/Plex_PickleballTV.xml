@@ -1,80 +1,104 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="68fa84637ac952737656ae5f-6583507e0938f2993a23375c">
+<channel id="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c">
     <display-name>PickleballTV</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/5c3ddbf2-e5f5-4764-92eb-8276e6a54e38/pbtv_1_1500_x_1000___Logo_Dark_BG_1__-_Ari_Brock.png" />
   </channel>
   
-<programme channel="68fa84637ac952737656ae5f-6583507e0938f2993a23375c" start="20251028010000 +0000" stop="20251028020000 +0000">
-    <title>Best of Tyson McGuffin</title>
-    <sub-title>2024 PPA Tour Finals Men's Singles</sub-title>
-    <episode-num system="onscreen">S01E14</episode-num>
-    <desc>2024 PPA Tour Finals Men's Singles</desc>
-    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_BEST_OF_MCGUFFIN.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6583507e0938f2993a23375c" start="20251028020000 +0000" stop="20251028023000 +0000">
-    <title>The Tyson McGuffin Show</title>
-    <sub-title>Episode 68</sub-title>
-    <episode-num system="onscreen">S2025E70</episode-num>
-    <desc>Tyson McGuffins Show Episode 68</desc>
-    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/TysonShow16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6583507e0938f2993a23375c" start="20251028023000 +0000" stop="20251028030000 +0000">
-    <title>Pickleball Weekly</title>
-    <sub-title>Episode 39</sub-title>
-    <episode-num system="onscreen">S2025E41</episode-num>
-    <desc>Pickleball Weekly Episode 39</desc>
-    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/PBWEEKLY_16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6583507e0938f2993a23375c" start="20251028030000 +0000" stop="20251028100000 +0000">
-    <title>PPA Tour: Las Vegas Cup 2025</title>
-    <sub-title>Semifinals - Encore</sub-title>
-    <episode-num system="onscreen">S2025E362</episode-num>
-    <desc>Encore Pickleball coverage from PPA Tour: Las Vegas Cup</desc>
-    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/PPAVegasCup169.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6583507e0938f2993a23375c" start="20251028100000 +0000" stop="20251028110000 +0000">
-    <title>PPA Tour: Las Vegas Cup 2025</title>
-    <sub-title>Semifinals - Encore</sub-title>
-    <episode-num system="onscreen">S2025E362</episode-num>
-    <desc>Encore Pickleball coverage from PPA Tour: Las Vegas Cup</desc>
-    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/PPAVegasCup169.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6583507e0938f2993a23375c" start="20251028110000 +0000" stop="20251028113000 +0000">
-    <title>Pickleball Weekly</title>
-    <sub-title>Episode 39</sub-title>
-    <episode-num system="onscreen">S2025E41</episode-num>
-    <desc>Pickleball Weekly Episode 39</desc>
-    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/PBWEEKLY_16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6583507e0938f2993a23375c" start="20251028113000 +0000" stop="20251028173000 +0000">
-    <title>PPA Tour: Las Vegas Cup 2025</title>
-    <sub-title>Championship Sunday - Encore</sub-title>
-    <episode-num system="onscreen">S2025E363</episode-num>
-    <desc>Encore Pickleball coverage from PPA Tour: Las Vegas Cup</desc>
-    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/PPAVegasCup169.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6583507e0938f2993a23375c" start="20251028173000 +0000" stop="20251028180000 +0000">
-    <title>Pickleball Weekly</title>
-    <sub-title>Episode 39</sub-title>
-    <episode-num system="onscreen">S2025E41</episode-num>
-    <desc>Pickleball Weekly Episode 39</desc>
-    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/PBWEEKLY_16x9.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-6583507e0938f2993a23375c" start="20251028180000 +0000" stop="20251029020000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" start="20251028180000 +0000" stop="20251029020000 +0000">
     <title>LT Open: Singles Pickleball Championship - Atlanta</title>
     <sub-title>Semifinals &amp; Finals</sub-title>
     <episode-num system="onscreen">S2025E357</episode-num>
     <desc>Encore Pickleball coverage from LT Open: Singles Pickleball Championship - Atlanta</desc>
     <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/LTATL169.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" start="20251029020000 +0000" stop="20251029023000 +0000">
+    <title>Pickleball Weekly</title>
+    <sub-title>Episode 39</sub-title>
+    <episode-num system="onscreen">S2025E41</episode-num>
+    <desc>Pickleball Weekly Episode 39</desc>
+    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/PBWEEKLY_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" start="20251029023000 +0000" stop="20251029050000 +0000">
+    <title>PPA Tour: Cincinnati Slam</title>
+    <sub-title>Semifinals - Encore</sub-title>
+    <episode-num system="onscreen">S2025E335</episode-num>
+    <desc>Encore Pickleball coverage from PPA Tour: Cincinnati Slam</desc>
+    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/PPACINCY169UPDATED.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" start="20251029050000 +0000" stop="20251029053000 +0000">
+    <title>Pickleball Weekly</title>
+    <sub-title>Episode 39</sub-title>
+    <episode-num system="onscreen">S2025E41</episode-num>
+    <desc>Pickleball Weekly Episode 39</desc>
+    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/PBWEEKLY_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" start="20251029053000 +0000" stop="20251029093000 +0000">
+    <title>PPA Tour: Cincinnati Slam</title>
+    <sub-title>Semifinals - Encore</sub-title>
+    <episode-num system="onscreen">S2025E335</episode-num>
+    <desc>Encore Pickleball coverage from PPA Tour: Cincinnati Slam</desc>
+    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/PPACINCY169UPDATED.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" start="20251029093000 +0000" stop="20251029100000 +0000">
+    <title>Pickleball Weekly</title>
+    <sub-title>Episode 39</sub-title>
+    <episode-num system="onscreen">S2025E41</episode-num>
+    <desc>Pickleball Weekly Episode 39</desc>
+    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/PBWEEKLY_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" start="20251029100000 +0000" stop="20251029130000 +0000">
+    <title>PPA Tour: Texas Open</title>
+    <sub-title>Singles - Encore</sub-title>
+    <episode-num system="onscreen">S2025E235</episode-num>
+    <desc>Encore Pickleball coverage from PPA Tour: CIBC Texas Open</desc>
+    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_TexasOpen.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" start="20251029130000 +0000" stop="20251029190000 +0000">
+    <title>PPA Tour: Texas Open</title>
+    <sub-title>Championship Sunday - Encore</sub-title>
+    <episode-num system="onscreen">S2025E238</episode-num>
+    <desc>Encore Pickleball coverage from PPA Tour: CIBC Texas Open</desc>
+    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_TexasOpen.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" start="20251029190000 +0000" stop="20251029193000 +0000">
+    <title>Pickleball Weekly</title>
+    <sub-title>Episode 39</sub-title>
+    <episode-num system="onscreen">S2025E41</episode-num>
+    <desc>Pickleball Weekly Episode 39</desc>
+    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/PBWEEKLY_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" start="20251029193000 +0000" stop="20251029220000 +0000">
+    <title>PPA Tour: Virginia Beach Cup</title>
+    <sub-title>Semifinals - Encore</sub-title>
+    <episode-num system="onscreen">S2025E345</episode-num>
+    <desc>Encore Pickleball coverage from PPA Tour: Virginia Beach Cup</desc>
+    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/PPAVirCup169.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" start="20251029220000 +0000" stop="20251029223000 +0000">
+    <title>Pickleball Weekly</title>
+    <sub-title>Episode 39</sub-title>
+    <episode-num system="onscreen">S2025E41</episode-num>
+    <desc>Pickleball Weekly Episode 39</desc>
+    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/PBWEEKLY_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" start="20251029223000 +0000" stop="20251030013000 +0000">
+    <title>PPA Tour: Virginia Beach Cup</title>
+    <sub-title>Championship Sunday - Encore</sub-title>
+    <episode-num system="onscreen">S2025E346</episode-num>
+    <desc>Encore Pickleball coverage from PPA Tour: Virginia Beach Cup</desc>
+    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/PPAVirCup169.jpg" />
   </programme>
   
 </tv>

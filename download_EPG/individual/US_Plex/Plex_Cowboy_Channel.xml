@@ -1,65 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="68fa84637ac952737656ae5f-680ad9f73f3c406c06d7392b">
+<channel id="5e20b730f2f8d5003d739db7-680ad9f73f3c406c06d7392b">
     <display-name>Cowboy Channel</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/9e4fc329-57fb-4340-af10-67f984395d79/CC_FAST_WhiteLogo_1500x1000.png" />
   </channel>
   
-<programme channel="68fa84637ac952737656ae5f-680ad9f73f3c406c06d7392b" start="20251028010003 +0000" stop="20251028040000 +0000">
-    <title>Texas Circuit Finals</title>
-    <sub-title>Performance 1</sub-title>
-    <episode-num system="onscreen">S2025E01</episode-num>
-    <desc>ProRodeo coverage from performance one of the Texas Circuit Finals in Waco, Texas.</desc>
-    <date>20251007</date>
-    <icon src="https://d1eb57x0r2hnbd.cloudfront.net/tetri/PRG_TXSF2025_SERIES.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-680ad9f73f3c406c06d7392b" start="20251028040000 +0000" stop="20251028050000 +0000">
-    <title>The American Super Contender</title>
-    <sub-title>Barretos</sub-title>
-    <episode-num system="onscreen">S2025E03</episode-num>
-    <desc>From Cowboy Festival Barretos in Sao Paulo, Brazil. Athletes compete to advance to the Regional Contender Finals.</desc>
-    <date>20250305</date>
-    <icon src="https://d1eb57x0r2hnbd.cloudfront.net/tetri/PRG_KRBC_SERIES_THUMB_01.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-680ad9f73f3c406c06d7392b" start="20251028050000 +0000" stop="20251028060000 +0000">
-    <title>The American Super Contender</title>
-    <sub-title>St. Tite</sub-title>
-    <episode-num system="onscreen">S2025E04</episode-num>
-    <desc>From the Festival Western de Saint Tite in Quebec, Canada. Athletes compete to advance to the Regional Contender Finals.</desc>
-    <date>20250312</date>
-    <icon src="https://d1eb57x0r2hnbd.cloudfront.net/tetri/PRG_KRBC_SERIES_THUMB_01.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-680ad9f73f3c406c06d7392b" start="20251028060000 +0000" stop="20251028102959 +0000">
-    <title>Cheyenne Frontier Days</title>
-    <sub-title>Championship Sunday</sub-title>
-    <episode-num system="onscreen">S2025E09</episode-num>
-    <desc>ProRodeo coverage from the Finals at The Daddy of 'Em All, Cheyenne Frontier Days Rodeo.</desc>
-    <date>20250727</date>
-    <icon src="https://d1eb57x0r2hnbd.cloudfront.net/tetri/PRG_CHFD2025_SERIES.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-680ad9f73f3c406c06d7392b" start="20251028102959 +0000" stop="20251028133000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-680ad9f73f3c406c06d7392b" start="20251028222954 +0000" stop="20251029012955 +0000">
     <title>North Dakota Rough Rider</title>
-    <sub-title>Performance 1</sub-title>
-    <episode-num system="onscreen">S2025E01</episode-num>
-    <desc>ProRodeo coverage of Performance 1 at the North Dakota Rough Rider Rodeo in Donnybrook, North Dakota.</desc>
-    <date>20250919</date>
+    <sub-title>Performance 2</sub-title>
+    <episode-num system="onscreen">S2025E02</episode-num>
+    <desc>ProRodeo coverage of Performance 2 at the North Dakota Rough Rider Rodeo in Donnybrook, North Dakota.</desc>
+    <date>20250920</date>
     <icon src="https://d1eb57x0r2hnbd.cloudfront.net/tetri/PRG_NDRR2025_SERIES.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-680ad9f73f3c406c06d7392b" start="20251028133000 +0000" stop="20251028163002 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-680ad9f73f3c406c06d7392b" start="20251029012955 +0000" stop="20251029040000 +0000">
     <title>Texas Circuit Finals</title>
-    <sub-title>Performance 1</sub-title>
-    <episode-num system="onscreen">S2025E01</episode-num>
-    <desc>ProRodeo coverage from performance one of the Texas Circuit Finals in Waco, Texas.</desc>
-    <date>20251007</date>
+    <sub-title>Performance 2</sub-title>
+    <episode-num system="onscreen">S2025E02</episode-num>
+    <desc>ProRodeo coverage from performance two of the Texas Circuit Finals in Waco, Texas.</desc>
+    <date>20251008</date>
     <icon src="https://d1eb57x0r2hnbd.cloudfront.net/tetri/PRG_TXSF2025_SERIES.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-680ad9f73f3c406c06d7392b" start="20251028163002 +0000" stop="20251028173001 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-680ad9f73f3c406c06d7392b" start="20251029040000 +0000" stop="20251029045959 +0000">
     <title>The American Super Contender</title>
     <sub-title>Cojo Team Roping</sub-title>
     <episode-num system="onscreen">S2025E02</episode-num>
@@ -68,7 +32,7 @@
     <icon src="https://d1eb57x0r2hnbd.cloudfront.net/tetri/PRG_KRBC_SERIES_THUMB_01.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-680ad9f73f3c406c06d7392b" start="20251028173001 +0000" stop="20251028183001 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-680ad9f73f3c406c06d7392b" start="20251029045959 +0000" stop="20251029055959 +0000">
     <title>The American Super Contender</title>
     <sub-title>Denver</sub-title>
     <episode-num system="onscreen">S2025E05</episode-num>
@@ -77,7 +41,7 @@
     <icon src="https://d1eb57x0r2hnbd.cloudfront.net/tetri/PRG_KRBC_SERIES_THUMB_01.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-680ad9f73f3c406c06d7392b" start="20251028183001 +0000" stop="20251028193001 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-680ad9f73f3c406c06d7392b" start="20251029055959 +0000" stop="20251029065959 +0000">
     <title>The American Super Contender</title>
     <sub-title>San Francisco</sub-title>
     <episode-num system="onscreen">S2025E06</episode-num>
@@ -86,7 +50,7 @@
     <icon src="https://d1eb57x0r2hnbd.cloudfront.net/tetri/PRG_KRBC_SERIES_THUMB_01.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-680ad9f73f3c406c06d7392b" start="20251028193001 +0000" stop="20251028222954 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-680ad9f73f3c406c06d7392b" start="20251029065959 +0000" stop="20251029095952 +0000">
     <title>Caldwell Night Rodeo</title>
     <sub-title>Performance 2</sub-title>
     <episode-num system="onscreen">S2025E02</episode-num>
@@ -95,13 +59,67 @@
     <icon src="https://d1eb57x0r2hnbd.cloudfront.net/tetri/PRG_CWNR2025_SERIES.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-680ad9f73f3c406c06d7392b" start="20251028222954 +0000" stop="20251029012955 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-680ad9f73f3c406c06d7392b" start="20251029095952 +0000" stop="20251029125954 +0000">
     <title>North Dakota Rough Rider</title>
     <sub-title>Performance 2</sub-title>
     <episode-num system="onscreen">S2025E02</episode-num>
     <desc>ProRodeo coverage of Performance 2 at the North Dakota Rough Rider Rodeo in Donnybrook, North Dakota.</desc>
     <date>20250920</date>
     <icon src="https://d1eb57x0r2hnbd.cloudfront.net/tetri/PRG_NDRR2025_SERIES.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-680ad9f73f3c406c06d7392b" start="20251029125954 +0000" stop="20251029152959 +0000">
+    <title>Texas Circuit Finals</title>
+    <sub-title>Performance 2</sub-title>
+    <episode-num system="onscreen">S2025E02</episode-num>
+    <desc>ProRodeo coverage from performance two of the Texas Circuit Finals in Waco, Texas.</desc>
+    <date>20251008</date>
+    <icon src="https://d1eb57x0r2hnbd.cloudfront.net/tetri/PRG_TXSF2025_SERIES.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-680ad9f73f3c406c06d7392b" start="20251029152959 +0000" stop="20251029155959 +0000">
+    <title>Best of PRORODEO</title>
+    <sub-title>RodeoHouston, NFR, &amp; Calfornia Circuit Finals</sub-title>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <desc>PRCA highlights from RodeoHouston, NFR &amp; California Circuit Finals.</desc>
+    <date>20241113</date>
+    <icon src="https://d1eb57x0r2hnbd.cloudfront.net/tetri/PRG_PRCA_SERIES_THUMB.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-680ad9f73f3c406c06d7392b" start="20251029155959 +0000" stop="20251029190001 +0000">
+    <title>The American Rodeo Contender Tournament</title>
+    <sub-title>West Finals</sub-title>
+    <episode-num system="onscreen">S2025E01</episode-num>
+    <desc>From the South Point Arena in Las Vegas, contenders compete for a  spot in The American Rodeo 2025.</desc>
+    <date>20250111</date>
+    <icon src="https://d1eb57x0r2hnbd.cloudfront.net/tetri/PRG_AROD2025_WEST_SERIES_THUMB.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-680ad9f73f3c406c06d7392b" start="20251029190001 +0000" stop="20251029220001 +0000">
+    <title>Caldwell Night Rodeo</title>
+    <sub-title>Performance 2</sub-title>
+    <episode-num system="onscreen">S2025E02</episode-num>
+    <desc>ProRodeo coverage of Performance 2 from Caldwell Night Rodeo in Caldwell, Idaho.</desc>
+    <date>20250813</date>
+    <icon src="https://d1eb57x0r2hnbd.cloudfront.net/tetri/PRG_CWNR2025_SERIES.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-680ad9f73f3c406c06d7392b" start="20251029220001 +0000" stop="20251030005956 +0000">
+    <title>North Dakota Rough Rider</title>
+    <sub-title>Performance 3</sub-title>
+    <episode-num system="onscreen">S2025E03</episode-num>
+    <desc>ProRodeo coverage of Performance 3 at the North Dakota Rough Rider Rodeo in Donnybrook, North Dakota.</desc>
+    <date>20250921</date>
+    <icon src="https://d1eb57x0r2hnbd.cloudfront.net/tetri/PRG_NDRR2025_SERIES.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-680ad9f73f3c406c06d7392b" start="20251030005956 +0000" stop="20251030040000 +0000">
+    <title>Texas Circuit Finals</title>
+    <sub-title>Performance 3</sub-title>
+    <episode-num system="onscreen">S2025E03</episode-num>
+    <desc>ProRodeo coverage from performance three of the Texas Circuit Finals in Waco, Texas.</desc>
+    <date>20251009</date>
+    <icon src="https://d1eb57x0r2hnbd.cloudfront.net/tetri/PRG_TXSF2025_SERIES.jpg" />
   </programme>
   
 </tv>

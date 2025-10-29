@@ -1,281 +1,165 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f">
+<channel id="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f">
     <display-name>NFL Channel</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/a7617b69-6d23-46d0-8e8e-e4ec9fa29d59/NFL_WHITE.png" />
   </channel>
   
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028001500 +0000" stop="20251028033000 +0000">
-    <title>NFL GameCenter Live</title>
-    <sub-title>NFL GameCenter Live</sub-title>
-    <episode-num system="onscreen">S2025E08</episode-num>
-    <desc>Get NFL score updates, highlights, news and more from Week 8 of the 2025 NFL season.</desc>
-    <date>20251023</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028033000 +0000" stop="20251028043000 +0000">
-    <title>The Insiders</title>
-    <sub-title>The Insiders</sub-title>
-    <desc>NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.</desc>
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251029000000 +0000" stop="20251029023700 +0000">
+    <title>NFL Game of the Week</title>
+    <sub-title>2025: Jets vs. Bengals - Week 8</sub-title>
+    <episode-num system="onscreen">S2025E01</episode-num>
+    <desc>New York Jets running back Breece Hall rushed for 2 second-half touchdowns and threw a 4-yard touchdown pass to Mason Taylor with 1:54 left, helping Justin Fields and the Jets edge the Cincinnati Bengals 39-38 on Sunday for their first win.</desc>
     <date>20251028</date>
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028043000 +0000" stop="20251028044800 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Dolphins vs. Falcons Highlights - Week 8</sub-title>
-    <episode-num system="onscreen">S2025E94</episode-num>
-    <desc>Highlights from the Week 8 matchup between the Miami Dolphins and the Atlanta Falcons during the 2025 NFL season.</desc>
-    <date>20251026</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028044800 +0000" stop="20251028050600 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Bears vs. Ravens Highlights - Week 8</sub-title>
-    <episode-num system="onscreen">S2025E95</episode-num>
-    <desc>Highlights from the Week 8 matchup between the Chicago Bears and the baltimore Ravens during the 2025 NFL season.</desc>
-    <date>20251026</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028050600 +0000" stop="20251028052400 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Bills vs. Panthers Highlights - Week 8</sub-title>
-    <episode-num system="onscreen">S2025E96</episode-num>
-    <desc>Highlights from the Week 8 matchup between the Buffalo Bills and the Carolina Panthers during the 2025 NFL season.</desc>
-    <date>20251026</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028052400 +0000" stop="20251028054200 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Jets vs. Bengals Highlights - Week 8</sub-title>
-    <episode-num system="onscreen">S2025E97</episode-num>
-    <desc>Highlights from the Week 8 matchup between the New York Jets and the Cincinnati Bengals during the 2025 NFL season.</desc>
-    <date>20251026</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028054200 +0000" stop="20251028060000 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>49ers vs. Texans Highlights - Week 8</sub-title>
-    <episode-num system="onscreen">S2025E98</episode-num>
-    <desc>Highlights from the Week 8 matchup between the San Francisco 49ers and the Houston Texans during the 2025 NFL season.</desc>
-    <date>20251026</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028060000 +0000" stop="20251028061800 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Weekly Game Recaps</sub-title>
-    <desc>Weekly highlight series featuring the biggest moments and best plays from every NFL game from Week 8 of the 2025 NFL season.</desc>
-    <date>20251023</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028061800 +0000" stop="20251028063600 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Browns vs. Patriots Highlights - Week 8</sub-title>
-    <episode-num system="onscreen">S2025E99</episode-num>
-    <desc>Highlights from the Week 8 matchup between the Cleveland Browns and the New England Patriots during the 2025 NFL season.</desc>
-    <date>20251026</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028063600 +0000" stop="20251028065400 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Buccaneers vs. Saints Highlights - Week 8</sub-title>
-    <episode-num system="onscreen">S2025E101</episode-num>
-    <desc>Highlights from the Week 8 matchup between the Tampa Bay Buccaneers and the New Orleans Saints during the 2025 NFL season.</desc>
-    <date>20251026</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028065400 +0000" stop="20251028071200 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Cowboys vs. Broncos Highlights - Week 8</sub-title>
-    <episode-num system="onscreen">S2025E92</episode-num>
-    <desc>Highlights from the Week 8 matchup between the Dallas Cowboys and the Denver Broncos during the 2025 NFL season.</desc>
-    <date>20251026</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028071200 +0000" stop="20251028073000 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Dolphins vs. Falcons Highlights - Week 8</sub-title>
-    <episode-num system="onscreen">S2025E94</episode-num>
-    <desc>Highlights from the Week 8 matchup between the Miami Dolphins and the Atlanta Falcons during the 2025 NFL season.</desc>
-    <date>20251026</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028073000 +0000" stop="20251028074800 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Bears vs. Ravens Highlights - Week 8</sub-title>
-    <episode-num system="onscreen">S2025E95</episode-num>
-    <desc>Highlights from the Week 8 matchup between the Chicago Bears and the baltimore Ravens during the 2025 NFL season.</desc>
-    <date>20251026</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028074800 +0000" stop="20251028080600 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Bills vs. Panthers Highlights - Week 8</sub-title>
-    <episode-num system="onscreen">S2025E96</episode-num>
-    <desc>Highlights from the Week 8 matchup between the Buffalo Bills and the Carolina Panthers during the 2025 NFL season.</desc>
-    <date>20251026</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028080600 +0000" stop="20251028082400 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Jets vs. Bengals Highlights - Week 8</sub-title>
-    <episode-num system="onscreen">S2025E97</episode-num>
-    <desc>Highlights from the Week 8 matchup between the New York Jets and the Cincinnati Bengals during the 2025 NFL season.</desc>
-    <date>20251026</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028082400 +0000" stop="20251028084200 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>49ers vs. Texans Highlights - Week 8</sub-title>
-    <episode-num system="onscreen">S2025E98</episode-num>
-    <desc>Highlights from the Week 8 matchup between the San Francisco 49ers and the Houston Texans during the 2025 NFL season.</desc>
-    <date>20251026</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028084200 +0000" stop="20251028090000 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Browns vs. Patriots Highlights - Week 8</sub-title>
-    <episode-num system="onscreen">S2025E99</episode-num>
-    <desc>Highlights from the Week 8 matchup between the Cleveland Browns and the New England Patriots during the 2025 NFL season.</desc>
-    <date>20251026</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028090000 +0000" stop="20251028091800 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Giants vs. Eagles Highlights - Week 8</sub-title>
-    <episode-num system="onscreen">S2025E100</episode-num>
-    <desc>Highlights from the Week 8 matchup between the New York Giants and the Philadelphia Eagles during the 2025 NFL season.</desc>
-    <date>20251026</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028091800 +0000" stop="20251028093600 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Buccaneers vs. Saints Highlights - Week 8</sub-title>
-    <episode-num system="onscreen">S2025E101</episode-num>
-    <desc>Highlights from the Week 8 matchup between the Tampa Bay Buccaneers and the New Orleans Saints during the 2025 NFL season.</desc>
-    <date>20251026</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028093600 +0000" stop="20251028095400 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Cowboys vs. Broncos Highlights - Week 8</sub-title>
-    <episode-num system="onscreen">S2025E92</episode-num>
-    <desc>Highlights from the Week 8 matchup between the Dallas Cowboys and the Denver Broncos during the 2025 NFL season.</desc>
-    <date>20251026</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028095400 +0000" stop="20251028101200 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Titans vs. Colts Highlights - Week 8</sub-title>
-    <episode-num system="onscreen">S2025E93</episode-num>
-    <desc>Highlights from the Week 8 matchup between the Tennessee Titans and the Indianapolis Colts during the 2025 NFL season.</desc>
-    <date>20251026</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028101200 +0000" stop="20251028103000 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Jets vs. Bengals Highlights - Week 8</sub-title>
-    <episode-num system="onscreen">S2025E97</episode-num>
-    <desc>Highlights from the Week 8 matchup between the New York Jets and the Cincinnati Bengals during the 2025 NFL season.</desc>
-    <date>20251026</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028103000 +0000" stop="20251028104800 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Bears vs. Ravens Highlights - Week 8</sub-title>
-    <episode-num system="onscreen">S2025E95</episode-num>
-    <desc>Highlights from the Week 8 matchup between the Chicago Bears and the baltimore Ravens during the 2025 NFL season.</desc>
-    <date>20251026</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028104800 +0000" stop="20251028110600 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Browns vs. Patriots Highlights - Week 8</sub-title>
-    <episode-num system="onscreen">S2025E99</episode-num>
-    <desc>Highlights from the Week 8 matchup between the Cleveland Browns and the New England Patriots during the 2025 NFL season.</desc>
-    <date>20251026</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028110600 +0000" stop="20251028112400 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Packers vs. Steelers Highlights - Week 8</sub-title>
-    <episode-num system="onscreen">S2025E102</episode-num>
-    <desc>Highlights from the Week 8 matchup between the Green Bay Packers and the Pittsburgh Steelers during the 2025 NFL season.</desc>
-    <date>20251026</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028112400 +0000" stop="20251028120000 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Weekly Game Recaps</sub-title>
-    <desc>Weekly highlight series featuring the biggest moments and best plays from every NFL game from Week 8 of the 2025 NFL season.</desc>
-    <date>20251023</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028120000 +0000" stop="20251028130000 +0000">
-    <title>The Insiders</title>
-    <sub-title>The Insiders</sub-title>
-    <desc>NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.</desc>
-    <date>20251028</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028130000 +0000" stop="20251028162600 +0000">
-    <title>NFL Game Re-Airs</title>
-    <sub-title>2014: Colts vs. Steelers, Week 8</sub-title>
-    <episode-num system="onscreen">S2022E188</episode-num>
-    <desc>Relive the matchup between the Indianapolis Colts and Pittsburgh Steelers where Andrew Luck and Ben Roethlisberger combined for 907 yards and 9 touchdowns, including Big Ben's career-high 522 yards through the air.</desc>
-    <date>20220314</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028162600 +0000" stop="20251028190700 +0000">
-    <title>NFL Game Re-Airs</title>
-    <sub-title>2023 AFC Divisional Round: Chiefs vs. Bills</sub-title>
-    <episode-num system="onscreen">S2024E09</episode-num>
-    <desc>Patrick Mahomes and Travis Kelce topple Josh Allen and the Bills in another post season classic. The Chiefs move on to the AFC Championship game for the sixth straight year.</desc>
-    <date>20240129</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028190700 +0000" stop="20251028213700 +0000">
-    <title>NFL Game Re-Airs</title>
-    <sub-title>2024: Rams vs. Saints - Week 13</sub-title>
-    <episode-num system="onscreen">S2025E10</episode-num>
-    <desc>Los Angeles Rams quarterback Matthew Stafford threw for 183 yards along with touchdown passes of 3 yards to Demarcus Robinson and 7 yards to Puka Nacua, the latter putting the Rams up for good with 8:54 left.</desc>
-    <date>20250714</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028213700 +0000" stop="20251028220400 +0000">
-    <title>NFL Mic'd Up</title>
-    <sub-title>Week 8, 2017</sub-title>
-    <episode-num system="onscreen">S2025E11</episode-num>
-    <desc>Listen to the best sounds of Week 8 from the 2017 NFL season, presented by Sound FX.</desc>
-    <date>20251028</date>
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028220400 +0000" stop="20251028222900 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251029023700 +0000" stop="20251029041500 +0000">
     <title>NFL Throwback</title>
-    <sub-title>Every Team's Best Free Agent Signing</sub-title>
-    <episode-num system="onscreen">S2022E17</episode-num>
-    <desc>Take a look back at every team's best signing in the modern era of free agency.</desc>
-    <date>20220312</date>
+    <sub-title>Every Team's Ultimate Lineup</sub-title>
+    <episode-num system="onscreen">S2025E48</episode-num>
+    <desc>From Bronko Nagurski to Patrick Mahomes, see every franchise's all-time team across NFL history.</desc>
+    <date>20250909</date>
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028222900 +0000" stop="20251028230000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251029041500 +0000" stop="20251029050700 +0000">
+    <title>NFL Throwback</title>
+    <sub-title>Best Short Careers</sub-title>
+    <episode-num system="onscreen">S2025E42</episode-num>
+    <desc>Hear the stories of some of the best careers in NFL history that were tragically cut short.</desc>
+    <date>20250826</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251029050700 +0000" stop="20251029053700 +0000">
+    <title>NFL Throwback</title>
+    <sub-title>NFL Throwback Trivia</sub-title>
+    <episode-num system="onscreen">S2025E57</episode-num>
+    <desc>Put your knowledge to the test with 40 questions about NFL history!</desc>
+    <date>20251025</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251029053700 +0000" stop="20251029060100 +0000">
+    <title>NFL Throwback</title>
+    <sub-title>2018 'Greatest Game Ever': Chiefs vs. Rams</sub-title>
+    <episode-num system="onscreen">S2024E16</episode-num>
+    <desc>Relive the Monday Night Football epic pitting Patrick Mahomes' Chiefs against Jared Goff's Rams.</desc>
+    <date>20240304</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251029060100 +0000" stop="20251029063100 +0000">
     <title>Power Rankings</title>
     <sub-title>Power Rankings</sub-title>
     <desc>Hosts Mike Yam and Eric Edholm provide an in-depth look at where each team sits in the weekly ranking of all 32 NFL teams.</desc>
+    <date>20251029</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251029063100 +0000" stop="20251029073100 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>Top Plays From Week 8</sub-title>
+    <desc>Highlights from the National Football League.</desc>
     <date>20251028</date>
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251028230000 +0000" stop="20251029000000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251029073100 +0000" stop="20251029080100 +0000">
+    <title>Power Rankings</title>
+    <sub-title>Power Rankings</sub-title>
+    <desc>Hosts Mike Yam and Eric Edholm provide an in-depth look at where each team sits in the weekly ranking of all 32 NFL teams.</desc>
+    <date>20251029</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251029080100 +0000" stop="20251029090100 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>Top Plays From Week 8</sub-title>
+    <desc>Highlights from the National Football League.</desc>
+    <date>20251028</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251029090100 +0000" stop="20251029092100 +0000">
+    <title>NFL Throwback</title>
+    <sub-title>25 Elite Players Traded In Their Prime</sub-title>
+    <episode-num system="onscreen">S2025E47</episode-num>
+    <desc>See which NFL superstars were shockingly traded at the peak of their careers.</desc>
+    <date>20250907</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251029092100 +0000" stop="20251029124400 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2013: Dolphins vs. Bengals, Week 9</sub-title>
+    <episode-num system="onscreen">S2022E440</episode-num>
+    <desc>Cameron Wake sacked Andy Dalton for a safety in overtime, and the Miami Dolphins beat the Cincinnati Bengals 22-20 on Halloween night.</desc>
+    <date>20221029</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251029124400 +0000" stop="20251029131500 +0000">
+    <title>Power Rankings</title>
+    <sub-title>Power Rankings</sub-title>
+    <desc>Hosts Mike Yam and Eric Edholm provide an in-depth look at where each team sits in the weekly ranking of all 32 NFL teams.</desc>
+    <date>20251029</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251029131500 +0000" stop="20251029141500 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>NFL Highlights</sub-title>
+    <desc>Highlights from the National Football League.</desc>
+    <date>20251029</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251029141500 +0000" stop="20251029174900 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2010: Redskins vs. Lions</sub-title>
+    <episode-num system="onscreen">S2022E134</episode-num>
+    <desc>Calvin Johnson produced two 3-touchdown games in his career. The more memorable outing came Halloween 2010 versus the Washington Redskins.</desc>
+    <date>20220228</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251029174900 +0000" stop="20251029203000 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2010: Steelers vs. Saints</sub-title>
+    <episode-num system="onscreen">S2022E203</episode-num>
+    <desc>Drew Brees passed for 305 yards and two touchdowns and the New Orleans Saints defeated the Pittsburgh Steelers 20-10 on Halloween night.</desc>
+    <date>20220322</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251029203000 +0000" stop="20251029212700 +0000">
+    <title>Condensed Game</title>
+    <sub-title>2005: Ravens vs. Steelers - Week 8</sub-title>
+    <desc>On Halloween night, the Steelers edged the injury-depleted Ravens 20-19. Steelers quarterback Ben Roethlisberger hit rookie tight end Heath Miller for two touchdowns, and kicker Jeff Reed's late 37-yard field goal sealed it.</desc>
+    <date>20251029</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251029212700 +0000" stop="20251029223000 +0000">
+    <title>Condensed Game</title>
+    <sub-title>2004: Falcons vs. Broncos - Week 8</sub-title>
+    <desc>On Halloween, the Falcons and Broncos combined for over 1,000 offensive yards. Jake Plummer passed for 499 yards and 4 touchdowns. Michael Vick and wide receiver Peerless Price connected on two touchdowns in Atlanta's 41-28 victory.</desc>
+    <date>20251029</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251029223000 +0000" stop="20251029230100 +0000">
+    <title>NFL Fantasy Football Show</title>
+    <sub-title>NFL Fantasy Football Show</sub-title>
+    <desc>Marcas Grant and his guests provide detailed fantasy football analysis combining in-depth stats and film study ahead of Week 9 during the 2025 NFL season.</desc>
+    <date>20251029</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251029230100 +0000" stop="20251030000100 +0000">
+    <title>NFL Daily</title>
+    <sub-title>NFL Daily</sub-title>
+    <desc>Gregg Rosenthal and a rotating crew of elite NFL Media co-hosts, including Patrick Claybon, Colleen Wolfe, Steve Wyche, Nick Shook and Jourdan Rodrigue of The Athletic get viewers caught up daily on all the NFL news and analysis.</desc>
+    <date>20251029</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251030000100 +0000" stop="20251030010100 +0000">
     <title>NFL Highlights</title>
     <sub-title>NFL Highlights</sub-title>
     <desc>Best moments and compilations including player highlights, top plays, and game highlights from Week 7 of the 2025 NFL season.</desc>
     <date>20251021</date>
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-61e805952502a7a6fa84d70f" start="20251029000000 +0000" stop="20251029030000 +0000">
-    <title>Game of the Week</title>
-    <sub-title>Week 8</sub-title>
-    <desc>The Game of the Week from Week 8 of the 2025 NFL season.</desc>
-    <date>20251028</date>
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251030010100 +0000" stop="20251030030100 +0000">
+    <title>Weekly Game Previews</title>
+    <sub-title>Week 9</sub-title>
+    <episode-num system="onscreen">S2025E09</episode-num>
+    <desc>This weekly series breaks down what you need to know for every NFL matchup ahead of Week 9 from the 2025 NFL season.</desc>
+    <date>20251029</date>
   </programme>
   
 </tv>

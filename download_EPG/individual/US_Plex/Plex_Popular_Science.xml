@@ -1,51 +1,89 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e">
+<channel id="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e">
     <display-name>Popular Science</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/c6bfca5e-58fe-4ed4-a87d-5e2ccde7f085/Logo_Art_-_Popular_Science_Dark_Backgrounds.png" />
   </channel>
   
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028005409 +0000" stop="20251028012048 +0000">
-    <title>How to Survive</title>
-    <sub-title>Into the Wild</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251029010046 +0000" stop="20251029015649 +0000">
+    <title>Hacksmith: Make It Real</title>
+    <sub-title>Mario Karts, Gimli's Axe</sub-title>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <desc>Take a ride through pop culture as we explore the thrill of Mario Karts and the power of Gimli’s axe.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/fa2c1cb9-c4b7-4621-91e5-3c49139b3a86_mario-karts-gimli-s-axe_9ee8cb43-d395-43c2-96e5-c7e2a2ba06ce_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251029015649 +0000" stop="20251029030440 +0000">
+    <title>Hacksmith: Make It Real</title>
+    <sub-title>Thunder Spears, Superman Laser Eyes</sub-title>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <desc>Some of the most iconic weapons and powers, from the electrifying thunder spears to Superman’s laser eyes.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/dee2662b-ea92-4d2c-ad81-598e34d99809_thunder-spears-superman-laser-eyes_1f049e58-cd44-4d40-8c5d-2c4c59ce407a_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251029030440 +0000" stop="20251029032250 +0000">
+    <title>What If: Discussed</title>
+    <sub-title>What If We Lived on a Super Earth?</sub-title>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <desc>Imagine life on a Super Earth: exploring its massive landscapes, intense gravity, and how humans might adapt.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/3cebd40f-f17b-4b02-9791-0a1c6698c151_what-if-we-lived-on-a-super-earth_ce86852c-ed39-4a3d-bc52-679015829f1e_thumbnail_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251029032250 +0000" stop="20251029035602 +0000">
+    <title>What If: Cosmos</title>
+    <sub-title>From the Ground Up: Building New Suns and Death Stars</sub-title>
     <episode-num system="onscreen">S01E87</episode-num>
-    <desc>Embark on an adventure into the untamed wilderness, exploring the beauty, dangers, and survival challenges of</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/4227f1f5-0e0f-4c17-9a5b-3b7b2af014f8_into-the-wild_e9bbef2d-b8ee-465c-9450-6cc2324ea1c7_thumbnail_1920x1080.png" />
+    <desc>Explore the cosmic processes behind the birth of new suns and the creation of deadly stars.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/5e98f884-c965-4655-bed4-8f27d4b8bf1c_from-the-ground-up-building-new-suns-and-death-stars_cdc16d58-22eb-4332-8f55-b38c6941f57d_thumbnail_1920x1080.png" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028012048 +0000" stop="20251028014653 +0000">
-    <title>How to Survive</title>
-    <sub-title>Surviving the Impossible</sub-title>
-    <episode-num system="onscreen">S01E65</episode-num>
-    <desc>Discover incredible survival stories and the human spirit’s ability to endure against all odds, facing the mos</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/da4054d4-e52b-474e-b2c3-82e6ddaf463d_surviving-the-impossible_8dd91fa8-8f65-4b35-b34f-93a51ea56ed6_thumbnail_1920x1080.png" />
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251029035602 +0000" stop="20251029042541 +0000">
+    <title>What If: Technology</title>
+    <sub-title>Seeing is Believing: Unreal Technology</sub-title>
+    <episode-num system="onscreen">S01E95</episode-num>
+    <desc>Explore the mind-blowing advancements in technology that blur the lines between reality and imagination.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/93c4562b-2b51-4752-8bea-a10de6a79f59_seeing-is-believing-unreal-technology_aa704a27-0329-47f4-892e-dd6fa3374e74_thumbnail_1920x1080.png" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028014653 +0000" stop="20251028021439 +0000">
-    <title>How to Survive</title>
-    <sub-title>Hack Your Way Through This</sub-title>
-    <episode-num system="onscreen">S01E23</episode-num>
-    <desc>Learn creative hacks and survival strategies for navigating tough situations, from everyday challenges to extr</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/bcfe0337-971e-4954-bdda-18b77d12545d_hack-your-way-through-this_96f989f9-2c64-43fd-93c9-f2f93ec1fa00_thumbnail_1920x1080.png" />
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251029042541 +0000" stop="20251029045230 +0000">
+    <title>The $2,000 Video Phone From 1987</title>
+    <category>Movie</category>
+    <desc>It's been 150 years since we started thinking about and criticizing live video communication.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028021439 +0000" stop="20251028023324 +0000">
-    <title>How to Survive</title>
-    <sub-title>Drones, Strikes, and Nuclear Threats</sub-title>
-    <episode-num system="onscreen">S01E31</episode-num>
-    <desc>Explore the world of modern warfare and global threats, from drone strikes to the looming dangers of nuclear c</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/5b811575-6006-44af-b456-d5c088df20c8_drones-strikes-and-nuclear-threats_d24e78e4-0b95-4170-a60e-898d51760b5c_thumbnail_1920x1080.png" />
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251029045230 +0000" stop="20251029052502 +0000">
+    <title>The Futuristic Toy Moms HATED (Captain Power)</title>
+    <category>Movie</category>
+    <desc>The reality of Captain Power was a disastrous mismatch of concepts for the toys and the show itself.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028023324 +0000" stop="20251028025819 +0000">
-    <title>How to Survive</title>
-    <sub-title>The Sea World Tragedy</sub-title>
-    <episode-num system="onscreen">S01E32</episode-num>
-    <desc>Uncover the tragic events surrounding SeaWorld, exploring the incidents that raised ethical questions and chan</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/b0a80b40-4830-4e93-979e-b2616c999ebd_the-sea-world-tragedy_5a71ca13-f79f-4d44-83ba-df53dcccc573_thumbnail_1920x1080.png" />
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251029052502 +0000" stop="20251029062253 +0000">
+    <title>Crash Course: History of Science</title>
+    <sub-title>Air &amp; Space, Ecology, Environment, Biotech</sub-title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <desc>Explore the significant milestones in scientific discovery as we look at key advancements.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/2afde064-6507-4281-aa78-f6fb2a914ac4_cc-history-of-science-episode-10_c6b9be97-6f4b-4d5a-b8df-c7b6385039a8_thumbnail_1920x1080.png" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028025819 +0000" stop="20251028032531 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251029062253 +0000" stop="20251029070559 +0000">
+    <title>Crash Course: History of Science</title>
+    <sub-title>Bodies and Dollars, Century of the Gene, Internet</sub-title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <desc>Delve into the evolution of scientific thought as we explore the most recent breakthroughs.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/8d3c887c-ec0c-41c4-981e-14768b99996d_cc-history-of-science-episode-11_e399efbf-80c7-46cb-922b-668121413193_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251029070559 +0000" stop="20251029074526 +0000">
+    <title>Crash Course: History of Science</title>
+    <sub-title>Life &amp; Longevity, Climate Science, Limits of History</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>Conclude the series with a look at the future of science, exploring emerging fields and the next frontiers.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/66f31327-80c7-4439-b9b4-2cfa51079f77_cc-history-of-science-episode-12_1786bdcd-1a60-4af0-b0a4-052651c66a95_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251029074526 +0000" stop="20251029081240 +0000">
     <title>How to Survive</title>
     <sub-title>Tales from the Depths</sub-title>
     <episode-num system="onscreen">S01E70</episode-num>
@@ -53,219 +91,21 @@
     <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/ca7208a3-4d79-4664-8c54-35d57ad21650_tales-from-the-depths_2969f959-a750-42ac-b5bc-4f5ca4ba269b_thumbnail_1920x1080.png" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028032531 +0000" stop="20251028035131 +0000">
-    <title>How to Survive</title>
-    <sub-title>Cult of Personality</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Explore the rise of influential figures and the psychology behind the cults of personality that can sway natio</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/0a94683a-8c81-4378-b390-44a4ca9f2917_cult-of-personality_0c518ea9-1321-4f57-b7c4-d21556ddd4ef_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028035131 +0000" stop="20251028041745 +0000">
-    <title>How to Survive</title>
-    <sub-title>Bring a Parachute</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Join us as we explore heart-pounding extreme adventures, from skydiving to dangerous stunts, where having a pa</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/1dc63de1-2780-442b-9a7e-ddbfd0e68315_bring-a-parachute_1a54c6bc-2591-43a7-b6aa-f08bd163fceb_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028041745 +0000" stop="20251028044313 +0000">
-    <title>How to Survive</title>
-    <sub-title>Don't Press Paws</sub-title>
-    <episode-num system="onscreen">S01E23</episode-num>
-    <desc>Stay on the edge of your seat as we dive into thrilling and suspenseful moments, where pausing could mean miss</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/e13a4b5a-0f9e-4fa5-aef5-8581bc3d1342_don-t-press-paws_d27433d2-5c00-40d1-b516-7d26b8da0dca_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028044313 +0000" stop="20251028053237 +0000">
-    <title>Hacksmith: Building Star Wars</title>
-    <sub-title>Carbon Freeze, Han's Blaster, Mando Armor</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Take a closer look at some of Star Wars' most iconic equipment; Carbon freezing, Han's blaster, Mando armor.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/68aa8279-2e67-4aa1-894f-d17962702ef4_e1-carbon-freeze-han-s-blaster-mando-armor_27eb3391-9f32-4106-b437-d649735ebf88_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028053237 +0000" stop="20251028063731 +0000">
-    <title>Hacksmith</title>
-    <sub-title>Mouse Droid, Grapple Gun, Mandalorian Helmet</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Explore iconic Star Wars tech; The clever Mouse Droid, the Grapple Gun and the Mandalorian helmet.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/8f711d9d-7659-4025-839e-5617a84f6803_mouse-droid-grapple-gun-mandalorian-helmet_696dc9cb-98f9-4183-b1be-4c9906f92e7c_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028063731 +0000" stop="20251028072139 +0000">
-    <title>Hacksmith: Building Star Wars</title>
-    <sub-title>A Mandalorian's Best Friends</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Join us as we explore the iconic gadgets of a Mandalorian, from trusty droids to battle-ready gear.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/cb82e18c-db7d-49f3-9d78-e9fb163e5351_a-mandalorian-s-best-friends_8d4c35dc-9d18-4366-9369-dd6a851f2b32_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028072139 +0000" stop="20251028075614 +0000">
-    <title>Hacksmith</title>
-    <sub-title>Jedi Training, Mando &amp; Solo Blasters</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Join the galaxy’s finest as we explore Jedi training techniques, Mandalorian and Han Solo's blasters.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/bb787045-cb15-4573-806d-80d2004fe6b8_jedi-training-mando-solo-blasters_0f96e72d-68cd-48f6-8b09-f6ab747ed36c_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028075614 +0000" stop="20251028081328 +0000">
-    <title>How to Survive</title>
-    <sub-title>Predators and Pests</sub-title>
-    <episode-num system="onscreen">S01E79</episode-num>
-    <desc>Explore the world of dangerous predators and pesky pests, uncovering survival strategies for dealing with natu</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/fd86e75b-0e26-4ce4-b383-7b8c7d8548c4_predators-and-pests_b8a9adfd-689b-46a7-ad8b-973220ef49a6_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028081328 +0000" stop="20251028101338 +0000">
-    <title>The YouTube Effect</title>
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251029081240 +0000" stop="20251029102051 +0000">
+    <title>After Antarctica</title>
     <category>Movie</category>
-    <desc>Alex Winter's troubling look at YouTube, its humble origins, and how it changed how we experience the world.</desc>
+    <desc>After Antarctica follows polar explorer Will Steger’s journey as an eyewitness to the significant change.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028101338 +0000" stop="20251028120222 +0000">
-    <title>Deep Web</title>
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251029102051 +0000" stop="20251029121630 +0000">
+    <title>General Magic</title>
     <category>Movie</category>
-    <desc>Deep Web guides us through the inside story of one of the most riveting digital crime sagas of the modern era.</desc>
+    <desc>Discover the magic of Silicon Valley.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028120222 +0000" stop="20251028122859 +0000">
-    <title>How to Survive</title>
-    <sub-title>Birds and Bears</sub-title>
-    <episode-num system="onscreen">S01E75</episode-num>
-    <desc>Explore the fascinating world of birds and bears, from soaring avians to powerful predators, and learn how to</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/d427c305-dd92-4f07-866e-f24c50dc8ea6_birds-and-bears_5309225c-8f3d-4829-9645-d826f2b76e6e_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028122859 +0000" stop="20251028125832 +0000">
-    <title>How to Survive</title>
-    <sub-title>Islands, Apes, and Extinct Evils</sub-title>
-    <episode-num system="onscreen">S01E78</episode-num>
-    <desc>Explore remote islands, study apes, and uncover extinct predators and their lasting impact!</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/8f90b731-8c8f-4a84-a264-96702f13423a_islands-apes-and-extinct-evils_5a09f644-e0b5-4223-aedf-98031888944e_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028125832 +0000" stop="20251028132511 +0000">
-    <title>How to Survive</title>
-    <sub-title>Into the Wild</sub-title>
-    <episode-num system="onscreen">S01E87</episode-num>
-    <desc>Embark on an adventure into the untamed wilderness, exploring the beauty, dangers, and survival challenges of</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/4227f1f5-0e0f-4c17-9a5b-3b7b2af014f8_into-the-wild_e9bbef2d-b8ee-465c-9450-6cc2324ea1c7_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028132511 +0000" stop="20251028135117 +0000">
-    <title>How to Survive</title>
-    <sub-title>Surviving the Impossible</sub-title>
-    <episode-num system="onscreen">S01E65</episode-num>
-    <desc>Discover incredible survival stories and the human spirit’s ability to endure against all odds, facing the mos</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/da4054d4-e52b-474e-b2c3-82e6ddaf463d_surviving-the-impossible_8dd91fa8-8f65-4b35-b34f-93a51ea56ed6_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028135117 +0000" stop="20251028141857 +0000">
-    <title>How to Survive</title>
-    <sub-title>Hack Your Way Through This</sub-title>
-    <episode-num system="onscreen">S01E23</episode-num>
-    <desc>Learn creative hacks and survival strategies for navigating tough situations, from everyday challenges to extr</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/bcfe0337-971e-4954-bdda-18b77d12545d_hack-your-way-through-this_96f989f9-2c64-43fd-93c9-f2f93ec1fa00_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028141857 +0000" stop="20251028143741 +0000">
-    <title>How to Survive</title>
-    <sub-title>Drones, Strikes, and Nuclear Threats</sub-title>
-    <episode-num system="onscreen">S01E31</episode-num>
-    <desc>Explore the world of modern warfare and global threats, from drone strikes to the looming dangers of nuclear c</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/5b811575-6006-44af-b456-d5c088df20c8_drones-strikes-and-nuclear-threats_d24e78e4-0b95-4170-a60e-898d51760b5c_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028143741 +0000" stop="20251028150244 +0000">
-    <title>How to Survive</title>
-    <sub-title>The Sea World Tragedy</sub-title>
-    <episode-num system="onscreen">S01E32</episode-num>
-    <desc>Uncover the tragic events surrounding SeaWorld, exploring the incidents that raised ethical questions and chan</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/b0a80b40-4830-4e93-979e-b2616c999ebd_the-sea-world-tragedy_5a71ca13-f79f-4d44-83ba-df53dcccc573_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028150244 +0000" stop="20251028152952 +0000">
-    <title>How to Survive</title>
-    <sub-title>Tales from the Depths</sub-title>
-    <episode-num system="onscreen">S01E70</episode-num>
-    <desc>Venture into the mysterious depths of the ocean, exploring eerie encounters, sunken treasures, and the chillin</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/ca7208a3-4d79-4664-8c54-35d57ad21650_tales-from-the-depths_2969f959-a750-42ac-b5bc-4f5ca4ba269b_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028152952 +0000" stop="20251028155551 +0000">
-    <title>How to Survive</title>
-    <sub-title>Cult of Personality</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Explore the rise of influential figures and the psychology behind the cults of personality that can sway natio</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/0a94683a-8c81-4378-b390-44a4ca9f2917_cult-of-personality_0c518ea9-1321-4f57-b7c4-d21556ddd4ef_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028155551 +0000" stop="20251028162209 +0000">
-    <title>How to Survive</title>
-    <sub-title>Bring a Parachute</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Join us as we explore heart-pounding extreme adventures, from skydiving to dangerous stunts, where having a pa</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/1dc63de1-2780-442b-9a7e-ddbfd0e68315_bring-a-parachute_1a54c6bc-2591-43a7-b6aa-f08bd163fceb_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028162209 +0000" stop="20251028164731 +0000">
-    <title>How to Survive</title>
-    <sub-title>Don't Press Paws</sub-title>
-    <episode-num system="onscreen">S01E23</episode-num>
-    <desc>Stay on the edge of your seat as we dive into thrilling and suspenseful moments, where pausing could mean miss</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/e13a4b5a-0f9e-4fa5-aef5-8581bc3d1342_don-t-press-paws_d27433d2-5c00-40d1-b516-7d26b8da0dca_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028164731 +0000" stop="20251028173642 +0000">
-    <title>Hacksmith: Building Star Wars</title>
-    <sub-title>Carbon Freeze, Han's Blaster, Mando Armor</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Take a closer look at some of Star Wars' most iconic equipment; Carbon freezing, Han's blaster, Mando armor.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/68aa8279-2e67-4aa1-894f-d17962702ef4_e1-carbon-freeze-han-s-blaster-mando-armor_27eb3391-9f32-4106-b437-d649735ebf88_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028173642 +0000" stop="20251028184131 +0000">
-    <title>Hacksmith</title>
-    <sub-title>Mouse Droid, Grapple Gun, Mandalorian Helmet</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Explore iconic Star Wars tech; The clever Mouse Droid, the Grapple Gun and the Mandalorian helmet.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/8f711d9d-7659-4025-839e-5617a84f6803_mouse-droid-grapple-gun-mandalorian-helmet_696dc9cb-98f9-4183-b1be-4c9906f92e7c_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028184131 +0000" stop="20251028192540 +0000">
-    <title>Hacksmith: Building Star Wars</title>
-    <sub-title>A Mandalorian's Best Friends</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Join us as we explore the iconic gadgets of a Mandalorian, from trusty droids to battle-ready gear.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/cb82e18c-db7d-49f3-9d78-e9fb163e5351_a-mandalorian-s-best-friends_8d4c35dc-9d18-4366-9369-dd6a851f2b32_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028192540 +0000" stop="20251028200017 +0000">
-    <title>Hacksmith</title>
-    <sub-title>Jedi Training, Mando &amp; Solo Blasters</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Join the galaxy’s finest as we explore Jedi training techniques, Mandalorian and Han Solo's blasters.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/bb787045-cb15-4573-806d-80d2004fe6b8_jedi-training-mando-solo-blasters_0f96e72d-68cd-48f6-8b09-f6ab747ed36c_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028200017 +0000" stop="20251028220020 +0000">
-    <title>The YouTube Effect</title>
-    <category>Movie</category>
-    <desc>Alex Winter's troubling look at YouTube, its humble origins, and how it changed how we experience the world.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028220020 +0000" stop="20251028234853 +0000">
-    <title>Deep Web</title>
-    <category>Movie</category>
-    <desc>Deep Web guides us through the inside story of one of the most riveting digital crime sagas of the modern era.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
-  </programme>
-  
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251028234853 +0000" stop="20251029001600 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251029121630 +0000" stop="20251029122000 +0000">
     <title>This Week In Spaceflight</title>
     <sub-title>Week of October 26, 2025</sub-title>
     <episode-num system="onscreen">S01E128</episode-num>
@@ -273,7 +113,14 @@
     <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/e6169e3f-b839-4f7e-b0f0-9ac6d5e5379c_week-of-october-26-2025_ceb25e04-0d5c-49ec-b62c-48ecd1a8113f_thumbnail_1920x1080.jpg" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251029001600 +0000" stop="20251029010046 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251029122000 +0000" stop="20251029131000 +0000">
+    <title>LIVE LAUNCH: Starlink Group 10-37</title>
+    <category>Movie</category>
+    <desc>LIVE LAUNCH: Starlink Group 10-37</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251029131000 +0000" stop="20251029132832 +0000">
     <title>Hacksmith: Make It Real</title>
     <sub-title>E-Foil Broom, Bone Claws, Predator Vision</sub-title>
     <episode-num system="onscreen">S01E14</episode-num>
@@ -281,12 +128,103 @@
     <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/1ee0271a-23f6-4f5c-a853-43f542267cc3_e-foil-broom-bone-claws-predator-vision_301983c2-39cb-43f7-ab0e-1f41bc60c8ca_thumbnail_1920x1080.png" />
   </programme>
   
-<programme channel="68fa84637ac952737656ae5f-656fb850cb7e8e6a9bc3f36e" start="20251029010046 +0000" stop="20251029015649 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251029132832 +0000" stop="20251029142443 +0000">
     <title>Hacksmith: Make It Real</title>
     <sub-title>Mario Karts, Gimli's Axe</sub-title>
     <episode-num system="onscreen">S01E15</episode-num>
     <desc>Take a ride through pop culture as we explore the thrill of Mario Karts and the power of Gimli’s axe.</desc>
     <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/fa2c1cb9-c4b7-4621-91e5-3c49139b3a86_mario-karts-gimli-s-axe_9ee8cb43-d395-43c2-96e5-c7e2a2ba06ce_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251029142443 +0000" stop="20251029153240 +0000">
+    <title>Hacksmith: Make It Real</title>
+    <sub-title>Thunder Spears, Superman Laser Eyes</sub-title>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <desc>Some of the most iconic weapons and powers, from the electrifying thunder spears to Superman’s laser eyes.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/dee2662b-ea92-4d2c-ad81-598e34d99809_thunder-spears-superman-laser-eyes_1f049e58-cd44-4d40-8c5d-2c4c59ce407a_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251029153240 +0000" stop="20251029155056 +0000">
+    <title>What If: Discussed</title>
+    <sub-title>What If We Lived on a Super Earth?</sub-title>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <desc>Imagine life on a Super Earth: exploring its massive landscapes, intense gravity, and how humans might adapt.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/3cebd40f-f17b-4b02-9791-0a1c6698c151_what-if-we-lived-on-a-super-earth_ce86852c-ed39-4a3d-bc52-679015829f1e_thumbnail_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251029155056 +0000" stop="20251029162415 +0000">
+    <title>What If: Cosmos</title>
+    <sub-title>From the Ground Up: Building New Suns and Death Stars</sub-title>
+    <episode-num system="onscreen">S01E87</episode-num>
+    <desc>Explore the cosmic processes behind the birth of new suns and the creation of deadly stars.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/5e98f884-c965-4655-bed4-8f27d4b8bf1c_from-the-ground-up-building-new-suns-and-death-stars_cdc16d58-22eb-4332-8f55-b38c6941f57d_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251029162415 +0000" stop="20251029165354 +0000">
+    <title>What If: Technology</title>
+    <sub-title>Seeing is Believing: Unreal Technology</sub-title>
+    <episode-num system="onscreen">S01E95</episode-num>
+    <desc>Explore the mind-blowing advancements in technology that blur the lines between reality and imagination.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/93c4562b-2b51-4752-8bea-a10de6a79f59_seeing-is-believing-unreal-technology_aa704a27-0329-47f4-892e-dd6fa3374e74_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251029165354 +0000" stop="20251029172036 +0000">
+    <title>The $2,000 Video Phone From 1987</title>
+    <category>Movie</category>
+    <desc>It's been 150 years since we started thinking about and criticizing live video communication.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251029172036 +0000" stop="20251029175310 +0000">
+    <title>The Futuristic Toy Moms HATED (Captain Power)</title>
+    <category>Movie</category>
+    <desc>The reality of Captain Power was a disastrous mismatch of concepts for the toys and the show itself.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251029175310 +0000" stop="20251029185043 +0000">
+    <title>Crash Course: History of Science</title>
+    <sub-title>Air &amp; Space, Ecology, Environment, Biotech</sub-title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <desc>Explore the significant milestones in scientific discovery as we look at key advancements.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/2afde064-6507-4281-aa78-f6fb2a914ac4_cc-history-of-science-episode-10_c6b9be97-6f4b-4d5a-b8df-c7b6385039a8_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251029185043 +0000" stop="20251029193349 +0000">
+    <title>Crash Course: History of Science</title>
+    <sub-title>Bodies and Dollars, Century of the Gene, Internet</sub-title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <desc>Delve into the evolution of scientific thought as we explore the most recent breakthroughs.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/8d3c887c-ec0c-41c4-981e-14768b99996d_cc-history-of-science-episode-11_e399efbf-80c7-46cb-922b-668121413193_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251029193349 +0000" stop="20251029201316 +0000">
+    <title>Crash Course: History of Science</title>
+    <sub-title>Life &amp; Longevity, Climate Science, Limits of History</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>Conclude the series with a look at the future of science, exploring emerging fields and the next frontiers.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/66f31327-80c7-4439-b9b4-2cfa51079f77_cc-history-of-science-episode-12_1786bdcd-1a60-4af0-b0a4-052651c66a95_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251029201316 +0000" stop="20251029222127 +0000">
+    <title>After Antarctica</title>
+    <category>Movie</category>
+    <desc>After Antarctica follows polar explorer Will Steger’s journey as an eyewitness to the significant change.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251029222127 +0000" stop="20251030001721 +0000">
+    <title>General Magic</title>
+    <category>Movie</category>
+    <desc>Discover the magic of Silicon Valley.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251030001721 +0000" stop="20251030020120 +0000">
+    <title>It's Quieter in the Twilight</title>
+    <category>Movie</category>
+    <desc>In an unremarkable office space, a select group of aging engineers ensures a legendary spacecraft lives on.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
   </programme>
   
 </tv>
