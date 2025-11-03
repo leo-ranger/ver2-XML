@@ -5,7 +5,32 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/a3c09b3c-9f7e-40e9-b14e-5174a45ad551/P12_Insider_blue_-_Sean_Kent.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251102003035 +0000" stop="20251102013036 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251103000038 +0000" stop="20251103020000 +0000">
+    <title>(LIVE) Wrestling</title>
+    <category>Movie</category>
+    <desc>The Roadrunners host the Boilermakers on the mat at Icardo Center LIVE on Pac-12 Insider</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/d3fee6f9-a7bd-458b-8866-4594422f23ae/P12_Insider_2000x3000_-_Sean_Kent.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251103020000 +0000" stop="20251103040003 +0000">
+    <title>Football Encore</title>
+    <sub-title>2005 Oregon State at California</sub-title>
+    <episode-num system="onscreen">S04E59</episode-num>
+    <desc>Oregon State RB Yvenson Bernard 42 carries, 194 yards, 2 TDs in upset win at #18 California (10/15/05)</desc>
+    <date>20051015</date>
+    <icon src="https://pac-12.com/images/2025/2/24/PAC_12_Encore_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251103040003 +0000" stop="20251103060005 +0000">
+    <title>Football Encore</title>
+    <sub-title>2007 Oregon State at Oregon</sub-title>
+    <episode-num system="onscreen">S06E12</episode-num>
+    <desc>Oregon State's defense shuts down Oregon in 2OT for a 38-31 win over the Ducks.</desc>
+    <date>20221107</date>
+    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2022-11/OSU%2520Helmet_1920x1080.jpeg?itok=F0NPeJr3" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251103060005 +0000" stop="20251103070006 +0000">
     <title>Football in 60</title>
     <sub-title>Toledo at Washington State (10/25/25)</sub-title>
     <episode-num system="onscreen">S14E05</episode-num>
@@ -14,7 +39,7 @@
     <icon src="https://pac-12.com/images/2025/10/28/10_25_25_CFB_TOL_WSU.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251102013036 +0000" stop="20251102022739 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251103070006 +0000" stop="20251103080007 +0000">
     <title>Football in 60</title>
     <sub-title>Lafayette at Oregon State (10/18/25)</sub-title>
     <episode-num system="onscreen">S14E04</episode-num>
@@ -23,7 +48,16 @@
     <icon src="https://pac-12.com/images/2025/10/20/10_18_25_CFB_ULL_OSU_12.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251102022739 +0000" stop="20251102032349 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251103080007 +0000" stop="20251103083958 +0000">
+    <title>Y-Option</title>
+    <sub-title>Peyton Manning</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Hall of Fame Quarterback Peyton Manning reflects on preparation and adversity as a football player</desc>
+    <date>20250918</date>
+    <icon src="https://pac-12.com/images/2025/9/17/The_Process_Series_from_Y_Option.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251103083958 +0000" stop="20251103090943 +0000">
     <title>Y-Option</title>
     <sub-title>Jared Goff</sub-title>
     <episode-num system="onscreen">S02E09</episode-num>
@@ -32,70 +66,61 @@
     <icon src="https://pac-12.com/images/2025/10/31/Y_Option_Goff.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251102032349 +0000" stop="20251102041832 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251103090943 +0000" stop="20251103101035 +0000">
     <title>Football in 60</title>
-    <sub-title>2018 Washington State at Oregon State</sub-title>
-    <episode-num system="onscreen">S07E34</episode-num>
-    <desc>Gardner Minshew throws for 430 yards and 5 touchdowns to beat Oregon State (10/6/18).</desc>
-    <date>20240529</date>
-    <icon src="https://d2jrooo0uvo7kr.cloudfront.net/pac_default.jpg" />
+    <sub-title>2015 Armed Forces Bowl: California vs. Air Force</sub-title>
+    <episode-num system="onscreen">S04E86</episode-num>
+    <desc>Cal routes Air Force 55-36 thanks to Jared Goff's 6 passing TDs in the Armed Forces Bowl. (12/29/15)</desc>
+    <date>20210825</date>
+    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2020-11/2015_CAL_AF_WIDE.jpg?itok=cEHiG7XG" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251102041832 +0000" stop="20251102051216 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251103101035 +0000" stop="20251103111013 +0000">
     <title>Football in 60</title>
-    <sub-title>2017 Oregon State at Washington State</sub-title>
-    <episode-num system="onscreen">S07E22</episode-num>
-    <desc>Luke Falk finds Tavares Martin for 3 of his 6 TD's as #21 WSU handles Oregon State (9/16/17).</desc>
-    <date>20240529</date>
-    <icon src="https://d2jrooo0uvo7kr.cloudfront.net/pac_default.jpg" />
+    <sub-title>2015 Armed Forces Bowl: California vs. Air Force</sub-title>
+    <episode-num system="onscreen">S04E86</episode-num>
+    <desc>Cal routes Air Force 55-36 thanks to Jared Goff's 6 passing TDs in the Armed Forces Bowl. (12/29/15)</desc>
+    <date>20210825</date>
+    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2020-11/2015_CAL_AF_WIDE.jpg?itok=cEHiG7XG" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251102051216 +0000" stop="20251102061055 +0000">
-    <title>Football in 60</title>
-    <sub-title>2013 Oregon State at Washington State</sub-title>
-    <episode-num system="onscreen">S02E41</episode-num>
-    <desc>Sean Mannion threw for a school-record 493 yards and the Beavs erupted in the 4th quarter to beat the Cougs.</desc>
-    <date>20240523</date>
-    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2020-08/FAST%2520channel_REC%25201920x1080.png?itok=SFFyjOiy" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251102061055 +0000" stop="20251102070042 +0000">
-    <title>Football in 60</title>
-    <sub-title>2012 Washington State at Oregon State</sub-title>
-    <episode-num system="onscreen">S01E41</episode-num>
-    <desc>Jordan Poyer recorded three interceptions leading Oregon State's defense in win over Cougs.</desc>
-    <date>20240523</date>
-    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2020-08/FAST%2520channel_REC%25201920x1080.png?itok=SFFyjOiy" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251102070042 +0000" stop="20251102073025 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251103111013 +0000" stop="20251103114525 +0000">
     <title>Y-Option</title>
-    <sub-title>Jared Goff</sub-title>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <desc>Detroit Lions Quarterback Jared Goff on adversity, fatherhood and lessons learned from his dad</desc>
-    <date>20251101</date>
-    <icon src="https://pac-12.com/images/2025/10/31/Y_Option_Goff.jpg" />
+    <sub-title>Scott Barnes</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Athletic Director Scott Barnes reflects on the past two (2) years for Oregon State and the Pac-12</desc>
+    <date>20250918</date>
+    <icon src="https://pac-12.com/images/2025/3/16/Y_Option_1920_1080.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251102073025 +0000" stop="20251102083026 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251103114525 +0000" stop="20251103134530 +0000">
+    <title>Football Encore</title>
+    <sub-title>2004 Oregon at Oregon State</sub-title>
+    <episode-num system="onscreen">S05E81</episode-num>
+    <desc>Derek Anderson's 4 TD's make Oregon State Beavers bowl-eligible in big win over Oregon (11/20/04)</desc>
+    <date>20041120</date>
+    <icon src="https://pac-12.com/images/2025/2/24/PAC_12_Encore_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251103134530 +0000" stop="20251103163005 +0000">
+    <title>Pac-12 Moments</title>
+    <sub-title>Fourth Down Stand - 2007 Oregon State at Oregon</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>James Rodgers' double-overtime TD and Beavers 4th down stop fuel epic win over Ducks. (December 1, 2007)</desc>
+    <date>20210402</date>
+    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2021-05/Oregon%2520State%2520Helmet_uncredited_1920x1080.jpg?itok=ZSA48oY2" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251103163005 +0000" stop="20251103173006 +0000">
     <title>Football in 60</title>
-    <sub-title>Toledo at Washington State (10/25/25)</sub-title>
-    <episode-num system="onscreen">S14E05</episode-num>
-    <desc>Zevi Eckhaus (3 TDs) and solid defense lead Cougars to 28-7 victory over Toledo (10/25/25)</desc>
-    <date>20251028</date>
-    <icon src="https://pac-12.com/images/2025/10/28/10_25_25_CFB_TOL_WSU.jpg" />
+    <sub-title>Idaho at Washington State (8/30/25)</sub-title>
+    <episode-num system="onscreen">S14E01</episode-num>
+    <desc>QB Jaxson Potter leads late drive for Cougars GW FG to defeat Idaho 13-10 in HC Jimmy Rogers debut (8/30/25)</desc>
+    <date>20250902</date>
+    <icon src="https://pac-12.com/images/2025/9/2/8_30_25_CFB_IDA_WSU_59.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251102083026 +0000" stop="20251102090010 +0000">
-    <title>Y-Option</title>
-    <sub-title>Jared Goff</sub-title>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <desc>Detroit Lions Quarterback Jared Goff on adversity, fatherhood and lessons learned from his dad</desc>
-    <date>20251101</date>
-    <icon src="https://pac-12.com/images/2025/10/31/Y_Option_Goff.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251102090010 +0000" stop="20251102100010 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251103173006 +0000" stop="20251103183454 +0000">
     <title>Football in 60</title>
     <sub-title>San Diego State at Washington State (9/6/25)</sub-title>
     <episode-num system="onscreen">S14E03</episode-num>
@@ -104,7 +129,43 @@
     <icon src="https://pac-12.com/images/2025/9/8/9_6_25_CFB_SDSU_WSU_92.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251102100010 +0000" stop="20251102110011 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251103183454 +0000" stop="20251103190034 +0000">
+    <title>Football Postgame Podium</title>
+    <sub-title>Washington State vs. Toledo (10/25/25)</sub-title>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <desc>Zevi Eckhaus (3 TD), Kirby Voorhess (15 rush, 62 yd, TD) and HC Jimmy Rogers react to WSU 28-7 win vs. Toledo</desc>
+    <date>20251025</date>
+    <icon src="https://pac-12.com/images/2025/9/6/PLACEHOLDER_WSU_POSTGAME.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251103190034 +0000" stop="20251103200048 +0000">
+    <title>Y-Option</title>
+    <sub-title>Luke Falk</sub-title>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <desc>The Pac-12's all-time leading passer on mind strength and authoring The Mind Strength Playbook</desc>
+    <date>20251024</date>
+    <icon src="https://pac-12.com/images/2025/3/16/Y_Option_1920_1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251103200048 +0000" stop="20251103210059 +0000">
+    <title>Football in 60</title>
+    <sub-title>2016 Washington State at Oregon State</sub-title>
+    <episode-num system="onscreen">S05E53</episode-num>
+    <desc>Luke Falk throws for five (5) TDs as Air Raid offense lifts Cougs over Oregon State 35-31 (10/19/16).</desc>
+    <date>20240529</date>
+    <icon src="https://d2jrooo0uvo7kr.cloudfront.net/pac_default.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251103210059 +0000" stop="20251103220038 +0000">
+    <title>Football in 60</title>
+    <sub-title>2015 Oregon State at Washington State</sub-title>
+    <episode-num system="onscreen">S04E42</episode-num>
+    <desc>Luke Falk could do nothing wrong for Washington State in record-breaking performance vs. Beavers (10/17/15).</desc>
+    <date>20221004</date>
+    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2022-10/10_17_15_OSU_WSU_1920x1080Jason%2520KrumpWSU%2520Athletics.jpg?itok=q6N0uslR" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251103220038 +0000" stop="20251103230038 +0000">
     <title>Football in 60</title>
     <sub-title>Lafayette at Oregon State (10/18/25)</sub-title>
     <episode-num system="onscreen">S14E04</episode-num>
@@ -113,76 +174,58 @@
     <icon src="https://pac-12.com/images/2025/10/20/10_18_25_CFB_ULL_OSU_12.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251102110011 +0000" stop="20251102123014 +0000">
-    <title>Gymnastics</title>
-    <sub-title>2025 Air Force at Oregon State</sub-title>
-    <episode-num system="onscreen">S13E05</episode-num>
-    <desc>Jade Carey scores two (2) Perfect 10s in front of 9,000 fans on an unforgettable Senior Day (3/15/25)</desc>
-    <date>20250318</date>
-    <icon src="https://pac-12.com/images/2025/3/17/03_15_25_Oregon_State_vs_Air_Force_WGYM_Thumbnail_on_demand.png" />
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251103230038 +0000" stop="20251103232042 +0000">
+    <title>Boise State Football Presser</title>
+    <sub-title>Spencer Danielson (10/27/25)</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Broncos Head Coach Spencer Danielson reviews UNLV win, looks ahead to Friday night at Neveda</desc>
+    <date>20251020</date>
+    <icon src="https://pac-12.com/images/2025/9/9/Boise_State_Football_Presser_89.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251102123014 +0000" stop="20251102153540 +0000">
-    <title>Gymnastics</title>
-    <sub-title>2025 Fisk at Oregon State</sub-title>
-    <episode-num system="onscreen">S13E06</episode-num>
-    <desc>Jade Carey earns her 15th career Perfect 10 on floor as the Beavers best Fisk at Gill Coliseum (3/21/25).</desc>
-    <date>20250325</date>
-    <icon src="https://pac-12.com/images/2025/3/19/03_21_25_WGYM_Oregon_State_vs_Fisk_Thumbnail.png" />
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251103232042 +0000" stop="20251103234046 +0000">
+    <title>Boise State Football Presser</title>
+    <sub-title>Spencer Danielson (10/27/25)</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Broncos Head Coach Spencer Danielson reviews UNLV win, looks ahead to Friday night at Neveda</desc>
+    <date>20251020</date>
+    <icon src="https://pac-12.com/images/2025/9/9/Boise_State_Football_Presser_89.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251102153540 +0000" stop="20251102173102 +0000">
-    <title>Olympic Sports Encore</title>
-    <sub-title>2018 Utah at UCLA</sub-title>
-    <episode-num system="onscreen">S06E18</episode-num>
-    <desc>Utah earns its first win at Pauley Pavilion since 2008 in a top-5 clash, 197.550-197.425. (Feb. 18, 2018)</desc>
-    <date>20210725</date>
-    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2021-03/2018_WGYM_UTAH_UCLA_WIDE.jpg?itok=QG3Amozm" />
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251103234046 +0000" stop="20251104000051 +0000">
+    <title>Fresno State Football Presser</title>
+    <sub-title>Matt Entz (10/27/25)</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Bulldogs Head Coach Matt Entz looks towards Homecoming Game vs. San Diego State</desc>
+    <date>20251020</date>
+    <icon src="https://pac-12.com/images/2025/9/2/Fresno_State_Presser.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251102173102 +0000" stop="20251102192249 +0000">
-    <title>Women's Gymnastics Encore</title>
-    <sub-title>2018 UCLA at Stanford</sub-title>
-    <episode-num system="onscreen">S06E22</episode-num>
-    <desc>Christine Peng-Peng Lee and Kyla Ross combine for 3 perfect 10s to lead UCLA in win over Stanford (3/11/18).</desc>
-    <date>20230124</date>
-    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2023-01/3_11_18_WGY_UCLA_STAN_1920x1080.jpg?itok=4W0PlomB" />
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251104000051 +0000" stop="20251104002057 +0000">
+    <title>Fresno State Football Presser</title>
+    <sub-title>Matt Entz (10/27/25)</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Bulldogs Head Coach Matt Entz looks towards Homecoming Game vs. San Diego State</desc>
+    <date>20251020</date>
+    <icon src="https://pac-12.com/images/2025/9/2/Fresno_State_Presser.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251102192249 +0000" stop="20251102210323 +0000">
-    <title>Women's Gymnastics Encore</title>
-    <sub-title>2018 San Jose State at UCLA</sub-title>
-    <episode-num system="onscreen">S06E23</episode-num>
-    <desc>A perfect 10 and fond farewells highlight a memorable Senior Night for UCLA (3/13/18).</desc>
-    <date>20230116</date>
-    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2023-01/3_13_18_WGY_SJSU_UCLA_PengPeng_1920x1080DonLiebig.jpg?itok=YdDnWNnv" />
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251104002057 +0000" stop="20251104011423 +0000">
+    <title>Washington State Football Presser</title>
+    <sub-title>Head Coach Jimmy Rogers</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Cougars Head Coach Jimmy Rogers provides weekly football updates</desc>
+    <date>20250909</date>
+    <icon src="https://pac-12.com/images/2025/9/8/Washington_State_Football_Presser.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251102210323 +0000" stop="20251102234152 +0000">
-    <title>Olympic Sports Encore</title>
-    <sub-title>2018 Pac-12 Women's Gymnastics Championships</sub-title>
-    <episode-num system="onscreen">S06E25</episode-num>
-    <desc>UCLA wins its 18th all-time Pac-12 title, narrowly edging out 197.500-197.350 in Tucson. (March 24, 2018)</desc>
-    <date>20210723</date>
-    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2021-03/2018_WGYM_CHAMPS_WIDE.jpg?itok=oPuWu5F6" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251102234152 +0000" stop="20251103010928 +0000">
-    <title>Women's Gymnastics Encore</title>
-    <sub-title>2019 Nebraska at UCLA</sub-title>
-    <episode-num system="onscreen">S07E01</episode-num>
-    <desc>UCLA rocks the house in final rotation on floor exercise to defeat Nebraska at Pauley Pavilion (1/4/19).</desc>
-    <date>20230116</date>
-    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2023-01/1_4_19_WGY_NEB_UCLA_KylaRoss_1920x1080DonLiebig.jpg?itok=uRE6DXDa" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251103010928 +0000" stop="20251103024329 +0000">
-    <title>Olympic Sports Encore</title>
-    <sub-title>2019 UCLA at Utah</sub-title>
-    <episode-num system="onscreen">S07E15</episode-num>
-    <desc>Kyla Ross scores her 10th career perfect 10 as UCLA defeats Utah at a packed Jon M. Huntsman Center (2/23/19).</desc>
-    <date>20221229</date>
-    <icon src="https://pac-12.com/s3/files/styles/crop_16_9_hd_1080/s3/2022-12/2_23_19_WGY_UCLA_UTAH_1920x1080.jpg?itok=bl9BVAa8" />
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251104011423 +0000" stop="20251104021051 +0000">
+    <title>Football in 60</title>
+    <sub-title>2023 Oregon State at Washington State</sub-title>
+    <episode-num system="onscreen">S12E29</episode-num>
+    <desc>Josh Kelly reeled in 3 TDs, Cam Ward accounted for 5 TDs in WSU's upset win over #14 Oregon State (9/23/23)</desc>
+    <date>20230923</date>
+    <icon src="https://pac-12.com/images/2025/8/4/9_23_23_CFB_OSU_WSU_51.png" />
   </programme>
   
 </tv>
