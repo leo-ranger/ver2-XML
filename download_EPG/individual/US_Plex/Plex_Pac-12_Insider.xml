@@ -5,40 +5,43 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/a3c09b3c-9f7e-40e9-b14e-5174a45ad551/P12_Insider_blue_-_Sean_Kent.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251105235000 +0000" stop="20251106003402 +0000">
-    <title>Night With The Pros</title>
-    <sub-title>Utah State Men's Basketball</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106213443 +0000" stop="20251106233006 +0000">
+    <title>Women's Gymnastics Encore</title>
+    <sub-title>2018 UCLA at Stanford</sub-title>
+    <episode-num system="onscreen">S06E22</episode-num>
+    <desc>Christine Peng-Peng Lee and Kyla Ross combine for 3 perfect 10s to lead UCLA in win over Stanford (3/11/18).</desc>
+    <date>20230124</date>
+    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2023-01/3_11_18_WGY_UCLA_STAN_1920x1080.jpg?itok=4W0PlomB" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106233006 +0000" stop="20251107000009 +0000">
+    <title>Bronco Studios</title>
+    <sub-title>Presented by Ford (11/5/25)</sub-title>
+    <episode-num system="onscreen">S01E18</episode-num>
+    <desc>The latest on Boise State Athletics from award-winning journalist Jay Tust</desc>
+    <date>20251105</date>
+    <icon src="https://pac-12.com/images/2025/9/12/Broncos_Studios.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107000009 +0000" stop="20251107003008 +0000">
+    <title>Northwest Football Preview</title>
+    <sub-title>Around the FBS</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Neemias Queta (Celtics) and Sam Merrill (Cavaliers) return to Utah State for a Night With The Pros (9/10/25)</desc>
-    <date>20251016</date>
-    <icon src="https://pac-12.com/images/2025/10/15/Utah_State_Night_With_The_Pros.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106003402 +0000" stop="20251106010535 +0000">
-    <title>All-Century Men's Basketball</title>
-    <sub-title>The Team</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Former Pac-12 coaches and athletes discuss the top men's basketball players in the conference's history.</desc>
-    <date>20210106</date>
-    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2020-11/MBK_ALL_CEN_WIDE.jpg?itok=OZdd5Enr" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106010535 +0000" stop="20251106013214 +0000">
-    <title>San Diego State Football Presser (11/3/25)</title>
-    <category>Movie</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/d3fee6f9-a7bd-458b-8866-4594422f23ae/P12_Insider_2000x3000_-_Sean_Kent.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106013214 +0000" stop="20251106020032 +0000">
-    <title>The Climb</title>
-    <sub-title>San Diego State Football</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>San Diego State Aztec football earns its colors on 'The Climb'</desc>
+    <desc>Mike Yam, Nick Aliotti and Nigel Burton prep for gameday</desc>
     <date>20250828</date>
-    <icon src="https://pac-12.com/images/2025/8/27/SDSU_The_Climb_41.jpg" />
+    <icon src="https://pac-12.com/images/2025/8/26/Northwest_Football_Preview_logo_16x9_41.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106020032 +0000" stop="20251106030033 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107003008 +0000" stop="20251107010007 +0000">
+    <title>Northwest Football Preview</title>
+    <sub-title>Around the FBS</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Mike Yam, Nick Aliotti and Nigel Burton prep for gameday</desc>
+    <date>20250828</date>
+    <icon src="https://pac-12.com/images/2025/8/26/Northwest_Football_Preview_logo_16x9_41.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107010007 +0000" stop="20251107020009 +0000">
     <title>Football in 60</title>
     <sub-title>Washington State at Oregon State (11/1/25)</sub-title>
     <episode-num system="onscreen">S01E06</episode-num>
@@ -47,16 +50,25 @@
     <icon src="https://pac-12.com/images/2025/11/4/11_1_25_CFB_WSU_OSU.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106030033 +0000" stop="20251106040034 +0000">
-    <title>Football in 60</title>
-    <sub-title>Toledo at Washington State (10/25/25)</sub-title>
-    <episode-num system="onscreen">S14E05</episode-num>
-    <desc>Zevi Eckhaus (3 TDs) and solid defense lead Cougars to 28-7 victory over Toledo (10/25/25)</desc>
-    <date>20251028</date>
-    <icon src="https://pac-12.com/images/2025/10/28/10_25_25_CFB_TOL_WSU.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107020009 +0000" stop="20251107023007 +0000">
+    <title>Northwest Football Preview</title>
+    <sub-title>Around the FBS</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Mike Yam, Nick Aliotti and Nigel Burton prep for gameday</desc>
+    <date>20250828</date>
+    <icon src="https://pac-12.com/images/2025/8/26/Northwest_Football_Preview_logo_16x9_41.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106040034 +0000" stop="20251106050006 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107023007 +0000" stop="20251107030007 +0000">
+    <title>Northwest Football Preview</title>
+    <sub-title>Around the FBS</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Mike Yam, Nick Aliotti and Nigel Burton prep for gameday</desc>
+    <date>20250828</date>
+    <icon src="https://pac-12.com/images/2025/8/26/Northwest_Football_Preview_logo_16x9_41.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107030007 +0000" stop="20251107040008 +0000">
     <title>Football in 60</title>
     <sub-title>San Diego State at Washington State (9/6/25)</sub-title>
     <episode-num system="onscreen">S14E03</episode-num>
@@ -65,34 +77,76 @@
     <icon src="https://pac-12.com/images/2025/9/8/9_6_25_CFB_SDSU_WSU_92.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106050006 +0000" stop="20251106053000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107040008 +0000" stop="20251107043006 +0000">
+    <title>Northwest Football Preview</title>
+    <sub-title>Around the FBS</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Mike Yam, Nick Aliotti and Nigel Burton prep for gameday</desc>
+    <date>20250828</date>
+    <icon src="https://pac-12.com/images/2025/8/26/Northwest_Football_Preview_logo_16x9_41.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107043006 +0000" stop="20251107050006 +0000">
+    <title>Northwest Football Preview</title>
+    <sub-title>Around the FBS</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Mike Yam, Nick Aliotti and Nigel Burton prep for gameday</desc>
+    <date>20250828</date>
+    <icon src="https://pac-12.com/images/2025/8/26/Northwest_Football_Preview_logo_16x9_41.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107050006 +0000" stop="20251107060007 +0000">
+    <title>Football in 60</title>
+    <sub-title>Washington State at Oregon State (11/1/25)</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Anthony Hankerson (25 rush, 134 yards, TD) leads Oregon State rally for gritty win over Washington State</desc>
+    <date>20251104</date>
+    <icon src="https://pac-12.com/images/2025/11/4/11_1_25_CFB_WSU_OSU.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107060007 +0000" stop="20251107063005 +0000">
+    <title>Northwest Football Preview</title>
+    <sub-title>Around the FBS</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Mike Yam, Nick Aliotti and Nigel Burton prep for gameday</desc>
+    <date>20250828</date>
+    <icon src="https://pac-12.com/images/2025/8/26/Northwest_Football_Preview_logo_16x9_41.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107063005 +0000" stop="20251107073007 +0000">
+    <title>Football in 60</title>
+    <sub-title>Lafayette at Oregon State (10/18/25)</sub-title>
+    <episode-num system="onscreen">S14E04</episode-num>
+    <desc>Anthony Hankerson (25 rushes, 204 yards, 4 TDs) leads Oregon State to 45-13 win over Lafayette (10/18/25)</desc>
+    <date>20251021</date>
+    <icon src="https://pac-12.com/images/2025/10/20/10_18_25_CFB_ULL_OSU_12.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107073007 +0000" stop="20251107080005 +0000">
+    <title>Northwest Football Preview</title>
+    <sub-title>Around the FBS</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Mike Yam, Nick Aliotti and Nigel Burton prep for gameday</desc>
+    <date>20250828</date>
+    <icon src="https://pac-12.com/images/2025/8/26/Northwest_Football_Preview_logo_16x9_41.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107080005 +0000" stop="20251107083009 +0000">
     <title>Bronco Studios</title>
-    <sub-title>Presented by Ford</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
+    <sub-title>Presented by Ford (11/5/25)</sub-title>
+    <episode-num system="onscreen">S01E18</episode-num>
     <desc>The latest on Boise State Athletics from award-winning journalist Jay Tust</desc>
-    <date>20251006</date>
+    <date>20251105</date>
     <icon src="https://pac-12.com/images/2025/9/12/Broncos_Studios.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106053000 +0000" stop="20251106061504 +0000">
-    <title>Night With The Pros</title>
-    <sub-title>Utah State Men's Basketball</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Neemias Queta (Celtics) and Sam Merrill (Cavaliers) return to Utah State for a Night With The Pros (9/10/25)</desc>
-    <date>20251016</date>
-    <icon src="https://pac-12.com/images/2025/10/15/Utah_State_Night_With_The_Pros.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107083009 +0000" stop="20251107085024 +0000">
+    <title>San Diego State Football Presser (11/3/25)</title>
+    <category>Movie</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/d3fee6f9-a7bd-458b-8866-4594422f23ae/P12_Insider_2000x3000_-_Sean_Kent.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106061504 +0000" stop="20251106063503 +0000">
-    <title>Utah State Football Presser</title>
-    <sub-title>Bronco Mendenhall (11/3/25)</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>HC Bronco Mendenhall and DT Bo Maile discuss Aggies football coming off the bye week</desc>
-    <date>20251104</date>
-    <icon src="https://pac-12.com/images/2025/9/1/Utah_State_Presser.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106063503 +0000" stop="20251106065504 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107085024 +0000" stop="20251107091025 +0000">
     <title>Fresno State Football Presser</title>
     <sub-title>Matt Entz (11/3/25)</sub-title>
     <episode-num system="onscreen">S01E09</episode-num>
@@ -101,22 +155,7 @@
     <icon src="https://pac-12.com/images/2025/9/2/Fresno_State_Presser.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106065504 +0000" stop="20251106071519 +0000">
-    <title>San Diego State Football Presser (11/3/25)</title>
-    <category>Movie</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/d3fee6f9-a7bd-458b-8866-4594422f23ae/P12_Insider_2000x3000_-_Sean_Kent.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106071519 +0000" stop="20251106073524 +0000">
-    <title>Oregon State Football Presser</title>
-    <sub-title>Robb Akey (11/3/25)</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Interim Head Coach Robb Akey discusses win vs. Washington State</desc>
-    <date>20251103</date>
-    <icon src="https://pac-12.com/images/2025/10/19/OSU_Press_Conference.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106073524 +0000" stop="20251106080036 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107091025 +0000" stop="20251107093038 +0000">
     <title>Texas State Football Presser</title>
     <sub-title>G.J. Kinne (11/4/25)</sub-title>
     <episode-num system="onscreen">S01E06</episode-num>
@@ -125,138 +164,182 @@
     <icon src="https://pac-12.com/images/2025/9/4/Texas_State_Presser.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106080036 +0000" stop="20251106100040 +0000">
-    <title>Pac-12 Football Classics</title>
-    <sub-title>2004 California at USC</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>No. 1 USC stifles Aaron Rodgers and Marshawn Lynch in LA to hand Cal its first loss, 23-17. (Oct. 9, 2004)</desc>
-    <date>20210413</date>
-    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2020-09/2004_CAL_USC_WIDE_CROP.jpg?itok=qZz9K01n" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106100040 +0000" stop="20251106120036 +0000">
-    <title>2004 Notre Dame at USC</title>
-    <category>Movie</category>
-    <desc>Matt Leinart (5 TDs, 400 yards passing) shines for #1 USC in win over Notre Dame en route to BCS (11/27/04).</desc>
-    <date>20221114</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/d3fee6f9-a7bd-458b-8866-4594422f23ae/P12_Insider_2000x3000_-_Sean_Kent.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106120036 +0000" stop="20251106143002 +0000">
-    <title>Football Encore</title>
-    <sub-title>2004 USC at UCLA</sub-title>
-    <episode-num system="onscreen">S06E35</episode-num>
-    <desc>On This Date: Trojans punch their ticket to the Orange bowl with a 29-24 win over UCLA.</desc>
-    <date>20220820</date>
-    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2021-11/2004_USC_at_UCLA%25201920x1080.jpg?itok=RIDOQ86P" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106143002 +0000" stop="20251106145006 +0000">
-    <title>Boise State Football Presser</title>
-    <sub-title>Spencer Danielson (10/27/25)</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Broncos Head Coach Spencer Danielson reviews UNLV win, looks ahead to Friday night at Neveda</desc>
-    <date>20251020</date>
-    <icon src="https://pac-12.com/images/2025/9/9/Boise_State_Football_Presser_89.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106145006 +0000" stop="20251106151010 +0000">
-    <title>Utah State Football Presser</title>
-    <sub-title>Bronco Mendenhall (10/20/25)</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107093038 +0000" stop="20251107095043 +0000">
+    <title>Oregon State Football Presser</title>
+    <sub-title>Robb Akey (11/3/25)</sub-title>
     <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Aggies Head Coach Bronco Mendenhall reviews win over SJSU, looks towards road game at New Mexico</desc>
-    <date>20251020</date>
+    <desc>Interim Head Coach Robb Akey discusses win vs. Washington State</desc>
+    <date>20251103</date>
+    <icon src="https://pac-12.com/images/2025/10/19/OSU_Press_Conference.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107095043 +0000" stop="20251107105044 +0000">
+    <title>Football in 60</title>
+    <sub-title>Washington State at Oregon State (11/1/25)</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Anthony Hankerson (25 rush, 134 yards, TD) leads Oregon State rally for gritty win over Washington State</desc>
+    <date>20251104</date>
+    <icon src="https://pac-12.com/images/2025/11/4/11_1_25_CFB_WSU_OSU.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107105044 +0000" stop="20251107112043 +0000">
+    <title>Northwest Football Preview</title>
+    <sub-title>Around the FBS</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Mike Yam, Nick Aliotti and Nigel Burton prep for gameday</desc>
+    <date>20250828</date>
+    <icon src="https://pac-12.com/images/2025/8/26/Northwest_Football_Preview_logo_16x9_41.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107112043 +0000" stop="20251107114042 +0000">
+    <title>Utah State Football Presser</title>
+    <sub-title>Bronco Mendenhall (11/3/25)</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>HC Bronco Mendenhall and DT Bo Maile discuss Aggies football coming off the bye week</desc>
+    <date>20251104</date>
     <icon src="https://pac-12.com/images/2025/9/1/Utah_State_Presser.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106151010 +0000" stop="20251106153015 +0000">
-    <title>Fresno State Football Presser</title>
-    <sub-title>Matt Entz (10/27/25)</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Bulldogs Head Coach Matt Entz looks towards Homecoming Game vs. San Diego State</desc>
-    <date>20251020</date>
-    <icon src="https://pac-12.com/images/2025/9/2/Fresno_State_Presser.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107114042 +0000" stop="20251107122546 +0000">
+    <title>Night With The Pros</title>
+    <sub-title>Utah State Men's Basketball</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Neemias Queta (Celtics) and Sam Merrill (Cavaliers) return to Utah State for a Night With The Pros (9/10/25)</desc>
+    <date>20251016</date>
+    <icon src="https://pac-12.com/images/2025/10/15/Utah_State_Night_With_The_Pros.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106153015 +0000" stop="20251106155040 +0000">
-    <title>San Diego State Football Presser</title>
-    <sub-title>Sean Lewis (10/20/25)</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Aztecs Head Coach Sean Lewis provides team updates and looks towards road game at Fresno State</desc>
-    <date>20251020</date>
-    <icon src="https://pac-12.com/images/2025/9/3/San_Diego_State_Presser.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107122546 +0000" stop="20251107140000 +0000">
+    <title>Olympic Sports Encore</title>
+    <sub-title>2019 Utah State at UCLA</sub-title>
+    <episode-num system="onscreen">S07E19</episode-num>
+    <desc>Kyla Ross completes the Gym Slam with her 1st career perfect 10 on floor exercise and 14th career perfect 10.</desc>
+    <date>20230704</date>
+    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2022-12/Kyla%2520Ross_UCLA_2019_1920x1080.jpeg?itok=hOwVhvXE" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106155040 +0000" stop="20251106164035 +0000">
-    <title>Washington State Football Presser</title>
-    <sub-title>Jimmy Rogers (10/20/25)</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Cougars Head Coach Jimmy Rogers reflects on Ole Miss game, looks ahead to Toledo</desc>
-    <date>20251020</date>
-    <icon src="https://pac-12.com/images/2025/9/8/Washington_State_Football_Presser.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106164035 +0000" stop="20251106174037 +0000">
-    <title>Football in 60</title>
-    <sub-title>Lafayette at Oregon State (10/18/25)</sub-title>
-    <episode-num system="onscreen">S14E04</episode-num>
-    <desc>Anthony Hankerson (25 rushes, 204 yards, 4 TDs) leads Oregon State to 45-13 win over Lafayette (10/18/25)</desc>
-    <date>20251021</date>
-    <icon src="https://pac-12.com/images/2025/10/20/10_18_25_CFB_ULL_OSU_12.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106174037 +0000" stop="20251106201011 +0000">
-    <title>Football in 60</title>
-    <sub-title>2001 Wisconsin at Oregon</sub-title>
-    <episode-num system="onscreen">S05E43</episode-num>
-    <desc>Joey Harrington 2yd touchdown late in the 4th gives Oregon a 31-28 win over Wisconsin.</desc>
-    <date>20220727</date>
-    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2022-07/FBE_Wisconsin%2520at%2520Oregon%2520%25282001%2529%25201920x1080.jpeg?itok=iJHtIkXX" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106201011 +0000" stop="20251106210652 +0000">
-    <title>Football in 60</title>
-    <sub-title>2013 Hawaii Bowl - Oregon State vs. Boise State</sub-title>
-    <episode-num system="onscreen">S03E85</episode-num>
-    <desc>Reynolds returned 2 fumbles for TDs, helping the Beavers beat Boise State 38-23 in the Sheraton Hawaii Bowl</desc>
-    <date>20211208</date>
-    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2021-12/17_FB_WhiteHelmet_COL_KM_1__0.jpeg?itok=RSaX_c4S" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106210652 +0000" stop="20251106220036 +0000">
-    <title>Football in 60</title>
-    <sub-title>2022 Boise State at Oregon State</sub-title>
-    <episode-num system="onscreen">S11E10</episode-num>
-    <desc>Oregon State forces five (5) Boise State turnovers in season opening win at Reser Stadium (9/3/22).</desc>
-    <date>20220907</date>
-    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2022-10/9_3_22_BSU_OSU_1920x1080KarlMaasdam_0.jpg?itok=MEm7vl4y" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106220036 +0000" stop="20251106230009 +0000">
-    <title>Football in 60</title>
-    <sub-title>San Diego State at Washington State (9/6/25)</sub-title>
-    <episode-num system="onscreen">S14E03</episode-num>
-    <desc>Jaxson Potter three (3) TD passes as Washington State defeats San Diego State on Homecoming night (9/6/25)</desc>
-    <date>20250909</date>
-    <icon src="https://pac-12.com/images/2025/9/8/9_6_25_CFB_SDSU_WSU_92.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251106230009 +0000" stop="20251107000009 +0000">
-    <title>Football in 60</title>
-    <sub-title>Lafayette at Oregon State (10/18/25)</sub-title>
-    <episode-num system="onscreen">S14E04</episode-num>
-    <desc>Anthony Hankerson (25 rushes, 204 yards, 4 TDs) leads Oregon State to 45-13 win over Lafayette (10/18/25)</desc>
-    <date>20251021</date>
-    <icon src="https://pac-12.com/images/2025/10/20/10_18_25_CFB_ULL_OSU_12.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107000009 +0000" stop="20251107003009 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107140000 +0000" stop="20251107142959 +0000">
     <title>Northwest Football Preview</title>
-    <sub-title>FBS Week 9</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Mike, Nick and Nigel discuss Oregon State's win vs. Louisiana, WSU's close loss to Virginia and more</desc>
-    <date>20251023</date>
+    <sub-title>Around the FBS</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Mike Yam, Nick Aliotti and Nigel Burton prep for gameday</desc>
+    <date>20250828</date>
     <icon src="https://pac-12.com/images/2025/8/26/Northwest_Football_Preview_logo_16x9_41.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107142959 +0000" stop="20251107145958 +0000">
+    <title>Northwest Football Preview</title>
+    <sub-title>Around the FBS</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Mike Yam, Nick Aliotti and Nigel Burton prep for gameday</desc>
+    <date>20250828</date>
+    <icon src="https://pac-12.com/images/2025/8/26/Northwest_Football_Preview_logo_16x9_41.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107145958 +0000" stop="20251107152958 +0000">
+    <title>Northwest Football Preview</title>
+    <sub-title>Around the FBS</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Mike Yam, Nick Aliotti and Nigel Burton prep for gameday</desc>
+    <date>20250828</date>
+    <icon src="https://pac-12.com/images/2025/8/26/Northwest_Football_Preview_logo_16x9_41.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107152958 +0000" stop="20251107155957 +0000">
+    <title>Northwest Football Preview</title>
+    <sub-title>Around the FBS</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Mike Yam, Nick Aliotti and Nigel Burton prep for gameday</desc>
+    <date>20250828</date>
+    <icon src="https://pac-12.com/images/2025/8/26/Northwest_Football_Preview_logo_16x9_41.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107155957 +0000" stop="20251107162956 +0000">
+    <title>Northwest Football Preview</title>
+    <sub-title>Around the FBS</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Mike Yam, Nick Aliotti and Nigel Burton prep for gameday</desc>
+    <date>20250828</date>
+    <icon src="https://pac-12.com/images/2025/8/26/Northwest_Football_Preview_logo_16x9_41.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107162956 +0000" stop="20251107165955 +0000">
+    <title>Northwest Football Preview</title>
+    <sub-title>Around the FBS</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Mike Yam, Nick Aliotti and Nigel Burton prep for gameday</desc>
+    <date>20250828</date>
+    <icon src="https://pac-12.com/images/2025/8/26/Northwest_Football_Preview_logo_16x9_41.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107165955 +0000" stop="20251107175955 +0000">
+    <title>Y-Option</title>
+    <sub-title>Luke Falk</sub-title>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <desc>The Pac-12's all-time leading passer on mind strength and authoring The Mind Strength Playbook</desc>
+    <date>20251024</date>
+    <icon src="https://pac-12.com/images/2025/3/16/Y_Option_1920_1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107175955 +0000" stop="20251107190004 +0000">
+    <title>Football in 60</title>
+    <sub-title>2015 Washington State at Oregon</sub-title>
+    <episode-num system="onscreen">S04E06</episode-num>
+    <desc>Luke Falk throws for 505 yards; Ducks can't put WSU away. (10/10/15)</desc>
+    <date>20210528</date>
+    <icon src="https://xs.pac-12.com/styles/crop_16_9_hd_1080/s3/2021-06/2015%2520-%2520WSU%2520at%2520Oregon%2520%255B1920%2520x%25201080%2520-%2520Eric%2520Evans%2520_%2520GoDucks.com%255D%2520%25281%2529.jpg?itok=1G3s4WgF" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107190004 +0000" stop="20251107193417 +0000">
+    <title>Northwest Football Preview</title>
+    <sub-title>Around the FBS</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Mike Yam, Nick Aliotti and Nigel Burton prep for gameday</desc>
+    <date>20250828</date>
+    <icon src="https://pac-12.com/images/2025/8/26/Northwest_Football_Preview_logo_16x9_41.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107193417 +0000" stop="20251107203523 +0000">
+    <title>Football in 60</title>
+    <sub-title>Lafayette at Oregon State (10/18/25)</sub-title>
+    <episode-num system="onscreen">S14E04</episode-num>
+    <desc>Anthony Hankerson (25 rushes, 204 yards, 4 TDs) leads Oregon State to 45-13 win over Lafayette (10/18/25)</desc>
+    <date>20251021</date>
+    <icon src="https://pac-12.com/images/2025/10/20/10_18_25_CFB_ULL_OSU_12.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107203523 +0000" stop="20251107210935 +0000">
+    <title>Northwest Football Preview</title>
+    <sub-title>Around the FBS</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Mike Yam, Nick Aliotti and Nigel Burton prep for gameday</desc>
+    <date>20250828</date>
+    <icon src="https://pac-12.com/images/2025/8/26/Northwest_Football_Preview_logo_16x9_41.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107210935 +0000" stop="20251107220803 +0000">
+    <title>Y-Option</title>
+    <sub-title>Luke Falk</sub-title>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <desc>The Pac-12's all-time leading passer on mind strength and authoring The Mind Strength Playbook</desc>
+    <date>20251024</date>
+    <icon src="https://pac-12.com/images/2025/3/16/Y_Option_1920_1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107220803 +0000" stop="20251107230038 +0000">
+    <title>Football in 60</title>
+    <sub-title>2016 Washington State at Oregon State</sub-title>
+    <episode-num system="onscreen">S05E53</episode-num>
+    <desc>Luke Falk throws for five (5) TDs as Air Raid offense lifts Cougs over Oregon State 35-31 (10/19/16).</desc>
+    <date>20240529</date>
+    <icon src="https://d2jrooo0uvo7kr.cloudfront.net/pac_default.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20251107230038 +0000" stop="20251107235000 +0000">
+    <title>(LIVE) Bronco Studios</title>
+    <category>Movie</category>
+    <desc>Award-winning sports anchor Jay Tust gives Bronco Nation an inside look at Boise State Athletics</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/d3fee6f9-a7bd-458b-8866-4594422f23ae/P12_Insider_2000x3000_-_Sean_Kent.jpg" />
   </programme>
   
 </tv>
