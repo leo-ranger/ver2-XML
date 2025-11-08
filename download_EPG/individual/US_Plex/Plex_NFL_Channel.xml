@@ -5,14 +5,43 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/a7617b69-6d23-46d0-8e8e-e4ec9fa29d59/NFL_WHITE.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251106225900 +0000" stop="20251107000000 +0000">
-    <title>The Insiders</title>
-    <sub-title>The Insiders</sub-title>
-    <desc>NFL Media Insiders Ian Rapoport, Mike Garafolo, Tom Pelissero, and Judy Battista deliver the inside scoop and latest storylines of Week 10 during the 2025 NFL season.</desc>
-    <date>20251106</date>
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251107235900 +0000" stop="20251108005900 +0000">
+    <title>NFL Daily</title>
+    <sub-title>NFL Daily</sub-title>
+    <desc>Gregg Rosenthal and a rotating crew of elite NFL Media co-hosts, including Patrick Claybon, Colleen Wolfe, Steve Wyche, Nick Shook and Jourdan Rodrigue of The Athletic get viewers caught up daily on all the NFL news and analysis.</desc>
+    <date>20251107</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251107000000 +0000" stop="20251107010000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251108005900 +0000" stop="20251108041500 +0000">
+    <title>NFL Game of the Week</title>
+    <sub-title>2025: Bears vs. Bengals - Week 9</sub-title>
+    <episode-num system="onscreen">S2025E02</episode-num>
+    <desc>Chicago Bears quarterback Caleb Williams connected with rookie tight end Colston Loveland for a 58-yard touchdown with 17 seconds left to give the Bears a 47-42 victory on Sunday in a wild game that featured three touchdowns in the last two minutes.</desc>
+    <date>20251104</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251108041500 +0000" stop="20251108063000 +0000">
+    <title>Weekly Game Previews</title>
+    <sub-title>Week 10</sub-title>
+    <desc>This weekly series breaks down what you need to know for every NFL matchup ahead of Week 10 from the 2025 NFL season.</desc>
+    <date>20251105</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251108063000 +0000" stop="20251108064800 +0000">
+    <title>To Be Announced</title>
+    <sub-title>To Be Announced</sub-title>
+    <date>20251107</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251108064800 +0000" stop="20251108072800 +0000">
+    <title>NFL Media Originals</title>
+    <sub-title>Top 10 Games at Midseason</sub-title>
+    <episode-num system="onscreen">S2025E05</episode-num>
+    <desc>The best moments of the top 10 games at the midseason mark of the 2025 NFL season.</desc>
+    <date>20251105</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251108072800 +0000" stop="20251108082800 +0000">
     <title>NFL GameDay View</title>
     <sub-title>NFL GameDay View</sub-title>
     <episode-num system="onscreen">S2025E11</episode-num>
@@ -20,133 +49,78 @@
     <date>20251106</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251107010000 +0000" stop="20251107011500 +0000">
-    <title>NFL GameDay Preview</title>
-    <sub-title>NFL GameDay Preview</sub-title>
-    <episode-num system="onscreen">S2025E11</episode-num>
-    <desc>NFL analysts pick every game ahead of Week 10 based on the NFL schedule with insights from reporters around the country and in-depth statistical analysis during the 2025 NFL season.</desc>
-    <date>20251106</date>
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251108082800 +0000" stop="20251108092800 +0000">
+    <title>NFL Daily</title>
+    <sub-title>NFL Daily</sub-title>
+    <desc>Gregg Rosenthal and a rotating crew of elite NFL Media co-hosts, including Patrick Claybon, Colleen Wolfe, Steve Wyche, Nick Shook and Jourdan Rodrigue of The Athletic get viewers caught up daily on all the NFL news and analysis.</desc>
+    <date>20251108</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251107011500 +0000" stop="20251107043000 +0000">
-    <title>NFL GameCenter Live</title>
-    <sub-title>NFL GameCenter Live</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251108092800 +0000" stop="20251108095800 +0000">
+    <title>NFL Fantasy Football Show</title>
+    <sub-title>NFL Fantasy Football Show</sub-title>
+    <desc>Marcas Grant and his guests provide detailed fantasy football analysis combining in-depth stats and film study ahead of each week.</desc>
+    <date>20251108</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251108095800 +0000" stop="20251108105800 +0000">
+    <title>NFL Throwback</title>
+    <sub-title>Every Team's Biggest Win and Loss</sub-title>
+    <episode-num system="onscreen">S2025E21</episode-num>
+    <desc>Find out every NFL team's biggest win and most embarrassing defeat of the Super Bowl era.</desc>
+    <date>20250508</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251108105800 +0000" stop="20251108112000 +0000">
+    <title>NFL Throwback</title>
+    <sub-title>Forgotten Super Bowl Performances</sub-title>
+    <episode-num system="onscreen">S2024E10</episode-num>
+    <desc>Relive and remember some of the most forgotten Super Bowl performances in NFL history.</desc>
+    <date>20240207</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251108112000 +0000" stop="20251108120000 +0000">
+    <title>NFL Media Originals</title>
+    <sub-title>Top 10 Games at Midseason</sub-title>
+    <episode-num system="onscreen">S2025E05</episode-num>
+    <desc>The best moments of the top 10 games at the midseason mark of the 2025 NFL season.</desc>
+    <date>20251105</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251108120000 +0000" stop="20251108121800 +0000">
+    <title>To Be Announced</title>
+    <sub-title>To Be Announced</sub-title>
+    <date>20251107</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251108121800 +0000" stop="20251108145600 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2025: Vikings vs. Lions - Week 9</sub-title>
+    <desc>Minnesota Vikings quarterback J.J. McCarthy threw 2 touchdown passes, ran for a score and sealed the victory by throwing a 16-yard pass to Jalen Nailor on third-and-5 from the Minnesota 28, a play that allowed the Vikings to run out the clock.</desc>
+    <date>20251107</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251108145600 +0000" stop="20251108171500 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2025: Chargers vs. Titans - Week 9</sub-title>
+    <desc>Los Angeles Chargers quarterback Justin Herbert shakes off a pick-6 as the Chargers beat skidding Tennessee Titans 27-20.</desc>
+    <date>20251108</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251108171500 +0000" stop="20251108175500 +0000">
+    <title>NFL Media Originals</title>
+    <sub-title>Top 10 Games at Midseason</sub-title>
+    <episode-num system="onscreen">S2025E05</episode-num>
+    <desc>The best moments of the top 10 games at the midseason mark of the 2025 NFL season.</desc>
+    <date>20251105</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251108175500 +0000" stop="20251109015500 +0000">
+    <title>NFL RedZone</title>
+    <sub-title>Week 9</sub-title>
     <episode-num system="onscreen">S2025E10</episode-num>
-    <desc>Get NFL score updates, highlights, news and more from Week 10 of the 2025 NFL season.</desc>
-    <date>20251106</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251107043000 +0000" stop="20251107053000 +0000">
-    <title>The Insiders</title>
-    <sub-title>The Insiders</sub-title>
-    <desc>NFL Media Insiders Ian Rapoport, Mike Garafolo, Tom Pelissero, and Judy Battista deliver the inside scoop and latest storylines of Week 10 during the 2025 NFL season.</desc>
-    <date>20251106</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251107053000 +0000" stop="20251107054800 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Weekly Game Recaps</sub-title>
-    <episode-num system="onscreen">S2025E91</episode-num>
-    <desc>Weekly highlight series featuring the biggest moments and best plays from every NFL game from Week 10 of the 2025 NFL season.</desc>
-    <date>20251106</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251107054800 +0000" stop="20251107063000 +0000">
-    <title>NFL Throwback</title>
-    <sub-title>Craziest Feats of Strength in NFL History</sub-title>
-    <episode-num system="onscreen">S2025E49</episode-num>
-    <desc>From stiff arms, to trucks and bull rushes, check out the greatest power moves in NFL history.</desc>
-    <date>20250911</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251107063000 +0000" stop="20251107073000 +0000">
-    <title>NFL GameDay View</title>
-    <sub-title>NFL GameDay View</sub-title>
-    <episode-num system="onscreen">S2025E11</episode-num>
-    <desc>Hosts Patrick Claybon, Cynthia Frelund, Gregg Rosenthal provide analysis and predictions, also receive insight from reporters around the country and in-depth statistical analysis ahead of Week 10 during the 2025 NFL season.</desc>
-    <date>20251106</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251107073000 +0000" stop="20251107080000 +0000">
-    <title>NFL Fantasy Football Show</title>
-    <sub-title>NFL Fantasy Football Show</sub-title>
-    <desc>Marcas Grant and his guests provide detailed fantasy football analysis combining in-depth stats and film study ahead of each week.</desc>
-    <date>20251107</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251107080000 +0000" stop="20251107083000 +0000">
-    <title>NFL Throwback</title>
-    <sub-title>NFL Throwback Trivia</sub-title>
-    <episode-num system="onscreen">S2025E57</episode-num>
-    <desc>Put your knowledge to the test with 40 questions about NFL history!</desc>
-    <date>20251025</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251107083000 +0000" stop="20251107094000 +0000">
-    <title>NFL Throwback</title>
-    <sub-title>Best Decade Ever: The 2000s</sub-title>
-    <episode-num system="onscreen">S2025E53</episode-num>
-    <desc>From dominant dynasties to wild underdog stories and Super Bowl thrillers, NFL Throwback takes a deep dive into the 2000s.</desc>
-    <date>20250930</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251107094000 +0000" stop="20251107104000 +0000">
-    <title>NFL Throwback</title>
-    <sub-title>Best Regular Season Game from Every Year Since 2000</sub-title>
-    <episode-num system="onscreen">S2025E45</episode-num>
-    <date>20250904</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251107104000 +0000" stop="20251107134900 +0000">
-    <title>NFL Game Re-Airs</title>
-    <sub-title>2018: Jets vs. Browns</sub-title>
-    <episode-num system="onscreen">S2022E101</episode-num>
-    <desc>Relive the Week 3, 2018 matchup between the New York Jets and the Cleveland Browns, as Cleveland won 21-17 on Thursday night for their first win since Dec. 24, 2016.</desc>
-    <date>20220202</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251107134900 +0000" stop="20251107140700 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Weekly Game Recaps</sub-title>
-    <episode-num system="onscreen">S2025E91</episode-num>
-    <desc>Weekly highlight series featuring the biggest moments and best plays from every NFL game from Week 10 of the 2025 NFL season.</desc>
-    <date>20251106</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251107140700 +0000" stop="20251107143700 +0000">
-    <title>NFL Fantasy Football Show</title>
-    <sub-title>NFL Fantasy Football Show</sub-title>
-    <desc>Marcas Grant and his guests provide detailed fantasy football analysis combining in-depth stats and film study ahead of each week.</desc>
-    <date>20251107</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251107143700 +0000" stop="20251107153700 +0000">
-    <title>NFL GameDay View</title>
-    <sub-title>NFL GameDay View</sub-title>
-    <episode-num system="onscreen">S2025E11</episode-num>
-    <desc>Hosts Patrick Claybon, Cynthia Frelund, Gregg Rosenthal provide analysis and predictions, also receive insight from reporters around the country and in-depth statistical analysis ahead of Week 10 during the 2025 NFL season.</desc>
-    <date>20251106</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251107153700 +0000" stop="20251107180800 +0000">
-    <title>NFL Game Re-Airs</title>
-    <sub-title>2025: Chiefs vs. Bills - Week 9</sub-title>
-    <desc>Josh Allen moves to 5-1 against Patrick Mahomes during the regular season as the 2024 MVP outduels the Kansas City signal caller in a 28-21 victory that came down to the final drive.</desc>
-    <date>20251107</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251107180800 +0000" stop="20251107204000 +0000">
-    <title>NFL Game Re-Airs</title>
-    <sub-title>2025: Falcons vs. Patriots - Week 9</sub-title>
-    <desc>Drake Maye threw 2 touchdown passes and 2 turnovers in an uneven performance, but New England held on for its sixth straight victory, 24-23 over the Atlanta Falcons on Sunday.</desc>
-    <date>20251107</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251107204000 +0000" stop="20251107232900 +0000">
-    <title>NFL Game Re-Airs</title>
-    <sub-title>2025: Colts vs. Steelers - Week 9</sub-title>
-    <desc>The Pittsburgh Steelers harassed the Indianapolis Colts into 6 turnovers for a 27-20 victory on Sunday that provided a reminder that when at its best, Pittsburgh's star-laden defense can create a unique brand of chaos.</desc>
-    <date>20251107</date>
+    <desc>Join Scott Hanson for live coverage of all the best NFL action from across the country and every touchdown from every game.</desc>
+    <date>20251102</date>
   </programme>
   
 </tv>
