@@ -5,109 +5,247 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/c6bfca5e-58fe-4ed4-a87d-5e2ccde7f085/Logo_Art_-_Popular_Science_Dark_Backgrounds.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251108232320 +0000" stop="20251109010329 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251109232312 +0000" stop="20251110014153 +0000">
+    <title>Deep Web</title>
+    <category>Movie</category>
+    <desc>Deep Web guides us through the inside story of one of the most riveting digital crime sagas of the modern era.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110014153 +0000" stop="20251110023006 +0000">
+    <title>Crash Course: Geography</title>
+    <sub-title>Intro, Maps, "Space," Physical Geography</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Explore physical geography, maps, and space, uncovering Earth’s features and their cosmic connections.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/10c1315c-8842-4d05-9eef-a48cc86cc390_intro-maps-space-physical-geography_2886b6c9-6c16-409e-bd19-0d4d3c61011c_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110023006 +0000" stop="20251110032012 +0000">
+    <title>Crash Course: Geography</title>
+    <sub-title>Earth's Movements, Atmosphere, Temperature, Wind</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Explore Earth's movements, atmosphere, temperature, and wind, and how they shape our planet's climate.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/e9c2c940-c13c-4162-8461-96059af14c03_earth-s-movements-atmosphere-temperature-wind_49c5ae9a-fd6b-469b-8f20-0c4678400cb9_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110032012 +0000" stop="20251110040911 +0000">
+    <title>Crash Course: Geography</title>
+    <sub-title>Oceans, Clouds, Rain, Cyclones</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Discover the dynamics of oceans, clouds, rain, and cyclones, and their impact on Earth's weather systems.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/4bfe86a5-e181-4583-a05f-5099a86245a7_oceans-clouds-rain-cyclones_85fd3f48-94a6-4699-b54a-693452f3f1dc_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110040911 +0000" stop="20251110050300 +0000">
+    <title>Crash Course: Geography</title>
+    <sub-title>Climates &amp; Change, Ecosystems, Population &amp; Food</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Explore climates, climate change, ecosystems, and the relationship between population growth and food supply.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/acba43c8-bf31-4a1d-924e-a7dc70543f10_climates-climate-change-ecosystems-population-food_4d6f285c-8e70-4260-af4d-1b08d084c81f_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110050300 +0000" stop="20251110055409 +0000">
+    <title>Crash Course: Geography</title>
+    <sub-title>Soil, Rocks, Plate Tectonics, Landforms</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Explore Earth’s surface changes, from soil and rock formation to tectonic movement and landform creation.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/49e79f1a-4d5b-4f27-93a8-4337615b8c2e_soil-rocks-plate-tectonics-landforms_bae2c65d-14a7-4492-af5b-6fbdef3ede54_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110055409 +0000" stop="20251110064833 +0000">
+    <title>Crash Course: Geography</title>
+    <sub-title>Volcanoes, Weathering, Rivers, Jakarta Flooding</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Examine Earth’s forces, from eruptions and weathering to river erosion and Jakarta’s frequent floods.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/43134172-fd9c-4b09-ae12-7ee214738e0a_volcanoes-weathering-rivers-jakarta-flooding_5e8f44b8-627c-48d6-bcfc-dfbf638bea36_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110064833 +0000" stop="20251110073748 +0000">
+    <title>Crash Course: Geography</title>
+    <sub-title>Groundwater, Glaciers, Natural Hazards, Human Geography</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Explore groundwater, glaciers, natural hazards, and human geography shaping Earth’s surface and environments.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/94de1352-7245-4c76-8cf1-641269e629ca_groundwater-glaciers-natural-hazards-human-geography_d46721b1-b96e-46b7-8c64-5a4dc40e6136_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110073748 +0000" stop="20251110083159 +0000">
+    <title>Crash Course: Geography</title>
+    <sub-title>Cultures, Languge, Religion, Why We Move</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Explore cultures, language, religion, and human migration as key parts of how and why people move and connect.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/1bf4a271-5e61-477f-b4c8-3c83ac4135dc_cultures-languge-religion-why-we-move_4dc692b9-dec1-4795-8810-011bb42e3d24_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110083159 +0000" stop="20251110092640 +0000">
+    <title>Crash Course: Geography</title>
+    <sub-title>Population Growth, Disease, Tyranny, Countries</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Explore population growth, disease, tyranny, and countries to understand today’s world and its changes.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/b06ae7e5-4afb-485f-8889-25ec883d9709_population-growth-disease-tyranny-countries_1e0f1383-b094-419b-8faa-ce08d6f32db6_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110092640 +0000" stop="20251110102204 +0000">
+    <title>Crash Course: Geography</title>
+    <sub-title>Border Conflicts, Politics, Colonialism, "Developed" Countries</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Explore border conflicts, politics, colonialism, and developed countries to understand global power shifts.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/8ecf7348-f091-4f88-b58d-9e6f1785c10d_border-conflicts-politics-colonialism-developed-countries_9cc5032d-cab5-4dfc-8f95-2a0e47dd53c8_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110102204 +0000" stop="20251110111547 +0000">
+    <title>Crash Course: Geography</title>
+    <sub-title>Agribusiness, Food, Mineral Extraction</sub-title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <desc>Explore agribusiness, food production, and mineral extraction shaping economies and Earth's resources.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/424a57d1-e440-449c-8ee4-d0153b221d9e_agribusiness-food-mineral-extraction_549b30c9-c534-4abc-978c-c4e3c3e4d731_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110111547 +0000" stop="20251110115441 +0000">
+    <title>Crash Course: Geography</title>
+    <sub-title>The Move to Cities, Organization &amp; Urban Planning</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>Explore the move to cities, urban growth, and planning that shapes how people live, work, and connect daily.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/0838329e-11f7-4dc0-bbdf-a16b12f4c23b_the-move-to-cities-organization-urban-planning_93d9552b-c55d-41ce-83a9-7df8f41a57bf_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110115441 +0000" stop="20251110123307 +0000">
+    <title>How to Survive</title>
+    <sub-title>Disasters, Naturally</sub-title>
+    <episode-num system="onscreen">S03E14</episode-num>
+    <desc>Explore the powerful forces of nature behind the world’s most devastating natural disasters.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/bcdbf9e8-a898-4261-9b7e-6b09b3c1764f_disasters-naturally_e028048e-f14e-43c3-a6af-a0956ca1ba77_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110123307 +0000" stop="20251110125218 +0000">
+    <title>How to Survive</title>
+    <sub-title>Have a Cold One</sub-title>
+    <episode-num system="onscreen">S01E57</episode-num>
+    <desc>Chill out and explore the coldest places on Earth, from freezing landscapes to the science behind surviving ex</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/7323d74c-f725-4683-9b0d-0dfd8cd27f90_have-a-cold-one_75d72f62-c957-472b-8cd6-44c5137f5dc0_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110125218 +0000" stop="20251110131852 +0000">
+    <title>How to Survive</title>
+    <sub-title>Nature's Lethal Secrets</sub-title>
+    <episode-num system="onscreen">S01E61</episode-num>
+    <desc>Uncover the deadly secrets hidden in nature, from venomous creatures to hazardous environments, and learn how</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/e40c2c78-adc7-464f-956a-a6d0186b2920_nature-s-lethal-secrets_c140a3b7-e4ec-4f83-8ff6-94540ba456a3_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110131852 +0000" stop="20251110134419 +0000">
+    <title>How to Survive</title>
+    <sub-title>Nature's Roar</sub-title>
+    <episode-num system="onscreen">S01E62</episode-num>
+    <desc>Feel the power of nature’s fiercest forces, from thunderous storms to the mighty roar of wild animals, and wit</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/e50ec30d-4704-4a64-a036-a5a87690d239_nature-s-roar_39180a0a-6936-45e3-95c8-9893bb89afc4_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110134419 +0000" stop="20251110145149 +0000">
+    <title>Hacksmith: Make It Real</title>
+    <sub-title>Thor's Workout, Iron Spider</sub-title>
+    <episode-num system="onscreen">S01E18</episode-num>
+    <desc>Join us as we explore Thor’s intense workout routine and the incredible Iron Spider suit brought to life.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/b30d7c17-1b22-4613-8647-ed0f12a0b596_thor-s-workout-iron-spider_d905bc8a-df68-44f5-8c19-c441a3383da3_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110145149 +0000" stop="20251110154457 +0000">
+    <title>Hacksmith: Make It Real</title>
+    <sub-title>Giant Mjolnir</sub-title>
+    <episode-num system="onscreen">S01E19</episode-num>
+    <desc>Watch as we create and explore the engineering behind this giant hammer and testing its incredible power!</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/3837c645-c0bc-4072-938b-62f06cdf4087_giant-mjolnir_f8efda9b-e2f1-4fb5-a5e1-717d1d401a92_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110154457 +0000" stop="20251110163523 +0000">
+    <title>Hacksmith: Make It Real</title>
+    <sub-title>Hulkbuster, Arc Reactor, Iron Man Laser</sub-title>
+    <episode-num system="onscreen">S01E20</episode-num>
+    <desc>Hulkbuster, Arc Reactor, Iron Man Laser</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/e216f6d4-64cd-4072-a29f-cadc7ac3effe_hulkbuster-arc-reactor-iron-man-laser_758e9852-a299-4fa5-8eb5-ade0b55e069e_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110163523 +0000" stop="20251110165747 +0000">
+    <title>What If: Planet Earth</title>
+    <sub-title>In the Trenches</sub-title>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <desc>Descend into the world’s deepest trenches, exploring the hidden mysteries and unique life forms.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/30c2431f-e295-40c6-abf6-b96aa4676df6_in-the-trenches_556d5796-47f0-4152-9dda-ba063163d502_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110165747 +0000" stop="20251110173042 +0000">
+    <title>What If: Planet Earth</title>
+    <sub-title>50 Percent Off: Halved Worlds</sub-title>
+    <episode-num system="onscreen">S01E20</episode-num>
+    <desc>Imagine a world split in half! Dive into scenarios where planets, moons, and entire systems are halved.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/6b650aa8-bf7a-4ac0-8336-2a17be6240e8_50-percent-off-halved-worlds_2f2433ce-1696-41d3-8097-65d259a40cef_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110173042 +0000" stop="20251110175853 +0000">
+    <title>What If: Planet Earth</title>
+    <sub-title>5 Seconds that Could Change the World</sub-title>
+    <episode-num system="onscreen">S01E23</episode-num>
+    <desc>Explore catastrophic scenarios where Earth stops spinning, drops to absolute zero, and loses oxygen.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/75ea2ee7-50fd-4f03-afba-902c6ee2ec3b_5-seconds-that-could-change-the-world_d61688dd-dfb3-4efc-8cff-bb8fd8abef76_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110175853 +0000" stop="20251110182557 +0000">
+    <title>What If: Planet Earth</title>
+    <sub-title>A Few More Seconds</sub-title>
+    <episode-num system="onscreen">S01E47</episode-num>
+    <desc>Explore pivotal moments in history and science that could have changed everything.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/f3ee7339-ee72-443f-8cea-c57036528d21_a-few-more-seconds_98cf1b4a-ffc3-404a-bed7-c337b05359cc_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110182557 +0000" stop="20251110191340 +0000">
+    <title>Aperture</title>
+    <sub-title>Space and Beyond</sub-title>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <desc>Embark on a thrilling journey through the cosmos, the mysteries of deep space and cutting-edge technology.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/a4245ac7-d8d4-49d8-aef4-96b31ca0bd8e_space-and-beyond_3fdcfe4a-7789-4884-92f5-145fb10ae884_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110191340 +0000" stop="20251110194020 +0000">
+    <title>What If: Body</title>
+    <sub-title>Might As Well Jump</sub-title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <desc>Leap into adventure as we explore the thrilling science and history of jumping into most unusual places.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/be4c1d8e-abf2-490a-a64c-3dfaf533d54b_might-as-well-jump_c0d9f906-9131-4787-9091-ee66bcd19dcf_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110194020 +0000" stop="20251110200921 +0000">
+    <title>What If: Body</title>
+    <sub-title>Icy What You Did There</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>Chill with us as we experiment with dry ice, hot ice, and more, uncovering cool science and frosty fun!</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/cd8e51f5-2716-4897-ab8b-37216e893daf_icy-what-you-did-there_8d152feb-73bd-438f-88aa-5803ea0f0065_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110200921 +0000" stop="20251110203831 +0000">
+    <title>What If: Cosmos</title>
+    <sub-title>Weird Human Tricks: From Invisibility to Stomach Gardens</sub-title>
+    <episode-num system="onscreen">S01E44</episode-num>
+    <desc>Discover the strangest human abilities and experiments, bending light for invisibility and stomach gardens.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/47b3a55c-58f3-4d6c-8673-5a1ece06dd2c_weird-human-tricks-from-invisibility-to-stomach-gardens_3d063139-7d95-4d46-ac07-d76e17e87350_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110203831 +0000" stop="20251110214200 +0000">
     <title>Trust Machine: The Story of Blockchain</title>
     <category>Movie</category>
     <desc>Why are banks terrified while UNICEF embraces it to feed refugee children? Is blockchain technology poised to</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251109010329 +0000" stop="20251109033152 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110214200 +0000" stop="20251110224200 +0000">
+    <title>LIVE LAUNCH: Starlink Group 6-87</title>
+    <category>Movie</category>
+    <desc>LIVE LAUNCH: Starlink Group 6-87</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251110224200 +0000" stop="20251111004701 +0000">
     <title>First to the Moon</title>
     <category>Movie</category>
     <desc>Relive the historic moment when humanity reached the moon for the first time.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251109033152 +0000" stop="20251109053048 +0000">
-    <title>The Last Man on the Moon</title>
-    <category>Movie</category>
-    <desc>The epic story of astronaut Gene Cernan's trip to the moon in 1972, and the emotional journey behind it.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251109053048 +0000" stop="20251109071428 +0000">
-    <title>It's Quieter in the Twilight</title>
-    <category>Movie</category>
-    <desc>In an unremarkable office space, a select group of aging engineers ensures a legendary spacecraft lives on.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251109071428 +0000" stop="20251109073325 +0000">
-    <title>What If: Discussed</title>
-    <sub-title>A Bouncing Universe</sub-title>
-    <episode-num system="onscreen">S01E21</episode-num>
-    <desc>Did the universe begin with a Big Bang or a Big Bounce? Did the Universe even "begin" at all?</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/f9d9b5ec-0bfa-4d65-97c1-62ce0007e4ae_discussed-what-if-the-universe-is-bouncing_c8b0c5f2-5f40-4131-9d13-9d91560ce796_thumbnail_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251109073325 +0000" stop="20251109092906 +0000">
-    <title>General Magic</title>
-    <category>Movie</category>
-    <desc>Discover the magic of Silicon Valley.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251109092906 +0000" stop="20251109111850 +0000">
-    <title>Jim Allison: Breakthrough</title>
-    <category>Movie</category>
-    <desc>The astounding true story of one warm-hearted, stubborn man’s visionary quest to find a cure for cancer.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251109111850 +0000" stop="20251109130736 +0000">
-    <title>Deep Web</title>
-    <category>Movie</category>
-    <desc>Deep Web guides us through the inside story of one of the most riveting digital crime sagas of the modern era.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251109130736 +0000" stop="20251109153559 +0000">
-    <title>First to the Moon</title>
-    <category>Movie</category>
-    <desc>Relive the historic moment when humanity reached the moon for the first time.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251109153559 +0000" stop="20251109173513 +0000">
-    <title>The Last Man on the Moon</title>
-    <category>Movie</category>
-    <desc>The epic story of astronaut Gene Cernan's trip to the moon in 1972, and the emotional journey behind it.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251109173513 +0000" stop="20251109191500 +0000">
-    <title>It's Quieter in the Twilight</title>
-    <category>Movie</category>
-    <desc>In an unremarkable office space, a select group of aging engineers ensures a legendary spacecraft lives on.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251109191500 +0000" stop="20251109201500 +0000">
-    <title>LIVE LAUNCH: Blue Origin ESCAPADE</title>
-    <category>Movie</category>
-    <desc>LIVE LAUNCH: Blue Origin ESCAPADE</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251109201500 +0000" stop="20251109213339 +0000">
-    <title>General Magic</title>
-    <category>Movie</category>
-    <desc>Discover the magic of Silicon Valley.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251109213339 +0000" stop="20251109232312 +0000">
-    <title>Jim Allison: Breakthrough</title>
-    <category>Movie</category>
-    <desc>The astounding true story of one warm-hearted, stubborn man’s visionary quest to find a cure for cancer.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251109232312 +0000" stop="20251110014153 +0000">
-    <title>Deep Web</title>
-    <category>Movie</category>
-    <desc>Deep Web guides us through the inside story of one of the most riveting digital crime sagas of the modern era.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
   </programme>
   
