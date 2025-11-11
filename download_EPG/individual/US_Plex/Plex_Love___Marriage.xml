@@ -5,391 +5,445 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/c8f1b6ec-268a-46d3-9b0c-0934c9b89680/Love_Marriage_Logo_Dark_1500x1000.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251109233802 +0000" stop="20251110002802 +0000">
-    <title>Wedding Cake Championship</title>
-    <sub-title>Tara and Todd</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111003842 +0000" stop="20251111012716 +0000">
+    <title>Randy to the Rescue</title>
+    <sub-title>Cincinnati</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>In Cincinnati, Randy helps a bride overcome her fear of wedding dresses.</desc>
+    <date>20120713</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3c48edbab4dd3d0f4abe5a02317d508c.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111012716 +0000" stop="20251111021518 +0000">
+    <title>Randy to the Rescue</title>
+    <sub-title>Minneapolis</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Randy helps a widow find a dress for her second wedding.</desc>
+    <date>20120803</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a2df73dc77d05803f9a6c359038854af.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111021518 +0000" stop="20251111030352 +0000">
+    <title>Randy to the Rescue</title>
+    <sub-title>Boston</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>In Boston, Randy gives Theo a steampunk bridal makeover.</desc>
+    <date>20120727</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a8bbeaed2d0231186a4559aa85fdccc2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111030352 +0000" stop="20251111035427 +0000">
+    <title>Randy to the Rescue</title>
+    <sub-title>Las Vegas</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>In Las Vegas, Randy works to rescue a bride from her body image issues.</desc>
+    <date>20120615</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0f0725273137e50976ddae9096374954.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111035427 +0000" stop="20251111042059 +0000">
+    <title>Curvy Brides Boutique</title>
+    <sub-title>The Kirsty W Episode</sub-title>
+    <episode-num system="onscreen">S02E21</episode-num>
+    <desc>Jo and Al help Kirsty with a deep-rooted phobia of clothes shopping.</desc>
+    <date>20180727</date>
+    <icon src="https://vod-static.plex.tv/thumbnails/66c8a83d378326798a506043/0f1dee4e-eed8-4371-ae5a-a296fa8de18d/thumb2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111042059 +0000" stop="20251111044729 +0000">
+    <title>Curvy Brides Boutique</title>
+    <sub-title>The Rula C Episode</sub-title>
+    <episode-num system="onscreen">S02E23</episode-num>
+    <desc>After a bad dress shopping experience, Rula is hoping Jo and Al can help.</desc>
+    <date>20180803</date>
+    <icon src="https://vod-static.plex.tv/thumbnails/66c8a810378326798a432de9/061bc2ae-b51d-41b4-bb03-5678c4c9d399/thumb2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111044729 +0000" stop="20251111051402 +0000">
+    <title>Curvy Brides Boutique</title>
+    <sub-title>The Nikki J Episode</sub-title>
+    <episode-num system="onscreen">S02E25</episode-num>
+    <desc>Jo and Al have minutes to find a solution when dress alterations go wrong.</desc>
+    <date>20180810</date>
+    <icon src="https://vod-static.plex.tv/thumbnails/66c8a8e1378326798a80a70c/578672c1-8a61-47e7-a778-0902c04f3237/thumb2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111051402 +0000" stop="20251111054025 +0000">
+    <title>Curvy Brides Boutique</title>
+    <sub-title>The Emma H Episode</sub-title>
+    <episode-num system="onscreen">S02E30</episode-num>
+    <desc>Jo and Al help Emma find the perfect dress for her vow renewal.</desc>
+    <date>20180824</date>
+    <icon src="https://vod-static.plex.tv/thumbnails/66c8a963378326798aa62989/28431d81-ebfc-454b-bba4-8d68480b8c36/thumb2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111054025 +0000" stop="20251111060657 +0000">
+    <title>Curvy Brides Boutique</title>
+    <sub-title>The Joanna B Episode</sub-title>
+    <episode-num system="onscreen">S02E19</episode-num>
+    <desc>Jo and Al help Joanna celebrate her post-mastectomy body.</desc>
+    <date>20180720</date>
+    <icon src="https://vod-static.plex.tv/thumbnails/66c8a82e378326798a4be27f/c39a18fa-f108-42de-bcf0-add73ded515b/thumb2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111060657 +0000" stop="20251111063120 +0000">
+    <title>Curvy Brides Boutique</title>
+    <sub-title>The Aisha J Episode</sub-title>
+    <episode-num system="onscreen">S02E28</episode-num>
+    <desc>Jo and Al help Aisha, whose weight gain has spoiled her wedding enthusiasm.</desc>
+    <date>20180817</date>
+    <icon src="https://vod-static.plex.tv/thumbnails/66c8a82c378326798a4b4cfa/76cdc86f-6e75-40c6-a0c1-ab6dcb1e2b9a/thumb2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111063120 +0000" stop="20251111065756 +0000">
+    <title>Curvy Brides Boutique</title>
+    <sub-title>The Charlene S Episode</sub-title>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <desc>Charlene's out-spoken mom doesn't approve of the dress she has chosen.</desc>
+    <date>20180601</date>
+    <icon src="https://vod-static.plex.tv/thumbnails/66c8a86a378326798a5d4583/99b7321c-b71f-4038-8312-64a0c4568795/thumb2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111065756 +0000" stop="20251111074630 +0000">
+    <title>Randy to the Rescue</title>
+    <sub-title>Dallas</sub-title>
     <episode-num system="onscreen">S01E04</episode-num>
-    <desc>The final three teams must make a first anniversary celebration cake.</desc>
+    <desc>A woman must convince her overprotective father to respect her choices.</desc>
+    <date>20120706</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/dc90fcaba4fb3ddfda193d6e5c21132f.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111074630 +0000" stop="20251111083503 +0000">
+    <title>Randy to the Rescue</title>
+    <sub-title>Nashville</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Randy finds a gown that makes a 3-foot-10 bride feel like a woman.</desc>
+    <date>20120720</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c03715f96be1d015a2d805b243865a60.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111083503 +0000" stop="20251111092308 +0000">
+    <title>Wedding Cake Championship</title>
+    <sub-title>Live to Dance</sub-title>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <desc>The five teams create wedding cakes that reflect a couple's love of dance.</desc>
+    <date>20190610</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3b10180b67f7664d3d10a4e2c8e994e8.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111092308 +0000" stop="20251111101110 +0000">
+    <title>Wedding Cake Championship</title>
+    <sub-title>Ashley I. and Jared</sub-title>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <desc>Three teams make glam cakes for two lovebirds from Bachelor in Paradise.</desc>
     <date>20190624</date>
     <icon src="https://metadata-static.plex.tv/3/gracenote/34aa51f92e587d91b67735ac89e44d61.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110002802 +0000" stop="20251110011604 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111101110 +0000" stop="20251111105914 +0000">
     <title>Wedding Cake Championship</title>
-    <sub-title>Super Cakes</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Six baking duos begin their journey to becoming wedding cake champions.</desc>
-    <date>20190603</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/4b6890e70259296ba337da4085b9e71a.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110011604 +0000" stop="20251110020406 +0000">
-    <title>Wedding Cake Championship</title>
-    <sub-title>Puppy Love</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Four teams of bakers each create a precocious pet topper.</desc>
+    <sub-title>A Tale of Two Stephanies</sub-title>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <desc>Four teams design cakes blending a couple's love of nature and steampunk.</desc>
     <date>20190617</date>
     <icon src="https://metadata-static.plex.tv/a/gracenote/a62ba845ad7acdcb21e00d074d0a5028.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110020406 +0000" stop="20251110022709 +0000">
-    <title>Something Borrowed, Something New</title>
-    <sub-title>Kicks Your Dress to the Curb!</sub-title>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <desc>A mom of two wants a form-fitting wedding dress with some spice.</desc>
-    <date>20140117</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZDMyNzUyZjktY2IzNS00ZjgyLThkODktNDE0OGY3NDViODMwXkEyXkFqcGc@._V1_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110022709 +0000" stop="20251110025009 +0000">
-    <title>Something Borrowed, Something New</title>
-    <sub-title>The 007 Bride</sub-title>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <desc>A bride planning a 007-themed wedding wants a sexy-yet-demure gown.</desc>
-    <date>20140101</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTQ1OTI4MzE3N15BMl5BanBnXkFtZTgwMzY0NjEyMjE@._V1_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110025009 +0000" stop="20251110031313 +0000">
-    <title>Something Borrowed, Something New</title>
-    <sub-title>Won't Pay for the Wedding!</sub-title>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <desc>A bride is surprised by her own emotions while considering her options.</desc>
-    <date>20140110</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMzQyMjMwMjI0OF5BMl5BanBnXkFtZTgwNjIwNzEyMjE@._V1_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110031313 +0000" stop="20251110033615 +0000">
-    <title>Something Borrowed, Something New</title>
-    <sub-title>Whose Sari Now</sub-title>
-    <episode-num system="onscreen">S02E14</episode-num>
-    <desc>An American bride wants a sari-inspired gown to please her Indian in-laws.</desc>
-    <date>20140307</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BODAxNzI4NzUyNF5BMl5BanBnXkFtZTgwODk4NDM5MzE@._V1_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110033615 +0000" stop="20251110035918 +0000">
-    <title>Something Borrowed, Something New</title>
-    <sub-title>Daddy's Girl</sub-title>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <desc>A bride wants to wear her grandmother's gown, but it's in bad shape.</desc>
-    <date>20140101</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjA0NjQ4MjYxM15BMl5BanBnXkFtZTgwMTc2MjIyMjE@._V1_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110035918 +0000" stop="20251110044920 +0000">
-    <title>Wedding Island</title>
-    <sub-title>There's No Crying in Wedding Planning</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Sandy Malone tries to make couple's wedding dreams come true.</desc>
-    <date>20130718</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjEyOTUyNjA0NF5BMl5BanBnXkFtZTgwMzUwODEyMjE@._V1_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110044920 +0000" stop="20251110053755 +0000">
-    <title>Brides, Grooms and Emergency Rooms</title>
-    <sub-title>The Gates of Hell Had Opened</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>One couple's nuptials are derailed when they get kidnapped for ransom.</desc>
-    <date>20190829</date>
-    <icon src="https://vod-static.plex.tv/thumbnails/67d0a3ae17c2ead0c6c7d325/e3634c52-0da7-4fe8-97a4-d7241667a4c7/thumb2.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110053755 +0000" stop="20251110062631 +0000">
-    <title>Brides, Grooms and Emergency Rooms</title>
-    <sub-title>In Sickness and in...More Sickness</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>A bride suddenly goes blind at her wedding.</desc>
-    <date>20190822</date>
-    <icon src="https://vod-static.plex.tv/thumbnails/67d0b32c17c2ead0c6cb1abb/18317e72-0e45-4067-9b31-fd78afb1a149/thumb2.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110062631 +0000" stop="20251110071506 +0000">
-    <title>Brides, Grooms and Emergency Rooms</title>
-    <sub-title>Come Hell or High Water</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>A pirate-themed wedding turns into a treasure hunt for the ER.</desc>
-    <date>20190905</date>
-    <icon src="https://vod-static.plex.tv/thumbnails/67d0a11c17c2ead0c6c75391/fefdec4c-eb83-408e-978d-c4b2761d7d8b/thumb2.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110071506 +0000" stop="20251110073809 +0000">
-    <title>Something Borrowed, Something New</title>
-    <sub-title>The Blinged-Out Jersey Bride</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111105914 +0000" stop="20251111114712 +0000">
+    <title>Wedding Cake Championship</title>
+    <sub-title>Puppet Love</sub-title>
     <episode-num system="onscreen">S02E01</episode-num>
-    <desc>A flashy bride is hoping for a skin-tight, crystal-covered wedding dress.</desc>
-    <date>20140103</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNTA3Mzk0NDUzM15BMl5BanBnXkFtZTgwOTc2MjIyMjE@._V1_.jpg" />
+    <desc>Six baking duos make a dream wedding cake for professional puppeteers.</desc>
+    <date>20190603</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/4b6890e70259296ba337da4085b9e71a.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110073809 +0000" stop="20251110080112 +0000">
-    <title>Something Borrowed, Something New</title>
-    <sub-title>With This Bling, I Thee Wed</sub-title>
-    <episode-num system="onscreen">S02E15</episode-num>
-    <desc>A bride wants her gown to make a grand impression at her lavish wedding.</desc>
-    <date>20140314</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTU4MjQ3ODc1MF5BMl5BanBnXkFtZTgwMjQ0NDM5MzE@._V1_.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111114712 +0000" stop="20251111120915 +0000">
+    <title>I Found the Gown</title>
+    <sub-title>The Dress of Her Dreams</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Amanda is on the hunt for a gown by designer Rosa Clara.</desc>
+    <date>20120824</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/911c365607c2de100663d94860ea2338.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110080112 +0000" stop="20251110082339 +0000">
-    <title>Something Borrowed, Something New</title>
-    <sub-title>Best-Stressed Bride</sub-title>
-    <episode-num system="onscreen">S02E12</episode-num>
-    <desc>Time is ticking for a bride whose family gown doesn't feel magical anymore.</desc>
-    <date>20140201</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTc5MzAwNDAxOF5BMl5BanBnXkFtZTgwMDA5NDc5MjE@._V1_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110082339 +0000" stop="20251110084642 +0000">
-    <title>Something Borrowed, Something New</title>
-    <sub-title>Sisterhood of Traveling Dress</sub-title>
-    <episode-num system="onscreen">S02E18</episode-num>
-    <desc>A bride is pressured to wear the dress her mother and older sister wore.</desc>
-    <date>20140404</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOGIwNTVmNzEtODJjMi00YjI5LWE0YmMtMmJhY2MyOGQ2NzlmXkEyXkFqcGc@._V1_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110084642 +0000" stop="20251110090945 +0000">
-    <title>Something Borrowed, Something New</title>
-    <sub-title>Can You Drop It Like It's Hot?</sub-title>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <desc>A vivacious bride wants a body-hugging gown that she can dance in.</desc>
-    <date>20140101</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTYzMTU1MjgzOF5BMl5BanBnXkFtZTgwMjY4OTE1NTE@._V1_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110090945 +0000" stop="20251110093248 +0000">
-    <title>Something Borrowed, Something New</title>
-    <sub-title>Torn Between Two Mothers</sub-title>
-    <episode-num system="onscreen">S02E19</episode-num>
-    <desc>A bride struggles with the opinions of her adoptive mom and her birth mom.</desc>
-    <date>20140411</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTk2MDc0MDA4NF5BMl5BanBnXkFtZTgwNTk2NDQ4NDE@._V1_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110093248 +0000" stop="20251110095551 +0000">
-    <title>Something Borrowed, Something New</title>
-    <sub-title>The Young and the Dress-less</sub-title>
-    <episode-num system="onscreen">S02E11</episode-num>
-    <desc>A 19-year-old bride struggles to make her own decision about a modest gown.</desc>
-    <date>20140201</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTQxMDUxOTk3MF5BMl5BanBnXkFtZTgwOTMwODEyMjE@._V1_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110095551 +0000" stop="20251110101854 +0000">
-    <title>Something Borrowed, Something New</title>
-    <sub-title>Bride Was Made for Dancing</sub-title>
-    <episode-num system="onscreen">S02E16</episode-num>
-    <desc>A bride wants a dress that she can dance the night away in comfortably.</desc>
-    <date>20140321</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNTU2MDczMTU4Nl5BMl5BanBnXkFtZTgwNzY2MzYwNTE@._V1_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110101854 +0000" stop="20251110104157 +0000">
-    <title>Something Borrowed, Something New</title>
-    <sub-title>I Feel Like a Ghost Bride!</sub-title>
-    <episode-num system="onscreen">S02E13</episode-num>
-    <desc>A fashionable bride struggles with her opinionated mom and maid of honor.</desc>
-    <date>20140228</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMWMwOWZlNDgtYzI4NC00MWI4LTlkZWYtN2YyMTVkNDAzM2U2XkEyXkFqcGc@._V1_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110104157 +0000" stop="20251110110430 +0000">
-    <title>Something Borrowed, Something New</title>
-    <sub-title>Dress Reversal</sub-title>
-    <episode-num system="onscreen">S02E20</episode-num>
-    <desc>A bride wants a head-turning gown for her beachfront wedding.</desc>
-    <date>20140418</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOTNlYmQzYmQtNTJjNy00MzdkLTkxMjEtMmQyYzg0YWNiNDVkXkEyXkFqcGc@._V1_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110110430 +0000" stop="20251110112732 +0000">
-    <title>Something Borrowed, Something New</title>
-    <sub-title>If the Gown Fits ...</sub-title>
-    <episode-num system="onscreen">S02E07</episode-num>
-    <desc>A curvy bride wants a bombshell gown for her Candyland-inspired wedding.</desc>
-    <date>20140101</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjA4NTUxNjU5Ml5BMl5BanBnXkFtZTgwNjgwMTIyMjE@._V1_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110112732 +0000" stop="20251110115035 +0000">
-    <title>Something Borrowed, Something New</title>
-    <sub-title>That WOW Factor!</sub-title>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <desc>A Valentine's Day bride has a specific vision for her wedding gown.</desc>
-    <date>20140101</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTYzMzIzODA5N15BMl5BanBnXkFtZTgwMTczNDc5MjE@._V1_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110115035 +0000" stop="20251110121337 +0000">
-    <title>Something Borrowed, Something New</title>
-    <sub-title>Say Less to the Dress</sub-title>
-    <episode-num system="onscreen">S02E17</episode-num>
-    <desc>A bride wants to use her gown to strengthen her relationship with her mom.</desc>
-    <date>20140328</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjZiM2MxYzctY2JmMC00NmU0LWE1NDctNThhOTkyNmNhNGQ2XkEyXkFqcGc@._V1_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110121337 +0000" stop="20251110123640 +0000">
-    <title>Something Borrowed, Something New</title>
-    <sub-title>Mom's Pride and Joi</sub-title>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <desc>A bride wants to balance her Filipino heritage and her inner fashionista.</desc>
-    <date>20140101</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjM2OTA3ODQ1N15BMl5BanBnXkFtZTgwODczNDc5MjE@._V1_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110123640 +0000" stop="20251110125943 +0000">
-    <title>Something Borrowed, Something New</title>
-    <sub-title>Tall Order Bride</sub-title>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <desc>A tall bride feels pressure to wear the gown her mom and grandmother wore.</desc>
-    <date>20140101</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTU4ODcyNTY1MV5BMl5BanBnXkFtZTgwMzE2NjIyMjE@._V1_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110125943 +0000" stop="20251110132516 +0000">
-    <title>Wedded to Perfection</title>
-    <sub-title>The Wedding That Kept Growing</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Jung hopes to design a wedding that has more guests than expected.</desc>
-    <date>20091002</date>
-    <icon src="https://vod-static.plex.tv/thumbnails/66cace99378326798a24c813/940f9954-3a07-407b-b5ba-bb4dbcf4cae3/thumb2.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110132516 +0000" stop="20251110135049 +0000">
-    <title>Wedded to Perfection</title>
-    <sub-title>Things Get Personal</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Josh and Jung step in to rescue one of their staffers weddings.</desc>
-    <date>20100302</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/ff39dd5d85a74e2f5867b208d0f89bf5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110135049 +0000" stop="20251110141622 +0000">
-    <title>Wedded to Perfection</title>
-    <sub-title>The Anti-Bride</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111120915 +0000" stop="20251111123448 +0000">
+    <title>I Found the Gown</title>
+    <sub-title>Bargain Hunting Brides</sub-title>
     <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Josh and Jung have a hard time getting lawyers to focus on their wedding.</desc>
-    <date>20100303</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/475e08fb9404a792dd10ac7aed232602.jpg" />
+    <desc>Florencia is on the hunt for the perfect dress for her destination wedding.</desc>
+    <date>20120907</date>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b90d245b3fa4e0f4acb2d024843c4160.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110141622 +0000" stop="20251110150756 +0000">
-    <title>Wedded to Perfection</title>
-    <sub-title>The Wedding of the Season</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Josh and Jung are planning the most over-the-top wedding of the season.</desc>
-    <date>20091009</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/38bedcd42045ed0d52009222defa2569.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111123448 +0000" stop="20251111130018 +0000">
+    <title>I Found the Gown</title>
+    <sub-title>Saved by the Gown</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>A bargain hunter looks for the perfect polka dot dress for a farm wedding.</desc>
+    <date>20120914</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/47fcb1ba7b4533c08a9f6ab90a430fcc.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110150756 +0000" stop="20251110155731 +0000">
-    <title>Wedded to Perfection</title>
-    <sub-title>Under the Wire Wedding</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111130018 +0000" stop="20251111132351 +0000">
+    <title>I Found the Gown</title>
+    <sub-title>Brides with a Vision</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Rick and Leslie disagree over a gown on a shopping trip in New Hampshire.</desc>
+    <date>20120831</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c6a891d267bba12e0642c6ef128fcbca.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111132351 +0000" stop="20251111134924 +0000">
+    <title>I Found the Gown</title>
+    <sub-title>VOWS to the Rescue!</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
-    <desc>A couple wants Fete to design an outdoor wedding in just three weeks.</desc>
-    <date>20091016</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ace41956caad1b18f53c5b2ed33cfec4.jpg" />
+    <desc>Rick and Leslie hit the jackpot at the Paloma Blanca Factory in Toronto.</desc>
+    <date>20120831</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3d51ec9fb2d0a3fe268790d3e1c7b14c.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110155731 +0000" stop="20251110162304 +0000">
-    <title>Wedded to Perfection</title>
-    <sub-title>Here Comes the Groom</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111134924 +0000" stop="20251111141257 +0000">
+    <title>I Found the Gown</title>
+    <sub-title>Big Opinions, Low Budgets</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>A bride with an opinionated family has a tough time choosing a gown.</desc>
+    <date>20120914</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/352a8ae00d32862e187f3cb4bf47f248.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111141257 +0000" stop="20251111143830 +0000">
+    <title>I Found the Gown</title>
+    <sub-title>Persistence Makes Perfect</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Three brides come to VOWS hoping to find the wedding dress of their dreams!</desc>
+    <date>20120824</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d5e4be1abc560fa80d8730870929a950.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111143830 +0000" stop="20251111150402 +0000">
+    <title>I Found the Gown</title>
+    <sub-title>Grandma Approved Gowns</sub-title>
     <episode-num system="onscreen">S01E04</episode-num>
-    <desc>A couple need everything to be exactly right at their wedding.</desc>
-    <date>20100301</date>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/ec012e1e5d30c98a733143728783e272.jpg" />
+    <desc>A fashionista is determined to find the perfect dress on her $1,500 budget.</desc>
+    <date>20120907</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d9728c0c18d121a807a259f08fc55c27.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110162304 +0000" stop="20251110171339 +0000">
-    <title>My Big Fat American Gypsy Wedding</title>
-    <sub-title>Gorger Parents Fight Back</sub-title>
-    <episode-num system="onscreen">S06E06</episode-num>
-    <desc>A disapproving mom threatens to wreak havoc on a couple's wedding day.</desc>
-    <date>20181125</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/86dd53893708b22bc8add7ccc6765a7c.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111150402 +0000" stop="20251111152705 +0000">
+    <title>Something Borrowed, Something New</title>
+    <sub-title>Southern Barbie Bride</sub-title>
+    <episode-num system="onscreen">S03E03</episode-num>
+    <desc>A Southern bride's simple style clashes with her mom's big love of bling.</desc>
+    <date>20141017</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BODAzOTQxNzY1MV5BMl5BanBnXkFtZTgwNTMyMzY4NDE@._V1_.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110171339 +0000" stop="20251110180415 +0000">
-    <title>My Big Fat American Gypsy Wedding</title>
-    <sub-title>Not Marrying a Jailbird!</sub-title>
-    <episode-num system="onscreen">S06E04</episode-num>
-    <desc>Jett and Bubba rush to get married, but her mom seeks to end the union.</desc>
-    <date>20181111</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/faee7138d43af9b3bfc5794c987ebd93.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111152705 +0000" stop="20251111155022 +0000">
+    <title>Something Borrowed, Something New</title>
+    <sub-title>Bling vs. Sibling</sub-title>
+    <episode-num system="onscreen">S03E19</episode-num>
+    <desc>Sisters are both getting married and want to wear their mom's dress.</desc>
+    <date>20141219</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/704fa3417acf5645481e6eb18cc6d618.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110180415 +0000" stop="20251110185249 +0000">
-    <title>My Big Fat American Gypsy Wedding</title>
-    <sub-title>Don't Marry Ex-husbands</sub-title>
-    <episode-num system="onscreen">S06E07</episode-num>
-    <desc>Karen's sister and mom refuse to let her marry her sister's ex-husband.</desc>
-    <date>20181209</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/092a8628d64dceedaf20015c328e02d1.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111155022 +0000" stop="20251111161326 +0000">
+    <title>Something Borrowed, Something New</title>
+    <sub-title>Bride Gone Wild</sub-title>
+    <episode-num system="onscreen">S03E02</episode-num>
+    <desc>A tomboy bride wants a dress that she can play football in.</desc>
+    <date>20141010</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTUxMzExMTU0MV5BMl5BanBnXkFtZTgwNTg2NjkzMzE@._V1_.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110185249 +0000" stop="20251110194323 +0000">
-    <title>My Big Fat American Gypsy Wedding</title>
-    <sub-title>Gypsy-Gorger Love Triangle</sub-title>
-    <episode-num system="onscreen">S06E01</episode-num>
-    <desc>Cearia is trapped in a love triangle with her non-gypsy fiance and cousin.</desc>
-    <date>20181021</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/dd827dc3d13f59533c38119739a823f7.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111161326 +0000" stop="20251111163629 +0000">
+    <title>Something Borrowed, Something New</title>
+    <sub-title>Damn You, Sexy Dress!</sub-title>
+    <episode-num system="onscreen">S03E14</episode-num>
+    <desc>A Latina bride wants to sparkle on her wedding day.</desc>
+    <date>20141128</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjI1NDQzMTA4NV5BMl5BanBnXkFtZTgwMzMyMzY4NDE@._V1_.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110194323 +0000" stop="20251110203157 +0000">
-    <title>My Big Fat American Gypsy Wedding</title>
-    <sub-title>You're Getting Married</sub-title>
-    <episode-num system="onscreen">S06E03</episode-num>
-    <desc>Nukkie and Jonas' wedding may be in jeopardy when an ex re-emerges.</desc>
-    <date>20181104</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/64e92baa8b91eda44edf0bfdeea888e3.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111163629 +0000" stop="20251111165832 +0000">
+    <title>Something Borrowed, Something New</title>
+    <sub-title>My Big Fat Persian Wedding</sub-title>
+    <episode-num system="onscreen">S03E17</episode-num>
+    <desc>A bride needs a dress that blows away guests at her grand Persian wedding.</desc>
+    <date>20141212</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTYzODc3MjM5Nl5BMl5BanBnXkFtZTgwMDU4NTg4NDE@._V1_.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110203157 +0000" stop="20251110212030 +0000">
-    <title>My Big Fat American Gypsy Wedding</title>
-    <sub-title>Gypsy Sisters Bridal Brawl</sub-title>
-    <episode-num system="onscreen">S06E02</episode-num>
-    <desc>The Stanley family returns and Nukkie is engaged to a gorger.</desc>
-    <date>20181028</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b24e55514e6174f1ad62030f9108ff31.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111165832 +0000" stop="20251111172135 +0000">
+    <title>Something Borrowed, Something New</title>
+    <sub-title>The Not-So-Princess Bride</sub-title>
+    <episode-num system="onscreen">S03E20</episode-num>
+    <desc>An actress bride who plays a Disney princess wants a dress unique to her.</desc>
+    <date>20141219</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjU4NDEwNDQ0OF5BMl5BanBnXkFtZTgwMDA3NDQ4NDE@._V1_.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110212030 +0000" stop="20251110220904 +0000">
-    <title>My Big Fat American Gypsy Wedding</title>
-    <sub-title>Reverse the Gypsy Curse</sub-title>
-    <episode-num system="onscreen">S06E08</episode-num>
-    <desc>Brittany plans a gypsy funeral for her late father to reverse their curse.</desc>
-    <date>20181202</date>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c0eae482359ef908ea17d1ac77964039.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111172135 +0000" stop="20251111174436 +0000">
+    <title>Something Borrowed, Something New</title>
+    <sub-title>I'm Not a Frumpy Milkmaid!</sub-title>
+    <episode-num system="onscreen">S03E12</episode-num>
+    <desc>A bride planning a 1950s wedding isn't sure about her mom's 1980s dress.</desc>
+    <date>20141121</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTgzMDk4NjgxNV5BMl5BanBnXkFtZTgwMzc5MzU4NDE@._V1_.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110220904 +0000" stop="20251110225734 +0000">
-    <title>My Big Fat American Gypsy Wedding</title>
-    <sub-title>After Rain Comes the Rainbow</sub-title>
-    <episode-num system="onscreen">S06E05</episode-num>
-    <desc>Samantha can't wait to marry her fiancee, but her sister may ruin the day.</desc>
-    <date>20181118</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/73621d5dfdd565202370e9a471937916.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111174436 +0000" stop="20251111180738 +0000">
+    <title>Something Borrowed, Something New</title>
+    <sub-title>Here Comes the Groom</sub-title>
+    <episode-num system="onscreen">S03E18</episode-num>
+    <desc>A bride brings her fiance to shop for her wedding dress.</desc>
+    <date>20141212</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNjU0NDE4MzE1NV5BMl5BanBnXkFtZTgwNDA4MTk3NDE@._V1_.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110225734 +0000" stop="20251110234808 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111180738 +0000" stop="20251111183040 +0000">
+    <title>Something Borrowed, Something New</title>
+    <sub-title>Fashion or Family?</sub-title>
+    <episode-num system="onscreen">S03E04</episode-num>
+    <desc>An opinionated bride has her heart set on a jaw-dropping wedding dress.</desc>
+    <date>20141017</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTg1MzgyMzUxMV5BMl5BanBnXkFtZTgwNzM0NDM5MzE@._V1_.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111183040 +0000" stop="20251111185346 +0000">
+    <title>Something Borrowed, Something New</title>
+    <sub-title>Active Duty to Bridal Beauty</sub-title>
+    <episode-num system="onscreen">S03E06</episode-num>
+    <desc>A soldier not used to wearing dresses struggles to find her wedding gown.</desc>
+    <date>20141024</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTQ3MzcyODI0Ml5BMl5BanBnXkFtZTgwMzI4MjY4NDE@._V1_.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111185346 +0000" stop="20251111191649 +0000">
+    <title>Something Borrowed, Something New</title>
+    <sub-title>From Yee-haw to Va-va-voom!</sub-title>
+    <episode-num system="onscreen">S03E11</episode-num>
+    <desc>A bride is skeptical about her mom's dress, which comes with a cowboy hat.</desc>
+    <date>20141121</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMzI2MzI1ODQ3Ml5BMl5BanBnXkFtZTgwNzMyMzY4NDE@._V1_.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111191649 +0000" stop="20251111193951 +0000">
+    <title>Something Borrowed, Something New</title>
+    <sub-title>Beauty and the Beach</sub-title>
+    <episode-num system="onscreen">S03E07</episode-num>
+    <desc>A bride considers honoring her mom at her Hawaiian beach wedding.</desc>
+    <date>20141107</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjEzOTM1MjkwOV5BMl5BanBnXkFtZTgwMzk4Mjk3NDE@._V1_.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111193951 +0000" stop="20251111200253 +0000">
+    <title>Something Borrowed, Something New</title>
+    <sub-title>Love on a List</sub-title>
+    <episode-num system="onscreen">S03E16</episode-num>
+    <desc>Mom's flashy dress isn't on the wedding to-do list for a Type A bride.</desc>
+    <date>20141205</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTU0MTk1MDAxMF5BMl5BanBnXkFtZTgwNDc5MzU4NDE@._V1_.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111200253 +0000" stop="20251111202556 +0000">
+    <title>Something Borrowed, Something New</title>
+    <sub-title>Wedding Belles</sub-title>
+    <episode-num system="onscreen">S03E08</episode-num>
+    <desc>A Southern bride wants a wedding dress to rival Kate Middleton's.</desc>
+    <date>20141107</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTkxMjM1MzI5MF5BMl5BanBnXkFtZTgwNjE4MjY4NDE@._V1_.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111202556 +0000" stop="20251111204859 +0000">
+    <title>Something Borrowed, Something New</title>
+    <sub-title>Bridal Muscle Show</sub-title>
+    <episode-num system="onscreen">S03E15</episode-num>
+    <desc>An amateur body builder wants a wedding dress that shows off her physique.</desc>
+    <date>20141205</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTE0MDU1MDUzMzNeQTJeQWpwZ15BbWU4MDE1ODU4ODQx._V1_.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111204859 +0000" stop="20251111211203 +0000">
+    <title>Something Borrowed, Something New</title>
+    <sub-title>Buried in This Dress</sub-title>
+    <episode-num system="onscreen">S03E10</episode-num>
+    <desc>A bride wants a glam gown to match her regal venue.</desc>
+    <date>20141114</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTU5MjYyNzkyMV5BMl5BanBnXkFtZTgwMjMzMjU5NDE@._V1_.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111211203 +0000" stop="20251111213504 +0000">
+    <title>Something Borrowed, Something New</title>
+    <sub-title>Tiny Bride, Big Problems</sub-title>
+    <episode-num system="onscreen">S03E13</episode-num>
+    <desc>A petite bride is sentimental about Mom's gown but has high expectations.</desc>
+    <date>20141128</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTUyNTU5NDA2NF5BMl5BanBnXkFtZTgwNzE4MjY4NDE@._V1_.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111213504 +0000" stop="20251111215807 +0000">
+    <title>Something Borrowed, Something New</title>
+    <sub-title>Something Kelly!</sub-title>
+    <episode-num system="onscreen">S03E01</episode-num>
+    <desc>Designer Kelly is getting married and shocks Sam, who's eager to help.</desc>
+    <date>20141010</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BODgwOTk3MDkwMF5BMl5BanBnXkFtZTgwNjYxNDM5MzE@._V1_.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111215807 +0000" stop="20251111222109 +0000">
+    <title>Something Borrowed, Something New</title>
+    <sub-title>Bride of Liberace</sub-title>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <desc>A bubbly bride wants a dress that fits her theme, and her mom's doesn't.</desc>
+    <date>20141024</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNzYxODE2MzI0Ml5BMl5BanBnXkFtZTgwNTk4Mjk3NDE@._V1_.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111222109 +0000" stop="20251111224412 +0000">
+    <title>Something Borrowed, Something New</title>
+    <sub-title>Country Cotton to Beachy Bling</sub-title>
+    <episode-num system="onscreen">S03E09</episode-num>
+    <desc>A bride searches for the beachy ball gown of her dreams.</desc>
+    <date>20141114</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZmFmODllNDYtNzkyNi00ZmQ5LWIyMmYtZThhMzE3MzJhNzFjXkEyXkFqcGc@._V1_.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111224412 +0000" stop="20251111233202 +0000">
     <title>Randy to the Rescue</title>
-    <sub-title>San Diego</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>In San Diego, Randy finds a gown to flaunt bride Megan's newly slim figure.</desc>
-    <date>20120622</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/8450747f6a4cfd19e43c37d1853cd41a.jpg" />
+    <sub-title>Los Angeles</sub-title>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <desc>A bridal magazine publisher wants a dress unlike any she's seen before.</desc>
+    <date>20130530</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7d8bda84e33c548444a2a5f0b25cd6cf.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251110234808 +0000" stop="20251111003842 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251111233202 +0000" stop="20251112002036 +0000">
     <title>Randy to the Rescue</title>
-    <sub-title>New Orleans</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Randy heads home to New Orleans to help a bride tone down her taste.</desc>
-    <date>20120629</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/8feff30b40480b5c228899123a9b4571.jpg" />
+    <sub-title>Oklahoma City</sub-title>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <desc>A cheerleader wants a runway gown that fits her carnival-themed reception.</desc>
+    <date>20130607</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/212b2297236e0963a2f5810abe123a9e.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251112002036 +0000" stop="20251112010911 +0000">
+    <title>Randy to the Rescue</title>
+    <sub-title>Seattle</sub-title>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <desc>A petite bride wants a sexy dress that makes a statement and has pizzazz.</desc>
+    <date>20130628</date>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/500aab862054161aa5fa6e9f7733096a.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66a1b02777649467da169f14" start="20251112010911 +0000" stop="20251112015746 +0000">
+    <title>Randy to the Rescue</title>
+    <sub-title>Miami</sub-title>
+    <episode-num system="onscreen">S02E10</episode-num>
+    <desc>Randy helps a tall bride find a dress that won't overpower her fiance.</desc>
+    <date>20130802</date>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b322e6afd26964f505866c9c067afd92.jpg" />
   </programme>
   
 </tv>
