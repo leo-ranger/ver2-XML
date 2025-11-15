@@ -5,15 +5,87 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/e6aa815f-b99d-4267-8482-7d16b83a9e78/PBS_Travel_Logo_Stacked_WhiteBlue_-_Danielle_HarrisonRDX.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251113235026 +0000" stop="20251114005431 +0000">
-    <title>Rick Steves' European Christmas</title>
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115001134 +0000" stop="20251115003929 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Naples and Pompeii</sub-title>
+    <episode-num system="onscreen">S04E04</episode-num>
+    <desc>Rick visits Naples dodging Vespas in the crazy traffic and embracing Italy in the extreme.</desc>
+    <date>20061028</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S4_RSE404V_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115003929 +0000" stop="20251115010723 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Italy's Amalfi Coast</sub-title>
+    <episode-num system="onscreen">S04E05</episode-num>
+    <desc>We visit the Amalfi Coast: Positano, Sorrento, Paestum and the enchanting Isle of Capri.</desc>
+    <date>20061104</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S4_RSE405V_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115010723 +0000" stop="20251115013518 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Milan and Lake Como</sub-title>
+    <episode-num system="onscreen">S04E06</episode-num>
+    <desc>We tour Milano and side trip to Lake Como exploring the towns of Varenna and Bellagio.</desc>
+    <date>20061111</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S4_RSE406V_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115013518 +0000" stop="20251115020313 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Tuscany's Dolce Vita</sub-title>
+    <episode-num system="onscreen">S04E07</episode-num>
+    <desc>In Tuscany, we enjoy a mix of hearty cuisine, fascinating history and gentle beauty.</desc>
+    <date>20061118</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S4_RSE407V_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115020313 +0000" stop="20251115023107 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Italy's Great Hill Towns</sub-title>
+    <episode-num system="onscreen">S04E08</episode-num>
+    <desc>From San Gimignano to Civita di Bagnoregio, Rick explores Italy's classic hill towns.</desc>
+    <date>20061125</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S4_RSE408V_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115023107 +0000" stop="20251115025902 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Vienna</sub-title>
+    <episode-num system="onscreen">S04E09</episode-num>
+    <desc>We enjoy good living and Europe's finest chocolate cake in the elegant capital of Austria.</desc>
+    <date>20061202</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S4_RSE409V_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115025902 +0000" stop="20251115032656 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Salzburg and Surroundings</sub-title>
+    <episode-num system="onscreen">S04E10</episode-num>
+    <desc>Visit charming Salzburg, then side trip to Lake Hallstatt and the town by the same name.</desc>
+    <date>20061209</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S4_RSE410V_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115032656 +0000" stop="20251115035450 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>The Making Of</sub-title>
+    <episode-num system="onscreen">S04E11</episode-num>
+    <desc>Take a peek behind the scenes as Rick and his crew make an episode of his TV show.</desc>
+    <date>20061216</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S4_RSE411V_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115035450 +0000" stop="20251115050000 +0000">
+    <title>Rick Steves' Best of the Alps</title>
     <category>Movie</category>
-    <desc>We explore the rich and fascinating mix of Christmas traditions across Europe.</desc>
-    <date>20151122</date>
+    <desc>Rick travels from Italy to Austria to Switzerland to France for an epic alpine adventure.</desc>
+    <date>20210627</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/e27fb5e2-8b6d-48b3-844e-fdacbecf5803/PBSTravel_2000x3000_poster_-_Danielle_Harrison.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114005431 +0000" stop="20251114012354 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115050000 +0000" stop="20251115052705 +0000">
     <title>Rick Steves' Europe</title>
     <sub-title>Western Turkey</sub-title>
     <episode-num system="onscreen">S08E01</episode-num>
@@ -22,7 +94,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S8_RSE801V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114012354 +0000" stop="20251114015315 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115052705 +0000" stop="20251115055627 +0000">
     <title>Rick Steves' Europe</title>
     <sub-title>Central Turkey</sub-title>
     <episode-num system="onscreen">S08E02</episode-num>
@@ -31,7 +103,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S8_RSE802V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114015315 +0000" stop="20251114022239 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115055627 +0000" stop="20251115062550 +0000">
     <title>Rick Steves' Europe</title>
     <sub-title>France's Loire: Château Country</sub-title>
     <episode-num system="onscreen">S08E03</episode-num>
@@ -40,7 +112,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S8_RSE803V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114022239 +0000" stop="20251114025203 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115062550 +0000" stop="20251115065514 +0000">
     <title>Rick Steves' Europe</title>
     <sub-title>Paris Side-Trips</sub-title>
     <episode-num system="onscreen">S08E04</episode-num>
@@ -49,7 +121,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S8_RSE804V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114025203 +0000" stop="20251114032305 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115065514 +0000" stop="20251115072616 +0000">
     <title>Rick Steves' Europe</title>
     <sub-title>The Best of Israel</sub-title>
     <episode-num system="onscreen">S08E05</episode-num>
@@ -58,7 +130,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S8_RSE805V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114032305 +0000" stop="20251114035409 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115072616 +0000" stop="20251115075721 +0000">
     <title>Rick Steves' Europe</title>
     <sub-title>Palestine</sub-title>
     <episode-num system="onscreen">S08E06</episode-num>
@@ -67,7 +139,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S8_RSE806V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114035409 +0000" stop="20251114042332 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115075721 +0000" stop="20251115082644 +0000">
     <title>Rick Steves' Europe</title>
     <sub-title>Italy's Riviera: Cinque Terre</sub-title>
     <episode-num system="onscreen">S08E07</episode-num>
@@ -76,7 +148,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S8_RSE807V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114042332 +0000" stop="20251114045256 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115082644 +0000" stop="20251115085607 +0000">
     <title>Rick Steves' Europe</title>
     <sub-title>Italy's Veneto: Verona, Padua, and Ravenna</sub-title>
     <episode-num system="onscreen">S08E08</episode-num>
@@ -85,7 +157,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S8_RSE808V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114045256 +0000" stop="20251114050000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115085607 +0000" stop="20251115092529 +0000">
     <title>Rick Steves' Europe</title>
     <sub-title>Amsterdam</sub-title>
     <episode-num system="onscreen">S08E09</episode-num>
@@ -94,319 +166,283 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S8_RSE809V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114050000 +0000" stop="20251114052641 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115092529 +0000" stop="20251115095454 +0000">
     <title>Rick Steves' Europe</title>
-    <sub-title>French Alps and Lyon</sub-title>
-    <episode-num system="onscreen">S11E03</episode-num>
-    <desc>We enjoy Lyon, France's cuisine capital and the high-altitude thrills of the French Alps.</desc>
-    <date>20201029</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S11_RSE1103V_16x9.jpg" />
+    <sub-title>The Netherlands beyond Amsterdam</sub-title>
+    <episode-num system="onscreen">S08E10</episode-num>
+    <desc>By train, bike, and boat, we visit the top Dutch sights outside of Amsterdam.</desc>
+    <date>20141206</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S8_RSE810V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114052641 +0000" stop="20251114055718 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115095454 +0000" stop="20251115102415 +0000">
     <title>Rick Steves' Europe</title>
-    <sub-title>Germany’s Fascist Story</sub-title>
-    <episode-num system="onscreen">S11E04</episode-num>
-    <desc>From Munich to Nürnberg to Berlin, we learn how fascism rose and then fell in Germany.</desc>
-    <date>20201105</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S11_RSE1104V_16x9.jpg" />
+    <sub-title>Prague</sub-title>
+    <episode-num system="onscreen">S08E11</episode-num>
+    <desc>Join Rick as we discover Prague, the best-preserved Baroque city in Central Europe.</desc>
+    <date>20141213</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S8_RSE811V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114055718 +0000" stop="20251114062641 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115102415 +0000" stop="20251115105338 +0000">
     <title>Rick Steves' Europe</title>
-    <sub-title>Egypt’s Cairo</sub-title>
-    <episode-num system="onscreen">S11E05</episode-num>
-    <desc>We visit Cairo, the capital of Egypt and one of the leading cities in the Muslim world.</desc>
-    <date>20201112</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S11_RSE1105V_16x9.jpg" />
+    <sub-title>Berlin</sub-title>
+    <episode-num system="onscreen">S08E12</episode-num>
+    <desc>We rediscover Berlin -- perhaps the fastest changing and most happening city in Europe.</desc>
+    <date>20141220</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S8_RSE812V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114062641 +0000" stop="20251114065718 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115105338 +0000" stop="20251115112302 +0000">
     <title>Rick Steves' Europe</title>
-    <sub-title>Egypt’s Nile, Alexandria, and Luxor</sub-title>
-    <episode-num system="onscreen">S11E06</episode-num>
-    <desc>We explore the Nile Valley's highlights, from Alexandria to Luxor to Abu Simbel.</desc>
-    <date>20201119</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S11_RSE1106V_16x9.jpg" />
+    <sub-title>The Heart of England</sub-title>
+    <episode-num system="onscreen">S10E01</episode-num>
+    <desc>In England we’ll wander through Oxford, Cambridge, Blenheim Palace and Ironbridge Gorge.</desc>
+    <date>20181006</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S10_RSE1001V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114065718 +0000" stop="20251114072712 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115112302 +0000" stop="20251115115226 +0000">
     <title>Rick Steves' Europe</title>
-    <sub-title>Ethiopia: A Development Story</sub-title>
-    <episode-num system="onscreen">S11E07</episode-num>
-    <desc>Rick travels to Ethiopia to learn about extreme poverty and its solutions.</desc>
-    <date>20201126</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S11_RSE1107V_16x9.jpg" />
+    <sub-title>Lisbon</sub-title>
+    <episode-num system="onscreen">S10E02</episode-num>
+    <desc>We'll stroll through Lisbon, then we’ll explore Sintra’s castles and ramparts.</desc>
+    <date>20181013</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S10_RSE1002V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114072712 +0000" stop="20251114075820 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115115226 +0000" stop="20251115122149 +0000">
     <title>Rick Steves' Europe</title>
-    <sub-title>Why We Travel</sub-title>
-    <episode-num system="onscreen">S11E08</episode-num>
-    <desc>We celebrate the rewards of exploring our world and the joys that await those who travel.</desc>
-    <date>20201203</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S11_RSE1108V_16x9.jpg" />
+    <sub-title>Portugal’s Heartland</sub-title>
+    <episode-num system="onscreen">S10E03</episode-num>
+    <desc>Rick explores Nazaré, Coimbra and Porto, and savors tasty port wine along the Douro.</desc>
+    <date>20181020</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S10_RSE1003V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114075820 +0000" stop="20251114082801 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115122149 +0000" stop="20251115125145 +0000">
     <title>Rick Steves' Europe</title>
-    <sub-title>Art of Prehistoric Europe</sub-title>
-    <episode-num system="onscreen">S12E01</episode-num>
-    <desc>We marvel at Stone Age cave paintings, mighty megaliths and mysterious goddesses.</desc>
-    <date>20231001</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S12_RSE1201V_16x9.jpg" />
+    <sub-title>Travel Skills: Cruising</sub-title>
+    <episode-num system="onscreen">S10E04</episode-num>
+    <desc>Rick sets sail to explore the ins and outs and pros and cons of cruising.</desc>
+    <date>20181027</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S10_RSE1004V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114082801 +0000" stop="20251114085746 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115125145 +0000" stop="20251115132107 +0000">
     <title>Rick Steves' Europe</title>
-    <sub-title>Art of Ancient Greece</sub-title>
-    <episode-num system="onscreen">S12E02</episode-num>
-    <desc>We experience ancient Greek art from Golden Age temples to exuberant Winged Victory.</desc>
-    <date>20231008</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S12_RSE1202V_16x9.jpg" />
+    <sub-title>Greek Islands: Santorini, Mykonos, and Rhodes</sub-title>
+    <episode-num system="onscreen">S10E05</episode-num>
+    <desc>We’ll see how cruising can help you travel efficiently to Santorini, Mykonos and Rhodes.</desc>
+    <date>20181103</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S10_RSE1005V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114085746 +0000" stop="20251114092748 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115132107 +0000" stop="20251115135031 +0000">
     <title>Rick Steves' Europe</title>
-    <sub-title>Ancient Roman Art</sub-title>
-    <episode-num system="onscreen">S12E03</episode-num>
-    <desc>We see Rome’s rise in its supersized monuments, colorful mosaics and marble Caesars.</desc>
-    <date>20231015</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S12_RSE1203V_16x9.jpg" />
+    <sub-title>European Festivals I</sub-title>
+    <episode-num system="onscreen">S10E06</episode-num>
+    <desc>Rick takes us to Siena's Palio, Scotland’s Highland Games, Venice's Carnevale and more.</desc>
+    <date>20181110</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S10_RSE1006V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114092748 +0000" stop="20251114095731 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115135031 +0000" stop="20251115141955 +0000">
     <title>Rick Steves' Europe</title>
-    <sub-title>Art of the Roman Empire</sub-title>
-    <episode-num system="onscreen">S12E04</episode-num>
-    <desc>We explore the grand cities of ancient Rome and majestic Christian churches of its fall.</desc>
-    <date>20231022</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S12_RSE1204V_16x9.jpg" />
+    <sub-title>European Festivals II</sub-title>
+    <episode-num system="onscreen">S10E07</episode-num>
+    <desc>We celebrate in Sevilla, Paris, Pamplona, Munich, Nürnberg and the snowy Swiss Alps.</desc>
+    <date>20181117</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S10_RSE1007V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114095731 +0000" stop="20251114102714 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115141955 +0000" stop="20251115144933 +0000">
     <title>Rick Steves' Europe</title>
-    <sub-title>Art of the Early Middle Ages</sub-title>
-    <episode-num system="onscreen">S12E05</episode-num>
-    <desc>Early Europeans produce diverse art: from Christians to Muslims and Byzantines to Vikings.</desc>
-    <date>20231029</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S12_RSE1205V_16x9.jpg" />
+    <sub-title>The Best of Sicily</sub-title>
+    <episode-num system="onscreen">S10E08</episode-num>
+    <desc>We'll enjoy Palermo, Monreale, Agrigento, Taormina and wine on the slopes of Mt. Etna.</desc>
+    <date>20181124</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S10_RSE1008V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114102714 +0000" stop="20251114105715 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115144933 +0000" stop="20251115151856 +0000">
     <title>Rick Steves' Europe</title>
-    <sub-title>Art of the High Middle Ages</sub-title>
-    <episode-num system="onscreen">S12E06</episode-num>
-    <desc>We marvel at soaring Gothic cathedrals, radiant stained glass and imposing castles.</desc>
-    <date>20231105</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S12_RSE1206V_16x9.jpg" />
+    <sub-title>Sicilian Delights</sub-title>
+    <episode-num system="onscreen">S10E09</episode-num>
+    <desc>We'll relax in Cefalù, ponder the ancients in Siracusa and fill up at a Sicilian banquet.</desc>
+    <date>20181128</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S10_RSE1009V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114105715 +0000" stop="20251114112456 +0000">
-    <title>Outside: Beyond the Lens</title>
-    <sub-title>Tampa Bay</sub-title>
-    <episode-num system="onscreen">S04E03</episode-num>
-    <desc>Jeff, Zack and Dave explore Florida’s west coast and hike into the swamps to see wildlife.</desc>
-    <date>20240123</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_OutsideBeyondtheLens_S4_BYL403V_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115151856 +0000" stop="20251115154819 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Scotland's Highlands</sub-title>
+    <episode-num system="onscreen">S10E10</episode-num>
+    <desc>In Scotland, we'll visit Glencoe, Inverness, the Culloden battlefield and Loch Ness.</desc>
+    <date>20181201</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S10_RSE1010V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114112456 +0000" stop="20251114115234 +0000">
-    <title>Outside: Beyond the Lens</title>
-    <sub-title>California Super Bloom 2</sub-title>
-    <episode-num system="onscreen">S04E05</episode-num>
-    <desc>Jeff, Zack and Dave return to the last remaining grassland preserve in the Golden State.</desc>
-    <date>20240206</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_OutsideBeyondtheLens_S4_BYL405V_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115154819 +0000" stop="20251115161743 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Scotland's Islands</sub-title>
+    <episode-num system="onscreen">S10E11</episode-num>
+    <desc>We’ll wander across the Isles of Iona and Skye, then set sail for Orkney.</desc>
+    <date>20181208</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S10_RSE1011V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114115234 +0000" stop="20251114122011 +0000">
-    <title>Outside: Beyond the Lens</title>
-    <sub-title>Places to Love</sub-title>
-    <episode-num system="onscreen">S04E08</episode-num>
-    <desc>In California, Jeff visits Yosemite National Park, goes fishing and stays at his cabin.</desc>
-    <date>20240312</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_OutsideBeyondtheLens_S4_BYL408V_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115161743 +0000" stop="20251115164706 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Glasgow and Scottish Passions</sub-title>
+    <episode-num system="onscreen">S10E12</episode-num>
+    <desc>In Scotland, we'll visit Glasgow, taste whisky, and watch a sheepdog demonstration.</desc>
+    <date>20181222</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S10_RSE1012V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114122011 +0000" stop="20251114124749 +0000">
-    <title>Outside: Beyond the Lens</title>
-    <sub-title>Scotland Part 2</sub-title>
-    <episode-num system="onscreen">S04E10</episode-num>
-    <desc>Jeff, Zack, Dave and Jon visit the Isle of Skye, the Loch Ness, Inverness and more!</desc>
-    <date>20240326</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_OutsideBeyondtheLens_S4_BYL410V_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115164706 +0000" stop="20251115171629 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Western Turkey</sub-title>
+    <episode-num system="onscreen">S08E01</episode-num>
+    <desc>We explore Turkey's unique mix of ancient heritage, Muslim faith and western ways.</desc>
+    <date>20141014</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S8_RSE801V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114124749 +0000" stop="20251114131545 +0000">
-    <title>Outside: Beyond the Lens</title>
-    <sub-title>Grand Canyon: North Rim</sub-title>
-    <episode-num system="onscreen">S04E02</episode-num>
-    <desc>Jeff, Zack and Dave capture rare footage in Grand Canyon National Park’s North Rim.</desc>
-    <date>20240116</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_OutsideBeyondtheLens_S4_BYL402V_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115171629 +0000" stop="20251115174550 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Central Turkey</sub-title>
+    <episode-num system="onscreen">S08E02</episode-num>
+    <desc>We learn about Turkey's complex mix of people and history, where both old and new thrive.</desc>
+    <date>20141011</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S8_RSE802V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114131545 +0000" stop="20251114134324 +0000">
-    <title>Outside: Beyond the Lens</title>
-    <sub-title>Vosges Mountains France</sub-title>
-    <episode-num system="onscreen">S04E01</episode-num>
-    <desc>In Eastern France, the team learns the dark history of the beautiful Vosges Mountains.</desc>
-    <date>20240109</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_OutsideBeyondtheLens_S4_BYL401V_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115174550 +0000" stop="20251115181513 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>France's Loire: Château Country</sub-title>
+    <episode-num system="onscreen">S08E03</episode-num>
+    <desc>In the beautiful French countryside we visit four evocative Loire Valley châteaux.</desc>
+    <date>20141018</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S8_RSE803V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114134324 +0000" stop="20251114141102 +0000">
-    <title>Outside: Beyond the Lens</title>
-    <sub-title>Scotland Part 1</sub-title>
-    <episode-num system="onscreen">S04E09</episode-num>
-    <desc>Jeff and the crew take a 10-day road trip to Glasgow, Scotland in autumn.</desc>
-    <date>20240319</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_OutsideBeyondtheLens_S4_BYL409V_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115181513 +0000" stop="20251115184437 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Paris Side-Trips</sub-title>
+    <episode-num system="onscreen">S08E04</episode-num>
+    <desc>We visit the historic French  palaces of Versailles, Vaux-le-Vicomte and  Fontainebleau.</desc>
+    <date>20141025</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S8_RSE804V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114141102 +0000" stop="20251114143840 +0000">
-    <title>Outside: Beyond the Lens</title>
-    <sub-title>Italy Family Trip</sub-title>
-    <episode-num system="onscreen">S04E04</episode-num>
-    <desc>Jeff takes his family to northern Italy and sees Milan, Lake Como, Venice and Portofino.</desc>
-    <date>20240130</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_OutsideBeyondtheLens_S4_BYL404V_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115184437 +0000" stop="20251115191540 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>The Best of Israel</sub-title>
+    <episode-num system="onscreen">S08E05</episode-num>
+    <desc>Join Rick as he takes us beyond Europe to a fascinating range of sights in Israel.</desc>
+    <date>20141101</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S8_RSE805V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114143840 +0000" stop="20251114150618 +0000">
-    <title>Outside: Beyond the Lens</title>
-    <sub-title>Return to Switzerland</sub-title>
-    <episode-num system="onscreen">S04E07</episode-num>
-    <desc>Jeff and the team go to Basel, Switzerland to see amazing architecture and art museums.</desc>
-    <date>20240220</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_OutsideBeyondtheLens_S4_BYL407V_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115191540 +0000" stop="20251115194644 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Palestine</sub-title>
+    <episode-num system="onscreen">S08E06</episode-num>
+    <desc>Rick visits the West Bank to explore the rich and fascinating heritage of Palestine.</desc>
+    <date>20141108</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S8_RSE806V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114150618 +0000" stop="20251114153355 +0000">
-    <title>Outside: Beyond the Lens</title>
-    <sub-title>High Sierra Sailing</sub-title>
-    <episode-num system="onscreen">S04E06</episode-num>
-    <desc>Jon, Jeff, Zack and Dave discover the secrets of Huntington Lake in the Sierra Nevada.</desc>
-    <date>20240213</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_OutsideBeyondtheLens_S4_BYL406V_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115194644 +0000" stop="20251115201607 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Italy's Riviera: Cinque Terre</sub-title>
+    <episode-num system="onscreen">S08E07</episode-num>
+    <desc>We explore the Cinque Terre, Italy's most remote and romantic stretch of Riviera.</desc>
+    <date>20141115</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S8_RSE807V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114153355 +0000" stop="20251114160324 +0000">
-    <title>Real Road Adventures with Jeff Wilson</title>
-    <sub-title>Zurich</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>In Zurich, Jeff takes a bike tour, feasts on vegan food and visits an innovative company.</desc>
-    <date>20220227</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RealRoadAdventureswithJeffWilson_S1_REL101V_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115201607 +0000" stop="20251115204530 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Italy's Veneto: Verona, Padua, and Ravenna</sub-title>
+    <episode-num system="onscreen">S08E08</episode-num>
+    <desc>We discover the distinctive cuisine, history and sumptuous art of Italy's Veneto area.</desc>
+    <date>20141122</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S8_RSE808V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114160324 +0000" stop="20251114163253 +0000">
-    <title>Real Road Adventures with Jeff Wilson</title>
-    <sub-title>Jungfrau Region</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>In Switzerland’s Jungfrau region, Jeff ziplines, sees a castle and makes chocolate.</desc>
-    <date>20220430</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RealRoadAdventureswithJeffWilson_S1_REL104V_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115204530 +0000" stop="20251115211453 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Amsterdam</sub-title>
+    <episode-num system="onscreen">S08E09</episode-num>
+    <desc>Amsterdam is filled with history, uniquely entertaining, and a delight to explore.</desc>
+    <date>20141129</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S8_RSE809V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114163253 +0000" stop="20251114170222 +0000">
-    <title>Real Road Adventures with Jeff Wilson</title>
-    <sub-title>Liechtenstein</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Jeff sees the Liechtenstein Trail, learns about woodcarving and visits an innovative farm.</desc>
-    <date>20220529</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RealRoadAdventureswithJeffWilson_S1_REL106V_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115211453 +0000" stop="20251115214417 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>The Netherlands beyond Amsterdam</sub-title>
+    <episode-num system="onscreen">S08E10</episode-num>
+    <desc>By train, bike, and boat, we visit the top Dutch sights outside of Amsterdam.</desc>
+    <date>20141206</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S8_RSE810V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114170222 +0000" stop="20251114173151 +0000">
-    <title>Real Road Adventures with Jeff Wilson</title>
-    <sub-title>Lake Geneva Region</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>In the Lake Geneva region, Jeff visits Roman ruins, sees butterflies and bikes.</desc>
-    <date>20220522</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RealRoadAdventureswithJeffWilson_S1_REL105V_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115214417 +0000" stop="20251115221339 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Prague</sub-title>
+    <episode-num system="onscreen">S08E11</episode-num>
+    <desc>Join Rick as we discover Prague, the best-preserved Baroque city in Central Europe.</desc>
+    <date>20141213</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S8_RSE811V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114173151 +0000" stop="20251114180118 +0000">
-    <title>Real Road Adventures with Jeff Wilson</title>
-    <sub-title>Schilthorn and Matterhorn Regions</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>In Schilthorn and Matterhorn, Jeff rides cable cars, trains and bikes for mountain views.</desc>
-    <date>20220417</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RealRoadAdventureswithJeffWilson_S1_REL103V_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115221339 +0000" stop="20251115224301 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Berlin</sub-title>
+    <episode-num system="onscreen">S08E12</episode-num>
+    <desc>We rediscover Berlin -- perhaps the fastest changing and most happening city in Europe.</desc>
+    <date>20141220</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S8_RSE812V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114180118 +0000" stop="20251114190133 +0000">
-    <title>Big Pacific</title>
-    <sub-title>Passionate</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>In the Pacific, the quest to multiply has spawned a stunning array of unusual behaviors.</desc>
-    <date>20170712</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_BigPacific_S1_BPA104V_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115224301 +0000" stop="20251115231225 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>The Heart of England</sub-title>
+    <episode-num system="onscreen">S10E01</episode-num>
+    <desc>In England we’ll wander through Oxford, Cambridge, Blenheim Palace and Ironbridge Gorge.</desc>
+    <date>20181006</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S10_RSE1001V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114190133 +0000" stop="20251114200147 +0000">
-    <title>Big Pacific</title>
-    <sub-title>Mysterious</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>We yearn to unravel the mysterious Pacific but she does not give up her secrets willingly.</desc>
-    <date>20170621</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_BigPacific_S1_BPA101V_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115231225 +0000" stop="20251115234149 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Lisbon</sub-title>
+    <episode-num system="onscreen">S10E02</episode-num>
+    <desc>We'll stroll through Lisbon, then we’ll explore Sintra’s castles and ramparts.</desc>
+    <date>20181013</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S10_RSE1002V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114200147 +0000" stop="20251114210201 +0000">
-    <title>Big Pacific</title>
-    <sub-title>Voracious</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>The challenge of finding food drives all life in the Pacific.</desc>
-    <date>20170705</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_BigPacific_S1_BPA103V_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251115234149 +0000" stop="20251116001112 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Portugal’s Heartland</sub-title>
+    <episode-num system="onscreen">S10E03</episode-num>
+    <desc>Rick explores Nazaré, Coimbra and Porto, and savors tasty port wine along the Douro.</desc>
+    <date>20181020</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S10_RSE1003V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114210201 +0000" stop="20251114220215 +0000">
-    <title>Big Pacific</title>
-    <sub-title>Behind the Scenes</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Follow the adventures of the filmmakers behind Big Pacific.</desc>
-    <date>20170719</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_BigPacific_S1_BPA105V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114220215 +0000" stop="20251114230230 +0000">
-    <title>Big Pacific</title>
-    <sub-title>Violent</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Those that live in the Pacific must choose whether to avoid conflict or rise to meet it.</desc>
-    <date>20170628</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_BigPacific_S1_BPA102V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114230230 +0000" stop="20251114233011 +0000">
-    <title>Outside: Beyond the Lens</title>
-    <sub-title>Tampa Bay</sub-title>
-    <episode-num system="onscreen">S04E03</episode-num>
-    <desc>Jeff, Zack and Dave explore Florida’s west coast and hike into the swamps to see wildlife.</desc>
-    <date>20240123</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_OutsideBeyondtheLens_S4_BYL403V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114233011 +0000" stop="20251114235748 +0000">
-    <title>Outside: Beyond the Lens</title>
-    <sub-title>California Super Bloom 2</sub-title>
-    <episode-num system="onscreen">S04E05</episode-num>
-    <desc>Jeff, Zack and Dave return to the last remaining grassland preserve in the Golden State.</desc>
-    <date>20240206</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_OutsideBeyondtheLens_S4_BYL405V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251114235748 +0000" stop="20251115002526 +0000">
-    <title>Outside: Beyond the Lens</title>
-    <sub-title>Places to Love</sub-title>
-    <episode-num system="onscreen">S04E08</episode-num>
-    <desc>In California, Jeff visits Yosemite National Park, goes fishing and stays at his cabin.</desc>
-    <date>20240312</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_OutsideBeyondtheLens_S4_BYL408V_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20251116001112 +0000" stop="20251116004108 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Travel Skills: Cruising</sub-title>
+    <episode-num system="onscreen">S10E04</episode-num>
+    <desc>Rick sets sail to explore the ins and outs and pros and cons of cruising.</desc>
+    <date>20181027</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S10_RSE1004V_16x9.jpg" />
   </programme>
   
 </tv>
