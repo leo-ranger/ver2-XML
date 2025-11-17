@@ -5,70 +5,186 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/d5d8caa9-6a26-480b-b990-c4ea65b27e30/PBS_Food_Logo_Dark_1500x1000_-_Antonio_de_la_Torre__Tony_.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116000404 +0000" stop="20251116003307 +0000">
-    <title>The Complete Pépin</title>
-    <sub-title>Preparing Chicken</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116231937 +0000" stop="20251117002334 +0000">
+    <title>Lidia Celebrates America: Life's Milestones</title>
+    <category>Movie</category>
+    <desc>Lidia celebrates commencements, baptisms, house blessings and Sweet Sixteens.</desc>
+    <date>20140121</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_LidiaCelebratesAmerica-LifesMilestones_2000x3000.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117002334 +0000" stop="20251117005154 +0000">
+    <title>Weekends with Yankee</title>
+    <sub-title>At the Shore</sub-title>
+    <episode-num system="onscreen">S03E09</episode-num>
+    <desc>Nantucket with author Elin Hilderbrand. Tagging great white sharks. The Chatham Bars Inn.</desc>
+    <date>20190601</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BN2VjMjVmYjMtYmQ2My00MTRkLThmNjYtYWFlZmE1YmI4ODVlXkEyXkFqcGc@._V1_.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117005154 +0000" stop="20251117012015 +0000">
+    <title>Weekends with Yankee</title>
+    <sub-title>Adventures in New England</sub-title>
+    <episode-num system="onscreen">S03E10</episode-num>
+    <desc>Sail on a tall ship. Hot air balloon ride. The Lost Kitchen. Dune tour in Provincetown.</desc>
+    <date>20190608</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMzg5YWUzNWQtZTdiYS00MzdhLWJlZDEtZTQ0ZDc3NjIzZmU4XkEyXkFqcGc@._V1_.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117012015 +0000" stop="20251117014835 +0000">
+    <title>Weekends with Yankee</title>
+    <sub-title>The Seacoast</sub-title>
+    <episode-num system="onscreen">S03E11</episode-num>
+    <desc>Classic blueberry pie. Iconic New England lighthouses. Surfing in Narragansett Bay.</desc>
+    <date>20190615</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZmEyN2QxMjAtZTBhYy00YmU4LWFhYWItYjY4OWVkOTUzNzk1XkEyXkFqcGc@._V1_.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117014835 +0000" stop="20251117021446 +0000">
+    <title>Weekends with Yankee</title>
+    <sub-title>Fall in New England</sub-title>
+    <episode-num system="onscreen">S03E12</episode-num>
+    <desc>Poverty Lane Orchards. Jenne Farm. The Kancamagus Highway. Annual cranberry harvest.</desc>
+    <date>20190622</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOTgwNjYzM2YtZGM2Yy00MGFmLTkzZWEtYzFlMmZhZmQ0MGU0XkEyXkFqcGc@._V1_.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117021446 +0000" stop="20251117024307 +0000">
+    <title>Weekends with Yankee</title>
+    <sub-title>Winter Wonderland</sub-title>
+    <episode-num system="onscreen">S03E13</episode-num>
+    <desc>Longest skating trail. The Inn at Hastings Park. X-C trails at the Ski Touring Center.</desc>
+    <date>20190629</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOTJjMDVlODYtNTZhNS00ODJlLTkwMzYtZGM4ZTVmYjY4ZGVjXkEyXkFqcGc@._V1_.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117024307 +0000" stop="20251117034353 +0000">
+    <title>No Passport Required</title>
+    <sub-title>Detroit</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Marcus heads to Detroit and learns more about its culture, history and food.</desc>
+    <date>20180710</date>
+    <icon src="https://artworks.thetvdb.com/banners/episodes/349841/6749974.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117034353 +0000" stop="20251117044344 +0000">
+    <title>No Passport Required</title>
+    <sub-title>New Orleans</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Chef Marcus Samuelsson discovers how Vietnamese residents influenced food in New Orleans.</desc>
+    <date>20180717</date>
+    <icon src="https://artworks.thetvdb.com/banners/episodes/349841/6749975.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117044344 +0000" stop="20251117051215 +0000">
+    <title>A Chef's Life</title>
+    <sub-title>A Casserole Says Plenty</sub-title>
+    <episode-num system="onscreen">S03E07</episode-num>
+    <desc>The Boiler Room welcomes a new manager, much to Ben’s delight.</desc>
+    <date>20151017</date>
+    <icon src="https://image.tmdb.org/t/p/original/uBYQwNP0sP2gdHpb0hF8OUXDO02.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117051215 +0000" stop="20251117054351 +0000">
+    <title>Today's Gourmet</title>
+    <sub-title>My Mother's Favorites</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Garlic Soup with Potatoes and Leeks; Roast Veal; Almond Cake.</desc>
+    <date>20250911</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TodaysGourmet_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117054351 +0000" stop="20251117061434 +0000">
+    <title>Today's Gourmet</title>
+    <sub-title>Mediterranean Flavors</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Tuna Carpaccio; Paella; Figs in Spicy Port Sauce.</desc>
+    <date>20250911</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TodaysGourmet_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117061434 +0000" stop="20251117064519 +0000">
+    <title>Today's Gourmet</title>
+    <sub-title>Nouvelle Cuisine</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Potato Crepes with Caviar; Cabbage Anchoyade; Souffle Cake.</desc>
+    <date>20250911</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TodaysGourmet_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117064519 +0000" stop="20251117071626 +0000">
+    <title>Today's Gourmet</title>
+    <sub-title>A Party Menu</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Leeks in Sauce; Glazed Roast Pork; Sour Cabbage; Shortcake.</desc>
+    <date>20250911</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TodaysGourmet_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117071626 +0000" stop="20251117074728 +0000">
+    <title>Today's Gourmet</title>
+    <sub-title>Cooking Against the Clock</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Spicy Shrimp; Grilled Lamb Chops; Pineapple in Liqueur.</desc>
+    <date>20250911</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TodaysGourmet_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117074728 +0000" stop="20251117081846 +0000">
+    <title>Today's Gourmet</title>
+    <sub-title>Earthy Country Cooking</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Scallion au Gratin; Rabbit Stew; Cornmeal and Gruyere.</desc>
+    <date>20250911</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TodaysGourmet_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117081846 +0000" stop="20251117084944 +0000">
+    <title>Today's Gourmet</title>
+    <sub-title>Bistro Cooking of New York</sub-title>
     <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Preparing chicken for the grill; boning and stuffing chicken; trussing chicken.</desc>
-    <date>20250904</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheCompletePpin_16x9.jpg" />
+    <desc>Sauteed Eggplant; Red Snapper; Light Apple Tart.</desc>
+    <date>20250911</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TodaysGourmet_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116003307 +0000" stop="20251116005858 +0000">
-    <title>The Complete Pépin</title>
-    <sub-title>Gravies, Carving and Wine</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117084944 +0000" stop="20251117092043 +0000">
+    <title>Today's Gourmet</title>
+    <sub-title>A Hearty Supper</sub-title>
     <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Carving a chicken and turkey; making stock and gravy; handling wine and champagne.</desc>
-    <date>20250904</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheCompletePpin_16x9.jpg" />
+    <desc>Clam Croquettes; Pork Loin; Caramelized Apple Timbales.</desc>
+    <date>20250911</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TodaysGourmet_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116005858 +0000" stop="20251116012722 +0000">
-    <title>The Complete Pépin</title>
-    <sub-title>Fruit &amp; Vegetable Decoration</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117092043 +0000" stop="20251117095204 +0000">
+    <title>Today's Gourmet</title>
+    <sub-title>Healthy Gourmet</sub-title>
     <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Vegetable decorations; glazing with aspic; fluting mushrooms; peeling apples and pears.</desc>
-    <date>20250904</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheCompletePpin_16x9.jpg" />
+    <desc>Chicken with Vegetables; Steamed Endives; Cookie Cornucopia.</desc>
+    <date>20250911</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TodaysGourmet_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116012722 +0000" stop="20251116015557 +0000">
-    <title>The Complete Pépin</title>
-    <sub-title>Dessert Essentials I</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117095204 +0000" stop="20251117102341 +0000">
+    <title>Today's Gourmet</title>
+    <sub-title>Potpourri Dinner</sub-title>
     <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Using parchment paper; sugaring souffle molds; making cornets;  piping meringues.</desc>
-    <date>20250904</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheCompletePpin_16x9.jpg" />
+    <desc>Carpaccio; Catfish on Ratatouille; Hazelnut Parfait.</desc>
+    <date>20250911</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TodaysGourmet_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116015557 +0000" stop="20251116022352 +0000">
-    <title>The Complete Pépin</title>
-    <sub-title>Dessert Essentials II</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117102341 +0000" stop="20251117105634 +0000">
+    <title>Today's Gourmet</title>
+    <sub-title>Holiday Traditions</sub-title>
     <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Preparing a tart crust; dipping st</desc>
-    <date>20250904</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheCompletePpin_16x9.jpg" />
+    <desc>Sauteed Scallops; Roast Turkey; Chocolate Truffles.</desc>
+    <date>20250911</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TodaysGourmet_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116022352 +0000" stop="20251116025236 +0000">
-    <title>The Complete Pépin</title>
-    <sub-title>Puff Pastry and Pate a Choux</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Puff pastry; rolling, cutting and making shapes from puff pastry; using pate a choux.</desc>
-    <date>20250904</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheCompletePpin_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116025236 +0000" stop="20251116032143 +0000">
-    <title>The Complete Pépin</title>
-    <sub-title>Buche de Noel and More</sub-title>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <desc>Peppers; peeling and segmenting oranges; pureeing raspberries; Christmas log.</desc>
-    <date>20250904</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheCompletePpin_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116032143 +0000" stop="20251116035032 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117105634 +0000" stop="20251117112523 +0000">
     <title>The Complete Pépin</title>
     <sub-title>Basic Knife Skills</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -77,7 +193,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheCompletePpin_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116035032 +0000" stop="20251116041915 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117112523 +0000" stop="20251117115405 +0000">
     <title>The Complete Pépin</title>
     <sub-title>Vegetables and More</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
@@ -86,7 +202,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheCompletePpin_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116041915 +0000" stop="20251116044551 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117115405 +0000" stop="20251117122242 +0000">
     <title>The Complete Pépin</title>
     <sub-title>Pots, Pans and the Perfect Egg</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
@@ -95,7 +211,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheCompletePpin_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116044551 +0000" stop="20251116051411 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117122242 +0000" stop="20251117125101 +0000">
     <title>The Complete Pépin</title>
     <sub-title>Shellfish</sub-title>
     <episode-num system="onscreen">S01E04</episode-num>
@@ -104,16 +220,84 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheCompletePpin_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116051411 +0000" stop="20251116054247 +0000">
-    <title>A Chef's Life</title>
-    <sub-title>If You Can't Beet 'Em …</sub-title>
-    <episode-num system="onscreen">S03E06</episode-num>
-    <desc>Vivian learns how to make “the best pickled beets she ever ate.”</desc>
-    <date>20151010</date>
-    <icon src="https://image.tmdb.org/t/p/original/46HCaMNIcmKYfNNMKnzOT7catc4.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117125101 +0000" stop="20251117131914 +0000">
+    <title>The Complete Pépin</title>
+    <sub-title>Working with Fish</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Filleting sole and salmon; rolling a paupiette; preparing a gravlax; serving a carpaccio.</desc>
+    <date>20250904</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheCompletePpin_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116054247 +0000" stop="20251116063622 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117131914 +0000" stop="20251117134703 +0000">
+    <title>The Complete Pépin</title>
+    <sub-title>Lamb &amp; Veal</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Trussing lamb; preparing veal steaks; breading veal; preparing Wiener Schnitzel.</desc>
+    <date>20250904</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheCompletePpin_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117134703 +0000" stop="20251117141607 +0000">
+    <title>The Complete Pépin</title>
+    <sub-title>Preparing Chicken</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Preparing chicken for the grill; boning and stuffing chicken; trussing chicken.</desc>
+    <date>20250904</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheCompletePpin_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117141607 +0000" stop="20251117144358 +0000">
+    <title>The Complete Pépin</title>
+    <sub-title>Gravies, Carving and Wine</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Carving a chicken and turkey; making stock and gravy; handling wine and champagne.</desc>
+    <date>20250904</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheCompletePpin_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117144358 +0000" stop="20251117151017 +0000">
+    <title>The Complete Pépin</title>
+    <sub-title>Fruit &amp; Vegetable Decoration</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Vegetable decorations; glazing with aspic; fluting mushrooms; peeling apples and pears.</desc>
+    <date>20250904</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheCompletePpin_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117151017 +0000" stop="20251117160520 +0000">
+    <title>First We Eat</title>
+    <category>Movie</category>
+    <desc>Feeding a family on only food hunted, gathered, grown or raised around the Yukon.</desc>
+    <date>20241101</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_FirstWeEat_2000x3000.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117160520 +0000" stop="20251117170837 +0000">
+    <title>Soul Food Junkies</title>
+    <category>Movie</category>
+    <desc>Learn about soul food’s relevance to black cultural identity.</desc>
+    <date>20120101</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a280e565fc5a830633cda5cee095fb36.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117170837 +0000" stop="20251117181219 +0000">
+    <title>Lidia Celebrates America: Home for the Holidays</title>
+    <category>Movie</category>
+    <desc>Lidia hosts Christopher Walken, Rita Moreno, and others at her holiday table.</desc>
+    <date>20151211</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_LidiaCelebratesAmericaHomefortheHolidays_2000x3000.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117181219 +0000" stop="20251117191611 +0000">
+    <title>Lidia Celebrates America: Holiday Tables &amp; Traditions</title>
+    <category>Movie</category>
+    <desc>Lidia Bastianich shares holiday traditions with four families across America.</desc>
+    <date>20111220</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_LidiaCelebratesAmericaHolidayTablesTraditions_2000x3000.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117191611 +0000" stop="20251117200947 +0000">
     <title>Jacques Pépin: The Art of Craft</title>
     <category>Movie</category>
     <desc>Discover the story of Chef Jacques Pépin, a young immigrant who ushered in a new era in Am</desc>
@@ -121,7 +305,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JacquesPpinTheArtofCraft_2000x3000.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116063622 +0000" stop="20251116073902 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117200947 +0000" stop="20251117211227 +0000">
     <title>A Moveable Feast with America's Favorite Chefs</title>
     <category>Movie</category>
     <desc>Join public television’s most popular chefs at a one-of-a-kind, progressive dinner party.</desc>
@@ -129,169 +313,67 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_AMoveableFeastwithAmericasFavoriteChefs_2000x3000.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116073902 +0000" stop="20251116084333 +0000">
-    <title>Lidia Celebrates America: Return of the Artisans</title>
-    <category>Movie</category>
-    <desc>Lidia meets makers who master the art of meat curing, coopering, jam-making and more.</desc>
-    <date>20191220</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_LidiaCelebratesAmerica-ReturnoftheArtisans_2000x3000.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116084333 +0000" stop="20251116094714 +0000">
-    <title>Lidia Celebrates America: Overcoming the Odds</title>
-    <category>Movie</category>
-    <desc>Lidia shares the inspiring stories of Americans who have overcome extraordinary odds.</desc>
-    <date>20211214</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_LidiaCelebratesAmerica-OvercomingtheOdds_2000x3000.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116094714 +0000" stop="20251116105054 +0000">
-    <title>Lidia Celebrates America: Freedom &amp; Independence</title>
-    <category>Movie</category>
-    <desc>Lidia explores Juneteenth, Bastille Day, Fourth of July and Philippines Independence Day.</desc>
-    <date>20130628</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_LidiaCelebratesAmerica-Freedom&amp;Independence_2000x3000.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116105054 +0000" stop="20251116115131 +0000">
-    <title>Somewhere South</title>
-    <sub-title>What a Pickle</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Vivian gives a lecture on chow chow, then dives into other pickled dishes.</desc>
-    <date>20200417</date>
-    <icon src="https://artworks.thetvdb.com/banners/series/374498/episodes/5e7e3bdba3a51.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116115131 +0000" stop="20251116125209 +0000">
-    <title>Somewhere South</title>
-    <sub-title>It’s a Greens Thing</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Travel with Vivian from North Carolina to Georgia to learn the goodness greens provide</desc>
-    <date>20200424</date>
-    <icon src="https://artworks.thetvdb.com/banners/series/374498/episodes/5e7e3c03e3eb2.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116125209 +0000" stop="20251116135243 +0000">
-    <title>Somewhere South</title>
-    <sub-title>How Do You ‘Cue?</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Vivian visits Florida and Texas to expand her idea of what barbecue is and how it’s done.</desc>
-    <date>20200501</date>
-    <icon src="https://artworks.thetvdb.com/banners/series/374498/episodes/5e7e3eb8c46c7.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116135243 +0000" stop="20251116145654 +0000">
-    <title>Lidia Celebrates America: A Salute to First Responders</title>
-    <category>Movie</category>
-    <desc>Lidia visits those serving on front lines and observes the role food plays in their lives.</desc>
-    <date>20210212</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_LidiaCelebratesAmerica-ASalutetoFirstResponders_2000x3000.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116145654 +0000" stop="20251116160046 +0000">
-    <title>Lidia Celebrates America: Weddings: Something Borrowed, Something New</title>
-    <category>Movie</category>
-    <desc>From jumping the broom to tying the knot, Lidia celebrates diverse wedding celebrations.</desc>
-    <date>20120417</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_LidiaCelebratesAmerica-SomethingBorrowedSomethingNew_2000x3000.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116160046 +0000" stop="20251116170312 +0000">
-    <title>I'll Have What Phil's Having</title>
-    <sub-title>Italy</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Join Phil as he revisits this food mecca and creates new memories with friends and chefs.</desc>
-    <date>20151005</date>
-    <icon src="https://image.tmdb.org/t/p/original/yikCxn6jMIhu1Q1FJV3q5KU2vYv.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116170312 +0000" stop="20251116180539 +0000">
-    <title>I'll Have What Phil's Having</title>
-    <sub-title>Paris</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Indulge in the finest sweets Paris has to offer as Phil explores the City of Lights.</desc>
-    <date>20151012</date>
-    <icon src="https://image.tmdb.org/t/p/original/fnoO97QQK9fKifgfBqy1T58pvTl.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116180539 +0000" stop="20251116190806 +0000">
-    <title>I'll Have What Phil's Having</title>
-    <sub-title>Hong Kong</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Join Phil as he puts his palate to the test, trying the unknown and exploring the city.</desc>
-    <date>20151019</date>
-    <icon src="https://image.tmdb.org/t/p/original/mmSFkDLtMcd6CrG1bH7cJbAfrNR.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116190806 +0000" stop="20251116201030 +0000">
-    <title>I'll Have What Phil's Having</title>
-    <sub-title>Barcelona</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Explore this city with Phil, where no one ever sleeps--and also where they always eat.</desc>
-    <date>20151026</date>
-    <icon src="https://image.tmdb.org/t/p/original/7edcEUgU7iB6FiOsjETmJhd1t9s.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116201030 +0000" stop="20251116211256 +0000">
-    <title>I'll Have What Phil's Having</title>
-    <sub-title>Los Angeles</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Join Phil and friends as he visits the culinary gems of his own SoCal backyard.</desc>
-    <date>20151102</date>
-    <icon src="https://image.tmdb.org/t/p/original/coXXCeDkZpo40YtGryzhCifHVnW.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116211256 +0000" stop="20251116214053 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117211227 +0000" stop="20251117214036 +0000">
     <title>Jacques Pépin: Cooking with Claudine</title>
-    <sub-title>Easy Short-Cut Supper</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Greens-and-Sardine Salad; Shoulder Steak; Roasted Potatoes; Blueberries au Citron.</desc>
+    <sub-title>A Caribbean Heritage</sub-title>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <desc>Black-Bean Soup; Cod a l'Espagnol; Rice and Cumin; Broiled Bananas with Lemon and Sugar.</desc>
     <date>20250904</date>
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JacquesPpinCookingwithClaudine_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116214053 +0000" stop="20251116220914 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117214036 +0000" stop="20251117220908 +0000">
     <title>Jacques Pépin: Cooking with Claudine</title>
-    <sub-title>After the Holidays</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Apple-and-Carrot Salad; Tomato Chowder; Cheese Wafer Crisp; Grapefruit Gratin.</desc>
+    <sub-title>Cooking for Your Boss</sub-title>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <desc>Polenta-and-Vegetable Gateau; Escalopes of Veal in a Mushroom-and-Cognac Sauce.</desc>
     <date>20250904</date>
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JacquesPpinCookingwithClaudine_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116220914 +0000" stop="20251116223803 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117220908 +0000" stop="20251117223755 +0000">
     <title>Jacques Pépin: Cooking with Claudine</title>
-    <sub-title>Weekly Planner</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Scotch Barley/Mushroom Soup; Curry of Lamb; Lamb Steaks Vinaigrette; Gratin Dauphinois.</desc>
+    <sub-title>A Tribute to Grandmere</sub-title>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <desc>Bread-and-Onion soup; Chicken Ragout; Frisee with Croutons; Apple Tart.</desc>
     <date>20250904</date>
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JacquesPpinCookingwithClaudine_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116223803 +0000" stop="20251116230634 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117223755 +0000" stop="20251117230639 +0000">
     <title>Jacques Pépin: Cooking with Claudine</title>
-    <sub-title>Cuisine d’Amour</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Herb-and-Goat-Cheese Souffle; Veal Blanquette; Apple-and-Potato Puree; Flan a la Vanille.</desc>
+    <sub-title>Nearly Vegetarian</sub-title>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <desc>String-Bean Ragout; Swiss-Chard-Stuffed Onions; Bulgur and Mint Salad; Pineapple Finale.</desc>
     <date>20250904</date>
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JacquesPpinCookingwithClaudine_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116230634 +0000" stop="20251116233504 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117230639 +0000" stop="20251117233528 +0000">
     <title>Jacques Pépin: Cooking with Claudine</title>
-    <sub-title>A Lean Feast</sub-title>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <desc>Steamed Scallops with Walnut Sauce; Corned Beef Pot-au-Feu; Herbed Yogurt Cheese.</desc>
+    <sub-title>Birthday Party for Mom</sub-title>
+    <episode-num system="onscreen">S01E18</episode-num>
+    <desc>Ricotta Dumplings; Cornish Hens Tabaka; Green Salad; Bread-and-Butter Pudding.</desc>
     <date>20250904</date>
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JacquesPpinCookingwithClaudine_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251116233504 +0000" stop="20251117003901 +0000">
-    <title>Lidia Celebrates America: Life's Milestones</title>
-    <category>Movie</category>
-    <desc>Lidia celebrates commencements, baptisms, house blessings and Sweet Sixteens.</desc>
-    <date>20140121</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_LidiaCelebratesAmerica-LifesMilestones_2000x3000.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251117233528 +0000" stop="20251118000419 +0000">
+    <title>Jacques Pépin: Cooking with Claudine</title>
+    <sub-title>The Seafood Lesson</sub-title>
+    <episode-num system="onscreen">S01E19</episode-num>
+    <desc>Poached Swordfish; Mushroom-Stuffed Squid; Breaded-and-Broiled Red Snapper; Mangoes.</desc>
+    <date>20250904</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JacquesPpinCookingwithClaudine_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20251118000419 +0000" stop="20251118003307 +0000">
+    <title>Jacques Pépin: Cooking with Claudine</title>
+    <sub-title>Cuisine d’Opportunite</sub-title>
+    <episode-num system="onscreen">S01E20</episode-num>
+    <desc>Collard-Greens-and-Yellow-Grits Soup; Omelette de Campagne; Banana Fritters.</desc>
+    <date>20250904</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JacquesPpinCookingwithClaudine_16x9.jpg" />
   </programme>
   
 </tv>
