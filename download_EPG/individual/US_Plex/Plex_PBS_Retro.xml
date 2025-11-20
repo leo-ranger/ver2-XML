@@ -5,196 +5,97 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/25055f8d-39da-447f-95d9-da91fb1ce2f9/PBS_Retro_Dark_Logo_1500x1000_-_Antonio_de_la_Torre__Tony_.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251118234217 +0000" stop="20251119001015 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119225237 +0000" stop="20251119232418 +0000">
+    <title>Thomas &amp; Friends</title>
+    <sub-title>Thomas and the Jet Plane/Percy and the Carnival</sub-title>
+    <episode-num system="onscreen">S03E02</episode-num>
+    <desc>Thomas meets Jeremy, a jet plane, and a carnival comes to the island.</desc>
+    <date>20060903</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ThomasAndFriends_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119232418 +0000" stop="20251119235215 +0000">
     <title>The Berenstain Bears</title>
-    <sub-title>The Talent Show/The Haunted Lighthouse</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Sister does an assignment on Brother. Sister is jealous of Brother's three-speed racer.</desc>
-    <date>20031001</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheBerenstainBears_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119001015 +0000" stop="20251119003706 +0000">
-    <title>Angelina Ballerina</title>
-    <sub-title>Angelina in the Wings/Arthur the Butterfly</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Angelina is made understudy to her cousin./ Angelina finds a butterfly with a broken leg.</desc>
-    <date>20010504</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_AngelinaBallerina_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119003706 +0000" stop="20251119010357 +0000">
-    <title>Angelina Ballerina</title>
-    <sub-title>The Gift/Treasure Tandems</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Angelina makes Miss Lilly a hand-painted gift./Angelina and Alice do a tandem race.</desc>
-    <date>20010511</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_AngelinaBallerina_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119010357 +0000" stop="20251119012907 +0000">
-    <title>Angelina Ballerina</title>
-    <sub-title>Angelina at the Fair/The Ballet Tickets</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Angelina has to take her cousin to the fair./Angelina is too late to buy ballet tickets.</desc>
-    <date>20010518</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_AngelinaBallerina_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119012907 +0000" stop="20251119015558 +0000">
-    <title>Angelina Ballerina</title>
-    <sub-title>Midnight Muddle/Miss Lilly Is Leaving</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Angelina and Alice camp in Angelina’s back garden./Is Miss Lilly leaving the village?</desc>
-    <date>20010525</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_AngelinaBallerina_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119015558 +0000" stop="20251119022251 +0000">
-    <title>Angelina Ballerina</title>
-    <sub-title>Miss Lilly Comes to Dinner/The Lucky Penny</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Miss Lilly comes to dinner with the Mouselings./ Angelina finds a “lucky” penny.</desc>
-    <date>20010601</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_AngelinaBallerina_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119022251 +0000" stop="20251119024942 +0000">
-    <title>Angelina Ballerina</title>
-    <sub-title>Angelina The Mouse Detective/Angelina and Grandma</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>There’s a garden gnome thief on the loose./Angelina stays at her grandparents’ house.</desc>
-    <date>20010609</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_AngelinaBallerina_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119024942 +0000" stop="20251119031634 +0000">
-    <title>Angelina Ballerina</title>
-    <sub-title>Two Mice In A Boat/The Costume Ball</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Angelina decorates a boat for the carnival./Angelina is too young for the costume ball.</desc>
-    <date>20010616</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_AngelinaBallerina_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119031634 +0000" stop="20251119034143 +0000">
-    <title>Angelina Ballerina</title>
-    <sub-title>The Legend of Big Paw/The Ballerina Rag Doll</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Angelina and Henry encounter Big Paw./Angelina gives some old toys away to charity.</desc>
-    <date>20010623</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_AngelinaBallerina_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119034143 +0000" stop="20251119040835 +0000">
-    <title>Angelina Ballerina</title>
-    <sub-title>The Cheese Ball Cup Final/Angelina and Anya</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>William takes up cheese ball./Anya Moussorsky arrives at Angelina’s school.</desc>
-    <date>20010630</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_AngelinaBallerina_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119040835 +0000" stop="20251119043527 +0000">
-    <title>Angelina Ballerina</title>
-    <sub-title>Angelina’s Surprise/The Rose Fairy Princess</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>The Pinkpaws twins have a brother./Angelina gets the lead in “The Rose Fairy Princess.”</desc>
-    <date>20010706</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_AngelinaBallerina_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119043527 +0000" stop="20251119050000 +0000">
-    <title>Angelina Ballerina</title>
-    <sub-title>Alice’s Present/No Match for Angelina</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Alice gives Angelina a gym bag./Angelina learns girls can’t play in the Ice Puck league.</desc>
-    <date>20010713</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_AngelinaBallerina_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119050000 +0000" stop="20251119050618 +0000">
-    <title>The Berenstain Bears</title>
-    <sub-title>Think of Those In Need/The Hiccup Cure</sub-title>
-    <episode-num system="onscreen">S01E29</episode-num>
-    <desc>Sister enters the dog in a pet show. Brother builds a birdhouse instead of tidying.</desc>
-    <date>20031024</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheBerenstainBears_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119050618 +0000" stop="20251119053416 +0000">
-    <title>The Berenstain Bears</title>
-    <sub-title>Family Get-Together/The Stinky Milk Mystery</sub-title>
-    <episode-num system="onscreen">S01E26</episode-num>
-    <desc>The Bear Family visits the mall. Sister has to decide what to write about for a project.</desc>
+    <sub-title>At The Giant Mall/The Giddy Grandma</sub-title>
+    <episode-num system="onscreen">S01E28</episode-num>
+    <desc>Mama plans a movie night.The cubs go on a tour of Bear Country’s National Parks!</desc>
     <date>20031022</date>
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheBerenstainBears_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119053416 +0000" stop="20251119060213 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119235215 +0000" stop="20251120002013 +0000">
     <title>The Berenstain Bears</title>
-    <sub-title>Go Up and Down/Big Bear, Small Bear</sub-title>
-    <episode-num system="onscreen">S01E40</episode-num>
-    <desc>The cubs don’t want to help on vacation. Brother learns how rude it is to be tardy.</desc>
-    <date>20030912</date>
+    <sub-title>The Baby Chipmunk/The Wishing Star</sub-title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <desc>Brother and Sister feel entitled to treats. Papa takes the Bear Scouts spelunking.</desc>
+    <date>20031002</date>
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheBerenstainBears_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119060213 +0000" stop="20251119063011 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120002013 +0000" stop="20251120004842 +0000">
     <title>The Berenstain Bears</title>
-    <sub-title>The Birthday Boy/The Green-Eyed Monster</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Sister adopts a chipmunk. Mama teaches Sister the 'Star light, star bright' principle.</desc>
-    <date>20030919</date>
+    <sub-title>Bears For All Seasons/Grow It</sub-title>
+    <episode-num system="onscreen">S01E39</episode-num>
+    <desc>Brother and Sister sign up for baseball tryouts.Brother and Sister learn to be thankful.</desc>
+    <date>20030911</date>
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheBerenstainBears_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119063011 +0000" stop="20251119065808 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120004842 +0000" stop="20251120011457 +0000">
     <title>The Berenstain Bears</title>
-    <sub-title>Too Much TV/Trick Or Treat</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Mama puts a ban on television for a week. Brother and Sister go trick or treating.</desc>
-    <date>20030915</date>
+    <sub-title>That Stump Must Go/Draw It</sub-title>
+    <episode-num system="onscreen">S01E37</episode-num>
+    <desc>Mama takes the cubs outside. Then, Sister gets a haircut.</desc>
+    <date>20030909</date>
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheBerenstainBears_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119065808 +0000" stop="20251119072606 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120011457 +0000" stop="20251120014326 +0000">
     <title>The Berenstain Bears</title>
-    <sub-title>Trouble at School/Visit the Dentist</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Brother doesn't do his homework when he's sick. Sister gets her first loose tooth.</desc>
-    <date>20030922</date>
+    <sub-title>Say Please and Thank You/Help Around The Workshop</sub-title>
+    <episode-num system="onscreen">S01E35</episode-num>
+    <desc>Papa wants to remove an old tree stump. Then, Brother joins an art class.</desc>
+    <date>20030905</date>
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheBerenstainBears_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119072606 +0000" stop="20251119075404 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120014326 +0000" stop="20251120021123 +0000">
     <title>The Berenstain Bears</title>
-    <sub-title>Go To The Doctor/Don't Pollute (Anymore)</sub-title>
-    <episode-num system="onscreen">S01E23</episode-num>
-    <desc>Sister tries to fit in with the new girl’s crowd.Brother and Freddy make a flying device!</desc>
-    <date>20031017</date>
+    <sub-title>Attic Treasure/Moving Day</sub-title>
+    <episode-num system="onscreen">S01E33</episode-num>
+    <desc>Brother and Sister forget their manners. Then, Mama organizes Papa’s workshop.</desc>
+    <date>20030916</date>
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheBerenstainBears_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119075404 +0000" stop="20251119082201 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120021123 +0000" stop="20251120023922 +0000">
     <title>The Berenstain Bears</title>
-    <sub-title>Slumber Party/The Homework Hassle</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Brother helps with the school talent show. The Bear Family vacations in an old lighthouse.</desc>
-    <date>20031001</date>
+    <sub-title>The Bad Habit/The Prize Pumpkin</sub-title>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <desc>Brother helps a new kid get settled at school. Brother and Sister help Widder Jones.</desc>
+    <date>20030926</date>
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheBerenstainBears_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119082201 +0000" stop="20251119084959 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120023922 +0000" stop="20251120030718 +0000">
     <title>The Berenstain Bears</title>
-    <sub-title>The Talent Show/The Haunted Lighthouse</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Sister does an assignment on Brother. Sister is jealous of Brother's three-speed racer.</desc>
-    <date>20031001</date>
+    <sub-title>Trouble With Pets/The Sitter</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Brother and Sister adopt a puppy. Brother and Sister damage Ms. Grizzle’s flowerbed.</desc>
+    <date>20030925</date>
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheBerenstainBears_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119084959 +0000" stop="20251119091757 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120030718 +0000" stop="20251120033517 +0000">
+    <title>The Berenstain Bears</title>
+    <sub-title>New Neighbors/The Big Election</sub-title>
+    <episode-num system="onscreen">S01E27</episode-num>
+    <desc>Brother and Sister must clean their room. Then, Papa Bear gets a case of the hiccups!</desc>
+    <date>20031023</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheBerenstainBears_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120033517 +0000" stop="20251120040315 +0000">
     <title>The Berenstain Bears</title>
     <sub-title>Pet Show/Pick Up and Put Away</sub-title>
     <episode-num system="onscreen">S01E31</episode-num>
@@ -203,7 +104,205 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheBerenstainBears_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119091757 +0000" stop="20251119094841 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120040315 +0000" stop="20251120043111 +0000">
+    <title>The Berenstain Bears</title>
+    <sub-title>Gotta Dance/The Bad Dream</sub-title>
+    <episode-num system="onscreen">S01E34</episode-num>
+    <desc>Too Tall won't ask for help. Brother, Sister and their pals want to protect a rare bird.</desc>
+    <date>20040408</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheBerenstainBears_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120043111 +0000" stop="20251120050231 +0000">
+    <title>The Berenstain Bears</title>
+    <sub-title>The Talent Show/The Haunted Lighthouse</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Sister does an assignment on Brother. Sister is jealous of Brother's three-speed racer.</desc>
+    <date>20031001</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheBerenstainBears_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120050231 +0000" stop="20251120053624 +0000">
+    <title>Thomas &amp; Friends</title>
+    <sub-title>Percy’s Big Mistake/Gordon and Spencer/Thomas, Emily and the Snowplough</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Percy runs away, Spencer comes to the island and Thomas gets snowed in.</desc>
+    <date>20040822</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ThomasAndFriends_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120053624 +0000" stop="20251120060838 +0000">
+    <title>Thomas &amp; Friends</title>
+    <sub-title>Percy’s Big Mistake/Gordon and Spencer/Thomas, Emily and the Snowplough</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Percy runs away, Spencer comes to the island and Thomas gets snowed in.</desc>
+    <date>20040822</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ThomasAndFriends_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120060838 +0000" stop="20251120064050 +0000">
+    <title>Thomas &amp; Friends</title>
+    <sub-title>Don’t Tell Thomas/James and the Queen of Sodor/Emily’s New Route</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>The engines keep a secret, James collects the Queen of Sodor and Emily gets a new route.</desc>
+    <date>20040829</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ThomasAndFriends_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120064050 +0000" stop="20251120071257 +0000">
+    <title>Thomas &amp; Friends</title>
+    <sub-title>Thomas and the Fireworks/Bill, Ben and Fergus/Gordon Takes Charge</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Thomas and James collect fireworks, Fergus works in the quarry and Gordon helps Percy.</desc>
+    <date>20040905</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ThomasAndFriends_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120071257 +0000" stop="20251120074506 +0000">
+    <title>Thomas &amp; Friends</title>
+    <sub-title>Spic and Span/Not so Hasty Puddings/Edward the Great</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Thomas and Percy compete, Elizabeth collects Christmas puddings and Edward races Spencer.</desc>
+    <date>20040912</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ThomasAndFriends_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120074506 +0000" stop="20251120081711 +0000">
+    <title>Thomas &amp; Friends</title>
+    <sub-title>Squeak, Rattle and Roll/Percy Gets It Right/Thomas and the Circus</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Gordon develops a squeak, Percy’s track is wobbly and Thomas collects the circus.</desc>
+    <date>20040919</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ThomasAndFriends_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120081711 +0000" stop="20251120084916 +0000">
+    <title>Thomas &amp; Friends</title>
+    <sub-title>Thomas Gets it Right/What’s the Matter with Henry/As Good as Gordon</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Thomas transports eggs, Henry doesn’t feel well and Emily pulls Gordon’s express.</desc>
+    <date>20040926</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ThomasAndFriends_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120084916 +0000" stop="20251120092305 +0000">
+    <title>Thomas &amp; Friends</title>
+    <sub-title>Fish/The Old Iron Bridge/Emily’s Adventure</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Thomas has to move stinky fish, Skarloey is given a fright and Emily has an urgent job.</desc>
+    <date>20041003</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ThomasAndFriends_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120092305 +0000" stop="20251120094956 +0000">
+    <title>Angelina Ballerina</title>
+    <sub-title>Angelina in the Wings/Arthur the Butterfly</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Angelina is made understudy to her cousin./ Angelina finds a butterfly with a broken leg.</desc>
+    <date>20010504</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_AngelinaBallerina_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120094956 +0000" stop="20251120101647 +0000">
+    <title>Angelina Ballerina</title>
+    <sub-title>The Gift/Treasure Tandems</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Angelina makes Miss Lilly a hand-painted gift./Angelina and Alice do a tandem race.</desc>
+    <date>20010511</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_AngelinaBallerina_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120101647 +0000" stop="20251120104338 +0000">
+    <title>Angelina Ballerina</title>
+    <sub-title>Angelina at the Fair/The Ballet Tickets</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Angelina has to take her cousin to the fair./Angelina is too late to buy ballet tickets.</desc>
+    <date>20010518</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_AngelinaBallerina_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120104338 +0000" stop="20251120111030 +0000">
+    <title>Angelina Ballerina</title>
+    <sub-title>Midnight Muddle/Miss Lilly Is Leaving</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Angelina and Alice camp in Angelina’s back garden./Is Miss Lilly leaving the village?</desc>
+    <date>20010525</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_AngelinaBallerina_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120111030 +0000" stop="20251120113722 +0000">
+    <title>Angelina Ballerina</title>
+    <sub-title>Miss Lilly Comes to Dinner/The Lucky Penny</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Miss Lilly comes to dinner with the Mouselings./ Angelina finds a “lucky” penny.</desc>
+    <date>20010601</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_AngelinaBallerina_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120113722 +0000" stop="20251120120414 +0000">
+    <title>Angelina Ballerina</title>
+    <sub-title>Angelina The Mouse Detective/Angelina and Grandma</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>There’s a garden gnome thief on the loose./Angelina stays at her grandparents’ house.</desc>
+    <date>20010609</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_AngelinaBallerina_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120120414 +0000" stop="20251120123105 +0000">
+    <title>Angelina Ballerina</title>
+    <sub-title>Two Mice In A Boat/The Costume Ball</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Angelina decorates a boat for the carnival./Angelina is too young for the costume ball.</desc>
+    <date>20010616</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_AngelinaBallerina_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120123105 +0000" stop="20251120125756 +0000">
+    <title>Angelina Ballerina</title>
+    <sub-title>The Legend of Big Paw/The Ballerina Rag Doll</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Angelina and Henry encounter Big Paw./Angelina gives some old toys away to charity.</desc>
+    <date>20010623</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_AngelinaBallerina_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120125756 +0000" stop="20251120132447 +0000">
+    <title>Angelina Ballerina</title>
+    <sub-title>The Cheese Ball Cup Final/Angelina and Anya</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>William takes up cheese ball./Anya Moussorsky arrives at Angelina’s school.</desc>
+    <date>20010630</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_AngelinaBallerina_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120132447 +0000" stop="20251120135139 +0000">
+    <title>Angelina Ballerina</title>
+    <sub-title>Angelina’s Surprise/The Rose Fairy Princess</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>The Pinkpaws twins have a brother./Angelina gets the lead in “The Rose Fairy Princess.”</desc>
+    <date>20010706</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_AngelinaBallerina_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120135139 +0000" stop="20251120141830 +0000">
+    <title>Angelina Ballerina</title>
+    <sub-title>Alice’s Present/No Match for Angelina</sub-title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <desc>Alice gives Angelina a gym bag./Angelina learns girls can’t play in the Ice Puck league.</desc>
+    <date>20010713</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_AngelinaBallerina_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120141830 +0000" stop="20251120144521 +0000">
+    <title>Angelina Ballerina</title>
+    <sub-title>Angelina’s Valentine/The Royal Banquet</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>William makes a Valentine for Angelina./Angelina gets to dance for Queen Seraphina.</desc>
+    <date>20010720</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_AngelinaBallerina_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120144521 +0000" stop="20251120151606 +0000">
     <title>Reading Rainbow</title>
     <sub-title>Abiyoyo</sub-title>
     <episode-num system="onscreen">S04E05</episode-num>
@@ -212,7 +311,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119094841 +0000" stop="20251119101902 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120151606 +0000" stop="20251120154626 +0000">
     <title>Reading Rainbow</title>
     <sub-title>The Life Cycle Of The Honeybee</sub-title>
     <episode-num system="onscreen">S04E06</episode-num>
@@ -221,7 +320,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119101902 +0000" stop="20251119104948 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120154626 +0000" stop="20251120161712 +0000">
     <title>Reading Rainbow</title>
     <sub-title>Keep the Lights Burning, Abbie</sub-title>
     <episode-num system="onscreen">S04E07</episode-num>
@@ -230,7 +329,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119104948 +0000" stop="20251119111800 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120161712 +0000" stop="20251120164525 +0000">
     <title>Reading Rainbow</title>
     <sub-title>Chickens Aren't the Only Ones</sub-title>
     <episode-num system="onscreen">S04E08</episode-num>
@@ -239,7 +338,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119111800 +0000" stop="20251119114837 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120164525 +0000" stop="20251120171602 +0000">
     <title>Reading Rainbow</title>
     <sub-title>The Paper Crane</sub-title>
     <episode-num system="onscreen">S04E09</episode-num>
@@ -248,7 +347,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119114837 +0000" stop="20251119121940 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120171602 +0000" stop="20251120174705 +0000">
     <title>Reading Rainbow</title>
     <sub-title>The Runaway Duck</sub-title>
     <episode-num system="onscreen">S04E10</episode-num>
@@ -257,7 +356,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119121940 +0000" stop="20251119125026 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120174705 +0000" stop="20251120181751 +0000">
     <title>Reading Rainbow</title>
     <sub-title>A Three Hat Day</sub-title>
     <episode-num system="onscreen">S04E11</episode-num>
@@ -266,7 +365,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119125026 +0000" stop="20251119132139 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120181751 +0000" stop="20251120184903 +0000">
     <title>Reading Rainbow</title>
     <sub-title>Rumpelstiltskin</sub-title>
     <episode-num system="onscreen">S04E12</episode-num>
@@ -275,7 +374,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119132139 +0000" stop="20251119135252 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120184903 +0000" stop="20251120192017 +0000">
     <title>Reading Rainbow</title>
     <sub-title>Best Friends</sub-title>
     <episode-num system="onscreen">S04E13</episode-num>
@@ -284,7 +383,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119135252 +0000" stop="20251119142303 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120192017 +0000" stop="20251120195028 +0000">
     <title>Reading Rainbow</title>
     <sub-title>Meanwhile Back at the Ranch</sub-title>
     <episode-num system="onscreen">S04E14</episode-num>
@@ -293,7 +392,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119142303 +0000" stop="20251119145320 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120195028 +0000" stop="20251120202045 +0000">
     <title>Reading Rainbow</title>
     <sub-title>My Little Island</sub-title>
     <episode-num system="onscreen">S04E15</episode-num>
@@ -302,7 +401,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119145320 +0000" stop="20251119152435 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120202045 +0000" stop="20251120205200 +0000">
     <title>Reading Rainbow</title>
     <sub-title>Bugs</sub-title>
     <episode-num system="onscreen">S05E02</episode-num>
@@ -311,7 +410,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119152435 +0000" stop="20251119155552 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120205200 +0000" stop="20251120212317 +0000">
     <title>Zoboomafoo</title>
     <sub-title>Zoboo the Super Lemur</sub-title>
     <episode-num system="onscreen">S02E06</episode-num>
@@ -320,7 +419,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_Zoboomafoo_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119155552 +0000" stop="20251119162709 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120212317 +0000" stop="20251120215434 +0000">
     <title>Zoboomafoo</title>
     <sub-title>Pop Goes the Tiger</sub-title>
     <episode-num system="onscreen">S02E07</episode-num>
@@ -329,7 +428,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_Zoboomafoo_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119162709 +0000" stop="20251119165827 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120215434 +0000" stop="20251120222551 +0000">
     <title>Zoboomafoo</title>
     <sub-title>Powerhouse</sub-title>
     <episode-num system="onscreen">S02E08</episode-num>
@@ -338,7 +437,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_Zoboomafoo_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119165827 +0000" stop="20251119172944 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120222551 +0000" stop="20251120225709 +0000">
     <title>Zoboomafoo</title>
     <sub-title>Talk to Me</sub-title>
     <episode-num system="onscreen">S02E09</episode-num>
@@ -347,121 +446,13 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_Zoboomafoo_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119172944 +0000" stop="20251119180102 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251120225709 +0000" stop="20251120232827 +0000">
     <title>Zoboomafoo</title>
     <sub-title>Flying Buddies</sub-title>
     <episode-num system="onscreen">S02E10</episode-num>
     <desc>Flying isn’t just for the birds, there are other creatures that can take flight.</desc>
     <date>20010206</date>
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_Zoboomafoo_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119180102 +0000" stop="20251119183219 +0000">
-    <title>Zoboomafoo</title>
-    <sub-title>Creature Neighbors</sub-title>
-    <episode-num system="onscreen">S02E11</episode-num>
-    <desc>Chris and Martin are setting up a treasure hunt for Zoboo.</desc>
-    <date>20010213</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_Zoboomafoo_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119183219 +0000" stop="20251119190335 +0000">
-    <title>Zoboomafoo</title>
-    <sub-title>Buddies</sub-title>
-    <episode-num system="onscreen">S02E12</episode-num>
-    <desc>There are many creatures in the wild that have buddies to help each other survive.</desc>
-    <date>20010220</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_Zoboomafoo_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119190335 +0000" stop="20251119193452 +0000">
-    <title>Zoboomafoo</title>
-    <sub-title>Can You Feel It?</sub-title>
-    <episode-num system="onscreen">S02E13</episode-num>
-    <desc>Brainiac and Lost and Found are visiting and they are trying to figure out what to do.</desc>
-    <date>20010227</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_Zoboomafoo_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119193452 +0000" stop="20251119200609 +0000">
-    <title>Zoboomafoo</title>
-    <sub-title>Fearfest</sub-title>
-    <episode-num system="onscreen">S02E14</episode-num>
-    <desc>A big storm is coming, and many creatures are heading for cover.</desc>
-    <date>20010306</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_Zoboomafoo_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119200609 +0000" stop="20251119203727 +0000">
-    <title>Zoboomafoo</title>
-    <sub-title>Superclaw</sub-title>
-    <episode-num system="onscreen">S02E15</episode-num>
-    <desc>Animal Junction has some super-clawed visitors.</desc>
-    <date>20010313</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_Zoboomafoo_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119203727 +0000" stop="20251119210851 +0000">
-    <title>Zoboomafoo</title>
-    <sub-title>Grow, Zoboo, Grow</sub-title>
-    <episode-num system="onscreen">S02E16</episode-num>
-    <desc>Zoboo is going to help Chris and Martin take care of a human baby!</desc>
-    <date>20010320</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_Zoboomafoo_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119210851 +0000" stop="20251119214015 +0000">
-    <title>Zoboomafoo</title>
-    <sub-title>Don't Fence Me In</sub-title>
-    <episode-num system="onscreen">S02E17</episode-num>
-    <desc>Zoboomafoo wants to move into Animal Junction. Will anyone be his roomate?</desc>
-    <date>20010327</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_Zoboomafoo_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119214015 +0000" stop="20251119221125 +0000">
-    <title>Kratts Creatures</title>
-    <sub-title>Big Five, Little Five</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Chris and Martin visit South Africa to track the animals of the Savannah.</desc>
-    <date>19960612</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_KrattsCreatures_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119221125 +0000" stop="20251119224235 +0000">
-    <title>Kratts Creatures</title>
-    <sub-title>City Critters</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Chris and Martin search the city for animals who call urban areas their home.</desc>
-    <date>19960613</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_KrattsCreatures_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119224235 +0000" stop="20251119231345 +0000">
-    <title>Kratts Creatures</title>
-    <sub-title>Sharks</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Chris and Martin travel south of Florida in search of sharks and the other sea creatures.</desc>
-    <date>19960729</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_KrattsCreatures_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119231345 +0000" stop="20251119234456 +0000">
-    <title>Kratts Creatures</title>
-    <sub-title>Running with the Wild Dogs</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>In the African Savannah, Chris and Martin track the elusive African Wild Dog.</desc>
-    <date>19960726</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_KrattsCreatures_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251119234456 +0000" stop="20251120001606 +0000">
-    <title>Kratts Creatures</title>
-    <sub-title>In Search of the Tasmanian Tiger</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Chris and Martin retrace the steps of fictional explorers in search of a Tasmanian Tiger.</desc>
-    <date>19960704</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_KrattsCreatures_16x9.jpg" />
   </programme>
   
 </tv>
