@@ -1,204 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv date="20251123100656 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/414181/20251123.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=414181&amp;date=20251123&amp;timezone=None"><channel id="414181">
+<tv date="20251124100102 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/414181/20251124.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=414181&amp;date=20251124&amp;timezone=None"><channel id="414181">
     <display-name lang="Taiwan">INULTRA</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/03/01/20250301045946775077_46.png"/>
   </channel>
-  <programme channel="414181" start="20251123002700 +0000" stop="20251123012200 +0000">
-    <title lang="zh">Mysteries of the Brain: Language</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123012200 +0000" stop="20251123022000 +0000">
-    <title lang="zh">[Chinese subtitles]Wild Feelings: Protecting Tradition</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123022000 +0000" stop="20251123031900 +0000">
-    <title lang="zh">[Chinese subtitles] Wild feelings: Facing the cold wind</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123031900 +0000" stop="20251123041000 +0000">
-    <title lang="zh">Modern Explorer: Pure White Horizon</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123041000 +0000" stop="20251123050900 +0000">
-    <title lang="zh">Modern Explorers: Giants of the East</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123050900 +0000" stop="20251123055500 +0000">
-    <title lang="zh">Girl Power Sweeps Away: Never Give Up</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123055500 +0000" stop="20251123065900 +0000">
-    <title lang="zh">Girl Power Takes Away: The Last Try</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123065900 +0000" stop="20251123072400 +0000">
-    <title lang="zh">Light travel: Nairobi</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123072400 +0000" stop="20251123075000 +0000">
-    <title lang="zh">Light travel: Jakarta</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123075000 +0000" stop="20251123081600 +0000">
-    <title lang="zh">Mountain Bike Hero - Trailblazer: Bali</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123081600 +0000" stop="20251123084300 +0000">
-    <title lang="zh">Mountain Bike Heroes - Trailblazers: New Zealand</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123084300 +0000" stop="20251123091000 +0000">
-    <title lang="zh">[Chinese subtitles] Traveling with Dali: Santa Fe - Art and History</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123091000 +0000" stop="20251123093700 +0000">
-    <title lang="zh">[Chinese subtitles] Traveling with Dali: Bordeaux, France - Wine and History</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123093700 +0000" stop="20251123100000 +0000">
-    <title lang="zh">Iceland Without Limits: Rivers and Volcanoes</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123100000 +0000" stop="20251123102400 +0000">
-    <title lang="zh">[Chinese subtitles] Fly Fishing Guide: Arook Gear Shop</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123102400 +0000" stop="20251123104800 +0000">
-    <title lang="zh">[Chinese subtitles] Fly Fishing Guide: Caroline Beach Motel</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123104800 +0000" stop="20251123111300 +0000">
-    <title lang="zh">[Chinese subtitles] Fly Fisherman’s Guide: Anderson’s Cabin</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123111300 +0000" stop="20251123113700 +0000">
-    <title lang="zh">[Chinese subtitles]Fly Fishing Guide: Cree River Lodge</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123113700 +0000" stop="20251123123300 +0000">
-    <title lang="zh">[Chinese subtitles] Luxury Vacation Pass: California</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123123300 +0000" stop="20251123132100 +0000">
-    <title lang="zh">[Chinese subtitles] Luxury Vacation Pass: Philippines/Maldives Special</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123132100 +0000" stop="20251123134700 +0000">
-    <title lang="zh">Endless Road: The Journey Unfolds</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123134700 +0000" stop="20251123141300 +0000">
-    <title lang="zh">Endless Road: The bike is broken</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123141300 +0000" stop="20251123150800 +0000">
-    <title lang="zh">Corner of the World Tour: Belfast</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123150800 +0000" stop="20251123153400 +0000">
-    <title lang="zh">[Chinese subtitles] Blue World: South Australian Giant Cuttlefish</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123153400 +0000" stop="20251123160100 +0000">
-    <title lang="zh">[Chinese subtitles] Blue World: Bahamas Shipwreck Excavation</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123160100 +0000" stop="20251123162300 +0000">
-    <title lang="zh">[Chinese subtitles] Hollywood Weaponry: Solving the Puzzle "The Hidden Mission"</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123162300 +0000" stop="20251123164500 +0000">
-    <title lang="zh">[Chinese subtitles] Hollywood Weapons: Solving the Puzzle "Abyss of Vengeance"</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123164500 +0000" stop="20251123171000 +0000">
-    <title lang="zh">[Chinese subtitles] Urban Hunter: Tuscan Boar</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123171000 +0000" stop="20251123173500 +0000">
-    <title lang="zh">[Chinese subtitles]Metropolitan Hunter: The Ghost of Transylvania</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123173500 +0000" stop="20251123182800 +0000">
-    <title lang="zh">[Chinese subtitles] Nanyang Speargunner: Operation North Offshore North Island</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123182800 +0000" stop="20251123192200 +0000">
-    <title lang="zh">[Chinese subtitles] Nanyang Speargunner: Attack the Giant Bass</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123192200 +0000" stop="20251123194600 +0000">
-    <title lang="zh">[Chinese subtitles] Healthy Earth Chronicles: Exploring Mindfulness Part 2</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123194600 +0000" stop="20251123200900 +0000">
-    <title lang="zh">[Chinese subtitles] Healthy Earth Chronicles: The Pursuit of Happiness Part 1</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123200900 +0000" stop="20251123210000 +0000">
-    <title lang="zh">Muscle Car Revival: 1971 Plymouth Roadrunner</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123210000 +0000" stop="20251123215000 +0000">
-    <title lang="zh">[Chinese subtitles] Grilled Chef: Date Dinner</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123215000 +0000" stop="20251123224900 +0000">
-    <title lang="zh">[Chinese subtitles] Grilled Chef: Seafood Feast</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123224900 +0000" stop="20251123231600 +0000">
-    <title lang="zh">Analysis of the World Motorcycle Championship: A life on the line</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123231600 +0000" stop="20251123234200 +0000">
-    <title lang="zh">Photonis Peak Strength Challenge: Rowing Strategy</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
-  <programme channel="414181" start="20251123234200 +0000" stop="20251124000000 +0000">
-    <title lang="zh">Photonis Power Peak Challenge: Canyon Race</title>
-    <desc/>
-    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-23</date>
-  </programme>
   <programme channel="414181" start="20251124000800 +0000" stop="20251124010300 +0000">
     <title lang="zh">Mysteries of the Brain: Lying</title>
     <desc/>
@@ -340,7 +145,7 @@
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-24</date>
   </programme>
   <programme channel="414181" start="20251124185200 +0000" stop="20251124191700 +0000">
-    <title lang="zh">[Chinese subtitle]Metropolitan Hunter: France Driven Hunting Operation</title>
+    <title lang="zh">[Chinese subtitles] Urban Hunter: French Drive Hunting Operation</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-24</date>
   </programme>
@@ -350,7 +155,7 @@
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-24</date>
   </programme>
   <programme channel="414181" start="20251124200900 +0000" stop="20251124203300 +0000">
-    <title lang="zh">[Chinese subtitles] A Healthy Planet: The Pursuit of Happiness Part 2</title>
+    <title lang="zh">[Chinese subtitles] Healthy Earth: The Pursuit of Happiness Part 2</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-24</date>
   </programme>
@@ -383,5 +188,195 @@
     <title lang="zh">[Chinese subtitles] Fire-roasted God of Cooking: Dual Food Showdown</title>
     <desc/>
     <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-24</date>
+  </programme>
+  <programme channel="414181" start="20251125002200 +0000" stop="20251125011200 +0000">
+    <title lang="zh">Muscle Car Revival: 1970 Dodge Charger</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125011200 +0000" stop="20251125020200 +0000">
+    <title lang="zh">Muscle Car Revival: Special 200 Review</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125020200 +0000" stop="20251125022900 +0000">
+    <title lang="zh">Photonis Peak Power Challenge: Non-stop Running</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125022900 +0000" stop="20251125025500 +0000">
+    <title lang="zh">Photonis Power Peak Challenge: Water Challenge</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125025500 +0000" stop="20251125035000 +0000">
+    <title lang="zh">Mysteries of the Brain: Reinvention</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125035000 +0000" stop="20251125044200 +0000">
+    <title lang="zh">Football Brothers Capture Europe: UK</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125044200 +0000" stop="20251125053700 +0000">
+    <title lang="zh">Football brothers capture Europe: France</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125053700 +0000" stop="20251125062600 +0000">
+    <title lang="zh">Modern Explorer: A Safe Return</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125062600 +0000" stop="20251125065700 +0000">
+    <title lang="zh">2021 Dutch U21 legends: success or failure</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125065700 +0000" stop="20251125072600 +0000">
+    <title lang="zh">2021 U21 Netherlands Legends: Quarterfinals</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125072600 +0000" stop="20251125080800 +0000">
+    <title lang="zh">Martial Arts Master Stories: The Way of the Sword</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125080800 +0000" stop="20251125084700 +0000">
+    <title lang="zh">A Collection of Martial Arts Master Stories: Today's Times</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125084700 +0000" stop="20251125093600 +0000">
+    <title lang="zh">30/10 Air Challenge: A trio flying straight into the sky</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125093600 +0000" stop="20251125102600 +0000">
+    <title lang="zh">30/10 Air Challenge: Flying into the target</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125102600 +0000" stop="20251125105100 +0000">
+    <title lang="zh">Light travel: Bali</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125105100 +0000" stop="20251125111800 +0000">
+    <title lang="zh">Light travel:Milan</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125111800 +0000" stop="20251125122200 +0000">
+    <title lang="zh">Spa 24 Hours: Staying Out of Trouble</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125122200 +0000" stop="20251125132600 +0000">
+    <title lang="zh">24 Hours of Spa Circuit: Survival in the Dark</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125132600 +0000" stop="20251125142800 +0000">
+    <title lang="zh">Dominate the Shark Wave</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125142800 +0000" stop="20251125151700 +0000">
+    <title lang="zh">Street Football King's Prison Reform: Colombia</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125151700 +0000" stop="20251125154400 +0000">
+    <title lang="zh">[Chinese subtitles] Dog Rescue Team: Little Tyrant</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125154400 +0000" stop="20251125161200 +0000">
+    <title lang="zh">[Chinese subtitles] Dog Rescue Team: Protecting Life</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125161200 +0000" stop="20251125170300 +0000">
+    <title lang="zh">[Chinese subtitles] The Tyrant’s Ultimate Fortress: Hoxha’s Vault Fever</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125170300 +0000" stop="20251125175400 +0000">
+    <title lang="zh">[Chinese subtitles] The tyrant’s ultimate fortress: Stalin’s nuclear-proof bunker</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125175400 +0000" stop="20251125181500 +0000">
+    <title lang="zh">[Chinese subtitles] Texas Muscle Car: 1963 Chevrolet Corvette Z06</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125181500 +0000" stop="20251125183900 +0000">
+    <title lang="zh">[Chinese subtitles]Texas muscle car: 1959 Ford F-100 pickup truck</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125183900 +0000" stop="20251125190200 +0000">
+    <title lang="zh">[Chinese subtitles] Hollywood Weapons: Unfinished Mysteries</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125190200 +0000" stop="20251125192400 +0000">
+    <title lang="zh">[Chinese subtitles] Hollywood Weapons: Solving the Puzzle of "The Punisher"</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125192400 +0000" stop="20251125194900 +0000">
+    <title lang="zh">[Chinese subtitles] Urban Hunter: Chasing the European Fallow Deer</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125194900 +0000" stop="20251125201400 +0000">
+    <title lang="zh">[Chinese subtitles] Urban Hunter: Feathers and Furs</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125201400 +0000" stop="20251125202600 +0000">
+    <title lang="zh">Unlimited Kinetic Energy-Technology: Don Shaw (Space Shuttle)</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125202600 +0000" stop="20251125203800 +0000">
+    <title lang="zh">Unlimited kinetic energy-Technology: Lucas Toledo (electric folding bike)</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125203800 +0000" stop="20251125210000 +0000">
+    <title lang="zh">Breaking move</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125210000 +0000" stop="20251125212400 +0000">
+    <title lang="zh">[Chinese subtitles] Healthy Earth Chronicles: Forest Bathing</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125212400 +0000" stop="20251125214800 +0000">
+    <title lang="zh">[Chinese subtitles] Healthy Earth: The Meaning of Life Part 1</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125214800 +0000" stop="20251125223900 +0000">
+    <title lang="zh">[Chinese subtitles] Jiang Sung-ho’s Wild Speed:Chicago</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125223900 +0000" stop="20251125232900 +0000">
+    <title lang="zh">[Chinese subtitles] Jiang Chenghao’s Wild Speed: Los Angeles</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
+  </programme>
+  <programme channel="414181" start="20251125232900 +0000" stop="20251126000000 +0000">
+    <title lang="zh">[Chinese subtitles] Exploring the Boundaries of Taste: Finland</title>
+    <desc/>
+    <icon src="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png"/><date>2025-11-25</date>
   </programme>
 </tv>
