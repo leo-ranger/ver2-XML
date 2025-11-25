@@ -5,264 +5,88 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/3ed082aa-5659-4fd0-8775-22613a65f924/HerSphere_1500x1000_Logo_Dark.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251123220406 +0000" stop="20251123223953 +0000">
-    <title>Vida</title>
-    <sub-title>Episode 5</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124231258 +0000" stop="20251124233956 +0000">
+    <title>Weeds</title>
+    <sub-title>Go</sub-title>
+    <episode-num system="onscreen">S03E15</episode-num>
+    <desc>As the fire approaches, Nancy has her family pack up, while Conrad and Heylia say goodbye to the growhouse.</desc>
+    <date>20071119</date>
+    <icon src="https://image.tmdb.org/t/p/original/b5w8ZPIpdpR0y8wqU3FNdLgCfa8.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124233956 +0000" stop="20251125000654 +0000">
+    <title>Weeds</title>
+    <sub-title>Mother Thinks the Birds are After Her</sub-title>
+    <episode-num system="onscreen">S04E01</episode-num>
+    <desc>Nancy has relocated to the border in search of a new life but she soon finds her past to be inescapable.</desc>
+    <date>20080616</date>
+    <icon src="https://image.tmdb.org/t/p/original/4q6ME7N63a8TdrGM9tcMeA2Qorq.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125000654 +0000" stop="20251125003348 +0000">
+    <title>Weeds</title>
+    <sub-title>Lady's a Charm</sub-title>
+    <episode-num system="onscreen">S04E02</episode-num>
+    <desc>Nancy runs her first courier job for Guillermo across the border, but it doesn't go as planned.</desc>
+    <date>20080623</date>
+    <icon src="https://image.tmdb.org/t/p/original/w6fJ9UuSwefYuU6tLBiiyZYWQid.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125003348 +0000" stop="20251125010049 +0000">
+    <title>Weeds</title>
+    <sub-title>The Whole Blah Damn Thing</sub-title>
+    <episode-num system="onscreen">S04E03</episode-num>
+    <desc>Nancy completes her first job as drug courier. Celia closes a deal with Captain Till to get out of prison.</desc>
+    <date>20080630</date>
+    <icon src="https://image.tmdb.org/t/p/original/AoFT7WX1V0Q5gxlyX5l12GDqvSx.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125010049 +0000" stop="20251125013234 +0000">
+    <title>Nurse Jackie</title>
+    <sub-title>Pilot</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>A longtime ER nurse tries to conceal her addiction to painkillers she gets from her boyfriend, the pharmacist.</desc>
+    <date>20090608</date>
+    <icon src="https://image.tmdb.org/t/p/original/zCdS21S26owW1sA55iXK7VCEkPt.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125013234 +0000" stop="20251125020551 +0000">
+    <title>Nurse Jackie</title>
+    <sub-title>Sweet 'n All</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Jackie and her husband Kevin are worried that their daughter Grace might have an anxiety disorder.</desc>
+    <date>20090615</date>
+    <icon src="https://image.tmdb.org/t/p/original/bRuAxKOK6yLlmXGqMHT0tfr1NcQ.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125020551 +0000" stop="20251125023741 +0000">
+    <title>Nurse Jackie</title>
+    <sub-title>Chicken Soup</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Jackie meets a patient who uses his wife's chicken soup to treat his heart disease.</desc>
+    <date>20090622</date>
+    <icon src="https://image.tmdb.org/t/p/original/cu2vW946cOenOmjFTH3z67670kS.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125023741 +0000" stop="20251125030758 +0000">
+    <title>Nurse Jackie</title>
+    <sub-title>School Nurse</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Jackie and Kevin think about sending their daughter Grace to a private school.</desc>
+    <date>20090629</date>
+    <icon src="https://image.tmdb.org/t/p/original/d71wvaxGck5nWvynzmPPO6RnhwJ.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125030758 +0000" stop="20251125033830 +0000">
+    <title>Nurse Jackie</title>
+    <sub-title>Daffodil</sub-title>
     <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Still wound up from her encounter with Cruz, Emma struggles to find relief.</desc>
-    <date>20180603</date>
-    <icon src="https://image.tmdb.org/t/p/original/uKCqihGavFSfdbgSNTptdCkijOU.jpg" />
+    <desc>A 10-year-old girl needs Jackie's help to care for her mother who suffers from lupus.</desc>
+    <date>20090706</date>
+    <icon src="https://image.tmdb.org/t/p/original/bcRZTT7wdMMTnqYCYHf6KDR1L53.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251123223953 +0000" stop="20251123231702 +0000">
-    <title>Vida</title>
-    <sub-title>Episode 6</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Lyn finally realizes she’s messing up Johnny’s life, and Emma learns the true value of the bar.</desc>
-    <date>20180610</date>
-    <icon src="https://image.tmdb.org/t/p/original/f2bf7BcrfE3DGHYkKpSSScjaG4z.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251123231702 +0000" stop="20251123235116 +0000">
-    <title>Vida</title>
-    <sub-title>Episode 7</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <desc>The bar prepares to host a fundraiser while Emma and Lyn learn the truth behind Vida and Eddy's marriage.</desc>
-    <date>20190526</date>
-    <icon src="https://image.tmdb.org/t/p/original/d1ZD5xr01BBuMBaYFsgorWAoQm6.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251123235116 +0000" stop="20251124002906 +0000">
-    <title>Vida</title>
-    <sub-title>Episode 8</sub-title>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <desc>The Vigilantes protest a local real estate agent whom Emma considers using to advertise an available unit.</desc>
-    <date>20190526</date>
-    <icon src="https://image.tmdb.org/t/p/original/rc7UfgiUa8kd5P87kQnClIRXIV7.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124002906 +0000" stop="20251124010508 +0000">
-    <title>Vida</title>
-    <sub-title>Episode 9</sub-title>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <desc>Emma accompanies Cruz to an event where Emma meets a charming stranger.</desc>
-    <date>20190602</date>
-    <icon src="https://image.tmdb.org/t/p/original/wc2c0vvFdxbg5j9KPg1YkgAjogO.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124010508 +0000" stop="20251124014129 +0000">
-    <title>Vida</title>
-    <sub-title>Episode 10</sub-title>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <desc>Emma monitors Baco's progress with the building repairs while Lyn is forced to confront her past.</desc>
-    <date>20190602</date>
-    <icon src="https://image.tmdb.org/t/p/original/sb3ilFhAelnV4dYYYBAXZZ4agiZ.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124014129 +0000" stop="20251124021430 +0000">
-    <title>Vida</title>
-    <sub-title>Episode 11</sub-title>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <desc>The bar hosts a yard sale. Lyn's friendship with Rudy builds as Nelson becomes a threat to the bar.</desc>
-    <date>20190609</date>
-    <icon src="https://image.tmdb.org/t/p/original/A1HI9wjznuKZMrZpOPaE3Nak5Oh.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124021430 +0000" stop="20251124025024 +0000">
-    <title>Vida</title>
-    <sub-title>Episode 12</sub-title>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <desc>Lyn is preparing for Music Night at the bar when a relic she had discovered reveals more about Vida.</desc>
-    <date>20190609</date>
-    <icon src="https://image.tmdb.org/t/p/original/dZarEtZhVEMjtuSMjHz5IBF9O5P.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124025024 +0000" stop="20251124032714 +0000">
-    <title>Vida</title>
-    <sub-title>Episode 13</sub-title>
-    <episode-num system="onscreen">S02E07</episode-num>
-    <desc>Mari's worlds collide, and Lyn and Marcos devise a plan to get back at Nelson.</desc>
-    <date>20190616</date>
-    <icon src="https://image.tmdb.org/t/p/original/i6qOibTxYyCsy1YNQWLSGCPCFGt.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124032714 +0000" stop="20251124040357 +0000">
-    <title>Vida</title>
-    <sub-title>Episode 14</sub-title>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <desc>Emma and Nico head to an after-party to check out a new musical act, and Lyn and Marcos will not be left out.</desc>
-    <date>20190616</date>
-    <icon src="https://image.tmdb.org/t/p/original/ssHEYgxWHo71s9JBTqCo07qXjAH.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124040357 +0000" stop="20251124043841 +0000">
-    <title>Vida</title>
-    <sub-title>Episode 15</sub-title>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <desc>Nico's past comes back to haunt her. Lyn has a nice—and short—day with Johnny.</desc>
-    <date>20190623</date>
-    <icon src="https://image.tmdb.org/t/p/original/txrL8EkzTe2Nomt7TzODZp2X4cC.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124043841 +0000" stop="20251124051901 +0000">
-    <title>Vida</title>
-    <sub-title>Episode 16</sub-title>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <desc>In the season finale, Lyn rises to the occasion, Emma remains in her funk, and Mari's loyalties are conflicted</desc>
-    <date>20190623</date>
-    <icon src="https://image.tmdb.org/t/p/original/oBANlsQy1JtQxOgHPYVsRwmhR7e.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124051901 +0000" stop="20251124054951 +0000">
-    <title>Nurse Jackie</title>
-    <sub-title>Health Care and Cinema</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Eddie threatens to tell the truth about Jackie's family and Dr. O'Hara's mother is brought to the ER.</desc>
-    <date>20090824</date>
-    <icon src="https://image.tmdb.org/t/p/original/piqkkhBBahATBZGJcLxHTnSt3kY.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124054951 +0000" stop="20251124062156 +0000">
-    <title>Nurse Jackie</title>
-    <sub-title>Comfort Food</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <desc>Jackie has cut ties with Eddie and is determined to dive back in and spend more time with her family.</desc>
-    <date>20100322</date>
-    <icon src="https://image.tmdb.org/t/p/original/e3MH8UDVHx82ne0AblG11VriZ0Z.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124062156 +0000" stop="20251124065414 +0000">
-    <title>Nurse Jackie</title>
-    <sub-title>Twitter</sub-title>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <desc>Jackie helps a struggling family speed along a test to diagnose a little boy’s cystic fibrosis.</desc>
-    <date>20100329</date>
-    <icon src="https://image.tmdb.org/t/p/original/1JyCzFnFzEMz9xL2BMwNmV2Vybr.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124065414 +0000" stop="20251124072230 +0000">
-    <title>Nurse Jackie</title>
-    <sub-title>Candyland</sub-title>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <desc>During a playdate, Ginny Flynn and Kaitlin annoy Jackie, and Kaitlyn catches Jackie snorting a line of Adderal</desc>
-    <date>20100405</date>
-    <icon src="https://image.tmdb.org/t/p/original/ll6UpA02etSRRb1k2Yj039NEWgS.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124072230 +0000" stop="20251124075157 +0000">
-    <title>Nurse Jackie</title>
-    <sub-title>Apple Bong</sub-title>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <desc>Jackie confronts Eddie about his stalking her and asks him to stay away from her family.</desc>
-    <date>20100412</date>
-    <icon src="https://image.tmdb.org/t/p/original/xRE6UMKXSeT83IpVgka4qSwaBvy.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124075157 +0000" stop="20251124082346 +0000">
-    <title>Nurse Jackie</title>
-    <sub-title>Caregiver</sub-title>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <desc>Jackie overreacts to Kevin’s movie date with Ginny Flynn and the girls.</desc>
-    <date>20100419</date>
-    <icon src="https://image.tmdb.org/t/p/original/9E8eXU9WlHfzVNParb5D9XX6DJj.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124082346 +0000" stop="20251124085451 +0000">
-    <title>Nurse Jackie</title>
-    <sub-title>Bleeding</sub-title>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <desc>Jackie sleeps with Eddie at his apartment and tells him to stop seeing Kevin.</desc>
-    <date>20100426</date>
-    <icon src="https://image.tmdb.org/t/p/original/rAM951ci2zW5I63Wkk05n87dEh1.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124085451 +0000" stop="20251124092553 +0000">
-    <title>Nurse Jackie</title>
-    <sub-title>Silly String</sub-title>
-    <episode-num system="onscreen">S02E07</episode-num>
-    <desc>Post-birthday party, Fiona busts her lip open, and Dr. O’Hara and Jackie stitch her up in the Peyton kitchen.</desc>
-    <date>20100503</date>
-    <icon src="https://image.tmdb.org/t/p/original/f2pjy40heq4L5PBlgxMHZK2VMSi.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124092553 +0000" stop="20251124095806 +0000">
-    <title>Nurse Jackie</title>
-    <sub-title>Monkey Bits</sub-title>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <desc>Jackie deals with Fiona’s teacher’s concerns and suspicions about her busted lip and cast.</desc>
-    <date>20100510</date>
-    <icon src="https://image.tmdb.org/t/p/original/qeJFNvGB5DTzzl4Yb5sHPYMkqhR.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124095806 +0000" stop="20251124102936 +0000">
-    <title>Nurse Jackie</title>
-    <sub-title>P.O. Box</sub-title>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <desc>Jackie wants to send Fiona to Immaculate. Kevin makes Jackie promise not to accept money from Dr. O’Hara.</desc>
-    <date>20100517</date>
-    <icon src="https://image.tmdb.org/t/p/original/uPLCMxrkCJm0UjWsQCjKEeppScb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124102936 +0000" stop="20251124110015 +0000">
-    <title>Nurse Jackie</title>
-    <sub-title>Sleeping Dogs</sub-title>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <desc>Jackie shows Dr. O’Hara a fake MRI to get an oxy prescription. Mrs. Akalitus rehires Eddie.</desc>
-    <date>20100524</date>
-    <icon src="https://image.tmdb.org/t/p/original/f4HE7GjYYYAyUhGIN9qpwaR6EPc.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124110015 +0000" stop="20251124124425 +0000">
-    <title>Wall of Secrets</title>
-    <category>Movie</category>
-    <desc>A young couple move into an apartment, only to find they are being monitored by a mysterious stranger.</desc>
-    <date>20030731</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9ab792666133d031648c961f588999ad.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124124425 +0000" stop="20251124143021 +0000">
-    <title>View of Terror</title>
-    <category>Movie</category>
-    <desc>A stalker picks up the scent of a beautiful young woman.</desc>
-    <date>20030219</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b0f69913b79aaf51497eaaa9b2c211eb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124143021 +0000" stop="20251124161525 +0000">
-    <title>Video Voyeur</title>
-    <category>Movie</category>
-    <desc>After becoming a victim of video voyeurism, a Louisiana woman fights for justice.</desc>
-    <date>20020121</date>
-    <icon src="https://image.tmdb.org/t/p/original/4myR5wvCFqvbHsWubRS7dZxYkip.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124161525 +0000" stop="20251124180319 +0000">
-    <title>The Unspoken Truth</title>
-    <category>Movie</category>
-    <desc>A woman is convinced to take the blame for a crime her husband committed, and her life is thrown into turmoil.</desc>
-    <date>19950924</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/bd57192996e9bd781002728d0809c86f.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124180319 +0000" stop="20251124185657 +0000">
-    <title>The Royals</title>
-    <sub-title>Taint Not Thy Mind, Nor Let Thy Soul Contrive Against Thy Mother</sub-title>
-    <episode-num system="onscreen">S02E07</episode-num>
-    <desc>Queen Helena and Princess Eleanor share some unexpected bonding time as Prince Liam investigates Domino.</desc>
-    <date>20151227</date>
-    <icon src="https://image.tmdb.org/t/p/original/mu4dGakgpLMQQIVMSend2xZD1Ge.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124185657 +0000" stop="20251124195037 +0000">
-    <title>The Royals</title>
-    <sub-title>Be All My Sins Remembered</sub-title>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <desc>Relationships are forever changed when The Royals’ family history is called in to question.</desc>
-    <date>20160103</date>
-    <icon src="https://image.tmdb.org/t/p/original/2c3c9941FkumMQ3hcTC20YUlx4A.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124195037 +0000" stop="20251124202402 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125033830 +0000" stop="20251125041355 +0000">
     <title>Grace and Frankie</title>
     <sub-title>The Scavengender Hunt</sub-title>
     <episode-num system="onscreen">S04E02</episode-num>
@@ -271,7 +95,7 @@
     <icon src="https://image.tmdb.org/t/p/original/m0k8PfUNHZYNJ7EDkosXhekH1iU.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124202402 +0000" stop="20251124210000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125041355 +0000" stop="20251125044953 +0000">
     <title>Grace and Frankie</title>
     <sub-title>The Tappys</sub-title>
     <episode-num system="onscreen">S04E03</episode-num>
@@ -280,7 +104,7 @@
     <icon src="https://image.tmdb.org/t/p/original/h3cwdQMwkYGcneeDKivXcGwj0lp.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124210000 +0000" stop="20251124213345 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125044953 +0000" stop="20251125052538 +0000">
     <title>Grace and Frankie</title>
     <sub-title>The Expiration Date</sub-title>
     <episode-num system="onscreen">S04E04</episode-num>
@@ -289,7 +113,7 @@
     <icon src="https://image.tmdb.org/t/p/original/dFMsGtvJmtNzOb6VX2yP8htTI9E.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124213345 +0000" stop="20251124221013 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125052538 +0000" stop="20251125060206 +0000">
     <title>Grace and Frankie</title>
     <sub-title>The Pop-Ups</sub-title>
     <episode-num system="onscreen">S04E05</episode-num>
@@ -298,13 +122,207 @@
     <icon src="https://image.tmdb.org/t/p/original/vwkWoEa8ZVjvC60UQ84otVfIsJ1.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251124221013 +0000" stop="20251124224600 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125060206 +0000" stop="20251125064016 +0000">
     <title>Grace and Frankie</title>
     <sub-title>The Hinge</sub-title>
     <episode-num system="onscreen">S04E06</episode-num>
     <desc>Frankie reconnects with someone from her past. Grace refuses to slow down. Robert tries to make amends.</desc>
     <date>20180119</date>
     <icon src="https://image.tmdb.org/t/p/original/vSTi3rRr41rONzKodu2Tfj7NywM.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125064016 +0000" stop="20251125070714 +0000">
+    <title>Weeds</title>
+    <sub-title>Protection</sub-title>
+    <episode-num system="onscreen">S03E14</episode-num>
+    <desc>Nancy has another full week of trouble to deal with and Doug isn't helping.</desc>
+    <date>20071112</date>
+    <icon src="https://image.tmdb.org/t/p/original/PearsOUBwy18uf6PudNTeqqAHD.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125070714 +0000" stop="20251125073412 +0000">
+    <title>Weeds</title>
+    <sub-title>Go</sub-title>
+    <episode-num system="onscreen">S03E15</episode-num>
+    <desc>As the fire approaches, Nancy has her family pack up, while Conrad and Heylia say goodbye to the growhouse.</desc>
+    <date>20071119</date>
+    <icon src="https://image.tmdb.org/t/p/original/b5w8ZPIpdpR0y8wqU3FNdLgCfa8.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125073412 +0000" stop="20251125080110 +0000">
+    <title>Weeds</title>
+    <sub-title>Mother Thinks the Birds are After Her</sub-title>
+    <episode-num system="onscreen">S04E01</episode-num>
+    <desc>Nancy has relocated to the border in search of a new life but she soon finds her past to be inescapable.</desc>
+    <date>20080616</date>
+    <icon src="https://image.tmdb.org/t/p/original/4q6ME7N63a8TdrGM9tcMeA2Qorq.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125080110 +0000" stop="20251125082804 +0000">
+    <title>Weeds</title>
+    <sub-title>Lady's a Charm</sub-title>
+    <episode-num system="onscreen">S04E02</episode-num>
+    <desc>Nancy runs her first courier job for Guillermo across the border, but it doesn't go as planned.</desc>
+    <date>20080623</date>
+    <icon src="https://image.tmdb.org/t/p/original/w6fJ9UuSwefYuU6tLBiiyZYWQid.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125082804 +0000" stop="20251125085506 +0000">
+    <title>Weeds</title>
+    <sub-title>The Whole Blah Damn Thing</sub-title>
+    <episode-num system="onscreen">S04E03</episode-num>
+    <desc>Nancy completes her first job as drug courier. Celia closes a deal with Captain Till to get out of prison.</desc>
+    <date>20080630</date>
+    <icon src="https://image.tmdb.org/t/p/original/AoFT7WX1V0Q5gxlyX5l12GDqvSx.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125085506 +0000" stop="20251125092650 +0000">
+    <title>Nurse Jackie</title>
+    <sub-title>Pilot</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>A longtime ER nurse tries to conceal her addiction to painkillers she gets from her boyfriend, the pharmacist.</desc>
+    <date>20090608</date>
+    <icon src="https://image.tmdb.org/t/p/original/zCdS21S26owW1sA55iXK7VCEkPt.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125092650 +0000" stop="20251125095953 +0000">
+    <title>Nurse Jackie</title>
+    <sub-title>Sweet 'n All</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Jackie and her husband Kevin are worried that their daughter Grace might have an anxiety disorder.</desc>
+    <date>20090615</date>
+    <icon src="https://image.tmdb.org/t/p/original/bRuAxKOK6yLlmXGqMHT0tfr1NcQ.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125095953 +0000" stop="20251125103144 +0000">
+    <title>Nurse Jackie</title>
+    <sub-title>Chicken Soup</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Jackie meets a patient who uses his wife's chicken soup to treat his heart disease.</desc>
+    <date>20090622</date>
+    <icon src="https://image.tmdb.org/t/p/original/cu2vW946cOenOmjFTH3z67670kS.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125103144 +0000" stop="20251125110015 +0000">
+    <title>Nurse Jackie</title>
+    <sub-title>School Nurse</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Jackie and Kevin think about sending their daughter Grace to a private school.</desc>
+    <date>20090629</date>
+    <icon src="https://image.tmdb.org/t/p/original/d71wvaxGck5nWvynzmPPO6RnhwJ.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125110015 +0000" stop="20251125124305 +0000">
+    <title>Dangerous Evidence: Lori Jackson Story</title>
+    <category>Movie</category>
+    <desc>A civil rights activist fights the conviction of a black marine she felt was wrongly accused of rape.</desc>
+    <date>19990412</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a521bee913f6f1bdf97b879a2293e8f1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125124305 +0000" stop="20251125144450 +0000">
+    <title>Beyond a Reasonable Doubt</title>
+    <category>Movie</category>
+    <desc>Remake of the 1956 film noir film in which a writer's plan to expose a corrupt DA takes an unexpected turn.</desc>
+    <date>20090710</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/991e10cddc3ca68f9b0024a66f9ad215.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125144450 +0000" stop="20251125162930 +0000">
+    <title>Interrogation of Michael Crowe</title>
+    <category>Movie</category>
+    <desc>A mother's daughter is brutally murdered in her own bedroom and her 14-year old son becomes the chief suspect.</desc>
+    <date>20021204</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/eb2c06be82c3247e91f3c48adb101cd5.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125162930 +0000" stop="20251125181140 +0000">
+    <title>Guilt by Association</title>
+    <category>Movie</category>
+    <desc>Life abruptly changes for Susan when she discovers her perfect boyfriend is a drug dealer.</desc>
+    <date>20020313</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/ef926e82e4d7885de2722c49734c8cd6.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125181140 +0000" stop="20251125190519 +0000">
+    <title>The Royals</title>
+    <sub-title>andthen It Started Like a Guilty Thing</sub-title>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <desc>Uncertainty abounds as questions of the King's killer come up and the monarchy's structure is challenged.</desc>
+    <date>20160110</date>
+    <icon src="https://image.tmdb.org/t/p/original/8gl6LhbmyTmWIZ9Ci07vml5J9vH.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125190519 +0000" stop="20251125195655 +0000">
+    <title>The Royals</title>
+    <sub-title>The Serpent That Did Sting Thy Father's Life</sub-title>
+    <episode-num system="onscreen">S02E10</episode-num>
+    <desc>Princess Eleanor and Prince Liam learn who killed King Simon, while Queen Helena works to right her wrongs.</desc>
+    <date>20160117</date>
+    <icon src="https://image.tmdb.org/t/p/original/sHO2sIqED1YICrbHiIvvJ45lOI.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125195655 +0000" stop="20251125203505 +0000">
+    <title>Grace and Frankie</title>
+    <sub-title>The Hinge</sub-title>
+    <episode-num system="onscreen">S04E06</episode-num>
+    <desc>Frankie reconnects with someone from her past. Grace refuses to slow down. Robert tries to make amends.</desc>
+    <date>20180119</date>
+    <icon src="https://image.tmdb.org/t/p/original/vSTi3rRr41rONzKodu2Tfj7NywM.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125203505 +0000" stop="20251125210942 +0000">
+    <title>Grace and Frankie</title>
+    <sub-title>The Landline</sub-title>
+    <episode-num system="onscreen">S04E07</episode-num>
+    <desc>Frankie and Sol have a blast devising a plan to get Frankie declared legally alive again.</desc>
+    <date>20180119</date>
+    <icon src="https://image.tmdb.org/t/p/original/weT0m2jyLEGAAxAnQw3wwKhDjHI.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125210942 +0000" stop="20251125214049 +0000">
+    <title>Grace and Frankie</title>
+    <sub-title>The Lockdown</sub-title>
+    <episode-num system="onscreen">S04E08</episode-num>
+    <desc>Grace and Frankie wind up stuck with a bickering Robert and Sol when there's a neighborhood lockdown.</desc>
+    <date>20180119</date>
+    <icon src="https://image.tmdb.org/t/p/original/ikIpWYC2x4LanyyxFXfnSNZO9gY.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125214049 +0000" stop="20251125221231 +0000">
+    <title>Grace and Frankie</title>
+    <sub-title>The Knee</sub-title>
+    <episode-num system="onscreen">S04E09</episode-num>
+    <desc>Jacob gets upset with Frankie because she wants to spend all their couple time with the baby.</desc>
+    <date>20180119</date>
+    <icon src="https://image.tmdb.org/t/p/original/d8qjPanFHttKEXarnW0ZBWuwLJk.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125221231 +0000" stop="20251125224600 +0000">
+    <title>Grace and Frankie</title>
+    <sub-title>The Death Stick</sub-title>
+    <episode-num system="onscreen">S04E10</episode-num>
+    <desc>Robert and Sol begin therapy. Grace and Frankie get a surprise when they bring gifts to a fan.</desc>
+    <date>20180119</date>
+    <icon src="https://image.tmdb.org/t/p/original/r7VNXubLfjUqk9c1I56TUDLDl5n.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125224600 +0000" stop="20251125231304 +0000">
+    <title>Weeds</title>
+    <sub-title>The Three Coolers</sub-title>
+    <episode-num system="onscreen">S04E04</episode-num>
+    <desc>When Doug's work in Agrestic is investigated, he abdicates from responsibility and takes refuge in Ren Mar.</desc>
+    <date>20080707</date>
+    <icon src="https://image.tmdb.org/t/p/original/voqlA7XdHH7oeIV00fn0mpHzBo6.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20251125231304 +0000" stop="20251125234002 +0000">
+    <title>Weeds</title>
+    <sub-title>No Man is Pudding</sub-title>
+    <episode-num system="onscreen">S04E05</episode-num>
+    <desc>Left behind in the desert by Nancy, Andy joins a group of immigrants to get back home.</desc>
+    <date>20080714</date>
+    <icon src="https://image.tmdb.org/t/p/original/a1zUnHCjj4Ts2Al7KekyFwEp7fz.jpg" />
   </programme>
   
 </tv>
