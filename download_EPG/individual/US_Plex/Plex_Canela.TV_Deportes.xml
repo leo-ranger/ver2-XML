@@ -5,40 +5,89 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/f345c0b8-c5b8-49a4-82f2-28fa7fcfe7e8/CM-Plex-dark_logo-CanelaTV-deportes_-_Natalia_Rodriguez.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251128235224 +0000" stop="20251129002219 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251130000000 +0000" stop="20251130043032 +0000">
+    <title>En Vivo - ProBox - Serie de Contendientes:  Justin Pauldo vs Nike Theran</title>
+    <category>Movie</category>
+    <desc>ProBox TV - Peleas Competitivas de Gran Accion</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251130043032 +0000" stop="20251130073231 +0000">
+    <title>Series de Contendientes: Lopez vs Henderson</title>
+    <category>Movie</category>
+    <desc>Evento Estelar: Najee Lopez vs Kalvin Henderson.</desc>
+    <date>20250101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/570726888bee6ab1f9557be36605a4a2e02bc5b2_2x3.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251130073231 +0000" stop="20251130084051 +0000">
+    <title>Series de Contendientes: Flaz vs Johnson</title>
+    <category>Movie</category>
+    <desc>Evento Estelar: Nicklaus Flaz vs Delante Johnson.</desc>
+    <date>20250101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/d407aa98fd755207f988efe461bd887cf3eb3a22_2x3.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251130084051 +0000" stop="20251130104528 +0000">
+    <title>Ilusión Nacional</title>
+    <category>Movie</category>
+    <desc>Documental sobre la selección nacional de fútbol de México.</desc>
+    <date>20140101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251130104528 +0000" stop="20251130111904 +0000">
     <title>Íconos Nacionales</title>
-    <sub-title>Gerrard vs Alli</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Es el británico Gerrard vs Alli.</desc>
+    <sub-title>Henry vs Mbappé</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Los delanteros de Francia: Henry vs Mbappé.</desc>
     <date>20160101</date>
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/18fc9f0b-fd52-4fcd-b279-c6f189a18b89_iconos-nacionales_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251129002219 +0000" stop="20251129013000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251130111904 +0000" stop="20251130115000 +0000">
+    <title>Íconos Nacionales</title>
+    <sub-title>Eusébio vs Cristiano Ronaldo</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>¿Quién es el más grande de Portugal?</desc>
+    <date>20160101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/18fc9f0b-fd52-4fcd-b279-c6f189a18b89_iconos-nacionales_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251130115000 +0000" stop="20251130140000 +0000">
+    <title>En Vivo: Scottish - Hibernian vs Celtic</title>
+    <category>Movie</category>
+    <desc>Hibernian recibe a Celtic un partido dónde ambos equipos buscarán mantenerse en los primeros sitios.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251130140000 +0000" stop="20251130144056 +0000">
+    <title>Estrellas del Fútbol</title>
+    <sub-title>El Escándalo de Maradona</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>La vida de Maradona desde sus primeros años.</desc>
+    <date>20140101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ec0b290f-b34e-42c3-a4b0-c53fca4001cd_estrellas-de-futbol-1920x1080px-cris.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251130144056 +0000" stop="20251130165739 +0000">
+    <title>Hibernian vs Dundee United</title>
+    <category>Movie</category>
+    <desc>Choque de tradición y ambición en el fútbol escocés.</desc>
+    <date>20250101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/35e75ff71b99fbcdad8634c7124975329c6a91bb_2x3.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251130165739 +0000" stop="20251130175617 +0000">
     <title>Historias de Leyendas</title>
-    <sub-title>Mario Kempes</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Mario Kempes nos cuenta detalles íntimos de su vida dentro y fuera de la cancha.</desc>
+    <sub-title>Carlos Valderrama</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Luis Omar Tapia y el Pibe Valderrama revelan secretos que van más allá del fútbol.</desc>
     <date>20240101</date>
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/db4db0fa-2a81-4077-8906-2fefb60e0689_copia_de_cm-historias_de_leyendas-postergenerico-16x9_2.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251129013000 +0000" stop="20251129020000 +0000">
-    <title>El Score</title>
-    <category>Movie</category>
-    <desc>Todo lo que necesitas saber sobre la NFL, NBA y MLB</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251129020000 +0000" stop="20251129040026 +0000">
-    <title>Falkirk vs. Hibernian</title>
-    <category>Movie</category>
-    <desc>Hibernian visita la casa del Falkirk en un duelo dónde buscarán mantener la gran racha.</desc>
-    <date>20250101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/32dfd475f435a788233505803c4e73c772b6c023_2x3.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251129040026 +0000" stop="20251129043326 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251130175617 +0000" stop="20251130182617 +0000">
     <title>Tierra de Clubes</title>
     <sub-title>Chelsea</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -47,7 +96,7 @@
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ae345deb-e83d-43bb-9823-c390429c97a6_tierra-de-clubes_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251129043326 +0000" stop="20251129050627 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251130182617 +0000" stop="20251130185617 +0000">
     <title>Tierra de Clubes</title>
     <sub-title>New York Cosmos</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
@@ -56,7 +105,7 @@
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ae345deb-e83d-43bb-9823-c390429c97a6_tierra-de-clubes_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251129050627 +0000" stop="20251129053927 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251130185617 +0000" stop="20251130192617 +0000">
     <title>Tierra de Clubes</title>
     <sub-title>AS Roma</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
@@ -65,7 +114,7 @@
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ae345deb-e83d-43bb-9823-c390429c97a6_tierra-de-clubes_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251129053927 +0000" stop="20251129060927 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251130192617 +0000" stop="20251130195617 +0000">
     <title>Tierra de Clubes</title>
     <sub-title>Liverpool FC</sub-title>
     <episode-num system="onscreen">S01E04</episode-num>
@@ -74,7 +123,7 @@
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ae345deb-e83d-43bb-9823-c390429c97a6_tierra-de-clubes_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251129060927 +0000" stop="20251129063927 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251130195617 +0000" stop="20251130202617 +0000">
     <title>Tierra de Clubes</title>
     <sub-title>LA Galaxy</sub-title>
     <episode-num system="onscreen">S01E05</episode-num>
@@ -83,7 +132,7 @@
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ae345deb-e83d-43bb-9823-c390429c97a6_tierra-de-clubes_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251129063927 +0000" stop="20251129070928 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251130202617 +0000" stop="20251130205918 +0000">
     <title>Tierra de Clubes</title>
     <sub-title>Internazionale</sub-title>
     <episode-num system="onscreen">S01E06</episode-num>
@@ -92,7 +141,7 @@
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ae345deb-e83d-43bb-9823-c390429c97a6_tierra-de-clubes_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251129070928 +0000" stop="20251129073928 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251130205918 +0000" stop="20251130213219 +0000">
     <title>Tierra de Clubes</title>
     <sub-title>Corinthians</sub-title>
     <episode-num system="onscreen">S01E07</episode-num>
@@ -101,7 +150,7 @@
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ae345deb-e83d-43bb-9823-c390429c97a6_tierra-de-clubes_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251129073928 +0000" stop="20251129081729 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251130213219 +0000" stop="20251130220520 +0000">
     <title>Tierra de Clubes</title>
     <sub-title>Sío Paulo FC</sub-title>
     <episode-num system="onscreen">S01E08</episode-num>
@@ -110,46 +159,28 @@
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ae345deb-e83d-43bb-9823-c390429c97a6_tierra-de-clubes_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251129081729 +0000" stop="20251129111929 +0000">
-    <title>Series de Contendientes: Lopez vs Henderson</title>
-    <category>Movie</category>
-    <desc>Evento Estelar: Najee Lopez vs Kalvin Henderson.</desc>
-    <date>20250101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/570726888bee6ab1f9557be36605a4a2e02bc5b2_2x3.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251129111929 +0000" stop="20251129142428 +0000">
-    <title>Probox TV</title>
-    <sub-title>Serie de contendientes: Khegai vs Gonzalez</sub-title>
-    <episode-num system="onscreen">S02E22</episode-num>
-    <desc>Evento Estelar: Arnold Khegai vs Joet Gonzalez.</desc>
-    <date>20250101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5ce04980-5b87-4816-9134-60c7126c1543_16x9.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251129142428 +0000" stop="20251129184227 +0000">
-    <title>Serie de Contendientes: Lubin vs Holmes Jr</title>
-    <category>Movie</category>
-    <desc>Evento Estelar: Lubin vs Holmes Jr</desc>
-    <date>20250101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/8edc92c23f28afc42a9944cf4ec7500e8ca68307_2x3.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251129184227 +0000" stop="20251129200658 +0000">
-    <title>Probox TV</title>
-    <sub-title>MDB: Schramm vs Hernandez</sub-title>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <desc>Evento Principal: Guido Schramm vs Vladimir Hernandez</desc>
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251130220520 +0000" stop="20251130230000 +0000">
+    <title>Historias de Leyendas</title>
+    <sub-title>Javier Zanetti</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Por décadas, Javier Zanetti se mantuvo en la élite del fútbol.</desc>
     <date>20240101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5ce04980-5b87-4816-9134-60c7126c1543_16x9.png" />
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/db4db0fa-2a81-4077-8906-2fefb60e0689_copia_de_cm-historias_de_leyendas-postergenerico-16x9_2.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251129200658 +0000" stop="20251130043032 +0000">
-    <title>Serie de Contendientes: Hernandez Vs Veron</title>
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251130230000 +0000" stop="20251201003032 +0000">
+    <title>El Curubito</title>
     <category>Movie</category>
-    <desc>Evento Estelar: Vladimir Hernandez vs Francisco Veron.</desc>
+    <desc>Programa de entretenimiento deportivo en el que el fútbol se debate con garra y sin filtros.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251201003032 +0000" stop="20251201023028 +0000">
+    <title>RB Leipzig vs. Atalanta</title>
+    <category>Movie</category>
+    <desc>RB Leipzig y Atalanta se miden en un duelo explosivo que enciende la pretemporada europea.</desc>
     <date>20250101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/987746faec5d63b9b2756c17574a96ef3c388636_2x3.png" />
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/989c51f05f05646fc5c2d322bc2b21ba9fda0c9f_2x3.png" />
   </programme>
   
 </tv>
