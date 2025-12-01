@@ -5,85 +5,139 @@
     <icon src="https://provider-static.plex.tv/a/epg/channels/logos/gracenote/ac0e90e4853f26cfbcfd401790e7ab28.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20251130000000 +0000" stop="20251130043000 +0000">
-    <title>Boxing</title>
-    <sub-title>Jessie Magdaleno vs. Muhammadkhuja Yaqubov</sub-title>
-    <desc>Main Event: Jessie Magdaleno (30-3-0 19 KO's) vs. Muhammadkhuja Yaqubov (23-1-0, 12 KOs) Co-Main Event: Erik Badillo (18-0-1 8 KO's) vs. Elwin Soto (21-3-1 13 KO's)</desc>
-    <date>20251129</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20251130043000 +0000" stop="20251130073000 +0000">
-    <title>ProBox TV Contender Series</title>
-    <sub-title>McCrory vs. Carrillo</sub-title>
-    <desc>Padraig McCrory takes on Leonard Carrillo in a light heavyweight bout. From the SSE Arena, Belfast.</desc>
-    <date>20241101</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20251130073000 +0000" stop="20251130103000 +0000">
-    <title>ProBox TV Contender Series</title>
-    <sub-title>Palmetta vs Saracho</sub-title>
-    <episode-num system="onscreen">S03E12</episode-num>
-    <desc>Main Event Alberto Palmetta (19-2 -0) vs. Jesus Saracho (13-2 -1). Co-Main Event Joshua Franco (18-2 -3) vs. TBD.</desc>
-    <date>20240731</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20251130103000 +0000" stop="20251130110000 +0000">
-    <title>The Immortals</title>
-    <sub-title>Boxing's Best</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>A look at some of the greatest boxing icons of all time, including Muhammed Ali, Manny Pacquaio and Sugar Ray Robinson.</desc>
-    <date>20180423</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20251130110000 +0000" stop="20251130140000 +0000">
-    <title>PBR Teams Series</title>
-    <sub-title>PBR Teams 2024 Duluth Day 3</sub-title>
-    <desc>Day 3 of the 2024 PBR Teams: Duluth in Duluth, Ga.</desc>
-    <date>20240731</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20251130140000 +0000" stop="20251130150000 +0000">
-    <title>PBR Teams Series</title>
-    <sub-title>PBR Teams 2024 Duluth Game of the Week</sub-title>
-    <desc>Game of the Week at the 2024 PBR Teams: Duluth in Duluth, Ga.</desc>
-    <date>20240731</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20251130150000 +0000" stop="20251130170000 +0000">
-    <title>PBR Teams Series</title>
-    <sub-title>2024 Duluth Recap</sub-title>
-    <date>20240802</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20251130170000 +0000" stop="20251130183000 +0000">
-    <title>PBR: Unleash the Beast</title>
-    <sub-title>UTB 2025 Chicago Day 1</sub-title>
-    <episode-num system="onscreen">S2025E04</episode-num>
-    <desc>Top bull riders take on bucking bulls for a shot at championship gold.</desc>
-    <date>20250111</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20251130183000 +0000" stop="20251130203000 +0000">
-    <title>Becoming the G.O.A.T.: The Tom Brady Story</title>
-    <sub-title>Becoming the G.O.A.T.: The Tom Brady Story</sub-title>
-    <desc>With seven Super Bowl rings, countless records and a legendary arm, quarterback Tom Brady becomes the most successful NFL player of all time.</desc>
-    <date>20251130</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20251130203000 +0000" stop="20251130230000 +0000">
-    <title>Bellator MMA</title>
-    <sub-title>299: Eblen vs. Edwards</sub-title>
-    <episode-num system="onscreen">S2023E84</episode-num>
-    <desc>Johnny Eblen vs. Fabian Edwards, middleweight championship bout; Aaron Pico vs. Pedro Carvalho, featherweights; Mads Burnell vs. Daniel Weichel, featherweights. From Sept. 23, 2023 in Dublin.</desc>
-    <date>20231030</date>
-  </programme>
-  
 <programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20251130230000 +0000" stop="20251201013000 +0000">
     <title>Bellator MMA</title>
     <sub-title>300: Nurmagomedov vs. Primus</sub-title>
     <episode-num system="onscreen">S2023E85</episode-num>
     <desc>Usman Nurmagomedov battles Brent Primus in a lightweight championship bout. From Oct. 7, 2023 at Pechanga Arena in San Diego.</desc>
     <date>20231110</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20251201013000 +0000" stop="20251201033000 +0000">
+    <title>Bellator MMA</title>
+    <sub-title>301: Amosov vs. Jackson</sub-title>
+    <desc>Yaroslav Amosov vs. Jason Jackson, welterweight title bout. From Nov. 17, 2023 at Wintrust Arena in Chicago.</desc>
+    <date>20250513</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/609c74e173bb03b31f5fb4f3fa11c3ec.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20251201033000 +0000" stop="20251201060000 +0000">
+    <title>Bellator MMA</title>
+    <sub-title>Bellator 266: Davis vs. Romero</sub-title>
+    <episode-num system="onscreen">S2021E89</episode-num>
+    <desc>Former light heavyweight champion, Phil Davis (21-5) takes on Yoel Romero (13-5) who makes his Bellator debut. From Sept. 18, 2021 at the SAP Center in San Jose, Calif.</desc>
+    <date>20211027</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20251201060000 +0000" stop="20251201073000 +0000">
+    <title>Bellator MMA</title>
+    <sub-title>Bellator 265: Kongo vs. Kharitonov</sub-title>
+    <episode-num system="onscreen">S2021E83</episode-num>
+    <desc>Cheick Kongo takes on Sergei Kharitonov in the main event from Sioux Falls, S.D., Aug. 8, 2021.</desc>
+    <date>20210929</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f6f62c2516edfb9d5edf15977007b302.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20251201073000 +0000" stop="20251201093000 +0000">
+    <title>Bellator MMA</title>
+    <sub-title>2023 Bellator x Rizin: Pitbull vs. DeSouza</sub-title>
+    <desc>Patricky Pitbull vs. Roberto de Souza, lightweight world grand prix bout. From July 30, 2023.</desc>
+    <date>20241218</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d1256b82bc5ab1166bcadc69a9800ae9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20251201093000 +0000" stop="20251201100000 +0000">
+    <title>The Immortals</title>
+    <sub-title>Tennis Icons</sub-title>
+    <episode-num system="onscreen">S2024E17</episode-num>
+    <desc>A celebration of the sporting careers of some of the greatest athletes in their fields.</desc>
+    <date>20240322</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20251201100000 +0000" stop="20251201103000 +0000">
+    <title>The Immortals</title>
+    <sub-title>Beckenbauer/Ronaldinho/Romario</sub-title>
+    <episode-num system="onscreen">S2024E42</episode-num>
+    <desc>A celebration of the sporting careers of some of the greatest athletes in their fields.</desc>
+    <date>20241001</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20251201103000 +0000" stop="20251201110000 +0000">
+    <title>The Immortals</title>
+    <sub-title>The Immortals</sub-title>
+    <episode-num system="onscreen">S2021E28</episode-num>
+    <desc>The rise of the UK's Wayne Rooney; Barcelona greats Luis Figo and Andrés Iniesta; Scotsman Kenny Dalglish.</desc>
+    <date>20210711</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20251201110000 +0000" stop="20251201133000 +0000">
+    <title>PBR Teams Series</title>
+    <sub-title>2024: Sunrise Day 1</sub-title>
+    <date>20240806</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20251201133000 +0000" stop="20251201160000 +0000">
+    <title>PBR: Unleash the Beast</title>
+    <sub-title>UTB 2025 Houston Day 1</sub-title>
+    <episode-num system="onscreen">S2025E07</episode-num>
+    <desc>Top bull riders take on bucking bulls for a shot at championship gold.</desc>
+    <date>20250118</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20251201160000 +0000" stop="20251201190000 +0000">
+    <title>ProBox TV Contender Series</title>
+    <sub-title>Cano vs Ochoa</sub-title>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <desc>Live boxing featuring undefeated fighters including Cano vs Ochoa.</desc>
+    <date>20231004</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20251201190000 +0000" stop="20251201200000 +0000">
+    <title>BKFC: Knuckle Up</title>
+    <sub-title>Vicens vs Lybarger &amp; More</sub-title>
+    <episode-num system="onscreen">S03E09</episode-num>
+    <desc>Bryan Duran faces off against first time bare knuckle brawler Kobe Bowen, then Blake Davis takes on Will Dunkle and Cuban Christine Vincens fights MMA brawler Joceelyn Lybarger-Jones.</desc>
+    <date>20230207</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20251201200000 +0000" stop="20251201210000 +0000">
+    <title>BKFC: Knuckle Up</title>
+    <sub-title>Perez vs Fuller &amp; More</sub-title>
+    <episode-num system="onscreen">S03E10</episode-num>
+    <desc>Matt Russo takes on Brett Lowry followed by Jeremy Smith vs Leo Valdivia, and Guillermo Perez dukes it out with Rob Fuller.</desc>
+    <date>20230208</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20251201210000 +0000" stop="20251201220000 +0000">
+    <title>BKFC: Knuckle Up</title>
+    <sub-title>Palomino vs Shoaff &amp; More</sub-title>
+    <episode-num system="onscreen">S03E11</episode-num>
+    <desc>Exciting featherweights Louie Lopez and Howard Davis get it with a flash bang! Then watch a middleweight title fight between Francesco Ricchi and David Mundell followed by a lightweight title fight between Luis Palomino and Tom Shoaff.</desc>
+    <date>20230209</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20251201220000 +0000" stop="20251201230000 +0000">
+    <title>BKFC: Knuckle Up</title>
+    <sub-title>Slaveski vs Yosdenis Cedeno &amp; more</sub-title>
+    <episode-num system="onscreen">S03E12</episode-num>
+    <desc>Devin Gibson takes on Albert Inclan in Myrtle Beach, and then Andy Nguyen fights Veronika Dmitriyeva. Rounding out this hour with Macedonian Gorjan Slaveski vs Cuba's Yosdenis Cedeno.</desc>
+    <date>20230210</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20251201230000 +0000" stop="20251202000000 +0000">
+    <title>BKFC: Knuckle Up</title>
+    <sub-title>Four Phat Fights</sub-title>
+    <episode-num system="onscreen">S04E01</episode-num>
+    <desc>Featuring exciting bare knuckle fight action as James 'Get Down' Brown fights Stevo Morris, Brandon Bushaw battles Paul Teague, Rober Armas vs Jakobi Lowry, and Jordan Weeks vs Murat Kazgan.</desc>
+    <date>20230424</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20251202000000 +0000" stop="20251202010000 +0000">
+    <title>BKFC: Knuckle Up</title>
+    <sub-title>Loco' Soto vs Reid &amp; More</sub-title>
+    <episode-num system="onscreen">S04E02</episode-num>
+    <desc>The best of bare knuckle fight action with Trevor Loken vs Marcus Brimage, Devin Gibson vs Albert Inclan, and topped off with Tony 'Loco' Soto taking on Wayna Reid.</desc>
+    <date>20230501</date>
   </programme>
   
 </tv>
