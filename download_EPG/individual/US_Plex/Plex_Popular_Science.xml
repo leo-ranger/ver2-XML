@@ -5,288 +5,119 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/c6bfca5e-58fe-4ed4-a87d-5e2ccde7f085/Logo_Art_-_Popular_Science_Dark_Backgrounds.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251205235207 +0000" stop="20251206014223 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251207000714 +0000" stop="20251207015548 +0000">
+    <title>Deep Web</title>
+    <category>Movie</category>
+    <desc>Deep Web guides us through the inside story of one of the most riveting digital crime sagas of the modern era.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251207015548 +0000" stop="20251207035709 +0000">
+    <title>The Mindfulness Movement</title>
+    <category>Movie</category>
+    <desc>The Mindfulness Movement follows people who believe present-moment awareness can build a happier world.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251207035709 +0000" stop="20251207054044 +0000">
+    <title>It's Quieter in the Twilight</title>
+    <category>Movie</category>
+    <desc>In an unremarkable office space, a select group of aging engineers ensures a legendary spacecraft lives on.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251207054044 +0000" stop="20251207073937 +0000">
+    <title>The Last Man on the Moon</title>
+    <category>Movie</category>
+    <desc>The epic story of astronaut Gene Cernan's trip to the moon in 1972, and the emotional journey behind it.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251207073937 +0000" stop="20251207092952 +0000">
     <title>The Lake at the Bottom of the World</title>
     <category>Movie</category>
     <desc>Explore the mysteries of one of Earth’s most remote and unique bodies of water.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206014223 +0000" stop="20251206023840 +0000">
-    <title>Crash Course: History of Science</title>
-    <sub-title>Genetics, Thermodynamics, Electricity, Cars</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Join us for an exciting journey through the history of science.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/50b0a522-beb8-4ac9-be51-da648c3a450d_the-history-of-science-s1-e7_ab9f448a-91fa-4cd1-88bd-4048bc90f397_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206023840 +0000" stop="20251206033437 +0000">
-    <title>Crash Course: History of Science</title>
-    <sub-title>Movies, Radio &amp; TV, Marie Curie, Einstein</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Dive into revolutionary discoveries and the scientists who reshaped our understanding of the world.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/40f4418d-2205-4786-bafe-c6d039f1acd8_the-history-of-science-s1-e8_c0904118-44da-41b1-a452-f2b6c38211f7_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206033437 +0000" stop="20251206042352 +0000">
-    <title>Crash Course: Geography</title>
-    <sub-title>Groundwater, Glaciers, Natural Hazards, Human Geography</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Explore groundwater, glaciers, natural hazards, and human geography shaping Earth’s surface and environments.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/94de1352-7245-4c76-8cf1-641269e629ca_groundwater-glaciers-natural-hazards-human-geography_d46721b1-b96e-46b7-8c64-5a4dc40e6136_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206042352 +0000" stop="20251206051803 +0000">
-    <title>Crash Course: Geography</title>
-    <sub-title>Cultures, Languge, Religion, Why We Move</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Explore cultures, language, religion, and human migration as key parts of how and why people move and connect.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/1bf4a271-5e61-477f-b4c8-3c83ac4135dc_cultures-languge-religion-why-we-move_4dc692b9-dec1-4795-8810-011bb42e3d24_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206051803 +0000" stop="20251206060446 +0000">
-    <title>Crash Course: Biology</title>
-    <sub-title>Human Evolution, Carbon &amp; Biological Molecules, Water</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Discover the fascinating world of ecology as we explore ecosystems and the interdependence of organisms.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/9936ee82-79c8-47fa-bff2-df0e7eaf05f2_cc-biology-episode-7_863f3cb6-1302-407b-8419-a22d36fb0a6f_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206060446 +0000" stop="20251206065201 +0000">
-    <title>Crash Course: Biology</title>
-    <sub-title>Microscopes, Tour of the Cell, Cell Membrane</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Delve into the complexities of evolution as we examine natural selection, adaptation, and diversity of life.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/40d869e3-c6e9-423a-9058-966cf1f993f6_cc-biology-episode-8_336c6dc7-ea32-4ebf-be45-0e7bd19bcef5_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206065201 +0000" stop="20251206073959 +0000">
-    <title>Hacksmith: Make It Real</title>
-    <sub-title>Adamantium Claws, CD Launcher, Mortal Kombat</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Unleash iconic pop culture tech and weapons, from Wolverine's adamantium claws to the epic CD launcher.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/301213b7-fb7e-428a-9199-a177af7726e5_adamantium-claws-cd-launcher-mortal-kombat_2f3f204e-fab1-475a-827a-1bc99baf92ac_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206073959 +0000" stop="20251206082831 +0000">
-    <title>Hacksmith: Make It Real</title>
-    <sub-title>Rocket Arm, Fire Sword, Flaming Helmet</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Explore some of the most explosive and fiery inventions, from the rocket arm to the blazing fire sword.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/7fd1521c-9d8d-4e7d-a712-768824cef53f_rocket-arm-fire-sword-flaming-helmet_73707d89-90ad-4c29-b3b9-515a49adf39b_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206082831 +0000" stop="20251206092402 +0000">
-    <title>Hacksmith: Make It Real</title>
-    <sub-title>Fortnite Sword, Halo Helmet, Ice Blaster</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Dive into iconic gaming gear, from the mighty Fortnite sword to the legendary Halo helmet and ice blaster.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/a4bca146-daa2-4382-8dc9-cc1d1c5fc2d0_fortnite-sword-halo-helmet-ice-blaster_e322b00c-5e54-4912-addd-178c171579e8_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206092402 +0000" stop="20251206094348 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251207092952 +0000" stop="20251207094857 +0000">
     <title>How to Survive</title>
-    <sub-title>Accidents Happen</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Delve into the unexpected moments where accidents strike, from everyday mishaps to life-changing incidents, an</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/9c1079d5-1ae6-4708-8850-03947389da39_accidents-happen_2a4942ed-1f85-4ce6-9355-0f5500c3f0b8_thumbnail_1920x1080.png" />
+    <sub-title>Have a Cold One</sub-title>
+    <episode-num system="onscreen">S01E57</episode-num>
+    <desc>Chill out and explore the coldest places on Earth, from freezing landscapes to the science behind surviving ex</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/7323d74c-f725-4683-9b0d-0dfd8cd27f90_have-a-cold-one_75d72f62-c957-472b-8cd6-44c5137f5dc0_thumbnail_1920x1080.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206094348 +0000" stop="20251206100616 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251207094857 +0000" stop="20251207101207 +0000">
     <title>How to Survive</title>
-    <sub-title>People Are Strange</sub-title>
-    <episode-num system="onscreen">S01E23</episode-num>
-    <desc>Explore the fascinating and bizarre behaviors of people, from quirky habits to unexpected actions that make us</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/5839cbf9-3e84-4cd2-a119-df67437aa067_people-are-strange_5444094a-888b-43ec-8c34-ce3ee0796aea_thumbnail_1920x1080.png" />
+    <sub-title>Hostile Places</sub-title>
+    <episode-num system="onscreen">S01E64</episode-num>
+    <desc>Venture into the world’s most dangerous and hostile environments and extreme natural conditions.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/92a2350f-6980-4550-9648-0d2c3d1ffc36_hostile-places_da3d7ce5-f951-496c-9b44-620ab45241cb_thumbnail_1920x1080.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206100616 +0000" stop="20251206102850 +0000">
-    <title>How to Survive</title>
-    <sub-title>Chilling Predictions</sub-title>
-    <episode-num system="onscreen">S01E23</episode-num>
-    <desc>Uncover the eerie predictions for the future, from climate change to technological advancements, and explore h</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/634314cb-40d4-4aaa-8654-fa77b8122d8a_chilling-predictions_e16f10e0-5ebf-45fc-b4d9-deb202870af0_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206102850 +0000" stop="20251206105246 +0000">
-    <title>How to Survive</title>
-    <sub-title>Not Safe for Kids</sub-title>
-    <episode-num system="onscreen">S01E40</episode-num>
-    <desc>Explore topics and situations that are far from child-friendly, from dangerous stunts to controversial subject</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/ccc4de81-d0b6-43d8-ac1f-0967c29b7911_not-safe-for-kids_0e537a36-8953-4937-aa76-e7b3b32ba92b_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206105246 +0000" stop="20251206112051 +0000">
-    <title>How to Survive</title>
-    <sub-title>Death Row to World War</sub-title>
-    <episode-num system="onscreen">S01E80</episode-num>
-    <desc>Explore stories from death row to world war and how extreme experiences shape human history.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/9f3b28ec-b4da-4f3c-b197-c79cd68b2782_death-row-to-world-war_08eae709-d834-44ba-9654-50afb487d563_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206112051 +0000" stop="20251206120959 +0000">
-    <title>Aperture</title>
-    <sub-title>Invisible Puppeteers</sub-title>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <desc>Uncover the unseen forces and influences that shape our actions, decisions, and societies.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/f9834edc-f48a-4a23-9c5b-c406e14dc8de_invisible-puppeteers_8e12793c-1300-4d6c-9984-2f71c13158c6_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206120959 +0000" stop="20251206125752 +0000">
-    <title>Aperture</title>
-    <sub-title>DIY Destiny</sub-title>
-    <episode-num system="onscreen">S01E30</episode-num>
-    <desc>DIY Destiny</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/4d8906ff-cb8c-4947-9a90-5e0b6cca5096_diy-destiny_1757f6e0-a5b0-4960-a112-21b1a9933e70_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206125752 +0000" stop="20251206132455 +0000">
-    <title>What If: Humanity</title>
-    <sub-title>Let Me Out</sub-title>
-    <episode-num system="onscreen">S01E28</episode-num>
-    <desc>Step into the world of confinement and escape, exploring the psychology of being trapped.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/6ad4fa39-cfe3-41e4-ad95-2741a9b01700_let-me-out_86097b9d-c0f6-4d5d-bb30-a681c1f394ba_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206132455 +0000" stop="20251206135927 +0000">
-    <title>What If: Planet Earth</title>
-    <sub-title>Unlikely Abodes: Crazy Places to Call Home</sub-title>
-    <episode-num system="onscreen">S02E12</episode-num>
-    <desc>Explore the most unusual and extreme places people call home, from remote islands to underground dwellings.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/b12bcb74-8063-4170-8f8d-7059a11e0479_unlikely-abodes-crazy-places-to-call-home_f10c8966-ecd8-4135-ae32-3dfafb4274e0_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206135927 +0000" stop="20251206141846 +0000">
-    <title>What If: Planet Earth</title>
-    <sub-title>Uncomfortable Creature Comforts</sub-title>
-    <episode-num system="onscreen">S01E121</episode-num>
-    <desc>The strange and sometimes uncomfortable ways we seek comfort with bizarre habits and peculiar inventions.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/76d03222-0826-4c3a-b0c1-982c488418f1_uncomfortable-creature-comforts_2f704934-1a9d-4e33-aa71-fcb7324f0208_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206141846 +0000" stop="20251206144712 +0000">
-    <title>What If: Planet Earth</title>
-    <sub-title>Staying Alive: Facing Nature's Deadliest Dangers</sub-title>
-    <episode-num system="onscreen">S01E81</episode-num>
-    <desc>Discover how humans and animals survive nature’s most lethal challenges, from predators to natural disasters!</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/7aa1f5bf-d4b6-4140-857c-732e3707438d_staying-alive-facing-nature-s-deadliest-dangers_49a76221-1f75-4057-808d-16039d76a3e5_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206144712 +0000" stop="20251206151603 +0000">
-    <title>What If: Body</title>
-    <sub-title>Born Again: Powering our Bodies</sub-title>
-    <episode-num system="onscreen">S01E86</episode-num>
-    <desc>Explore the fascinating ways our bodies generate, store, and use energy.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/142afa65-f372-4936-bc67-4ecd72f626b2_born-again-powering-our-bodies_4ca54fe9-9e75-4a6e-bf08-3e1ea2357bcd_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206151603 +0000" stop="20251206153906 +0000">
-    <title>What If: Body</title>
-    <sub-title>Don't hold your breath</sub-title>
-    <episode-num system="onscreen">S01E93</episode-num>
-    <desc>Take a deep dive into the science of breath-holding, exploring human limits, underwater feats, and</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/f0667677-f480-4e5d-ba88-701da3bca922_don-t-hold-your-breath_6ac0840e-7cd3-4fa5-9006-a89a820698a9_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206153906 +0000" stop="20251206162646 +0000">
-    <title>Aperture</title>
-    <sub-title>Space and Beyond</sub-title>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <desc>Embark on a thrilling journey through the cosmos, the mysteries of deep space and cutting-edge technology.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/a4245ac7-d8d4-49d8-aef4-96b31ca0bd8e_space-and-beyond_3fdcfe4a-7789-4884-92f5-145fb10ae884_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206162646 +0000" stop="20251206170550 +0000">
-    <title>Aperture</title>
-    <sub-title>Peak Performance Paradox</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <desc>Explore the surprising contradictions behind achieving peak performance, and the pressures of success.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/34a7ca02-7526-424c-98ec-b08603d8788e_peak-performance-paradox_475cab28-6efa-4b07-9fea-c5070fc9ecf5_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206170550 +0000" stop="20251206173556 +0000">
-    <title>What If: Cosmos</title>
-    <sub-title>Galactic Shift: Unlocking Space Exploration</sub-title>
-    <episode-num system="onscreen">S01E85</episode-num>
-    <desc>Dive into the future of space travel and the innovations driving a new era of exploration in 'Galactic Shift'!</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/988d33d7-6028-44c3-b7b6-64289ba050c1_galactic-shift-unlocking-space-exploration_e5151628-026a-41a6-a6f1-69f7a0aaa752_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206173556 +0000" stop="20251206180452 +0000">
-    <title>What If: Cosmos</title>
-    <sub-title>Jumping Into Saturn, Black Holes, and Disco Moons</sub-title>
-    <episode-num system="onscreen">S01E97</episode-num>
-    <desc>Get groovy with science as we leap into Saturn, black holes, and the shimmering secrets of disco moons!</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/cb3073f3-e51d-4004-b50d-d6d25eae6acd_do-the-hustle-jumping-into-saturn-black-holes-and-disco-moons_c267ef78-91f2-4c26-a214-aa664a66dd24_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206180452 +0000" stop="20251206182740 +0000">
-    <title>What If: Cosmos</title>
-    <sub-title>A Star Is Born: Changing Orbits and the Birth of a New Star</sub-title>
-    <episode-num system="onscreen">S01E100</episode-num>
-    <desc>Experience the cosmic dance of changing orbits that leads to the birth of a new star.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/9fc89c9a-27c5-4782-a245-e01c16c3d33f_a-star-is-born-changing-orbits-and-the-birth-of-a-new-star_137b696e-a0fa-4cef-8b03-117e56bfe6e2_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206182740 +0000" stop="20251206185704 +0000">
-    <title>What If: Cosmos</title>
-    <sub-title>Unwanted Visitors: Black Holes, Killer Whales, and Cosmic Collisions</sub-title>
-    <episode-num system="onscreen">S01E36</episode-num>
-    <desc>Dive into the dangers of nature and the cosmos as we face black holes, killer whales, and cosmic collisions.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/d9dbbe89-7e9e-43d4-95e6-a74fedf27fa3_unwanted-visitors-black-holes-killer-whales-and-cosmic-collisions_8a8611aa-02c9-4c29-85d5-10353a4a378d_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206185704 +0000" stop="20251206192603 +0000">
-    <title>What If: Aliens</title>
-    <sub-title>Out of this world: Exploring Alien Life</sub-title>
-    <episode-num system="onscreen">S01E66</episode-num>
-    <desc>Venture beyond Earth to uncover the possibilities of alien life.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/465d2ade-c988-4c34-87f0-c1936226ea60_out-of-this-world-exploring-alien-life_cfebf8e1-3772-4a07-8f33-85630520eead_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206192603 +0000" stop="20251206195214 +0000">
-    <title>What If: Planet Earth</title>
-    <sub-title>Life, Not As We Know It</sub-title>
-    <episode-num system="onscreen">S01E123</episode-num>
-    <desc>Discover the possibilities of alien biology and life forms beyond our imagination.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/3c9447a1-8ded-4182-8611-6f6c09479039_life-not-as-we-know-it_e5c4cb70-9516-491d-b00d-a0c366c74b42_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206195214 +0000" stop="20251206202600 +0000">
-    <title>What If: Aliens</title>
-    <sub-title>Hello Goodbye: Zombie Survival, Alien Contact, and Life on Mars</sub-title>
-    <episode-num system="onscreen">S01E22</episode-num>
-    <desc>Navigate the challenges of zombie outbreaks, first contact with aliens, and the reality of surviving on Mars!</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/2a0a2c93-69af-427b-b545-39d641e29027_hello-goodbye-zombie-survival-alien-contact-and-life-on-mars_3dc73369-cc3f-4bfa-ad67-e784bcdd21e8_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206202600 +0000" stop="20251206211222 +0000">
-    <title>Aperture</title>
-    <sub-title>Scales of Wonder</sub-title>
-    <episode-num system="onscreen">S01E17</episode-num>
-    <desc>Venture through extreme environments, from the depths of oceans and scorching deserts to the surface of Mars.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/88e7be70-f1eb-4fab-b5bb-7a73d339cdda_scales-of-wonder_0a39c884-f765-4ca6-8b07-a9ddfc8dd7cf_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206211222 +0000" stop="20251206215904 +0000">
-    <title>Aperture</title>
-    <sub-title>Oceans, Deserts and the Red Planet</sub-title>
-    <episode-num system="onscreen">S01E15</episode-num>
-    <desc>Venture through Earth’s most extreme environments, from the depths of the oceans and scorching deserts.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/75f0bf74-2f38-4131-bd96-648b6eca731a_oceans-deserts-and-the-red-planet_07798228-3d11-44e2-9f1d-ede1ef2d5a1c_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251206215904 +0000" stop="20251207000714 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251207101207 +0000" stop="20251207122018 +0000">
     <title>After Antarctica</title>
     <category>Movie</category>
     <desc>After Antarctica follows polar explorer Will Steger’s journey as an eyewitness to the significant change.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251207000714 +0000" stop="20251207015548 +0000">
-    <title>Deep Web</title>
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251207122018 +0000" stop="20251207135827 +0000">
+    <title>Rivers End</title>
     <category>Movie</category>
-    <desc>Deep Web guides us through the inside story of one of the most riveting digital crime sagas of the modern era.</desc>
+    <desc>Revealing California’s complex struggle over who gets fresh water, and how moneyed interests game the system.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251207135827 +0000" stop="20251207155928 +0000">
+    <title>The Mindfulness Movement</title>
+    <category>Movie</category>
+    <desc>The Mindfulness Movement follows people who believe present-moment awareness can build a happier world.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251207155928 +0000" stop="20251207174257 +0000">
+    <title>It's Quieter in the Twilight</title>
+    <category>Movie</category>
+    <desc>In an unremarkable office space, a select group of aging engineers ensures a legendary spacecraft lives on.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251207174257 +0000" stop="20251207194158 +0000">
+    <title>The Last Man on the Moon</title>
+    <category>Movie</category>
+    <desc>The epic story of astronaut Gene Cernan's trip to the moon in 1972, and the emotional journey behind it.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251207194158 +0000" stop="20251207213236 +0000">
+    <title>The Lake at the Bottom of the World</title>
+    <category>Movie</category>
+    <desc>Explore the mysteries of one of Earth’s most remote and unique bodies of water.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251207213236 +0000" stop="20251207215146 +0000">
+    <title>How to Survive</title>
+    <sub-title>Have a Cold One</sub-title>
+    <episode-num system="onscreen">S01E57</episode-num>
+    <desc>Chill out and explore the coldest places on Earth, from freezing landscapes to the science behind surviving ex</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/7323d74c-f725-4683-9b0d-0dfd8cd27f90_have-a-cold-one_75d72f62-c957-472b-8cd6-44c5137f5dc0_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251207215146 +0000" stop="20251207221457 +0000">
+    <title>How to Survive</title>
+    <sub-title>Hostile Places</sub-title>
+    <episode-num system="onscreen">S01E64</episode-num>
+    <desc>Venture into the world’s most dangerous and hostile environments and extreme natural conditions.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/92a2350f-6980-4550-9648-0d2c3d1ffc36_hostile-places_da3d7ce5-f951-496c-9b44-620ab45241cb_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20251207221457 +0000" stop="20251208002321 +0000">
+    <title>After Antarctica</title>
+    <category>Movie</category>
+    <desc>After Antarctica follows polar explorer Will Steger’s journey as an eyewitness to the significant change.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
   </programme>
   

@@ -5,39 +5,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/a4713cf8-8897-41c2-bab4-132f733d3f5f/TC2_Logo_Plex_1500X1000_LightRDX.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20251205230000 +0000" stop="20251206030000 +0000">
-    <title>Roland Garros</title>
-    <sub-title>2022</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Final Rafael Nadal (ESP) vs. Novak Djokovic (SRB)</desc>
-    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_ROLAND_GARROS_TC2.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20251206030000 +0000" stop="20251206063000 +0000">
-    <title>Madrid-WTA</title>
-    <sub-title>Madrid Open 2024</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Final Iga Swiatek (POL) vs. Aryna Sabalenka (BLR)</desc>
-    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_MADRID.jpeg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20251206063000 +0000" stop="20251206103000 +0000">
-    <title>Australian Open</title>
-    <sub-title>2017 </sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Final Roger Federer (SUI) vs. Rafael Nadal (ESP)</desc>
-    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_AUSTRALIAN_OPEN_TC2.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20251206103000 +0000" stop="20251206110000 +0000">
-    <title>Road To</title>
-    <sub-title>Roger Federer</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>A  recap of Swiss legend Roger Federer's championship journey at the 2017 Australian Open</desc>
-    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16X9_RoadTo.jpeg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20251206110000 +0000" stop="20251206140000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20251206233000 +0000" stop="20251207023000 +0000">
     <title>Roland Garros</title>
     <sub-title>2025  Open</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -45,7 +13,7 @@
     <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_ROLAND_GARROS_TC2.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20251206140000 +0000" stop="20251206170000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20251207023000 +0000" stop="20251207053000 +0000">
     <title>Vienna</title>
     <sub-title>2025 Final</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -53,7 +21,7 @@
     <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_VIENNA_2025.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20251206170000 +0000" stop="20251206233000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20251207053000 +0000" stop="20251207110000 +0000">
     <title>Roland Garros</title>
     <sub-title>2025  Open</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -61,12 +29,36 @@
     <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_ROLAND_GARROS_TC2.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20251206233000 +0000" stop="20251207023000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20251207110000 +0000" stop="20251207133000 +0000">
+    <title>Miami</title>
+    <sub-title>Open 2025 Final</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Final Jakub Mensik (CZE) vs. Novak Djokovic (SRB)</desc>
+    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_MIAMI_OPEN_ON_T2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20251207133000 +0000" stop="20251207160000 +0000">
+    <title>Indian Wells-WTA</title>
+    <sub-title>2025 Indian Wells Open</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Final Mirra Andreeva (RUS) vs Aryna Sabalenka (BEL)</desc>
+    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_IW_2025_on_T2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20251207160000 +0000" stop="20251207223000 +0000">
     <title>Roland Garros</title>
     <sub-title>2025  Open</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Final Coco Gauff (USA) vs. Aryna Sabalenka (BLR)</desc>
+    <desc>Final Carlos Alcaraz (ESP) vs. Jannik Sinner (ITA)</desc>
     <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_ROLAND_GARROS_TC2.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20251207223000 +0000" stop="20251208010000 +0000">
+    <title>Miami</title>
+    <sub-title>Open 2025 Final</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Final Jakub Mensik (CZE) vs. Novak Djokovic (SRB)</desc>
+    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_MIAMI_OPEN_ON_T2.jpg" />
   </programme>
   
 </tv>
