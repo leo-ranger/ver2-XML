@@ -5,7 +5,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/a7617b69-6d23-46d0-8e8e-e4ec9fa29d59/NFL_WHITE.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251207180000 +0000" stop="20251208020000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209011500 +0000" stop="20251209043000 +0000">
     <title>NFL GameCenter Live</title>
     <sub-title>NFL GameCenter Live</sub-title>
     <episode-num system="onscreen">S2025E13</episode-num>
@@ -13,22 +13,78 @@
     <date>20251204</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251208020000 +0000" stop="20251208043000 +0000">
-    <title>NFL GameCenter Live</title>
-    <sub-title>NFL GameCenter Live</sub-title>
-    <episode-num system="onscreen">S2025E13</episode-num>
-    <desc>Get NFL score updates, highlights, news and more from Week 14 of the 2025 NFL season.</desc>
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209043000 +0000" stop="20251209053000 +0000">
+    <title>The Insiders</title>
+    <sub-title>The Insiders</sub-title>
+    <desc>NFL Media Insiders Ian Rapoport, Mike Garafolo, Tom Pelissero, and Judy Battista deliver the inside scoop and latest storylines ahead of Week 14 during the 2025 NFL season.</desc>
     <date>20251204</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251208043000 +0000" stop="20251208080600 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209053000 +0000" stop="20251209054800 +0000">
     <title>Weekly Game Recaps</title>
-    <sub-title>Weekly Game Recaps</sub-title>
-    <desc>Highlights and interviews from the NFL.</desc>
-    <date>20251208</date>
+    <sub-title>Seahawks vs. Falcons Highlights - Week 14</sub-title>
+    <episode-num system="onscreen">S2025E182</episode-num>
+    <desc>Highlights from the Week 14 matchup between the Seattle Seahawks and the Atlanta Falcons during the 2025 NFL season.</desc>
+    <date>20251207</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251208080600 +0000" stop="20251208120000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209054800 +0000" stop="20251209060600 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Steelers vs. Ravens Highlights - Week 14</sub-title>
+    <episode-num system="onscreen">S2025E183</episode-num>
+    <desc>Highlights from the Week 14 matchup between the Pittsburgh Steelers and the Baltimore Ravens during the 2025 NFL season.</desc>
+    <date>20251207</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209060600 +0000" stop="20251209062400 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Titans vs. Browns Highlights - Week 14</sub-title>
+    <episode-num system="onscreen">S2025E184</episode-num>
+    <desc>Highlights from the Week 14 matchup between the Tennessee Titans and the Cleveland Browns during the 2025 NFL season.</desc>
+    <date>20251207</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209062400 +0000" stop="20251209064200 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Colts vs. Jaguars Highlights - Week 14</sub-title>
+    <episode-num system="onscreen">S2025E185</episode-num>
+    <desc>Highlights from the Week 14 matchup between the Indianapolis Colts and the Jacksonville Jaguars during the 2025 NFL season.</desc>
+    <date>20251207</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209064200 +0000" stop="20251209070000 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Commanders vs. Vikings Highlights - Week 14</sub-title>
+    <episode-num system="onscreen">S2025E186</episode-num>
+    <desc>Highlights from the Week 14 matchup between the Washington Commanders and the Minnesota Vikings during the 2025 NFL season.</desc>
+    <date>20251207</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209070000 +0000" stop="20251209071800 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Dolphins vs. Jets Highlights - Week 14</sub-title>
+    <episode-num system="onscreen">S2025E175</episode-num>
+    <desc>Highlights from the Week 14 matchup between the Miami Dolphins and the New York Jets during the 2025 NFL season.</desc>
+    <date>20251207</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209071800 +0000" stop="20251209073600 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Bengals vs. Bills Highlights - Week 14</sub-title>
+    <episode-num system="onscreen">S2025E177</episode-num>
+    <desc>Highlights from the Week 14 matchup between the Cincinnati Bengals and the Buffalo Bills during the 2025 NFL season.</desc>
+    <date>20251207</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209073600 +0000" stop="20251209075400 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Texans vs. Chiefs Highlights - Week 14</sub-title>
+    <episode-num system="onscreen">S2025E181</episode-num>
+    <desc>Highlights from the Week 14 matchup between the Houston Texans and the Kansas City Chiefs during the 2025 NFL season.</desc>
+    <date>20251207</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209075400 +0000" stop="20251209081200 +0000">
     <title>Weekly Game Recaps</title>
     <sub-title>Weekly Game Recaps</sub-title>
     <episode-num system="onscreen">S2025E156</episode-num>
@@ -36,7 +92,119 @@
     <date>20251204</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251208120000 +0000" stop="20251208155400 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209081200 +0000" stop="20251209083000 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Seahawks vs. Falcons Highlights - Week 14</sub-title>
+    <episode-num system="onscreen">S2025E182</episode-num>
+    <desc>Highlights from the Week 14 matchup between the Seattle Seahawks and the Atlanta Falcons during the 2025 NFL season.</desc>
+    <date>20251207</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209083000 +0000" stop="20251209084800 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Steelers vs. Ravens Highlights - Week 14</sub-title>
+    <episode-num system="onscreen">S2025E183</episode-num>
+    <desc>Highlights from the Week 14 matchup between the Pittsburgh Steelers and the Baltimore Ravens during the 2025 NFL season.</desc>
+    <date>20251207</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209084800 +0000" stop="20251209090600 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Titans vs. Browns Highlights - Week 14</sub-title>
+    <episode-num system="onscreen">S2025E184</episode-num>
+    <desc>Highlights from the Week 14 matchup between the Tennessee Titans and the Cleveland Browns during the 2025 NFL season.</desc>
+    <date>20251207</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209090600 +0000" stop="20251209092400 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Colts vs. Jaguars Highlights - Week 14</sub-title>
+    <episode-num system="onscreen">S2025E185</episode-num>
+    <desc>Highlights from the Week 14 matchup between the Indianapolis Colts and the Jacksonville Jaguars during the 2025 NFL season.</desc>
+    <date>20251207</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209092400 +0000" stop="20251209094200 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Commanders vs. Vikings Highlights - Week 14</sub-title>
+    <episode-num system="onscreen">S2025E186</episode-num>
+    <desc>Highlights from the Week 14 matchup between the Washington Commanders and the Minnesota Vikings during the 2025 NFL season.</desc>
+    <date>20251207</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209094200 +0000" stop="20251209100000 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Dolphins vs. Jets Highlights - Week 14</sub-title>
+    <episode-num system="onscreen">S2025E175</episode-num>
+    <desc>Highlights from the Week 14 matchup between the Miami Dolphins and the New York Jets during the 2025 NFL season.</desc>
+    <date>20251207</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209100000 +0000" stop="20251209101800 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Saints vs. Buccaneers Highlights - Week 14</sub-title>
+    <episode-num system="onscreen">S2025E176</episode-num>
+    <desc>Highlights from the Week 14 matchup between the New Orleans Saints and the Tampa Bay Buccaneers during the 2025 NFL season.</desc>
+    <date>20251207</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209101800 +0000" stop="20251209103600 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Bengals vs. Bills Highlights - Week 14</sub-title>
+    <episode-num system="onscreen">S2025E177</episode-num>
+    <desc>Highlights from the Week 14 matchup between the Cincinnati Bengals and the Buffalo Bills during the 2025 NFL season.</desc>
+    <date>20251207</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209103600 +0000" stop="20251209105400 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Broncos vs. Raiders Highlights - Week 14</sub-title>
+    <episode-num system="onscreen">S2025E178</episode-num>
+    <desc>Highlights from the Week 14 matchup between the Denver Broncos and the Las Vegas Raiders during the 2025 NFL season.</desc>
+    <date>20251207</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209105400 +0000" stop="20251209111200 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Bears vs. Packers Highlights - Week 14</sub-title>
+    <episode-num system="onscreen">S2025E179</episode-num>
+    <desc>Highlights from the Week 14 matchup between the Chicago Bears and the Green Bay Packers during the 2025 NFL season.</desc>
+    <date>20251207</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209111200 +0000" stop="20251209113000 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Rams vs. Cardinals Highlights - Week 14</sub-title>
+    <episode-num system="onscreen">S2025E180</episode-num>
+    <desc>Highlights from the Week 14 matchup between the Los Angeles Rams and the Arizona Cardinals during the 2025 NFL season.</desc>
+    <date>20251207</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209113000 +0000" stop="20251209114800 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Texans vs. Chiefs Highlights - Week 14</sub-title>
+    <episode-num system="onscreen">S2025E181</episode-num>
+    <desc>Highlights from the Week 14 matchup between the Houston Texans and the Kansas City Chiefs during the 2025 NFL season.</desc>
+    <date>20251207</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209114800 +0000" stop="20251209120600 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Cowboys vs. Lions Highlights - Week 14</sub-title>
+    <episode-num system="onscreen">S2025E172</episode-num>
+    <desc>Weekly highlight series featuring the biggest moments and best plays from every NFL game from Week 13 of the 2025 NFL season.</desc>
+    <date>20251204</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209120600 +0000" stop="20251209122400 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Texans vs. Chiefs Highlights - Week 14</sub-title>
+    <episode-num system="onscreen">S2025E181</episode-num>
+    <desc>Highlights from the Week 14 matchup between the Houston Texans and the Kansas City Chiefs during the 2025 NFL season.</desc>
+    <date>20251207</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209122400 +0000" stop="20251209124200 +0000">
     <title>Weekly Game Recaps</title>
     <sub-title>Weekly Game Recaps</sub-title>
     <episode-num system="onscreen">S2025E156</episode-num>
@@ -44,44 +212,72 @@
     <date>20251204</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251208155400 +0000" stop="20251208194800 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209124200 +0000" stop="20251209130000 +0000">
     <title>Weekly Game Recaps</title>
-    <sub-title>Weekly Game Recaps</sub-title>
-    <episode-num system="onscreen">S2025E156</episode-num>
-    <desc>Weekly highlight series featuring the biggest moments and best plays from every NFL game from Week 14 of the 2025 NFL season.</desc>
+    <sub-title>Bengals vs. Bills Highlights - Week 14</sub-title>
+    <episode-num system="onscreen">S2025E177</episode-num>
+    <desc>Highlights from the Week 14 matchup between the Cincinnati Bengals and the Buffalo Bills during the 2025 NFL season.</desc>
+    <date>20251207</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209130000 +0000" stop="20251209140000 +0000">
+    <title>The Insiders</title>
+    <sub-title>The Insiders</sub-title>
+    <desc>NFL Media Insiders Ian Rapoport, Mike Garafolo, Tom Pelissero, and Judy Battista deliver the inside scoop and latest storylines ahead of Week 14 during the 2025 NFL season.</desc>
     <date>20251204</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251208194800 +0000" stop="20251208204200 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Weekly Game Recaps</sub-title>
-    <episode-num system="onscreen">S2025E156</episode-num>
-    <desc>Weekly highlight series featuring the biggest moments and best plays from every NFL game from Week 14 of the 2025 NFL season.</desc>
-    <date>20251204</date>
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209140000 +0000" stop="20251209145000 +0000">
+    <title>NFL Explained: Worst Weather</title>
+    <sub-title>NFL Explained: Worst Weather</sub-title>
+    <desc>When Mother Nature hits the gridiron. A look into the history of the wildest weather games in NFL history.</desc>
+    <date>20251209</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251208204200 +0000" stop="20251208212400 +0000">
-    <title>NFL Throwback</title>
-    <sub-title>Every Team's Biggest Win and Loss</sub-title>
-    <episode-num system="onscreen">S2025E21</episode-num>
-    <desc>Find out every NFL team's biggest win and most embarrassing defeat of the Super Bowl era.</desc>
-    <date>20250508</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251208212400 +0000" stop="20251208215600 +0000">
-    <title>NFL Mic'd Up</title>
-    <sub-title>Best of Philip Rivers</sub-title>
-    <episode-num system="onscreen">S2022E61</episode-num>
-    <desc>Listen to quarterback Philip Rivers mic'd up on the field and sidelines, presented by Sound FX.</desc>
-    <date>20220827</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251208215600 +0000" stop="20251209004400 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209145000 +0000" stop="20251209175600 +0000">
     <title>NFL Game Re-Airs</title>
-    <sub-title>2010: Broncos vs. Chargers, Week 11</sub-title>
-    <episode-num system="onscreen">S2022E434</episode-num>
-    <desc>Philip Rivers tied his career-high with four touchdown passes and the San Diego Chargers beat the Denver Broncos 35-14.</desc>
-    <date>20221016</date>
+    <sub-title>2017: Colts vs. Bills, Week 14</sub-title>
+    <episode-num system="onscreen">S2022E06</episode-num>
+    <desc>LeSean McCoy scores on a 21-yard run in overtime to secure the Buffalo Bills' 13-7 win over the Indianapolis Colts in the Week 14 "Snow Game" during the 2017 NFL season.</desc>
+    <date>20220102</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209175600 +0000" stop="20251209203200 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2021: Patriots vs. Bills - Week 13</sub-title>
+    <episode-num system="onscreen">S2025E43</episode-num>
+    <desc>With 40 mph wind gusts placing an emphasis on running the ball, Jones was more than content in being relegated to handoff duty in New England's 14-10 win over the Buffalo Bills on Monday night.</desc>
+    <date>20251209</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209203200 +0000" stop="20251209232900 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2023: Dolphins vs. Chiefs - AFC Wild Card</sub-title>
+    <episode-num system="onscreen">S2024E14</episode-num>
+    <desc>Patrick Mahomes leads Chiefs to 26-7 playoff win over Dolphins in near-record low temps, the fourth-coldest game in NFL history.</desc>
+    <date>20240201</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251209232900 +0000" stop="20251210000000 +0000">
+    <title>Power Rankings</title>
+    <sub-title>Power Rankings</sub-title>
+    <episode-num system="onscreen">S2025E07</episode-num>
+    <desc>Hosts Mike Yam and Eric Edholm provide an in-depth look at where each team sits in the weekly ranking of all 32 NFL teams following Week 14 of the 2025 NFL season.</desc>
+    <date>20251202</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251210000000 +0000" stop="20251210010000 +0000">
+    <title>NFL Press Conferences</title>
+    <sub-title>NFL Press Conferences</sub-title>
+    <desc>NFL Press Conferences brings you behind the podium with coaches and players from around the league following Week 13 during the 2025 NFL season.</desc>
+    <date>20251202</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251210010000 +0000" stop="20251210040000 +0000">
+    <title>Game of the Week</title>
+    <sub-title>Week 14</sub-title>
+    <desc>The Game of the Week from Week 14 of the 2025 NFL season.</desc>
+    <date>20251209</date>
   </programme>
   
 </tv>
