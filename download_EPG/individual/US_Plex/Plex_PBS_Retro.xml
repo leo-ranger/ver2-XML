@@ -5,232 +5,295 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/25055f8d-39da-447f-95d9-da91fb1ce2f9/PBS_Retro_Dark_Logo_1500x1000_-_Antonio_de_la_Torre__Tony_.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212002143 +0000" stop="20251212005349 +0000">
-    <title>Thomas &amp; Friends</title>
-    <sub-title>Squeak, Rattle and Roll/Percy Gets It Right/Thomas and the Circus</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213005425 +0000" stop="20251213012536 +0000">
+    <title>Kratts Creatures</title>
+    <sub-title>Planet of the Dolphins</sub-title>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <desc>Chris and Martin head to the water in search of dolphins.</desc>
+    <date>19960722</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_KrattsCreatures_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213012536 +0000" stop="20251213015652 +0000">
+    <title>Reading Rainbow</title>
+    <sub-title>Borreguita and The Coyote</sub-title>
+    <episode-num system="onscreen">S10E07</episode-num>
+    <desc>Olga Merediz reads a tale of a clever lamb who outsmarts a coyote.</desc>
+    <date>19941004</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213015652 +0000" stop="20251213022747 +0000">
+    <title>Reading Rainbow</title>
+    <sub-title>Tin Forest</sub-title>
+    <episode-num system="onscreen">S14E07</episode-num>
+    <desc>Jeff Bridges reads the story of The Tin Forest.</desc>
+    <date>20020903</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213022747 +0000" stop="20251213025839 +0000">
+    <title>Reading Rainbow</title>
+    <sub-title>Stellaluna</sub-title>
+    <episode-num system="onscreen">S11E03</episode-num>
+    <desc>Anne Jackson reads Stellaluna, about a baby fruit bat who gets separated from her mother.</desc>
+    <date>19941012</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213025839 +0000" stop="20251213032934 +0000">
+    <title>Reading Rainbow</title>
+    <sub-title>Badger's Parting Gift</sub-title>
+    <episode-num system="onscreen">S14E06</episode-num>
+    <desc>Ruby Dee reads a story about an old Badger who prepares his friends for his passing.</desc>
+    <date>20010420</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213032934 +0000" stop="20251213040027 +0000">
+    <title>Reading Rainbow</title>
+    <sub-title>Our Big Home</sub-title>
+    <episode-num system="onscreen">S14E10</episode-num>
+    <desc>Naomi Judd reads Our Big Home, a poem about how everything in the world is connected.</desc>
+    <date>20020906</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213040027 +0000" stop="20251213043136 +0000">
+    <title>Reading Rainbow</title>
+    <sub-title>Visiting Day</sub-title>
+    <episode-num system="onscreen">S15E01</episode-num>
+    <desc>Alfre Woodard reads Visiting Day, a tale about a girl preparing to see her dad in jail.</desc>
+    <date>20041215</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213043136 +0000" stop="20251213050146 +0000">
+    <title>Reading Rainbow</title>
+    <sub-title>The Sign Painter's Dream</sub-title>
+    <episode-num system="onscreen">S11E09</episode-num>
+    <desc>Jamie Farr tells the story about a cranky sign painter who has a revelation about his job.</desc>
+    <date>19951005</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213050645 +0000" stop="20251213053442 +0000">
+    <title>The Berenstain Bears</title>
+    <sub-title>Slumber Party/The Homework Hassle</sub-title>
     <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Gordon develops a squeak, Percy’s track is wobbly and Thomas collects the circus.</desc>
-    <date>20040919</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ThomasAndFriends_16x9.jpg" />
+    <desc>Brother helps with the school talent show. The Bear Family vacations in an old lighthouse.</desc>
+    <date>20031001</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheBerenstainBears_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212005349 +0000" stop="20251212012553 +0000">
-    <title>Thomas &amp; Friends</title>
-    <sub-title>Thomas Gets it Right/What’s the Matter with Henry/As Good as Gordon</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213053442 +0000" stop="20251213060240 +0000">
+    <title>The Berenstain Bears</title>
+    <sub-title>The Talent Show/The Haunted Lighthouse</sub-title>
     <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Thomas transports eggs, Henry doesn’t feel well and Emily pulls Gordon’s express.</desc>
-    <date>20040926</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ThomasAndFriends_16x9.jpg" />
+    <desc>Sister does an assignment on Brother. Sister is jealous of Brother's three-speed racer.</desc>
+    <date>20031001</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheBerenstainBears_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212012553 +0000" stop="20251212015801 +0000">
-    <title>Thomas &amp; Friends</title>
-    <sub-title>Fish/The Old Iron Bridge/Emily’s Adventure</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213060240 +0000" stop="20251213063038 +0000">
+    <title>The Berenstain Bears</title>
+    <sub-title>The Birthday Boy/The Green-Eyed Monster</sub-title>
     <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Thomas has to move stinky fish, Skarloey is given a fright and Emily has an urgent job.</desc>
-    <date>20041003</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ThomasAndFriends_16x9.jpg" />
+    <desc>Sister adopts a chipmunk. Mama teaches Sister the 'Star light, star bright' principle.</desc>
+    <date>20030919</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheBerenstainBears_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212015801 +0000" stop="20251212023009 +0000">
-    <title>Thomas &amp; Friends</title>
-    <sub-title>Halloween/Trusty Rusty/You Can Do It, Toby!</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213063038 +0000" stop="20251213065836 +0000">
+    <title>The Berenstain Bears</title>
+    <sub-title>The Baby Chipmunk/The Wishing Star</sub-title>
     <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Thomas and Emily are spooked on Halloween, Duncan doesn’t listen and Toby saves Gordon.</desc>
-    <date>20041010</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ThomasAndFriends_16x9.jpg" />
+    <desc>Brother and Sister feel entitled to treats. Papa takes the Bear Scouts spelunking.</desc>
+    <date>20031002</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheBerenstainBears_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212023009 +0000" stop="20251212030215 +0000">
-    <title>Thomas &amp; Friends</title>
-    <sub-title>James Goes Too Far/Three Cheers for Thomas/Chickens to School</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>James gets an important job, Thomas wants a medal and Thomas takes three specials.</desc>
-    <date>20041017</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ThomasAndFriends_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213065836 +0000" stop="20251213072634 +0000">
+    <title>The Berenstain Bears</title>
+    <sub-title>The Bad Habit/The Prize Pumpkin</sub-title>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <desc>Brother helps a new kid get settled at school. Brother and Sister help Widder Jones.</desc>
+    <date>20030926</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheBerenstainBears_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212030215 +0000" stop="20251212033309 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213072634 +0000" stop="20251213075432 +0000">
+    <title>The Berenstain Bears</title>
+    <sub-title>Go To The Doctor/Don't Pollute (Anymore)</sub-title>
+    <episode-num system="onscreen">S01E23</episode-num>
+    <desc>Sister tries to fit in with the new girl’s crowd.Brother and Freddy make a flying device!</desc>
+    <date>20031017</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheBerenstainBears_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213075432 +0000" stop="20251213082229 +0000">
+    <title>The Berenstain Bears</title>
+    <sub-title>Family Get-Together/The Stinky Milk Mystery</sub-title>
+    <episode-num system="onscreen">S01E26</episode-num>
+    <desc>The Bear Family visits the mall. Sister has to decide what to write about for a project.</desc>
+    <date>20031022</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheBerenstainBears_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213082229 +0000" stop="20251213085027 +0000">
+    <title>The Berenstain Bears</title>
+    <sub-title>New Neighbors/The Big Election</sub-title>
+    <episode-num system="onscreen">S01E27</episode-num>
+    <desc>Brother and Sister must clean their room. Then, Papa Bear gets a case of the hiccups!</desc>
+    <date>20031023</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheBerenstainBears_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213085027 +0000" stop="20251213092144 +0000">
+    <title>Zoboomafoo</title>
+    <sub-title>Family Game</sub-title>
+    <episode-num system="onscreen">S02E18</episode-num>
+    <desc>Zoboo and the Kratt brothers find a baby hedgehog who needs a family.</desc>
+    <date>20011112</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_Zoboomafoo_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213092144 +0000" stop="20251213095301 +0000">
+    <title>Zoboomafoo</title>
+    <sub-title>H2O</sub-title>
+    <episode-num system="onscreen">S02E19</episode-num>
+    <desc>Zoboo and the Kratt brothers are having a hard time finding water in their clubhouse.</desc>
+    <date>20011113</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_Zoboomafoo_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213101329 +0000" stop="20251213104424 +0000">
     <title>Reading Rainbow</title>
-    <sub-title>Alistair's Time Machine</sub-title>
-    <episode-num system="onscreen">S07E06</episode-num>
-    <desc>Arnold Stang reads the story of a boy who invents a machine that takes him back in time.</desc>
-    <date>19910916</date>
+    <sub-title>Tin Forest</sub-title>
+    <episode-num system="onscreen">S14E07</episode-num>
+    <desc>Jeff Bridges reads the story of The Tin Forest.</desc>
+    <date>20020903</date>
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212033309 +0000" stop="20251212040319 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213104424 +0000" stop="20251213111516 +0000">
     <title>Reading Rainbow</title>
-    <sub-title>The Adventures of Taxi Dog</sub-title>
-    <episode-num system="onscreen">S07E07</episode-num>
-    <desc>Vincent Gardenia reads the story of a stray dog who helps his new owner get better tips.</desc>
-    <date>19910917</date>
+    <sub-title>Stellaluna</sub-title>
+    <episode-num system="onscreen">S11E03</episode-num>
+    <desc>Anne Jackson reads Stellaluna, about a baby fruit bat who gets separated from her mother.</desc>
+    <date>19941012</date>
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212040319 +0000" stop="20251212043439 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213111516 +0000" stop="20251213114611 +0000">
     <title>Reading Rainbow</title>
-    <sub-title>The Legend of the Indian Paintbrush</sub-title>
-    <episode-num system="onscreen">S07E08</episode-num>
-    <desc>This show gets steeped into a world of Native American art.</desc>
-    <date>19910918</date>
+    <sub-title>Badger's Parting Gift</sub-title>
+    <episode-num system="onscreen">S14E06</episode-num>
+    <desc>Ruby Dee reads a story about an old Badger who prepares his friends for his passing.</desc>
+    <date>20010420</date>
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212043439 +0000" stop="20251212050000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213114611 +0000" stop="20251213121704 +0000">
     <title>Reading Rainbow</title>
-    <sub-title>Galimoto</sub-title>
-    <episode-num system="onscreen">S07E09</episode-num>
-    <desc>There is a lot one can do with wire, from sculpture to circus acts.</desc>
-    <date>19910919</date>
+    <sub-title>Our Big Home</sub-title>
+    <episode-num system="onscreen">S14E10</episode-num>
+    <desc>Naomi Judd reads Our Big Home, a poem about how everything in the world is connected.</desc>
+    <date>20020906</date>
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212050000 +0000" stop="20251212052048 +0000">
-    <title>Mister Rogers' Neighborhood</title>
-    <sub-title>Visit with the Uptown String Quartet</sub-title>
-    <episode-num system="onscreen">S29E08</episode-num>
-    <desc>Mister Rogers visits the Uptown String Quartet and puts together a puzzle.</desc>
-    <date>19970827</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_MisterRogersNeighborhood_1920x1080_BKGD.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213121704 +0000" stop="20251213124813 +0000">
+    <title>Reading Rainbow</title>
+    <sub-title>Visiting Day</sub-title>
+    <episode-num system="onscreen">S15E01</episode-num>
+    <desc>Alfre Woodard reads Visiting Day, a tale about a girl preparing to see her dad in jail.</desc>
+    <date>20041215</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212052048 +0000" stop="20251212055413 +0000">
-    <title>Mister Rogers' Neighborhood</title>
-    <sub-title>Mister Rogers Puts on a Vest!</sub-title>
-    <episode-num system="onscreen">S30E02</episode-num>
-    <desc>Instead of changing into a sweater as he typically does, Mister Rogers puts on a vest.</desc>
-    <date>19980217</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_MisterRogersNeighborhood_1920x1080_BKGD.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213124813 +0000" stop="20251213131823 +0000">
+    <title>Reading Rainbow</title>
+    <sub-title>The Sign Painter's Dream</sub-title>
+    <episode-num system="onscreen">S11E09</episode-num>
+    <desc>Jamie Farr tells the story about a cranky sign painter who has a revelation about his job.</desc>
+    <date>19951005</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212055413 +0000" stop="20251212062556 +0000">
-    <title>Mister Rogers' Neighborhood</title>
-    <sub-title>LeVar Burton Visits Mister Rogers</sub-title>
-    <episode-num system="onscreen">S30E05</episode-num>
-    <desc>At Mister Rogers' house, Levar Burton reads "The Daddy Book."</desc>
-    <date>19980220</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_MisterRogersNeighborhood_1920x1080_BKGD.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213131823 +0000" stop="20251213135054 +0000">
+    <title>Reading Rainbow</title>
+    <sub-title>Pet Stories: You Don't Have to Walk</sub-title>
+    <episode-num system="onscreen">S14E02</episode-num>
+    <desc>"Pet Stories You Don't Have to Walk", read by Jason Alexander, features pet stories.</desc>
+    <date>20001120</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212062556 +0000" stop="20251212065738 +0000">
-    <title>Mister Rogers' Neighborhood</title>
-    <sub-title>Field Trip to Visit Koko the Gorilla</sub-title>
-    <episode-num system="onscreen">S30E07</episode-num>
-    <desc>Mister Rogers visits with Koko the gorilla, who can communicate with sign language.</desc>
-    <date>19980728</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_MisterRogersNeighborhood_1920x1080_BKGD.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213135054 +0000" stop="20251213142200 +0000">
+    <title>Reading Rainbow</title>
+    <sub-title>Always My Dad</sub-title>
+    <episode-num system="onscreen">S12E02</episode-num>
+    <desc>BJ Crosby tells the story of siblings spending the summer with their grandparents.</desc>
+    <date>19961007</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212065738 +0000" stop="20251212072919 +0000">
-    <title>Mister Rogers' Neighborhood</title>
-    <sub-title>A Boy and His Service Dog</sub-title>
-    <episode-num system="onscreen">S30E09</episode-num>
-    <desc>Mr. McFeely stops by with a film about a service dog aiding a handicapped child.</desc>
-    <date>19980730</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_MisterRogersNeighborhood_1920x1080_BKGD.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213142200 +0000" stop="20251213145254 +0000">
+    <title>Reading Rainbow</title>
+    <sub-title>Math Curse</sub-title>
+    <episode-num system="onscreen">S13E01</episode-num>
+    <desc>Michelle Tractenberg reads the story of a girl who feels she is under a "math curse."</desc>
+    <date>19981004</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212072919 +0000" stop="20251212080242 +0000">
-    <title>Mister Rogers' Neighborhood</title>
-    <sub-title>Strengths &amp; Limitations, Abilities &amp; Disabilities</sub-title>
-    <episode-num system="onscreen">S30E10</episode-num>
-    <desc>Mister Rogers reads a book about a dog named Zak.</desc>
-    <date>19980731</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_MisterRogersNeighborhood_1920x1080_BKGD.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213145254 +0000" stop="20251213152400 +0000">
+    <title>Reading Rainbow</title>
+    <sub-title>Uncle Jed's Barbershop</sub-title>
+    <episode-num system="onscreen">S11E12</episode-num>
+    <desc>Regina Taylor tells the story of Uncle Jed, who achieved his goal of owning a barbershop.</desc>
+    <date>19960409</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212080242 +0000" stop="20251212083414 +0000">
-    <title>Mister Rogers' Neighborhood</title>
-    <sub-title>Trolley Goes Fast and Slow</sub-title>
-    <episode-num system="onscreen">S27E01</episode-num>
-    <desc>Mister Rogers shows his control box that makes Trolley go fast and show.</desc>
-    <date>19950220</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_MisterRogersNeighborhood_1920x1080_BKGD.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213152400 +0000" stop="20251213155436 +0000">
+    <title>Reading Rainbow</title>
+    <sub-title>The Wonderful Towers of Watt</sub-title>
+    <episode-num system="onscreen">S11E06</episode-num>
+    <desc>Angela Bassett reads a true story of a man who worked in a ceramic dishware company.</desc>
+    <date>19951002</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212083414 +0000" stop="20251212090545 +0000">
-    <title>Mister Rogers' Neighborhood</title>
-    <sub-title>A Gift for Mr. McFeely</sub-title>
-    <episode-num system="onscreen">S27E03</episode-num>
-    <desc>Mister Rogers has a gift for Mr. McFeely -- the Speedy Delivery Alphabet Book.</desc>
-    <date>19950222</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_MisterRogersNeighborhood_1920x1080_BKGD.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213155436 +0000" stop="20251213162530 +0000">
+    <title>Reading Rainbow</title>
+    <sub-title>The Secret Shortcut</sub-title>
+    <episode-num system="onscreen">S14E04</episode-num>
+    <desc>Tim Conway reads a story about two boys who decide to try a new route to school.</desc>
+    <date>20010216</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212090545 +0000" stop="20251212093715 +0000">
-    <title>Mister Rogers' Neighborhood</title>
-    <sub-title>A Gymnastics Demonstration</sub-title>
-    <episode-num system="onscreen">S27E04</episode-num>
-    <desc>Mister Rogers visits Chainey Umphrey and sees a gymnastics demonstration.</desc>
-    <date>19950223</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_MisterRogersNeighborhood_1920x1080_BKGD.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213162530 +0000" stop="20251213165636 +0000">
+    <title>Reading Rainbow</title>
+    <sub-title>How to Make an Apple Pie and See the World</sub-title>
+    <episode-num system="onscreen">S11E13</episode-num>
+    <desc>Helen Mirren reads How to Make an Apple Pie and See the World.</desc>
+    <date>19960410</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212093715 +0000" stop="20251212100850 +0000">
-    <title>Mister Rogers' Neighborhood</title>
-    <sub-title>Using a Crane</sub-title>
-    <episode-num system="onscreen">S27E05</episode-num>
-    <desc>Mister Rogers arrives with a toy crane and uses it to lift objects.</desc>
-    <date>19950224</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_MisterRogersNeighborhood_1920x1080_BKGD.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213165636 +0000" stop="20251213172745 +0000">
+    <title>Reading Rainbow</title>
+    <sub-title>Mr. George Baker</sub-title>
+    <episode-num system="onscreen">S15E03</episode-num>
+    <desc>Wayne Brady tells the story of an elderly man who decides to go back to school.</desc>
+    <date>20041217</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_ReadingRainbow_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212100850 +0000" stop="20251212103616 +0000">
-    <title>Jakers! The Adventures of Piggley Winks</title>
-    <sub-title>How Much Is That Dragon?</sub-title>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <desc>The Raloo Rockers want to go to Dublin to audition for Uncle Buck’s Variety Express.</desc>
-    <date>20060922</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JakersTheAdventuresofPiggleyWinks_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212103616 +0000" stop="20251212110342 +0000">
-    <title>Jakers! The Adventures of Piggley Winks</title>
-    <sub-title>Mi Galeon</sub-title>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <desc>Piggley wants a new snow sled for his birthday.</desc>
-    <date>20060925</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JakersTheAdventuresofPiggleyWinks_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212110342 +0000" stop="20251212113107 +0000">
-    <title>Jakers! The Adventures of Piggley Winks</title>
-    <sub-title>The Gift</sub-title>
-    <episode-num system="onscreen">S02E07</episode-num>
-    <desc>Piggley and friends come upon an old shipwreck which bears the legend of being haunted.</desc>
-    <date>20060926</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JakersTheAdventuresofPiggleyWinks_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212113107 +0000" stop="20251212115833 +0000">
-    <title>Jakers! The Adventures of Piggley Winks</title>
-    <sub-title>Hector's Hero</sub-title>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <desc>Grandpa recalls the first time he ever got a book without pictures.</desc>
-    <date>20070115</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JakersTheAdventuresofPiggleyWinks_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212115833 +0000" stop="20251212122556 +0000">
-    <title>Jakers! The Adventures of Piggley Winks</title>
-    <sub-title>Mind Your Manners</sub-title>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <desc>Hector won’t leave Dannan alone after she saves him from a mild mishap.</desc>
-    <date>20070116</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JakersTheAdventuresofPiggleyWinks_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212122556 +0000" stop="20251212125321 +0000">
-    <title>Jakers! The Adventures of Piggley Winks</title>
-    <sub-title>Tale Spinner</sub-title>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <desc>Aunt Molly sends Meg drawings she did as a 5-year old.</desc>
-    <date>20060927</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JakersTheAdventuresofPiggleyWinks_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212125321 +0000" stop="20251212132047 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213175339 +0000" stop="20251213182106 +0000">
     <title>Jakers! The Adventures of Piggley Winks</title>
     <sub-title>Pie Filling</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -239,7 +302,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JakersTheAdventuresofPiggleyWinks_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212132047 +0000" stop="20251212134812 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213182106 +0000" stop="20251213184831 +0000">
     <title>Jakers! The Adventures of Piggley Winks</title>
     <sub-title>The Salmon of Knowledge</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
@@ -248,7 +311,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JakersTheAdventuresofPiggleyWinks_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212134812 +0000" stop="20251212141539 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213184831 +0000" stop="20251213191557 +0000">
     <title>Jakers! The Adventures of Piggley Winks</title>
     <sub-title>Ferny Is a Bug</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
@@ -257,7 +320,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JakersTheAdventuresofPiggleyWinks_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212141539 +0000" stop="20251212144305 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213191557 +0000" stop="20251213194324 +0000">
     <title>Jakers! The Adventures of Piggley Winks</title>
     <sub-title>The Case of Big Sty</sub-title>
     <episode-num system="onscreen">S01E04</episode-num>
@@ -266,7 +329,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JakersTheAdventuresofPiggleyWinks_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212144305 +0000" stop="20251212151031 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213194324 +0000" stop="20251213201050 +0000">
     <title>Jakers! The Adventures of Piggley Winks</title>
     <sub-title>All Night Long</sub-title>
     <episode-num system="onscreen">S01E05</episode-num>
@@ -275,7 +338,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JakersTheAdventuresofPiggleyWinks_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212151031 +0000" stop="20251212154141 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213201050 +0000" stop="20251213204159 +0000">
     <title>Kratts Creatures</title>
     <sub-title>Hyenas Are Cool</sub-title>
     <episode-num system="onscreen">S01E29</episode-num>
@@ -284,7 +347,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_KrattsCreatures_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212154141 +0000" stop="20251212161252 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213204159 +0000" stop="20251213211310 +0000">
     <title>Kratts Creatures</title>
     <sub-title>Mungu's Revenge</sub-title>
     <episode-num system="onscreen">S01E30</episode-num>
@@ -293,7 +356,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_KrattsCreatures_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212161252 +0000" stop="20251212164403 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213211310 +0000" stop="20251213214421 +0000">
     <title>Kratts Creatures</title>
     <sub-title>Creature Rescue</sub-title>
     <episode-num system="onscreen">S01E31</episode-num>
@@ -302,7 +365,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_KrattsCreatures_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212164403 +0000" stop="20251212171442 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213214421 +0000" stop="20251213221641 +0000">
     <title>Kratts Creatures</title>
     <sub-title>Lion, King of the Beasts?</sub-title>
     <episode-num system="onscreen">S01E32</episode-num>
@@ -311,7 +374,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_KrattsCreatures_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212171442 +0000" stop="20251212174553 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213221641 +0000" stop="20251213224752 +0000">
     <title>Kratts Creatures</title>
     <sub-title>Marshmania</sub-title>
     <episode-num system="onscreen">S01E33</episode-num>
@@ -320,7 +383,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_KrattsCreatures_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212174553 +0000" stop="20251212181703 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213224752 +0000" stop="20251213231903 +0000">
     <title>Kratts Creatures</title>
     <sub-title>Why?</sub-title>
     <episode-num system="onscreen">S01E34</episode-num>
@@ -329,7 +392,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_KrattsCreatures_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212181703 +0000" stop="20251212184814 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213231903 +0000" stop="20251213235014 +0000">
     <title>Kratts Creatures</title>
     <sub-title>Koalas and Wombats: The Untold Story</sub-title>
     <episode-num system="onscreen">S01E35</episode-num>
@@ -338,7 +401,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_KrattsCreatures_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212184814 +0000" stop="20251212191925 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213235014 +0000" stop="20251214002125 +0000">
     <title>Kratts Creatures</title>
     <sub-title>Backyard Bandits</sub-title>
     <episode-num system="onscreen">S01E36</episode-num>
@@ -347,7 +410,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_KrattsCreatures_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212191925 +0000" stop="20251212195036 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251214002125 +0000" stop="20251214005236 +0000">
     <title>Kratts Creatures</title>
     <sub-title>Hanging with the Monkeys</sub-title>
     <episode-num system="onscreen">S01E37</episode-num>
@@ -356,85 +419,13 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_KrattsCreatures_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212195036 +0000" stop="20251212202147 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251214005236 +0000" stop="20251214012347 +0000">
     <title>Kratts Creatures</title>
     <sub-title>The Best of the Best</sub-title>
     <episode-num system="onscreen">S01E38</episode-num>
     <desc>The brothers check out animals with the best teeth, the best jumpers and more.</desc>
     <date>19960611</date>
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_KrattsCreatures_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212202147 +0000" stop="20251212205258 +0000">
-    <title>Kratts Creatures</title>
-    <sub-title>Polyp Power!</sub-title>
-    <episode-num system="onscreen">S01E39</episode-num>
-    <desc>Travel to Australia as Chris and Martin explore the Great Barrier Reef.</desc>
-    <date>19960723</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_KrattsCreatures_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212205258 +0000" stop="20251212212410 +0000">
-    <title>Kratts Creatures</title>
-    <sub-title>Wings!</sub-title>
-    <episode-num system="onscreen">S01E40</episode-num>
-    <desc>The brothers examine many different kinds of birds and flying creatures.</desc>
-    <date>19960809</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_KrattsCreatures_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212212410 +0000" stop="20251212215708 +0000">
-    <title>Zoboomafoo</title>
-    <sub-title>Ears Hear</sub-title>
-    <episode-num system="onscreen">S01E17</episode-num>
-    <desc>Chris, Martin and Zoboo discover creatures with incredible hearing.</desc>
-    <date>19990216</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_Zoboomafoo_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212215708 +0000" stop="20251212222825 +0000">
-    <title>Zoboomafoo</title>
-    <sub-title>Feeling Good</sub-title>
-    <episode-num system="onscreen">S01E18</episode-num>
-    <desc>When a porcupine arrives, the gang focuses on creature coats and how they feel.</desc>
-    <date>19990217</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_Zoboomafoo_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212222825 +0000" stop="20251212225941 +0000">
-    <title>Zoboomafoo</title>
-    <sub-title>Running</sub-title>
-    <episode-num system="onscreen">S01E19</episode-num>
-    <desc>After meeting an emu, the Kratts try running like various other creatures.</desc>
-    <date>19990218</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_Zoboomafoo_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212225941 +0000" stop="20251212233058 +0000">
-    <title>Zoboomafoo</title>
-    <sub-title>Animal Daycare</sub-title>
-    <episode-num system="onscreen">S01E20</episode-num>
-    <desc>An influx of babies needing care keeps Martin and Chris from getting any rest.</desc>
-    <date>19990219</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_Zoboomafoo_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251212233058 +0000" stop="20251213000214 +0000">
-    <title>Zoboomafoo</title>
-    <sub-title>Giants</sub-title>
-    <episode-num system="onscreen">S01E21</episode-num>
-    <desc>Zoboo’s amazed to find out that capybaras are giant rodents.</desc>
-    <date>19990222</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_Zoboomafoo_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" start="20251213000214 +0000" stop="20251213003330 +0000">
-    <title>Zoboomafoo</title>
-    <sub-title>Pets</sub-title>
-    <episode-num system="onscreen">S01E22</episode-num>
-    <desc>The gang has their hands full when the Animal Helpers drop off their pets.</desc>
-    <date>19990621</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_Zoboomafoo_16x9.jpg" />
   </programme>
   
 </tv>

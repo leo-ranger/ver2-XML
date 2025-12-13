@@ -5,39 +5,59 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/f345c0b8-c5b8-49a4-82f2-28fa7fcfe7e8/CM-Plex-dark_logo-CanelaTV-deportes_-_Natalia_Rodriguez.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251211230000 +0000" stop="20251212003100 +0000">
-    <title>El Curubito</title>
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251213002313 +0000" stop="20251213013000 +0000">
+    <title>El Dugout</title>
+    <sub-title>Sorteo Mundial 2026</sub-title>
+    <episode-num system="onscreen">S01E56</episode-num>
+    <desc>¡La suerte está echada! Reaccionamos al sorteo de la Copa del Mundo 2026.</desc>
+    <date>20250101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/957f63fb-6eca-48f8-8738-ef431b273b18_16x9.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251213013000 +0000" stop="20251213020000 +0000">
+    <title>El Score</title>
     <category>Movie</category>
-    <desc>El Curubito</desc>
+    <desc>Todo lo que necesitas saber sobre la NFL, NBA y MLB</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251212003100 +0000" stop="20251212010000 +0000">
-    <title>Estrellas del Fútbol</title>
-    <sub-title>Las Mayores Rivalidades del Fútbol</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Adéntrate a las mayores rivalidades del fútbol.</desc>
-    <date>20140101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ec0b290f-b34e-42c3-a4b0-c53fca4001cd_estrellas-de-futbol-1920x1080px-cris.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251212010000 +0000" stop="20251212020000 +0000">
-    <title>FutFem</title>
-    <category>Movie</category>
-    <desc>Espacio cien por ciento dedicado al fútbol femenino internacional.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251212020000 +0000" stop="20251212042400 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251213020000 +0000" stop="20251213050459 +0000">
     <title>Probox TV</title>
-    <sub-title>MDB: Estelar Lamont Roach vs Feargal McCrory</sub-title>
-    <episode-num system="onscreen">S02E11</episode-num>
-    <desc>Las estrellas del futuro peleas competitivas de gran acción.</desc>
+    <sub-title>MDB: Flaz VS Gomez</sub-title>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <desc>Evento Estelar: Nicklaus Flaz vs Christian Gomez.</desc>
     <date>20240101</date>
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5ce04980-5b87-4816-9134-60c7126c1543_16x9.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251212042400 +0000" stop="20251212062900 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251213050459 +0000" stop="20251213073339 +0000">
+    <title>Probox TV</title>
+    <sub-title>Chevalier vs Juarez</sub-title>
+    <episode-num system="onscreen">S03E02</episode-num>
+    <desc>Evento Principal: Bryan Chevalier vs Cesar Juarez.</desc>
+    <date>20240101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5ce04980-5b87-4816-9134-60c7126c1543_16x9.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251213073339 +0000" stop="20251213105002 +0000">
+    <title>Probox TV</title>
+    <sub-title>Meng vs Pascal</sub-title>
+    <episode-num system="onscreen">S03E01</episode-num>
+    <desc>Evento Principal: Fanlong Meng vs Jean Pascal.</desc>
+    <date>20240101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5ce04980-5b87-4816-9134-60c7126c1543_16x9.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251213105002 +0000" stop="20251213131302 +0000">
+    <title>Probox TV</title>
+    <sub-title>MDB: Colbert vs Salcido</sub-title>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <desc>Evento Estelar: Chris Colbert vs Omar Salcido.</desc>
+    <date>20240101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5ce04980-5b87-4816-9134-60c7126c1543_16x9.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251213131302 +0000" stop="20251213151802 +0000">
     <title>Series de Contendientes: Pauldo vs Theran</title>
     <category>Movie</category>
     <desc>Evento Estelar: Justin Pauldo vs Nike Theran</desc>
@@ -45,53 +65,20 @@
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/9e3c13ff8eba787c0fd108aeb622b2f0a45c94b8_2x3.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251212062900 +0000" stop="20251212073200 +0000">
-    <title>Series de Contendientes: Flaz vs Johnson</title>
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251213151802 +0000" stop="20251213195000 +0000">
+    <title>Serie de Contendientes: Lubin vs Holmes Jr</title>
     <category>Movie</category>
-    <desc>Evento Estelar: Nicklaus Flaz vs Delante Johnson.</desc>
+    <desc>Evento Estelar: Lubin vs Holmes Jr</desc>
     <date>20250101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/d407aa98fd755207f988efe461bd887cf3eb3a22_2x3.png" />
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/8edc92c23f28afc42a9944cf4ec7500e8ca68307_2x3.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251212073200 +0000" stop="20251212090012 +0000">
-    <title>Maracaná</title>
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251213220032 +0000" stop="20251214015206 +0000">
+    <title>Serie de Contendientes: Hernandez Vs Veron</title>
     <category>Movie</category>
-    <desc>Una extraordinaria hazaña con espíritu deportivo.</desc>
-    <date>20140101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/81e03bcb-4143-4e8b-b6d3-ce7e5205c7b2_2x3.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251212090012 +0000" stop="20251212110129 +0000">
-    <title>Rangers vs. Celtic</title>
-    <category>Movie</category>
-    <desc>¡El clásico de Escocia! Rangers vs. Celtic.</desc>
+    <desc>Evento Estelar: Vladimir Hernandez vs Francisco Veron.</desc>
     <date>20250101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/540e8a519383499308f04c6b4900deecaf6d64ab_2x3.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251212110129 +0000" stop="20251212130125 +0000">
-    <title>RB Leipzig vs. Atalanta</title>
-    <category>Movie</category>
-    <desc>RB Leipzig y Atalanta se miden en un duelo explosivo que enciende la pretemporada europea.</desc>
-    <date>20250101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/989c51f05f05646fc5c2d322bc2b21ba9fda0c9f_2x3.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251212130125 +0000" stop="20251212150303 +0000">
-    <title>Ilusión Nacional</title>
-    <category>Movie</category>
-    <desc>Documental sobre la selección nacional de fútbol de México.</desc>
-    <date>20140101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20251212150303 +0000" stop="20251213002212 +0000">
-    <title>El Dugout</title>
-    <sub-title>Sorteo Mundial 2026</sub-title>
-    <episode-num system="onscreen">S01E56</episode-num>
-    <desc>¡La suerte está echada! Reaccionamos al sorteo de la Copa del Mundo 2026.</desc>
-    <date>20250101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/957f63fb-6eca-48f8-8738-ef431b273b18_16x9.png" />
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/987746faec5d63b9b2756c17574a96ef3c388636_2x3.png" />
   </programme>
   
 </tv>
