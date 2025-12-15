@@ -5,85 +5,157 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/114ff770-db66-459b-bc19-3ef4bfffe712/rcn-mas.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" start="20251214160000 +0000" stop="20251214170000 +0000">
-    <title>El Joe</title>
-    <sub-title>Los celos de El Joe</sub-title>
-    <episode-num system="onscreen">S01E30</episode-num>
-    <desc>El Joe está en problemas, pues después de que se quedara sin sueldo Adela hace negocio para comprar una casa. Mas tarde Jacky y Francisco se besan, El Joe los ve desde la tarima, se retira del escenario y ni siquiera Fruko logre hacerlo regresar.</desc>
-    <date>20240912</date>
-    <icon src="https://partner-upload-assets.wurl.com/latin_american_tv/RCNMAS_El_Joe_Ep_030.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" start="20251214170000 +0000" stop="20251214180000 +0000">
-    <title>El Joe</title>
-    <sub-title>El Joe se pierde en las drogas</sub-title>
-    <episode-num system="onscreen">S01E31</episode-num>
-    <desc>El Joe se pierde entre sus divagaciones y sentimientos por la marihuana que le dio Flaminio, mientras Fruko lo busca como desesperado para la presentación. Luego la presentación de los Latin Brothers es un éxito total.</desc>
-    <date>20240912</date>
-    <icon src="https://partner-upload-assets.wurl.com/latin_american_tv/RCNMAS_El_Joe_Ep_031.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" start="20251214180000 +0000" stop="20251214190000 +0000">
-    <title>El Joe</title>
-    <sub-title>Manyoma cambia de mujer</sub-title>
-    <episode-num system="onscreen">S01E32</episode-num>
-    <desc>La paciencia de la novia de Manyoma se acaba y lo abandona por sus coqueteos con María Inés. Por otra parte la Orquesta de Fruko se presenta en Bogotá.</desc>
-    <date>20240912</date>
-    <icon src="https://partner-upload-assets.wurl.com/latin_american_tv/RCNMAS_El_Joe_Ep_032.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" start="20251214190000 +0000" stop="20251214200000 +0000">
-    <title>El Joe</title>
-    <sub-title>Una llamada al aire</sub-title>
-    <episode-num system="onscreen">S01E33</episode-num>
-    <desc>El Joe nuevamente se droga, luego termina saliendo con la prima de Nancy, cosa que a Manyoma no le gusta y le recuerda que es un hombre casado. Mientras tanto Jacky consuela a su tía que nuevamente cae en depresión.</desc>
-    <date>20240912</date>
-    <icon src="https://partner-upload-assets.wurl.com/latin_american_tv/RCNMAS_El_Joe_Ep_033.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" start="20251214200000 +0000" stop="20251214210000 +0000">
-    <title>El Joe</title>
-    <sub-title>Spyrko tiene un plan</sub-title>
-    <episode-num system="onscreen">S01E34</episode-num>
-    <desc>Jacky es abordada en la calle por Spirko, quien le hace creer que es un viejo amigo de su tía. Luego en plena entrevista radial que escucha Adela y Jacky, Belén pregunta a El Joe si es casado y lo hace quedar mal por no contárselo.</desc>
-    <date>20240912</date>
-    <icon src="https://partner-upload-assets.wurl.com/latin_american_tv/RCNMAS_El_Joe_Ep_034.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" start="20251214210000 +0000" stop="20251214220000 +0000">
-    <title>El Joe</title>
-    <sub-title>Fruko es el héroe</sub-title>
-    <episode-num system="onscreen">S01E35</episode-num>
-    <desc>Fruko logra neutralizar a los ladrones y salva a Miriam, quien queda más enamorada que nunca. Adela sigue furiosa porque el Joe le incumplió con lo de la casa y empaca frenética sus cosas para regresarse a Cartagena.</desc>
-    <date>20240912</date>
-    <icon src="https://partner-upload-assets.wurl.com/latin_american_tv/RCNMAS_El_Joe_Ep_035.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" start="20251214220000 +0000" stop="20251214230000 +0000">
-    <title>El Joe</title>
-    <sub-title>Alucinaciones de El Joe</sub-title>
-    <episode-num system="onscreen">S01E36</episode-num>
-    <desc>Fruko llora de orgullo al terminar de tocar la canción El Preso en la voz de Manyoma. Más tarde los muchachos de la orquesta recolectaron dinero para la casa que quiere Adela, pero ella decide que será para que El Joe quede libre de Francisco.</desc>
-    <date>20240925</date>
-    <icon src="https://partner-upload-assets.wurl.com/latin_american_tv/RCNMAS_El_Joe_Ep_036.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" start="20251214230000 +0000" stop="20251215000000 +0000">
-    <title>No olvidarás mi nombre</title>
-    <sub-title>El mapa zonal</sub-title>
-    <episode-num system="onscreen">S01E50</episode-num>
-    <desc>En La Ye, inician labores para elaborar un mapa de las zonas en las que hay minas antipersonales. Zapata se comunica con Sergio para que hable con Lucía y proponerle un intercambio de la mujer por el bebé Simón.</desc>
+<programme channel="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" start="20251215010000 +0000" stop="20251215020000 +0000">
+    <title>Garzón vive</title>
+    <sub-title>Garzón conquista a Paola</sub-title>
+    <episode-num system="onscreen">S01E70</episode-num>
+    <desc>En la finca de La Calera, a la que Jaime lleva a Matsy, él intenta besarla, pero ella reacciona y se va del lugar, pues le dice que no va a seguir su juego. Sin embargo, al otro día, Jaime la sorprende con un hermoso regalo y una invitación a comer.</desc>
     <date>20251126</date>
-    <icon src="https://partner-upload-assets.wurl.com/latin_american_tv/RCNMAS_No_olvidar%25C3%25A1s_mi_nombre_Ep_50.jpg" />
+    <icon src="https://partner-upload-assets.wurl.com/latin_american_tv/RCNMAS_Garz%25C3%25B3n_Ep_70.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" start="20251215000000 +0000" stop="20251215010000 +0000">
-    <title>El último matrimonio feliz</title>
-    <sub-title>Visita al brujo</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" start="20251215020000 +0000" stop="20251215030000 +0000">
+    <title>Diomedes</title>
+    <sub-title>Enfrentamientos</sub-title>
+    <episode-num system="onscreen">S01E118</episode-num>
+    <desc>Lucia enfrenta a su mama dice que no es la primera vez que llegan cartas de mujeres. Joe llega a darle el pésame a Diomedes que está muy mal por la muerte de su amigo Israel Osorio.</desc>
+    <date>20251030</date>
+    <icon src="https://partner-upload-assets.wurl.com/latin_american_tv/RCNMAS_Diomedes_Ep_118.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" start="20251215030000 +0000" stop="20251215040000 +0000">
+    <title>Diomedes</title>
+    <sub-title>Lucha por amor</sub-title>
+    <episode-num system="onscreen">S01E119</episode-num>
+    <desc>Juancho le pide matrimonio a María paula. Ena se opone a que ellos se casen porque para ella Juancho es poca cosa, Juancho canta una canción y les deja en claro que luchará por su amor que van a ser esposos pase lo que pase.</desc>
+    <date>20251030</date>
+    <icon src="https://partner-upload-assets.wurl.com/latin_american_tv/RCNMAS_Diomedes_Ep_119.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" start="20251215040000 +0000" stop="20251215050000 +0000">
+    <title>Diomedes</title>
+    <sub-title>Matrimonio de Juancho</sub-title>
+    <episode-num system="onscreen">S01E120</episode-num>
+    <desc>Llega el matrimonio entre Juancho y Paula. Diomedes y Lucia siguen bravos, ella le promete que le hará pasar la peor noche de su vida. La fiesta de matrimonio sigue, María Paula le pide a Juancho que jamás sean como Diomedes y Lucia.</desc>
+    <date>20251030</date>
+    <icon src="https://partner-upload-assets.wurl.com/latin_american_tv/RCNMAS_Diomedes_Ep_120.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" start="20251215050000 +0000" stop="20251215060000 +0000">
+    <title>La hija del mariachi</title>
+    <sub-title>Licor por canciones</sub-title>
+    <episode-num system="onscreen">S01E78</episode-num>
+    <desc>Emiliano hace un pésimo arreglo con Memo para trabajar en el Maguey. El Mexicano cambiara canciones por comida y trago. Por otro lado, sin pensar y sin tener en cuenta las consecuencias, Lucia decide salir en busca de Emiliano.</desc>
+    <date>20240718</date>
+    <icon src="https://partner-upload-assets.wurl.com/latin_american_tv/RCNMAS_La_hija_del_mariachi_Ep_078.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" start="20251215060000 +0000" stop="20251215070000 +0000">
+    <title>La hija del mariachi</title>
+    <sub-title>Más errores por el desamor</sub-title>
+    <episode-num system="onscreen">S01E79</episode-num>
+    <desc>Un triste e incómodo encuentro entre Emiliano y Rosario en el bar el Maguey. El dolor que siente Emiliano al ver partir a la mujer que ama con otro hombre, lo llevara a seguir cometiendo errores.</desc>
+    <date>20240718</date>
+    <icon src="https://partner-upload-assets.wurl.com/latin_american_tv/RCNMAS_La_hija_del_mariachi_Ep_079.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" start="20251215070000 +0000" stop="20251215080000 +0000">
+    <title>La hija del mariachi</title>
+    <sub-title>Luchar por amor</sub-title>
     <episode-num system="onscreen">S01E80</episode-num>
-    <desc>Antonia le confiesa a Patricio que se siente afectada por su relación con Bárbara, Patricio le pide tiempo para asimilar que ella carece de un seno. Matilde le confiesa a Jesús que realizo brujería a Bárbara para que volviera con él.</desc>
+    <desc>Emiliano se niega a aceptar que su relación con Rosario se acabe y por esto decide salir a buscarla. Por otro lado, Verónica llama a Virginia para contarle que Emiliano está trabajando en el bar el Maguey.</desc>
+    <date>20240718</date>
+    <icon src="https://partner-upload-assets.wurl.com/latin_american_tv/RCNMAS_La_hija_del_mariachi_Ep_080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" start="20251215080000 +0000" stop="20251215090000 +0000">
+    <title>Leandro</title>
+    <sub-title>Los ojos del corazón</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Leandro Díaz viaja al Festival de Fundación. Por su parte, Matilde Lina, en oposición a su esposo, se escapa al festival del pueblo. A orillas del río, Matilde y Leandro se conocen; y luego, enamorado, Leandro le propone a Matilde escapar juntos.</desc>
+    <date>20250821</date>
+    <icon src="https://partner-upload-assets.wurl.com/latin_american_tv/RCNMAS_Leandro_Diaz_Ep_01.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" start="20251215090000 +0000" stop="20251215100000 +0000">
+    <title>Leandro</title>
+    <sub-title>Detenido</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>En medio de la multitud del festival, Leandro intenta defenderse y termina por golpear a un policía, quien lo encarcela. Matilde Lina, en la estación de tren, espera la llegada de Leandro.</desc>
+    <date>20250821</date>
+    <icon src="https://partner-upload-assets.wurl.com/latin_american_tv/RCNMAS_Leandro_Diaz_Ep_02.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" start="20251215100000 +0000" stop="20251215110000 +0000">
+    <title>Leandro</title>
+    <sub-title>Desprecio</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Se recuerda la niñez de Leandro. Remedios envía a Erotida a Los Pajales a casa de la familia del pequeño Leandro, quien sufre el desprecio de su padre y hermanos por ser ciego. Más tarde en el río, Leandro y Arturo se pelean.</desc>
+    <date>20250821</date>
+    <icon src="https://partner-upload-assets.wurl.com/latin_american_tv/RCNMAS_Leandro_Diaz_Ep_03.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" start="20251215110000 +0000" stop="20251215120000 +0000">
+    <title>No olvidarás mi nombre</title>
+    <sub-title>Libertad para Lucía</sub-title>
+    <episode-num system="onscreen">S01E51</episode-num>
+    <desc>Sergio habla con el fiscal Gallo para entregar al niño con el compromiso de recuperar la libertad de Lucía. Mónica logra sacarle la información a Raúl y entra a la bodega, conversa con Lucía y descubre toda la verdad.</desc>
+    <date>20251126</date>
+    <icon src="https://partner-upload-assets.wurl.com/latin_american_tv/RCNMAS_No_olvidar%25C3%25A1s_mi_nombre_Ep_51.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" start="20251215120000 +0000" stop="20251215130000 +0000">
+    <title>El último matrimonio feliz</title>
+    <sub-title>Bárbara busca como escapar</sub-title>
+    <episode-num system="onscreen">S01E81</episode-num>
+    <desc>El brujo le dice a Matilde que desentierre a Bárbara por que puede terminar en un manicomio. Bárbara se despierta y se da cuenta que está sola, por lo que empieza a buscar la forma de escapar.</desc>
     <date>20251127</date>
-    <icon src="https://partner-upload-assets.wurl.com/latin_american_tv/RCNMAS_El_ultimo_matrimonio_feliz_Ep_080.jpg" />
+    <icon src="https://partner-upload-assets.wurl.com/latin_american_tv/RCNMAS_El_ultimo_matrimonio_feliz_Ep_081.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" start="20251215130000 +0000" stop="20251215140000 +0000">
+    <title>Garzón vive</title>
+    <sub-title>Adios QUAC</sub-title>
+    <episode-num system="onscreen">S01E71</episode-num>
+    <desc>Jaime pierde su trabajo en QUAC. Las diferencias de opiniones entre Victoria y Jaime llevaron a la directora a tomar la decisión de no contar con Garzón como presentador de su programa.</desc>
+    <date>20251126</date>
+    <icon src="https://partner-upload-assets.wurl.com/latin_american_tv/RCNMAS_Garz%25C3%25B3n_Ep_71.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" start="20251215140000 +0000" stop="20251215150000 +0000">
+    <title>Diomedes</title>
+    <sub-title>Viaje a Venezuela</sub-title>
+    <episode-num system="onscreen">S01E121</episode-num>
+    <desc>Juancho y Diomedes viajan a Venezuela a la presentación, estando allí Juancho recibe la noticia por parte de María Paula de que será papá y no ve la hora para regresar nuevamente a Colombia. Consuelo pelea nuevamente con su mamá.</desc>
+    <date>20251127</date>
+    <icon src="https://partner-upload-assets.wurl.com/latin_american_tv/RCNMAS_Diomedes_Ep_121.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" start="20251215150000 +0000" stop="20251215160000 +0000">
+    <title>Diomedes</title>
+    <sub-title>Accidente aéreo</sub-title>
+    <episode-num system="onscreen">S01E122</episode-num>
+    <desc>La avioneta donde viajan tiene problema, al final el piloto no puede controlar y la avioneta se cae. La información que circula es que Diomedes y Juancho fallecieron. Juancho llega muy mal al hospital y fallece.</desc>
+    <date>20251127</date>
+    <icon src="https://partner-upload-assets.wurl.com/latin_american_tv/RCNMAS_Diomedes_Ep_122.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" start="20251215160000 +0000" stop="20251215170000 +0000">
+    <title>Diomedes</title>
+    <sub-title>Noticias dolorosas</sub-title>
+    <episode-num system="onscreen">S01E123</episode-num>
+    <desc>María Paula llora, Mariano pide calma ya que ninguna noticia es oficial, lo vemos bastante afectado. A Diomedes le cuentan del accidente de Juancho. Diomedes llama a Lucia y se pone feliz, ella le dice que Juancho se murió. Diomedes se derrumba.</desc>
+    <date>20251127</date>
+    <icon src="https://partner-upload-assets.wurl.com/latin_american_tv/RCNMAS_Diomedes_Ep_123.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" start="20251215170000 +0000" stop="20251215180000 +0000">
+    <title>La hija del mariachi</title>
+    <sub-title>Regresar a México</sub-title>
+    <episode-num system="onscreen">S01E81</episode-num>
+    <desc>Con ayuda de Sigifredo, Emiliano recupera los cuadernos de Lucia y reúne el dinero para comprarle una maleta nueva. Por otro lado, Javier Macías quiere ofrecerle dinero a Emiliano para que regrese a México.</desc>
+    <date>20240805</date>
+    <icon src="https://partner-upload-assets.wurl.com/latin_american_tv/RCNMAS_La_hija_del_mariachi_Ep_081.jpg" />
   </programme>
   
 </tv>

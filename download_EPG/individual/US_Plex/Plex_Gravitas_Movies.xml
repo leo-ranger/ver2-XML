@@ -5,7 +5,16 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/87658f08-b42f-4fff-b2d6-b729fd2dae71/Plex_GravitasMovies_DarkBackground.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-5efe1de7e0b3f5003f5d9f8e" start="20251214155019 +0000" stop="20251214174531 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-5efe1de7e0b3f5003f5d9f8e" start="20251215001343 +0000" stop="20251215020231 +0000">
+    <title>The Last Unicorn</title>
+    <sub-title>The Last Unicorn</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>A brave unicorn and a magician fight an evil king who is obsessed with attempting to capture the world's unicorns.</desc>
+    <date>19820101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00163/asset_artifacts/image/fetch_media/896f49fb60a3892f/The_Last_Unicorn_HD_Computer_Optimized_Version_384x216.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5efe1de7e0b3f5003f5d9f8e" start="20251215020231 +0000" stop="20251215035743 +0000">
     <title>Labyrinth</title>
     <sub-title>Labyrinth</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -14,7 +23,7 @@
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00163/asset_artifacts/image/fetch_media/6c6c759e2fec6cee/Labyrinth_Feature_HD_2398_239_Stereo_PROXY_480x270.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5efe1de7e0b3f5003f5d9f8e" start="20251214174531 +0000" stop="20251214194011 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-5efe1de7e0b3f5003f5d9f8e" start="20251215035743 +0000" stop="20251215055222 +0000">
     <title>Timecop</title>
     <sub-title>Timecop</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -23,7 +32,7 @@
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00163/asset_artifacts/image/fetch_media/df19bacb125b428d/Timecop_broadcast_edit_v2_11_24_23_h264_96x54.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5efe1de7e0b3f5003f5d9f8e" start="20251214194011 +0000" stop="20251214220254 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-5efe1de7e0b3f5003f5d9f8e" start="20251215055222 +0000" stop="20251215081505 +0000">
     <title>Point Break</title>
     <sub-title>Point Break</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -32,7 +41,7 @@
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00163/asset_artifacts/image/fetch_media/66bcda804be733a5/PointBreak_broadcast_edit_REVISED_11_22_23_h264_384x216.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5efe1de7e0b3f5003f5d9f8e" start="20251214220254 +0000" stop="20251215001343 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-5efe1de7e0b3f5003f5d9f8e" start="20251215081505 +0000" stop="20251215102555 +0000">
     <title>The Exorcist III (Theatrical Cut)</title>
     <sub-title>The Exorcist III (Theatrical Cut)</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -41,13 +50,38 @@
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00163/asset_artifacts/image/fetch_media/11746c0d5f9ada25/TheExorcistIII_broadcast_edit_v2_1_2_24_h264_480x270.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5efe1de7e0b3f5003f5d9f8e" start="20251215001343 +0000" stop="20251215020231 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-5efe1de7e0b3f5003f5d9f8e" start="20251215102555 +0000" stop="20251215121442 +0000">
     <title>The Last Unicorn</title>
     <sub-title>The Last Unicorn</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
     <desc>A brave unicorn and a magician fight an evil king who is obsessed with attempting to capture the world's unicorns.</desc>
     <date>19820101</date>
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00163/asset_artifacts/image/fetch_media/896f49fb60a3892f/The_Last_Unicorn_HD_Computer_Optimized_Version_384x216.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5efe1de7e0b3f5003f5d9f8e" start="20251215121442 +0000" stop="20251215140955 +0000">
+    <title>Labyrinth</title>
+    <sub-title>Labyrinth</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Sixteen-year-old Sarah must solve a labyrinth to rescue her baby brother when he is taken by the Goblin King.</desc>
+    <date>19860101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00163/asset_artifacts/image/fetch_media/6c6c759e2fec6cee/Labyrinth_Feature_HD_2398_239_Stereo_PROXY_480x270.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5efe1de7e0b3f5003f5d9f8e" start="20251215140955 +0000" stop="20251215160958 +0000">
+    <title>Eating You Alive</title>
+    <category>Movie</category>
+    <desc>How and why what we eat is the cause of the chronic diseases that are killing us, and changing what we eat can save our lives one bite at a time.</desc>
+    <date>20180101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/88e1cbef-7738-48f5-a888-6c7b8799fc24/Plex_GravitasMovies_2000x3000.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5efe1de7e0b3f5003f5d9f8e" start="20251215160958 +0000" stop="20251215180042 +0000">
+    <title>Age Out</title>
+    <category>Movie</category>
+    <desc>Fresh out of foster care at age 18, a young drifter (Tye Sheridan) turns to petty crime to survive, and discovers an impossible love in an unlikely friend.</desc>
+    <date>20180101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/88e1cbef-7738-48f5-a888-6c7b8799fc24/Plex_GravitasMovies_2000x3000.jpg" />
   </programme>
   
 </tv>

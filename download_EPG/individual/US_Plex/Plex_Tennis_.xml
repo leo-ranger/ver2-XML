@@ -5,42 +5,67 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20251214153520 +0000" stop="20251214181347 +0000">
-    <title>Australian Open Full Match</title>
-    <sub-title>AO18 Men's Quarterfinal - Dimitrov v Edmund</sub-title>
-    <episode-num system="onscreen">S2018E235</episode-num>
-    <desc>The Full Match of the Australian Open 2018 Men's Quarterfinal - Grigor Dimitrov v Kyle Edmund</desc>
-    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20251214181347 +0000" stop="20251214194715 +0000">
-    <title>Australian Open Full Match</title>
-    <sub-title>AO25 Women's Semifinal - Swiatek v Keys</sub-title>
-    <episode-num system="onscreen">S2025E462</episode-num>
-    <desc>The Full Match of the Australian Open 2025 Women's Semifinal - Iga Swiatek v Madison Keys</desc>
-    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20251214194715 +0000" stop="20251214213452 +0000">
-    <title>AO Moments - Nadal Funnies</title>
-    <category>Movie</category>
-    <desc>AO Moments - Nadal Funnies</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/7a4c210d-ee2a-49e2-9fea-9f150c1ede05/4_Tennis_Plus__Vertical_Default_Art__2000x3000px_v3.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20251214213452 +0000" stop="20251214231342 +0000">
-    <title>Australian Open Full Match</title>
-    <sub-title>AO25 Men's Quarterfinal - Sinner v de Minaur</sub-title>
-    <episode-num system="onscreen">S2025E422</episode-num>
-    <desc>The Full Match of the Australian Open 2025 Men's Quarterfinal - Jannik Sinner v Alex de Minaur</desc>
-    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
-  </programme>
-  
 <programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20251214231342 +0000" stop="20251215034630 +0000">
     <title>Australian Open Full Match</title>
     <sub-title>AO94 Men's First Round - Courier v Shelton</sub-title>
     <episode-num system="onscreen">S1994E32</episode-num>
     <desc>The Full Match of the Australian Open 1994 Men's First Round - Jim Courier v Bryan Shelton</desc>
+    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20251215034630 +0000" stop="20251215065316 +0000">
+    <title>Australian Open Full Match</title>
+    <sub-title>AO95 Women's Final - Pierce v Sanchez Vicario</sub-title>
+    <episode-num system="onscreen">S1995E40</episode-num>
+    <desc>The Full Match of the Australian Open 1995 Women's Final - Mary Pierce v Arantxa Sanchez Vicario</desc>
+    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20251215065316 +0000" stop="20251215074559 +0000">
+    <title>Australian Open Full Match</title>
+    <sub-title>AO95 Men's Final - Sampras v Agassi</sub-title>
+    <episode-num system="onscreen">S1995E37</episode-num>
+    <desc>The Full Match of the Australian Open 1995 Men's Final - Pete Sampras v Andre Agassi</desc>
+    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20251215074559 +0000" stop="20251215081051 +0000">
+    <title>Australian Open Full Match</title>
+    <sub-title>AO24 Women's Second Round - Andreeva v Jabuer</sub-title>
+    <episode-num system="onscreen">S2024E396</episode-num>
+    <desc>The Full Match of the Australian Open 2024 Women's Second Round - Mirra Andreeva v Ons Jabuer</desc>
+    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20251215081051 +0000" stop="20251215105842 +0000">
+    <title>Australian Open Full Match</title>
+    <sub-title>AO24 Women's Semifinal - Zheng v Yastremska</sub-title>
+    <episode-num system="onscreen">S2024E401</episode-num>
+    <desc>The Full Match of the Australian Open 2024 Women's Semifinal - Qinwen Zheng v Dayana Yastremska</desc>
+    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20251215105842 +0000" stop="20251215140256 +0000">
+    <title>Australian Open Full Match</title>
+    <sub-title>AO15 Men's Second Round - Nadal v Smyczek</sub-title>
+    <episode-num system="onscreen">S2015E180</episode-num>
+    <desc>The Full Match of the Australian Open 2015 Men's Second Round - Rafael Nadal v Tim Smyczek</desc>
+    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20251215140256 +0000" stop="20251215161031 +0000">
+    <title>Australian Open Full Match</title>
+    <sub-title>AO02 Women's Semifinal - Hingis v Monica Seles</sub-title>
+    <episode-num system="onscreen">S2002E80</episode-num>
+    <desc>The Full Match of the Australian Open 2002 Women's Semifinal - Martina Hingis v Monica Seles</desc>
+    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20251215161031 +0000" stop="20251215184651 +0000">
+    <title>Australian Open Full Match</title>
+    <sub-title>AO24 Men's Third Round - Dimitrov v Borges</sub-title>
+    <episode-num system="onscreen">S2024E387</episode-num>
+    <desc>The Full Match of the Australian Open 2024 Men's Third Round - Grigor Dimitrov v Nuno Borges</desc>
     <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
   </programme>
   
