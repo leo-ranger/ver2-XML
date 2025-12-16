@@ -5,7 +5,16 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/2426b3e1-57b3-4f1c-84a8-df9a49d95414/MSChannel_Logo_Light_-_Kimberly_Dumer.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215011259 +0000" stop="20251215014732 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215235835 +0000" stop="20251216003724 +0000">
+    <title>Martha Holidays</title>
+    <sub-title>Gorgeous Gingerbread Houses From Start To Finish</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Martha and her friend and food stylist Jason Schreiber detail all the steps to make incredible gingerbread houses from start to finish including the perfect gingerbread recipe for sturdy construction.</desc>
+    <date>20221212</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/3d532c0422233199/MH_0105_GINGERBREAD_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216003724 +0000" stop="20251216011308 +0000">
     <title>Martha Holidays</title>
     <sub-title>Celebrating Christmas</sub-title>
     <episode-num system="onscreen">S01E06</episode-num>
@@ -14,151 +23,7 @@
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/f6a5e1d17865f0c3/MH_0106_CELEBRATING_CHRISTMAS_SCREENSHOT_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215014732 +0000" stop="20251215022340 +0000">
-    <title>Martha Bakes</title>
-    <sub-title>Bakery-Style Cookies</sub-title>
-    <episode-num system="onscreen">S08E09</episode-num>
-    <desc>Martha shows how to make bakery-style cookies using better-for-you ingredients: farro chocolate-chunk, spelt-nut crescents, whole-wheat almond-butter sandwich, and granola</desc>
-    <date>20170212</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/b28c4d2cc5aa53ea/Martha_Bakes_809_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215022340 +0000" stop="20251215025920 +0000">
-    <title>Martha Bakes</title>
-    <sub-title>Scandinavian Cookies</sub-title>
-    <episode-num system="onscreen">S09E01</episode-num>
-    <desc>Martha shares three delicious Scandinavian cookie recipes: Danish butter cookies, spicy nutmeg cookie muskotsnittar, and jam-filled Finnish stars</desc>
-    <date>20180302</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/32fdf0da8d978c7a/Martha_Bakes_901_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215025920 +0000" stop="20251215033346 +0000">
-    <title>Martha Bakes</title>
-    <sub-title>Cookies of Australia and New Zealand</sub-title>
-    <episode-num system="onscreen">S09E02</episode-num>
-    <desc>Martha makes three cookies from Australia: chocolate mint sandwich cookies, flavor-packed ginger nut biscuits, and passion fruit melting moments</desc>
-    <date>20181002</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/f2ca0e7c4cfc3904/Martha_Bakes_902_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215033346 +0000" stop="20251215040510 +0000">
-    <title>Martha Bakes</title>
-    <sub-title>North American Cookies</sub-title>
-    <episode-num system="onscreen">S09E03</episode-num>
-    <desc>Martha updates three North American cookie classics: maple cream sandwich cookies, extraordinary chocolate chip cookies, and giant oatmeal raisin cookies</desc>
-    <date>20180217</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/66f798f5e9fdb27b/Martha_Bakes_903_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215040510 +0000" stop="20251215043950 +0000">
-    <title>Martha Bakes</title>
-    <sub-title>Cookies of Austria, Germany, and Switzerland</sub-title>
-    <episode-num system="onscreen">S09E04</episode-num>
-    <desc>Martha shares some of the most popular cookies from Austria, Germany, and Switzerland, including chrabeli, jam-filled Linzer cookies, and spiced pfeffernusse</desc>
-    <date>20180224</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/40731a5856382979/Martha_Bakes_904_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215043950 +0000" stop="20251215051634 +0000">
-    <title>Martha Bakes</title>
-    <sub-title>Latin American Cookies</sub-title>
-    <episode-num system="onscreen">S09E05</episode-num>
-    <desc>Martha shares three iconic Latin American cookie recipes: cinnamon-sugar polvorones de canela, bite-sized casadinhos, and champurradas (made with sesame seeds)</desc>
-    <date>20180303</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/694f15abd7874b91/Martha_Bakes_905_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215051634 +0000" stop="20251215055213 +0000">
-    <title>Martha Bakes</title>
-    <sub-title>Eastern European Cookies</sub-title>
-    <episode-num system="onscreen">S09E06</episode-num>
-    <desc>Martha shares treasured Eastern European cookie recipes: a family favorite of Martha's, chrusciki, feather-light goose feet, jam-filled kolache, and spiced pryaniki</desc>
-    <date>20181003</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/c51c088565d9f621/Martha_Bakes_906_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215055213 +0000" stop="20251215062758 +0000">
-    <title>Martha Bakes</title>
-    <sub-title>Italian Cookies</sub-title>
-    <episode-num system="onscreen">S09E07</episode-num>
-    <desc>Martha prepares three Italian cookie favorites: chestnut-filled baci di dama alle castagne, Tuscan cantucci, and hazelnut and chocolate cookies (brutti ma buoni)</desc>
-    <date>20180317</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/d1819c013e94ee24/Martha_Bakes_907_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215062758 +0000" stop="20251215070226 +0000">
-    <title>Martha Bakes</title>
-    <sub-title>Cookies of Great Britain</sub-title>
-    <episode-num system="onscreen">S09E08</episode-num>
-    <desc>Martha bakes three classic cookies of Great Britain: traditional Scottish shortbread, Welsh bakestones, and Celtic knot cookies (known for their intricate trefoil pattern)</desc>
-    <date>20180324</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/754911f3f475091e/Martha_Bakes_908_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215070226 +0000" stop="20251215073603 +0000">
-    <title>Martha Bakes</title>
-    <sub-title>Middle Eastern Cookies</sub-title>
-    <episode-num system="onscreen">S09E09</episode-num>
-    <desc>Martha explores cookies of the Middle East: geometrically patterned maamoul with dates, festive Iranian rice cookies, and tahini cookies</desc>
-    <date>20180331</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/5c275fb506602c60/Martha_Bakes_909_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215073603 +0000" stop="20251215080935 +0000">
-    <title>Martha Bakes</title>
-    <sub-title>Cookies of Greece</sub-title>
-    <episode-num system="onscreen">S09E10</episode-num>
-    <desc>Martha shares three authentic Greek cookie recipes: walnut and honey baklava, pine and anise-flavored kourabiedes, and paximadia (with orange, sesame seeds, and ouzo)</desc>
-    <date>20180504</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/033b4d3f8ca54828/Martha_Bakes_910_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215080935 +0000" stop="20251215084505 +0000">
-    <title>Martha Bakes</title>
-    <sub-title>Cookies of the Netherlands</sub-title>
-    <episode-num system="onscreen">S09E11</episode-num>
-    <desc>Martha shares three delicious Dutch cookie recipes: brown sugar and cinnamon speculaas, caramel-filled stroopwafels, and buttery arnhemse meisjes</desc>
-    <date>20181204</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/b16988c7f82d4a71/Martha_Bakes_911_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215084505 +0000" stop="20251215092028 +0000">
-    <title>Martha Bakes</title>
-    <sub-title>Classic Italian Cookies</sub-title>
-    <episode-num system="onscreen">S09E12</episode-num>
-    <desc>Martha makes three of her favorite Italian cookies: buccellati cookies (filled with pecans, figs, and raisins), wafer cookies (anise pizzelle), and diamond-shaped zaleti</desc>
-    <date>20180419</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/9491bbf4875b9b8d/Martha_Bakes_912_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215092028 +0000" stop="20251215095906 +0000">
-    <title>Martha Bakes</title>
-    <sub-title>French Cookies</sub-title>
-    <episode-num system="onscreen">S09E13</episode-num>
-    <desc>Martha shares three renowned French cookies: papillons (elephant ears), French meringues in a rainbow of colors and flavors, and buttery Bretons</desc>
-    <date>20180426</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/3f169f3d1b3a7e63/Martha_Bakes_913_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215095906 +0000" stop="20251215103333 +0000">
-    <title>Martha Bakes</title>
-    <sub-title>Elegant Cookies</sub-title>
-    <episode-num system="onscreen">S10E04</episode-num>
-    <desc>Martha demonstrates how to make special occasion cookies: vanilla and chocolate shortbread swirls, embellished wreaths with sugared flowers, and cherry blossom cookies</desc>
-    <date>20180728</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/deb2fa702e39f8c3/Martha_Bakes_1004_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215103333 +0000" stop="20251215110840 +0000">
-    <title>Martha Bakes</title>
-    <sub-title>Shortbread</sub-title>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <desc>Martha demonstrates how to make shortbread: traditional wedges, lemon bars with brown-butter crust, brown-sugar pecan cookies, and pumpkin tart with shortbread crust</desc>
-    <date>20120204</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/bff07510a8cd1987/Martha_Bakes_202_SCREENSHOT_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215110840 +0000" stop="20251215114433 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216011308 +0000" stop="20251216014844 +0000">
     <title>Martha Holidays</title>
     <sub-title>Martha and the Hanukkah Hunks</sub-title>
     <episode-num system="onscreen">S02E01</episode-num>
@@ -167,7 +32,7 @@
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/54dffc80c8379ef8/MHolidays_0204_HANUKKAH_SCREENSHOT_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215114433 +0000" stop="20251215121942 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216014844 +0000" stop="20251216022104 +0000">
     <title>Martha Holidays</title>
     <sub-title>Christmas Eve Seafood Dinner</sub-title>
     <episode-num system="onscreen">S02E02</episode-num>
@@ -176,7 +41,160 @@
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/3566b4ed5d90b9a2/MHolidays_0205_CHRISTMAS_EVE_SCREENSHOT_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215121942 +0000" stop="20251215125427 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216022104 +0000" stop="20251216031711 +0000">
+    <title>Martha Stewart Living</title>
+    <sub-title>Holiday Traditions (Elegant Christmas)</sub-title>
+    <episode-num system="onscreen">S11E88</episode-num>
+    <desc>Holiday Traditions (Elegant Christmas): Pearl Tree Topper, Noel Nut Ball Cookies, Duck Breasts with Pomegranate Walnut Sauce, Buche de Noel, Arranging Holiday Flowers, Christmas Table Setting</desc>
+    <date>20031218</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/e0bf320491fa3e14/Martha_Stewart_Living_11154_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216031711 +0000" stop="20251216041321 +0000">
+    <title>Martha Stewart Living</title>
+    <sub-title>Holiday Traditions (Hanukkah)</sub-title>
+    <episode-num system="onscreen">S11E89</episode-num>
+    <desc>Holiday Traditions (Hanukkah): Potato Pancakes, Cinnamon Applesauce, Jewish Museum (Field Trip), Zalabia, Hanukkah Gelt Bags, Arranging Flowers in Guy Wolff Pots, Cookie of the Week: Rugelach</desc>
+    <date>20031219</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/214630aef8c81236/Martha_Stewart_Living_11155_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216041321 +0000" stop="20251216051046 +0000">
+    <title>Martha Stewart Living</title>
+    <sub-title>Christmas (White Christmas)</sub-title>
+    <episode-num system="onscreen">S11E91</episode-num>
+    <desc>Christmas (White Christmas): Snowy Ornament, Chocolate Espresso Snowcap Cookies, White Cosmopolitans, Woodland Pine Cone Dessert, Snowflake Window Panels, Arranging Frosty White Flowers</desc>
+    <date>20031222</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/d048c459f7639f59/Martha_Stewart_Living_11161_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216051046 +0000" stop="20251216054600 +0000">
+    <title>Martha Bakes</title>
+    <sub-title>Eastern European Cookies</sub-title>
+    <episode-num system="onscreen">S09E06</episode-num>
+    <desc>Martha shares treasured Eastern European cookie recipes: a family favorite of Martha's, chrusciki, feather-light goose feet, jam-filled kolache, and spiced pryaniki</desc>
+    <date>20181003</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/c51c088565d9f621/Martha_Bakes_906_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216054600 +0000" stop="20251216061804 +0000">
+    <title>Martha Bakes</title>
+    <sub-title>Italian Cookies</sub-title>
+    <episode-num system="onscreen">S09E07</episode-num>
+    <desc>Martha prepares three Italian cookie favorites: chestnut-filled baci di dama alle castagne, Tuscan cantucci, and hazelnut and chocolate cookies (brutti ma buoni)</desc>
+    <date>20180317</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/d1819c013e94ee24/Martha_Bakes_907_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216061804 +0000" stop="20251216065428 +0000">
+    <title>Martha Bakes</title>
+    <sub-title>Cookies of Great Britain</sub-title>
+    <episode-num system="onscreen">S09E08</episode-num>
+    <desc>Martha bakes three classic cookies of Great Britain: traditional Scottish shortbread, Welsh bakestones, and Celtic knot cookies (known for their intricate trefoil pattern)</desc>
+    <date>20180324</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/754911f3f475091e/Martha_Bakes_908_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216065428 +0000" stop="20251216072942 +0000">
+    <title>Martha Bakes</title>
+    <sub-title>Middle Eastern Cookies</sub-title>
+    <episode-num system="onscreen">S09E09</episode-num>
+    <desc>Martha explores cookies of the Middle East: geometrically patterned maamoul with dates, festive Iranian rice cookies, and tahini cookies</desc>
+    <date>20180331</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/5c275fb506602c60/Martha_Bakes_909_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216072942 +0000" stop="20251216080453 +0000">
+    <title>Martha Bakes</title>
+    <sub-title>Cookies of Greece</sub-title>
+    <episode-num system="onscreen">S09E10</episode-num>
+    <desc>Martha shares three authentic Greek cookie recipes: walnut and honey baklava, pine and anise-flavored kourabiedes, and paximadia (with orange, sesame seeds, and ouzo)</desc>
+    <date>20180504</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/033b4d3f8ca54828/Martha_Bakes_910_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216080453 +0000" stop="20251216090253 +0000">
+    <title>Martha Stewart Living</title>
+    <sub-title>Christmas (Last-Minute Ideas)</sub-title>
+    <episode-num system="onscreen">S11E92</episode-num>
+    <desc>Christmas (Last-Minute Ideas): Embellishing Winter Gloves, Beef Tenderloin, Rickrack Ornaments, Chestnut Harvest at Ladd Hill Farm (Field Trip), Christmas Lampshades, Dom Perignon</desc>
+    <date>20031223</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/eb5a4ac3cac6de4d/Martha_Stewart_Living_11162_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216090253 +0000" stop="20251216095841 +0000">
+    <title>Martha Stewart Living</title>
+    <sub-title>Family Christmas Eve</sub-title>
+    <episode-num system="onscreen">S11E93</episode-num>
+    <desc>Family Christmas Eve: Braised Short Ribs and Salsify, Custom Gift Bow, Toy Soldiers at Forbes Museum (Field Trip), Candy Cane Mice, Collecting Victorian Scrap Ornaments, Christmas Tree Paper Ornament</desc>
+    <date>20031224</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/fef15b7ba41bad0a/Martha_Stewart_Living_11163_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216095841 +0000" stop="20251216103002 +0000">
+    <title>Martha Stewart Living</title>
+    <sub-title>Christmas Wreath, Stockings</sub-title>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <desc>Christmas Prep: Making a Hanging Wreath, Christmas Stockings, Christmas Tree Farm (Field Trip), Christmas Brass Screw Good Thing</desc>
+    <date>19931112</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/12e0e6268efaf98a/Martha_Stewart_Living_113_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216103002 +0000" stop="20251216110125 +0000">
+    <title>Martha Stewart Living</title>
+    <sub-title>Gingerbread House, Sugared Fruit Pyramid</sub-title>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <desc>Christmas Decorating: Gingerbread House, Sugar Fruit, Christmas Wreaths, Decorating Christmas Trees, Christmas Gift Wrapping</desc>
+    <date>19931218</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/4d143a31324ad2dd/Martha_Stewart_Living_114_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216110125 +0000" stop="20251216113814 +0000">
+    <title>Martha Bakes</title>
+    <sub-title>Cookies of the Netherlands</sub-title>
+    <episode-num system="onscreen">S09E11</episode-num>
+    <desc>Martha shares three delicious Dutch cookie recipes: brown sugar and cinnamon speculaas, caramel-filled stroopwafels, and buttery arnhemse meisjes</desc>
+    <date>20181204</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/b16988c7f82d4a71/Martha_Bakes_911_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216113814 +0000" stop="20251216121353 +0000">
+    <title>Martha Bakes</title>
+    <sub-title>Classic Italian Cookies</sub-title>
+    <episode-num system="onscreen">S09E12</episode-num>
+    <desc>Martha makes three of her favorite Italian cookies: buccellati cookies (filled with pecans, figs, and raisins), wafer cookies (anise pizzelle), and diamond-shaped zaleti</desc>
+    <date>20180419</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/9491bbf4875b9b8d/Martha_Bakes_912_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216121353 +0000" stop="20251216124737 +0000">
+    <title>Martha Bakes</title>
+    <sub-title>French Cookies</sub-title>
+    <episode-num system="onscreen">S09E13</episode-num>
+    <desc>Martha shares three renowned French cookies: papillons (elephant ears), French meringues in a rainbow of colors and flavors, and buttery Bretons</desc>
+    <date>20180426</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/3f169f3d1b3a7e63/Martha_Bakes_913_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216124737 +0000" stop="20251216132519 +0000">
+    <title>Martha Bakes</title>
+    <sub-title>Elegant Cookies</sub-title>
+    <episode-num system="onscreen">S10E04</episode-num>
+    <desc>Martha demonstrates how to make special occasion cookies: vanilla and chocolate shortbread swirls, embellished wreaths with sugared flowers, and cherry blossom cookies</desc>
+    <date>20180728</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/deb2fa702e39f8c3/Martha_Bakes_1004_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216132519 +0000" stop="20251216140522 +0000">
+    <title>Martha Bakes</title>
+    <sub-title>Shortbread</sub-title>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <desc>Martha demonstrates how to make shortbread: traditional wedges, lemon bars with brown-butter crust, brown-sugar pecan cookies, and pumpkin tart with shortbread crust</desc>
+    <date>20120204</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/bff07510a8cd1987/Martha_Bakes_202_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216140522 +0000" stop="20251216144003 +0000">
     <title>Martha Holidays</title>
     <sub-title>Christmas in the Country</sub-title>
     <episode-num system="onscreen">S02E03</episode-num>
@@ -185,7 +203,7 @@
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/538400e0c3f78a01/MHolidays_0206_COUNTRY_CHRISTMAS_SCREENSHOT_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215125427 +0000" stop="20251215133029 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216144003 +0000" stop="20251216151510 +0000">
     <title>Martha Holidays</title>
     <sub-title>Traditional Christmas Breads</sub-title>
     <episode-num system="onscreen">S02E04</episode-num>
@@ -194,7 +212,7 @@
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/7c7a7f071bb74c00/MHolidays_0207_PANETTONE_SCREENSHOT_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215133029 +0000" stop="20251215140420 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216151510 +0000" stop="20251216155021 +0000">
     <title>Martha Holidays</title>
     <sub-title>Homemade Holidays</sub-title>
     <episode-num system="onscreen">S02E05</episode-num>
@@ -203,7 +221,79 @@
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/656472e082b244fa/MHolidays_0208_HOMEMADE_HOLIDAY_SCREENSHOT_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215140420 +0000" stop="20251215143850 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216155021 +0000" stop="20251216162544 +0000">
+    <title>Martha Holidays</title>
+    <sub-title>Martha's Favorite Christmas Cookies</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Martha and her niece Sophie make Martha's favorite Christmas cookies together including Martha's mother's noel nut balls, classic sugar cookies, Viennese crescent cookies, and cookie press cookies.</desc>
+    <date>20221212</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/08adc5a134f54885/MH_0104_CHRISTMAS_COOKIES_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216162544 +0000" stop="20251216170031 +0000">
+    <title>Martha Holidays</title>
+    <sub-title>Gorgeous Gingerbread Houses From Start To Finish</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Martha and her friend and food stylist Jason Schreiber detail all the steps to make incredible gingerbread houses from start to finish including the perfect gingerbread recipe for sturdy construction.</desc>
+    <date>20221212</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/3d532c0422233199/MH_0105_GINGERBREAD_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216170031 +0000" stop="20251216173330 +0000">
+    <title>Martha Stewart Living</title>
+    <sub-title>Candle Making, Brunch Recipes</sub-title>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <desc>Building Fires, Christmas Candle Making, Christmas Miniature Topiaries, Christmas and New Year's Holiday Brunch</desc>
+    <date>19931225</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/c0a197a97b489da8/Martha_Stewart_Living_115_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216173330 +0000" stop="20251216180449 +0000">
+    <title>Martha Stewart Living</title>
+    <sub-title>Potato Latkes, Silk and Velvet Scarves</sub-title>
+    <episode-num system="onscreen">S02E11</episode-num>
+    <desc>Potato Latkes, Silk and Velvet Scarves, Irish Oatmeal Good Thing, Ferns Under Glass</desc>
+    <date>19941126</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/7f8f1033af024dae/Martha_Stewart_Living_211_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216180449 +0000" stop="20251216183502 +0000">
+    <title>Martha Stewart Living</title>
+    <sub-title>Christmas Cookie Ornaments, Stollen Bread</sub-title>
+    <episode-num system="onscreen">S02E12</episode-num>
+    <desc>Making Cookie Ornaments, Christmas Trees in East Hampton, Stollen Bread</desc>
+    <date>19940312</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/9d193cf0559c6335/Martha_Stewart_Living_212_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216183502 +0000" stop="20251216190551 +0000">
+    <title>Martha Stewart Living</title>
+    <sub-title>Christmas Ornaments, Wreaths, Cookie Boxes</sub-title>
+    <episode-num system="onscreen">S02E13</episode-num>
+    <desc>Christmas Ornaments in East Hampton, Christmas Wreaths in East Hampton, Christmas Cookie Boxes</desc>
+    <date>19941012</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/469b7f5ae8b0ccab/Martha_Stewart_Living_213_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216190551 +0000" stop="20251216193800 +0000">
+    <title>Martha Stewart Living</title>
+    <sub-title>Gift Paper, Holiday Train Show (Field Trip)</sub-title>
+    <episode-num system="onscreen">S02E14</episode-num>
+    <desc>Candles, Gift Paper Good Thing, Tree Skirt Good Thing, Holiday Train Show at the New York Botanical Garden (Field Trip)</desc>
+    <date>19941217</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/f36c3c045b80b34b/Martha_Stewart_Living_214_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216193800 +0000" stop="20251216200830 +0000">
+    <title>Martha Stewart Living</title>
+    <sub-title>East Hampton House Tour</sub-title>
+    <episode-num system="onscreen">S02E15</episode-num>
+    <desc>French Toast, Winter Window Box Good Thing, Chicken Stock, Christmas in East Hampton House Tour</desc>
+    <date>19941224</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/cc43e8fa44e00449/Martha_Stewart_Living_215_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216200830 +0000" stop="20251216204433 +0000">
     <title>Martha Bakes</title>
     <sub-title>Cookies</sub-title>
     <episode-num system="onscreen">S02E04</episode-num>
@@ -212,7 +302,7 @@
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/94baab0d0893a33f/Martha_Bakes_204_SCREENSHOT_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215143850 +0000" stop="20251215151257 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216204433 +0000" stop="20251216212258 +0000">
     <title>Martha Bakes</title>
     <sub-title>Bar Cookies</sub-title>
     <episode-num system="onscreen">S03E03</episode-num>
@@ -221,7 +311,7 @@
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/916370cda0ea0cc0/Martha_Bakes_303_SCREENSHOT_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215151257 +0000" stop="20251215154652 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216212258 +0000" stop="20251216220135 +0000">
     <title>Martha Bakes</title>
     <sub-title>Cookies</sub-title>
     <episode-num system="onscreen">S03E12</episode-num>
@@ -230,7 +320,7 @@
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/25ec5b30526bce1d/Martha_Bakes_312_SCREENSHOT_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215154652 +0000" stop="20251215162022 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216220135 +0000" stop="20251216223655 +0000">
     <title>Martha Bakes</title>
     <sub-title>Never Enough Cookies</sub-title>
     <episode-num system="onscreen">S06E07</episode-num>
@@ -239,7 +329,7 @@
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/850e0a575a714b82/Martha_Bakes_607_SCREENSHOT_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215162022 +0000" stop="20251215165600 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216223655 +0000" stop="20251216231020 +0000">
     <title>Martha Bakes</title>
     <sub-title>For the Cookie Jar</sub-title>
     <episode-num system="onscreen">S08E03</episode-num>
@@ -248,13 +338,22 @@
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/1bf0fa1e220d1790/Martha_Bakes_803_SCREENSHOT_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251215165600 +0000" stop="20251215175409 +0000">
-    <title>Martha Stewart Living</title>
-    <sub-title>Vintage Christmas (Fondue)</sub-title>
-    <episode-num system="onscreen">S11E85</episode-num>
-    <desc>Vintage Christmas (Fondue): Fondue, Reverse Applique Stocking, Dresden Star Ornament Company (Field Trip), Country Duck Pate, Wrapping Pate, Christmas Kissing Ball</desc>
-    <date>20031215</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/7065b15aa030c9cb/Martha_Stewart_Living_11151_SCREENSHOT_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216231020 +0000" stop="20251216234528 +0000">
+    <title>Martha Holidays</title>
+    <sub-title>Celebrating Christmas</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>The holidays are all about entertaining, decorating, and giving! Martha and her friend Kevin are celebrating Christmas with eggnog, holiday crafts for a beautiful centerpiece and personalized gifts.</desc>
+    <date>20221212</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/f6a5e1d17865f0c3/MH_0106_CELEBRATING_CHRISTMAS_SCREENSHOT_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" start="20251216234528 +0000" stop="20251217001857 +0000">
+    <title>Martha Holidays</title>
+    <sub-title>Martha and the Hanukkah Hunks</sub-title>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <desc>Martha's called in her Hanukkah hunks to share their family's Hanukkah recipes and teach Martha how to make the most delicious holiday dishes to nosh on!</desc>
+    <date>20231204</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/54dffc80c8379ef8/MHolidays_0204_HANUKKAH_SCREENSHOT_16x9.jpg" />
   </programme>
   
 </tv>

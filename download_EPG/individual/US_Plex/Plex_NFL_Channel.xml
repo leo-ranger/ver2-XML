@@ -5,7 +5,22 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/a7617b69-6d23-46d0-8e8e-e4ec9fa29d59/NFL_WHITE.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251214180000 +0000" stop="20251215020000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251215213400 +0000" stop="20251216004400 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2019: Dolphins vs. Steelers - Week 8</sub-title>
+    <desc>Steelers score 27 unanswered points, with help from Mason Rudolph and James Connor in 27-14 victory over Miami.</desc>
+    <date>20251215</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216004400 +0000" stop="20251216011500 +0000">
+    <title>NFL GameDay Preview</title>
+    <sub-title>NFL GameDay Preview</sub-title>
+    <episode-num system="onscreen">S2025E15</episode-num>
+    <desc>NFL analysts pick every game ahead of Week 15 based on the NFL schedule with insights from reporters around the country and in-depth statistical analysis during the 2025 NFL season.</desc>
+    <date>20251211</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216011500 +0000" stop="20251216043000 +0000">
     <title>NFL GameCenter Live</title>
     <sub-title>NFL GameCenter Live</sub-title>
     <episode-num system="onscreen">S2025E14</episode-num>
@@ -13,15 +28,29 @@
     <date>20251211</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251215020000 +0000" stop="20251215043000 +0000">
-    <title>NFL GameCenter Live</title>
-    <sub-title>NFL GameCenter Live</sub-title>
-    <episode-num system="onscreen">S2025E14</episode-num>
-    <desc>Get NFL score updates, highlights, news and more from Week 15 of the 2025 NFL season.</desc>
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216043000 +0000" stop="20251216053000 +0000">
+    <title>The Insiders</title>
+    <sub-title>The Insiders</sub-title>
+    <desc>NFL Media Insiders Ian Rapoport, Mike Garafolo, Tom Pelissero, and Judy Battista deliver the inside scoop and latest storylines ahead of Week 15 during the 2025 NFL season.</desc>
     <date>20251211</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251215043000 +0000" stop="20251215080600 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216053000 +0000" stop="20251216063000 +0000">
+    <title>NFL Press Conferences</title>
+    <sub-title>NFL Press Conferences</sub-title>
+    <desc>NFL Press Conferences brings you behind the podium with coaches and players from around the league following Week 15 during the 2025 NFL season.</desc>
+    <date>20251216</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216063000 +0000" stop="20251216064800 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Vikings vs. Cowboys Highlights - Week 15</sub-title>
+    <episode-num system="onscreen">S2025E197</episode-num>
+    <desc>Highlights from the Week 15 matchup between the Minnesota Vikings and the Dallas Cowboys during the 2025 NFL season.</desc>
+    <date>20251214</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216064800 +0000" stop="20251216070600 +0000">
     <title>Weekly Game Recaps</title>
     <sub-title>Weekly Game Recaps</sub-title>
     <episode-num system="onscreen">S2025E174</episode-num>
@@ -29,7 +58,127 @@
     <date>20251211</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251215080600 +0000" stop="20251215121800 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216070600 +0000" stop="20251216072400 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Browns vs. Bears Highlights - Week 15</sub-title>
+    <episode-num system="onscreen">S2025E198</episode-num>
+    <desc>Highlights from the Week 15 matchup between the Cleveland Browns and the Chicago Bears during the 2025 NFL season.</desc>
+    <date>20251214</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216072400 +0000" stop="20251216074200 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Chargers vs. Chiefs Highlights - Week 15</sub-title>
+    <episode-num system="onscreen">S2025E202</episode-num>
+    <desc>Highlights from the Week 15 matchup between the Los Angeles Chargers and the Kansas City Chiefs during the 2025 NFL season.</desc>
+    <date>20251214</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216074200 +0000" stop="20251216080000 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Bills vs. Patriots Highlights - Week 15</sub-title>
+    <episode-num system="onscreen">S2025E189</episode-num>
+    <desc>Highlights from the Week 15 matchup between the Buffalo Bills and the New England Patriots during the 2025 NFL season.</desc>
+    <date>20251214</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216080000 +0000" stop="20251216081800 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Browns vs. Bears Highlights - Week 15</sub-title>
+    <episode-num system="onscreen">S2025E198</episode-num>
+    <desc>Highlights from the Week 15 matchup between the Cleveland Browns and the Chicago Bears during the 2025 NFL season.</desc>
+    <date>20251214</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216081800 +0000" stop="20251216083600 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Ravens vs. Bengals Highlights - Week 15</sub-title>
+    <episode-num system="onscreen">S2025E199</episode-num>
+    <desc>Highlights from the Week 15 matchup between the Baltimore Ravens and the Cincinnati Bengals during the 2025 NFL season.</desc>
+    <date>20251214</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216083600 +0000" stop="20251216085400 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Cardinals vs. Texans Highlights - Week 15</sub-title>
+    <episode-num system="onscreen">S2025E200</episode-num>
+    <desc>Highlights from the Week 15 matchup between the Arizona Cardinals and the Houston Texans during the 2025 NFL season.</desc>
+    <date>20251214</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216085400 +0000" stop="20251216091200 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Jets vs. Jaguars Highlights - Week 15</sub-title>
+    <episode-num system="onscreen">S2025E201</episode-num>
+    <desc>Highlights from the Week 15 matchup between the New York Jets and the Jacksonville Jaguars during the 2025 NFL season.</desc>
+    <date>20251214</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216091200 +0000" stop="20251216093000 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Chargers vs. Chiefs Highlights - Week 15</sub-title>
+    <episode-num system="onscreen">S2025E202</episode-num>
+    <desc>Highlights from the Week 15 matchup between the Los Angeles Chargers and the Kansas City Chiefs during the 2025 NFL season.</desc>
+    <date>20251214</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216093000 +0000" stop="20251216094800 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Bills vs. Patriots Highlights - Week 15</sub-title>
+    <episode-num system="onscreen">S2025E189</episode-num>
+    <desc>Highlights from the Week 15 matchup between the Buffalo Bills and the New England Patriots during the 2025 NFL season.</desc>
+    <date>20251214</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216094800 +0000" stop="20251216100600 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Commanders vs. Giants Highlights - Week 15</sub-title>
+    <episode-num system="onscreen">S2025E190</episode-num>
+    <desc>Highlights from the Week 15 matchup between the Washington Commanders and the New York Giants during the 2025 NFL season.</desc>
+    <date>20251214</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216100600 +0000" stop="20251216102400 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Raiders vs. Eagles Highlights - Week 15</sub-title>
+    <episode-num system="onscreen">S2025E191</episode-num>
+    <desc>Highlights from the Week 15 matchup between the Las Vegas Raiders and the Philadelphia Eagles during the 2025 NFL season.</desc>
+    <date>20251214</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216102400 +0000" stop="20251216104200 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Packers vs. Broncos Highlights - Week 15</sub-title>
+    <episode-num system="onscreen">S2025E192</episode-num>
+    <desc>Highlights from the Week 15 matchup between the Green Bay Packers and the Denver Broncos during the 2025 NFL season.</desc>
+    <date>20251214</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216104200 +0000" stop="20251216110000 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Lions vs. Rams Highlights - Week 15</sub-title>
+    <episode-num system="onscreen">S2025E193</episode-num>
+    <desc>Highlights from the Week 15 matchup between the Detroit Lions and the Los Angeles Rams during the 2025 NFL season.</desc>
+    <date>20251214</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216110000 +0000" stop="20251216111800 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Panthers vs. Saints Highlights - Week 15</sub-title>
+    <episode-num system="onscreen">S2025E194</episode-num>
+    <desc>Highlights from the Week 15 matchup between the Carolina Panthers and the New Orleans Saints during the 2025 NFL season.</desc>
+    <date>20251214</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216111800 +0000" stop="20251216113600 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Vikings vs. Cowboys Highlights - Week 15</sub-title>
+    <episode-num system="onscreen">S2025E197</episode-num>
+    <desc>Highlights from the Week 15 matchup between the Minnesota Vikings and the Dallas Cowboys during the 2025 NFL season.</desc>
+    <date>20251214</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216113600 +0000" stop="20251216115400 +0000">
     <title>Weekly Game Recaps</title>
     <sub-title>Weekly Game Recaps</sub-title>
     <episode-num system="onscreen">S2025E174</episode-num>
@@ -37,20 +186,78 @@
     <date>20251211</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251215121800 +0000" stop="20251215163000 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Weekly Game Recaps</sub-title>
-    <episode-num system="onscreen">S2025E174</episode-num>
-    <desc>Weekly highlight series featuring the biggest moments and best plays from every NFL game from Week 15 of the 2025 NFL season.</desc>
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216115400 +0000" stop="20251216125400 +0000">
+    <title>The Insiders</title>
+    <sub-title>The Insiders</sub-title>
+    <desc>NFL Media Insiders Ian Rapoport, Mike Garafolo, Tom Pelissero, and Judy Battista deliver the inside scoop and latest storylines ahead of Week 15 during the 2025 NFL season.</desc>
     <date>20251211</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251215163000 +0000" stop="20251215204200 +0000">
-    <title>Weekly Game Recaps</title>
-    <sub-title>Weekly Game Recaps</sub-title>
-    <episode-num system="onscreen">S2025E174</episode-num>
-    <desc>Weekly highlight series featuring the biggest moments and best plays from every NFL game from Week 15 of the 2025 NFL season.</desc>
-    <date>20251211</date>
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216125400 +0000" stop="20251216135400 +0000">
+    <title>NFL Press Conferences</title>
+    <sub-title>NFL Press Conferences</sub-title>
+    <desc>NFL Press Conferences brings you behind the podium with coaches and players from around the league following Week 15 during the 2025 NFL season.</desc>
+    <date>20251216</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216135400 +0000" stop="20251216143300 +0000">
+    <title>24 Hours to Kickoff: Buffalo Bills</title>
+    <sub-title>24 Hours to Kickoff: Buffalo Bills</sub-title>
+    <desc>Everything that goes into preparing the Bills stadium for a crazy weather game.</desc>
+    <date>20251216</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216143300 +0000" stop="20251216151900 +0000">
+    <title>Condensed Game</title>
+    <sub-title>2022, AFC Divisional Round: Bengals vs. Bills</sub-title>
+    <desc>MVP Candidate: Joe Burrow threw two touchdown passes and Cincinnati's defense swarmed Josh Allen on a snow-slicked field in a 27-10 win Sunday to send the Bengals to the AFC championship game for the second straight year.</desc>
+    <date>20230209</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216151900 +0000" stop="20251216182300 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2017: Colts vs. Bills, Week 14</sub-title>
+    <episode-num system="onscreen">S2022E06</episode-num>
+    <desc>LeSean McCoy scores on a 21-yard run in overtime to secure the Buffalo Bills' 13-7 win over the Indianapolis Colts in the Week 14 "Snow Game" during the 2017 NFL season.</desc>
+    <date>20220102</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216182300 +0000" stop="20251216192000 +0000">
+    <title>Condensed Game</title>
+    <sub-title>2021: Bears vs. Seahawks, Week 16</sub-title>
+    <desc>Jimmy Graham caught a 15-yard touchdown pass from Foles with 1:01 remaining, Damiere Byrd made an acrobatic reception for the 2-point conversion, and the Chicago Bears beat the Seattle Seahawks 25-24 during the snowy matchup.</desc>
+    <date>20241226</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216192000 +0000" stop="20251216201500 +0000">
+    <title>The Timeline</title>
+    <sub-title>The Tuck Rule</sub-title>
+    <episode-num system="onscreen">S02E12</episode-num>
+    <desc>The story behind the controversial play call that secured a playoff victory for the Patriots in a season that ended with a New England Super Bowl win.</desc>
+    <date>20171005</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216201500 +0000" stop="20251216232900 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2001 AFC Divisional Round: Raiders vs. Patriots</sub-title>
+    <episode-num system="onscreen">S2022E153</episode-num>
+    <desc>The Patriots would meet the Raiders in the Divisional Round of the AFC Playoffs and the New England victory was fueled by the controversial Tuck Rule, which consequently launched the Patriots into a dynasty.</desc>
+    <date>20220305</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251216232900 +0000" stop="20251217000000 +0000">
+    <title>Power Rankings</title>
+    <sub-title>Power Rankings</sub-title>
+    <episode-num system="onscreen">S2025E08</episode-num>
+    <desc>Hosts Mike Yam and Eric Edholm provide an in-depth look at where each team sits in the weekly ranking of all 32 NFL teams following Week 15 of the 2025 NFL season.</desc>
+    <date>20251216</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20251217000000 +0000" stop="20251217010000 +0000">
+    <title>NFL Press Conferences</title>
+    <sub-title>NFL Press Conferences</sub-title>
+    <desc>NFL Press Conferences brings you behind the podium with coaches and players from around the league following Week 15 during the 2025 NFL season.</desc>
+    <date>20251216</date>
   </programme>
   
 </tv>
