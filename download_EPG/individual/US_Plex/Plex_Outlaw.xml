@@ -5,178 +5,278 @@
     <icon src="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6f6cffee3da24432269d9614379a6b1e.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251220231000 +0000" stop="20251220234000 +0000">
-    <title>The Roy Rogers Show</title>
-    <sub-title>Money to Burn</sub-title>
-    <episode-num system="onscreen">S02E15</episode-num>
-    <desc>Dale unknowingly buys a stove containing stolen payroll money from a local peddler (Dub Taylor).</desc>
-    <date>19530628</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251220234000 +0000" stop="20251221001000 +0000">
-    <title>The Roy Rogers Show</title>
-    <sub-title>The Milliner From Medicine Creek</sub-title>
-    <episode-num system="onscreen">S03E01</episode-num>
-    <desc>An attractive milliner and her grandfather are suspects in a plot to rob the Wells Fargo office.</desc>
-    <date>19531011</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251221001000 +0000" stop="20251221004000 +0000">
-    <title>The Roy Rogers Show</title>
-    <sub-title>Pat's Inheritance</sub-title>
-    <episode-num system="onscreen">S03E02</episode-num>
-    <desc>Pat and his cousin inherit some land that is coveted by some unscrupulous ranchers.</desc>
-    <date>19531101</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251221004000 +0000" stop="20251221011000 +0000">
-    <title>The Roy Rogers Show</title>
-    <sub-title>Outlaws of Paradise Valley</sub-title>
-    <episode-num system="onscreen">S03E03</episode-num>
-    <desc>Roy saves a group of archeological students taken hostage by robbers.</desc>
-    <date>19531108</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251221011000 +0000" stop="20251221014000 +0000">
-    <title>The Roy Rogers Show</title>
-    <sub-title>Bullets and a Burro</sub-title>
-    <episode-num system="onscreen">S03E04</episode-num>
-    <desc>An outlaw gang tries to steal an old prospector's life savings.</desc>
-    <date>19531115</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251221014000 +0000" stop="20251221021000 +0000">
-    <title>The Roy Rogers Show</title>
-    <sub-title>Gun Trouble</sub-title>
-    <episode-num system="onscreen">S03E05</episode-num>
-    <desc>An outlaw gang assigns an orphaned teenager (Harry Harvey, Jr.) the task of murdering Roy.</desc>
-    <date>19531122</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251221021000 +0000" stop="20251221042300 +0000">
-    <title>Django, Kill ... If You Live, Shoot!</title>
-    <category>Movie</category>
-    <desc>The infamous outlaw Django vows revenge after he is betrayed and left for dead during a gold robbery.</desc>
-    <date>19670102</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/16f83bcccf732761c3ae981306d1ef1c.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251221042300 +0000" stop="20251221063500 +0000">
-    <title>A Bullet for the General</title>
-    <category>Movie</category>
-    <desc>Mexican bandit brothers (Gian Maria Volonte, Klaus Kinski) lure a U.S. mercenary (Lou Castel) to join their revolution, complicated by an assassination plot.</desc>
-    <date>19660102</date>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/2521642d21dd3aadca8d8f4de2fe2a22.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251221063500 +0000" stop="20251221081800 +0000">
-    <title>This Man Can't Die</title>
-    <category>Movie</category>
-    <desc>A lawman (Guy Madison) finds his parents slain, his partner (Pietro Martellanza) held hostage and his town corrupt.</desc>
-    <date>19690102</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f8626385988c27c168fceece099961ce.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251221081800 +0000" stop="20251221094900 +0000">
-    <title>The Shooting</title>
-    <category>Movie</category>
-    <desc>A woman (Millie Perkins), two bounty hunters and a gunman (Jack Nicholson) ride into a desert and run out of water.</desc>
-    <date>19670102</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ac8c846b150b84992ee835a5ec2e2b31.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251221094900 +0000" stop="20251221104400 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251221234900 +0000" stop="20251222004400 +0000">
     <title>Bonanza</title>
-    <sub-title>Badge Without Honor</sub-title>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <desc>A Deputy U.S. Marshal arrives to escort a man to California to testify against a gang; guest Dan Duryea.</desc>
-    <date>19600924</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1f107c978bdbfb221fa0bd839b2879ca.jpg" />
+    <sub-title>The Hopefuls</sub-title>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <desc>Outlaws plot to steal a trunk containing the savings of a religious group heading for a new life in the West.</desc>
+    <date>19601008</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/669a2b4eb318e55f8937279605861488.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251221104400 +0000" stop="20251221111400 +0000">
-    <title>Stories of the Century</title>
-    <sub-title>Billy the Kid</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Matt teams with Pat Garrett after a large herd of horses is stolen.</desc>
-    <date>19540130</date>
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222004400 +0000" stop="20251222014000 +0000">
+    <title>Bonanza</title>
+    <sub-title>Denver McKee</sub-title>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <desc>The Cartwrights' neighbor (Franchot Tone), a former soldier and lawman, seeks security for his daughter.</desc>
+    <date>19601015</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c8ab9a6954792a29afe6923df04d5ca6.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251221111400 +0000" stop="20251221114400 +0000">
-    <title>Stories of the Century</title>
-    <sub-title>Frank and Jesse James</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Matt and Frankie go to Kansas City to aid in the capture of outlaw brothers Frank and Jesse James.</desc>
-    <date>19540207</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/4d9f97aa61b8c3b65ecef4af10e42128.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222014000 +0000" stop="20251222023500 +0000">
+    <title>Bonanza</title>
+    <sub-title>Day of Reckoning</sub-title>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <desc>Hoss' bandit uncle (Neville Brand) decides to bypass the Ponderosa, but his gang disagrees.</desc>
+    <date>19601022</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8fce23ea553f7677480da9f8c19edd88.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251221114400 +0000" stop="20251221121400 +0000">
-    <title>Stories of the Century</title>
-    <sub-title>Geronimo</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222023500 +0000" stop="20251222033000 +0000">
+    <title>Bonanza</title>
+    <sub-title>The Abduction</sub-title>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <desc>Hoss and Little Joe spend a most unforgettable night at the carnival when Little Joe's date disappears.</desc>
+    <date>19601029</date>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/bd4f1bb2618f8abaf02db98c954c44cd.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222033000 +0000" stop="20251222042500 +0000">
+    <title>Bonanza</title>
+    <sub-title>Breed of Violence</sub-title>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <desc>A sheriff's daughter runs off with her boyfriend (John Ericson), unaware he is a murderous bank robber.</desc>
+    <date>19601105</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/354e9c806bbc9c3e5e1ae620b7f851af.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222042500 +0000" stop="20251222052100 +0000">
+    <title>Bonanza</title>
+    <sub-title>The Last Viking</sub-title>
+    <episode-num system="onscreen">S02E10</episode-num>
+    <desc>Ben gives farmland on the Ponderosa to an outcast Indian (Ricardo Montalban) who saved his life; guest Madlyn Rhue.</desc>
+    <date>19601112</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/642b611f1d6421fd6fac95ef38d70c8f.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222052100 +0000" stop="20251222062200 +0000">
+    <title>The Sheriff of Medicine Bow</title>
+    <category>Movie</category>
+    <desc>A lawman helps a paroled convict defend his land from gold-hungry thieves.</desc>
+    <date>19480102</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9cf161d02f6ed2de5d9b3363d7a20894.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222062200 +0000" stop="20251222072600 +0000">
+    <title>The Rangers Ride</title>
+    <category>Movie</category>
+    <desc>A private state-police force extorts money from the citizens in a "protection" scheme after the Texas Rangers are disbanded.</desc>
+    <date>19480102</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/2d4114e1e444c740bf0312f4fd10d73c.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222072600 +0000" stop="20251222083000 +0000">
+    <title>Winds of the Wasteland</title>
+    <category>Movie</category>
+    <desc>Two former Pony Express riders enter a dilapidated stagecoach in a race for a government mail contract.</desc>
+    <date>19360102</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/4dd40fede5dcbc35bc0107ecdb3c2880.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222083000 +0000" stop="20251222092800 +0000">
+    <title>Hell Town</title>
+    <category>Movie</category>
+    <desc>A rancher (John Mack Brown) makes his cousin (John Wayne) trail boss on a cattle drive headed for trouble.</desc>
+    <date>19380102</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f4da8a340587ec2eb3f1ada91afe8602.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222092800 +0000" stop="20251222102300 +0000">
+    <title>Bonanza</title>
+    <sub-title>The Mill</sub-title>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <desc>A hired hand (Claude Akins) victimizes the Cartwrights' disabled neighbor (Harry Townes).</desc>
+    <date>19601001</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/ede481fc7d21b725a68b3ce4acd7b549.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222102300 +0000" stop="20251222111800 +0000">
+    <title>Bonanza</title>
+    <sub-title>The Hopefuls</sub-title>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <desc>Outlaws plot to steal a trunk containing the savings of a religious group heading for a new life in the West.</desc>
+    <date>19601008</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/669a2b4eb318e55f8937279605861488.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222111800 +0000" stop="20251222114900 +0000">
+    <title>26 Men</title>
+    <sub-title>Border Incident</sub-title>
     <episode-num system="onscreen">S01E04</episode-num>
-    <desc>When the Apache chief leads a raid on a train depot, looking for weapons and provisions, one of his braves is captured.</desc>
-    <date>19540214</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/779b6ac561a3e94f6172c659706022c1.jpg" />
+    <desc>When Mexican revolutionary Juan Morales plans to topple the Mexican government, Travis takes up the disguise of a gun smuggler to stop him.</desc>
+    <date>19571105</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/28b9e94872c6afd929f03795b9081d82.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251221121400 +0000" stop="20251221124400 +0000">
-    <title>Stories of the Century</title>
-    <sub-title>Quantrill and His Raiders</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Despite their position under cover as members of the infamous Quantrill gang, Matt and Frankie cannot stop them from carrying out a vicious massacre in Lawrence, Kan.; Matt sets out to hunt down Quantrill for what happened.</desc>
-    <date>19540221</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1bb840ce85cf43e1a002841eaab25337.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251221124400 +0000" stop="20251221131500 +0000">
-    <title>Stories of the Century</title>
-    <sub-title>Cattle Kate</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222114900 +0000" stop="20251222121900 +0000">
+    <title>26 Men</title>
+    <sub-title>Incident at Yuma</sub-title>
     <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Matt and Frankie investigate a woman's suspicious cattle ranch amid a crisis threatening competing ranches in Sweetwater, Wyo.</desc>
-    <date>19540228</date>
+    <desc>Captain Rynning struggles to find enough men to capture a gang of escaped convicts after they escape from prison.</desc>
+    <date>19571119</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251221131500 +0000" stop="20251221134400 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222121900 +0000" stop="20251222124900 +0000">
     <title>Stories of the Century</title>
-    <sub-title>Sam Bass</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Frankie befriends an outlaw after his gang robs the train.</desc>
-    <date>19540304</date>
+    <sub-title>Doc Holliday</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Matt and Frankie head to Tombstone, Arizona to track down Doc Holliday who they suspect is involved with the Clanton gang; while there, they meet famed sheriff Wyatt Earp and become part of the gunfight at OK Corral.</desc>
+    <date>19540325</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/28eda3b2519aa1cbad98caca9ccc70ef.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251221134400 +0000" stop="20251221141500 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222124900 +0000" stop="20251222131900 +0000">
     <title>Stories of the Century</title>
-    <sub-title>Johnny Ringo</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>While investigating a train robbery, Matt Clark learns about Johnny Ringo; Frankie gets a job doing undercover work; Matt tracks Johnny down.</desc>
-    <date>19540311</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f7c69678a785408565fc0a0d55e3895f.jpg" />
+    <sub-title>The Younger Brothers</sub-title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <desc>The Younger Brothers, certain their past with the Quantrill Riders prevents them from living an honest life, plan a bold bank robbery that Matt and Frankie attempt to thwart.</desc>
+    <date>19540402</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251221141500 +0000" stop="20251221144500 +0000">
-    <title>Stories of the Century</title>
-    <sub-title>The Dalton Gang</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Former deputies plan on robbing a gold shipment after their brother is killed.</desc>
-    <date>19540318</date>
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222131900 +0000" stop="20251222134900 +0000">
+    <title>The Roy Rogers Show</title>
+    <sub-title>The Young Defenders</sub-title>
+    <episode-num system="onscreen">S04E02</episode-num>
+    <desc>Two children of a kidnapped fur trapper are left alone in their cabin.</desc>
+    <date>19541003</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251221144500 +0000" stop="20251221151400 +0000">
-    <title>Annie Oakley</title>
-    <sub-title>Annie and the Leprechauns</sub-title>
-    <episode-num system="onscreen">S03E14</episode-num>
-    <desc>An elderly Irishman (Raymond Hatton) fascinates Tagg (Jimmy Hawkins) with tales of leprechauns. With Gail Davis.</desc>
-    <date>19560902</date>
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222134900 +0000" stop="20251222141900 +0000">
+    <title>The Roy Rogers Show</title>
+    <sub-title>Backfire</sub-title>
+    <episode-num system="onscreen">S04E03</episode-num>
+    <desc>Roy and Dale question the identity of a man claiming to be a friend of the local minister.</desc>
+    <date>19541010</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251221151400 +0000" stop="20251221154300 +0000">
-    <title>Annie Oakley</title>
-    <sub-title>Dilemma at Diablo</sub-title>
-    <episode-num system="onscreen">S03E15</episode-num>
-    <desc>The manager of the Express office (William Fawcett) succumbs to extortion in order to protect his son (Tyler MacDuff). With Gail Davis.</desc>
-    <date>19560909</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/0806a204f620b6f35a788097c83ec581.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222141900 +0000" stop="20251222144900 +0000">
+    <title>The Roy Rogers Show</title>
+    <sub-title>Last of the Larabee Kid</sub-title>
+    <episode-num system="onscreen">S04E04</episode-num>
+    <desc>A mysterious outlaw hijacks stolen loot from stagecoach bandits.</desc>
+    <date>19541017</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222144900 +0000" stop="20251222151900 +0000">
+    <title>The Roy Rogers Show</title>
+    <sub-title>Hard Luck Story</sub-title>
+    <episode-num system="onscreen">S04E06</episode-num>
+    <desc>Roy exposes a fraudulent life insurance company.</desc>
+    <date>19541031</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222151900 +0000" stop="20251222154800 +0000">
+    <title>The Roy Rogers Show</title>
+    <sub-title>Boy's Day in Paradise Valley</sub-title>
+    <episode-num system="onscreen">S04E07</episode-num>
+    <desc>When students become lawmen for a day, the new "sheriff's" uncle takes advantage.</desc>
+    <date>19541107</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222154800 +0000" stop="20251222161700 +0000">
+    <title>The Roy Rogers Show</title>
+    <sub-title>Strangers</sub-title>
+    <episode-num system="onscreen">S04E09</episode-num>
+    <desc>A new family in Paradise Valley mistakes outlaws for a welcoming committee.</desc>
+    <date>19541205</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222161700 +0000" stop="20251222164400 +0000">
+    <title>The Roy Rogers Show</title>
+    <sub-title>Hidden Treasure</sub-title>
+    <episode-num system="onscreen">S04E10</episode-num>
+    <desc>Outlaws misinterpret a comment made by Roy and Dale.</desc>
+    <date>19541219</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222164400 +0000" stop="20251222171400 +0000">
+    <title>The Roy Rogers Show</title>
+    <sub-title>Outcasts of Paradise Valley</sub-title>
+    <episode-num system="onscreen">S04E11</episode-num>
+    <desc>Gang of crooks locks Roy in his own jail. (1951)</desc>
+    <date>19550109</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222171400 +0000" stop="20251222174400 +0000">
+    <title>The Roy Rogers Show</title>
+    <sub-title>The Big Chance</sub-title>
+    <episode-num system="onscreen">S04E12</episode-num>
+    <desc>Pat and Nellybelle are kidnapped by a gang of outlaws.</desc>
+    <date>19550123</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222174400 +0000" stop="20251222181400 +0000">
+    <title>The Roy Rogers Show</title>
+    <sub-title>Uncle Steve's Finish</sub-title>
+    <episode-num system="onscreen">S04E13</episode-num>
+    <desc>A teacher becomes increasingly nervous after a stagecoach robbery.</desc>
+    <date>19550203</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222181400 +0000" stop="20251222184400 +0000">
+    <title>The Roy Rogers Show</title>
+    <sub-title>Dead End Trail</sub-title>
+    <episode-num system="onscreen">S04E14</episode-num>
+    <desc>A young man decides to escape his overbearing father by joining the Carlson gang.</desc>
+    <date>19550220</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222184400 +0000" stop="20251222191400 +0000">
+    <title>The Roy Rogers Show</title>
+    <sub-title>Quick Draw</sub-title>
+    <episode-num system="onscreen">S04E16</episode-num>
+    <desc>A trigger-happy rancher (Don C. Harvey) joins a posse searching for his brother-in-law.</desc>
+    <date>19550320</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222191400 +0000" stop="20251222194400 +0000">
+    <title>The Roy Rogers Show</title>
+    <sub-title>The Ginger Horse</sub-title>
+    <episode-num system="onscreen">S04E17</episode-num>
+    <desc>While visiting a nearby town, Ray and Dale meet a girl (Frances Karath) whose horse was stolen.</desc>
+    <date>19550327</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222194400 +0000" stop="20251222204500 +0000">
+    <title>Range Renegades</title>
+    <category>Movie</category>
+    <desc>After Marshal Jordan is honored by Jimmy, Cannonball and others for his forty years as a law officer, the Sawyer mine is blown up, following Sawyer's refusal to sell out.</desc>
+    <date>19480102</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7b8edc4b14e7fe3bfaf4af37fcccf594.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222204500 +0000" stop="20251222214700 +0000">
+    <title>Frontier Agent</title>
+    <category>Movie</category>
+    <desc>A federal agent (Johnny Mack Brown) turns cowboy to catch bad guys.</desc>
+    <date>19480102</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9dc920210a79698800e8b0be8b372525.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251222214700 +0000" stop="20251223000400 +0000">
+    <title>The Sisters Brothers</title>
+    <category>Movie</category>
+    <desc>The Sisters brothers find themselves on a journey through the Northwest, bringing them to the mountains of Oregon, a dangerous brothel in a small town and the gold rush land of California -- an adventure that tests the deadly family ties that bind.</desc>
+    <date>20180102</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d56c53dbc102eeb9fcff0bed2b8e2cea.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20251223000400 +0000" stop="20251223015100 +0000">
+    <title>Iron Brothers</title>
+    <category>Movie</category>
+    <desc>Fur trappers Abel and Henry Iron struggle to survive in the Rocky Mountains.</desc>
+    <date>20160102</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/ee77d40594997c4cad14b68e8edcc85a.jpg" />
   </programme>
   
 </tv>
