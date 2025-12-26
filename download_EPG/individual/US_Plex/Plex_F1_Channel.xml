@@ -5,84 +5,92 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/df07efa9-4dbf-470b-86d6-c12a4a43d18c/F1Channel_1500x1000_for_dark_bgd_-_Eddie_Hunter-Higgins.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251224221540 +0000" stop="20251225005958 +0000">
-    <title>F1 2025 Bahrain Grand Prix</title>
-    <category>Movie</category>
-    <desc>Verstappen dominates Bahrain, but chaos erupts behind as Piastri and Norris battle for the podium!</desc>
-    <date>20250415</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_003.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251225005958 +0000" stop="20251225032259 +0000">
-    <title>F1 2025 Saudi Arabian Grand Prix</title>
-    <category>Movie</category>
-    <desc>Piastri triumphs in Saudi Arabia, stunning Verstappen in a dramatic, high-speed race to the finish!</desc>
-    <date>20250423</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_001.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251225032259 +0000" stop="20251225050507 +0000">
-    <title>2025 Miami Grand Prix - Sprint Race</title>
-    <category>Movie</category>
-    <desc>F1 Sprint</desc>
-    <date>20250504</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_003.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251225050507 +0000" stop="20251225074133 +0000">
-    <title>F1 2025 Miami Grand Prix</title>
-    <category>Movie</category>
-    <desc>Piastri dominates Miami, igniting McLaren's title charge as Norris falters and Ferrari's strategy crumbles.</desc>
-    <date>20250507</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_006.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251225074133 +0000" stop="20251225101745 +0000">
-    <title>F1 2025 Emilia Romagna Grand Prix</title>
-    <category>Movie</category>
-    <desc>Verstappen storms Imola, Piastri fades, Norris 2nd, Hamilton flies to 4th in Ferrari debutŌĆöepic race!</desc>
-    <date>20250520</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_006.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251225101745 +0000" stop="20251225130750 +0000">
-    <title>F1 2025 Monaco Grand Prix</title>
-    <category>Movie</category>
-    <desc>Norris wins Monaco GP thriller, slashing PiastriŌĆÖs lead as Leclerc, Max, and Hamilton battle behind.</desc>
-    <date>20250527</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_003.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251225130750 +0000" stop="20251225154515 +0000">
-    <title>F1 2025 Spanish Grand Prix</title>
-    <category>Movie</category>
-    <desc>Piastri wins Spanish GP in McLaren 1-2; Verstappen penalized in late chaos after Antonelli DNF.</desc>
-    <date>20250602</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_002.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251225154515 +0000" stop="20251225181857 +0000">
-    <title>F1 2025 Canadian Grand Prix</title>
-    <category>Movie</category>
-    <desc>George Russell clinched his first win of the season at the 2025 Canadian Grand Prix.</desc>
-    <date>20250617</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_003.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251225181857 +0000" stop="20251225205728 +0000">
-    <title>F1 2025 Austrian Grand Prix</title>
-    <category>Movie</category>
-    <desc>Norris fends off Piastri in an intense Austrian Grand Prix to take the win, with a thrilling long race battle!</desc>
-    <date>20250630</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_006.png" />
-  </programme>
-  
 <programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251225205728 +0000" stop="20251225234141 +0000">
     <title>F1 2025 British Grand Prix</title>
     <category>Movie</category>
     <desc>Lando Norris took his first home win at Sliverstone, with another Mclaren 1&amp;2 podium finish!</desc>
     <date>20250707</date>
     <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_004.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251225234141 +0000" stop="20251226004143 +0000">
+    <title>2025 Belgium Grand Prix - Sprint Race</title>
+    <category>Movie</category>
+    <desc>Rain chaos, bold passes, and late dramaŌĆöVerstappen edges Norris in a thrilling Belgium Sprint showdown!</desc>
+    <date>20250727</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_002.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251226004143 +0000" stop="20251226031923 +0000">
+    <title>F1 2025 Belgium Grand Prix</title>
+    <category>Movie</category>
+    <desc>McLaren celebrate another double podium, this time at the 2025 Belgium GP.</desc>
+    <date>20250728</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_002.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251226031923 +0000" stop="20251226055528 +0000">
+    <title>F1 2025 Hungarian Grand Prix</title>
+    <category>Movie</category>
+    <desc>Norris holds off Piastri in thrilling battle to win 2025 Hungarian Grand Prix</desc>
+    <date>20250804</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_004.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251226055528 +0000" stop="20251226083554 +0000">
+    <title>F1 2025 Dutch Grand Prix</title>
+    <category>Movie</category>
+    <desc>Piastri dominates from pole to chequered flag; NorrisŌĆÖs heartbreak fuels Verstappen and rookie Hadjar.</desc>
+    <date>20250904</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_001.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251226083554 +0000" stop="20251226104522 +0000">
+    <title>F1 2025 Italian Grand Prix</title>
+    <category>Movie</category>
+    <desc>Verstappen flies to victory in Monza chaos as Norris, Piastri chase hard in record-speed thriller!</desc>
+    <date>20250908</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_001.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251226104522 +0000" stop="20251226132637 +0000">
+    <title>F1 2025 Azerbaijan Grand Prix</title>
+    <category>Movie</category>
+    <desc>Verstappen wins from pole in Baku, Piastri crashes, Russell P2, Sainz gets podium for Williams</desc>
+    <date>20250922</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_006.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251226132637 +0000" stop="20251226160529 +0000">
+    <title>2025 United States Grand Prix</title>
+    <category>Movie</category>
+    <desc>Verstappen wins in Austin; McLaren secures the ConstructorsÆ Championship.</desc>
+    <date>20251020</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_005.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251226160529 +0000" stop="20251226184516 +0000">
+    <title>2025 Mexican Grand Prix</title>
+    <category>Movie</category>
+    <desc>Lando Norris takes victory at the Mexico City GP in a thrilling display of speed and strategy!</desc>
+    <date>20251028</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_001.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251226184516 +0000" stop="20251226213843 +0000">
+    <title>F1 2025 Singapore Grand Prix</title>
+    <category>Movie</category>
+    <desc>Russell storms from pole to win, Verstappen holds off Norris &amp; McLaren seals constructorsŌĆÖ crown.</desc>
+    <date>20251006</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_001.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20251226213843 +0000" stop="20251227001608 +0000">
+    <title>2025 Brazilian Grand Prix</title>
+    <category>Movie</category>
+    <desc>Race</desc>
+    <date>20251112</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_001.png" />
   </programme>
   
 </tv>
