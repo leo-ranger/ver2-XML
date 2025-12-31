@@ -5,7 +5,15 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/a3e63712-9262-428d-9e1c-a00c179a5454/samuel-goldwyn-channel-logo.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" start="20251230011414 +0000" stop="20251230023237 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" start="20251231011551 +0000" stop="20251231030456 +0000">
+    <title>Zoo</title>
+    <category>Movie</category>
+    <desc>A father moves his young family to the countryside to renovate and re-open a struggling zoo.</desc>
+    <date>20221206</date>
+    <icon src="https://image.tmdb.org/t/p/original/myshl1DFKoY4XDY2nAhyrEzAKLj.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" start="20251231030456 +0000" stop="20251231042319 +0000">
     <title>Christmas At Cattle Hill</title>
     <category>Movie</category>
     <desc>Klara is excited to spend Christmas on Cattle Hill with her Father, but he doesn't like to celebrate.</desc>
@@ -13,118 +21,92 @@
     <icon src="https://metadata-static.plex.tv/f/gracenote/fa052d599fb8c6a73a747f174593257c.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" start="20251230023237 +0000" stop="20251230032628 +0000">
-    <title>Snowy River: The McGregor Saga</title>
-    <sub-title>Plans of Poison</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Matt stands by Kathleen when the rest of the town turns against her.</desc>
-    <date>19941016</date>
-    <icon src="https://image.tmdb.org/t/p/original/ySV9Fz7C640mwNZmC8vzPo81NU7.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" start="20251230032628 +0000" stop="20251230042012 +0000">
-    <title>Snowy River: The McGregor Saga</title>
-    <sub-title>Stepping Out</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Luke accuses Matt of stealing Langara from his father, but also finds himself falling in love with Anita.</desc>
-    <date>19941023</date>
-    <icon src="https://image.tmdb.org/t/p/original/6uCrXHl08yCXsFLmfZ4WtFzDtnT.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" start="20251230042012 +0000" stop="20251230061353 +0000">
-    <title>Black Pioneer</title>
+<programme channel="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" start="20251231042319 +0000" stop="20251231070026 +0000">
+    <title>Hamlet</title>
     <category>Movie</category>
-    <desc>An enslaved pioneer's cross-country journey to prepare the way for the Latter-day Saints.</desc>
-    <date>20220515</date>
+    <desc>Hamlet, Prince of Denmark, finds out his uncle killed his father to obtain the throne. He plans revenge.</desc>
+    <date>20240227</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e1329cca24c9f643f57e86ab3f689b14.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" start="20251231070026 +0000" stop="20251231084814 +0000">
+    <title>Wish Upon A Star</title>
+    <category>Movie</category>
+    <desc>A sister wishes to switch places with her popular sister and finds the wish has come true.</desc>
+    <date>19961012</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a4f85116e05856dbec32da1bf77a7861.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" start="20251231084814 +0000" stop="20251231105400 +0000">
+    <title>Fisherman's Friends</title>
+    <category>Movie</category>
+    <desc>10 Cornwall fisherman sign a record deal achieve and a top ten hit with the debut album of Sea Shanties.</desc>
+    <date>20220819</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/dfb182122b2ed275defa7bed80eb6749.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" start="20251231105400 +0000" stop="20251231130212 +0000">
+    <title>Fisherman's Friends: One and All</title>
+    <category>Movie</category>
+    <desc>After success, the Fisherman's Friends struggle with their new-found fame and work towards a second album.</desc>
+    <date>20220819</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/dfb182122b2ed275defa7bed80eb6749.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" start="20251231130212 +0000" stop="20251231143723 +0000">
+    <title>The Lazarus Effect</title>
+    <category>Movie</category>
+    <desc>A group of medical researchers discover a way to bring dead patients back to life.</desc>
+    <date>20150226</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c93887858f041aa1ee441c15352ec014.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" start="20251231143723 +0000" stop="20251231162834 +0000">
+    <title>A Royal Night Out</title>
+    <category>Movie</category>
+    <desc>On V.E. Day, peace extends across Europe, Princesses Elizabeth and Margaret are allowed to celebrate out.</desc>
+    <date>20150514</date>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/191fb3f95f3ce2503791d918821677ae.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" start="20251231162834 +0000" stop="20251231184457 +0000">
+    <title>Beyond the Lights</title>
+    <category>Movie</category>
+    <desc>Pressures of fame has superstar Noni on edge, until she meets a young cop who helps her develop her own voice.</desc>
+    <date>20141114</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8ad343460794c1ec3040b667a9c5fb5e.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" start="20251231184457 +0000" stop="20251231202157 +0000">
+    <title>Rampage</title>
+    <category>Movie</category>
+    <desc>A man with a thirst for revenge builds a full body armor from Kevlar and goes on a killing spree.</desc>
+    <date>20250516</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/13a9d882-2b09-493c-935e-4fda73fb7a05/SamuelGoldwynChannel_artwork_vertical_-_Samuel_Goldwyn_Films.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" start="20251230061353 +0000" stop="20251230081938 +0000">
-    <title>A Brilliant Young Mind</title>
+<programme channel="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" start="20251231202157 +0000" stop="20251231220602 +0000">
+    <title>Avengement</title>
     <category>Movie</category>
-    <desc>An awkward teen finds confidence and friends when he joins Britain at the International Mathematics Olympiad.</desc>
-    <date>20231019</date>
+    <desc>A criminal takes revenge on the people that made him a cold-hearted killer.</desc>
+    <date>20240820</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/13a9d882-2b09-493c-935e-4fda73fb7a05/SamuelGoldwynChannel_artwork_vertical_-_Samuel_Goldwyn_Films.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" start="20251230081938 +0000" stop="20251230101551 +0000">
-    <title>The Christmas Candle</title>
+<programme channel="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" start="20251231220602 +0000" stop="20260101000145 +0000">
+    <title>Rampage: President Down</title>
     <category>Movie</category>
-    <desc>A pastor who suffered a loss accepts a position in a town that believes in a Christmas miracle candle.</desc>
-    <date>20221224</date>
-    <icon src="https://partner-upload-assets.wurl.com/samuel_goldwyn_films/TheChristmasCandle.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" start="20251230101551 +0000" stop="20251230121139 +0000">
-    <title>It's A Boy Girl Thing</title>
-    <category>Movie</category>
-    <desc>Sworn enemies find themselves in each other's bodies, and use this to ruin each other's lives.</desc>
-    <date>20230112</date>
+    <desc>Bill Williamson returns to bring down the president of the United States and his Secret Service detail.</desc>
+    <date>20250516</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/13a9d882-2b09-493c-935e-4fda73fb7a05/SamuelGoldwynChannel_artwork_vertical_-_Samuel_Goldwyn_Films.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" start="20251230121139 +0000" stop="20251230142207 +0000">
-    <title>Beautiful</title>
+<programme channel="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" start="20260101000145 +0000" stop="20260101015618 +0000">
+    <title>17 Miracles</title>
     <category>Movie</category>
-    <desc>Mona sacrifices everything, including family, in pursuit of a beauty pageant victory.</desc>
-    <date>20221111</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BY2Y1ZmRjODItNGQ3Yy00NTcxLTg1NDMtODA2NzdlODMzZjNiXkEyXkFqcGc@._V1_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" start="20251230142207 +0000" stop="20251230161802 +0000">
-    <title>After The Ball</title>
-    <category>Movie</category>
-    <desc>To save her father's clothing empire, Kate goes undercover with help from her godmother and a "prince".</desc>
-    <date>20230118</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/13a9d882-2b09-493c-935e-4fda73fb7a05/SamuelGoldwynChannel_artwork_vertical_-_Samuel_Goldwyn_Films.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" start="20251230161802 +0000" stop="20251230180703 +0000">
-    <title>I Could Never Be Your Woman</title>
-    <category>Movie</category>
-    <desc>A mother falls for a younger man while her daughter falls in love for the first time.</desc>
-    <date>20070511</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/568113d15b2bf1d431fbb53da5769707.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" start="20251230180703 +0000" stop="20251230195705 +0000">
-    <title>In the Name of the King: Two Worlds</title>
-    <category>Movie</category>
-    <desc>Ex-Special Forces soldier is thrown back to medieval times to fulfill an ancient prophecy and ends up finding redemption.</desc>
-    <date>20250603</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/13a9d882-2b09-493c-935e-4fda73fb7a05/SamuelGoldwynChannel_artwork_vertical_-_Samuel_Goldwyn_Films.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" start="20251230195705 +0000" stop="20251230215222 +0000">
-    <title>Payback</title>
-    <category>Movie</category>
-    <desc>After a successful heist, Porter is left for dead. Now he seeks vengeance and his share of the money.</desc>
-    <date>20231008</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNmI2NGQyMjgtMDYyMS00MjdkLTgzZDctNzg0Y2ViMzY1OTQ3XkEyXkFqcGc@._V1_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" start="20251230215222 +0000" stop="20251231000119 +0000">
-    <title>The Devil Conspiracy</title>
-    <category>Movie</category>
-    <desc>A Satanic cult steals the Shroud of Turin for wicked purposes.</desc>
-    <date>20230113</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6331701e8efa33d85ab16a56cb50e1d6.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" start="20251231000119 +0000" stop="20251231011551 +0000">
-    <title>Cattle Hill</title>
-    <category>Movie</category>
-    <desc>Klara is a little cow, who lives in the city with her mum and dreams of becoming a music star.</desc>
-    <date>20181019</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/47f3e5bf5263fc097aad601206e4b33d.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" start="20251231011551 +0000" stop="20251231030456 +0000">
-    <title>Zoo</title>
-    <category>Movie</category>
-    <desc>A father moves his young family to the countryside to renovate and re-open a struggling zoo.</desc>
-    <date>20221206</date>
-    <icon src="https://image.tmdb.org/t/p/original/myshl1DFKoY4XDY2nAhyrEzAKLj.jpg" />
+    <desc>Christian pioneers push their handcarts across the plains in 1857 and are sustained by many miracles.</desc>
+    <date>20110603</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d6852394cd005ff17f64f4cf4918fed1.jpg" />
   </programme>
   
 </tv>
