@@ -5,25 +5,57 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/1a0bf145-a80f-4dd5-8134-ecb3975c389f/CM-Plex-dark_logo-CanelaTV-narco_drama_-_Natalia_Rodriguez.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20251231003003 +0000" stop="20251231012400 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260101005109 +0000" stop="20260101014513 +0000">
     <title>La Promesa</title>
-    <sub-title>Rescate Del Niño</sub-title>
-    <episode-num system="onscreen">S01E50</episode-num>
-    <desc>La policía captura a Crisanto y rescatan al niño.</desc>
+    <sub-title>La Trampa</sub-title>
+    <episode-num system="onscreen">S01E53</episode-num>
+    <desc>Juan Lucas logra escapar de la policía.</desc>
     <date>20110101</date>
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5d3731ff-01e1-4ea4-ad70-b48256e6d894_la-promesa_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20251231012400 +0000" stop="20251231021759 +0000">
-    <title>La Promesa</title>
-    <sub-title>Lote De Jovencitas</sub-title>
-    <episode-num system="onscreen">S01E51</episode-num>
-    <desc>Indira y las mujeres son recapturadas por Fermín.</desc>
-    <date>20110101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5d3731ff-01e1-4ea4-ad70-b48256e6d894_la-promesa_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260101014513 +0000" stop="20260101024406 +0000">
+    <title>Narco Impacto</title>
+    <sub-title>El Testimonio de un "Sapo"</sub-title>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <desc>Carlos Ramón Zapata “El Médico”, un ex integrante del Cártel de Medellín, nos cuenta su historia.</desc>
+    <date>20230101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/78759e93-9c02-40ca-bd75-46e50b930cb3_ctv-narco_impacto-16x9_2.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20251231021759 +0000" stop="20251231031438 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260101024406 +0000" stop="20260101050257 +0000">
+    <title>El Elegante</title>
+    <category>Movie</category>
+    <desc>Ray, dedicado al cartel, es el encargado de la seguridad del patrón.</desc>
+    <date>20220101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/f3dc9366-43bb-4219-ad78-6547d75ef4fe_elelegante-2x3-cris.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260101050257 +0000" stop="20260101072829 +0000">
+    <title>El Padrino</title>
+    <category>Movie</category>
+    <desc>Kilo  ha llegado a ser El Padrino latino.</desc>
+    <date>20040101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f371f6a5-5f3c-4377-94e3-4c95e1ab612f/CM-Plex-logo-narco_drama-2000x3000_-_Natalia_Rodriguez.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260101072829 +0000" stop="20260101093129 +0000">
+    <title>El Padrino 2</title>
+    <category>Movie</category>
+    <desc>Kilo era el narcotraficante más poderoso, hasta que lo atraparon.</desc>
+    <date>20110101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/2a675d46-12ce-4fed-be4f-b458be930042_elpadrino2-2x3-cris.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260101093129 +0000" stop="20260101110058 +0000">
+    <title>El Inmigrante</title>
+    <category>Movie</category>
+    <desc>Un joven y sus amigos decide cruzar la frontera.</desc>
+    <date>20050101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f371f6a5-5f3c-4377-94e3-4c95e1ab612f/CM-Plex-logo-narco_drama-2000x3000_-_Natalia_Rodriguez.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260101110058 +0000" stop="20260101120417 +0000">
     <title>Narco Impacto</title>
     <sub-title>El Cártel De Cali</sub-title>
     <episode-num system="onscreen">S02E04</episode-num>
@@ -32,102 +64,43 @@
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/78759e93-9c02-40ca-bd75-46e50b930cb3_ctv-narco_impacto-16x9_2.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20251231031438 +0000" stop="20251231045603 +0000">
-    <title>La Seductora</title>
-    <category>Movie</category>
-    <desc>Lucy cae rendida ante los encantos de un joven.</desc>
-    <date>20160101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f371f6a5-5f3c-4377-94e3-4c95e1ab612f/CM-Plex-logo-narco_drama-2000x3000_-_Natalia_Rodriguez.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20251231045603 +0000" stop="20251231063730 +0000">
-    <title>El Señor De Los Cuernos</title>
-    <category>Movie</category>
-    <desc>Rutilio, un macho con problemas de erección.</desc>
-    <date>20160101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f371f6a5-5f3c-4377-94e3-4c95e1ab612f/CM-Plex-logo-narco_drama-2000x3000_-_Natalia_Rodriguez.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20251231063730 +0000" stop="20251231083327 +0000">
-    <title>El Precio del Sueño Americano</title>
-    <category>Movie</category>
-    <desc>Una familia lucha para sobrevivir en el hostil ambiente de EU.</desc>
-    <date>20010101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/47a41e01-3e71-48c4-8294-539b3bd0aad6_elpreciodelsuenoamericano-2x3-cris.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20251231083327 +0000" stop="20251231104212 +0000">
-    <title>El Fantasma De Mi Novia</title>
-    <category>Movie</category>
-    <desc>Lupe se accidenta y su espíritu divaga.</desc>
-    <date>20180101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/37d004b8-fbd8-4c1b-a566-ee53d668e335_32385_el-fantasma-de-mi-novia_2x3_poster.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20251231104212 +0000" stop="20251231114417 +0000">
-    <title>Narco Impacto</title>
-    <sub-title>Óscar Naranjo: "El Superpolicía"</sub-title>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <desc>El General Óscar Naranjo contribuyó a la captura y eliminación de Pablo Escobar.</desc>
-    <date>20230101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/78759e93-9c02-40ca-bd75-46e50b930cb3_ctv-narco_impacto-16x9_2.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20251231114417 +0000" stop="20251231123245 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260101120417 +0000" stop="20260101125048 +0000">
     <title>Confidencial</title>
-    <sub-title>Asesino Al Volante Parte 3</sub-title>
-    <episode-num system="onscreen">S07E03</episode-num>
-    <desc>La juez se ve comprometida en este caso</desc>
+    <sub-title>Bala Perdida Parte 1</sub-title>
+    <episode-num system="onscreen">S08E01</episode-num>
+    <desc>Un niño es herido por una bala en año nuevo.</desc>
     <date>20110101</date>
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/fbc2ef66-f50a-420b-aff2-382bbc13f784_confidencial-1920x1080px-cris.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20251231123245 +0000" stop="20251231132238 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260101125048 +0000" stop="20260101133800 +0000">
     <title>Confidencial</title>
-    <sub-title>Asesino Al Volante Parte 4</sub-title>
-    <episode-num system="onscreen">S07E04</episode-num>
-    <desc>Una noticia provoca un giro inesperado.</desc>
+    <sub-title>Bala Perdida Parte 2</sub-title>
+    <episode-num system="onscreen">S08E02</episode-num>
+    <desc>El accidente provoca revuelo entre los vecinos.</desc>
     <date>20110101</date>
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/fbc2ef66-f50a-420b-aff2-382bbc13f784_confidencial-1920x1080px-cris.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20251231132238 +0000" stop="20251231141358 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260101133800 +0000" stop="20260101142526 +0000">
     <title>Confidencial</title>
-    <sub-title>Asesino Al Volante Parte 5</sub-title>
-    <episode-num system="onscreen">S07E05</episode-num>
-    <desc>Jorge se ve cada vez mas complicado.</desc>
+    <sub-title>Bala Perdida Parte 3</sub-title>
+    <episode-num system="onscreen">S08E03</episode-num>
+    <desc>Las familias buscan ocultar la responsabilidad.</desc>
     <date>20110101</date>
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/fbc2ef66-f50a-420b-aff2-382bbc13f784_confidencial-1920x1080px-cris.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20251231141358 +0000" stop="20251231143255 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260101142526 +0000" stop="20260101144056 +0000">
     <title>Raíces</title>
-    <sub-title>R&amp;B con Selena y Kali Uchis</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Las latinos descubren el R&amp;B y le agregan su toque.</desc>
+    <sub-title>Electro Cumbia con Bomba Estéreo y 3BallMTY</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Electrocumbia, el House con un toque latino.</desc>
     <date>20230101</date>
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/15d7dbc3-fee8-4e0b-92bd-f7c9d2736ddc_16x9.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20251231143255 +0000" stop="20251231152518 +0000">
-    <title>Fugitivos</title>
-    <sub-title>Cámara Secreta</sub-title>
-    <episode-num system="onscreen">S01E15</episode-num>
-    <desc>Mariana cerca de comprobar la inocencia de Juli.</desc>
-    <date>20140101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/d56fb5e2-5f63-4546-8622-d38cb54687bf_fugitivos_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20251231152518 +0000" stop="20251231161741 +0000">
-    <title>Fugitivos</title>
-    <sub-title>Nueva Vida</sub-title>
-    <episode-num system="onscreen">S01E16</episode-num>
-    <desc>Vladimir tendrá que transformarse, dificultando a la justicia el poder encontrarlo.</desc>
-    <date>20140101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/d56fb5e2-5f63-4546-8622-d38cb54687bf_fugitivos_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20251231161741 +0000" stop="20251231171814 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260101144056 +0000" stop="20260101153319 +0000">
     <title>Fugitivos</title>
     <sub-title>Mentiras Que Matan</sub-title>
     <episode-num system="onscreen">S01E17</episode-num>
@@ -136,25 +109,25 @@
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/d56fb5e2-5f63-4546-8622-d38cb54687bf_fugitivos_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20251231171814 +0000" stop="20251231181011 +0000">
-    <title>El Encantador</title>
-    <sub-title>Parte Mínima</sub-title>
-    <episode-num system="onscreen">S01E41</episode-num>
-    <desc>Rolando sigue alegando ser víctima de sus socios.</desc>
-    <date>20100101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/599e038a-33cf-4192-9607-45c1a51fd751_el-encantador-1920x1080px.png" />
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260101153319 +0000" stop="20260101162542 +0000">
+    <title>Fugitivos</title>
+    <sub-title>Memoria Encriptada</sub-title>
+    <episode-num system="onscreen">S01E18</episode-num>
+    <desc>Micaela negada a querer ver a su mamá.</desc>
+    <date>20140101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/d56fb5e2-5f63-4546-8622-d38cb54687bf_fugitivos_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20251231181011 +0000" stop="20251231190700 +0000">
-    <title>El Encantador</title>
-    <sub-title>Convenio</sub-title>
-    <episode-num system="onscreen">S01E42</episode-num>
-    <desc>Evaristo Aguilar, se culpa de todos los crímenes.</desc>
-    <date>20100101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/599e038a-33cf-4192-9607-45c1a51fd751_el-encantador-1920x1080px.png" />
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260101162542 +0000" stop="20260101172921 +0000">
+    <title>Fugitivos</title>
+    <sub-title>Amor Con Engaños</sub-title>
+    <episode-num system="onscreen">S01E19</episode-num>
+    <desc>Julián intenta comunicare con sus seres queridos.</desc>
+    <date>20140101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/d56fb5e2-5f63-4546-8622-d38cb54687bf_fugitivos_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20251231190700 +0000" stop="20251231200229 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260101172921 +0000" stop="20260101182416 +0000">
     <title>El Encantador</title>
     <sub-title>Evadiendo La Justicia</sub-title>
     <episode-num system="onscreen">S01E43</episode-num>
@@ -163,25 +136,25 @@
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/599e038a-33cf-4192-9607-45c1a51fd751_el-encantador-1920x1080px.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20251231200229 +0000" stop="20251231205945 +0000">
-    <title>Tres Caines</title>
-    <sub-title>Los Alcances Del Capo</sub-title>
-    <episode-num system="onscreen">S01E23</episode-num>
-    <desc>Escobar espera a Henao y la policía se interpone.</desc>
-    <date>20130101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/8548ce8d-ced6-45f2-80ff-33df6e6a7f4e_tres-caines_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260101182416 +0000" stop="20260101192119 +0000">
+    <title>El Encantador</title>
+    <sub-title>El Rescate</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Rolando llega a Bogotá.</desc>
+    <date>20100101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/599e038a-33cf-4192-9607-45c1a51fd751_el-encantador-1920x1080px.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20251231205945 +0000" stop="20251231215702 +0000">
-    <title>Tres Caines</title>
-    <sub-title>Julián</sub-title>
-    <episode-num system="onscreen">S01E24</episode-num>
-    <desc>Carlos discute con Julián al saber lo que hizo.</desc>
-    <date>20130101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/8548ce8d-ced6-45f2-80ff-33df6e6a7f4e_tres-caines_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260101192119 +0000" stop="20260101201659 +0000">
+    <title>El Encantador</title>
+    <sub-title>El Regreso</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Rolando se roba la moto de la iglesia.</desc>
+    <date>20100101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/599e038a-33cf-4192-9607-45c1a51fd751_el-encantador-1920x1080px.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20251231215702 +0000" stop="20251231230334 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260101201659 +0000" stop="20260101211416 +0000">
     <title>Tres Caines</title>
     <sub-title>Reunión Familiar</sub-title>
     <episode-num system="onscreen">S01E25</episode-num>
@@ -190,31 +163,48 @@
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/8548ce8d-ced6-45f2-80ff-33df6e6a7f4e_tres-caines_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20251231230334 +0000" stop="20251231235732 +0000">
-    <title>La Promesa</title>
-    <sub-title>Lote De Jovencitas</sub-title>
-    <episode-num system="onscreen">S01E51</episode-num>
-    <desc>Indira y las mujeres son recapturadas por Fermín.</desc>
-    <date>20110101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5d3731ff-01e1-4ea4-ad70-b48256e6d894_la-promesa_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260101211416 +0000" stop="20260101221133 +0000">
+    <title>Tres Caines</title>
+    <sub-title>Conquista</sub-title>
+    <episode-num system="onscreen">S01E26</episode-num>
+    <desc>Carlos se concentra en su conquista.</desc>
+    <date>20130101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/8548ce8d-ced6-45f2-80ff-33df6e6a7f4e_tres-caines_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20251231235732 +0000" stop="20260101005109 +0000">
-    <title>La Promesa</title>
-    <sub-title>Vender Órganos</sub-title>
-    <episode-num system="onscreen">S01E52</episode-num>
-    <desc>Fermín decide llevarse a las colombianas.</desc>
-    <date>20110101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5d3731ff-01e1-4ea4-ad70-b48256e6d894_la-promesa_16x9.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260101221133 +0000" stop="20260101231730 +0000">
+    <title>Tres Caines</title>
+    <sub-title>Planes Frustrados</sub-title>
+    <episode-num system="onscreen">S01E27</episode-num>
+    <desc>Los Pepes ven frustrados sus planes.</desc>
+    <date>20130101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/8548ce8d-ced6-45f2-80ff-33df6e6a7f4e_tres-caines_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260101005109 +0000" stop="20260101014513 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260101231730 +0000" stop="20260102001133 +0000">
     <title>La Promesa</title>
     <sub-title>La Trampa</sub-title>
     <episode-num system="onscreen">S01E53</episode-num>
     <desc>Juan Lucas logra escapar de la policía.</desc>
     <date>20110101</date>
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5d3731ff-01e1-4ea4-ad70-b48256e6d894_la-promesa_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260102001133 +0000" stop="20260102010649 +0000">
+    <title>La Promesa</title>
+    <sub-title>Capturado</sub-title>
+    <episode-num system="onscreen">S01E54</episode-num>
+    <desc>Helber llega de nuevo al país.</desc>
+    <date>20110101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5d3731ff-01e1-4ea4-ad70-b48256e6d894_la-promesa_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260102010649 +0000" stop="20260102032203 +0000">
+    <title>El Equipo del Diablo</title>
+    <category>Movie</category>
+    <desc>Hay una batalla entre los narcos El 8 y el Z4 que controlan todo el territorio.</desc>
+    <date>20170101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/c8d7c70613f10aaab4deb2b05509c7546e4d7c06_2x3.png" />
   </programme>
   
 </tv>
