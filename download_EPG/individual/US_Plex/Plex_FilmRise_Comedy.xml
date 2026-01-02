@@ -5,14 +5,45 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/94ad67c5-23de-4884-a08e-ed922f98f5e2/FilmRise_Comedy_channel_logo_1500x1000_light.png.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101011531 +0000" stop="20260101021206 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102000753 +0000" stop="20260102020914 +0000">
+    <title>Leaves of Grass</title>
+    <category>Movie</category>
+    <desc>A professor returns home, where his twin brother has created a plan to take down a local drug lord.</desc>
+    <date>20090913</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/384a1a23c91702d1526389c9365b04fe.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102020914 +0000" stop="20260102041338 +0000">
+    <title>Are You Here</title>
+    <category>Movie</category>
+    <desc>A womanizing weatherman helps his odd pal battle a legal challenge brought by the man's sister.</desc>
+    <date>20130907</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/2891d71727fd9ed5c632508f17d1a8e6.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102041338 +0000" stop="20260102051338 +0000">
     <title>FilmRise Comedy</title>
     <category>Movie</category>
     <desc>Laugh along to our funniest films like BERNIE and RELATIVE STRANGERS and silliest series like Lorne Michaels' sketch comedy show ABOVE AVERAGE PRESENTS and Simu Liu-led sitcom KIM'S CONVENIENCE.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/9b0ba96a-0286-44e4-81ef-2d2fdfb43448/FilmRise_Comedy_channel_artwork_1000x1500.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101021206 +0000" stop="20260101040559 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102051338 +0000" stop="20260102052203 +0000">
+    <title>FilmRise Comedy</title>
+    <category>Movie</category>
+    <desc>Laugh along to our funniest films like BERNIE and RELATIVE STRANGERS and silliest series like Lorne Michaels' sketch comedy show ABOVE AVERAGE PRESENTS and Simu Liu-led sitcom KIM'S CONVENIENCE.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/9b0ba96a-0286-44e4-81ef-2d2fdfb43448/FilmRise_Comedy_channel_artwork_1000x1500.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102052203 +0000" stop="20260102070940 +0000">
+    <title>The Accidental Husband</title>
+    <category>Movie</category>
+    <desc>A man plots revenge after a radio host tells his lover to end their relationship.</desc>
+    <date>20080229</date>
+    <icon src="https://image.tmdb.org/t/p/original/hbmHBXL7KyqNapDj6m3pqdV1qx3.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102070940 +0000" stop="20260102090333 +0000">
     <title>Stuck in Love</title>
     <category>Movie</category>
     <desc>An acclaimed writer, his ex-wife and their children come to terms with the complexities of love.</desc>
@@ -20,334 +51,282 @@
     <icon src="https://image.tmdb.org/t/p/original/qw34d1M7GtE4GPf0eI8QBnUEA0T.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101040559 +0000" stop="20260101061600 +0000">
-    <title>A Little Bit of Heaven</title>
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102090333 +0000" stop="20260102093153 +0000">
+    <title>Above Average Presents</title>
+    <sub-title>That's for Everyone, It's Not Just for Me</sub-title>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <desc>J.B. Smoove checks in, the latest fashion trends with Amy Poehler, and more.</desc>
+    <date>20220603</date>
+    <icon src="https://image.tmdb.org/t/p/original/8HiNJ6N2idwS0YqhuVCruIb6Kjo.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102093153 +0000" stop="20260102100144 +0000">
+    <title>Above Average Presents</title>
+    <sub-title>Hats Are Fine They're Not for Me But They're Fine</sub-title>
+    <episode-num system="onscreen">S02E14</episode-num>
+    <desc>A day in the life of Johnny Depp's scarf wrangler, John Cena was a limo driver, and more.</desc>
+    <date>20220603</date>
+    <icon src="https://image.tmdb.org/t/p/original/4xwov03VcvHhzJEhNee8HrZEcn1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102100144 +0000" stop="20260102103137 +0000">
+    <title>Above Average Presents</title>
+    <sub-title>Entracted Is Not a Word</sub-title>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <desc>Learn Kate Flannery's turn-ons. The horrible truth about Boston. Lena Dunham's critter control.</desc>
+    <date>20220603</date>
+    <icon src="https://image.tmdb.org/t/p/original/eP2KtrJ2qYzbSJ4CqFVDN70OEnI.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102103137 +0000" stop="20260102105935 +0000">
+    <title>Above Average Presents</title>
+    <sub-title>Keep It In a Jar</sub-title>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <desc>Getting personal with Lauren Lapkus, Jim Gaffigan sets the record straight, and more.</desc>
+    <date>20220603</date>
+    <icon src="https://image.tmdb.org/t/p/original/5hWirIKiqP36QQDXcPFgeW0RY1r.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102105935 +0000" stop="20260102112917 +0000">
+    <title>Above Average Presents</title>
+    <sub-title>Is That About Me?</sub-title>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <desc>Kenan Thompson takes a peek into his future. Paul Rudd drops it low. A tour of Germany.</desc>
+    <date>20220603</date>
+    <icon src="https://image.tmdb.org/t/p/original/stXdbQMQ1rqsWTBYZP8fFE7dR5K.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102112917 +0000" stop="20260102115806 +0000">
+    <title>Above Average Presents</title>
+    <sub-title>Tastes Like Sand</sub-title>
+    <episode-num system="onscreen">S02E10</episode-num>
+    <desc>Rashida Jones calls a lawyer, the legitimacy of a gluten intolerance, and more.</desc>
+    <date>20220603</date>
+    <icon src="https://image.tmdb.org/t/p/original/fxA1y3X9TYtlO7tnz2GQfMdxc3Q.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102115806 +0000" stop="20260102122718 +0000">
+    <title>Above Average Presents</title>
+    <sub-title>I Haven't Washed My Hands Since</sub-title>
+    <episode-num system="onscreen">S02E15</episode-num>
+    <desc>A tour of the "Girls" set with Sasheer Zamata, Ty Burrell talks adoption, and more.</desc>
+    <date>20220603</date>
+    <icon src="https://image.tmdb.org/t/p/original/yNNgIjZQR1DZHPPq0py2HqOro5J.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102122718 +0000" stop="20260102125701 +0000">
+    <title>Above Average Presents</title>
+    <sub-title>She Landscapes at the Golf Course and She Gets Me</sub-title>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <desc>Andy Cohen is bothered by a fan. Rachel Dratch doesn't fit in with the popular girls.</desc>
+    <date>20220603</date>
+    <icon src="https://image.tmdb.org/t/p/original/lXYw22HftArX8nvS3riusKsVkRy.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102125701 +0000" stop="20260102132647 +0000">
+    <title>Above Average Presents</title>
+    <sub-title>The Ol' Sit and Wait</sub-title>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <desc>Batman's showdown with Bane is interrupted by 1960s Robin. Alec Baldwin takes a love ride.</desc>
+    <date>20220603</date>
+    <icon src="https://image.tmdb.org/t/p/original/vsg1FpMb5bUEEri7GmVEsulrtxF.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102132647 +0000" stop="20260102135458 +0000">
+    <title>Above Average Presents</title>
+    <sub-title>No I Kinda Need Him To Put It On And Be The Character</sub-title>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <desc>A dressing room montage takes a weird turn. Tiffany Haddish talks relationships.</desc>
+    <date>20220603</date>
+    <icon src="https://image.tmdb.org/t/p/original/7fTaVNNNwcSqAedXj92aj0tGbkW.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102135458 +0000" stop="20260102142357 +0000">
+    <title>Above Average Presents</title>
+    <sub-title>Everything Has Been Done Since Roman Times</sub-title>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <desc>Fred Armisen talks vibes. Abbi Jacobson pitches a movie. Let's take a tour of France.</desc>
+    <date>20220603</date>
+    <icon src="https://image.tmdb.org/t/p/original/ttwEe6RCiOCcBaiZzQyi5cnPTQ5.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102142357 +0000" stop="20260102145354 +0000">
+    <title>The Kids in the Hall</title>
+    <sub-title>Kids In The Hall 401</sub-title>
+    <episode-num system="onscreen">S04E01</episode-num>
+    <desc>Sketches: Cameraman Memorial, Taxi Birth, Hookers: Undercover, Repair, Hair Styles, Rude Awakening.</desc>
+    <date>19931006</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f8abea799f6048a83655e645a8495305.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102145354 +0000" stop="20260102152352 +0000">
+    <title>The Kids in the Hall</title>
+    <sub-title>Kids In The Hall 403</sub-title>
+    <episode-num system="onscreen">S04E03</episode-num>
+    <desc>Sketches: Fantasy, Plastic Surgeon, Hookers: Ventolin, Can You Dig It?, The Big House.</desc>
+    <date>19931020</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6101d3ae7320e0411eddd8b49bc258fe.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102152352 +0000" stop="20260102155352 +0000">
+    <title>The Kids in the Hall</title>
+    <sub-title>Kids In The Hall 404</sub-title>
+    <episode-num system="onscreen">S04E04</episode-num>
+    <desc>The governor calls a wrong number; fight pickers take on a biker; Bruce talks about sad people.</desc>
+    <date>19931027</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/817148fa090066bae69fd3dbfd838a5e.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102155352 +0000" stop="20260102162354 +0000">
+    <title>The Kids in the Hall</title>
+    <sub-title>Kids In The Hall 405</sub-title>
+    <episode-num system="onscreen">S04E05</episode-num>
+    <desc>Sketches: Newscasters, The Fun Never Stops, Perks, Neckbone, So Says You, Sex Girl Patrol.</desc>
+    <date>19931103</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/2404ba079973f7de61b27717855b49b5.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102162354 +0000" stop="20260102165354 +0000">
+    <title>The Kids in the Hall</title>
+    <sub-title>Kids In The Hall 406</sub-title>
+    <episode-num system="onscreen">S04E06</episode-num>
+    <desc>Sketches: Deer By the Water: Radio, Apartment Games 1, Knife Sharpener, Food, Apartment Games 3.</desc>
+    <date>19931110</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/dc83c1efaffc4b57e8180d9b83a4f36f.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102165354 +0000" stop="20260102172326 +0000">
+    <title>The Kids in the Hall</title>
+    <sub-title>Kids In The Hall 407</sub-title>
+    <episode-num system="onscreen">S04E07</episode-num>
+    <desc>Sketches: The Beatles, Chicken Lady Homecoming, Patient/Doctor, Things to Do, Judy Fran &amp; Gaugin.</desc>
+    <date>19931216</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7673737bff829d059246e6c16228f216.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102172326 +0000" stop="20260102175145 +0000">
+    <title>Kim's Convenience</title>
+    <sub-title>Couch Surfing</sub-title>
+    <episode-num system="onscreen">S04E02</episode-num>
+    <desc>While Appa is reluctant to have a houseguest, Umma ends up having problems with their visitor.</desc>
+    <date>20200114</date>
+    <icon src="https://image.tmdb.org/t/p/original/fNniMelsF3SIqEAqLE0UjPqq9GT.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102175145 +0000" stop="20260102182004 +0000">
+    <title>Kim's Convenience</title>
+    <sub-title>The Help</sub-title>
+    <episode-num system="onscreen">S04E03</episode-num>
+    <desc>Umma is mistaken for a server at a school event; Appa takes up math tutoring to prove his prowess.</desc>
+    <date>20200121</date>
+    <icon src="https://image.tmdb.org/t/p/original/kzpOvaNMixTy2w3rH4Pceg3oCtx.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102182004 +0000" stop="20260102184823 +0000">
+    <title>Kim's Convenience</title>
+    <sub-title>Happy Ummaversary</sub-title>
+    <episode-num system="onscreen">S04E04</episode-num>
+    <desc>Janet plans to get the Kim family together for their first family dinner in 15 years.</desc>
+    <date>20200128</date>
+    <icon src="https://image.tmdb.org/t/p/original/97n7PYLPJB7OZB0vwXqn106wtsm.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102184823 +0000" stop="20260102191642 +0000">
+    <title>Kim's Convenience</title>
+    <sub-title>Thinkin' About Inkin'</sub-title>
+    <episode-num system="onscreen">S04E05</episode-num>
+    <desc>Janet considers a new tattoo. Jung and Shannon exchange five-week-iversary gifts.</desc>
+    <date>20200204</date>
+    <icon src="https://image.tmdb.org/t/p/original/shgqF9JJDh6LyAPQ6AMXHJBKUBj.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102191642 +0000" stop="20260102194502 +0000">
+    <title>Kim's Convenience</title>
+    <sub-title>Beacon of Truth</sub-title>
+    <episode-num system="onscreen">S04E07</episode-num>
+    <desc>Appa eavesdrops on Gerald and Chelsea getting together to tell a lie to her parents.</desc>
+    <date>20200218</date>
+    <icon src="https://image.tmdb.org/t/p/original/zZdY9DjjJcmFMg448qUmhUiP1ME.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102194502 +0000" stop="20260102201321 +0000">
+    <title>Kim's Convenience</title>
+    <sub-title>Chammo!</sub-title>
+    <episode-num system="onscreen">S04E08</episode-num>
+    <desc>Umma entrusts Jung to pick Appa up from the dentist, but things don't go as planned.</desc>
+    <date>20200225</date>
+    <icon src="https://image.tmdb.org/t/p/original/yYxkSv5itNIuAHCXSeqGcAHS9Qk.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102201321 +0000" stop="20260102203816 +0000">
+    <title>America's Dumbest Criminals</title>
+    <sub-title>Towing Nowhere Fast</sub-title>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <desc>"Out of the Frying Pan"; "Towing Nowhere Fast"; "Starving Stooge"; "Always on the Job."</desc>
+    <date>19970207</date>
+    <icon src="https://vod-static.plex.tv/thumbnails/675158281bc19e03354e7926/e363adf9-076b-49ea-8dfa-320d1855f73c/thumb2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102203816 +0000" stop="20260102210351 +0000">
+    <title>America's Dumbest Criminals</title>
+    <sub-title>Rookie Robber</sub-title>
+    <episode-num system="onscreen">S02E17</episode-num>
+    <desc>A driver hands over more than his license; newlyweds receive an unforgettable gift.</desc>
+    <date>19970418</date>
+    <icon src="https://vod-static.plex.tv/thumbnails/675158281bc19e03354e7924/cde1977f-c965-4252-9f80-18a98441114f/thumb2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102210351 +0000" stop="20260102212733 +0000">
+    <title>America's Dumbest Criminals</title>
+    <sub-title>The Boulder, The Stupider</sub-title>
+    <episode-num system="onscreen">S02E13</episode-num>
+    <desc>In this episode, we'll understand The Boulder, The Stupider and experience the Road Flasher.</desc>
+    <date>19970321</date>
+    <icon src="https://vod-static.plex.tv/thumbnails/67515828301bcb596c7c1b48/70683765-2e51-4889-bdd0-9f38b6a9dd97/thumb2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102212733 +0000" stop="20260102215045 +0000">
+    <title>America's Dumbest Criminals</title>
+    <sub-title>Moronic Macarena</sub-title>
+    <episode-num system="onscreen">S02E25</episode-num>
+    <desc>A crook packs his bags and makes a run for it; a kid does a moronic Macarena on a friend's car.</desc>
+    <date>19970613</date>
+    <icon src="https://vod-static.plex.tv/thumbnails/67515827725231b958488dc1/77b0f992-e8ec-4f8c-9cc0-6fef4d99b497/thumb2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102215045 +0000" stop="20260102221425 +0000">
+    <title>America's Dumbest Criminals</title>
+    <sub-title>A Soggy Suspect</sub-title>
+    <episode-num system="onscreen">S02E18</episode-num>
+    <desc>Shoplifter wears stolen jacket to arraignment; salad-fork brandisher; cash-register thief.</desc>
+    <date>19970425</date>
+    <icon src="https://vod-static.plex.tv/thumbnails/675158281cb457b301a239aa/4166a514-63ac-46a0-87e8-63cb73308860/thumb2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102221425 +0000" stop="20260102223738 +0000">
+    <title>America's Dumbest Criminals</title>
+    <sub-title>Follow-the-Loser</sub-title>
+    <episode-num system="onscreen">S02E21</episode-num>
+    <desc>In this episode, a man enjoys his room with a view and a woman shares her arts and crafts secrets.</desc>
+    <date>19970516</date>
+    <icon src="https://vod-static.plex.tv/thumbnails/6751582713b61424362fa184/16411f37-0d8b-4c5d-8f28-2b80efdae2d4/thumb2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102223738 +0000" stop="20260102230104 +0000">
+    <title>America's Dumbest Criminals</title>
+    <sub-title>Halloween Hoodlum</sub-title>
+    <episode-num system="onscreen">S02E24</episode-num>
+    <desc>In this episode, a hoodlum picks the wrong clerk to hold up and a bank robber gets robbed himself.</desc>
+    <date>19970606</date>
+    <icon src="https://vod-static.plex.tv/thumbnails/67515827d99a16bdc30be9b0/f2677656-c8fd-4dbf-9d6b-fed49f349eb4/thumb2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102230104 +0000" stop="20260103004250 +0000">
+    <title>Blood Lake: Attack of the Killer Lampreys</title>
     <category>Movie</category>
-    <desc>A young woman has a life-changing visit from her doctor in this divinely funny dramatic comedy.</desc>
-    <date>20110204</date>
-    <icon src="https://image.tmdb.org/t/p/original/9rO0YfsV9z8P4tlpKbryUwcHHIV.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101061600 +0000" stop="20260101064638 +0000">
-    <title>The Kids in the Hall</title>
-    <sub-title>Kids In The Hall 322</sub-title>
-    <episode-num system="onscreen">S03E22</episode-num>
-    <desc>Skits include: "Chicken Lady at a Strip Bar," "Queen Speaks to Canada" and "Bar Fight.".</desc>
-    <date>19920505</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjEzNjg1ODQ4NV5BMl5BanBnXkFtZTgwOTM3MDU1MjE@._V1_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101064638 +0000" stop="20260101071550 +0000">
-    <title>The Kids in the Hall</title>
-    <sub-title>Kids In The Hall 301</sub-title>
-    <episode-num system="onscreen">S03E01</episode-num>
-    <desc>The feathers go flying when the Chicken Lady spots Rooster Boy; Cabbie has his own set of rules.</desc>
-    <date>19911001</date>
-    <icon src="https://artworks.thetvdb.com/banners/episodes/75303/167665.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101071550 +0000" stop="20260101074525 +0000">
-    <title>The Kids in the Hall</title>
-    <sub-title>Kids In The Hall 302</sub-title>
-    <episode-num system="onscreen">S03E02</episode-num>
-    <desc>Sketches: Clothes Make the Man, Can't Sleep 2, I Can Live With That, Excellent TV, Girl Drink Drunk.</desc>
-    <date>19911008</date>
-    <icon src="https://artworks.thetvdb.com/banners/episodes/75303/167666.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101074525 +0000" stop="20260101080732 +0000">
-    <title>The Kids in the Hall</title>
-    <sub-title>Kids In The Hall 303</sub-title>
-    <episode-num system="onscreen">S03E03</episode-num>
-    <desc>Sketches: Asleep on the Job, Measure, Nervous Break(fast) Down, Raise 1, Raise 2, Tammy.</desc>
-    <date>19911015</date>
-    <icon src="https://artworks.thetvdb.com/banners/episodes/75303/167667.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101080732 +0000" stop="20260101083725 +0000">
-    <title>The Kids in the Hall</title>
-    <sub-title>Kids In The Hall 304</sub-title>
-    <episode-num system="onscreen">S03E04</episode-num>
-    <desc>Sketches: Golf, Earring, Flying Pig 1, Queen's Address, Academy Awards, Cops: Flying Pig, Chop Chop.</desc>
-    <date>19911022</date>
-    <icon src="https://artworks.thetvdb.com/banners/episodes/75303/167668.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101083725 +0000" stop="20260101090645 +0000">
-    <title>The Kids in the Hall</title>
-    <sub-title>Kids In The Hall 306</sub-title>
-    <episode-num system="onscreen">S03E06</episode-num>
-    <desc>Sketches: Cops: Night 1, Accents, Original Bat, Bingo, Drag Revolution, Cops: Night 2, Teamwork.</desc>
-    <date>19911105</date>
-    <icon src="https://artworks.thetvdb.com/banners/episodes/75303/167670.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101090645 +0000" stop="20260101093531 +0000">
-    <title>Corner Gas</title>
-    <sub-title>Cousin Carl</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Brent's successful cousin returns, sparking jealousy and a surprising talent show.</desc>
-    <date>20040310</date>
-    <icon src="https://image.tmdb.org/t/p/original/1Z4WHbNsVIMjEp8TrfNjqHgJcRV.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101093531 +0000" stop="20260101100414 +0000">
-    <title>Corner Gas</title>
-    <sub-title>Cell Phone</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Brent's new cell phone ignites a tech rivalry with Davis and a historical preservation effort.</desc>
-    <date>20040317</date>
-    <icon src="https://image.tmdb.org/t/p/original/uuX9pnBrttKq4IQxY0Z8TPAJZAF.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101100414 +0000" stop="20260101103257 +0000">
-    <title>Corner Gas</title>
-    <sub-title>Comedy Night</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Brent feuds with a comedian, while Hank's heckling skills go too far.</desc>
-    <date>20040324</date>
-    <icon src="https://image.tmdb.org/t/p/original/6KediFLvciEcvJ6DSdEHVVHtQOF.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101103257 +0000" stop="20260101110139 +0000">
-    <title>Corner Gas</title>
-    <sub-title>Hook, Line and Sinker</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Brent's slogans cause conflict. Oscar's memory loss worries Brent and Emma.</desc>
-    <date>20040331</date>
-    <icon src="https://image.tmdb.org/t/p/original/mKLanRbCB1GbfBaF6eNihPGz9fO.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101110139 +0000" stop="20260101113023 +0000">
-    <title>Corner Gas</title>
-    <sub-title>I Love Lacey</sub-title>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <desc>The Dog River gang's Grey Cup trip is filled with mishaps and a revelation for Brent.</desc>
-    <date>20040428</date>
-    <icon src="https://image.tmdb.org/t/p/original/1oUhLhsHfhLCay2xFtEMzaZABGA.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101113023 +0000" stop="20260101115906 +0000">
-    <title>Corner Gas</title>
-    <sub-title>Ruby Reborn</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>A big-city girl from Toronto moves in to run the coffee shop next door to the Corner Gas station.</desc>
-    <date>20040122</date>
-    <icon src="https://image.tmdb.org/t/p/original/9oXIw02DqaTkPTSByhpF1BwtFtX.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101115906 +0000" stop="20260101122752 +0000">
-    <title>Corner Gas</title>
-    <sub-title>Tax Man</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Oscar and Hank's tax audit revenge fails due to Emma's meticulous records.</desc>
-    <date>20040129</date>
-    <icon src="https://image.tmdb.org/t/p/original/2Hqtb3tYpyJ023NQG1lyZT0XuVq.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101122752 +0000" stop="20260101125632 +0000">
-    <title>Corner Gas</title>
-    <sub-title>Pilates Twist</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Lacey's free Pilates classes are met with hostility in Dog River.</desc>
-    <date>20040204</date>
-    <icon src="https://image.tmdb.org/t/p/original/3vGIBsIYQ8vzo6Ohpxl3rdp9wNY.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101125632 +0000" stop="20260101132505 +0000">
-    <title>Corner Gas</title>
-    <sub-title>Oh Baby!</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Brent babysits Wanda's son to impress Lacey, but chaos ensues.</desc>
-    <date>20040211</date>
-    <icon src="https://image.tmdb.org/t/p/original/aSZ03s368siudszIvkwWdn2XozX.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101132505 +0000" stop="20260101135324 +0000">
-    <title>Kim's Convenience</title>
-    <sub-title>Which Witch is Which</sub-title>
-    <episode-num system="onscreen">S04E09</episode-num>
-    <desc>Umma reevaluates her role as a mother. Appa comes into money and tries to do a good thing with it.</desc>
-    <date>20200303</date>
-    <icon src="https://image.tmdb.org/t/p/original/bPyeP8PJH7ivrSEjNNgRfABYDJK.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101135324 +0000" stop="20260101142144 +0000">
-    <title>Kim's Convenience</title>
-    <sub-title>In the Bedroom</sub-title>
-    <episode-num system="onscreen">S04E10</episode-num>
-    <desc>Jung pursues a new career and tries to involve Janet; Shannon and Kimchee see a new side of Terence.</desc>
-    <date>20200310</date>
-    <icon src="https://image.tmdb.org/t/p/original/uVLGHooG56Aiy0p6LqRhbDv3dsz.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101142144 +0000" stop="20260101145003 +0000">
-    <title>Kim's Convenience</title>
-    <sub-title>Birds of a Feather</sub-title>
-    <episode-num system="onscreen">S04E11</episode-num>
-    <desc>Jung shows Shannon his nurturing side. Chelsea and Gerald get in the way of Janet's summer plans.</desc>
-    <date>20200317</date>
-    <icon src="https://image.tmdb.org/t/p/original/oDqqlJSW2XZvnREyLCmdwh1RqAy.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101145003 +0000" stop="20260101151822 +0000">
-    <title>Kim's Convenience</title>
-    <sub-title>Knife Strife</sub-title>
-    <episode-num system="onscreen">S04E12</episode-num>
-    <desc>Umma thinks she has found a murder weapon; Kimchee struggles to fit in with other regional managers.</desc>
-    <date>20200324</date>
-    <icon src="https://image.tmdb.org/t/p/original/uvVUrCULDeq0AJ8fATszNs9yd6B.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101151822 +0000" stop="20260101154641 +0000">
-    <title>Kim's Convenience</title>
-    <sub-title>Bon Voyage</sub-title>
-    <episode-num system="onscreen">S04E13</episode-num>
-    <desc>Appa and Umma's plans for the future push Appa out of his comfort zone.</desc>
-    <date>20200331</date>
-    <icon src="https://image.tmdb.org/t/p/original/k1VNJZcxQYJjHADslBf6hJQfjyB.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101154641 +0000" stop="20260101161459 +0000">
-    <title>Kim's Convenience</title>
-    <sub-title>New Appa-liance</sub-title>
-    <episode-num system="onscreen">S03E01</episode-num>
-    <desc>Appa's got a plan to get a new appliance for less, Jung looks to mend old fences.</desc>
-    <date>20190108</date>
-    <icon src="https://image.tmdb.org/t/p/original/4XYwLQXsmNlpOd1CTLnveZeLMCb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101161459 +0000" stop="20260101164318 +0000">
-    <title>Kim's Convenience</title>
-    <sub-title>Open Kimunication</sub-title>
-    <episode-num system="onscreen">S03E03</episode-num>
-    <desc>Appa and Umma take their bickering to a new level. Janet crosses paths with a photography idol.</desc>
-    <date>20190122</date>
-    <icon src="https://image.tmdb.org/t/p/original/jfxS8YJe0vs8KG3ndM0b5w9P6EB.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101164318 +0000" stop="20260101171136 +0000">
-    <title>Kim's Convenience</title>
-    <sub-title>Thy Neighbour's Wifi</sub-title>
-    <episode-num system="onscreen">S03E04</episode-num>
-    <desc>Appa has a solution for spotty Wi-Fi: use the neighbor's. Jung has eyes for Shannon's friend.</desc>
-    <date>20190129</date>
-    <icon src="https://image.tmdb.org/t/p/original/dskPu9EHaWSrUbOSBycCUyoL7N7.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101171136 +0000" stop="20260101173824 +0000">
-    <title>America's Dumbest Criminals</title>
-    <sub-title>Two Bits</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>A woman bails out on her boyfriend; scary footage has a happy ending; dumb DUI excuse.</desc>
-    <date>19960209</date>
-    <icon src="https://vod-static.plex.tv/thumbnails/67515828725231b958488dd3/06d9026b-925e-405c-87d7-78295400038a/thumb2.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101173824 +0000" stop="20260101180506 +0000">
-    <title>America's Dumbest Criminals</title>
-    <sub-title>Search Me</sub-title>
-    <episode-num system="onscreen">S01E24</episode-num>
-    <desc>In this episode, witness a cooperative criminal and cam footage of a casino full of dumb criminals.</desc>
-    <date>19960628</date>
-    <icon src="https://vod-static.plex.tv/thumbnails/675158281cb457b301a239ac/d9495e90-43bb-4c75-b4d3-125f65af8e8d/thumb2.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101180506 +0000" stop="20260101182937 +0000">
-    <title>America's Dumbest Criminals</title>
-    <sub-title>Return to Cinder</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>In the series premiere, we'll witness a chef with a recipe for arrest and a drug bust with a twist.</desc>
-    <date>19960126</date>
-    <icon src="https://vod-static.plex.tv/thumbnails/675158281cb457b301a239ae/de0fcc32-4ed6-48c3-a66c-360f38eb2f15/thumb2.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101182937 +0000" stop="20260101185608 +0000">
-    <title>America's Dumbest Criminals</title>
-    <sub-title>One Way Ticket to Jail</sub-title>
-    <episode-num system="onscreen">S01E22</episode-num>
-    <desc>In this episode, we'll witness the dumb criminal who just couldn't blend in.</desc>
-    <date>19960614</date>
-    <icon src="https://vod-static.plex.tv/thumbnails/67515828925ec85be42dcf15/0b868b53-c115-4fc1-aa11-2fb2b600e96d/thumb2.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101185608 +0000" stop="20260101192241 +0000">
-    <title>America's Dumbest Criminals</title>
-    <sub-title>Crime Time Live</sub-title>
-    <episode-num system="onscreen">S01E21</episode-num>
-    <desc>Drunk driver with bad excuse; surveillance footage reveals a breaking and entering; crapshooter.</desc>
-    <date>19960607</date>
-    <icon src="https://vod-static.plex.tv/thumbnails/67515828ae3f5dcec6197c88/58dd5489-f898-4aa0-a866-3de5201407f7/thumb2.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101192241 +0000" stop="20260101194924 +0000">
-    <title>America's Dumbest Criminals</title>
-    <sub-title>DUI Elvis</sub-title>
-    <episode-num system="onscreen">S01E25</episode-num>
-    <desc>In this episode, we'll witness a man who was driving under the influence of Elvis.</desc>
-    <date>19960705</date>
-    <icon src="https://vod-static.plex.tv/thumbnails/675158283bbd51db235502e3/a1d24167-a309-4650-81ba-1fbcba224013/thumb2.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101194924 +0000" stop="20260101201553 +0000">
-    <title>America's Dumbest Criminals</title>
-    <sub-title>Bad Luck Brown</sub-title>
-    <episode-num system="onscreen">S01E26</episode-num>
-    <desc>Segments include "Bad Luck Brown," "Pilfering Pork Chops" and "Faking It."</desc>
-    <date>19960712</date>
-    <icon src="https://vod-static.plex.tv/thumbnails/6751582813b61424362fa185/4145a905-7bae-4a00-b7ca-1236bf7b2e17/thumb2.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101201553 +0000" stop="20260101204435 +0000">
-    <title>Corner Gas</title>
-    <sub-title>Hook, Line and Sinker</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Brent's slogans cause conflict. Oscar's memory loss worries Brent and Emma.</desc>
-    <date>20040331</date>
-    <icon src="https://image.tmdb.org/t/p/original/mKLanRbCB1GbfBaF6eNihPGz9fO.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101204435 +0000" stop="20260101211317 +0000">
-    <title>Corner Gas</title>
-    <sub-title>Face Off</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Brent considers an offer from a rival hockey team after feeling taken for granted.</desc>
-    <date>20040421</date>
-    <icon src="https://image.tmdb.org/t/p/original/5oOgUrYkoXFaymgbLGJdOlqUwY2.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101211317 +0000" stop="20260101214159 +0000">
-    <title>Corner Gas</title>
-    <sub-title>Ruby Reborn</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>A big-city girl from Toronto moves in to run the coffee shop next door to the Corner Gas station.</desc>
-    <date>20040122</date>
-    <icon src="https://image.tmdb.org/t/p/original/9oXIw02DqaTkPTSByhpF1BwtFtX.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101214159 +0000" stop="20260101221045 +0000">
-    <title>Corner Gas</title>
-    <sub-title>Tax Man</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Oscar and Hank's tax audit revenge fails due to Emma's meticulous records.</desc>
-    <date>20040129</date>
-    <icon src="https://image.tmdb.org/t/p/original/2Hqtb3tYpyJ023NQG1lyZT0XuVq.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260101221045 +0000" stop="20260102000033 +0000">
-    <title>Just Getting Started</title>
-    <category>Movie</category>
-    <desc>A resort manager teams up with a former military man when someone from his past tries to kill him.</desc>
-    <date>20171201</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9cb76eebd1746992c760673fc3103ef6.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" start="20260102000033 +0000" stop="20260102020154 +0000">
-    <title>Leaves of Grass</title>
-    <category>Movie</category>
-    <desc>A professor returns home, where his twin brother has created a plan to take down a local drug lord.</desc>
-    <date>20090913</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/384a1a23c91702d1526389c9365b04fe.jpg" />
+    <desc>Thousands of starved lampreys begin attacking the citizens of a sleepy lake town.</desc>
+    <date>20140604</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/39991f047cab02756c576ddead6e23ea.jpg" />
   </programme>
   
 </tv>

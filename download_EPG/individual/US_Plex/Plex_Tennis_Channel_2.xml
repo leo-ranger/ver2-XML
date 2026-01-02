@@ -5,39 +5,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/a4713cf8-8897-41c2-bab4-132f733d3f5f/TC2_Logo_Plex_1500X1000_LightRDX.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260101003000 +0000" stop="20260101040000 +0000">
-    <title>Roland Garros</title>
-    <sub-title>2026 </sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Final Coco Gauff (USA) vs. Aryna Sabalenka (BLR)</desc>
-    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_ROLAND_GARROS_TC2.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260101040000 +0000" stop="20260101063000 +0000">
-    <title>US Open</title>
-    <sub-title>2025 </sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Final Aryna Sabalenka (BLR) vs. Amanda Anisimova (USA)</desc>
-    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_USO_ENCORE_T2.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260101063000 +0000" stop="20260101090000 +0000">
-    <title>ATP Finals</title>
-    <sub-title>2025 </sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Final Jannik Sinner (ITA) vs. Carlos Alcaraz (ESP)</desc>
-    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_ATP_FINALS_2024.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260101090000 +0000" stop="20260101110000 +0000">
-    <title>Monte Carlo-ATP</title>
-    <sub-title>Monte Carlo 2025</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Final Carlos Alcaraz (ESP) vs. Lorenzo Musetti (ITA)</desc>
-    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_MONTE_CARLO_T2.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260101110000 +0000" stop="20260101173000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260101230000 +0000" stop="20260102053000 +0000">
     <title>Roland Garros</title>
     <sub-title>2025 </sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -45,7 +13,7 @@
     <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_ROLAND_GARROS_TC2.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260101173000 +0000" stop="20260101210000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260102053000 +0000" stop="20260102090000 +0000">
     <title>Washington D.C.-WTA</title>
     <sub-title>2025 WTA Washington D.C. Open</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -53,7 +21,7 @@
     <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_MUBADALA_CITI_OPEN.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260101210000 +0000" stop="20260101230000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260102090000 +0000" stop="20260102110000 +0000">
     <title>Indian Wells</title>
     <sub-title>2025</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -61,12 +29,60 @@
     <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_IW_2025_on_T2.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260101230000 +0000" stop="20260102053000 +0000">
-    <title>Roland Garros</title>
-    <sub-title>2025 </sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260102110000 +0000" stop="20260102130000 +0000">
+    <title>Adelaide</title>
+    <sub-title>2025 Final</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Final Carlos Alcaraz (ESP) vs. Jannik Sinner (ITA)</desc>
-    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_ROLAND_GARROS_TC2.png" />
+    <desc>Final Madison Keys (USA) vs. Jessica Pegula (USA)</desc>
+    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_WTA_ADELAIDE.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260102130000 +0000" stop="20260102150000 +0000">
+    <title>United Cup-ITF</title>
+    <sub-title>United Cup 2025</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Final Iga Swiatek (POL) vs. Coco Gauff (USA)</desc>
+    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_UC_on_T2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260102150000 +0000" stop="20260102180000 +0000">
+    <title>United Cup</title>
+    <sub-title>2025 Final</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Final Taylor Fritz (USA) vs. Hubert Hurkacz (POL)</desc>
+    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_UNITED_CUP_2024.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260102180000 +0000" stop="20260102200000 +0000">
+    <title>Brisbane-ATP</title>
+    <sub-title>Brisbane Open 2025</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Final Reily Opelka (USA) vs. Novak Djokovic (SRB)</desc>
+    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_WTA_BRISBANE.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260102200000 +0000" stop="20260102220000 +0000">
+    <title>Adelaide</title>
+    <sub-title>2025 Final</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Final Madison Keys (USA) vs. Jessica Pegula (USA)</desc>
+    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_WTA_ADELAIDE.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260102220000 +0000" stop="20260103000000 +0000">
+    <title>Adelaide</title>
+    <sub-title>2025 Final</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Final Madison Keys (USA) vs. Jessica Pegula (USA)</desc>
+    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_WTA_ADELAIDE.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260103000000 +0000" stop="20260103020000 +0000">
+    <title>Brisbane-ATP</title>
+    <sub-title>Brisbane Open 2025</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Final Reily Opelka (USA) vs. Novak Djokovic (SRB)</desc>
+    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_WTA_BRISBANE.jpg" />
   </programme>
   
 </tv>
