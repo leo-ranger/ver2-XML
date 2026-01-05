@@ -1,293 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv date="20260104090011 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/464807/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=464807&amp;date=20260104&amp;timezone=None"><channel id="464807">
+<tv date="20260105090011 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/464807/20260105.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=464807&amp;date=20260105&amp;timezone=None"><channel id="464807">
     <display-name lang="US">Disney XD HD</display-name>
     <icon src=""/>
   </channel>
-  <channel id="465320">
-    <display-name lang="US">Disney Junior HD</display-name>
-    <icon src=""/>
-  </channel>
-  <programme channel="464807" start="20260104000000 +0000" stop="20260104003000 +0000">
-    <title lang="zh">Phineas and Ferb</title>
-    <desc>Agent P teams up a human agent to stop a hijacked train.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104003000 +0000" stop="20260104010000 +0000">
-    <title lang="zh">Phineas and Ferb</title>
-    <desc>When Perry comes face to face with an Australian platypus hunter named Liam set out on destroying him, his unwavering demeanor is threatened and his life is put in danger.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104010000 +0000" stop="20260104013000 +0000">
-    <title lang="zh">Gravity Falls</title>
-    <desc>The Pines family resolves to get back to normal after the Lil' Gideon incident by throwing a party.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104013000 +0000" stop="20260104020000 +0000">
-    <title lang="zh">Gravity Falls</title>
-    <desc>Dipper's secret journal pages lead him and the gang to the author's hidden bunker where they find themselves face-to-face with a mysterious figure from Gravity Falls' lore.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104020000 +0000" stop="20260104023000 +0000">
-    <title lang="zh">Kiff</title>
-    <desc>The Chatterleys get ready; Kiff and the crew run the morning announcements at school and it gets out of control.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104023000 +0000" stop="20260104030000 +0000">
-    <title lang="zh">Kiff</title>
-    <desc>Kiff and the crew learn magic, but end up in over their heads; Helen casts a spell on Kiff and Barry and won't tell them what it is.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104030000 +0000" stop="20260104033000 +0000">
-    <title lang="zh">Zombies: The Re-Animated Series</title>
-    <desc>A digital phantom of his younger self haunts Zedy; Addison must find a way to silence her inner critic before she gives up on art altogether.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104033000 +0000" stop="20260104040000 +0000">
-    <title lang="zh">Zombies: The Re-Animated Series</title>
-    <desc>Zed, Addison and the Seabrook crew get to redo their senior year together; Zed creates a new drink called zoda that transforms the entire school into zoda-obsessed zombies.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104040000 +0000" stop="20260104043000 +0000">
-    <title lang="zh">Gravity Falls</title>
-    <desc>A new threat leads Mabel to venture into the enchanted realm of the unicorns; Dipper learns something new about Bill Cipher.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104043000 +0000" stop="20260104050000 +0000">
-    <title lang="zh">Gravity Falls</title>
-    <desc>Trapped in the apocalypse and menaced by villains new and old, Dipper finds himself in a race against time.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104050000 +0000" stop="20260104053000 +0000">
-    <title lang="zh">Phineas and Ferb</title>
-    <desc>Phineas and Ferb go on safari while Perry protects Danville from a new evil.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104053000 +0000" stop="20260104060000 +0000">
-    <title lang="zh">Phineas and Ferb</title>
-    <desc>Agent P is nowhere in sight and Dr. Doofenshmirtz and Major Monogram square off against evil Carl.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104060000 +0000" stop="20260104063000 +0000">
-    <title lang="zh">DuckTales</title>
-    <desc>Webby sets out to prove to a homesick Penumbra that Earth can be a lot of fun by riding Glomgold's newest gift to Duckburg, the suspicious Flintferris Glomwheel.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104063000 +0000" stop="20260104070000 +0000">
-    <title lang="zh">DuckTales</title>
-    <desc>When a mysterious magic thief arrives in Duckburg, Lena must confront her past and team with her treacherous aunt, Magica De Spell.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104070000 +0000" stop="20260104073000 +0000">
-    <title lang="zh">Star vs. the Forces of Evil</title>
-    <desc>Star must learn how to free Marco from a magically locked closet; after being thrown into nature, Ludo must overcome the elements.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104073000 +0000" stop="20260104080000 +0000">
-    <title lang="zh">Star vs. the Forces of Evil</title>
-    <desc>Star rebels after the school guidance counselor, Mr. Candle, insists that her future is set in stone; Marco finally decides to focus on earning his red belt in karate.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104080000 +0000" stop="20260104083000 +0000">
-    <title lang="zh">Amphibia</title>
-    <desc>The Plantars are ready to hit the road when Anne decides to secure the farm; on the road to Newtopia, Sprig longs for adventure, but Hop Pop's road rules threaten to spoil his fun.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104083000 +0000" stop="20260104090000 +0000">
-    <title lang="zh">Amphibia</title>
-    <desc>Hop Pop's efforts to be hailed as a hero backfire when he stands up to the wrong family; Anne must put her self-consciousness aside to learn the true way of the hunter.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104090000 +0000" stop="20260104093000 +0000">
-    <title lang="zh">Big City Greens</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Adventure</category>
-<category lang="en">Kids</category>
-    <desc>Cricket is halted at a convenience store due to its no shoes, no service policy; when Remy throws Vasquez a surprise party, Bill's secret-keeping is put to the test.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104093000 +0000" stop="20260104100000 +0000">
-    <title lang="zh">Big City Greens</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Adventure</category>
-<category lang="en">Kids</category>
-    <desc>Tilly and Bill set off on an epic journey to recycle a fluorescent light bulb at an e-waste center; Tilly tries to solve a long-standing feud between Gramma and Mr. Grigorian.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104100000 +0000" stop="20260104103000 +0000">
-    <title lang="zh">Big City Greens</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Adventure</category>
-<category lang="en">Kids</category>
-    <desc>Remy's plan for his whole life is thrown into question when he is unprepared for a violin recital; Gramma becomes a rideshare driver, only to find her best customers are robbers.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104103000 +0000" stop="20260104110000 +0000">
-    <title lang="zh">Big City Greens</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Adventure</category>
-<category lang="en">Kids</category>
-    <desc>Tilly searches the mall for a new look to reflect her maturity; Cricket persuades Bill to buy a farming robot to get out of chores.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104110000 +0000" stop="20260104113000 +0000">
-    <title lang="zh">Big City Greens</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Adventure</category>
-<category lang="en">Kids</category>
-    <desc>The Greens cause trouble during free sample day at the Farmers Market; Cricket and Nancy toilet paper all of Smalton in a quest for pranking glory.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104113000 +0000" stop="20260104120000 +0000">
-    <title lang="zh">Big City Greens</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Adventure</category>
-<category lang="en">Kids</category>
-    <desc>Chip Whistler attempts to create an evil family, so he takes down the Greens; the Greens move to the suburbs and live under new identities to hide from Chip.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104120000 +0000" stop="20260104123000 +0000">
-    <title lang="zh">Bakugan</title>
-    <desc>A brawler from the Aquatic Clan stops by the Misfit Mod; later, the Misfit Clan tries to get to the bottom of the Bakugan rampages.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104123000 +0000" stop="20260104130000 +0000">
-    <title lang="zh">Yu-Gi-Oh! GO RUSH!!</title>
-    <desc>Twins Yuhi and Yuamu Ohdo believe there's alien life beyond the stars, even though their attempts to prove it have only ended in failure; their hard work and dedication are about to pay off when an extraterrestrial finally arrives on Earth!</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104130000 +0000" stop="20260104133000 +0000">
-    <title lang="zh">Beyblade X</title>
-    <desc>Takumi's visit to Yggdrasil is interrupted by Karla parachuting in to greet Blaze; meanwhile, Multi looks for inspiration over lunch with Sigrid.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104133000 +0000" stop="20260104140000 +0000">
-    <title lang="zh">Chibiverse</title>
-    <desc>Oscar Proud signs Penny up for the Chibi Scouts. Learn about the rise and fall of The Quackstreet Boys. Addison and Bucky put together a cheerleading squad.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104140000 +0000" stop="20260104153000 +0000">
-    <title lang="zh">Disney's Kim Possible Movie: So the Drama</title>
-    <desc>Ron (Will Friedle) realizes he has feelings for Kim (Christy Carlson Romano), while Drakken hatches a scheme to take over the world.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104153000 +0000" stop="20260104160000 +0000">
-    <title lang="zh">Kiff</title>
-    <desc>Kiff's plan to infiltrate a group sleepover and learn its secrets all depends on Barry's ability to lie; Kiff and Barry try to get nicknamed by a local movie theater ticket taker.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104160000 +0000" stop="20260104163000 +0000">
-    <title lang="zh">Kiff</title>
-    <desc>Kiff attempts to help Candle and Trevor with their new friendship; Miss Deer Teacher goes to Kiff for dating advice, not knowing Kiff has been getting her tips from a soap opera.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104163000 +0000" stop="20260104170000 +0000">
-    <title lang="zh">Kiff</title>
-    <desc>A new collection craze wraps up the crew, resulting in rising tensions; when Kiff shadows Harry and Terri as they watch Kristophe, she learns that being in charge is not so easy.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104170000 +0000" stop="20260104173000 +0000">
-    <title lang="zh">Kiff</title>
-    <desc>Kiff and Barry want to go home, but get into a strange adventure; when he realizes Kiff doesn't know what his job is, Martin wants to prove his inventing prowess.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104173000 +0000" stop="20260104180000 +0000">
-    <title lang="zh">Kiff</title>
-    <desc>Kiff and Barry agree to move a piano for Helen in exchange for a wish, but can't agree on the wish; Kiff shows a new kid around school but can't stop his family from interfering.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104180000 +0000" stop="20260104183000 +0000">
-    <title lang="zh">Big City Greens</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Adventure</category>
-<category lang="en">Kids</category>
-    <desc>While Cricket shows Remy the fun of country life, Tilly seeks new sleeping arrangements; Cricket tries to win back his old country friend, Hector.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104183000 +0000" stop="20260104190000 +0000">
-    <title lang="zh">Big City Greens</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Adventure</category>
-<category lang="en">Kids</category>
-    <desc>Remy attempts to find his country grit while Cricket takes tractor-driving lessons; Phoenix journeys back to Big City to retrieve Saxon while Gramma and Gloria go to a club.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104190000 +0000" stop="20260104193000 +0000">
-    <title lang="zh">Big City Greens</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Adventure</category>
-<category lang="en">Kids</category>
-    <desc>Brooke Dillman guest stars as diner owner Patti; Nancy tries to get Cricket to cut his new rat tail without admitting that she hates it.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104193000 +0000" stop="20260104200000 +0000">
-    <title lang="zh">Big City Greens</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Adventure</category>
-<category lang="en">Kids</category>
-    <desc>Tilly makes changes to her country's coming-of-age ceremony and Gramma wants none of it; Cricket fast-tracks his training for a rodeo and gets trapped in a never-ending montage.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104200000 +0000" stop="20260104203000 +0000">
-    <title lang="zh">DuckTales</title>
-    <desc>Della struggles for survival against dangerous elements of the Moon, as she looks for a way to get back to her family on Earth.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104203000 +0000" stop="20260104210000 +0000">
-    <title lang="zh">DuckTales</title>
-    <desc>Stuck as a shadow, Lena tries to protect Webby from her suspicious new friend Violet during a supernatural sleepover.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104210000 +0000" stop="20260104213000 +0000">
-    <title lang="zh">DuckTales</title>
-    <desc>As the boys track a missing artifact across Duckburg, Scrooge and Webby stall the warrior looking for it with a phony quest.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104213000 +0000" stop="20260104220000 +0000">
-    <title lang="zh">DuckTales</title>
-    <desc>In the Old West, Scrooge and Goldie form a band of outlaws and stage a heist to save a small town from corrupt businessman John D. Rockerduck.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104220000 +0000" stop="20260104223000 +0000">
-    <title lang="zh">DuckTales</title>
-    <desc>The kids must stop Scrooge's unhealthy obsession with a few missing coins to keep him from becoming the next Glomgold.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104223000 +0000" stop="20260104230000 +0000">
-    <title lang="zh">Kiff</title>
-    <desc>Kiff demands a bedtime story from Martin; Kiff and Barry wonder if Patty is a baddie after she steals their science project idea.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104230000 +0000" stop="20260104233000 +0000">
-    <title lang="zh">Kiff</title>
-    <desc>Principal Secretary fires his mom; Kiff and Barry see an ad for a virtual reality game and play Pretendo Time.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="464807" start="20260104233000 +0000" stop="20260105000000 +0000">
-    <title lang="zh">Kiff</title>
-    <desc>Kiff's thirst for life takes her on countless adventures through their city alongside her best friend, Barry.</desc>
-    <date>2026-01-04</date>
-  </programme>
   <programme channel="464807" start="20260105000000 +0000" stop="20260105003000 +0000">
     <title lang="zh">Kiff</title>
     <desc>Kiff and Barry help a high schooler throw a great party. Kiff and Barry give Ed tips for wooing Helen, who doesn't know he exists.</desc>
@@ -638,1060 +354,369 @@
     <desc>Continuing the adventures of fan favorites Zed, Addison and the Seabrook crew.</desc>
     <date>2026-01-05</date>
   </programme>
-  <programme channel="464807" start="20260106000000 +0000" stop="20260107000000 +0000">
+  <programme channel="464807" start="20260106000000 +0000" stop="20260106015000 +0000">
     <title lang="zh">UglyDolls</title>
     <desc>In the adorably different town of Uglyville, weirdness is celebrated, strangeness is special and beauty is embraced as more than meets the eye. After traveling to the other side of a mountain, Moxy and her UglyDoll friends discover Perfection -- a town where more conventional dolls receive training before entering the real world to find the love of a child. Soon, the UglyDolls learn what it means </desc>
     <date>2026-01-06</date>
   </programme>
-<programme channel="465320" start="20260104001500 +0000" stop="20260104004000 +0000">
-    <title lang="zh">Iron Man and His Awesome Friends</title>
-    <desc>The Iron Friends must save the pier, then stop Ultron from turning Stark Expo into Ultron Expo; Absorbing Man steals the power of bouncy boots.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="465320" start="20260104004000 +0000" stop="20260104010500 +0000">
-    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
-    <desc>Green Goblin and Rhino copy Lockjaw's teleportation power to cause trouble; the heroes must work with Electro to save the day from Green Goblin's dino robot.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="465320" start="20260104010500 +0000" stop="20260104013000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+  <programme channel="464807" start="20260106015000 +0000" stop="20260106022000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Educational</category>
+<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Bingo and Bluey put on a Mother's Day show; The kids play Tickle Crabs with Dad; Bluey and Bingo get dropped off at Nana's.</desc>
-    <date>2026-01-04</date>
+    <desc>Bill receives a surprise; Jade's boss suspends her from work.</desc>
+    <date>2026-01-06</date>
   </programme>
-  <programme channel="465320" start="20260104013000 +0000" stop="20260104015500 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+  <programme channel="464807" start="20260106022000 +0000" stop="20260106023000 +0000">
+    <title lang="zh">Chibiverse</title>
+    <desc>A new island is created; Marcy unleashes a magic potion; Grunkle Stan puts together a heist.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="464807" start="20260106023000 +0000" stop="20260106030000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Educational</category>
+<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Bluey and Bingo play pirates on the hammock swing; Bingo's favorite toy goes missing; Bluey needs advice on dealing with noisy neighbors.</desc>
-    <date>2026-01-04</date>
+    <desc>Cricket tries to come up with the perfect prank to play on his girlfriend on April Fool's Day; Bill goes to extremes to prevent Tilly from experiencing grief.</desc>
+    <date>2026-01-06</date>
   </programme>
-  <programme channel="465320" start="20260104015500 +0000" stop="20260104022000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+  <programme channel="464807" start="20260106030000 +0000" stop="20260106033000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Educational</category>
+<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Bingo finds a toy turtle at the playground and wants to take him home; Mom's sister Brandy comes over for a visit; Bluey and Bingo hide under the house and spy on two mysterious tradies working in the backyard.</desc>
-    <date>2026-01-04</date>
+    <desc>Chip Whistler attempts to create an evil family, so he takes down the Greens; the Greens move to the suburbs and live under new identities to hide from Chip.</desc>
+    <date>2026-01-06</date>
   </programme>
-  <programme channel="465320" start="20260104022000 +0000" stop="20260104024500 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+  <programme channel="464807" start="20260106033000 +0000" stop="20260106040000 +0000">
+    <title lang="zh">Phineas and Ferb</title>
+    <desc>Phineas and Ferb work to rescue the Lake Nose monster from the effects of zinc-free water after Dr. Doofenschmirtz removes all the metal from the water.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="464807" start="20260106040000 +0000" stop="20260106043000 +0000">
+    <title lang="zh">Phineas and Ferb</title>
+    <desc>Phineas and Ferb invent an animal translator; the boys produce a huge concert event to raise awareness for the plastic thing at the end of shoelaces.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="464807" start="20260106043000 +0000" stop="20260106050000 +0000">
+    <title lang="zh">Phineas and Ferb</title>
+    <desc>Candace uses Phineas and Ferb's newest invention to gain height she needs for a modeling career; the boys build an aquarium in their backyard.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="464807" start="20260106050000 +0000" stop="20260106053000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Educational</category>
+<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Invisible mischievous fairies infest the house; Bluey, Bingo and Dad play "Work!"; Bluey and Dad lift Bingo's spirits.</desc>
-    <date>2026-01-04</date>
+    <desc>When Bill learns that Gramma has been purposely creating a bad reputation around town, he throws a barbeque to befriend the neighbors; Cricket's scheme to cash in on a wishing well snares Tilly, leaving Cricket with a dilemma.</desc>
+    <date>2026-01-06</date>
   </programme>
-  <programme channel="465320" start="20260104024500 +0000" stop="20260104030000 +0000">
-    <title lang="zh">SuperKitties</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e36fcf9d176e5165fbd3fe74f53921a5838b7828e378835748b93345121acb53.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-    <desc>Ginny, Sparks, Buddy and Bitsy are not only cute and cuddly kittens, but are also brave, smart, strong and kind and turn into SuperKitties when trouble arises.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="465320" start="20260104030000 +0000" stop="20260104032500 +0000">
-    <title lang="zh">SuperKitties</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e36fcf9d176e5165fbd3fe74f53921a5838b7828e378835748b93345121acb53.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-    <desc>Bitsy worries that she and Ginny can only be besties if they like the same things; Zsa-Zsa freezes everyone for her group selfie; Ginny figures out how to use Cat-o-flauge.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="465320" start="20260104032500 +0000" stop="20260104035000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+  <programme channel="464807" start="20260106053000 +0000" stop="20260106060000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Educational</category>
+<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Jack and Rusty play Army at school; the girls set up a fancy restaurant for Mum and Dad; Bluey, Bingo and Muffin strike a deal with the dads.</desc>
-    <date>2026-01-04</date>
+    <desc>Cricket earns a role in Big Coffee's new TV commercial but loses his confidence; Bill gets more than he bargained for when he trades in his pickup for a cutting-edge electric car.</desc>
+    <date>2026-01-06</date>
   </programme>
-  <programme channel="465320" start="20260104035000 +0000" stop="20260104041500 +0000">
-    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
-    <desc>Team Spidey works together to save the Apple Blossom Festival from Gobby's antics; Zola steals the Spider Crawl-R during a space mission, stranding Spidey and The Thing on the moon.</desc>
-    <date>2026-01-04</date>
+  <programme channel="464807" start="20260106060000 +0000" stop="20260106063000 +0000">
+    <title lang="zh">DuckTales</title>
+    <desc>Donald Duck reluctantly takes his nephews Huey, Dewey and Louie to the home of their reclusive great-uncle Scrooge McDuck; enthralled by the wonder of McDuck Manor, the triplets and their newfound friend Webby learn of long-kept family secrets.</desc>
+    <date>2026-01-06</date>
   </programme>
-  <programme channel="465320" start="20260104041500 +0000" stop="20260104044000 +0000">
-    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
-    <desc>Zola steals the Bookmobile and the writer Millicent McKeen; the villains team up to steal back their old inventions from the museum's new exhibit.</desc>
-    <date>2026-01-04</date>
+  <programme channel="464807" start="20260106063000 +0000" stop="20260106073000 +0000">
+    <title lang="zh">DuckTales</title>
+    <desc>Donald Duck reluctantly takes his nephews Huey, Dewey and Louie to the home of their reclusive great-uncle, Scrooge McDuck; enthralled by the wonder of McDuck Manor, the triplets and their newfound friend, Webby, learn of long-kept family secrets.</desc>
+    <date>2026-01-06</date>
   </programme>
-  <programme channel="465320" start="20260104044000 +0000" stop="20260104050500 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+  <programme channel="464807" start="20260106073000 +0000" stop="20260106080000 +0000">
+    <title lang="zh">Star vs. the Forces of Evil</title>
+    <desc>Star offers to help her teacher Miss Skullnick with her love life; Star misunderstands Earth's lingo.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="464807" start="20260106080000 +0000" stop="20260106083000 +0000">
+    <title lang="zh">Amphibia</title>
+    <desc>In an attempt to learn to drive the family snail wagon, Anne and Sprig take it for a joy ride; Anne's pimple breakout makes her a celebrity in Wartwood.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="464807" start="20260106083000 +0000" stop="20260106090000 +0000">
+    <title lang="zh">Amphibia</title>
+    <desc>When Anne breaks Hop Pop's favorite cane, she and her friends set out to replace it; when Anne's bedroom floods, she and Sprig must bunk together.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="464807" start="20260106090000 +0000" stop="20260106093000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Educational</category>
+<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Dad pretends to sell the Grannies' house to Mum; Mum and Dad drop the girls off at Nana's so they can have some time to themselves; Bluey and Bingo want Dad to play two different games.</desc>
-    <date>2026-01-04</date>
+    <desc>Chip Whistler attempts to create an evil family, so he takes down the Greens; the Greens move to the suburbs and live under new identities to hide from Chip.</desc>
+    <date>2026-01-06</date>
   </programme>
-  <programme channel="465320" start="20260104050500 +0000" stop="20260104053000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+  <programme channel="464807" start="20260106093000 +0000" stop="20260106100000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Educational</category>
+<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>The Heelers go on a road trip! Mum bans the girls from saying the word 'dunny.' Bluey wants to help Dad make Bingo's birthday cake.</desc>
-    <date>2026-01-04</date>
+    <desc>The Greens cause trouble during free sample day at the Farmers Market; Cricket and Nancy toilet paper all of Smalton in a quest for pranking glory.</desc>
+    <date>2026-01-06</date>
   </programme>
-  <programme channel="465320" start="20260104053000 +0000" stop="20260104055500 +0000">
-    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
-    <desc>Team Spidey helps a mama goose get back to her baby; when Lockjaw causes trouble chasing Black Cat through the city, Team Spidey must help him make things right.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="465320" start="20260104055500 +0000" stop="20260104062000 +0000">
-    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
-    <desc>Zola shrinks the city's cars and Detective Stacy; Rhino mistakes Wasp for the Tooth Fairy.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="465320" start="20260104062000 +0000" stop="20260104064500 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+  <programme channel="464807" start="20260106100000 +0000" stop="20260106103000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Educational</category>
+<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Mum and Dad need to finish their housework; Dad, Bluey and Bingo play Sheepdog; Jack pretends to be a sailor on his way home.</desc>
-    <date>2026-01-04</date>
+    <desc>In summer, Cricket impulsively eats Bill's chocolate Santa and must replace it; when Gramma's serene country retreat is disrupted by an outdoor festival, she resolves to stop it.</desc>
+    <date>2026-01-06</date>
   </programme>
-  <programme channel="465320" start="20260104064500 +0000" stop="20260104071000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+  <programme channel="464807" start="20260106103000 +0000" stop="20260106110000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Educational</category>
+<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Bingo gets upset when Dad is too distracted to notice a walking leaf; Bluey dreams about being a nocturnal fruit bat; Bingo makes a salad.</desc>
-    <date>2026-01-04</date>
+    <desc>Cricket gets dumped by his girlfriend, so he tries to change to win her back; Bill becomes hyper-competitive when Cricket starts to be better at things than him.</desc>
+    <date>2026-01-06</date>
   </programme>
-  <programme channel="465320" start="20260104071000 +0000" stop="20260104073500 +0000">
-    <title lang="zh">Mickey Mouse Clubhouse</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/21badf3603dc20cf2e03fc3ef1a62fb85ae55f6038215597c59531f6758e5721.jpg"/>
-<category lang="en">Educational</category>
+  <programme channel="464807" start="20260106110000 +0000" stop="20260106113000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-    <desc>Mickey and friends help Goofy find his lost hat.</desc>
-    <date>2026-01-04</date>
+    <desc>Cricket and Tilly's mother, Nancy Green, returns to the city.</desc>
+    <date>2026-01-06</date>
   </programme>
-  <programme channel="465320" start="20260104073500 +0000" stop="20260104080000 +0000">
-    <title lang="zh">Mickey Mouse Clubhouse</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/21badf3603dc20cf2e03fc3ef1a62fb85ae55f6038215597c59531f6758e5721.jpg"/>
-<category lang="en">Educational</category>
+  <programme channel="464807" start="20260106113000 +0000" stop="20260106120000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-    <desc>Pete can hardly get through a game of basketball without collapsing from exhaustion.</desc>
-    <date>2026-01-04</date>
+    <desc>When Bill sneaks out at night with a mysterious duffel bag, the kids hide in his truck to see where he goes; Cricket impulsively buys a giant pet snake.</desc>
+    <date>2026-01-06</date>
   </programme>
-  <programme channel="465320" start="20260104080000 +0000" stop="20260104082500 +0000">
-    <title lang="zh">Mickey Mouse Clubhouse</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/21badf3603dc20cf2e03fc3ef1a62fb85ae55f6038215597c59531f6758e5721.jpg"/>
-<category lang="en">Educational</category>
+  <programme channel="464807" start="20260106120000 +0000" stop="20260106123000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-    <desc>Goofy is unsure what kind of art to create for an arts and crafts show.</desc>
-    <date>2026-01-04</date>
+    <desc>Bill and Nancy prep a special harvest dinner; Cricket and Gramma race Tilly to get a missing ingredient; at the local community center, Tilly wants to win a trophy and begins training with the center's director.</desc>
+    <date>2026-01-06</date>
   </programme>
-  <programme channel="465320" start="20260104082500 +0000" stop="20260104085000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+  <programme channel="464807" start="20260106123000 +0000" stop="20260106130000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Educational</category>
+<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Dad plants himself on one end of the seesaw; it is Bluey's first trip to the cinema; Bluey and Bingo go on an adventure with Grandad.</desc>
-    <date>2026-01-04</date>
+    <desc>Tilly tries ventriloquism for the Big Coffee open mic night; the family plays the people-watching game, making up stories about city folk passing by.</desc>
+    <date>2026-01-06</date>
   </programme>
-  <programme channel="465320" start="20260104085000 +0000" stop="20260104091500 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+  <programme channel="464807" start="20260106130000 +0000" stop="20260106133000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Educational</category>
+<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Dad is accused of fluffing in Bluey's face; Bluey and Mackenzie play with two older friends; Bluey and Bingo want Dad all to themselves.</desc>
-    <date>2026-01-04</date>
+    <desc>The Greens go on a family visit to the dentist's office, where Cricket is determined to avoid Dr. Enamel and power through his toothache.</desc>
+    <date>2026-01-06</date>
   </programme>
-  <programme channel="465320" start="20260104091500 +0000" stop="20260104094000 +0000">
-    <title lang="zh">Mickey and the Roadster Racers</title>
-    <desc>The Queen of England comes for tea; Goofy is mistaken for a secret agent; the Happy Helpers are charged with watching Clara Cluck's egg.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="465320" start="20260104094000 +0000" stop="20260104100500 +0000">
-    <title lang="zh">Mickey and the Roadster Racers</title>
-    <desc>Goofy turns a Gordon Gear into a rabbit; the Happy Helpers go on a wild ride to chase down a birthday cake.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="465320" start="20260104100500 +0000" stop="20260104103000 +0000">
-    <title lang="zh">Mickey Mouse Clubhouse</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/21badf3603dc20cf2e03fc3ef1a62fb85ae55f6038215597c59531f6758e5721.jpg"/>
-<category lang="en">Educational</category>
+  <programme channel="464807" start="20260106133000 +0000" stop="20260106140000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-    <desc>Goofy makes Pluto's doghouse disappear.</desc>
-    <date>2026-01-04</date>
+    <desc>When Nancy's trailer is stolen by her old biker gang, the kids resolve to get it back; Cricket house-sits for Remy, but things go awry when the rest of the Greens visit.</desc>
+    <date>2026-01-06</date>
   </programme>
-  <programme channel="465320" start="20260104103000 +0000" stop="20260104110000 +0000">
-    <title lang="zh">Mickey Mouse Clubhouse</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/21badf3603dc20cf2e03fc3ef1a62fb85ae55f6038215597c59531f6758e5721.jpg"/>
-<category lang="en">Educational</category>
+  <programme channel="464807" start="20260106140000 +0000" stop="20260106143000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-    <desc>Mickey loses his lucky coin; professor von Drake offers his submarine to help retrieve the coin from the bottom of the lake.</desc>
-    <date>2026-01-04</date>
+    <desc>At the Valentine's Dance, Cricket develops an unwanted crush on Gabriella; Cricket joins forces with Officer Keys to hunt down a neighborhood litterbug.</desc>
+    <date>2026-01-06</date>
   </programme>
-  <programme channel="465320" start="20260104110000 +0000" stop="20260104112500 +0000">
-    <title lang="zh">Firebuds</title>
-    <desc>The Firebuds get a rescue call from an old Western town; the Firebuds help a young ice-cream truck sell frozen treats on a cold day.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="465320" start="20260104112500 +0000" stop="20260104115000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+  <programme channel="464807" start="20260106143000 +0000" stop="20260106150000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Educational</category>
+<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Bluey and Bingo are worn as Mum and Dad's backpacks; Bluey and Chloe embark on a quest to save the kingdom; while playing copycat, Bluey finds a hurt budgie.</desc>
-    <date>2026-01-04</date>
+    <desc>Gramma spurns Tilly at the city park, so Tilly tries making her jealous; Gramma makes special biscuits for the kids when they're hurt, but won't make more when they're better.</desc>
+    <date>2026-01-06</date>
   </programme>
-  <programme channel="465320" start="20260104115000 +0000" stop="20260104121500 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+  <programme channel="464807" start="20260106150000 +0000" stop="20260106153000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Educational</category>
+<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Bluey gets her own room; Bluey wants her Father's Day card to be perfect; Mum sets up a backyard obstacle course just for fun.</desc>
-    <date>2026-01-04</date>
+    <desc>Cricket stages a crisis by letting skunks into the cafe, but it gets out of control; Nancy accidentally destroys Saxon, but Tilly mistakenly directs her wrath at Gramma.</desc>
+    <date>2026-01-06</date>
   </programme>
-  <programme channel="465320" start="20260104121500 +0000" stop="20260104124000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+  <programme channel="464807" start="20260106153000 +0000" stop="20260106160000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Educational</category>
+<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Muffin plays the game of library her way; Mum, Dad and Bingo must pass swim school; Bluey, Bingo and Dad always take out the bins.</desc>
-    <date>2026-01-04</date>
+    <desc>When Remy and Cricket get their own apartment, they discover that nonstop fun leads to chaos; Tilly volunteers at the animal shelter but doesn't want to part with any of the animals.</desc>
+    <date>2026-01-06</date>
   </programme>
-  <programme channel="465320" start="20260104124000 +0000" stop="20260104132000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+  <programme channel="464807" start="20260106160000 +0000" stop="20260106163000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Educational</category>
+<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Get ready for a Bluey treat! Let's Play Chef features food-themed episodes, including 'BBQ', 'Pizza Girls', and 'Asparagus.'.</desc>
-    <date>2026-01-04</date>
+    <desc>Cricket earns a role in Big Coffee's new TV commercial but loses his confidence; Bill gets more than he bargained for when he trades in his pickup for a cutting-edge electric car.</desc>
+    <date>2026-01-06</date>
   </programme>
-  <programme channel="465320" start="20260104132000 +0000" stop="20260104140500 +0000">
-    <title lang="zh">Mickey Mouse Clubhouse</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/21badf3603dc20cf2e03fc3ef1a62fb85ae55f6038215597c59531f6758e5721.jpg"/>
-<category lang="en">Educational</category>
+  <programme channel="464807" start="20260106163000 +0000" stop="20260106170000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-    <desc>Goofy's long-lost grandfather, Captain Goof-Beard asks for the gang's help; Harmony-Chord Island, Goof-Beard's home, is at risk of sinking.</desc>
-    <date>2026-01-04</date>
+    <desc>When Bill learns that Gramma has been purposely creating a bad reputation around town, he throws a barbeque to befriend the neighbors; Cricket's scheme to cash in on a wishing well snares Tilly, leaving Cricket with a dilemma.</desc>
+    <date>2026-01-06</date>
   </programme>
-  <programme channel="465320" start="20260104140500 +0000" stop="20260104143000 +0000">
-    <title lang="zh">Spidey and Iron Man: Avengers Team-Up!</title>
-    <desc>Spidey and Iron Man team up with the Avengers to stop Ultron and Green Goblin from controlling all of the city's devices.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="465320" start="20260104143000 +0000" stop="20260104150000 +0000">
-    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
-    <desc>The Spidey team must get back their stolen Webs Ahoy pirate ship and rescue their friends; the ghost of a legendary knight haunts the city.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="465320" start="20260104150000 +0000" stop="20260104153000 +0000">
-    <title lang="zh">Iron Man and His Awesome Friends</title>
-    <desc>The Iron Friends must stop delivery bots that have gone rogue; Tony, Riri, and Amadeus try to fix Howard Stark's failed invention, but it causes chaos at Stark Expo.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="465320" start="20260104153000 +0000" stop="20260104160000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+  <programme channel="464807" start="20260106170000 +0000" stop="20260106173000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Educational</category>
+<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Bluey plays a game of "Shops" with her friends; a pool trip is a blast, until Dad forgets everything; the Heeler family plays a game and goes on an adventure.</desc>
-    <date>2026-01-04</date>
+    <desc>On Christmas Eve, Tilly helps Cricket redeem his year's worth of bad deeds for one last chance to get on Santa's nice list; Gramma and Nancy look for a present for Bill.</desc>
+    <date>2026-01-06</date>
   </programme>
-  <programme channel="465320" start="20260104160000 +0000" stop="20260104163000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+  <programme channel="464807" start="20260106173000 +0000" stop="20260106180000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Educational</category>
+<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Judo wants to play in the dirt with Bluey and Bingo; during a cricket game, the dads struggle to bowl Rusty out; Bluey and Mum race against the clock to buy milk for a grumpy guest.</desc>
-    <date>2026-01-04</date>
+    <desc>Gloria gets stuck on an elevator with the Greens; Remy falls under the sway of an internet influencer.</desc>
+    <date>2026-01-06</date>
   </programme>
-  <programme channel="465320" start="20260104163000 +0000" stop="20260104170000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+  <programme channel="464807" start="20260106180000 +0000" stop="20260106183000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Educational</category>
+<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Bluey and Bingo construct a mini-civilization; Mum is crowned Queen with the girls as her butlers; Bluey and Bingo commute on the Dad-Train.</desc>
-    <date>2026-01-04</date>
+    <desc>Chip Whistler returns to take revenge on the Greens, but is forced to apologize; Andromeda and Tilly follow Gloria to a club where they must cure her of her amnesia.</desc>
+    <date>2026-01-06</date>
   </programme>
-  <programme channel="465320" start="20260104170000 +0000" stop="20260104172500 +0000">
-    <title lang="zh">Mickey Mouse Clubhouse+</title>
-    <desc>Professor Von Drake gifts a calliope car for the Clubhouse Choo-Choo train; Minnie performs a song; she and Mickey help friends finish chores to join in.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="465320" start="20260104172500 +0000" stop="20260104180000 +0000">
-    <title lang="zh">Mickey Mouse Clubhouse+</title>
-    <desc>Professor Von Drake's Itty Bitty Baby Ray turns him and Pluto into babies; Mickey and pals use Mouseketools to reverse the shrink ray.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="465320" start="20260104180000 +0000" stop="20260104182000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+  <programme channel="464807" start="20260106183000 +0000" stop="20260106190000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Educational</category>
+<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Dad thinks Bluey and Bingo have too many toys; Bluey and friends get ambushed by the Terriers; Bluey and Bingo play a game of Burger Shop with Dad.</desc>
-    <date>2026-01-04</date>
+    <desc>Cricket is mistaken for a pop star and decides to exploit the situation for all the perks of fame; Remy and Cricket attend a football camp in an attempt to impress Remy's dad.</desc>
+    <date>2026-01-06</date>
   </programme>
-  <programme channel="465320" start="20260104182000 +0000" stop="20260104184500 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+  <programme channel="464807" start="20260106190000 +0000" stop="20260106193000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Educational</category>
+<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>The kids stage a horsey wedding; Bluey, Bingo and Dad play a game of Hotel; Bluey struggles to ride her bike and won't give up.</desc>
-    <date>2026-01-04</date>
+    <desc>Cricket and Remy play a contentious game of H-O-R-S-E on the hottest day of the year; in order to avoid punishment, Cricket must make his rational dad believe in aliens.</desc>
+    <date>2026-01-06</date>
   </programme>
-  <programme channel="465320" start="20260104184500 +0000" stop="20260104191000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
+  <programme channel="464807" start="20260106193000 +0000" stop="20260106200000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Rusty interrupts Bluey's game at playgroup; Doctor Bluey operates on a cat in Dad's tummy; Bluey misses Mum when she goes out for the night.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="465320" start="20260104191000 +0000" stop="20260104193500 +0000">
-    <title lang="zh">SuperKitties</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e36fcf9d176e5165fbd3fe74f53921a5838b7828e378835748b93345121acb53.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-    <desc>Lab Rat causes chaos with a weather machine so that the special Jungle Rose will bloom sooner; when Cat Burglar accidentally steals Papa Bird's egg, the SuperKitties must get it back.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="465320" start="20260104193500 +0000" stop="20260104200000 +0000">
-    <title lang="zh">SuperKitties</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e36fcf9d176e5165fbd3fe74f53921a5838b7828e378835748b93345121acb53.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-    <desc>The SuperKitties must stop Lab Rat from chasing cats with her mega-mouse; the SuperKitties visit Willa in the Wild Jungle.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="465320" start="20260104200000 +0000" stop="20260104202500 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Bluey and Bingo plan to stay up late at a sleepover; Bluey needs to focus during a game of hide-and-seek; Bluey makes a new friend while camping.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="465320" start="20260104202500 +0000" stop="20260104205000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Honey's trip to Dr. Bingo keeps getting interrupted; Mum and Dad create their own Magic Claw machine; Bluey takes her tooth fairy money to the market.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="465320" start="20260104205000 +0000" stop="20260104211500 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Bluey and Bingo play restaurant with Grandad; the kids play Café so Bingo can eat Pavlova; Bluey tracks mud into the house.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="465320" start="20260104211500 +0000" stop="20260104214000 +0000">
-    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
-    <desc>Spidey teams up with Ghost-Spider and Miles Morales to make up the Spidey Team, with some assistance from Spidey's comical but loyal Spider-bot, Trace.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="465320" start="20260104214000 +0000" stop="20260104220500 +0000">
-    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
-    <desc>Spidey and Jeff save Spider Island from a pirate Green Goblin and Doc Ock.; Team Spidey swings to the rescue after Miles loses his little pet frog in the big city.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="465320" start="20260104220500 +0000" stop="20260104223000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Bluey is upset when Dad keeps stopping on their walk; Bluey is Dad's only hope to make it to the airport; Bluey takes a solo adventure on the beach.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="465320" start="20260104223000 +0000" stop="20260104230000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Bluey and Bingo love to video chat; Dad agrees to buy ice cream; Dad tells a real-life fairy tale.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="465320" start="20260104230000 +0000" stop="20260104232500 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Bluey decides to be Mum during a game of "Kids!"; Butterflies is a fun game until Bingo ends up alone; Bluey's eyes are opened to the simple beauty of nature.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="465320" start="20260104232500 +0000" stop="20260104235000 +0000">
-    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
-    <desc>Lizard's potion turns him into a fire-breathing dragon; Peter and Gwen chase down Black Cat and Rhino after they steal Aunt May's jewelry.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="465320" start="20260104235000 +0000" stop="20260105000000 +0000">
-    <title lang="zh">Mickey Mouse Clubhouse+</title>
-    <desc>Goofy's hungry for pizza, but the fridge is missing ingredients; Mickey and pals use Mouseketools to gather what's needed and make a delicious pizza to share!</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="465320" start="20260105001500 +0000" stop="20260105004000 +0000">
-    <title lang="zh">Iron Man and His Awesome Friends</title>
-    <desc>Tony tries to move a boulder blocking the trail; Riri wants to play paper boats, but Swarm has drained the creek to ruin the park.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105004000 +0000" stop="20260105010500 +0000">
-    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
-    <desc>Team Spidey faces their robot selves created by Doc Ock; Lizard's potion is turning Black Cat into a saber-toothed tiger unless Team Spidey can turn her back to normal.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105010500 +0000" stop="20260105013000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Bluey and Bingo are worn as Mum and Dad's backpacks; Bluey and Chloe embark on a quest to save the kingdom; while playing copycat, Bluey finds a hurt budgie.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105013000 +0000" stop="20260105015500 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Bluey gets her own room; Bluey wants her Father's Day card to be perfect; Mum sets up a backyard obstacle course just for fun.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105015500 +0000" stop="20260105022000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Muffin plays the game of library her way; Mum, Dad and Bingo must pass swim school; Bluey, Bingo and Dad always take out the bins.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105022000 +0000" stop="20260105024500 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Bluey plays a game of "Shops" with her friends; a pool trip is a blast, until Dad forgets everything; the Heeler family plays a game and goes on an adventure.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105024500 +0000" stop="20260105030000 +0000">
-    <title lang="zh">SuperKitties</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e36fcf9d176e5165fbd3fe74f53921a5838b7828e378835748b93345121acb53.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-    <desc>The SuperKitties must find the real thief when animals accuse Sparks of stealing.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105030000 +0000" stop="20260105032500 +0000">
-    <title lang="zh">SuperKitties</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e36fcf9d176e5165fbd3fe74f53921a5838b7828e378835748b93345121acb53.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-    <desc>To guard a new dinosaur bone, Buddy must learn to pay attention; Sparks relies on his problem-solving skills to stop Cat Burglar and Lab Rat from stealing a giant cheese wheel.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105032500 +0000" stop="20260105035000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Judo wants to play in the dirt with Bluey and Bingo; during a cricket game, the dads struggle to bowl Rusty out; Bluey and Mum race against the clock to buy milk for a grumpy guest.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105035000 +0000" stop="20260105041500 +0000">
-    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
-    <desc>Team Spidey must stop Doc Ock from melting ice while looking for treasure in Antarctica; when Zola claims the snowy park as his, Miles and his dad work together to take it back.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105041500 +0000" stop="20260105044000 +0000">
-    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
-    <desc>Gobby's Dino-mech takes over a natural geyser; Lizard brings dinosaurs to life in the museum.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105044000 +0000" stop="20260105050500 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Bluey and Bingo construct a mini-civilization; Mum is crowned Queen with the girls as her butlers; Bluey and Bingo commute on the Dad-Train.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105050500 +0000" stop="20260105053000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Dad thinks Bluey and Bingo have too many toys; Bluey and friends get ambushed by the Terriers; Bluey and Bingo play a game of Burger Shop with Dad.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105053000 +0000" stop="20260105055500 +0000">
-    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
-    <desc>When Lizard's potion turns the villains into dinosaurs, the Spidey team and White Tiger help capture them; Doc Ock's bug sneaks into WEB-Quarters and turns WEB-STER evil.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105055500 +0000" stop="20260105062000 +0000">
-    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
-    <desc>Lizard's monster plant takes over the city; Doc Ock captures the Spider CRAWL-R while on a mission in Space, so Miles and his mom, Rio, work together to free their ship.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105062000 +0000" stop="20260105064500 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>The kids stage a horsey wedding; Bluey, Bingo and Dad play a game of Hotel; Bluey struggles to ride her bike and won't give up.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105064500 +0000" stop="20260105071000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Rusty interrupts Bluey's game at playgroup; Doctor Bluey operates on a cat in Dad's tummy; Bluey misses Mum when she goes out for the night.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105071000 +0000" stop="20260105073500 +0000">
-    <title lang="zh">Mickey Mouse Clubhouse</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/21badf3603dc20cf2e03fc3ef1a62fb85ae55f6038215597c59531f6758e5721.jpg"/>
-<category lang="en">Educational</category>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Kids</category>
-    <desc>With the help of his friends, Donald teaches Donald Jr. a song and dance routine for "Show Your Special Talent Day.".</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105073500 +0000" stop="20260105080000 +0000">
-    <title lang="zh">Mickey Mouse Clubhouse</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/21badf3603dc20cf2e03fc3ef1a62fb85ae55f6038215597c59531f6758e5721.jpg"/>
-<category lang="en">Educational</category>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Kids</category>
-    <desc>Mother Goose Clarabelle visits; Donald makes a mess in the clubhouse; Goofy and Pluto help him clean it up.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105080000 +0000" stop="20260105082500 +0000">
-    <title lang="zh">Mickey Mouse Clubhouse</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/21badf3603dc20cf2e03fc3ef1a62fb85ae55f6038215597c59531f6758e5721.jpg"/>
-<category lang="en">Educational</category>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Kids</category>
-    <desc>Everything turns silly when the Clubhouse Silly Switch gets stuck on silly.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105082500 +0000" stop="20260105085000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Bluey and Bingo plan to stay up late at a sleepover; Bluey needs to focus during a game of hide-and-seek; Bluey makes a new friend while camping.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105085000 +0000" stop="20260105091500 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Honey's trip to Dr. Bingo keeps getting interrupted; Mum and Dad create their own Magic Claw machine; Bluey takes her tooth fairy money to the market.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105091500 +0000" stop="20260105094000 +0000">
-    <title lang="zh">Mickey and the Roadster Racers</title>
-    <desc>Goofy gets a chance to compete against a movie hero in a daredevil competition; The Happy Helpers cover for Billy Beagle as race announcers while he competes.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105094000 +0000" stop="20260105100500 +0000">
-    <title lang="zh">Mickey and the Roadster Racers</title>
-    <desc>Mickey and Donald's bad day gets worse when they accidentally become handcuffed together; the Happy Helpers help Mr. Bigby throw an anniversary party for his wife.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105100500 +0000" stop="20260105103000 +0000">
-    <title lang="zh">Mickey Mouse Clubhouse</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/21badf3603dc20cf2e03fc3ef1a62fb85ae55f6038215597c59531f6758e5721.jpg"/>
-<category lang="en">Educational</category>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Kids</category>
-    <desc>Mickey rewards his friends with fireworks when they solve his puzzles.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105103000 +0000" stop="20260105110000 +0000">
-    <title lang="zh">Mickey Mouse Clubhouse</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/21badf3603dc20cf2e03fc3ef1a62fb85ae55f6038215597c59531f6758e5721.jpg"/>
-<category lang="en">Educational</category>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Kids</category>
-    <desc>Mickey, Goofy and their friends build a birdhouse for Baby Red Bird and his family.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105110000 +0000" stop="20260105113000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Dad tries to teach Bluey how to play chess, but Mom thinks she is still too young; Bingo helps Mom make an omelette for Dad's birthday; Lucky's Dad is outraged that modern Pass the Parcel has a present in every layer.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105113000 +0000" stop="20260105120000 +0000">
-    <title lang="zh">Mickey Mouse Clubhouse</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/21badf3603dc20cf2e03fc3ef1a62fb85ae55f6038215597c59531f6758e5721.jpg"/>
-<category lang="en">Educational</category>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Kids</category>
-    <desc>Mickey and friends earn badges by setting up camp and fishing; Donald decides to camp by himself.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105120000 +0000" stop="20260105123000 +0000">
-    <title lang="zh">Mickey Mouse Clubhouse</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/21badf3603dc20cf2e03fc3ef1a62fb85ae55f6038215597c59531f6758e5721.jpg"/>
-<category lang="en">Educational</category>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Kids</category>
-    <desc>Pluto's favorite bouncy ball bounces away, and Mickey and Pluto go after it with a handful of Mouseketools.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105123000 +0000" stop="20260105130000 +0000">
-    <title lang="zh">SuperKitties</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e36fcf9d176e5165fbd3fe74f53921a5838b7828e378835748b93345121acb53.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-    <desc>The SuperKitties must keep Mr. Puppypaws from digging up the animals' Fun Run; Bitsy feels replaced after Sparks makes the SuperKitty Kit super fast to stop the Roboctopus.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105130000 +0000" stop="20260105133000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Muffin is playing Grouchy Granny at a garage sale, making Dad push her on an old mobility scooter; Mackenzie, Jack and Rusty are playing astronauts but Mackenzie keeps going missing; Bluey and Bingo build a very special cubby for their stuffed toy.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105133000 +0000" stop="20260105140000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>The girls convince Mum that Dad is a Big Teaser; Bluey struggles to train her new pet; Daddy Robot helps Bluey and Bingo tidy the playroom.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105140000 +0000" stop="20260105142500 +0000">
-    <title lang="zh">Mickey Mouse Clubhouse+</title>
-    <desc>When Clarabelle's coop is wrecked, Mickey and friends rebuild it using Mouseketools, giving her chickens a new, improved home!</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105142500 +0000" stop="20260105145000 +0000">
-    <title lang="zh">Mickey Mouse Clubhouse+</title>
-    <desc>Donald shakes a beehive, upsetting the bees; they buzz after him, but Mickey and pals use Mouseketools to build a new hive and calm them down.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105145000 +0000" stop="20260105151500 +0000">
-    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
-    <desc>Spin's favorite mythical creature may actually exist; when Spidey and Hulk's powers are switched by Doc Ock, they must teach each other how to be each other to defeat her.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105151500 +0000" stop="20260105154000 +0000">
-    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
-    <desc>Team Spidey gets trapped in Sandman's giant sand maze; The Spidey Team swings into action to bring back the fun after Electro supercharges the amusement park.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105154000 +0000" stop="20260105160500 +0000">
-    <title lang="zh">Iron Man and His Awesome Friends</title>
-    <desc>Amadeus shows off his high-tech beehive, but when Swarm attacks, the Iron Friends must save the day and the bees; the Iron Friends stop Ultron from making everyone float away.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105160500 +0000" stop="20260105163000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>The Heelers play a game of Bus; Mum and Bluey play Mum School, where Mum teaches Bluey how to corral her rowdy kids; Bingo decides she's too tired to walk and needs a piggyback.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105163000 +0000" stop="20260105165000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Dad washes up on the beach of a desert island; hairdressers Bluey and Bingo discover that their customer has nits; Bluey and Bingo wait for a rubber gecko to fall from the ceiling.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105165000 +0000" stop="20260105171000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Bluey and Bigno help Uncle Stripe and Bandit play squash and spend the day with Nana; Bingo has to learn to play alone.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105171000 +0000" stop="20260105173500 +0000">
-    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
-    <desc>Spidey teams up with Ghost-Spider and Miles Morales to make up the Spidey Team, with some assistance from Spidey's comical but loyal Spider-bot, Trace.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105173500 +0000" stop="20260105180000 +0000">
-    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
-    <desc>Team Spidey searches for Bootsie after she gets captured by Black Cat; the Spidey Team protects Iron Man's headquarters from Electro.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105180000 +0000" stop="20260105182500 +0000">
-    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
-    <desc>The Spidey Team goes camping, but Old Dam is cracking and about to flood the park; Green Goblin frames the Hulk; Spidey and Ghosty are determined to prove he's innocent.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105182500 +0000" stop="20260105185000 +0000">
-    <title lang="zh">SuperKitties</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e36fcf9d176e5165fbd3fe74f53921a5838b7828e378835748b93345121acb53.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-    <desc>SuperKitty superfan Pickles helps the team save the day; the SuperKitties stop Zsa-Zsa from turning the Kittydale water tower into her own giant bubble bath.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105185000 +0000" stop="20260105191500 +0000">
-    <title lang="zh">SuperKitties</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e36fcf9d176e5165fbd3fe74f53921a5838b7828e378835748b93345121acb53.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-    <desc>The SuperKitties stop Zsa-Zsa from turning animals' voices into musical instruments; Sparks and Buddy accidentally hurt each other's feelings.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105191500 +0000" stop="20260105194000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Dad plays trampoline games with Bluey and Bingo; Dad plans on throwing out Bluey's old drawings; Bingo causes chaos at Bluey's backyard zoo.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105194000 +0000" stop="20260105200500 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>At the pharmacy, Bluey and Bingo have fun playing with the CCTV screens.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105200500 +0000" stop="20260105203000 +0000">
-    <title lang="zh">Disney Jr. Ariel - The Little Mermaid</title>
-    <desc>A new fish wants an adventure of her own; Triton accidentally turns into a kid.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105203000 +0000" stop="20260105205500 +0000">
-    <title lang="zh">Disney Jr. Ariel - The Little Mermaid</title>
-    <desc>When Flounder gets a boo boo on his fin, he does everything he can to avoid getting checked; Ariel learns about a traveling group of performers that Triton loved as a child.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105205500 +0000" stop="20260105213000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Bluey and Bingo play The Quiet Game; when Mum and Dad have a disagreement, Bluey makes Dad write a love letter to Mum; in the park, Bluey meets a new playmate, Winnie.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105213000 +0000" stop="20260105215500 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Bluey, Bingo and Mum enjoy a game of Keepy-Uppy around the house; Bluey and Bingo squabble over their magic xylophone; Coco keeps taking shortcuts while playing Shadowlands.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105215500 +0000" stop="20260105224500 +0000">
-    <title lang="zh">Pupstruction</title>
-    <desc>When the fastest horse in the West moves to Petsburg, Pupstruction builds a road he can run on; the Pups must save Harry after he accidentally gets stuck in a foggy ditch.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105224500 +0000" stop="20260105231500 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>The Heelers take turns remembering their favourite thing from the day; it's Dad's turn to give the kids breakfast and drop them off at school; Bingo promises to wake up in her own bed.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105231500 +0000" stop="20260105234000 +0000">
-    <title lang="zh">Bluey</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
-<category lang="en">Animation</category>
-<category lang="en">Comedy</category>
-<category lang="en">Educational</category>
-<category lang="en">Kids</category>
-<category lang="en">Kids</category>
-<category lang="en">and</category>
-<category lang="en">Family</category>
-    <desc>Dad tries to teach Bluey how to play chess, but Mom thinks she is still too young; Bingo helps Mom make an omelette for Dad's birthday; Lucky's Dad is outraged that modern Pass the Parcel has a present in every layer.</desc>
-    <date>2026-01-05</date>
-  </programme>
-  <programme channel="465320" start="20260105234000 +0000" stop="20260106000000 +0000">
-    <title lang="zh">Mickey Mouse Clubhouse+</title>
-    <desc>The pals help Minnie throw a dinner party for Clara Cluck; using Mouseketools, they set the table, dress up in hats and finish cooking before guests arrive.</desc>
-    <date>2026-01-05</date>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>When the Greens try to spend an eventful day at the beach, Cricket tries to prank the beach-goers; Cricket discovers he can influence the family's dreams, to disastrous real-life results.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="464807" start="20260106200000 +0000" stop="20260106203000 +0000">
+    <title lang="zh">Beyblade X</title>
+    <desc>Burn, Zonamos, and Yuni arrive at Yggdrasil Pharmaceutical's research lab on an isolated island; meanwhile, in the bustling Komaba Sushi, Tenka challenges Multi, demanding that she battles with her masterpiece.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="464807" start="20260106203000 +0000" stop="20260106210000 +0000">
+    <title lang="zh">Armorsaurs</title>
+    <desc>Teen heroes learn they must bond and armor up with real dinosaurs to protect the Earth. They embark on their first mission to rescue Ajax.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="464807" start="20260106210000 +0000" stop="20260106213000 +0000">
+    <title lang="zh">Kiff</title>
+    <desc>Kiff, Barry, and Trevor sneak into a movie and try not to get caught. Martin and Beryl vie for Kiff's favor when Kiff comes into some money.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="464807" start="20260106213000 +0000" stop="20260106220000 +0000">
+    <title lang="zh">Phineas and Ferb</title>
+    <desc>The boys build a zoetrope that goes on an adventure of its own; the kids build a bookcase that gets attacked by an army of Doof-plants.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="464807" start="20260106220000 +0000" stop="20260106223000 +0000">
+    <title lang="zh">Phineas and Ferb</title>
+    <desc>The boys bring Perry to the vet for a checkup and build a pet wash while they wait; Carl tries to help Perry stop Doof while working three other part-time jobs.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="464807" start="20260106223000 +0000" stop="20260106230000 +0000">
+    <title lang="zh">Kiff</title>
+    <desc>Kiff runs for class president against a surprise candidate, Mr. RiPeppa. The Chatterleys take Barry on their island vacation, but he seems to have a dark secret.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="464807" start="20260106230000 +0000" stop="20260106233000 +0000">
+    <title lang="zh">Kiff</title>
+    <desc>Kiff and her friends record the hottest new song in Table Town. Trevor's older brother visits, and Kiff and Barry think he's the coolest.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="464807" start="20260106233000 +0000" stop="20260107000000 +0000">
+    <title lang="zh">Kiff</title>
+    <desc>Kiff's thirst for life takes her on countless adventures through their city alongside her best friend, Barry.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="464807" start="20260107000000 +0000" stop="20260108000000 +0000">
+    <title lang="zh">Kiff</title>
+    <desc>Trevor becomes the foundation of the newest Table Town School craze, but at what cost? Kiff, Barry and Terri go to the Table Town Mall, but get caught up in a long line.</desc>
+    <date>2026-01-07</date>
   </programme>
 </tv>
