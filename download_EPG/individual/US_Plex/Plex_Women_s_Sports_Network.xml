@@ -5,15 +5,103 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/5c5587dd-f93b-42db-b0dc-6b7a78801c3d/WSNLogoColor_1500x1000.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260103234523 +0000" stop="20260104024932 +0000">
-    <title>LOVB</title>
-    <sub-title>League One Volleyball</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260104232805 +0000" stop="20260105003001 +0000">
+    <title>WSL Surfing</title>
+    <sub-title>2022 WSL Billabong Pipe Pro</sub-title>
     <episode-num system="onscreen">S01E09</episode-num>
-    <desc>League One Volleyball - Atlanta v Omaha</desc>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/LeagueOneVolleyballLandscape.png" />
+    <desc>Cutdown of the 2022 Billabong Pipe Pro, featuring on-screen facts and interviews.</desc>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/WSLSFE0009.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260104024932 +0000" stop="20260104034924 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260105003001 +0000" stop="20260105013157 +0000">
+    <title>WSL Surfing</title>
+    <sub-title>2022 WSL Hurley Pro Sunset Beach</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Cutdown of the 2022 Hurley Pro Sunset Beach, featuring on-screen facts and interviews.</desc>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/WSLSFE0010.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260105013157 +0000" stop="20260105023352 +0000">
+    <title>WSL Surfing</title>
+    <sub-title>2021 WSL Jeep Surf Ranch Pro Presented by Adobe</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Cutdown of the 2021 Jeep Surf Ranch Pro, featuring on-screen facts and interviews.</desc>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/WSLSFE0006.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260105023352 +0000" stop="20260105031014 +0000">
+    <title>Sail GP</title>
+    <sub-title>Sail GP</sub-title>
+    <episode-num system="onscreen">S03E06</episode-num>
+    <desc>Sail GP Dubai 2022 International Highlights</desc>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/SailGPLandscape.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260105031014 +0000" stop="20260105035052 +0000">
+    <title>Sail GP</title>
+    <sub-title>Sail GP</sub-title>
+    <episode-num system="onscreen">S03E07</episode-num>
+    <desc>Sail GP Plymouth 2022 International Highlights</desc>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/SailGPLandscape.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260105035052 +0000" stop="20260105042926 +0000">
+    <title>Sail GP</title>
+    <sub-title>Sail GP</sub-title>
+    <episode-num system="onscreen">S03E08</episode-num>
+    <desc>Sail GP Saint-Tropez 2022 International Highlights</desc>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/SailGPLandscape.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260105042926 +0000" stop="20260105051028 +0000">
+    <title>Sail GP</title>
+    <sub-title>Sail GP</sub-title>
+    <episode-num system="onscreen">S03E09</episode-num>
+    <desc>Sail GP San Francisco 2023 International Highlights</desc>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/SailGPLandscape.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260105051028 +0000" stop="20260105055104 +0000">
+    <title>Sail GP</title>
+    <sub-title>Sail GP</sub-title>
+    <episode-num system="onscreen">S03E10</episode-num>
+    <desc>Sail GP Singapore 2023 International Highlights</desc>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/SailGPLandscape.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260105055104 +0000" stop="20260105063200 +0000">
+    <title>Sail GP</title>
+    <sub-title>Sail GP</sub-title>
+    <episode-num system="onscreen">S03E11</episode-num>
+    <desc>Sail GP Sydney 2023 International Highlights</desc>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/SailGPLandscape.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260105063200 +0000" stop="20260105074705 +0000">
+    <title>Sail GP</title>
+    <sub-title>Sail GP</sub-title>
+    <episode-num system="onscreen">S04E08</episode-num>
+    <desc>Sail GP Sydney 2023 International Highlights</desc>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/SailGPLandscape.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260105074705 +0000" stop="20260105090154 +0000">
+    <title>Sail GP</title>
+    <sub-title>Sail GP</sub-title>
+    <episode-num system="onscreen">S04E09</episode-num>
+    <desc>Sail GP Christchurch 2023 International Highlights</desc>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/SailGPLandscape.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260105090154 +0000" stop="20260105100155 +0000">
+    <title>Redefined Podcast</title>
+    <sub-title>Redefined Podcast</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>From building Angel City FC to the Golden State Valkyries, Jess Smith has been at the forefront revolutionizing women's sports.</desc>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/RedefinedLandscape.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260105100155 +0000" stop="20260105110206 +0000">
     <title>Redefined Podcast</title>
     <sub-title>Redefined Podcast</sub-title>
     <episode-num system="onscreen">S01E04</episode-num>
@@ -21,86 +109,7 @@
     <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/RedefinedLandscape.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260104034924 +0000" stop="20260104054351 +0000">
-    <title>LOVB</title>
-    <sub-title>League One Volleyball</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>League One Volleyball - Madison v Austin</desc>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/LeagueOneVolleyballLandscape.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260104054351 +0000" stop="20260104083541 +0000">
-    <title>League One Volleyball</title>
-    <sub-title>League One Volleyball</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>League One Volleyball - Atlanta v Salt Lake</desc>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/LeagueOneVolleyballLandscape.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260104083541 +0000" stop="20260104110206 +0000">
-    <title>2025 Red Bull Rampage</title>
-    <category>Movie</category>
-    <desc>2025 Red Bull Rampage Women's Competetion</desc>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/WSNLivePortrait.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260104110206 +0000" stop="20260104123339 +0000">
-    <title>NWSL Soccer</title>
-    <sub-title>NWSL Teal Rising Cup</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Third Place (Palmeiras vs CHI)</desc>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/Default_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260104123339 +0000" stop="20260104143927 +0000">
-    <title>Athlete's Unimited Softball</title>
-    <sub-title>Athletes Unlimited Softball</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>AUSL Softball: Blaze v Talons</desc>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/AUSLLandscape.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260104143927 +0000" stop="20260104174149 +0000">
-    <title>LOVB</title>
-    <sub-title>League One Volleyball</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Weekend with LOVB - Madison v Atlanta</desc>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/Default_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260104174149 +0000" stop="20260104184700 +0000">
-    <title>GAME ON: Spotlight</title>
-    <sub-title>GAME ON: Spotlight</sub-title>
-    <episode-num system="onscreen">S01E21</episode-num>
-    <desc>GAME ON: Spotlight revisits their top interviews from the 2023 WNBA All Star Weekend, Presented by AT&amp;T</desc>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/GameOnSpotlightLandscape.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260104184700 +0000" stop="20260104194738 +0000">
-    <title>GAME ON: Spotlight</title>
-    <sub-title>GAME ON: Spotlight</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>GAME ON: Spotlight is a breakout studio show that celebrates women’s sports for the modern sports fan Ep 11</desc>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/GameOnSpotlightLandscape.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260104194738 +0000" stop="20260104201939 +0000">
-    <title>The World According to Sage</title>
-    <sub-title>Episode 4</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Sage takes us to North, South, and Central America, including Kelly Slater's Surf Ranch in California.</desc>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/WATSageLandscape.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260104201939 +0000" stop="20260104205139 +0000">
-    <title>The World According to Sage</title>
-    <sub-title>Episode 5</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Sage takes us to Keramas in Bali, G-Land in East Java, and Tahiti's Teahupo'o.</desc>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/WATSageLandscape.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260104205139 +0000" stop="20260104212414 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260105110206 +0000" stop="20260105113235 +0000">
     <title>The SoccerGirl Podcast</title>
     <sub-title>The Soccer Girl Podcast</sub-title>
     <episode-num system="onscreen">S01E05</episode-num>
@@ -108,28 +117,67 @@
     <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/SoccerGirlLandscape.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260104212414 +0000" stop="20260104222609 +0000">
-    <title>WSL Surfing</title>
-    <sub-title>2021 WSL Corona Open Mexico Presented by Quiksilver</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Cutdown of the 2021 Corona Open Mexico, featuring on-screen facts and interviews.</desc>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/WSLSFE0007.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260105113235 +0000" stop="20260105123442 +0000">
+    <title>Redefined Podcast</title>
+    <sub-title>Redefined Podcast</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>From building Angel City FC to the Golden State Valkyries, Jess Smith has been at the forefront revolutionizing women's sports.</desc>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/RedefinedLandscape.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260104222609 +0000" stop="20260104232805 +0000">
-    <title>WSL Surfing</title>
-    <sub-title>2021 Rip Curl WSL Finals</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Cutdown of the 2021 Rip Curl  Finals, featuring on-screen facts and interviews.</desc>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/WSLSFE0008.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260105123442 +0000" stop="20260105133808 +0000">
+    <title>GAME ON: Spotlight</title>
+    <sub-title>GAME ON: Spotlight</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>GAME ON: Spotlight is a breakout studio show that celebrates women’s sports for the modern sports fan Ep 12</desc>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/GameOnSpotlightLandscape.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260104232805 +0000" stop="20260105003001 +0000">
-    <title>WSL Surfing</title>
-    <sub-title>2022 WSL Billabong Pipe Pro</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Cutdown of the 2022 Billabong Pipe Pro, featuring on-screen facts and interviews.</desc>
-    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/WSLSFE0009.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260105133808 +0000" stop="20260105154214 +0000">
+    <title>Best of 2015 Solheim Cup</title>
+    <sub-title>Grip It and Rip It with Brittany Lincicome: 2015 Solheim Cup</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>American LPGA golfer Brittany Lincicome has competed for the United States in six Solheim Cups. In this "Grip It and Rip It" episode, Lincicome discusses with Host Chantel McCabe her memories of the action from the 2015 Solheim Cup.</desc>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/LPGAGolfLandscape.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260105154214 +0000" stop="20260105183258 +0000">
+    <title>Northwoods League Softball</title>
+    <sub-title>Northwoods League Softball</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>6-19-24 - Minot Honeybees V La Crosse Steam</desc>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/NorthwoodsLandscape.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260105183258 +0000" stop="20260105193457 +0000">
+    <title>Redefined Podcast</title>
+    <sub-title>Redefined Podcast</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Two-time World Cup champ Ali Krieger talks motherhood, building her brand, and investing in women’s sports.</desc>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/RedefinedLandscape.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260105193457 +0000" stop="20260105211041 +0000">
+    <title>NWSL Soccer</title>
+    <sub-title>NWSL Teal Rising Cup</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Championship (KC vs Corinthians)</desc>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/Default_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260105211041 +0000" stop="20260105232419 +0000">
+    <title>Pac-12 Insider</title>
+    <sub-title>Gymnastics</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>2022 Pac-12 Championships Session 1</desc>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/Pac12Landscape.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" start="20260105232419 +0000" stop="20260106013539 +0000">
+    <title>Northwoods Softball</title>
+    <category>Movie</category>
+    <desc>Wausau Ignite v Mankato Habaneros</desc>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/WSNLivePortrait.png" />
   </programme>
 
 </tv>

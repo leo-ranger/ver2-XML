@@ -5,94 +5,141 @@
     <icon src="https://provider-static.plex.tv/a/epg/channels/logos/gracenote/ac0e90e4853f26cfbcfd401790e7ab28.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20260103230000 +0000" stop="20260104010000 +0000">
-    <title>Bare Knuckle Fighting Championship</title>
-    <sub-title>BKFC Fight Night: Philly</sub-title>
-    <episode-num system="onscreen">S01E103</episode-num>
-    <desc>Dustin Pague vs. Andrew Angelcor, welterweight; Anthony Pagan vs. Colin Reeser, lightweight. From 2300 Arena in Philadelphia.</desc>
-    <date>20250321</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20260104010000 +0000" stop="20260104030000 +0000">
-    <title>Bare Knuckle Fighting Championship</title>
-    <sub-title>BKFC Fight Night: Manchester</sub-title>
-    <episode-num system="onscreen">S01E109</episode-num>
-    <desc>Featuring a massive 13-fight card from the fighting city of Manchester.</desc>
-    <date>20250329</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20260104030000 +0000" stop="20260104050000 +0000">
-    <title>Bare Knuckle Fighting Championship</title>
-    <sub-title>BKFC 71: Dubai</sub-title>
-    <episode-num system="onscreen">S01E110</episode-num>
-    <desc>Featuring Austin Trout vs. Trinidad-Snake for the welterweight championship live from Dubai!</desc>
-    <date>20250404</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20260104050000 +0000" stop="20260104070000 +0000">
-    <title>Bare Knuckle Fighting Championship</title>
-    <sub-title>BKFC 72: Dubai</sub-title>
-    <episode-num system="onscreen">S01E111</episode-num>
-    <desc>Featuring Stewart vs. Strydom for the featherweight championship live from Dubai!</desc>
-    <date>20250405</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20260104070000 +0000" stop="20260104090000 +0000">
-    <title>Bare Knuckle Fighting Championship</title>
-    <sub-title>BKFC Fight Night: Omaha II</sub-title>
-    <episode-num system="onscreen">S01E112</episode-num>
-    <desc>Featuring Cochrane vs. Edwards along with eight more huge fights!</desc>
-    <date>20250418</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20260104090000 +0000" stop="20260104110000 +0000">
-    <title>Bare Knuckle Fighting Championship</title>
-    <sub-title>BKFC Fight Night: Clearwater II</sub-title>
-    <episode-num system="onscreen">S01E114</episode-num>
-    <desc>Featuring Warren vs. Creer and nine more huge fights from Clearwater, Florida!</desc>
-    <date>20250502</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20260104110000 +0000" stop="20260104140000 +0000">
-    <title>Bellator MMA</title>
-    <sub-title>296: Mousasi vs. Edwards</sub-title>
-    <episode-num system="onscreen">S2023E15</episode-num>
-    <desc>Gegard Mousasi vs. Fabian Edwards, middleweight bout; Brent Primus vs. Mansour Barnaoui, lightweight world grand prix bout. From Accor Arena in Paris.</desc>
-    <date>20230512</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d1c77bd7c5812504e09f8d324db676e3.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20260104140000 +0000" stop="20260104170000 +0000">
-    <title>Bellator MMA</title>
-    <sub-title>297: Nemkov vs. Romero</sub-title>
-    <episode-num system="onscreen">S2023E28</episode-num>
-    <desc>Vadim Nemkov vs. Yoel Romero, light heavyweight championship bout; Sergio Pettis vs. Patricio Pitbull, bantamweight championship bout. From Wintrust Arena in Chicago.</desc>
-    <date>20230616</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20260104170000 +0000" stop="20260104193000 +0000">
-    <title>Bellator MMA</title>
-    <sub-title>298: Storley vs. Ward</sub-title>
-    <episode-num system="onscreen">S2023E63</episode-num>
-    <desc>Logan Storley vs. Brennan Ward, welterweight bout; Valentin Moldavsky vs. Steve Mowry, heavyweight bout; Dalton Rosta vs. Aaron Jeffery, middleweight bout; Sidney Outlaw vs. Islam Mamedov, lightweight bout. From Aug. 11, 2023 in Sioux Falls, S.D.</desc>
-    <date>20230920</date>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/2f9479d5784eba4dfa97e4793abd1085.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20260104193000 +0000" stop="20260104220000 +0000">
-    <title>Bellator MMA</title>
-    <sub-title>299: Eblen vs. Edwards</sub-title>
-    <episode-num system="onscreen">S2023E84</episode-num>
-    <desc>Johnny Eblen vs. Fabian Edwards, middleweight championship bout; Aaron Pico vs. Pedro Carvalho, featherweights; Mads Burnell vs. Daniel Weichel, featherweights. From Sept. 23, 2023 in Dublin.</desc>
-    <date>20231030</date>
-  </programme>
-  
 <programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20260104220000 +0000" stop="20260105003000 +0000">
     <title>Bellator MMA</title>
     <sub-title>300: Nurmagomedov vs. Primus</sub-title>
     <episode-num system="onscreen">S2023E85</episode-num>
     <desc>Usman Nurmagomedov battles Brent Primus in a lightweight championship bout. From Oct. 7, 2023 at Pechanga Arena in San Diego.</desc>
     <date>20231110</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20260105003000 +0000" stop="20260105023000 +0000">
+    <title>Bellator MMA</title>
+    <sub-title>301: Amosov vs. Jackson</sub-title>
+    <desc>Yaroslav Amosov vs. Jason Jackson, welterweight title bout. From Nov. 17, 2023 at Wintrust Arena in Chicago.</desc>
+    <date>20250513</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/609c74e173bb03b31f5fb4f3fa11c3ec.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20260105023000 +0000" stop="20260105043000 +0000">
+    <title>Bellator MMA</title>
+    <sub-title>Bellator 262: Tyrrell Fortune vs Matt Mitrione</sub-title>
+    <episode-num system="onscreen">S2021E44</episode-num>
+    <desc>Classic mixed martial arts action from Bellator.</desc>
+    <date>20210720</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20260105043000 +0000" stop="20260105063000 +0000">
+    <title>Bellator MMA</title>
+    <sub-title>Bellator 263: Pitbull vs. McKee</sub-title>
+    <episode-num system="onscreen">S2021E78</episode-num>
+    <desc>Patricio Pitbull meets undefeated phenom AJ "Mercenary" McKee in the main event. From July 31, 2021.</desc>
+    <date>20210903</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/02cd3c16e494f63859916e70cbcc6b90.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20260105063000 +0000" stop="20260105083000 +0000">
+    <title>Bellator MMA</title>
+    <sub-title>Bellator 264: Mousasi vs. Salter</sub-title>
+    <episode-num system="onscreen">S2021E82</episode-num>
+    <desc>Bellator middleweight world champion Gegard Mousasi defends his title against John Salter. From Mohegan Sun Arena in Uncasville, Conn., Aug. 13, 2021.</desc>
+    <date>20210922</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e605c95404815381d3b2f4e970c9d4c1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20260105083000 +0000" stop="20260105100000 +0000">
+    <title>Bellator MMA</title>
+    <sub-title>Bellator 265: Kongo vs. Kharitonov</sub-title>
+    <episode-num system="onscreen">S2021E83</episode-num>
+    <desc>Cheick Kongo takes on Sergei Kharitonov in the main event from Sioux Falls, S.D., Aug. 8, 2021.</desc>
+    <date>20210929</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f6f62c2516edfb9d5edf15977007b302.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20260105100000 +0000" stop="20260105110000 +0000">
+    <title>Bellator Champions Series</title>
+    <sub-title>San Diego</sub-title>
+    <desc>Coverage of classic Bellator events, staged in cities across the world.</desc>
+    <date>20240908</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20260105110000 +0000" stop="20260105123000 +0000">
+    <title>PBR: Unleash the Beast</title>
+    <sub-title>UTB 2025 Albuquerque Day 1</sub-title>
+    <episode-num system="onscreen">S2025E27</episode-num>
+    <desc>Round 1 of the 2025 Unleash the Beast PBR Ty Murray Invitational.</desc>
+    <date>20250329</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20260105123000 +0000" stop="20260105150000 +0000">
+    <title>PBR: Unleash the Beast</title>
+    <sub-title>UTB 2025 Albuquerque Day 3</sub-title>
+    <episode-num system="onscreen">S2025E28</episode-num>
+    <desc>Round 3 and Championship Round of the 2025 Unleash the Beast PBR Ty Murray Invitational.</desc>
+    <date>20250330</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20260105150000 +0000" stop="20260105160000 +0000">
+    <title>PBR: Unleash the Beast</title>
+    <sub-title>UTB 2025 Chicago - Monster Energy Teams Challenge</sub-title>
+    <episode-num system="onscreen">S2025E06</episode-num>
+    <desc>Top bull riders take on bucking bulls for a shot at championship gold.</desc>
+    <date>20250113</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20260105160000 +0000" stop="20260105190000 +0000">
+    <title>ProBox TV Contender Series</title>
+    <sub-title>Yoshida vs Metcalf</sub-title>
+    <desc>Main Event: Miyo 'Musashi' Yoshida (17-4 -0 0 KO's) vs Shurretta 'Chiccn' Metcalf (13-4 -1 2 KO's) Co-Main Event: Marvelous Mykquan Williams (21-0 -2 10 KO's) vs Lavisas 'Red' Williams (10-1 -1 3 KO's)</desc>
+    <date>20241023</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20260105190000 +0000" stop="20260105200000 +0000">
+    <title>BKFC: Knuckle Up</title>
+    <sub-title>Erick Lozano vs Mike Jones &amp; More</sub-title>
+    <episode-num system="onscreen">S08E04</episode-num>
+    <desc>We open with Danny Hilton vs LJ Schulz, Trever Bradshaw vs Troy Dennison, Esteban Rodriguez vs Keegan Vandermeer and finishes off with an epic battle between Erick Lozano vs Mike Jones.</desc>
+    <date>20240422</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20260105200000 +0000" stop="20260105210000 +0000">
+    <title>BKFC: Knuckle Up</title>
+    <sub-title>Donald Sanchez vs Noah Cutter &amp; More</sub-title>
+    <episode-num system="onscreen">S08E05</episode-num>
+    <desc>The best of bare knuckle fighting featuring Will Albrecht vs Freddy Sandoval, crowd thriller Eric Dodson vs Dakota Highpine, and finshes off with Donald Sanchez vs Noah Cutter.</desc>
+    <date>20240429</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20260105210000 +0000" stop="20260105220000 +0000">
+    <title>BKFC: Knuckle Up</title>
+    <sub-title>Ismail Israilov vs Don Mohammed &amp; More</sub-title>
+    <episode-num system="onscreen">S08E06</episode-num>
+    <desc>A collection of battles featuring Felipe Chavez vs. Michael Manno, Karla Alvarez vs. Brittany Horton, Juan Adams vs. Matt Adams and rounds out the hour with Ismail Israilov taking on Don Mohammed.</desc>
+    <date>20240506</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20260105220000 +0000" stop="20260105230000 +0000">
+    <title>BKFC: Knuckle Up</title>
+    <sub-title>Austin Trout vs Luis Palomino &amp; More</sub-title>
+    <episode-num system="onscreen">S08E07</episode-num>
+    <desc>Bryan Duran battles Louie Lopez, followed by Bryce Henry vs Robbie Peralta and wraps up with a fight between Austin Trout and Luis Palomino.</desc>
+    <date>20240513</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20260105230000 +0000" stop="20260106000000 +0000">
+    <title>BKFC: Knuckle Up</title>
+    <sub-title>Jomi Escoboza vs Isaac Doolittle &amp; More</sub-title>
+    <episode-num system="onscreen">S08E08</episode-num>
+    <desc>An exciting bare knuckle fight between Justin Ibarrola vs Landon Williams opens up the show followed by Leonardo Perdomo vs Bobby Brents, Alberto Blas vs Daniel Alvarez, and Jomi Escoboza challenges Isaac Doolittle.</desc>
+    <date>20240520</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" start="20260106000000 +0000" stop="20260106010000 +0000">
+    <title>BKFC: Knuckle Up</title>
+    <sub-title>Edgard Plazoala vs Darrick Gates &amp; More</sub-title>
+    <episode-num system="onscreen">S08E09</episode-num>
+    <desc>Featuring Ryan Reber vs Derek Perez, Chris Garcia trades hands with Albert Inclan, and Edgard Plazoala battles challenger Darrick Gates.</desc>
+    <date>20240527</date>
   </programme>
   
 </tv>
