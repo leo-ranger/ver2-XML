@@ -5,7 +5,16 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/22f0bb47-b71f-4d58-baf8-c8edaf4ef800/Golazo_colorRDX.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260107230000 +0000" stop="20260108000000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260109010000 +0000" stop="20260109030000 +0000">
+    <title>AC Milan vs. Genoa</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>From Giuseppe Meazza Stadium in Milan, Lombardy, Italy.</desc>
+    <date>20260108</date>
+    <icon src="https://images.pluto.tv/episodes/695d0efe262748e858ec63ed/screenshot16_9_1767788151962.jpg?fm=jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260109030000 +0000" stop="20260109040000 +0000">
     <title>Scoreline: Soccer Highlights &amp; Analysis</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -14,7 +23,16 @@
     <icon src="https://images.pluto.tv/episodes/670437f7e87eac0013a562c6/screenshot16_9.jpg?fm=jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260108000000 +0000" stop="20260108010000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260109040000 +0000" stop="20260109050000 +0000">
+    <title>Attacking Third</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>A studio show dedicated exclusively to comprehensive coverage of the top domestic and international women's soccer competitions.</desc>
+    <date>20230328</date>
+    <icon src="https://images.pluto.tv/episodes/670437f8e87eac0013a56bc4/screenshot16_9.jpg?fm=jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260109050000 +0000" stop="20260109060000 +0000">
     <title>Scoreline: Soccer Highlights &amp; Analysis</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -23,52 +41,16 @@
     <icon src="https://images.pluto.tv/episodes/670437f7e87eac0013a562c6/screenshot16_9.jpg?fm=jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260108010000 +0000" stop="20260108030000 +0000">
-    <title>Parma vs. Internazionale</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>From Ennio Tardini Stadium in Parma, Parma, Italy.</desc>
-    <date>20260107</date>
-    <icon src="https://images.pluto.tv/episodes/69581dcabd4e7744e71c6d77/screenshot16_9_1767382476492.jpg?fm=jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260108030000 +0000" stop="20260108040000 +0000">
-    <title>Scoreline: Soccer Highlights &amp; Analysis</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The biggest news impacting global football, and match highlights.</desc>
-    <date>20230921</date>
-    <icon src="https://images.pluto.tv/episodes/670437f7e87eac0013a562c6/screenshot16_9.jpg?fm=jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260108040000 +0000" stop="20260108050000 +0000">
-    <title>Scoreline: Soccer Highlights &amp; Analysis</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The biggest news impacting global football, and match highlights.</desc>
-    <date>20230921</date>
-    <icon src="https://images.pluto.tv/episodes/670437f7e87eac0013a562c6/screenshot16_9.jpg?fm=jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260108050000 +0000" stop="20260108060000 +0000">
-    <title>Scoreline: Soccer Highlights &amp; Analysis</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The biggest news impacting global football, and match highlights.</desc>
-    <date>20230921</date>
-    <icon src="https://images.pluto.tv/episodes/670437f7e87eac0013a562c6/screenshot16_9.jpg?fm=jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260108060000 +0000" stop="20260108070000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260109060000 +0000" stop="20260109070000 +0000">
     <title>90 in 60</title>
-    <sub-title>Serie A - Parma vs. Inter</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
+    <sub-title>Serie A - Milan vs. Genoa</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
     <desc>Best of the football match in 60 minutes.</desc>
-    <date>20260107</date>
-    <icon src="https://images.pluto.tv/episodes/69581dcabd4e7744e71c6d9e/screenshot16_9_1767382476403.jpg?fm=jpg" />
+    <date>20260108</date>
+    <icon src="https://images.pluto.tv/episodes/695d0eff262748e858ec6424/screenshot16_9_1767760475226.jpg?fm=jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260108070000 +0000" stop="20260108080000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260109070000 +0000" stop="20260109080000 +0000">
     <title>Scoreline: Soccer Highlights &amp; Analysis</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -77,16 +59,16 @@
     <icon src="https://images.pluto.tv/episodes/670437f7e87eac0013a562c6/screenshot16_9.jpg?fm=jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260108080000 +0000" stop="20260108090000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260109080000 +0000" stop="20260109090000 +0000">
     <title>90 in 60</title>
-    <sub-title>Serie A - Parma vs. Inter</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
+    <sub-title>Serie A - Milan vs. Genoa</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
     <desc>Best of the football match in 60 minutes.</desc>
-    <date>20260107</date>
-    <icon src="https://images.pluto.tv/episodes/69581dcabd4e7744e71c6d9e/screenshot16_9_1767382476403.jpg?fm=jpg" />
+    <date>20260108</date>
+    <icon src="https://images.pluto.tv/episodes/695d0eff262748e858ec6424/screenshot16_9_1767760475226.jpg?fm=jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260108090000 +0000" stop="20260108100000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260109090000 +0000" stop="20260109100000 +0000">
     <title>Scoreline: Soccer Highlights &amp; Analysis</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -95,16 +77,16 @@
     <icon src="https://images.pluto.tv/episodes/670437f7e87eac0013a562c6/screenshot16_9.jpg?fm=jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260108100000 +0000" stop="20260108110000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260109100000 +0000" stop="20260109110000 +0000">
     <title>90 in 60</title>
-    <sub-title>Serie A - Parma vs. Inter</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
+    <sub-title>Serie A - Milan vs. Genoa</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
     <desc>Best of the football match in 60 minutes.</desc>
-    <date>20260107</date>
-    <icon src="https://images.pluto.tv/episodes/69581dcabd4e7744e71c6d9e/screenshot16_9_1767382476403.jpg?fm=jpg" />
+    <date>20260108</date>
+    <icon src="https://images.pluto.tv/episodes/695d0eff262748e858ec6424/screenshot16_9_1767760475226.jpg?fm=jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260108110000 +0000" stop="20260108120000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260109110000 +0000" stop="20260109120000 +0000">
     <title>Scoreline: Soccer Highlights &amp; Analysis</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -113,16 +95,16 @@
     <icon src="https://images.pluto.tv/episodes/670437f7e87eac0013a562c6/screenshot16_9.jpg?fm=jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260108120000 +0000" stop="20260108130000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260109120000 +0000" stop="20260109130000 +0000">
     <title>90 in 60</title>
-    <sub-title>Serie A - Parma vs. Inter</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
+    <sub-title>Serie A - Milan vs. Genoa</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
     <desc>Best of the football match in 60 minutes.</desc>
-    <date>20260107</date>
-    <icon src="https://images.pluto.tv/episodes/69581dcabd4e7744e71c6d9e/screenshot16_9_1767382476403.jpg?fm=jpg" />
+    <date>20260108</date>
+    <icon src="https://images.pluto.tv/episodes/695d0eff262748e858ec6424/screenshot16_9_1767760475226.jpg?fm=jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260108130000 +0000" stop="20260108150000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260109130000 +0000" stop="20260109150000 +0000">
     <title>Morning Footy</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -131,7 +113,7 @@
     <icon src="https://images.pluto.tv/episodes/670437f7e87eac0013a56327/screenshot16_9.jpg?fm=jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260108150000 +0000" stop="20260108170000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260109150000 +0000" stop="20260109170000 +0000">
     <title>Morning Footy</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -140,67 +122,67 @@
     <icon src="https://images.pluto.tv/episodes/670437f7e87eac0013a56327/screenshot16_9.jpg?fm=jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260108170000 +0000" stop="20260108173000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260109170000 +0000" stop="20260109190000 +0000">
+    <title>Morning Footy</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Kick off your day with our daily morning soccer show, bringing you the latest news from across the globe, match highlights, interviews and more.</desc>
+    <date>20230710</date>
+    <icon src="https://images.pluto.tv/episodes/670437f7e87eac0013a56327/screenshot16_9.jpg?fm=jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260109190000 +0000" stop="20260109194500 +0000">
     <title>Best of Morning Footy</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
     <desc>CBS SPORTS GOLAZO NETWORK is a first-of-its-kind free, 24-hour channel in the U.S.dedicated exclusively to global soccer coverage. CBS SPORTS GOLAZO NETWORK, with its unparalleled coverage of all the top domestic and international soccer competitions across the globe, is the ultimate year-round streaming destination for soccer fans. CBS SPORTS GOLAZO NETWORK is anchored weekdays from 7:00-9:00 AM, ET, by - MORNING FOOTY, the Network’s flagship morning show. Every weekday, MORNING FOOTY host Susannah Collins along with former U.S. Men’s National Team player Charlie Davies, analyst Nico Cantor and comedian Alexis Guerreros bring their unique voices and fresh perspectives to the latest news and storylines impacting soccer worldwide. As soccer’s new staple show for fans everywhere, MORNING FOOTY delivers a daily dose of razor-sharp insights and laughs with match highlights, compelling analysis, entertaining interviews, updates - from reporter Jenny Chiu and more that is sure to help kick off your day. In addition, the Network will feature live matches, pre- and post-match breakdowns, magazine shows, films from Paramount+’s STORIES FROM THE BEAUTIFUL GAME soccer documentary collection and original programming. The Network’s live matches and re-airs utilize CBS Sports’ collection of top-tier soccer properties, including UEFA club competitions, Serie A, NWSL, Concacaf national team competitions, Barclays Women’s Super League, Campeonato Brasileirão Série A, Scottish Professional Football League, Argentina Liga Profesional de Fútbol and the AFC Champions League, among others. Watch CBS SPORTS GOLAZO NETWORK 24 hours a day, 7 days a week and all 365 days a year.</desc>
     <date>20240610</date>
-    <icon src="https://images.pluto.tv/episodes/670677a17dcabd001322a871/screenshot16_9.jpg?fm=jpg" />
+    <icon src="https://images.pluto.tv/episodes/6762d5e9e408bb00135d6c17/screenshot16_9.jpg?fm=jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260108173000 +0000" stop="20260108193000 +0000">
-    <title>Cremonese vs. Cagliari</title>
+<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260109194500 +0000" stop="20260109220000 +0000">
+    <title>Ross County vs. Partick Thistle</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>From Giovanni Zini Stadium in Cremona, Lombardy, Italy.</desc>
-    <date>20260107</date>
-    <icon src="https://plut.tmsimg.com/assets/GNLZZGG002CE8NG.jpg?w=960?fm=jpg" />
+    <desc>From Global Energy Stadium in Dingwall, Highland, United Kingdom.</desc>
+    <date>20260108</date>
+    <icon src="https://images.pluto.tv/episodes/695d0eff262748e858ec6480/screenshot16_9_1767760785872.jpg?fm=jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260108193000 +0000" stop="20260108200000 +0000">
-    <title>Best of Morning Footy</title>
+<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260109220000 +0000" stop="20260109230000 +0000">
+    <title>Scoreline: Soccer Highlights &amp; Analysis</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>CBS SPORTS GOLAZO NETWORK is a first-of-its-kind free, 24-hour channel in the U.S.dedicated exclusively to global soccer coverage. CBS SPORTS GOLAZO NETWORK, with its unparalleled coverage of all the top domestic and international soccer competitions across the globe, is the ultimate year-round streaming destination for soccer fans. CBS SPORTS GOLAZO NETWORK is anchored weekdays from 7:00-9:00 AM, ET, by - MORNING FOOTY, the Network’s flagship morning show. Every weekday, MORNING FOOTY host Susannah Collins along with former U.S. Men’s National Team player Charlie Davies, analyst Nico Cantor and comedian Alexis Guerreros bring their unique voices and fresh perspectives to the latest news and storylines impacting soccer worldwide. As soccer’s new staple show for fans everywhere, MORNING FOOTY delivers a daily dose of razor-sharp insights and laughs with match highlights, compelling analysis, entertaining interviews, updates - from reporter Jenny Chiu and more that is sure to help kick off your day. In addition, the Network will feature live matches, pre- and post-match breakdowns, magazine shows, films from Paramount+’s STORIES FROM THE BEAUTIFUL GAME soccer documentary collection and original programming. The Network’s live matches and re-airs utilize CBS Sports’ collection of top-tier soccer properties, including UEFA club competitions, Serie A, NWSL, Concacaf national team competitions, Barclays Women’s Super League, Campeonato Brasileirão Série A, Scottish Professional Football League, Argentina Liga Profesional de Fútbol and the AFC Champions League, among others. Watch CBS SPORTS GOLAZO NETWORK 24 hours a day, 7 days a week and all 365 days a year.</desc>
-    <date>20240610</date>
-    <icon src="https://images.pluto.tv/episodes/670677a17dcabd001322a871/screenshot16_9.jpg?fm=jpg" />
+    <desc>The biggest news impacting global football, and match highlights.</desc>
+    <date>20230921</date>
+    <icon src="https://images.pluto.tv/episodes/670437f7e87eac0013a562c6/screenshot16_9.jpg?fm=jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260108200000 +0000" stop="20260108210000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260109230000 +0000" stop="20260110000000 +0000">
+    <title>Scoreline: Soccer Highlights &amp; Analysis</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>The biggest news impacting global football, and match highlights.</desc>
+    <date>20230921</date>
+    <icon src="https://images.pluto.tv/episodes/670437f7e87eac0013a562c6/screenshot16_9.jpg?fm=jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260110000000 +0000" stop="20260110010000 +0000">
+    <title>Scoreline: Soccer Highlights &amp; Analysis</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>The biggest news impacting global football, and match highlights.</desc>
+    <date>20230921</date>
+    <icon src="https://images.pluto.tv/episodes/670437f7e87eac0013a562c6/screenshot16_9.jpg?fm=jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260110010000 +0000" stop="20260110020000 +0000">
     <title>90 in 60</title>
     <sub-title>Serie A - Sassuolo vs. Juventus</sub-title>
     <episode-num system="onscreen">S01E05</episode-num>
     <desc>Best of the football match in 60 minutes.</desc>
     <date>20260106</date>
     <icon src="https://images.pluto.tv/episodes/6957de20a7396485f8932283/screenshot16_9_1767366179031.jpg?fm=jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260108210000 +0000" stop="20260108220000 +0000">
-    <title>90 in 60</title>
-    <sub-title>Serie A - Parma vs. Inter</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Best of the football match in 60 minutes.</desc>
-    <date>20260107</date>
-    <icon src="https://images.pluto.tv/episodes/69581dcabd4e7744e71c6d9e/screenshot16_9_1767382476403.jpg?fm=jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260108220000 +0000" stop="20260108230000 +0000">
-    <title>Scoreline: Soccer Highlights &amp; Analysis</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The biggest news impacting global football, and match highlights.</desc>
-    <date>20230921</date>
-    <icon src="https://images.pluto.tv/episodes/670437f7e87eac0013a562c6/screenshot16_9.jpg?fm=jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" start="20260108230000 +0000" stop="20260109000000 +0000">
-    <title>Scoreline: Soccer Highlights &amp; Analysis</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The biggest news impacting global football, and match highlights.</desc>
-    <date>20230921</date>
-    <icon src="https://images.pluto.tv/episodes/670437f7e87eac0013a562c6/screenshot16_9.jpg?fm=jpg" />
   </programme>
   
 </tv>
