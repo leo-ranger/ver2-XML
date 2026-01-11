@@ -5,79 +5,232 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/628a1ec4-3547-46b1-ac1b-5efe28d38088/DungeonsAndDragonsAdventures_Logo_1500x1000_-_RSD.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260109233003 +0000" stop="20260110020710 +0000">
-    <title>DesiQuest</title>
-    <sub-title>The Thick of It</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>At Crooked Sun Fort, the heroes face dark visions and battle a haunted ally.</desc>
-    <date>20240109</date>
-    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DesiQuest_s01_artwork_Background.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260110020710 +0000" stop="20260110030445 +0000">
-    <title>Heroes' Feast</title>
-    <sub-title>Vegan</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Sujata and Chef Mike are joined by Khary Payton to make Surrogate Steaks.</desc>
-    <date>20231218</date>
-    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Heroes_Feast_s01_hero_art_16x9_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260110030445 +0000" stop="20260110040320 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260111010003 +0000" stop="20260111020003 +0000">
     <title>Encounter Party</title>
-    <sub-title>Dinner with a Covert Captain</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Fearing for the Captain's safety, the players force their way into her cabin.</desc>
-    <date>20231128</date>
+    <sub-title>And Then There Were Five</sub-title>
+    <episode-num system="onscreen">S01E22</episode-num>
+    <desc>The battle with Almori grows deadly as he turns the raging lightning storm against the party.</desc>
+    <date>20240204</date>
     <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Encounter_Party_s01_hero_art_16x9_1920x1080.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260110040320 +0000" stop="20260110050157 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260111020003 +0000" stop="20260111030003 +0000">
+    <title>Heroes' Feast</title>
+    <sub-title>Pub Night</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Chef Mike and Sujata are joined by Matthew Lillard to make Miner's Pie.</desc>
+    <date>20231113</date>
+    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Heroes_Feast_s01_hero_art_16x9_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260111030003 +0000" stop="20260111040003 +0000">
+    <title>Heroes' Feast</title>
+    <sub-title>Second Morning Feast</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Sujata and Chef Mike are joined by Kelen Coleman and Omega Jones to make Stuffed Egg-Battered Toast.</desc>
+    <date>20231113</date>
+    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Heroes_Feast_s01_hero_art_16x9_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260111040003 +0000" stop="20260111050003 +0000">
     <title>Faster, Purple Worm! Kill! Kill!</title>
-    <sub-title>Everyone Dies on a Lightning Train</sub-title>
+    <sub-title>Everyone Dies at the Costume Ball</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Four undercover agents must unmask the traitor in their midst.</desc>
+    <date>20240401</date>
+    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Faster_Purple_Worm_Kill_Kill_s01_hero_art_16x9_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260111050003 +0000" stop="20260111060003 +0000">
+    <title>Faster, Purple Worm! Kill! Kill!</title>
+    <sub-title>Everyone Dies as a Surprise</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Four heroes set out to save a beautiful princess. Will their story have a fairy tale ending?</desc>
+    <date>20241101</date>
+    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Faster_Purple_Worm_Kill_Kill_s01_hero_art_16x9_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260111060003 +0000" stop="20260111070003 +0000">
+    <title>Encounter Party</title>
+    <sub-title>Murder on Deck 2</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>When one of the crew is found murdered, suspicions fly on a manifest full of motives.</desc>
+    <date>20231114</date>
+    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Encounter_Party_s01_hero_art_16x9_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260111070003 +0000" stop="20260111080003 +0000">
+    <title>Encounter Party</title>
+    <sub-title>The Very Private Passenger</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Four brave mercenaries must free the only person who can prevent a war. Will they succeed?</desc>
-    <date>20231123</date>
-    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Faster_Purple_Worm_Kill_Kill_s01_hero_art_16x9_1920x1080.jpg" />
+    <desc>One passenger is missing. One is locked away. One is under guard. None may be acting alone.</desc>
+    <date>20231121</date>
+    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Encounter_Party_s01_hero_art_16x9_1920x1080.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260110050157 +0000" stop="20260110060033 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260111080003 +0000" stop="20260111090003 +0000">
+    <title>Heroes' Feast</title>
+    <sub-title>Game Night</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Sujata and Chef Mike are joined by Danielle Perez and Gina Darling to make Delzoun "Tide-Me-Overs".</desc>
+    <date>20230412</date>
+    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Heroes_Feast_s01_hero_art_16x9_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260111090003 +0000" stop="20260111100003 +0000">
+    <title>Heroes' Feast</title>
+    <sub-title>Food Magic</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Chef Mike and Sujata are joined by Clare Grant and Noura Ibrahim to make Black Pudding.</desc>
+    <date>20231112</date>
+    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Heroes_Feast_s01_hero_art_16x9_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260111100003 +0000" stop="20260111110003 +0000">
     <title>Faster, Purple Worm! Kill! Kill!</title>
-    <sub-title>Everyone Dies Renovating</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Four new homeowners discover a prior tenant who won't leave.</desc>
-    <date>20231130</date>
+    <sub-title>Everyone Dies in a Haunted House</sub-title>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <desc>Four ghost-hunting heroes explore a haunted house. Can the brave of heart overcome the evil undead?</desc>
+    <date>20240215</date>
     <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Faster_Purple_Worm_Kill_Kill_s01_hero_art_16x9_1920x1080.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260110060033 +0000" stop="20260110081352 +0000">
-    <title>Rivals of Waterdeep</title>
-    <sub-title>Futureproof</sub-title>
-    <episode-num system="onscreen">S04E09</episode-num>
-    <desc>Portals, lots of portals. Lief, lots of Lief. A tree, lots of tree. A tea party, lots of tea.</desc>
-    <date>20180618</date>
-    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Rivals_Of_Waterdeep_hero_art_16x9_1920x1080.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260111110003 +0000" stop="20260111120003 +0000">
+    <title>Encounter Party</title>
+    <sub-title>Murder on Deck 2</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>When one of the crew is found murdered, suspicions fly on a manifest full of motives.</desc>
+    <date>20231114</date>
+    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Encounter_Party_s01_hero_art_16x9_1920x1080.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260110081352 +0000" stop="20260110101819 +0000">
-    <title>Rivals of Waterdeep</title>
-    <sub-title>Golden &amp; Green</sub-title>
-    <episode-num system="onscreen">S04E10</episode-num>
-    <desc>The big bad is revealed and the party fights to save a captive family.</desc>
-    <date>20180618</date>
-    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Rivals_Of_Waterdeep_hero_art_16x9_1920x1080.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260111120003 +0000" stop="20260111130003 +0000">
+    <title>Heroes' Feast</title>
+    <sub-title>Soup and Salad</sub-title>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <desc>Chef Mike and Sujata are joined by Anjali Bhimani to make Everything Soup and Lluirwood Salad.</desc>
+    <date>20240502</date>
+    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Heroes_Feast_s01_hero_art_16x9_1920x1080.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260110101819 +0000" stop="20260110110003 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260111130003 +0000" stop="20260111140008 +0000">
+    <title>Faster, Purple Worm! Kill! Kill!</title>
+    <sub-title>Everyone Dies in Barovia</sub-title>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <desc>Four adventurers bent on revenge enter the mists of Barovia to confront Strahd von Zarovich.</desc>
+    <date>20240802</date>
+    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Faster_Purple_Worm_Kill_Kill_s01_hero_art_16x9_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260111140008 +0000" stop="20260111142408 +0000">
     <title>Dungeons &amp; Dragons</title>
-    <sub-title>The Lost Children</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>The team meets alien kids whose ship might take them home.</desc>
+    <sub-title>The Traitor</sub-title>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <desc>Hank and Bobby are captured by orcs.</desc>
     <date>19830917</date>
     <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_DungeonsAndDragons_1983_s01_hero_tv_series_16x9_1920x1080.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260110110003 +0000" stop="20260110120003 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260111142408 +0000" stop="20260111144808 +0000">
+    <title>Dungeons &amp; Dragons</title>
+    <sub-title>The Last Illusion</sub-title>
+    <episode-num system="onscreen">S01E19</episode-num>
+    <desc>Presto falls for, and must help, a girl who can cast powerfully realistic illusions.</desc>
+    <date>19830917</date>
+    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_DungeonsAndDragons_1983_s01_hero_tv_series_16x9_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260111144808 +0000" stop="20260111151208 +0000">
+    <title>Dungeons &amp; Dragons</title>
+    <sub-title>The Dragon's Graveyard</sub-title>
+    <episode-num system="onscreen">S01E20</episode-num>
+    <desc>Fed up with Venger's sabotage, the kids decide to take the fight to him and find their way home.</desc>
+    <date>19830917</date>
+    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_DungeonsAndDragons_1983_s01_hero_tv_series_16x9_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260111151208 +0000" stop="20260111153608 +0000">
+    <title>Dungeons &amp; Dragons</title>
+    <sub-title>Child of the Stargazer</sub-title>
+    <episode-num system="onscreen">S01E21</episode-num>
+    <desc>Turad's demon queen reigns, but prophecy says only a stargazer’s child can defeat her.</desc>
+    <date>19830917</date>
+    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_DungeonsAndDragons_1983_s01_hero_tv_series_16x9_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260111153608 +0000" stop="20260111160003 +0000">
+    <title>Dungeons &amp; Dragons</title>
+    <sub-title>Day of the Dungeon Master</sub-title>
+    <episode-num system="onscreen">S01E18</episode-num>
+    <desc>Dungeon Master gives all his powers to Eric to teach him a lesson.</desc>
+    <date>19830917</date>
+    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_DungeonsAndDragons_1983_s01_hero_tv_series_16x9_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260111160003 +0000" stop="20260111170003 +0000">
+    <title>Encounter Party</title>
+    <sub-title>Undercover Acolytes</sub-title>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <desc>The party is onboarded into The Future and gain a better understanding of the master plan at work.</desc>
+    <date>20240220</date>
+    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Encounter_Party_s01_hero_art_16x9_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260111170003 +0000" stop="20260111180003 +0000">
+    <title>Encounter Party</title>
+    <sub-title>Just a Small Town</sub-title>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <desc>A magic item awaits the party inside a small idyllic town where everything is a bit too perfect.</desc>
+    <date>20240227</date>
+    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Encounter_Party_s01_hero_art_16x9_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260111180003 +0000" stop="20260111190003 +0000">
+    <title>Heroes' Feast</title>
+    <sub-title>Grilling</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Sujata and Chef Mike are joined by Jared Logan to make Fire-Spiced Abyssal Chicken Kebabs.</desc>
+    <date>20240101</date>
+    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Heroes_Feast_s01_hero_art_16x9_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260111190003 +0000" stop="20260111200003 +0000">
+    <title>Heroes' Feast</title>
+    <sub-title>Travel Food</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Chef Mike and Sujata are joined by Aparna Nancherla to make Quith-Pa and Halfling Iron Rations.</desc>
+    <date>20240801</date>
+    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Heroes_Feast_s01_hero_art_16x9_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260111200003 +0000" stop="20260111210003 +0000">
+    <title>Faster, Purple Worm! Kill! Kill!</title>
+    <sub-title>Everyone Dies at the Costume Ball</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Four undercover agents must unmask the traitor in their midst.</desc>
+    <date>20240401</date>
+    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Faster_Purple_Worm_Kill_Kill_s01_hero_art_16x9_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260111210003 +0000" stop="20260111220003 +0000">
+    <title>Faster, Purple Worm! Kill! Kill!</title>
+    <sub-title>Everyone Dies as a Surprise</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Four heroes set out to save a beautiful princess. Will their story have a fairy tale ending?</desc>
+    <date>20241101</date>
+    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Faster_Purple_Worm_Kill_Kill_s01_hero_art_16x9_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260111220003 +0000" stop="20260112000003 +0000">
+    <title>DesiQuest</title>
+    <sub-title>Never Say Farewell</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>To free a goddess, the heroes must unite their powers and defeat Rookhan.</desc>
+    <date>20240326</date>
+    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DesiQuest_s01_artwork_Background.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260112000003 +0000" stop="20260112010003 +0000">
     <title>Encounter Party</title>
     <sub-title>And Then There Were Four</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -86,156 +239,12 @@
     <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Encounter_Party_s01_hero_art_16x9_1920x1080.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260110120003 +0000" stop="20260110130003 +0000">
-    <title>Heroes' Feast</title>
-    <sub-title>Beer-Fest!</sub-title>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <desc>Sujata Chef Mike are joined by Kurt &amp; Jonah to make Smoked Sausages and Kraut with Dwarven.</desc>
-    <date>20240129</date>
-    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Heroes_Feast_s01_hero_art_16x9_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260110130003 +0000" stop="20260110140008 +0000">
-    <title>Faster, Purple Worm! Kill! Kill!</title>
-    <sub-title>Everyone Dies at the Circus</sub-title>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <desc>To survive, the heroes must perform and escape a deadly circus.</desc>
-    <date>20240102</date>
-    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Faster_Purple_Worm_Kill_Kill_s01_hero_art_16x9_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260110140008 +0000" stop="20260110142408 +0000">
-    <title>Dungeons &amp; Dragons</title>
-    <sub-title>The Time Lost</sub-title>
-    <episode-num system="onscreen">S01E23</episode-num>
-    <desc>Venger uses a time portal to change Earth's history.</desc>
-    <date>19830917</date>
-    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_DungeonsAndDragons_1983_s01_hero_tv_series_16x9_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260110142408 +0000" stop="20260110144808 +0000">
-    <title>Dungeons &amp; Dragons</title>
-    <sub-title>Citadel of Shadow</sub-title>
-    <episode-num system="onscreen">S01E25</episode-num>
-    <desc>Sheila saves a girl named Karina from a magic trap, but Karina turns evil.</desc>
-    <date>19830917</date>
-    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_DungeonsAndDragons_1983_s01_hero_tv_series_16x9_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260110144808 +0000" stop="20260110151208 +0000">
-    <title>Dungeons &amp; Dragons</title>
-    <sub-title>The Winds of Darkness</sub-title>
-    <episode-num system="onscreen">S01E27</episode-num>
-    <desc>A terrifying creature called The Darkling has been kidnapping people for a thousand years.</desc>
-    <date>19830917</date>
-    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_DungeonsAndDragons_1983_s01_hero_tv_series_16x9_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260110151208 +0000" stop="20260110153608 +0000">
-    <title>Dungeons &amp; Dragons</title>
-    <sub-title>Odyssey of the Twelfth Talisman</sub-title>
-    <episode-num system="onscreen">S01E24</episode-num>
-    <desc>The kids meet Lorn - an orphan boy with a magic talisman - and invite him to join the team.</desc>
-    <date>19830917</date>
-    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_DungeonsAndDragons_1983_s01_hero_tv_series_16x9_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260110153608 +0000" stop="20260110160003 +0000">
-    <title>Dungeons &amp; Dragons</title>
-    <sub-title>Cave of the Fairie Dragons</sub-title>
-    <episode-num system="onscreen">S01E26</episode-num>
-    <desc>The kids encounter a race of tiny friendly dragons, who are being hunted by an evil king.</desc>
-    <date>19830917</date>
-    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_DungeonsAndDragons_1983_s01_hero_tv_series_16x9_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260110160003 +0000" stop="20260110170003 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260112010003 +0000" stop="20260112020003 +0000">
     <title>Encounter Party</title>
-    <sub-title>The Dinner Puzzle</sub-title>
-    <episode-num system="onscreen">S01E14</episode-num>
-    <desc>DM Brian leads the players through a fine dining puzzle.</desc>
-    <date>20240602</date>
-    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Encounter_Party_s01_hero_art_16x9_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260110170003 +0000" stop="20260110180003 +0000">
-    <title>Encounter Party</title>
-    <sub-title>A Public Display of Conviction</sub-title>
-    <episode-num system="onscreen">S01E15</episode-num>
-    <desc>An unexpected return to a popular tavern kicks off the party's plan to infiltrate The Future.</desc>
-    <date>20240213</date>
-    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Encounter_Party_s01_hero_art_16x9_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260110180003 +0000" stop="20260110190003 +0000">
-    <title>Heroes' Feast</title>
-    <sub-title>Vegan</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Sujata and Chef Mike are joined by Khary Payton to make Surrogate Steaks.</desc>
-    <date>20231218</date>
-    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Heroes_Feast_s01_hero_art_16x9_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260110190003 +0000" stop="20260110200003 +0000">
-    <title>Heroes' Feast</title>
-    <sub-title>Holiday!</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Chef Mike and Sujata are joined by Drew Droege to make Qualinesti Vegetable Stew.</desc>
-    <date>20231225</date>
-    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Heroes_Feast_s01_hero_art_16x9_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260110200003 +0000" stop="20260110210003 +0000">
-    <title>Faster, Purple Worm! Kill! Kill!</title>
-    <sub-title>Everyone Dies Stealing a Pickle</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Four heroes descend into the sewers to retrieve a magical artifact of great power.</desc>
-    <date>20231221</date>
-    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Faster_Purple_Worm_Kill_Kill_s01_hero_art_16x9_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260110210003 +0000" stop="20260110220003 +0000">
-    <title>Faster, Purple Worm! Kill! Kill!</title>
-    <sub-title>Everyone Dies in the Bay</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Our heroes are sent to a small fishing village to save the day.</desc>
-    <date>20231228</date>
-    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Faster_Purple_Worm_Kill_Kill_s01_hero_art_16x9_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260110220003 +0000" stop="20260110232939 +0000">
-    <title>DesiQuest</title>
-    <sub-title>A Heavy Heart</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>The party battles the Lord of Judgment in a desperate fight full of loss and healing.</desc>
-    <date>20240227</date>
-    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DesiQuest_s01_artwork_Background.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260110232939 +0000" stop="20260111000003 +0000">
-    <title>Dungeons &amp; Dragons</title>
-    <sub-title>The Night of No Tomorrow</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Presto meets Merlin, who offers to teach him magic—if he stays.</desc>
-    <date>19830917</date>
-    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_DungeonsAndDragons_1983_s01_hero_tv_series_16x9_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260111000003 +0000" stop="20260111010003 +0000">
-    <title>Encounter Party</title>
-    <sub-title>Fate is Inevitable</sub-title>
-    <episode-num system="onscreen">S01E21</episode-num>
-    <desc>The party discovers the source of their shared vision and race off to confront Almori.</desc>
-    <date>20240326</date>
-    <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Encounter_Party_s01_hero_art_16x9_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be" start="20260111010003 +0000" stop="20260111020003 +0000">
-    <title>Encounter Party</title>
-    <sub-title>And Then There Were Five</sub-title>
-    <episode-num system="onscreen">S01E22</episode-num>
-    <desc>The battle with Almori grows deadly as he turns the raging lightning storm against the party.</desc>
-    <date>20240204</date>
+    <sub-title>Murder on Deck 2</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>When one of the crew is found murdered, suspicions fly on a manifest full of motives.</desc>
+    <date>20231114</date>
     <icon src="https://d3fvkni5vsad3a.cloudfront.net/Images/S3/DND_Encounter_Party_s01_hero_art_16x9_1920x1080.jpg" />
   </programme>
   
