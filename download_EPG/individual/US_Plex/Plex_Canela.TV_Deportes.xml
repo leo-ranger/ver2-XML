@@ -5,7 +5,50 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/f345c0b8-c5b8-49a4-82f2-28fa7fcfe7e8/CM-Plex-dark_logo-CanelaTV-deportes_-_Natalia_Rodriguez.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260117212319 +0000" stop="20260117235850 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260118230000 +0000" stop="20260119003032 +0000">
+    <title>El Curubito</title>
+    <category>Movie</category>
+    <desc>Programa de entretenimiento deportivo en el que el fútbol se debate con garra y sin filtros.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260119003032 +0000" stop="20260119025432 +0000">
+    <title>Probox TV</title>
+    <sub-title>MDB: Estelar Lamont Roach vs Feargal McCrory</sub-title>
+    <episode-num system="onscreen">S02E11</episode-num>
+    <desc>Las estrellas del futuro peleas competitivas de gran acción.</desc>
+    <date>20240101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5ce04980-5b87-4816-9134-60c7126c1543_16x9.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260119025432 +0000" stop="20260119053521 +0000">
+    <title>Noches de Boxeo</title>
+    <sub-title>Carlos ‘Príncipe’ Cuadras vs Lamberto Macías</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Revive la espectacular pelea entre Carlos ‘Príncipe’ Cuadras y Lamberto Macías.</desc>
+    <date>20230101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/205d3a9a-cbee-4fd7-bb2f-3fe00c450ae1_box_generico_16x9_0.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260119053521 +0000" stop="20260119084028 +0000">
+    <title>Probox TV</title>
+    <sub-title>Israel Picazo vs Ramón Cardenas</sub-title>
+    <episode-num system="onscreen">S02E17</episode-num>
+    <desc>Evento Estelar: Picazo (30-5) vs. Cardenas (23-1).</desc>
+    <date>20240101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5ce04980-5b87-4816-9134-60c7126c1543_16x9.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260119084028 +0000" stop="20260119110054 +0000">
+    <title>Probox TV</title>
+    <sub-title>MDB: Jukembayev vs Redkach</sub-title>
+    <episode-num system="onscreen">S02E12</episode-num>
+    <desc>Evento Principal: Batyrzhan Jukembayev vs Ivan Redkach.</desc>
+    <date>20240101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5ce04980-5b87-4816-9134-60c7126c1543_16x9.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260119110054 +0000" stop="20260119133253 +0000">
     <title>Series de Contendientes: Cardenas vs Robles</title>
     <category>Movie</category>
     <desc>Evento Estelar: Ramon Cardenas vs Erik Robles.</desc>
@@ -13,7 +56,7 @@
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/441a836e3fba6f58a67f078b63a9f36f2db553c8_2x3.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260117235850 +0000" stop="20260118025435 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260119133253 +0000" stop="20260119163138 +0000">
     <title>Noches de Boxeo</title>
     <sub-title>Chihuas VS Trino</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
@@ -22,194 +65,34 @@
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/205d3a9a-cbee-4fd7-bb2f-3fe00c450ae1_box_generico_16x9_0.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260118025435 +0000" stop="20260118064435 +0000">
-    <title>Series de Contendientes: White vs Tellez</title>
-    <category>Movie</category>
-    <desc>Evento Estelar: Jordan White vs Rene Tellez.</desc>
-    <date>20250101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/b5dd91fb81fed9629103a2ebe77e484b7f17f05d_2x3.png" />
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260119163138 +0000" stop="20260119183230 +0000">
+    <title>Noches de Boxeo</title>
+    <sub-title>Saúl Sánchez vs Franklin González</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>Saúl Sánchez y Franklin González encabezan un gran combate.</desc>
+    <date>20230101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/205d3a9a-cbee-4fd7-bb2f-3fe00c450ae1_box_generico_16x9_0.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260118064435 +0000" stop="20260118094933 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260119183230 +0000" stop="20260119195730 +0000">
     <title>Probox TV</title>
-    <sub-title>MDB: Flaz VS Gomez</sub-title>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <desc>Evento Estelar: Nicklaus Flaz vs Christian Gomez.</desc>
+    <sub-title>MDB: Schramm vs Hernandez</sub-title>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <desc>Evento Principal: Guido Schramm vs Vladimir Hernandez</desc>
     <date>20240101</date>
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5ce04980-5b87-4816-9134-60c7126c1543_16x9.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260118094933 +0000" stop="20260118102701 +0000">
-    <title>One on One</title>
-    <sub-title>Alberto del Río</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Alberto del Río hizo historia, al ser el primer mexicano campeón de la WWE.</desc>
-    <date>20230101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/067baa4c-1b77-43fd-9e42-ab63f8f100eb_ctv_oneonone_general_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260118102701 +0000" stop="20260118110420 +0000">
-    <title>Estrellas del Fútbol</title>
-    <sub-title>Cantona</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Cantona, el campeón que escandalizó el fútbol.</desc>
-    <date>20140101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ec0b290f-b34e-42c3-a4b0-c53fca4001cd_estrellas-de-futbol-1920x1080px-cris.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260118110420 +0000" stop="20260118114224 +0000">
-    <title>Estrellas del Fútbol</title>
-    <sub-title>Paul Pogba</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>El estilo cortante de Paul Pogba en Italia.</desc>
-    <date>20140101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ec0b290f-b34e-42c3-a4b0-c53fca4001cd_estrellas-de-futbol-1920x1080px-cris.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260118114224 +0000" stop="20260118122002 +0000">
-    <title>Estrellas del Fútbol</title>
-    <sub-title>Una Máquina de Goles</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Solo hay un Diego Simeone.</desc>
-    <date>20140101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ec0b290f-b34e-42c3-a4b0-c53fca4001cd_estrellas-de-futbol-1920x1080px-cris.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260118122002 +0000" stop="20260118125710 +0000">
-    <title>Estrellas del Fútbol</title>
-    <sub-title>Lewandowski Hace Olas</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Balotelli causa revuelo en Liverpool.</desc>
-    <date>20140101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ec0b290f-b34e-42c3-a4b0-c53fca4001cd_estrellas-de-futbol-1920x1080px-cris.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260118125710 +0000" stop="20260118133145 +0000">
-    <title>Estrellas del Fútbol</title>
-    <sub-title>El As Argentino, Angel Di Maria</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>El surgimiento de Toni Kroos como una estrella mundial.</desc>
-    <date>20140101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ec0b290f-b34e-42c3-a4b0-c53fca4001cd_estrellas-de-futbol-1920x1080px-cris.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260118133145 +0000" stop="20260118140640 +0000">
-    <title>Estrellas del Fútbol</title>
-    <sub-title>Sir Alex Ferguson &amp; Roy Keane</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Tim Howard se convierte en un nombre familiar.</desc>
-    <date>20140101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ec0b290f-b34e-42c3-a4b0-c53fca4001cd_estrellas-de-futbol-1920x1080px-cris.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260118140640 +0000" stop="20260118151349 +0000">
-    <title>Historias de Leyendas</title>
-    <sub-title>Mario Kempes</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Mario Kempes nos cuenta detalles íntimos de su vida dentro y fuera de la cancha.</desc>
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260119195730 +0000" stop="20260119230000 +0000">
+    <title>Probox TV</title>
+    <sub-title>MDB: Davies Jr vs Lipinets</sub-title>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <desc>Main Event: Robbie Davies Jr vs Sergey Lipinets.</desc>
     <date>20240101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/db4db0fa-2a81-4077-8906-2fefb60e0689_copia_de_cm-historias_de_leyendas-postergenerico-16x9_2.png" />
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5ce04980-5b87-4816-9134-60c7126c1543_16x9.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260118151349 +0000" stop="20260118170612 +0000">
-    <title>Celtic vs. Rangers</title>
-    <category>Movie</category>
-    <desc>Rangers buscará seguir sumando ante el Celtic.</desc>
-    <date>20260101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/eb168be5bab0b6a3a6fe8a548d7f611149efb2e2_2x3.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260118170612 +0000" stop="20260118173607 +0000">
-    <title>Íconos Nacionales</title>
-    <sub-title>Eusébio vs Cristiano Ronaldo</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>¿Quién es el más grande de Portugal?</desc>
-    <date>20160101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/18fc9f0b-fd52-4fcd-b279-c6f189a18b89_iconos-nacionales_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260118173607 +0000" stop="20260118180602 +0000">
-    <title>Íconos Nacionales</title>
-    <sub-title>Henry vs Mbappé</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Los delanteros de Francia: Henry vs Mbappé.</desc>
-    <date>20160101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/18fc9f0b-fd52-4fcd-b279-c6f189a18b89_iconos-nacionales_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260118180602 +0000" stop="20260118190449 +0000">
-    <title>Historias de Leyendas</title>
-    <sub-title>Óscar Córdoba</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Luis Omar Tapia y Óscar Córdoba, leyenda sudamericana, hablan sobre fútbol.</desc>
-    <date>20240101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/db4db0fa-2a81-4077-8906-2fefb60e0689_copia_de_cm-historias_de_leyendas-postergenerico-16x9_2.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260118190449 +0000" stop="20260118194223 +0000">
-    <title>Estrellas del Fútbol</title>
-    <sub-title>Final Perfecto de Philipp Lahm</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Neymar va a  llevar a Brasil hacia adelante.</desc>
-    <date>20140101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ec0b290f-b34e-42c3-a4b0-c53fca4001cd_estrellas-de-futbol-1920x1080px-cris.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260118194223 +0000" stop="20260118202028 +0000">
-    <title>Estrellas del Fútbol</title>
-    <sub-title>El Ascenso a la Cima</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Zlatan Ibrahimovic sigue siendo Zlatan.</desc>
-    <date>20140101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ec0b290f-b34e-42c3-a4b0-c53fca4001cd_estrellas-de-futbol-1920x1080px-cris.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260118202028 +0000" stop="20260118205228 +0000">
-    <title>Estrellas del Fútbol</title>
-    <sub-title>Alabanza y Kane</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>La vida de Kane, el jugador británico.</desc>
-    <date>20140101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ec0b290f-b34e-42c3-a4b0-c53fca4001cd_estrellas-de-futbol-1920x1080px-cris.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260118205228 +0000" stop="20260118212428 +0000">
-    <title>Estrellas del Fútbol</title>
-    <sub-title>Las Mayores Rivalidades del Fútbol</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Adéntrate a las mayores rivalidades del fútbol.</desc>
-    <date>20140101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ec0b290f-b34e-42c3-a4b0-c53fca4001cd_estrellas-de-futbol-1920x1080px-cris.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260118212428 +0000" stop="20260118215328 +0000">
-    <title>Estrellas del Fútbol</title>
-    <sub-title>Los Ventiladores</sub-title>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <desc>La figura de ventilador dentro del fútbol.</desc>
-    <date>20140101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ec0b290f-b34e-42c3-a4b0-c53fca4001cd_estrellas-de-futbol-1920x1080px-cris.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260118215328 +0000" stop="20260118222428 +0000">
-    <title>Estrellas del Fútbol</title>
-    <sub-title>Un Rally</sub-title>
-    <episode-num system="onscreen">S01E14</episode-num>
-    <desc>Neymar intenta correr en un rally.</desc>
-    <date>20140101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ec0b290f-b34e-42c3-a4b0-c53fca4001cd_estrellas-de-futbol-1920x1080px-cris.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260118222428 +0000" stop="20260118230000 +0000">
-    <title>100 Mejores Futbolistas</title>
-    <sub-title>Diez Futbolistas Históricos.</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>De Sudamérica a Europa.</desc>
-    <date>20130101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/54b3e672-dc6c-46ad-91f2-81293d87f44f_100-mejores-futbolistas-1920x1080px-cris.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260118230000 +0000" stop="20260119003032 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260119230000 +0000" stop="20260120003150 +0000">
     <title>El Curubito</title>
     <category>Movie</category>
     <desc>Programa de entretenimiento deportivo en el que el fútbol se debate con garra y sin filtros.</desc>
