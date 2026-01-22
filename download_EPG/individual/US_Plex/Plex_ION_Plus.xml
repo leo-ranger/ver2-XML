@@ -5,229 +5,175 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/45ce0f68-519a-4d15-ab5a-ba12ff802ad3/PlexOrange-Logo-1500-x-1000.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260121000000 +0000" stop="20260121010000 +0000">
-    <title>Bull</title>
-    <sub-title>The Necklace</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260122010000 +0000" stop="20260122020000 +0000">
+    <title>MacGyver</title>
+    <sub-title>Screwdriver</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>MacGyver hunts a U.S. government mole who is leaking classified information to the organization trying to take down the Phoenix Foundation; Sarah comes back to help with the mission; Mac can't tell which side Nikki is on.</desc>
+    <date>20170106</date>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/1d8fd9dc58bbaac2d4ab2300f9c2c972.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260122020000 +0000" stop="20260122030000 +0000">
+    <title>MacGyver</title>
+    <sub-title>Large Blade</sub-title>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <desc>While returning from capturing a war criminal, Mac and Jack's helicopter crashes, allowing the prisoner to escape.</desc>
+    <date>20170113</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/83befc4325efe07a74bc450382c4d256.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260122030000 +0000" stop="20260122040000 +0000">
+    <title>MacGyver</title>
+    <sub-title>Fish Scaler</sub-title>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <desc>Mac and Jack must track down a corrupt FBI agent who has framed a man for murder; everyone on the team is terrified to get a performance review from the tough new boss.</desc>
+    <date>20170203</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/94c99d024592161422238f724570fe80.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260122040000 +0000" stop="20260122050000 +0000">
+    <title>MacGyver</title>
+    <sub-title>Magnifying Glass</sub-title>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <desc>When Matty's goddaughter and her boyfriend are killed in a San Francisco park, Mac and the team investigate the crime and start to suspect that the 1970s Zodiac Killer has returned.</desc>
+    <date>20170210</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/ac28812d66de0986d6393718c1be76f6.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260122050000 +0000" stop="20260122060000 +0000">
+    <title>MacGyver</title>
+    <sub-title>Hook</sub-title>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <desc>While Mac and Jack are tracking a dangerous fugitive, a family of bounty hunters kidnap him; Bozer and Riley try to hack into Jack's CIA file.</desc>
+    <date>20170217</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9facd55cfed2ba8a5210738e3ba3fee1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260122060000 +0000" stop="20260122070000 +0000">
+    <title>MacGyver</title>
+    <sub-title>Ruler</sub-title>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <desc>When Mac and the team are blamed for a terrorist bombing, the Phoenix Foundation is forced to disavow them; the team must clear their names without support from back home.</desc>
+    <date>20170224</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/85aefe747724da7eac40e04742d7b1cf.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260122070000 +0000" stop="20260122090000 +0000">
+    <title>Midsomer Murders</title>
+    <sub-title>Murder on St Malley's Day</sub-title>
+    <episode-num system="onscreen">S05E02</episode-num>
+    <desc>Barnaby uncovers an elite Mafia-like sect at a private school while investigating a boy's death.</desc>
+    <date>20020922</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/386fcacf750fb51fd11953986d9e7c73.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260122090000 +0000" stop="20260122110000 +0000">
+    <title>Midsomer Murders</title>
+    <sub-title>A Talent for Life</sub-title>
+    <episode-num system="onscreen">S06E01</episode-num>
+    <desc>One of Barnaby's suspects is found dead in his restaurant's walk-in freezer; two bodies are found by a river.</desc>
+    <date>20030103</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c5215898c2cfe55905c22958c26ff1a9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260122110000 +0000" stop="20260122130000 +0000">
+    <title>Midsomer Murders</title>
+    <sub-title>Death and Dreams</sub-title>
+    <episode-num system="onscreen">S06E02</episode-num>
+    <desc>A gambler appears to have committed suicide.</desc>
+    <date>20030110</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/ae6fd308fbb1421d1ab37341ee285714.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260122130000 +0000" stop="20260122150000 +0000">
+    <title>Midsomer Murders</title>
+    <sub-title>Painted in Blood</sub-title>
+    <episode-num system="onscreen">S06E03</episode-num>
+    <desc>Joyce Barnaby finds a body in Midsomer Florey.</desc>
+    <date>20030117</date>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/546ce5559a3155bee999a386802626bb.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260122150000 +0000" stop="20260122170000 +0000">
+    <title>Midsomer Murders</title>
+    <sub-title>A Tale of Two Hamlets</sub-title>
+    <episode-num system="onscreen">S06E04</episode-num>
+    <desc>Barnaby and Troy are called to the warring villages of Upper and Lower Warden; they investigate the death of a young film star at the family's ancestral home.</desc>
+    <date>20030124</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c16e846782f5b266e03f01db81d1acdf.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260122170000 +0000" stop="20260122190000 +0000">
+    <title>Midsomer Murders</title>
+    <sub-title>Birds of Prey</sub-title>
+    <episode-num system="onscreen">S06E05</episode-num>
+    <desc>Troy investigates a wildlife crime; a car and a body are found in a river.</desc>
+    <date>20030131</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8d518e430cfc34b4b21f0cc542b0b5da.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260122190000 +0000" stop="20260122200000 +0000">
+    <title>Leverage</title>
+    <sub-title>The Long Good-bye Job</sub-title>
+    <episode-num system="onscreen">S05E15</episode-num>
+    <desc>The team embarks on its riskiest con yet when Nate takes a case linked to his son's death.</desc>
+    <date>20121225</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/22e00bf530be6e776ff7826680a69742.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260122200000 +0000" stop="20260122210000 +0000">
+    <title>Leverage: Redemption</title>
+    <sub-title>The Too Many Rembrandts Job</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Dr. Jason Bull uses psychology, intuition and data to create strategies to help clients of his trial consulting firm win cases.</desc>
-    <date>20160920</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b70c53f642ff0703b190bdc18c0b5d33.jpg" />
+    <desc>When the team comes together to help Sophie, they intercept guilt-ridden corporate fixer Harry and decide to help him take down an evil billionaire making money on the back of an opioid crisis.</desc>
+    <date>20210709</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/ab71c8f81177eaa16d482b2ca45195a9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260121010000 +0000" stop="20260121020000 +0000">
-    <title>Bull</title>
-    <sub-title>The Woman in 8D</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260122210000 +0000" stop="20260122220000 +0000">
+    <title>Leverage: Redemption</title>
+    <sub-title>The Panamanian Monkey Job</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Dr. Bull and his team must come up with a new defense for a female pilot accused of negligence when they discover the jury has a gender bias.</desc>
-    <date>20160927</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ad6db329807e80165ac635647894febc.jpg" />
+    <desc>With a new team member on board, plus the arrival of Hardison's genius foster sister, the team heads to Panama to pull an elaborate heist before an evil billionaire can get his money and flee to a non-extradition country.</desc>
+    <date>20210709</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6046f56bf7ef139c79dc48b5b32a307a.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260121020000 +0000" stop="20260121030000 +0000">
-    <title>Bull</title>
-    <sub-title>Unambiguous</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260122220000 +0000" stop="20260122230000 +0000">
+    <title>Leverage: Redemption</title>
+    <sub-title>The Rollin' on the River Job</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Bull and the team tackle jury bias as their client publicly accuses a star athlete of assaulting her; Benny encounters an ex, who happens to be a fellow attorney.</desc>
-    <date>20161011</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/194125508f3287164d17372d1eb430b6.jpg" />
+    <desc>The Leverage team takes on a greedy riverboat casino owner, before he can bulldoze the homes of longtime New Orleans natives for his planned expansion.</desc>
+    <date>20210709</date>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/147b1f23ffd99200fcda6f8a8e096212.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260121030000 +0000" stop="20260121040000 +0000">
-    <title>Bull</title>
-    <sub-title>Callisto</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260122230000 +0000" stop="20260123000000 +0000">
+    <title>Leverage: Redemption</title>
+    <sub-title>The Tower Job</sub-title>
     <episode-num system="onscreen">S01E04</episode-num>
-    <desc>While helping a young woman fight a drug patent lawsuit, the team must travel to the small Texas town where Bull experienced the only trial loss of his career.</desc>
-    <date>20161018</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/70d21d65a27e16864b57f04ef501f95a.jpg" />
+    <desc>One member of the team seeks redemption and justice by convincing Leverage to con a developer out of an entire luxury apartment building.</desc>
+    <date>20210709</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/facc53ce9c5ee59eac43842e9610d74f.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260121040000 +0000" stop="20260121050000 +0000">
-    <title>Bull</title>
-    <sub-title>Just Tell the Truth</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260123000000 +0000" stop="20260123010000 +0000">
+    <title>Leverage: Redemption</title>
+    <sub-title>The Paranormal Hacktivity Job</sub-title>
     <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Bull defends the working class fiance of a murdered socialite; Marissa, Cable and Danny ask Chunk to let them investigate a new guy he wants to date.</desc>
-    <date>20161025</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/479d67aa387ef62453c1a7aa080e4cc8.jpg" />
+    <desc>When a woman believes she is being haunted, Sophie leads Breanna and Parker through a con to convince the two real estate scammers responsible to target Leverage HQ.</desc>
+    <date>20210709</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9fe68de40adb3ef4eba3ff72e0da7a90.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260121050000 +0000" stop="20260121060000 +0000">
-    <title>Bull</title>
-    <sub-title>Bedside Manner</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260123010000 +0000" stop="20260123020000 +0000">
+    <title>Leverage: Redemption</title>
+    <sub-title>The Card Game Job</sub-title>
     <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Bull has to find a way to reverse the negative effect of a surgeon with a God complex who is being sued for malpractice; Bull hires a previous client's attorney.</desc>
-    <date>20161115</date>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c8fe2d706cdc6423e2ba6cd8b9a7d083.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260121060000 +0000" stop="20260121070000 +0000">
-    <title>Bull</title>
-    <sub-title>Never Saw the Sign</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>While assisting a man facing vehicular manslaughter charges, Bull finds a connection between the case and a state assemblyman who would benefit from a guilty verdict; Danny and Cable investigate why Marissa is acting and dressing differently.</desc>
-    <date>20161122</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/517d7b43058b00b48c85a189adbe7973.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260121070000 +0000" stop="20260121080000 +0000">
-    <title>The Listener</title>
-    <sub-title>Zero Recall</sub-title>
-    <episode-num system="onscreen">S05E11</episode-num>
-    <desc>After being drugged, Toby is implicated in an armed kidnapping.</desc>
-    <date>20140804</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/3f21cff7bf18d5d19fbd4b190a20fa59.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260121080000 +0000" stop="20260121090000 +0000">
-    <title>The Listener</title>
-    <sub-title>An Innocent Man</sub-title>
-    <episode-num system="onscreen">S05E12</episode-num>
-    <desc>Toby goes under cover when he believes an innocent man is taking the fall for a murder.</desc>
-    <date>20140811</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9cd7a558dc17b0754d6caf369084937c.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260121090000 +0000" stop="20260121100000 +0000">
-    <title>The Listener</title>
-    <sub-title>In Our Midst</sub-title>
-    <episode-num system="onscreen">S05E13</episode-num>
-    <desc>Becker's involvement in a criminal conspiracy sparks an investigation by Toby, Michelle and Dev.</desc>
-    <date>20140818</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/46f3cafcac553808f8aab1c473dbad81.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260121100000 +0000" stop="20260121110000 +0000">
-    <title>The Listener</title>
-    <sub-title>I'm an Adult Now</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Toby rescues a woman who has been in a car accident and uses his abilities to solve a kidnapping.</desc>
-    <date>20090604</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7e1a11d85f738e0bfe63221ed78491e9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260121110000 +0000" stop="20260121120000 +0000">
-    <title>The Listener</title>
-    <sub-title>Emotional Rescue</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Toby tracks down an arsonist after saving a childhood friend from a burning building.</desc>
-    <date>20090604</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5e3fc8d536f8fd004ea9da0be60d1d87.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260121120000 +0000" stop="20260121130000 +0000">
-    <title>The Listener</title>
-    <sub-title>A Voice in the Dark</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Toby has visions of a missing girl after he bumps into a homeless man.</desc>
-    <date>20090611</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/786a6528bc2731f13579539b4774ca1f.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260121130000 +0000" stop="20260121140000 +0000">
-    <title>The Listener</title>
-    <sub-title>Some Kinda Love</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>After Toby hooks up with a woman at a nightclub, she is found dead and he is a suspect in her murder.</desc>
-    <date>20090618</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/72116aeb8bafffec83baefbce6ef9e32.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260121140000 +0000" stop="20260121150000 +0000">
-    <title>The Listener</title>
-    <sub-title>Lisa Says</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>When Toby saves a troubled teen from a gang beating, he stumbles upon a hidden group of runaways.</desc>
-    <date>20090702</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/50a12d1e30ec07add7585fc2bfab43f5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260121150000 +0000" stop="20260121160000 +0000">
-    <title>The Listener</title>
-    <sub-title>Foggy Notion</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Toby tries to help the sister of a shooting victim find out who killed her brother.</desc>
-    <date>20090709</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/53d46264f433d033e45388cf707c1a01.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260121160000 +0000" stop="20260121170000 +0000">
-    <title>The Listener</title>
-    <sub-title>Iris</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>When Toby sees a woman revive a badly injured baby, he becomes curious about her gift.</desc>
-    <date>20090716</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5d1114819e456a378f10dc013628c807.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260121170000 +0000" stop="20260121180000 +0000">
-    <title>The Listener</title>
-    <sub-title>One Way or Another</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Toby uses his gift to help Detective Marks gather intelligence from the traumatized victim of a serial rapist.</desc>
-    <date>20090723</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/69a507728a9afd6ee827796fc54037b5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260121180000 +0000" stop="20260121190000 +0000">
-    <title>MacGyver</title>
-    <sub-title>Toothpick</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>MacGyver must fix a sabotaged train to protect a woman who has proof that her boss is selling weapons to enemies of the U.S.</desc>
-    <date>20161021</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f3827e268a5cd1f4453f5cf83a7cc821.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260121190000 +0000" stop="20260121200000 +0000">
-    <title>MacGyver</title>
-    <sub-title>Wrench</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>MacGyver must diffuse a bomb planted near the United Nations by his old adversary, the Ghost, then track the criminal down.</desc>
-    <date>20161028</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1bac63d5593c186276879b3c73d4c6dc.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260121200000 +0000" stop="20260121210000 +0000">
-    <title>MacGyver</title>
-    <sub-title>Can Opener</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>When MacGyver goes under cover to break a notorious drug kingpin out of a maximum security prison, he must track the fugitive to the cartel's location to dismantle it after they escape.</desc>
-    <date>20161104</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1ef53239b8736f39d5a1e04b6a8c3b58.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260121210000 +0000" stop="20260121220000 +0000">
-    <title>MacGyver</title>
-    <sub-title>Corkscrew</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>When MacGyver faces an international assassin hired to kill him, he must defend both himself and Bozer with only a corkscrew and paper towel rolls; Bozer learns MacGyver's true identity.</desc>
-    <date>20161111</date>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c5655c02c5b76a73a885625de698da5e.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260121220000 +0000" stop="20260121230000 +0000">
-    <title>MacGyver</title>
-    <sub-title>Chisel</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>In Latvia, MacGyver and his team must defend themselves and a group of U.S. embassy workers from extremists trying to retrieve their leader; Bozer faces an important decision.</desc>
-    <date>20161118</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/95a08d48c2012ce54a5f63cc8c73b3c4.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260121230000 +0000" stop="20260122000000 +0000">
-    <title>MacGyver</title>
-    <sub-title>Pliers</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Mac and the team search for a kidnapped prodigy from Mac's former middle school; with only pliers and some wire, Mac attempts to rescue the young genius.</desc>
-    <date>20161209</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7b767f132ac27185387472f68fd9ae1d.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" start="20260122000000 +0000" stop="20260122010000 +0000">
-    <title>MacGyver</title>
-    <sub-title>Scissors</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>MacGyver and Jack must find Riley after she disappears and hacks into the NSA; Bozer embarks on his first mission; Jack reveals his history with Riley's mother.</desc>
-    <date>20161216</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7bbc4311bbb444ec82f8f6c6e881dbe2.jpg" />
+    <desc>The Leverage team dives into the world of a fantasy collectible card game with a devoted following to take down a pharmaceutical bad boy who is price-gouging drugs.</desc>
+    <date>20210709</date>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b48c70a4f4a757d1e871b38e9d4147a6.jpg" />
   </programme>
   
 </tv>
