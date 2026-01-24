@@ -5,183 +5,96 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/a7617b69-6d23-46d0-8e8e-e4ec9fa29d59/NFL_WHITE.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260122231900 +0000" stop="20260122235900 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260124000000 +0000" stop="20260124010000 +0000">
+    <title>NFL Daily</title>
+    <sub-title>NFL Daily</sub-title>
+    <desc>Gregg Rosenthal and a rotating crew of elite NFL Media co-hosts get you caught up daily on all the NFL news and analysis you need to be smarter and funnier than your friends ahead of the Conference Championships during the 2025 NFL season.</desc>
+    <date>20260121</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260124010000 +0000" stop="20260124042100 +0000">
+    <title>Game of the Week</title>
+    <sub-title>2025: Bills vs. Broncos - AFC Divisional Round</sub-title>
+    <desc>The Denver Broncos clinched a dramatic 33-30 overtime win over the Buffalo Bills to reach the AFC title game, but lost quarterback Bo Nix to a season-ending ankle injury.</desc>
+    <date>20260120</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260124042100 +0000" stop="20260124050100 +0000">
     <title>Weekly Game Previews</title>
     <sub-title>Weekly Game Previews</sub-title>
     <desc>This weekly series breaks down what you need to know for every NFL matchup ahead of Championship Sunday from the 2025 NFL season.</desc>
     <date>20260121</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260122235900 +0000" stop="20260123010000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260124050100 +0000" stop="20260124074100 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2021: 49ers vs. Rams</sub-title>
+    <episode-num system="onscreen">S2022E364</episode-num>
+    <desc>The 49ers (9-7) try to clinch a wild-card position in the NFC when they face the Rams (12-4) in their week 18 matchup. From Jan. 9, 2022.</desc>
+    <date>20220718</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260124074100 +0000" stop="20260124084100 +0000">
     <title>NFL GameDay View</title>
     <sub-title>NFL GameDay View</sub-title>
-    <episode-num system="onscreen">S2026E06</episode-num>
-    <desc>Hosts Patrick Claybon, Cynthia Frelund, Gregg Rosenthal provide analysis and predictions, also receive insight from reporters around the country and in-depth statistical analysis ahead of the Conference Championships during the 2025 NFL season.</desc>
-    <date>20260122</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260123010000 +0000" stop="20260123020000 +0000">
-    <title>NFL Press Conferences</title>
-    <sub-title>NFL Press Conferences</sub-title>
-    <desc>NFL Press Conferences brings you behind the podium with coaches and players from around the league following Divisional Round during the 2025 NFL season.</desc>
-    <date>20260114</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260123020000 +0000" stop="20260123024000 +0000">
-    <title>Weekly Game Previews</title>
-    <sub-title>Weekly Game Previews</sub-title>
-    <desc>This weekly series breaks down what you need to know for every NFL matchup ahead of Championship Sunday from the 2025 NFL season.</desc>
-    <date>20260121</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260123024000 +0000" stop="20260123031200 +0000">
-    <title>NFL Explained</title>
-    <sub-title>How Prime Vision Is Changing the Way We Watch Football</sub-title>
-    <desc>With real-time analytics, on-screen strategy insights, and innovative camera angles, Prime Vision gives viewers a deeper understanding of the game as it unfolds, bringing fans closer to the action than ever before.</desc>
-    <date>20260121</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/373dd8fffdc530b1da9239629fb4f6e5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260123031200 +0000" stop="20260123035300 +0000">
-    <title>NFL Throwback</title>
-    <sub-title>Every Playoff Touchdown from 2000-2009 Super Bowl Winners</sub-title>
-    <episode-num system="onscreen">S2025E02</episode-num>
-    <desc>Highlights of every playoff touchdown from a decade of Super Bowl winning seasons.</desc>
-    <date>20250116</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260123035300 +0000" stop="20260123044400 +0000">
-    <title>NFL Throwback</title>
-    <sub-title>Every Playoff Touchdown from 2010-2020 Super Bowl Winners</sub-title>
-    <episode-num system="onscreen">S2025E03</episode-num>
-    <desc>Highlights of every playoff touchdown from a decade of Super Bowl winning seasons.</desc>
-    <date>20250116</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260123044400 +0000" stop="20260123053600 +0000">
-    <title>NFL Throwback</title>
-    <sub-title>Worst Teams to Make the Playoffs</sub-title>
-    <episode-num system="onscreen">S2025E04</episode-num>
-    <desc>It's all in the title. Relive the weakest teams ever to make the postseason.</desc>
-    <date>20250116</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260123053600 +0000" stop="20260123061200 +0000">
-    <title>NFL Throwback</title>
-    <sub-title>Top 10 Playoff Upsets</sub-title>
-    <episode-num system="onscreen">S2025E08</episode-num>
-    <desc>Relive the most shocking postseason upsets in NFL history.</desc>
-    <date>20250120</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260123061200 +0000" stop="20260123064700 +0000">
-    <title>NFL Throwback</title>
-    <sub-title>Most Unusual Conference Championship Games</sub-title>
-    <episode-num system="onscreen">S2025E10</episode-num>
-    <desc>From surprise playoff runs to historic division clashes, check out the most unusual conference championship games in NFL history.</desc>
-    <date>20250204</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260123064700 +0000" stop="20260123080700 +0000">
-    <title>NFL Throwback</title>
-    <sub-title>60 Minutes of Playoff Highlights</sub-title>
-    <episode-num system="onscreen">S2025E01</episode-num>
-    <desc>Enjoy an hour of the best postseason highlights in NFL history.</desc>
-    <date>20250116</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260123080700 +0000" stop="20260123082200 +0000">
-    <title>NFL Throwback</title>
-    <sub-title>Top 10 Madden Teams</sub-title>
-    <episode-num system="onscreen">S2025E41</episode-num>
-    <desc>See which Madden teams were the biggest cheat codes.</desc>
-    <date>20250820</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260123082200 +0000" stop="20260123090000 +0000">
-    <title>NFL Throwback</title>
-    <sub-title>Every Playoff Touchdown from 2000-2009 Super Bowl Winners</sub-title>
-    <episode-num system="onscreen">S2025E02</episode-num>
-    <desc>Highlights of every playoff touchdown from a decade of Super Bowl winning seasons.</desc>
-    <date>20250116</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260123090000 +0000" stop="20260123092800 +0000">
-    <title>NFL Throwback</title>
-    <sub-title>Top 10 Players Never To Win a Playoff Game</sub-title>
-    <episode-num system="onscreen">S2025E07</episode-num>
-    <desc>From Calvin Johnson to T.J. Watt, discover the stars that have failed to win a postseason matchup in their careers.</desc>
-    <date>20250120</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260123092800 +0000" stop="20260123121400 +0000">
-    <title>NFL Game Re-Airs</title>
-    <sub-title>2023 NFC Championship: Lions at 49ers</sub-title>
-    <episode-num system="onscreen">S2024E16</episode-num>
-    <desc>San Francisco 49ers defeated the Detroit Lions 34-31 in the NFC Championship Game to meet the Kansas City Chiefs in Super Bowl LVIII.</desc>
-    <date>20240204</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260123121400 +0000" stop="20260123125100 +0000">
-    <title>Weekly Game Previews</title>
-    <sub-title>Weekly Game Previews</sub-title>
-    <desc>This weekly series breaks down what you need to know for every NFL matchup ahead of Championship Sunday from the 2025 NFL season.</desc>
-    <date>20260121</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260123125100 +0000" stop="20260123135100 +0000">
-    <title>NFL GameDay View</title>
-    <sub-title>NFL GameDay View</sub-title>
-    <episode-num system="onscreen">S2026E06</episode-num>
-    <desc>Hosts Patrick Claybon, Cynthia Frelund, Gregg Rosenthal provide analysis and predictions, also receive insight from reporters around the country and in-depth statistical analysis ahead of the Conference Championships during the 2025 NFL season.</desc>
-    <date>20260122</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260123135100 +0000" stop="20260123142700 +0000">
-    <title>Game Day All Access</title>
-    <sub-title>Conference Championships, 2022</sub-title>
-    <episode-num system="onscreen">S2024E04</episode-num>
-    <desc>Experience the sights and sounds of the games from Championships during the 2022 NFL season.</desc>
-    <date>20240124</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260123142700 +0000" stop="20260123150700 +0000">
-    <title>Game Day All Access</title>
-    <sub-title>Conference Championships, 2024</sub-title>
-    <episode-num system="onscreen">S2025E09</episode-num>
-    <desc>Experience the sights and sounds of the games from Championships during the 2024 NFL season.</desc>
-    <date>20250630</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260123150700 +0000" stop="20260123154500 +0000">
-    <title>Weekly Game Previews</title>
-    <sub-title>Weekly Game Previews</sub-title>
-    <desc>This weekly series breaks down what you need to know for every NFL matchup ahead of Championship Sunday from the 2025 NFL season.</desc>
-    <date>20260121</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260123154500 +0000" stop="20260123180900 +0000">
-    <title>NFL Game Re-Airs</title>
-    <sub-title>2025: 49ers vs. Seahawks - NFC Divisional Round</sub-title>
-    <episode-num system="onscreen">S2026E11</episode-num>
-    <desc>Seattle Seahawks wide receiver Rashid Shaheed returned the opening kickoff for a touchdown, Kenneth Walker III rushed for three scores and the Seahawks advanced to the NFC championship game with a dominant 41-6 victory over the San Francisco 49ers.</desc>
+    <episode-num system="onscreen">S2026E07</episode-num>
+    <desc>Hosts Patrick Claybon, Cynthia Frelund, Gregg Rosenthal provide analysis and predictions, also receive insight from reporters around the country and in-depth statistical analysis ahead of Championship Sunday during the 2025 NFL season.</desc>
     <date>20260123</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260123180900 +0000" stop="20260123210000 +0000">
-    <title>NFL Game Re-Airs</title>
-    <sub-title>2025: Texans vs. Patriots - AFC Divisional Round</sub-title>
-    <episode-num system="onscreen">S2026E12</episode-num>
-    <desc>The New England Patriots leaned on their defense and some timely big plays on offense to record a 28-16 victory over the Houston Texans in an AFC divisional round playoff game.</desc>
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260124084100 +0000" stop="20260124094100 +0000">
+    <title>NFL Daily</title>
+    <sub-title>NFL Daily</sub-title>
+    <desc>Gregg Rosenthal and a rotating crew of elite NFL Media co-hosts get you caught up daily on all the NFL news and analysis ahead of Championship Sunday during the 2025 NFL season.</desc>
     <date>20260123</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260123210000 +0000" stop="20260124000000 +0000">
-    <title>NFL Game Re-Airs</title>
-    <sub-title>2025: Rams vs. Bears - NFC Divisional Round</sub-title>
-    <episode-num system="onscreen">S2026E13</episode-num>
-    <desc>The Los Angeles Rams struggled for much of their 20-17 divisional round win against the Chicago Bears, but the Rams' defense stepped up when it needed to most, with safety Kam Curl intercepting a Caleb Williams pass in overtime.</desc>
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260124094100 +0000" stop="20260124101400 +0000">
+    <title>NFL Throwback</title>
+    <sub-title>Top 100 Runs Since 2000</sub-title>
+    <episode-num system="onscreen">S2026E03</episode-num>
+    <desc>The most impressive rushes of the past quarter century.</desc>
     <date>20260123</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260124101400 +0000" stop="20260124132500 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2022 AFC Championship: Bengals vs. Chiefs</sub-title>
+    <episode-num system="onscreen">S2023E25</episode-num>
+    <desc>Harrison Butker sent a 45-yard kick through cold, gusting wind over the crossbar with 3 seconds to go, and put the Chiefs back in the Super Bowl for the third time in four years with a 23-20 victory.</desc>
+    <date>20230204</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260124132500 +0000" stop="20260124135500 +0000">
+    <title>NFL Media Originals</title>
+    <sub-title>Most Interesting Plays - 2025 Season</sub-title>
+    <episode-num system="onscreen">S2026E08</episode-num>
+    <desc>The most interesting plays and moments from the 2025 NFL season.</desc>
+    <date>20260123</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260124135500 +0000" stop="20260124174200 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2011 NFC Championship: Giants vs. 49ers</sub-title>
+    <episode-num system="onscreen">S2023E167</episode-num>
+    <desc>The New York Giants had just completed a 20-17 overtime win over the San Francisco 49ers in the 2011 NFC Championship Game to advance to Super Bowl XLVI.</desc>
+    <date>20230921</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260124174200 +0000" stop="20260124211300 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2018 AFC Championship: Patriots at Chiefs</sub-title>
+    <episode-num system="onscreen">S2022E79</episode-num>
+    <desc>Relive the 2018 AFC Championship matchup between the New England Patriots and the Kansas City Chiefs.</desc>
+    <date>20220124</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260124211300 +0000" stop="20260125002700 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2014 NFC Championship: Packers at Seahawks</sub-title>
+    <episode-num system="onscreen">S2022E80</episode-num>
+    <desc>The Seattle Seahawks return to the Super Bowl for the second-straight year after a thrilling overtime victory against the Green Bay Packers in the 2014 NFC Championship Game.</desc>
+    <date>20220124</date>
   </programme>
   
 </tv>
