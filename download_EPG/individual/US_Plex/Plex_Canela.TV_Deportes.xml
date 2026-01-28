@@ -5,21 +5,75 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/f345c0b8-c5b8-49a4-82f2-28fa7fcfe7e8/CM-Plex-dark_logo-CanelaTV-deportes_-_Natalia_Rodriguez.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260126230000 +0000" stop="20260127010000 +0000">
-    <title>El Curubito</title>
-    <category>Movie</category>
-    <desc>Programa de entretenimiento deportivo en el que el fútbol se debate con garra y sin filtros.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260127010000 +0000" stop="20260127020032 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260128010000 +0000" stop="20260128020000 +0000">
     <title>100% Futbol</title>
     <category>Movie</category>
-    <desc>Todo lo que necesitas saber de futbol.</desc>
+    <desc>100% Futbol</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260127020032 +0000" stop="20260127044016 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260128020000 +0000" stop="20260128040159 +0000">
+    <title>Probox TV</title>
+    <sub-title>Serie de contendientes: Martinez vs James</sub-title>
+    <episode-num system="onscreen">S02E23</episode-num>
+    <desc>Evento Estelar: Lester Martinez vs Joeshon James.</desc>
+    <date>20250101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5ce04980-5b87-4816-9134-60c7126c1543_16x9.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260128040159 +0000" stop="20260128063706 +0000">
+    <title>Probox TV</title>
+    <sub-title>Kalajdzic vs Barrera</sub-title>
+    <episode-num system="onscreen">S02E15</episode-num>
+    <desc>Evento Principal: Radivoje vs Kalajdzic, Evento Co-Principal: Luke Santamaria vs Nicklaus Flaz.</desc>
+    <date>20240101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5ce04980-5b87-4816-9134-60c7126c1543_16x9.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260128063706 +0000" stop="20260128093905 +0000">
+    <title>Probox TV</title>
+    <sub-title>Serie de contendientes: Cárdenas vs Acosta</sub-title>
+    <episode-num system="onscreen">S02E20</episode-num>
+    <desc>Evento Estelar: Ramon Cardenas vs Bryan Acosta.</desc>
+    <date>20250101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5ce04980-5b87-4816-9134-60c7126c1543_16x9.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260128093905 +0000" stop="20260128095653 +0000">
+    <title>One on One</title>
+    <sub-title>Gastón Reyno</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Los sueños cumplidos de un artemarcialista uruguayo.</desc>
+    <date>20230101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/067baa4c-1b77-43fd-9e42-ab63f8f100eb_ctv_oneonone_general_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260128095653 +0000" stop="20260128141401 +0000">
+    <title>Canela Boxeo - Concepción Vs Márquez</title>
+    <category>Movie</category>
+    <desc>No te pierdas la pelea de Concepción Vs Márquez</desc>
+    <date>20220101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260128141401 +0000" stop="20260128144016 +0000">
+    <title>One on One</title>
+    <sub-title>Alberto del Río</sub-title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <desc>Alberto del Río hizo historia, al ser el primer mexicano campeón de la WWE.</desc>
+    <date>20230101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/067baa4c-1b77-43fd-9e42-ab63f8f100eb_ctv_oneonone_general_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260128144016 +0000" stop="20260128174516 +0000">
+    <title>Series de Contendientes: Lopez vs Henderson</title>
+    <category>Movie</category>
+    <desc>Evento Estelar: Najee Lopez vs Kalvin Henderson.</desc>
+    <date>20250101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/570726888bee6ab1f9557be36605a4a2e02bc5b2_2x3.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260128174516 +0000" stop="20260128202701 +0000">
     <title>Probox TV</title>
     <sub-title>Meng vs Pascal</sub-title>
     <episode-num system="onscreen">S03E01</episode-num>
@@ -28,57 +82,21 @@
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5ce04980-5b87-4816-9134-60c7126c1543_16x9.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260127044016 +0000" stop="20260127091349 +0000">
-    <title>Probox TV</title>
-    <sub-title>MDB: Cardenas vs Ramirez</sub-title>
-    <episode-num system="onscreen">S02E14</episode-num>
-    <desc>Evento Principal: Radivoje vs Kalajdzic, Evento Co-Principal: Luke Santamaria vs Nicklaus Flaz.</desc>
-    <date>20240101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5ce04980-5b87-4816-9134-60c7126c1543_16x9.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260127091349 +0000" stop="20260127113834 +0000">
-    <title>Noches de Boxeo</title>
-    <sub-title>"Destructor" vs "Red Boy"</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Canela Box - "Destructor" vs "Red Boy". Una pelea a por todo.</desc>
-    <date>20230101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/205d3a9a-cbee-4fd7-bb2f-3fe00c450ae1_box_generico_16x9_0.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260127113834 +0000" stop="20260127150134 +0000">
-    <title>Noches de Boxeo</title>
-    <sub-title>Héctor ‘Baby Bull’ Flores vs Mario Gutiérrez</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Canela Box – Héctor ‘Baby Bull’ Flores vs Mario Gutiérrez: Saldrán chispas</desc>
-    <date>20230101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/205d3a9a-cbee-4fd7-bb2f-3fe00c450ae1_box_generico_16x9_0.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260127150134 +0000" stop="20260127172727 +0000">
-    <title>Noches de Boxeo</title>
-    <sub-title>'Sinaloita' vs 'La Bestia'</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Rodolfo Orozco y Elian Trejo encabezan una gran combate de Box.</desc>
-    <date>20230101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/205d3a9a-cbee-4fd7-bb2f-3fe00c450ae1_box_generico_16x9_0.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260127172727 +0000" stop="20260127193008 +0000">
-    <title>Noches de Boxeo</title>
-    <sub-title>General vs Chico</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>David Cuellar y Francisco Mendivil encabezan una gran combate de Box desde Cancún.</desc>
-    <date>20230101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/205d3a9a-cbee-4fd7-bb2f-3fe00c450ae1_box_generico_16x9_0.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260127193008 +0000" stop="20260127232526 +0000">
-    <title>Serie de Contendientes: White vs Romero</title>
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260128202701 +0000" stop="20260129005130 +0000">
+    <title>Series de Contendientes: Cardenas vs Robles</title>
     <category>Movie</category>
-    <desc>Evento Estelar: Jordan White vs Jose Matias Romero.</desc>
+    <desc>Evento Estelar: Ramon Cardenas vs Erik Robles.</desc>
     <date>20250101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/441a836e3fba6f58a67f078b63a9f36f2db553c8_2x3.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260129005130 +0000" stop="20260129020031 +0000">
+    <title>Until 18</title>
+    <sub-title>Mariana Pajón</sub-title>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <desc>Mariana Pajón tuvo que decidir entre una carrera de medicina y el BMX.</desc>
+    <date>20210101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/6fa3cb4f-e126-4210-8893-adfe58ed8eaf_until_18_16x9.png" />
   </programme>
   
 </tv>
