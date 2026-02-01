@@ -5,58 +5,92 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/a3b45d90-8290-4886-8017-d55ed6517f6c/ONE_1500x1000_for_dark_bgd_-_Eddie_Hunter-HigginsRDX.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20260130221845 +0000" stop="20260131020000 +0000">
-    <title>ONE Numbered Event</title>
-    <sub-title>ONE 173: Part 2</sub-title>
-    <episode-num system="onscreen">S25E15</episode-num>
-    <desc>Stamp, Marat Grigorian, Takeru, Superlek and Yuki Yoza showcase elite striking in a dynamic middle chapter.</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFN34.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20260131020000 +0000" stop="20260131065000 +0000">
-    <title>OFF 140 Replay</title>
-    <category>Movie</category>
-    <desc>OFF 140 Replay</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/48772efe-4b7a-4953-a712-3674043797aa/ONE_2000x300_-_Eddie_Hunter-Higgins.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20260131065000 +0000" stop="20260131092927 +0000">
-    <title>ONE Numbered Event</title>
-    <sub-title>ONE 173: Part 1</sub-title>
-    <episode-num system="onscreen">S25E14</episode-num>
-    <desc>Jake Peacock, Suakim, Ryugo Takeuchi and Shamil Erdogan headline a fast-paced opener from Tokyo.</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFN34.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20260131092927 +0000" stop="20260131131042 +0000">
-    <title>ONE Numbered Event</title>
-    <sub-title>ONE 173: Part 2</sub-title>
-    <episode-num system="onscreen">S25E15</episode-num>
-    <desc>Stamp, Marat Grigorian, Takeru, Superlek and Yuki Yoza showcase elite striking in a dynamic middle chapter.</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFN34.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20260131131042 +0000" stop="20260131165335 +0000">
-    <title>ONE Numbered Event</title>
-    <sub-title>ONE 173: Part 3</sub-title>
-    <episode-num system="onscreen">S25E16</episode-num>
-    <desc>Superbon v Noiri + Christian Lee, Joshua Pacio, Nadaka lead a stacked lineup of world title clashes.</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFN34.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20260131165335 +0000" stop="20260131214336 +0000">
-    <title>OFF 140 Replay</title>
-    <category>Movie</category>
-    <desc>OFF 140 Replay</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/48772efe-4b7a-4953-a712-3674043797aa/ONE_2000x300_-_Eddie_Hunter-Higgins.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20260131214336 +0000" stop="20260201033940 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20260131205757 +0000" stop="20260201025401 +0000">
     <title>ONE Fight Night.</title>
     <sub-title>OFN 26: Lee v Rasulov</sub-title>
     <episode-num system="onscreen">S01E26</episode-num>
     <desc>Lee and Rasulov top a gritty night of MMA &amp; Muay Thai as ONE returns to Bangkok for a stacked card.</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFN_20.png" />
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFN_18.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20260201025401 +0000" stop="20260201080622 +0000">
+    <title>ONE Fight Night.</title>
+    <sub-title>OFN 27: Tang v Abdullaev</sub-title>
+    <episode-num system="onscreen">S01E27</episode-num>
+    <desc>Tang vs Abdullaev headlines as Zamboanga and Rassohyna battle for interim atomweight gold in Bangkok</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFN_18.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20260201080622 +0000" stop="20260201130033 +0000">
+    <title>ONE Fight Night.</title>
+    <sub-title>OFN 28: Prajanchai v Barboza</sub-title>
+    <episode-num system="onscreen">S01E28</episode-num>
+    <desc>Prajanchai and Barboza lock horns in a thrilling clash of striking styles on a packed Lumpinee card.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFN_18.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20260201130033 +0000" stop="20260201174545 +0000">
+    <title>ONE Numbered Event</title>
+    <sub-title>ONE 100: Century</sub-title>
+    <episode-num system="onscreen">S19E16</episode-num>
+    <desc>ONE Championship commemorates its 100th blockbuster show with ONE: CENTURY in Tokyo, Japan - Part 1.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFN34.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20260201174545 +0000" stop="20260201232145 +0000">
+    <title>ONE Numbered Event</title>
+    <sub-title>ONE 100: Century - Part 2</sub-title>
+    <episode-num system="onscreen">S19E17</episode-num>
+    <desc>ONE Championship commemorates its 100th blockbuster show with ONE: CENTURY in Tokyo, Japan - Part 2.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFN34.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20260201232145 +0000" stop="20260201234630 +0000">
+    <title>ONE Friday Fights 2026</title>
+    <sub-title>OFF 140: Chen v Naruo</sub-title>
+    <episode-num system="onscreen">S2026E23</episode-num>
+    <desc>Chen Jiayi’s skilled striking meets Hiroki Naruo’s slick movement and counter-heavy style.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20260201234630 +0000" stop="20260202000132 +0000">
+    <title>ONE Friday Fights 2026</title>
+    <sub-title>OFF 140: Britez v Alymbek Uulu</sub-title>
+    <episode-num system="onscreen">S2026E24</episode-num>
+    <desc>Britez represents Paraguay's debut to ONE Championship against Kyrgyzstan's Alymbek Uulu.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20260202000132 +0000" stop="20260202001727 +0000">
+    <title>ONE Friday Fights 2026</title>
+    <sub-title>OFF 140: Viet Anh Do v Saclag</sub-title>
+    <episode-num system="onscreen">S2026E25</episode-num>
+    <desc>New Zealand's Viet Anh Do’s fast-paced striking faces Saclag’s physicality and well-rounded attack.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20260202001727 +0000" stop="20260202004334 +0000">
+    <title>ONE Friday Fights 2026</title>
+    <sub-title>OFF 140: Kacem v Rachid</sub-title>
+    <episode-num system="onscreen">S2026E26</episode-num>
+    <desc>Antar Kacem’s power and clinch work clash with Hamza Rachid’s speed and technical Muay Thai tools.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20260202004334 +0000" stop="20260202011507 +0000">
+    <title>ONE Friday Fights 2026</title>
+    <sub-title>OFF 140: Pepsi v Petmuangdet</sub-title>
+    <episode-num system="onscreen">S2026E27</episode-num>
+    <desc>Thailand is doubly represented in this battle of power between Pepsi and Petmuangdet.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" start="20260202011507 +0000" stop="20260202013831 +0000">
+    <title>ONE Friday Fights 2026</title>
+    <sub-title>OFF 140: Saleh v Neuschwander</sub-title>
+    <episode-num system="onscreen">S2026E28</episode-num>
+    <desc>Fighter Yara Saleh’s speed collides with Zoe Neuschwander’s sharp timing.</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/ONEWL/OFF_Gen_2.jpg" />
   </programme>
   
 </tv>

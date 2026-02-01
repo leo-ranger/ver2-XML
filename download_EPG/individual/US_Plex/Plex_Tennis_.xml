@@ -5,41 +5,50 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260130230000 +0000" stop="20260131060000 +0000">
-    <title>LIVE - AO Pickleball Slam</title>
-    <category>Movie</category>
-    <desc>LIVE - AO Pickleball Slam</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/7a4c210d-ee2a-49e2-9fea-9f150c1ede05/4_Tennis_Plus__Vertical_Default_Art__2000x3000px_v3.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260131060000 +0000" stop="20260131161747 +0000">
-    <title>AO Bluezone - Day 14</title>
-    <category>Movie</category>
-    <desc>AO Bluezone - Day 14</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/7a4c210d-ee2a-49e2-9fea-9f150c1ede05/4_Tennis_Plus__Vertical_Default_Art__2000x3000px_v3.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260131161747 +0000" stop="20260131203703 +0000">
-    <title>Australian Open Full Match</title>
-    <sub-title>AO17 Men's Final - Federer v Nadal</sub-title>
-    <episode-num system="onscreen">S2017E01</episode-num>
-    <desc>Full Match of Australian Open 2017 Men's Final - Roger Federer v Rafael Nadal</desc>
-    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260131203703 +0000" stop="20260131230000 +0000">
-    <title>Australian Open Full Match</title>
-    <sub-title>AO25 Men's Final - Sinner v Zverev</sub-title>
-    <episode-num system="onscreen">S2025E02</episode-num>
-    <desc>Full Match of Australian Open 2025 Men's Final - Jannik Sinner v Alexander Zverev</desc>
-    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
-  </programme>
-  
 <programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260131230000 +0000" stop="20260201060000 +0000">
     <title>AO Pickleball Slam</title>
     <category>Movie</category>
     <desc>AO Pickleball Slam</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/7a4c210d-ee2a-49e2-9fea-9f150c1ede05/4_Tennis_Plus__Vertical_Default_Art__2000x3000px_v3.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260201060000 +0000" stop="20260201130317 +0000">
+    <title>AO Bluezone - Day 15</title>
+    <category>Movie</category>
+    <desc>AO Bluezone - Day 15</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/7a4c210d-ee2a-49e2-9fea-9f150c1ede05/4_Tennis_Plus__Vertical_Default_Art__2000x3000px_v3.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260201130317 +0000" stop="20260201182053 +0000">
+    <title>Australian Open Full Match</title>
+    <sub-title>AO09 Men's Final - Federer v Nadal</sub-title>
+    <episode-num system="onscreen">S2009E01</episode-num>
+    <desc>Full Match of Australian Open 2009 Men's Final - Roger Federer v Rafael Nadal</desc>
+    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260201182053 +0000" stop="20260201233316 +0000">
+    <title>Australian Open Full Match</title>
+    <sub-title>AO12 Men's Final - Djokovic v Nadal</sub-title>
+    <episode-num system="onscreen">S2012E02</episode-num>
+    <desc>Full Match of Australian Open 2012 Men's Final - Novak Djokovic v Rafael Nadal</desc>
+    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260201233316 +0000" stop="20260202005805 +0000">
+    <title>Australian Open Full Match</title>
+    <sub-title>AO12 Women's Final - Azarenka v Sharapova</sub-title>
+    <episode-num system="onscreen">S2012E06</episode-num>
+    <desc>Full Match of Australian Open 2012 Women's Final - Victoria Azarenka v Maria Sharapova</desc>
+    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260202005805 +0000" stop="20260202045834 +0000">
+    <title>Australian Open Full Match</title>
+    <sub-title>AO23 Men's Third Round - Sinner v Fucsovics</sub-title>
+    <episode-num system="onscreen">S2023E17</episode-num>
+    <desc>Full Match of Australian Open 2023 Men's Third Round - Jannik Sinner v Marton Fucsovics</desc>
+    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
   </programme>
   
 </tv>
