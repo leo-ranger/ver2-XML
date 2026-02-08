@@ -1,175 +1,154 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607">
+<channel id="5e20b730f2f8d5003d739db7-69727a4631b12b32a91db6b3">
     <display-name>FreeTV Horror</display-name>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/58ef64d6-9c1e-47ef-bd2c-093028ea776b/FreeTVHorror_Circle_1500x1000_-_Ralph_Campillo.png" />
+    <icon src="https://provider-static.plex.tv/epg/cms/production/420ddff5-f7d5-4ac5-8a43-722d3c940ed0/FreeTVHorror_Circle_1500x1000_-_Ralph_Campillo_WHITE_ATTRIBUTIONRDX__1_.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" start="20260206005933 +0000" stop="20260206024334 +0000">
-    <title>Un Sueño Mortal</title>
+<programme channel="5e20b730f2f8d5003d739db7-69727a4631b12b32a91db6b3" start="20260208005719 +0000" stop="20260208021858 +0000">
+    <title>Avaricia</title>
     <category>Movie</category>
-    <desc>Cuando una cantante adolescente en ascenso es acusada falsamente de asesinar a su productor, su madre debe encontrar al verdadero asesino antes de que su hija sea enviada a prisión de por vida.</desc>
-    <date>20240801</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/musmor1_cover_unsuenomortal_es_1080x1620.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" start="20260206024334 +0000" stop="20260206033658 +0000">
-    <title>Westside</title>
-    <sub-title>Episodio 5</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>El trabajo más grande de los Wests tiene consecuencias. Además, Wolf tiene novia. Intriga en aumento.</desc>
-    <date>20250718</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/swests1_featured_es_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" start="20260206033658 +0000" stop="20260206043039 +0000">
-    <title>Westside</title>
-    <sub-title>Episodio 6</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Ted y Rita enfrentan los problemas de Wolf, quien ha estado en aprietos. La familia busca soluciones.</desc>
-    <date>20250718</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/swests1_featured_es_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" start="20260206043039 +0000" stop="20260206055005 +0000">
-    <title>Poseído</title>
-    <category>Movie</category>
-    <desc>Cristian es atacado por una entidad maligna, su madre no sabía que hacer, su padrino, el padre Ernesto luchó para salvarlo y así recuperar la fe del pueblo.</desc>
+    <desc>Cuando su hijo es secuestrado por un asesino en serie impulsado por la codicia, una madre desesperada hará lo imposible por salvarlo. Mientras el criminal cae en la locura, la vida del niño pende de un hilo... y el tiempo se agota.</desc>
     <date>20250601</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mposed1_featured_es_1080x1620.jpg" />
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mavari1_cover_avaricia_es_1080x1620.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" start="20260206055005 +0000" stop="20260206071844 +0000">
-    <title>Cub</title>
+<programme channel="5e20b730f2f8d5003d739db7-69727a4631b12b32a91db6b3" start="20260208021858 +0000" stop="20260208040513 +0000">
+    <title>La Zona</title>
     <category>Movie</category>
-    <desc>Sam, de 12 años, sufre acoso en su grupo de exploradores, liderado por el cruel Peter. En una excursión en un bosque cercano a la frontera francesa, Sam descubre que la leyenda de un espíritu llamado Kai es real. Pero nadie le cree... hasta que es tarde.</desc>
-    <date>20250701</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mcub001_cover_ellobato_es_1080x1620.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" start="20260206071844 +0000" stop="20260206085120 +0000">
-    <title>Infección Zombi</title>
-    <category>Movie</category>
-    <desc>El 97% de la humanidad está infectada por un virus mortal. Los pocos soldados intentan restablecer el orden, luchando contra grupos de saqueadores armados y llevando a los sobrevivientes a un lugar seguro.</desc>
+    <desc>Los residentes de un barrio cerrado en el centro de México DF están conmocionados por un crimen violento, y por uno de los residentes en particular, el joven Alejandro, el drama se incrementa cuando se encuentra con el chico solitario que escapó del evento y se esconde dentro de los limites del barrio.</desc>
     <date>20250601</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mizomb1_2x3_infeccionzombi_es_1080x1620.jpg" />
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mlzona1_cover_lazona_es_1080x1620.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" start="20260206085120 +0000" stop="20260206094444 +0000">
-    <title>Westside</title>
-    <sub-title>Episodio 5</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>El trabajo más grande de los Wests tiene consecuencias. Además, Wolf tiene novia. Intriga en aumento.</desc>
-    <date>20250718</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/swests1_featured_es_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" start="20260206094444 +0000" stop="20260206110000 +0000">
-    <title>Un Sueño Mortal</title>
+<programme channel="5e20b730f2f8d5003d739db7-69727a4631b12b32a91db6b3" start="20260208040513 +0000" stop="20260208053623 +0000">
+    <title>Solar Impact</title>
     <category>Movie</category>
-    <desc>Cuando una cantante adolescente en ascenso es acusada falsamente de asesinar a su productor, su madre debe encontrar al verdadero asesino antes de que su hija sea enviada a prisión de por vida.</desc>
-    <date>20240801</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/musmor1_cover_unsuenomortal_es_1080x1620.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" start="20260206110000 +0000" stop="20260206115125 +0000">
-    <title>Black Lake</title>
-    <sub-title>Episodio 3</sub-title>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <desc>Oscar se comporta extraño, molestando a Amina. Johan incumple reglas. Minnie investiga desaparición.</desc>
-    <date>20250703</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sblake1_featured_es_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" start="20260206115125 +0000" stop="20260206124259 +0000">
-    <title>Black Lake</title>
-    <sub-title>Episodio 4</sub-title>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <desc>Minnie y Uno se acercan, descubren que Uno guarda secretos oscuros del pasado.</desc>
-    <date>20250703</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sblake1_featured_es_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" start="20260206124259 +0000" stop="20260206142944 +0000">
-    <title>The Evil Within</title>
-    <category>Movie</category>
-    <desc>Un chico con discapacidad mental que vive con su hermano mayor es ordenado por una criatura sádica en sus sueños a emprender una ola de asesinatos.</desc>
+    <desc>Después de que los desechos solares impactan la Tierra, la devastación y la radiación solar amenazan la supervivencia. Un grupo de amigos lucha contra mutaciones genéticas y el caos para sobrevivir y escapar.</desc>
     <date>20250601</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mtewit1_featured_es_1080x1620.jpg" />
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/msimpa1_featured_es_1080x1620.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" start="20260206142944 +0000" stop="20260206155720 +0000">
-    <title>The Unwilling</title>
+<programme channel="5e20b730f2f8d5003d739db7-69727a4631b12b32a91db6b3" start="20260208053623 +0000" stop="20260208071607 +0000">
+    <title>Presidents Day</title>
     <category>Movie</category>
-    <desc>En la casa de David Harris, una misteriosa caja antigua revela secretos mortales para cinco familiares. Temen la venganza del espíritu de su padre, pero algo más aterrador acecha. Deben resolver el rompecabezas o morirán sepultados en su casa.</desc>
+    <desc>Los líderes zombificados del mundo libre se levantan de entre los muertos para cazar a un grupo de adolescentes desafortunados y darles una lección letal sobre la historia estadounidense. Su única esperanza de supervivencia es convocar al espíritu demoníaco de John Wilkes Booth.</desc>
     <date>20250601</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mtunwi1_featured_es_1080x1620.jpg" />
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mpday01_cover_diadelospresidentes_es_1080x1620.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" start="20260206155720 +0000" stop="20260206172038 +0000">
-    <title>Clinton Road</title>
+<programme channel="5e20b730f2f8d5003d739db7-69727a4631b12b32a91db6b3" start="20260208071607 +0000" stop="20260208083648 +0000">
+    <title>Karma Mortal</title>
     <category>Movie</category>
-    <desc>Existe un tramo de diez millas de carretera en Nueva Jersey que ha ganado notoriedad. Leyendas de asesinatos, apariciones, lo oculto y lo paranormal rodean el área. Es considerado uno de los lugares más misteriosos de los Estados Unidos.</desc>
+    <desc>Víctima de la burla y el acoso en la escuela, Sammy tomará la más sangrienta de las venganzas.</desc>
     <date>20250601</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mcroad1_cover_lacarreteraclinton_es_1080x1620.jpg" />
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mkmort1_cover_karmamortal_es_1080x1620.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" start="20260206172038 +0000" stop="20260206184726 +0000">
-    <title>La Señora Haidi</title>
+<programme channel="5e20b730f2f8d5003d739db7-69727a4631b12b32a91db6b3" start="20260208083648 +0000" stop="20260208110000 +0000">
+    <title>Avaricia</title>
     <category>Movie</category>
-    <desc>Una noche tormentosa obliga a Pablo y Mara a refugiarse en la aislada casa de la aparentemente benévola Sra. Haidi. Sin embargo, su fachada acogedora pronto se resquebraja, revelando una presencia siniestra e inquietante.</desc>
+    <desc>Cuando su hijo es secuestrado por un asesino en serie impulsado por la codicia, una madre desesperada hará lo imposible por salvarlo. Mientras el criminal cae en la locura, la vida del niño pende de un hilo... y el tiempo se agota.</desc>
     <date>20250601</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mlshai1_featured_es_1080x1620.jpg" />
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mavari1_cover_avaricia_es_1080x1620.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" start="20260206184726 +0000" stop="20260206193851 +0000">
-    <title>Black Lake</title>
-    <sub-title>Episodio 3</sub-title>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <desc>Oscar se comporta extraño, molestando a Amina. Johan incumple reglas. Minnie investiga desaparición.</desc>
-    <date>20250703</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sblake1_featured_es_1920x1080.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-69727a4631b12b32a91db6b3" start="20260208110000 +0000" stop="20260208115429 +0000">
+    <title>Represa</title>
+    <sub-title>Enterrando a los muertos</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Yola regresa a Sudáfrica al funeral de su padre. Allí tendrá que enfrentar su pasado mientras ve espíritus.</desc>
+    <date>20251229</date>
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sd01001_cover_represa_es_2560x1440.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" start="20260206193851 +0000" stop="20260206203025 +0000">
-    <title>Black Lake</title>
-    <sub-title>Episodio 4</sub-title>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <desc>Minnie y Uno se acercan, descubren que Uno guarda secretos oscuros del pasado.</desc>
-    <date>20250703</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sblake1_featured_es_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" start="20260206203025 +0000" stop="20260206221710 +0000">
-    <title>The Evil Within</title>
+<programme channel="5e20b730f2f8d5003d739db7-69727a4631b12b32a91db6b3" start="20260208115429 +0000" stop="20260208124631 +0000">
+    <title>Episodio 2</title>
     <category>Movie</category>
-    <desc>Un chico con discapacidad mental que vive con su hermano mayor es ordenado por una criatura sádica en sus sueños a emprender una ola de asesinatos.</desc>
-    <date>20250601</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mtewit1_featured_es_1080x1620.jpg" />
+    <desc>Yola y su hermana Sienna asisten a la lectura del testamento de su padre.</desc>
+    <date>20250723</date>
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/sd01001_cover_represa_es_1080x1620.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" start="20260206221710 +0000" stop="20260206234446 +0000">
-    <title>The Unwilling</title>
+<programme channel="5e20b730f2f8d5003d739db7-69727a4631b12b32a91db6b3" start="20260208124631 +0000" stop="20260208141839 +0000">
+    <title>Hospital Infernal</title>
     <category>Movie</category>
-    <desc>En la casa de David Harris, una misteriosa caja antigua revela secretos mortales para cinco familiares. Temen la venganza del espíritu de su padre, pero algo más aterrador acecha. Deben resolver el rompecabezas o morirán sepultados en su casa.</desc>
+    <desc>Las cosas no pueden ir peor pues un maníaco acecha los corredores matando a pacientes y al personal.</desc>
     <date>20250601</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mtunwi1_featured_es_1080x1620.jpg" />
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mhinfe1_cover_hospitalinfernal_es_1080x1620.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" start="20260206234446 +0000" stop="20260207010804 +0000">
-    <title>Clinton Road</title>
+<programme channel="5e20b730f2f8d5003d739db7-69727a4631b12b32a91db6b3" start="20260208141839 +0000" stop="20260208160018 +0000">
+    <title>Mea Culpa</title>
     <category>Movie</category>
-    <desc>Existe un tramo de diez millas de carretera en Nueva Jersey que ha ganado notoriedad. Leyendas de asesinatos, apariciones, lo oculto y lo paranormal rodean el área. Es considerado uno de los lugares más misteriosos de los Estados Unidos.</desc>
+    <desc>Cuando cuatro desconocidos se encuentran atrapados en un cuarto con un cadaver, descubrirán que todos son parte del último acto de venganza de un hombre traicionado.</desc>
     <date>20250601</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mcroad1_cover_lacarreteraclinton_es_1080x1620.jpg" />
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mmculp1_featured_es_1080x1620.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" start="20260207010804 +0000" stop="20260207023452 +0000">
-    <title>La Señora Haidi</title>
+<programme channel="5e20b730f2f8d5003d739db7-69727a4631b12b32a91db6b3" start="20260208160018 +0000" stop="20260208171302 +0000">
+    <title>Hacksaw</title>
     <category>Movie</category>
-    <desc>Una noche tormentosa obliga a Pablo y Mara a refugiarse en la aislada casa de la aparentemente benévola Sra. Haidi. Sin embargo, su fachada acogedora pronto se resquebraja, revelando una presencia siniestra e inquietante.</desc>
+    <desc>Joven pareja en un viaje por carretera se desvía hacia el lugar donde un conocido asesino, Ed "Sierra" Crowe, se convirtió en una leyenda urbana el día en que fue asesinado, pero rápidamente se dan cuenta de que dicha leyenda empieza a cobrar vida.</desc>
     <date>20250601</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mlshai1_featured_es_1080x1620.jpg" />
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mhacks1_featured_es_1080x1620.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-69727a4631b12b32a91db6b3" start="20260208171302 +0000" stop="20260208185415 +0000">
+    <title>La casa de Grindstone Road</title>
+    <category>Movie</category>
+    <desc>A Hannah la acechan fenómenos inexplicables e inquietantes.</desc>
+    <date>20250601</date>
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mlmdlc1_cover_featured_es_1080x1620.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-69727a4631b12b32a91db6b3" start="20260208185415 +0000" stop="20260208194844 +0000">
+    <title>Represa</title>
+    <sub-title>Enterrando a los muertos</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Yola regresa a Sudáfrica al funeral de su padre. Allí tendrá que enfrentar su pasado mientras ve espíritus.</desc>
+    <date>20251229</date>
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sd01001_cover_represa_es_2560x1440.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-69727a4631b12b32a91db6b3" start="20260208194844 +0000" stop="20260208204046 +0000">
+    <title>Episodio 2</title>
+    <category>Movie</category>
+    <desc>Yola y su hermana Sienna asisten a la lectura del testamento de su padre.</desc>
+    <date>20250723</date>
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/sd01001_cover_represa_es_1080x1620.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-69727a4631b12b32a91db6b3" start="20260208204046 +0000" stop="20260208221254 +0000">
+    <title>Hospital Infernal</title>
+    <category>Movie</category>
+    <desc>Las cosas no pueden ir peor pues un maníaco acecha los corredores matando a pacientes y al personal.</desc>
+    <date>20250601</date>
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mhinfe1_cover_hospitalinfernal_es_1080x1620.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-69727a4631b12b32a91db6b3" start="20260208221254 +0000" stop="20260208235433 +0000">
+    <title>Mea Culpa</title>
+    <category>Movie</category>
+    <desc>Cuando cuatro desconocidos se encuentran atrapados en un cuarto con un cadaver, descubrirán que todos son parte del último acto de venganza de un hombre traicionado.</desc>
+    <date>20250601</date>
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mmculp1_featured_es_1080x1620.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-69727a4631b12b32a91db6b3" start="20260208235433 +0000" stop="20260209010717 +0000">
+    <title>Hacksaw</title>
+    <category>Movie</category>
+    <desc>Joven pareja en un viaje por carretera se desvía hacia el lugar donde un conocido asesino, Ed "Sierra" Crowe, se convirtió en una leyenda urbana el día en que fue asesinado, pero rápidamente se dan cuenta de que dicha leyenda empieza a cobrar vida.</desc>
+    <date>20250601</date>
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mhacks1_featured_es_1080x1620.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-69727a4631b12b32a91db6b3" start="20260209010717 +0000" stop="20260209024830 +0000">
+    <title>La casa de Grindstone Road</title>
+    <category>Movie</category>
+    <desc>A Hannah la acechan fenómenos inexplicables e inquietantes.</desc>
+    <date>20250601</date>
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mlmdlc1_cover_featured_es_1080x1620.jpg" />
   </programme>
   
 </tv>
