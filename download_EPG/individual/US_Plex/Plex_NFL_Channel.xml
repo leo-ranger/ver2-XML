@@ -5,83 +5,184 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/a7617b69-6d23-46d0-8e8e-e4ec9fa29d59/NFL_WHITE.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260208233000 +0000" stop="20260209033000 +0000">
-    <title>NFL GameCenter Live</title>
-    <sub-title>NFL GameCenter Live</sub-title>
-    <episode-num system="onscreen">S2026E15</episode-num>
-    <desc>Get live NFL scores, highlights, news, and more during Super Bowl LX.</desc>
-    <date>20260208</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d7cb021ad08b6166349d1cc15fb1b360.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260209225600 +0000" stop="20260210022800 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2025: Rams vs. Seahawks - Week 16</sub-title>
+    <episode-num system="onscreen">S2025E178</episode-num>
+    <desc>Sam Darnold guides a 16-point comeback against the Rams to force OT. Jaxson Smith-Njigba's touchdown and tight end Eric Saubert's two-point conversion complete the Seattle Seahawks comeback with a 38-37 win over the Los Angeles Rams in overtime.</desc>
+    <date>20251226</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260209033000 +0000" stop="20260209053000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260210022800 +0000" stop="20260210025800 +0000">
     <title>NFL Highlights</title>
-    <sub-title>NFL Highlights</sub-title>
-    <desc>Best moments and compilations including player highlights, top plays, and game highlights from Week 7 of the 2025 NFL season.</desc>
-    <date>20251021</date>
+    <sub-title>Sam Darnold's 2025 Season Highlights - Champions Spotlight</sub-title>
+    <desc>Seattle Seahawks quarterback Sam Darnold's best plays from the 2025 NFL season.</desc>
+    <date>20260209</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260209053000 +0000" stop="20260209060000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260210025800 +0000" stop="20260210035800 +0000">
+    <title>NFL Press Conferences</title>
+    <sub-title>NFL Press Conferences</sub-title>
+    <desc>NFL Press Conferences brings you behind the podium with coaches and players from around the league following Divisional Round during the 2025 NFL season.</desc>
+    <date>20260114</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260210035800 +0000" stop="20260210042800 +0000">
     <title>Weekly Game Recaps</title>
-    <sub-title>Weekly Game Recaps</sub-title>
+    <sub-title>Seahawks vs. Patriots Highlights - Super Bowl LX</sub-title>
     <desc>Weekly highlight series featuring the biggest moments and best plays from Super Bowl LX of the 2025 NFL season.</desc>
     <date>20260208</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260209060000 +0000" stop="20260209080000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260210042800 +0000" stop="20260210044800 +0000">
     <title>NFL Highlights</title>
-    <sub-title>NFL Highlights</sub-title>
-    <desc>Best moments and compilations including player highlights, top plays, and game highlights from Week 7 of the 2025 NFL season.</desc>
-    <date>20251021</date>
+    <sub-title>Jaxon Smith-Njigba 2025 Season Highlights - Champions Spotlight</sub-title>
+    <desc>Seattle Seahawks wide receiver Jaxon Smith-Njigba's best plays from the 2025 NFL season.</desc>
+    <date>20260209</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260209080000 +0000" stop="20260209083000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260210044800 +0000" stop="20260210050800 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>Kenneth Walker III's 2025 Season Highlights - Champions Spotlight</sub-title>
+    <desc>Seattle Seahawks running back Kenneth III's best plays from the 2025 NFL season.</desc>
+    <date>20260209</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260210050800 +0000" stop="20260210052800 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>Seattle Seahawks Defensive 2025 Season Highlights - Champions Spotlight</sub-title>
+    <desc>The Seattle Seahawks best defensive highlights from the 2025 NFL season.</desc>
+    <date>20260209</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260210052800 +0000" stop="20260210055800 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>Sam Darnold's 2025 Season Highlights - Champions Spotlight</sub-title>
+    <desc>Seattle Seahawks quarterback Sam Darnold's best plays from the 2025 NFL season.</desc>
+    <date>20260209</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260210055800 +0000" stop="20260210080100 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>Seattle Seahawks' Road to Super Bowl LX</sub-title>
+    <desc>Highlights of the Seattle Seahawks road to Super Bowl LX through the entire 2025 NFL season.</desc>
+    <date>20260208</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260210080100 +0000" stop="20260210102600 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2025: 49ers vs. Seahawks - NFC Divisional Round</sub-title>
+    <episode-num system="onscreen">S2026E11</episode-num>
+    <desc>Seattle Seahawks wide receiver Rashid Shaheed returned the opening kickoff for a touchdown, Kenneth Walker III rushed for three scores and the Seahawks advanced to the NFC championship game with a dominant 41-6 victory over the San Francisco 49ers.</desc>
+    <date>20260123</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260210102600 +0000" stop="20260210131700 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2025: Rams vs. Seahawks - NFC Championship</sub-title>
+    <episode-num system="onscreen">S2026E16</episode-num>
+    <desc>Re-airs of classic NFL Super Bowls, Championships and regular season games featuring some of the game's greatest.</desc>
+    <date>20260130</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260210131700 +0000" stop="20260210134700 +0000">
     <title>Weekly Game Recaps</title>
-    <sub-title>Weekly Game Recaps</sub-title>
+    <sub-title>Seahawks vs. Patriots Highlights - Super Bowl LX</sub-title>
     <desc>Weekly highlight series featuring the biggest moments and best plays from Super Bowl LX of the 2025 NFL season.</desc>
     <date>20260208</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260209083000 +0000" stop="20260209163000 +0000">
-    <title>NFL Game Re-Airs</title>
-    <sub-title>NFL Game Re-Airs</sub-title>
-    <desc>Re-airs of classic NFL Super Bowls, Championships and regular season games featuring some of the game's greatest.</desc>
-    <date>20260209</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260209163000 +0000" stop="20260209173000 +0000">
-    <title>NFL Game Re-Airs</title>
-    <sub-title>NFL Game Re-Airs</sub-title>
-    <desc>Re-airs of classic NFL Super Bowls, Championships and regular season games featuring some of the game's greatest.</desc>
-    <date>20260209</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260209173000 +0000" stop="20260209190000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260210134700 +0000" stop="20260210154900 +0000">
     <title>NFL Highlights</title>
-    <sub-title>NFL Highlights</sub-title>
-    <desc>Best moments and compilations including player highlights, top plays, and game highlights from Week 7 of the 2025 NFL season.</desc>
-    <date>20251021</date>
+    <sub-title>Seattle Seahawks' Road to Super Bowl LX</sub-title>
+    <desc>Highlights of the Seattle Seahawks road to Super Bowl LX through the entire 2025 NFL season.</desc>
+    <date>20260208</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260209190000 +0000" stop="20260209210000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260210154900 +0000" stop="20260210161900 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Seahawks vs. Patriots Highlights - Super Bowl LX</sub-title>
+    <desc>Weekly highlight series featuring the biggest moments and best plays from Super Bowl LX of the 2025 NFL season.</desc>
+    <date>20260208</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260210161900 +0000" stop="20260210164900 +0000">
     <title>NFL Highlights</title>
-    <sub-title>NFL Highlights</sub-title>
-    <desc>Best moments and compilations including player highlights, top plays, and game highlights from Week 7 of the 2025 NFL season.</desc>
-    <date>20251021</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260209210000 +0000" stop="20260209213000 +0000">
-    <title>Super Bowl LX Recap</title>
-    <sub-title>Super Bowl LX Recap</sub-title>
-    <desc>Highlight series featuring the biggest moments and best plays from the Super Bowl LX.</desc>
+    <sub-title>Sam Darnold's 2025 Season Highlights - Champions Spotlight</sub-title>
+    <desc>Seattle Seahawks quarterback Sam Darnold's best plays from the 2025 NFL season.</desc>
     <date>20260209</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260209213000 +0000" stop="20260210033000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260210164900 +0000" stop="20260210170900 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>Jaxon Smith-Njigba 2025 Season Highlights - Champions Spotlight</sub-title>
+    <desc>Seattle Seahawks wide receiver Jaxon Smith-Njigba's best plays from the 2025 NFL season.</desc>
+    <date>20260209</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260210170900 +0000" stop="20260210172900 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>Kenneth Walker III's 2025 Season Highlights - Champions Spotlight</sub-title>
+    <desc>Seattle Seahawks running back Kenneth III's best plays from the 2025 NFL season.</desc>
+    <date>20260209</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260210172900 +0000" stop="20260210174900 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>Seattle Seahawks Defensive 2025 Season Highlights - Champions Spotlight</sub-title>
+    <desc>The Seattle Seahawks best defensive highlights from the 2025 NFL season.</desc>
+    <date>20260209</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260210174900 +0000" stop="20260210203400 +0000">
     <title>NFL Game Re-Airs</title>
-    <sub-title>NFL Game Re-Airs</sub-title>
-    <desc>Re-airs of classic NFL Super Bowls, Championships and regular season games featuring some of the game's greatest.</desc>
+    <sub-title>Seahawks vs. Cardinals - Week 4, 2025</sub-title>
+    <episode-num system="onscreen">S2026E24</episode-num>
+    <desc>Sam Darnold hit Jaxon Smith-Njigba for a 22-yard gain in a last-minute response, Jason Myers made a 52-yard field goal as time expired, and the Seahawks withstood a late rally by Kyler Murray and the Cardinals to beat Arizona 23-20 on Thursday night.</desc>
     <date>20260209</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260210203400 +0000" stop="20260210232500 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2025: Rams vs. Seahawks - NFC Championship</sub-title>
+    <episode-num system="onscreen">S2026E16</episode-num>
+    <desc>Re-airs of classic NFL Super Bowls, Championships and regular season games featuring some of the game's greatest.</desc>
+    <date>20260130</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260210232500 +0000" stop="20260210235500 +0000">
+    <title>Weekly Game Recaps</title>
+    <sub-title>Seahawks vs. Patriots Highlights - Super Bowl LX</sub-title>
+    <desc>Weekly highlight series featuring the biggest moments and best plays from Super Bowl LX of the 2025 NFL season.</desc>
+    <date>20260208</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260210235500 +0000" stop="20260211002300 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>Sam Darnold's 2025 Season Highlights - Champions Spotlight</sub-title>
+    <desc>Seattle Seahawks quarterback Sam Darnold's best plays from the 2025 NFL season.</desc>
+    <date>20260209</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260211002300 +0000" stop="20260211004300 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>Kenneth Walker III's 2025 Season Highlights - Champions Spotlight</sub-title>
+    <desc>Seattle Seahawks running back Kenneth III's best plays from the 2025 NFL season.</desc>
+    <date>20260209</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260211004300 +0000" stop="20260211010000 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>Seattle Seahawks Defensive 2025 Season Highlights - Champions Spotlight</sub-title>
+    <desc>The Seattle Seahawks best defensive highlights from the 2025 NFL season.</desc>
+    <date>20260209</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260211010000 +0000" stop="20260211041000 +0000">
+    <title>Game of the Week</title>
+    <sub-title>Super Bowl LX</sub-title>
+    <desc>Re-air of Super Bowl LX featuring the final Game of the Week from the 2025 NFL season.</desc>
+    <date>20260210</date>
   </programme>
   
 </tv>
