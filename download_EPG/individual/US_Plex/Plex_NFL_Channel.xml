@@ -5,84 +5,155 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/a7617b69-6d23-46d0-8e8e-e4ec9fa29d59/NFL_WHITE.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260219013600 +0000" stop="20260219030800 +0000">
-    <title>NFL Media Originals</title>
-    <sub-title>Top 15 Games of 2025 Season</sub-title>
-    <episode-num system="onscreen">S2026E03</episode-num>
-    <desc>Best moments from the top 15 games of the 2025 NFL season.</desc>
-    <date>20260218</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260219030800 +0000" stop="20260219061900 +0000">
-    <title>NFL Game Re-Airs</title>
-    <sub-title>2025: Jaguars vs. Texans - Week 10</sub-title>
-    <episode-num system="onscreen">S2025E147</episode-num>
-    <desc>Davis Mills leads an improbable 19-point comeback in the fourth quarter as the Texans rally to beat Trevor Lawrence and the Jaguars in a 36-29 upset victory.</desc>
-    <date>20251114</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260219061900 +0000" stop="20260219085500 +0000">
-    <title>NFL Game Re-Airs</title>
-    <sub-title>2025: Bills vs. Patriots - Week 15</sub-title>
-    <episode-num system="onscreen">S2025E175</episode-num>
-    <desc>The Buffalo Bills rally from a 21-point deficit to beat the New England Patriots 35-31, to stay alive in the AFC East's playoff race.</desc>
-    <date>20251219</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260219085500 +0000" stop="20260219112800 +0000">
-    <title>NFL Game Re-Airs</title>
-    <sub-title>2025: Cardinals vs. Colts - Week 6</sub-title>
-    <episode-num system="onscreen">S2025E129</episode-num>
-    <desc>The Colts rally behind Daniel Jones three touchdown performance as they attempt to overcome a Jacoby Brissett led Cardinals squad in a back-and-forth battle.</desc>
-    <date>20251017</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260219112800 +0000" stop="20260219140200 +0000">
-    <title>NFL Game Re-Airs</title>
-    <sub-title>2025: Commanders vs. Falcons - Week 4</sub-title>
-    <episode-num system="onscreen">S2026E27</episode-num>
-    <desc>Michael Penix threw for a career-high 313 yards, completing 20 of 26 passes with two touchdowns and one interception, and directed the Falcons to a season-high 435 yards of offense.</desc>
-    <date>20260219</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260219140200 +0000" stop="20260219164500 +0000">
-    <title>NFL Game Re-Airs</title>
-    <sub-title>2025: Bengals vs. Bills - Week 14</sub-title>
-    <episode-num system="onscreen">S2025E168</episode-num>
-    <desc>Christian Benford intercepted Joe Burrow's toss and returned it 63 yards for a go-ahead touchdown with 5:25 left, Josh Allen threw for 3 touchdowns and ran in another, and the Buffalo Bills beat the Cincinnati Bengals 39-34 on a snowy Sunday.</desc>
-    <date>20251212</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260219164500 +0000" stop="20260219194200 +0000">
-    <title>NFL Game Re-Airs</title>
-    <sub-title>2025: Steelers vs. Bengals - Week 7</sub-title>
-    <episode-num system="onscreen">S2025E131</episode-num>
-    <desc>Joe Flacco passed for 342 yards and three touchdowns as he rallied Cincinnati to a 33-31 victory over the Pittsburgh Steelers as the third time during the regular season where both starting quarterbacks are in their 40s.</desc>
-    <date>20251021</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260219194200 +0000" stop="20260219225600 +0000">
-    <title>NFL Game Re-Airs</title>
-    <sub-title>2025: Titans vs. Browns -- Week 14</sub-title>
-    <episode-num system="onscreen">S2025E166</episode-num>
-    <desc>Tony Pollard rushes for a career-high 161 yards and two touchdowns as Tennessee averages 5.3 yards per carry; the defense forces a pair of turnovers in the second half and the special teams block a punt.</desc>
-    <date>20251209</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260219225600 +0000" stop="20260220002800 +0000">
-    <title>NFL Media Originals</title>
-    <sub-title>Top 15 Games of 2025 Season</sub-title>
-    <episode-num system="onscreen">S2026E03</episode-num>
-    <desc>Best moments from the top 15 games of the 2025 NFL season.</desc>
-    <date>20260218</date>
-  </programme>
-  
 <programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260220002800 +0000" stop="20260220025400 +0000">
     <title>NFL Game Re-Airs</title>
     <sub-title>2025: Buccaneers vs. Seahawks - Week 5</sub-title>
     <episode-num system="onscreen">S2025E120</episode-num>
     <desc>Baker Mayfield and the Buccaneers battle with Sam Darnold and the Seahawks in a back-and-forth shootout that features an elite wide receiver matchup between Emeka Egbuka and Jaxon Smith-Njigba in a game that comes down to the wire.</desc>
     <date>20251007</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260220025400 +0000" stop="20260220053300 +0000">
+    <title>NFL Game of the Week</title>
+    <sub-title>2025: Jets vs. Bengals - Week 8</sub-title>
+    <episode-num system="onscreen">S2025E01</episode-num>
+    <desc>New York Jets running back Breece Hall rushed for 2 second-half touchdowns and threw a 4-yard touchdown pass to Mason Taylor with 1:54 left, helping Justin Fields and the Jets edge the Cincinnati Bengals 39-38 on Sunday for their first win.</desc>
+    <date>20251028</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260220053300 +0000" stop="20260220081700 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2025: Saints vs. Titans - Week 17</sub-title>
+    <episode-num system="onscreen">S2026E02</episode-num>
+    <desc>In a stirring battle between 2 rookie quarterbacks, Pick No. 40 came out on top of Pick No. 1 as the New Orleans Saints rallied to beat the Tennessee Titans 34-26 on Sunday at Nissan Stadium in Nashville.</desc>
+    <date>20260102</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260220081700 +0000" stop="20260220092000 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>Indianapolis Colts - 2025 Team Highlight</sub-title>
+    <desc>Highlights from the Indianapolis Colts 2025 NFL season.</desc>
+    <date>20260220</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260220092000 +0000" stop="20260220102200 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>Houston Texans - 2025 Team Highlight</sub-title>
+    <desc>Highlights from the Houston Texans 2025 NFL season.</desc>
+    <date>20260220</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260220102200 +0000" stop="20260220112500 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>Tennessee Titans - 2025 Team Highlight</sub-title>
+    <desc>Highlights from the Tennessee Titans 2025 NFL season.</desc>
+    <date>20260220</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260220112500 +0000" stop="20260220122700 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>Jacksonville Jaguars - 2025 Team Highlight</sub-title>
+    <desc>Highlights from the Jacksonville Jaguars 2025 NFL season.</desc>
+    <date>20260220</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260220122700 +0000" stop="20260220133000 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>Los Angeles Rams - 2025 Team Highlight</sub-title>
+    <desc>Highlights from the Los Angeles Rams 2025 NFL season.</desc>
+    <date>20260220</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260220133000 +0000" stop="20260220143300 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>Arizona Cardinals - 2025 Team Highlight</sub-title>
+    <desc>Highlights from the Arizona Cardinals 2025 NFL season.</desc>
+    <date>20260220</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260220143300 +0000" stop="20260220153500 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>Seattle Seahawks - 2025 Team Highlight</sub-title>
+    <desc>Highlights from the Seattle Seahawks 2025 NFL season.</desc>
+    <date>20260220</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260220153500 +0000" stop="20260220163800 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>San Francisco 49ers - 2025 Team Highlight</sub-title>
+    <desc>Highlights from the San Francisco 49ers 2025 NFL season.</desc>
+    <date>20260220</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260220163800 +0000" stop="20260220174000 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>Kansas City Chiefs - 2025 Team Highlight</sub-title>
+    <desc>Highlights from the Kansas City Chiefs 2025 NFL season.</desc>
+    <date>20260220</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260220174000 +0000" stop="20260220184000 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>Los Angeles Chargers - 2025 Team Highlight</sub-title>
+    <desc>Highlights from the Los Angeles Chargers 2025 NFL season.</desc>
+    <date>20260220</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260220184000 +0000" stop="20260220194300 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>Denver Broncos - 2025 Team Highlight</sub-title>
+    <desc>Highlights from the Denver Broncos 2025 NFL season.</desc>
+    <date>20260220</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260220194300 +0000" stop="20260220204300 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>Las Vegas Raiders - 2025 Team Highlight</sub-title>
+    <desc>Highlights from the Las Vegas Raiders 2025 NFL season.</desc>
+    <date>20260220</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260220204300 +0000" stop="20260220214300 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>Atlanta Falcons - 2025 Team Highlight</sub-title>
+    <desc>Highlights from the Atlanta Falcons 2025 NFL season.</desc>
+    <date>20260220</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260220214300 +0000" stop="20260220224300 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>Tampa Bay Buccaneers - 2025 Team Highlight</sub-title>
+    <desc>Highlights from the Tampa Bay Buccaneers 2025 NFL season.</desc>
+    <date>20260220</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260220224300 +0000" stop="20260221000200 +0000">
+    <title>NFL 360</title>
+    <sub-title>Chief Who Walked the Sea &amp; Flyest Ever</sub-title>
+    <episode-num system="onscreen">S2026E02</episode-num>
+    <desc>The 2024 Black History Month special shows football's indelible link to the Tuskegee Airmen, and revisits IBGO Landing, the birthplace of Jim Brown and the sight of one of the most significant rebellions in the history of the American Slave Trade.</desc>
+    <date>20260220</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260221000200 +0000" stop="20260221003400 +0000">
+    <title>Shallow Water</title>
+    <sub-title>Shallow Water</sub-title>
+    <desc>The day after Super Bowl LVIII, the NFL named Queen Tahj Williams as the official designer of Super Bowl LIX's logo.</desc>
+    <date>20260221</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260221003400 +0000" stop="20260221005400 +0000">
+    <title>The Godfather vs. The Gunslinger</title>
+    <sub-title>The Godfather vs. The Gunslinger</sub-title>
+    <desc>A young, hotshot coach with the most explosive offense in college football takes on his coaching mentor at the helm of a perennial powerhouse in the most attended game in Mississippi state history.</desc>
+    <date>20260221</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260221005400 +0000" stop="20260221012400 +0000">
+    <title>Orangeburg: A Town, A Team, An American Tragedy</title>
+    <sub-title>Orangeburg: A Town, A Team, An American Tragedy</sub-title>
+    <desc>The story of the 1968 protests for racial equality on the campus of South Carolina State that turned deadly, forever being known as the Orangeburg Massacre.</desc>
+    <date>20260221</date>
   </programme>
   
 </tv>
