@@ -5,264 +5,454 @@
     <icon src="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6b0966e5d90288e08bae81a080108d96.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223015600 +0000" stop="20260223022400 +0000">
-    <title>Nature's Ultimate Survivors With the Blowfish</title>
-    <sub-title>Hunters</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224015800 +0000" stop="20260224022700 +0000">
+    <title>Wild Wonders With Brooke</title>
+    <sub-title>The Snake Charmer</sub-title>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <desc>Brooke meets Dingo Dinkleman, a snake catcher who teaches her about all manner of snakes; she helps catch a wild snake, swims with a python, and lies on the floor next to a deadly forest cobra.</desc>
+    <date>20230111</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6065f0312ebfb9539b004d61aa935605.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224022700 +0000" stop="20260224025600 +0000">
+    <title>Wild Wonders With Brooke</title>
+    <sub-title>Elephants: A New Landscape</sub-title>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <desc>Elephant lover Brooke joins a specialized capture team and gets fully engaged as they dart two elephant bulls and lift them onto huge trucks for their journey to a new landscape.</desc>
+    <date>20230118</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9d8fef2cba607290de89ae40bbc33bc5.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224025600 +0000" stop="20260224032500 +0000">
+    <title>Wild Wonders With Brooke</title>
+    <sub-title>Long Live the King!</sub-title>
+    <episode-num system="onscreen">S03E03</episode-num>
+    <desc>Brooke joins a team of experts as they catch two enormous, fully-grown male lions and relocate them to their new home.</desc>
+    <date>20231213</date>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b8d46dcc216d16187745a6bd2034663a.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224032500 +0000" stop="20260224035400 +0000">
+    <title>Wild Wonders With Brooke</title>
+    <sub-title>See You Later, Alligator!</sub-title>
+    <episode-num system="onscreen">S03E09</episode-num>
+    <desc>Florida's alligators were brought back from the verge of extinction and now, they're everywhere; Brooke explores Florida's largest reptile and even sits next to an over 100-year-old giant alligator.</desc>
+    <date>20240124</date>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/532245f44c7cbea7c4b757b673b96ebd.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224035400 +0000" stop="20260224044900 +0000">
+    <title>Eco-Heroines</title>
+    <sub-title>Mahefa and the Lemur Forest</sub-title>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <desc>Travel with Deirdre Vercoe as she monitors the Kakapo, or owl parrot, a flightless bird found on two islands in New Zealand; can these birds be kept safe and encouraged to breed?</desc>
+    <date>20200408</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e6e322b3ac99c144cb619b3b9202b7e1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224044900 +0000" stop="20260224051800 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Elephant Seals and Sea Gooseberry</sub-title>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <desc>Tom the Blowfish Hird meets a seal with an enormous schnoz and more.</desc>
+    <date>20240313</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7cec640d4070608842b0a3d95aa02908.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224051800 +0000" stop="20260224054700 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Sea Turtles and Stylish Squids</sub-title>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <desc>Tom the Blowfish Hird reveals the bobtail squid's stylish survival tactics and more.</desc>
+    <date>20240320</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e4c79169f52ab4b54d5bd227045f4c96.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224054700 +0000" stop="20260224061600 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Stingrays and Conger Eels</sub-title>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <desc>Tom the Blowfish Hird shows how stingrays pierce their prey and more.</desc>
+    <date>20240327</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/cc8a22f890af769ee6a65b51ef9ceeee.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224061600 +0000" stop="20260224064500 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Saltwater Crocodile and Polar Bear</sub-title>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <desc>Tom the Blowfish Hird explores the polar bear's smelling superpowers, challenges a velvet swimming crab to a drag race and demonstrates why the saltwater crocodile is the king of crunching.</desc>
+    <date>20240403</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f5d7bf4865dd8a71891474ab1f0149a1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224064500 +0000" stop="20260224071400 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Sea Otters and Frog Fish</sub-title>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <desc>Tom the Blowfish Hird explores the truly rockin' sea otter, shows how frog fish are ocean ninjas, reveals the odd way corals mate and explains how one worm's waste is another man's treasure.</desc>
+    <date>20240410</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/2e837d25c54e6b333bfb369b8d16c861.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224071400 +0000" stop="20260224074300 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Manta Rays and Boxer Crabs</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Tom Hird dives with manta rays, jumps on a skateboard to show how remoras hitch a ride, discovers why boxer crabs use anemones for gloves and how herrings communicate by farting.</desc>
+    <date>20230419</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6a83ea195dcdfe58c8de6a3ca2be42f1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224074300 +0000" stop="20260224081200 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Jellyfish Explosion and the Kraken</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Tom Hird blows up a van to explain how jellyfish sting, reveals why anemones tear themselves apart, meets an aquatic odd couple and uncovers the truth behind the mythical kraken.</desc>
+    <date>20230426</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/4c96d5cd872b8934ca30ed522c49cb8a.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224081200 +0000" stop="20260224084100 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Mako Shark and Blue Sea Dragons</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Tom Hird unveils the world's fastest fish, wraps himself in tin foil to show how crabs molt, reveals the starfish's unsavory eating habits and explores why blue sea dragons are deadly.</desc>
+    <date>20230503</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3864bcb3596f0ff90f744f056f1c0fbf.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224084100 +0000" stop="20260224091000 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Urchin Eyes and Bloodhound Sharks</sub-title>
     <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Nature's predators come in all shapes and sizes; whether they use fangs, claws, or teeth, once in their sights, their prey has little hope of survival; these are nature's formidable hunters.</desc>
-    <date>20250409</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/06466084e659ec068b91ddcb94a20ed1.jpg" />
+    <desc>Tom Hird reveals the secrets of a sea urchin's spikes, swims with tiger sharks to see if they can sniff out blood from a mile away and shows how cuttlefish change color in a flash.</desc>
+    <date>20230510</date>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/bfd4acf36251fa7c7efef9c869bb5223.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223022400 +0000" stop="20260223025200 +0000">
-    <title>Nature's Ultimate Survivors With the Blowfish</title>
-    <sub-title>Toughest</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224091000 +0000" stop="20260224093900 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Moray Eel and Barracuda</sub-title>
     <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Whether it's scrapping over breeding rights, enduring extreme conditions, or boasting a supercharged immune system, being tough is essential to staying alive.</desc>
-    <date>20250416</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/633cbb7efaf73d64073df8a241562f89.jpg" />
+    <desc>Tom the Blowfish Hird reveals the moray eel's jaw-dropping abilities, blows bubbles to show how a snail can sail, showcases the fearsome barracuda and shows how the whale shark survives on plankton.</desc>
+    <date>20230517</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f96d3dc69f53b495935c673c5e60cb59.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223025200 +0000" stop="20260223032000 +0000">
-    <title>Nature's Ultimate Survivors With the Blowfish</title>
-    <sub-title>Aquatic Experts</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224093900 +0000" stop="20260224100800 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Lobster Power and Sniper Worms</sub-title>
     <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Life under the waves isn't for the faint-hearted; it's time for Tom "The Blowfish" Hird to don his scuba gear and dive into the Top-10 extraordinary creatures that are true aquatic masters.</desc>
-    <date>20250423</date>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/cbc86fd3e19ab97d3aba577a23004f98.jpg" />
+    <desc>Tom Hird explores the lobster's crushing claw, a sea cucumber's alarming survival tactics, the super-sucking jaws of pipefish and why Bobbit worms are true ocean nightmares.</desc>
+    <date>20230524</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/cda2b232a2941d56216bc187b51b0d17.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223032000 +0000" stop="20260223034800 +0000">
-    <title>Nature's Ultimate Survivors With the Blowfish</title>
-    <sub-title>Smart &amp; Skillful</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224100800 +0000" stop="20260224103700 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Octopus Escapees and Blue Whale</sub-title>
     <episode-num system="onscreen">S01E08</episode-num>
-    <desc>In nature, brains often triumph over brawn; animals use their wits to beat the competition, stay off the menu, and adapt to their environment.</desc>
-    <date>20250430</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5f62e0986d0b86fc4593ef1af2f7e240.jpg" />
+    <desc>Tom "the Blowfish" Hird demonstrates how octopus fit through tiny gaps, explains why coral glows, meets a crab that tastes with its toes, and uncovers why the blue whale is the biggest animal ever.</desc>
+    <date>20230531</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/fe970cd6cfe7f598d043c0da9e64d31a.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223034800 +0000" stop="20260223044200 +0000">
-    <title>Trimates</title>
-    <sub-title>Trimates</sub-title>
-    <desc>These three legendary women fought first to save the apes, then to save the world.</desc>
-    <date>20190901</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6be39a8d96143d9f56f570789cb14e2b.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223044200 +0000" stop="20260223053800 +0000">
-    <title>Eco-Heroines</title>
-    <sub-title>Mahefa and the Lemur Forest</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <desc>Travel with Deirdre Vercoe as she monitors the Kakapo, or owl parrot, a flightless bird found on two islands in New Zealand; can these birds be kept safe and encouraged to breed?</desc>
-    <date>20200408</date>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/e6e322b3ac99c144cb619b3b9202b7e1.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223053800 +0000" stop="20260223063400 +0000">
-    <title>Eco-Heroines</title>
-    <sub-title>The Leatherback Turtle</sub-title>
-    <episode-num system="onscreen">S03E05</episode-num>
-    <desc>On the beaches that separate the Atlantic Ocean from the tropical forest, Darly Itoumba watches over the leatherback turtles every night; threatened by human activity, they return tirelessly to lay their eggs on Gabon's beaches.</desc>
-    <date>20230603</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/412e157c1c54f0a4c159b68aaeb169eb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223063400 +0000" stop="20260223070300 +0000">
-    <title>Wild Wonders With Brooke</title>
-    <sub-title>Capturing Giants</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Brooke joins Julian Fennessy from Giraffe Conservation Foundation on a mission to learn about giraffe populations in Africa; she discovers the threats faced as they capture and GPS track the giraffes.</desc>
-    <date>20221016</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5fd215c1f6a85b919f98be6a7a3e14fd.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223070300 +0000" stop="20260223073200 +0000">
-    <title>Wild Wonders With Brooke</title>
-    <sub-title>Spaces to Roam</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Wildlife such as elephants and zebras often come into conflict with humans; Brooke meets up with a wildlife veterinarian to capture and move these animals safely in order to avoid conflict.</desc>
-    <date>20221023</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/06c4754a5de7295ade82603fd0783e11.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223073200 +0000" stop="20260223080100 +0000">
-    <title>Wild Wonders With Brooke</title>
-    <sub-title>Rhino Sanctuary</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Rhinos are critically endangered -- poached for their horns -- which often leaves babies orphaned; Brooke visits a sanctuary dedicated to rehabilitating, protecting, and caring for these animals.</desc>
-    <date>20221113</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f1c6cae2be1ae11557a77f86950e5911.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223080100 +0000" stop="20260223083000 +0000">
-    <title>Wild Wonders With Brooke</title>
-    <sub-title>Rhino Orphanage</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <desc>Brooke heads to the largest rhino orphanage in the world; she spends time with her friend Petronel, a true conservation hero, and learns what it's like to care for rhino orphans.</desc>
-    <date>20230104</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/dd92acce4582b47c09da3a2ddd26a3ff.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223083000 +0000" stop="20260223085900 +0000">
-    <title>Wild Wonders With Brooke</title>
-    <sub-title>The Snake Charmer</sub-title>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <desc>Brooke meets Dingo Dinkleman, a snake catcher who teaches her about all manner of snakes; she helps catch a wild snake, swims with a python, and lies on the floor next to a deadly forest cobra.</desc>
-    <date>20230111</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6065f0312ebfb9539b004d61aa935605.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223085900 +0000" stop="20260223092800 +0000">
-    <title>Wild Wonders With Brooke</title>
-    <sub-title>Elephants: A New Landscape</sub-title>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <desc>Elephant lover Brooke joins a specialized capture team and gets fully engaged as they dart two elephant bulls and lift them onto huge trucks for their journey to a new landscape.</desc>
-    <date>20230118</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9d8fef2cba607290de89ae40bbc33bc5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223092800 +0000" stop="20260223095700 +0000">
-    <title>Wild Wonders With Brooke</title>
-    <sub-title>Long Live the King!</sub-title>
-    <episode-num system="onscreen">S03E03</episode-num>
-    <desc>Brooke joins a team of experts as they catch two enormous, fully-grown male lions and relocate them to their new home.</desc>
-    <date>20231213</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b8d46dcc216d16187745a6bd2034663a.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223095700 +0000" stop="20260223102600 +0000">
-    <title>Wild Wonders With Brooke</title>
-    <sub-title>See You Later, Alligator!</sub-title>
-    <episode-num system="onscreen">S03E09</episode-num>
-    <desc>Florida's alligators were brought back from the verge of extinction and now, they're everywhere; Brooke explores Florida's largest reptile and even sits next to an over 100-year-old giant alligator.</desc>
-    <date>20240124</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/532245f44c7cbea7c4b757b673b96ebd.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223102600 +0000" stop="20260223103800 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224103700 +0000" stop="20260224105200 +0000">
     <title>Bright Now!</title>
-    <sub-title>Monkey Island</sub-title>
-    <episode-num system="onscreen">S01E75</episode-num>
-    <desc>In 1938, an American researcher captures 500 macque monkeys and brings them to an uninhabited Caribbean island to study the primate population roaming free in a giant open-air laboratory.</desc>
-    <date>20250422</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/0276a3d682246b6d3e269b0befb2ab73.jpg" />
+    <sub-title>Lionfish: Alien of the Sea</sub-title>
+    <episode-num system="onscreen">S01E48</episode-num>
+    <desc>Since the 1980's, the lionfish has conquered massive territories within the ocean.</desc>
+    <date>20250314</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c454e9e112377f928d57a51cc8a2d308.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223103800 +0000" stop="20260223113400 +0000">
-    <title>Eco-Heroines</title>
-    <sub-title>Mahefa and the Lemur Forest</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <desc>Travel with Deirdre Vercoe as she monitors the Kakapo, or owl parrot, a flightless bird found on two islands in New Zealand; can these birds be kept safe and encouraged to breed?</desc>
-    <date>20200408</date>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/e6e322b3ac99c144cb619b3b9202b7e1.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224105200 +0000" stop="20260224112100 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Elephant Seals and Sea Gooseberry</sub-title>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <desc>Tom the Blowfish Hird meets a seal with an enormous schnoz and more.</desc>
+    <date>20240313</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7cec640d4070608842b0a3d95aa02908.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223113400 +0000" stop="20260223123200 +0000">
-    <title>Eco-Heroines</title>
-    <sub-title>The Leatherback Turtle</sub-title>
-    <episode-num system="onscreen">S03E05</episode-num>
-    <desc>On the beaches that separate the Atlantic Ocean from the tropical forest, Darly Itoumba watches over the leatherback turtles every night; threatened by human activity, they return tirelessly to lay their eggs on Gabon's beaches.</desc>
-    <date>20230603</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/412e157c1c54f0a4c159b68aaeb169eb.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224112100 +0000" stop="20260224115000 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Sea Turtles and Stylish Squids</sub-title>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <desc>Tom the Blowfish Hird reveals the bobtail squid's stylish survival tactics and more.</desc>
+    <date>20240320</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e4c79169f52ab4b54d5bd227045f4c96.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223123200 +0000" stop="20260223130100 +0000">
-    <title>Wild Wonders With Brooke</title>
-    <sub-title>Capturing Giants</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224115000 +0000" stop="20260224121900 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Stingrays and Conger Eels</sub-title>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <desc>Tom the Blowfish Hird shows how stingrays pierce their prey and more.</desc>
+    <date>20240327</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/cc8a22f890af769ee6a65b51ef9ceeee.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224121900 +0000" stop="20260224124800 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Saltwater Crocodile and Polar Bear</sub-title>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <desc>Tom the Blowfish Hird explores the polar bear's smelling superpowers, challenges a velvet swimming crab to a drag race and demonstrates why the saltwater crocodile is the king of crunching.</desc>
+    <date>20240403</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f5d7bf4865dd8a71891474ab1f0149a1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224124800 +0000" stop="20260224131700 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Sea Otters and Frog Fish</sub-title>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <desc>Tom the Blowfish Hird explores the truly rockin' sea otter, shows how frog fish are ocean ninjas, reveals the odd way corals mate and explains how one worm's waste is another man's treasure.</desc>
+    <date>20240410</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/2e837d25c54e6b333bfb369b8d16c861.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224131700 +0000" stop="20260224134700 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Manta Rays and Boxer Crabs</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Tom Hird dives with manta rays, jumps on a skateboard to show how remoras hitch a ride, discovers why boxer crabs use anemones for gloves and how herrings communicate by farting.</desc>
+    <date>20230419</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6a83ea195dcdfe58c8de6a3ca2be42f1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224134700 +0000" stop="20260224141600 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Jellyfish Explosion and the Kraken</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Brooke joins Julian Fennessy from Giraffe Conservation Foundation on a mission to learn about giraffe populations in Africa; she discovers the threats faced as they capture and GPS track the giraffes.</desc>
-    <date>20221016</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5fd215c1f6a85b919f98be6a7a3e14fd.jpg" />
+    <desc>Tom Hird blows up a van to explain how jellyfish sting, reveals why anemones tear themselves apart, meets an aquatic odd couple and uncovers the truth behind the mythical kraken.</desc>
+    <date>20230426</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/4c96d5cd872b8934ca30ed522c49cb8a.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223130100 +0000" stop="20260223133000 +0000">
-    <title>Wild Wonders With Brooke</title>
-    <sub-title>Spaces to Roam</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224141600 +0000" stop="20260224144500 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Mako Shark and Blue Sea Dragons</sub-title>
     <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Wildlife such as elephants and zebras often come into conflict with humans; Brooke meets up with a wildlife veterinarian to capture and move these animals safely in order to avoid conflict.</desc>
-    <date>20221023</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/06c4754a5de7295ade82603fd0783e11.jpg" />
+    <desc>Tom Hird unveils the world's fastest fish, wraps himself in tin foil to show how crabs molt, reveals the starfish's unsavory eating habits and explores why blue sea dragons are deadly.</desc>
+    <date>20230503</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3864bcb3596f0ff90f744f056f1c0fbf.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223133000 +0000" stop="20260223135900 +0000">
-    <title>Wild Wonders With Brooke</title>
-    <sub-title>Rhino Sanctuary</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224144500 +0000" stop="20260224151400 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Urchin Eyes and Bloodhound Sharks</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Tom Hird reveals the secrets of a sea urchin's spikes, swims with tiger sharks to see if they can sniff out blood from a mile away and shows how cuttlefish change color in a flash.</desc>
+    <date>20230510</date>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/bfd4acf36251fa7c7efef9c869bb5223.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224151400 +0000" stop="20260224154300 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Moray Eel and Barracuda</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Tom the Blowfish Hird reveals the moray eel's jaw-dropping abilities, blows bubbles to show how a snail can sail, showcases the fearsome barracuda and shows how the whale shark survives on plankton.</desc>
+    <date>20230517</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f96d3dc69f53b495935c673c5e60cb59.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224154300 +0000" stop="20260224161200 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Lobster Power and Sniper Worms</sub-title>
     <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Rhinos are critically endangered -- poached for their horns -- which often leaves babies orphaned; Brooke visits a sanctuary dedicated to rehabilitating, protecting, and caring for these animals.</desc>
-    <date>20221113</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f1c6cae2be1ae11557a77f86950e5911.jpg" />
+    <desc>Tom Hird explores the lobster's crushing claw, a sea cucumber's alarming survival tactics, the super-sucking jaws of pipefish and why Bobbit worms are true ocean nightmares.</desc>
+    <date>20230524</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/cda2b232a2941d56216bc187b51b0d17.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223135900 +0000" stop="20260223142900 +0000">
-    <title>Wild Wonders With Brooke</title>
-    <sub-title>Rhino Orphanage</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <desc>Brooke heads to the largest rhino orphanage in the world; she spends time with her friend Petronel, a true conservation hero, and learns what it's like to care for rhino orphans.</desc>
-    <date>20230104</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/dd92acce4582b47c09da3a2ddd26a3ff.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224161200 +0000" stop="20260224164300 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Octopus Escapees and Blue Whale</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Tom "the Blowfish" Hird demonstrates how octopus fit through tiny gaps, explains why coral glows, meets a crab that tastes with its toes, and uncovers why the blue whale is the biggest animal ever.</desc>
+    <date>20230531</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/fe970cd6cfe7f598d043c0da9e64d31a.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223142900 +0000" stop="20260223145800 +0000">
-    <title>Wild Wonders With Brooke</title>
-    <sub-title>The Snake Charmer</sub-title>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <desc>Brooke meets Dingo Dinkleman, a snake catcher who teaches her about all manner of snakes; she helps catch a wild snake, swims with a python, and lies on the floor next to a deadly forest cobra.</desc>
-    <date>20230111</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6065f0312ebfb9539b004d61aa935605.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224164300 +0000" stop="20260224171200 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Elephant Seals and Sea Gooseberry</sub-title>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <desc>Tom the Blowfish Hird meets a seal with an enormous schnoz and more.</desc>
+    <date>20240313</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7cec640d4070608842b0a3d95aa02908.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223145800 +0000" stop="20260223152700 +0000">
-    <title>Wild Wonders With Brooke</title>
-    <sub-title>Elephants: A New Landscape</sub-title>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <desc>Elephant lover Brooke joins a specialized capture team and gets fully engaged as they dart two elephant bulls and lift them onto huge trucks for their journey to a new landscape.</desc>
-    <date>20230118</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9d8fef2cba607290de89ae40bbc33bc5.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224171200 +0000" stop="20260224174100 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Sea Turtles and Stylish Squids</sub-title>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <desc>Tom the Blowfish Hird reveals the bobtail squid's stylish survival tactics and more.</desc>
+    <date>20240320</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e4c79169f52ab4b54d5bd227045f4c96.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223152700 +0000" stop="20260223155600 +0000">
-    <title>Wild Wonders With Brooke</title>
-    <sub-title>Long Live the King!</sub-title>
-    <episode-num system="onscreen">S03E03</episode-num>
-    <desc>Brooke joins a team of experts as they catch two enormous, fully-grown male lions and relocate them to their new home.</desc>
-    <date>20231213</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b8d46dcc216d16187745a6bd2034663a.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224174100 +0000" stop="20260224181000 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Stingrays and Conger Eels</sub-title>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <desc>Tom the Blowfish Hird shows how stingrays pierce their prey and more.</desc>
+    <date>20240327</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/cc8a22f890af769ee6a65b51ef9ceeee.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223155600 +0000" stop="20260223162500 +0000">
-    <title>Wild Wonders With Brooke</title>
-    <sub-title>See You Later, Alligator!</sub-title>
-    <episode-num system="onscreen">S03E09</episode-num>
-    <desc>Florida's alligators were brought back from the verge of extinction and now, they're everywhere; Brooke explores Florida's largest reptile and even sits next to an over 100-year-old giant alligator.</desc>
-    <date>20240124</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/532245f44c7cbea7c4b757b673b96ebd.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224181000 +0000" stop="20260224183900 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Saltwater Crocodile and Polar Bear</sub-title>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <desc>Tom the Blowfish Hird explores the polar bear's smelling superpowers, challenges a velvet swimming crab to a drag race and demonstrates why the saltwater crocodile is the king of crunching.</desc>
+    <date>20240403</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f5d7bf4865dd8a71891474ab1f0149a1.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223162500 +0000" stop="20260223172000 +0000">
-    <title>Eco-Heroines</title>
-    <sub-title>Mahefa and the Lemur Forest</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <desc>Travel with Deirdre Vercoe as she monitors the Kakapo, or owl parrot, a flightless bird found on two islands in New Zealand; can these birds be kept safe and encouraged to breed?</desc>
-    <date>20200408</date>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/e6e322b3ac99c144cb619b3b9202b7e1.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224183900 +0000" stop="20260224190800 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Sea Otters and Frog Fish</sub-title>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <desc>Tom the Blowfish Hird explores the truly rockin' sea otter, shows how frog fish are ocean ninjas, reveals the odd way corals mate and explains how one worm's waste is another man's treasure.</desc>
+    <date>20240410</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/2e837d25c54e6b333bfb369b8d16c861.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223172000 +0000" stop="20260223181600 +0000">
-    <title>Eco-Heroines</title>
-    <sub-title>The Leatherback Turtle</sub-title>
-    <episode-num system="onscreen">S03E05</episode-num>
-    <desc>On the beaches that separate the Atlantic Ocean from the tropical forest, Darly Itoumba watches over the leatherback turtles every night; threatened by human activity, they return tirelessly to lay their eggs on Gabon's beaches.</desc>
-    <date>20230603</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/412e157c1c54f0a4c159b68aaeb169eb.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224190800 +0000" stop="20260224193800 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Manta Rays and Boxer Crabs</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Tom Hird dives with manta rays, jumps on a skateboard to show how remoras hitch a ride, discovers why boxer crabs use anemones for gloves and how herrings communicate by farting.</desc>
+    <date>20230419</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6a83ea195dcdfe58c8de6a3ca2be42f1.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260223181600 +0000" stop="20260223184500 +0000">
-    <title>Wild Wonders With Brooke</title>
-    <sub-title>Capturing Giants</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224193800 +0000" stop="20260224200700 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Jellyfish Explosion and the Kraken</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Brooke joins Julian Fennessy from Giraffe Conservation Foundation on a mission to learn about giraffe populations in Africa; she discovers the threats faced as they capture and GPS track the giraffes.</desc>
-    <date>20221016</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5fd215c1f6a85b919f98be6a7a3e14fd.jpg" />
+    <desc>Tom Hird blows up a van to explain how jellyfish sting, reveals why anemones tear themselves apart, meets an aquatic odd couple and uncovers the truth behind the mythical kraken.</desc>
+    <date>20230426</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/4c96d5cd872b8934ca30ed522c49cb8a.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224200700 +0000" stop="20260224203600 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Mako Shark and Blue Sea Dragons</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Tom Hird unveils the world's fastest fish, wraps himself in tin foil to show how crabs molt, reveals the starfish's unsavory eating habits and explores why blue sea dragons are deadly.</desc>
+    <date>20230503</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3864bcb3596f0ff90f744f056f1c0fbf.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224203600 +0000" stop="20260224210500 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Urchin Eyes and Bloodhound Sharks</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Tom Hird reveals the secrets of a sea urchin's spikes, swims with tiger sharks to see if they can sniff out blood from a mile away and shows how cuttlefish change color in a flash.</desc>
+    <date>20230510</date>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/bfd4acf36251fa7c7efef9c869bb5223.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224210500 +0000" stop="20260224213400 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Moray Eel and Barracuda</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Tom the Blowfish Hird reveals the moray eel's jaw-dropping abilities, blows bubbles to show how a snail can sail, showcases the fearsome barracuda and shows how the whale shark survives on plankton.</desc>
+    <date>20230517</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f96d3dc69f53b495935c673c5e60cb59.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224213400 +0000" stop="20260224220300 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Lobster Power and Sniper Worms</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Tom Hird explores the lobster's crushing claw, a sea cucumber's alarming survival tactics, the super-sucking jaws of pipefish and why Bobbit worms are true ocean nightmares.</desc>
+    <date>20230524</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/cda2b232a2941d56216bc187b51b0d17.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224220300 +0000" stop="20260224223400 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Octopus Escapees and Blue Whale</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Tom "the Blowfish" Hird demonstrates how octopus fit through tiny gaps, explains why coral glows, meets a crab that tastes with its toes, and uncovers why the blue whale is the biggest animal ever.</desc>
+    <date>20230531</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/fe970cd6cfe7f598d043c0da9e64d31a.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224223400 +0000" stop="20260224230300 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Elephant Seals and Sea Gooseberry</sub-title>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <desc>Tom the Blowfish Hird meets a seal with an enormous schnoz and more.</desc>
+    <date>20240313</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7cec640d4070608842b0a3d95aa02908.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224230300 +0000" stop="20260224233200 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Sea Turtles and Stylish Squids</sub-title>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <desc>Tom the Blowfish Hird reveals the bobtail squid's stylish survival tactics and more.</desc>
+    <date>20240320</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e4c79169f52ab4b54d5bd227045f4c96.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260224233200 +0000" stop="20260225000200 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Stingrays and Conger Eels</sub-title>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <desc>Tom the Blowfish Hird shows how stingrays pierce their prey and more.</desc>
+    <date>20240327</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/cc8a22f890af769ee6a65b51ef9ceeee.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260225000200 +0000" stop="20260225003100 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Saltwater Crocodile and Polar Bear</sub-title>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <desc>Tom the Blowfish Hird explores the polar bear's smelling superpowers, challenges a velvet swimming crab to a drag race and demonstrates why the saltwater crocodile is the king of crunching.</desc>
+    <date>20240403</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f5d7bf4865dd8a71891474ab1f0149a1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260225003100 +0000" stop="20260225010000 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Sea Otters and Frog Fish</sub-title>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <desc>Tom the Blowfish Hird explores the truly rockin' sea otter, shows how frog fish are ocean ninjas, reveals the odd way corals mate and explains how one worm's waste is another man's treasure.</desc>
+    <date>20240410</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/2e837d25c54e6b333bfb369b8d16c861.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260225010000 +0000" stop="20260225012900 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Manta Rays and Boxer Crabs</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Tom Hird dives with manta rays, jumps on a skateboard to show how remoras hitch a ride, discovers why boxer crabs use anemones for gloves and how herrings communicate by farting.</desc>
+    <date>20230419</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6a83ea195dcdfe58c8de6a3ca2be42f1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260225012900 +0000" stop="20260225015800 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Jellyfish Explosion and the Kraken</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Tom Hird blows up a van to explain how jellyfish sting, reveals why anemones tear themselves apart, meets an aquatic odd couple and uncovers the truth behind the mythical kraken.</desc>
+    <date>20230426</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/4c96d5cd872b8934ca30ed522c49cb8a.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260225015800 +0000" stop="20260225022700 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Mako Shark and Blue Sea Dragons</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Tom Hird unveils the world's fastest fish, wraps himself in tin foil to show how crabs molt, reveals the starfish's unsavory eating habits and explores why blue sea dragons are deadly.</desc>
+    <date>20230503</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3864bcb3596f0ff90f744f056f1c0fbf.jpg" />
   </programme>
   
 </tv>
