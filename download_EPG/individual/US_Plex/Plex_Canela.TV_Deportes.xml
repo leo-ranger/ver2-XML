@@ -5,108 +5,57 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/f345c0b8-c5b8-49a4-82f2-28fa7fcfe7e8/CM-Plex-dark_logo-CanelaTV-deportes_-_Natalia_Rodriguez.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260225230000 +0000" stop="20260226003150 +0000">
-    <title>El Curubito</title>
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260227010000 +0000" stop="20260227020000 +0000">
+    <title>FutFem</title>
     <category>Movie</category>
-    <desc>Programa de entretenimiento deportivo en el que el fútbol se debate con garra y sin filtros.</desc>
+    <desc>Espacio cien por ciento dedicado al fútbol femenino internacional.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260226003150 +0000" stop="20260226010000 +0000">
-    <title>One on One</title>
-    <sub-title>Alberto del Río</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Alberto del Río hizo historia, al ser el primer mexicano campeón de la WWE.</desc>
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260227020000 +0000" stop="20260227045545 +0000">
+    <title>Noches de Boxeo</title>
+    <sub-title>Chihuas VS Trino</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Canela Box - 'Chihuas' Rodríguez vs 'Trino' Córdova</desc>
     <date>20230101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/067baa4c-1b77-43fd-9e42-ab63f8f100eb_ctv_oneonone_general_16x9.jpg" />
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/205d3a9a-cbee-4fd7-bb2f-3fe00c450ae1_box_generico_16x9_0.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260226010000 +0000" stop="20260226020000 +0000">
-    <title>100% Futbol</title>
-    <category>Movie</category>
-    <desc>Todo lo que necesitas saber de futbol.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260226020000 +0000" stop="20260226050346 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260227045545 +0000" stop="20260227080046 +0000">
     <title>Probox TV</title>
-    <sub-title>Francis vs Saracho</sub-title>
-    <episode-num system="onscreen">S03E03</episode-num>
-    <desc>Evento Principal: Cesar Francis vs Jesus Saracho.</desc>
+    <sub-title>MDB: Yoshida vs Metcalf</sub-title>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <desc>Evento Principal: Miko Yoshida vs Shurretta Metcalf</desc>
     <date>20240101</date>
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/5ce04980-5b87-4816-9134-60c7126c1543_16x9.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260226050346 +0000" stop="20260226093544 +0000">
-    <title>Serie de Contendientes: Lubin vs Holmes Jr</title>
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260227080046 +0000" stop="20260227100515 +0000">
+    <title>Celtic vs. Rangers</title>
     <category>Movie</category>
-    <desc>Evento Estelar: Lubin vs Holmes Jr</desc>
+    <desc>Rangers buscará seguir sumando ante el Celtic.</desc>
+    <date>20260101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/eb168be5bab0b6a3a6fe8a548d7f611149efb2e2_2x3.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260227100515 +0000" stop="20260227113128 +0000">
+    <title>Maracaná</title>
+    <category>Movie</category>
+    <desc>Una extraordinaria hazaña con espíritu deportivo.</desc>
+    <date>20140101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/81e03bcb-4143-4e8b-b6d3-ce7e5205c7b2_2x3.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260227113128 +0000" stop="20260227125928 +0000">
+    <title>MASL Replays</title>
+    <sub-title>MASL All-Star Game</sub-title>
+    <episode-num system="onscreen">S09E01</episode-num>
+    <desc>Las máximas figuras de la MASL se enfrentan en un épico partido.</desc>
     <date>20250101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/8edc92c23f28afc42a9944cf4ec7500e8ca68307_2x3.png" />
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/2ed0349d-1179-4d74-853d-ad6bd00cf988_16x9.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260226093544 +0000" stop="20260226124024 +0000">
-    <title>Canela Boxeo - Concepción Vs Márquez</title>
-    <category>Movie</category>
-    <desc>No te pierdas la pelea de Concepción Vs Márquez</desc>
-    <date>20220101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260226124024 +0000" stop="20260226140200 +0000">
-    <title>One on One</title>
-    <sub-title>Bruno Marioni</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Bruno Marioni nos habla sobre su vida personal fuera del deporte.</desc>
-    <date>20230101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/067baa4c-1b77-43fd-9e42-ab63f8f100eb_ctv_oneonone_general_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260226140200 +0000" stop="20260226155922 +0000">
-    <title>Milwaukee Wave vs. Empire Strykers</title>
-    <category>Movie</category>
-    <desc>Milwaukee Wave recibe al Empire Strykers en una nueva jornada de acciones en la MASL.</desc>
-    <date>20260217</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/56e2cb8d00f98a877669ddcca7a134016297fa60_2x3.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260226155922 +0000" stop="20260226171040 +0000">
-    <title>El Dugout</title>
-    <sub-title>Sorteo Mundial 2026</sub-title>
-    <episode-num system="onscreen">S01E56</episode-num>
-    <desc>¡La suerte está echada! Reaccionamos al sorteo de la Copa del Mundo 2026.</desc>
-    <date>20250101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/957f63fb-6eca-48f8-8738-ef431b273b18_16x9.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260226171040 +0000" stop="20260226174352 +0000">
-    <title>Historias de Mundiales de Fútbol</title>
-    <sub-title>Champions Ronaldo</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Ronaldo y su magia.</desc>
-    <date>20170101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/606afaa4-18cb-4f3b-96a2-d052e85d7d5f_footballs-greatest-stage-1920x1080px-cris_0.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260226174352 +0000" stop="20260226181704 +0000">
-    <title>Historias de Mundiales de Fútbol</title>
-    <sub-title>Diego Maradona</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Es uno de los grandes de todos los tiempos del juego.</desc>
-    <date>20170101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/606afaa4-18cb-4f3b-96a2-d052e85d7d5f_footballs-greatest-stage-1920x1080px-cris_0.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260226181704 +0000" stop="20260226184823 +0000">
-    <title>Historias de Mundiales de Fútbol</title>
-    <sub-title>Pelé</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>La historia de que Pelé.</desc>
-    <date>20170101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/606afaa4-18cb-4f3b-96a2-d052e85d7d5f_footballs-greatest-stage-1920x1080px-cris_0.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260226184823 +0000" stop="20260226210042 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260227125928 +0000" stop="20260227151047 +0000">
     <title>MASL Replays</title>
     <sub-title>Juego de Leyendas:Ronaldinho vs. Kaká</sub-title>
     <episode-num system="onscreen">S09E01</episode-num>
@@ -115,12 +64,81 @@
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/2ed0349d-1179-4d74-853d-ad6bd00cf988_16x9.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260226210042 +0000" stop="20260227005000 +0000">
-    <title>Livingston vs. Rangers</title>
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260227151047 +0000" stop="20260227172527 +0000">
+    <title>Baltimore Blast vs. Empire Strykers</title>
     <category>Movie</category>
-    <desc>Livingston y Rangers se enfrentan en un duelo determinante.</desc>
+    <desc>Baltimore Blast buscará sacar el triunfo ante Empire Strykers.</desc>
+    <date>20260221</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/d49763cd106f37fbfb8ba914ba0a4fe113b246b5_2x3.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260227172527 +0000" stop="20260227183539 +0000">
+    <title>Historias de Leyendas</title>
+    <sub-title>Mario Kempes</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Mario Kempes nos cuenta detalles íntimos de su vida dentro y fuera de la cancha.</desc>
+    <date>20240101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/db4db0fa-2a81-4077-8906-2fefb60e0689_copia_de_cm-historias_de_leyendas-postergenerico-16x9_2.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260227183539 +0000" stop="20260227191508 +0000">
+    <title>Estrellas del Fútbol</title>
+    <sub-title>El Escándalo de Maradona</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>La vida de Maradona desde sus primeros años.</desc>
+    <date>20140101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ec0b290f-b34e-42c3-a4b0-c53fca4001cd_estrellas-de-futbol-1920x1080px-cris.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260227191508 +0000" stop="20260227195219 +0000">
+    <title>Estrellas del Fútbol</title>
+    <sub-title>Lewandowski Hace Olas</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Balotelli causa revuelo en Liverpool.</desc>
+    <date>20140101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ec0b290f-b34e-42c3-a4b0-c53fca4001cd_estrellas-de-futbol-1920x1080px-cris.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260227195219 +0000" stop="20260227202421 +0000">
+    <title>Estrellas del Fútbol</title>
+    <sub-title>Las Mayores Rivalidades del Fútbol</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>Adéntrate a las mayores rivalidades del fútbol.</desc>
+    <date>20140101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/ec0b290f-b34e-42c3-a4b0-c53fca4001cd_estrellas-de-futbol-1920x1080px-cris.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260227202421 +0000" stop="20260227213138 +0000">
+    <title>El Dugout</title>
+    <sub-title>Sorteo Mundial 2026</sub-title>
+    <episode-num system="onscreen">S01E56</episode-num>
+    <desc>¡La suerte está echada! Reaccionamos al sorteo de la Copa del Mundo 2026.</desc>
     <date>20250101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/e0da6a71b324804aa5cc27e0ee7ee7e9de601555_2x3.png" />
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/957f63fb-6eca-48f8-8738-ef431b273b18_16x9.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260227213138 +0000" stop="20260227233134 +0000">
+    <title>RB Leipzig vs. Atalanta</title>
+    <category>Movie</category>
+    <desc>RB Leipzig y Atalanta se miden en un duelo explosivo que enciende la pretemporada europea.</desc>
+    <date>20250101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/989c51f05f05646fc5c2d322bc2b21ba9fda0c9f_2x3.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260227233134 +0000" stop="20260228003000 +0000">
+    <title>Historias de Leyendas</title>
+    <sub-title>Carlos Valderrama</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Luis Omar Tapia y el Pibe Valderrama revelan secretos que van más allá del fútbol.</desc>
+    <date>20240101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/db4db0fa-2a81-4077-8906-2fefb60e0689_copia_de_cm-historias_de_leyendas-postergenerico-16x9_2.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" start="20260228003000 +0000" stop="20260228050202 +0000">
+    <title>En Vivo: Probox Tellez vs Torres</title>
+    <category>Movie</category>
+    <desc>ProBox TV - Peleas Competitivas de Gran Accion</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/8abe37c4-5d73-4e05-97f9-69fdf4d1ed15/CM-Plex-logo-deportes-2000x3000_-_Natalia_Rodriguez.jpg" />
   </programme>
   
 </tv>
