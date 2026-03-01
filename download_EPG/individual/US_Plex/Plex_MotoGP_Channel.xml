@@ -5,7 +5,16 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/d5b19340-b4d9-498d-8f89-2a69bc30fc4b/MotoGPChannel_1500x1000_logo_for_dark_bgd_-_Eddie_Hunter-Higgins.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260227232415 +0000" stop="20260228013500 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260228225015 +0000" stop="20260301012230 +0000">
+    <title>MotoGP 2024</title>
+    <sub-title>2024 Thailand Grand Prix: Full Race</sub-title>
+    <episode-num system="onscreen">S01E18</episode-num>
+    <desc>Humidity and fast laps collide, turning Thailand into a physical test.</desc>
+    <date>20250226</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP_2024_16x9.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260301012230 +0000" stop="20260301033500 +0000">
     <title>MotoGP 2025</title>
     <sub-title>2025 Thailand Grand Prix: Full Race</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -14,83 +23,14 @@
     <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP_2025_16x9.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260228013500 +0000" stop="20260228042000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260301033500 +0000" stop="20260301070000 +0000">
     <title>LIVE: Thailand 2026</title>
     <category>Movie</category>
-    <desc>Follow along as day 2 gets underway at the Chang International Circuit in Thailand.</desc>
+    <desc>Join us at Chang International Circuit, for the final day of the 2026 season opening weekend!</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/067fbaa8-d405-4a1e-bb9d-3417d96b4f76/MotoGPChannel_vertical_art_2000x3000_-_Eddie_Hunter-Higgins.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260228042000 +0000" stop="20260228054000 +0000">
-    <title>2025 Sprint</title>
-    <sub-title>2025 Thailand Grand Prix: Sprint</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Tissot Sprint takes top billing in Thailand &amp; looks to be shaping up to be an intense battle at the front.</desc>
-    <date>20250226</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP_2025_16x9.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260228054000 +0000" stop="20260228073000 +0000">
-    <title>LIVE: Thailand 2026</title>
-    <category>Movie</category>
-    <desc>Tune in as we catch the Moto3 and Moto2 qualifying races live from Thailand!</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/067fbaa8-d405-4a1e-bb9d-3417d96b4f76/MotoGPChannel_vertical_art_2000x3000_-_Eddie_Hunter-Higgins.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260228073000 +0000" stop="20260228085127 +0000">
-    <title>MotoGP Classics</title>
-    <sub-title>Classics: British Grand Prix 2000</sub-title>
-    <episode-num system="onscreen">S01E33</episode-num>
-    <desc>Relive the 2000 British Grand Prix, where Rossi triumphed in the premier class for the very first time.</desc>
-    <date>20250226</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/Classics_16x9.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260228085127 +0000" stop="20260228100739 +0000">
-    <title>2025 Moto2</title>
-    <sub-title>2025 Thailand Grand Prix: Moto2 Full Race</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Kicking off the season with blazing hot sunshine in North East Thailand and the racing does not disappoint.</desc>
-    <date>20250226</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP_2025_16x9.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260228100739 +0000" stop="20260228111944 +0000">
-    <title>2025 Moto 3</title>
-    <sub-title>2025 Italy Grand Prix: Moto3 Full Race</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>The Tuscan hills are packed with Moto3 supporters and are treated to a breathtaking spectacle.</desc>
-    <date>20250226</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP_2025_16x9.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260228111944 +0000" stop="20260228122711 +0000">
-    <title>2025 Moto 3</title>
-    <sub-title>2025 Czechia Grand Prix: Moto3</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>It's a 23 rider grid due to injury with many of them having never raced at Brno before.</desc>
-    <date>20250226</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP_2025_16x9.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260228122711 +0000" stop="20260228131342 +0000">
-    <title>2025 MotoE</title>
-    <sub-title>2025 Austria Grand Prix: MotoE Race 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Electric bikes hit the track for a fast-paced opener at the Austrian GP.</desc>
-    <date>20250226</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP_2025_16x9.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260228131342 +0000" stop="20260228132753 +0000">
-    <title>2025 The Best Saves</title>
-    <category>Movie</category>
-    <desc>Looking at the best way riding skills have reigned supreme.</desc>
-    <date>20250226</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP2x3.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260228151513 +0000" stop="20260228174051 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260301070000 +0000" stop="20260301093247 +0000">
     <title>MotoGP 2019</title>
     <sub-title>2019 Thailand Grand Prix: Full Race</sub-title>
     <episode-num system="onscreen">S01E15</episode-num>
@@ -99,7 +39,16 @@
     <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP_2019_16x9.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260228174051 +0000" stop="20260228202239 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260301093247 +0000" stop="20260301100852 +0000">
+    <title>There Can Be Only One</title>
+    <sub-title>2023, Ep3</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>A stunning comeback is launched while Marc Marquez returns to the track with a bang.</desc>
+    <date>20250226</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/2023_There_Can_Be_Only_One_Generic_COVER.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260301100852 +0000" stop="20260301125110 +0000">
     <title>MotoGP 2022</title>
     <sub-title>2022 Thailand Grand Prix: Full Race</sub-title>
     <episode-num system="onscreen">S01E17</episode-num>
@@ -108,22 +57,58 @@
     <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP_2022_16x9.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260228202239 +0000" stop="20260228225015 +0000">
-    <title>MotoGP 2023</title>
-    <sub-title>2023 Thailand Grand Prix: Full Race</sub-title>
-    <episode-num system="onscreen">S01E17</episode-num>
-    <desc>A photo-finish thriller unfolds under pressure and humidity in Thailand.</desc>
+<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260301125110 +0000" stop="20260301144851 +0000">
+    <title>MotoGP 2002</title>
+    <sub-title>2002 Brazil Grand Prix: Full Race</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>Will Honda's four stoke domination continue on this dry track?</desc>
     <date>20250226</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP_2023_16x9.png" />
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP_2002_16x9.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260228225015 +0000" stop="20260301012230 +0000">
-    <title>MotoGP 2024</title>
-    <sub-title>2024 Thailand Grand Prix: Full Race</sub-title>
-    <episode-num system="onscreen">S01E18</episode-num>
-    <desc>Humidity and fast laps collide, turning Thailand into a physical test.</desc>
+<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260301144851 +0000" stop="20260301165938 +0000">
+    <title>MotoGP 2025</title>
+    <sub-title>2025 Argentinian Grand Prix: Full Race</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Grip shifts and late lunges shape a South American showdown full of quiet tension and fierce intent.</desc>
     <date>20250226</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP_2024_16x9.png" />
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP_2025_16x9.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260301165938 +0000" stop="20260301192540 +0000">
+    <title>MotoGP 2025</title>
+    <sub-title>2025 US Grand Prix: Full Race</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Texas brings the drama - dust, bumps, and elbows out in a battle of precision under pressure.</desc>
+    <date>20250226</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP_2025_16x9.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260301192540 +0000" stop="20260301213810 +0000">
+    <title>MotoGP 2025</title>
+    <sub-title>2025 Qatari Grand Prix: Full Race</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Under desert lights, confidence meets calculation in a race where strategy speaks louder than speed.</desc>
+    <date>20250226</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP_2025_16x9.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260301213810 +0000" stop="20260301235649 +0000">
+    <title>MotoGP 2025</title>
+    <sub-title>2025 Spanish Grand Prix: Full Race</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>A packed house fuels an all-out war of will and skill - this one's for the purists and the poets.</desc>
+    <date>20250226</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP_2025_16x9.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260301235649 +0000" stop="20260302025516 +0000">
+    <title>MotoGP 2025</title>
+    <sub-title>2025 French Grand Prix: Full Race</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Rain taps the rhythm of the race as heroes rise through the mist in a symphony of control and chaos.</desc>
+    <date>20250226</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP_2025_16x9.png" />
   </programme>
   
 </tv>
