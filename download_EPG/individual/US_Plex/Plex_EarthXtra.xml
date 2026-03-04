@@ -5,394 +5,437 @@
     <icon src="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6b0966e5d90288e08bae81a080108d96.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303000500 +0000" stop="20260303010000 +0000">
-    <title>Wetlands: Ephemeral Sanctuaries</title>
-    <sub-title>Spain's Doñana Park</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304015600 +0000" stop="20260304022500 +0000">
+    <title>Wild Wonders With Brooke</title>
+    <sub-title>Long Live the King!</sub-title>
+    <episode-num system="onscreen">S03E03</episode-num>
+    <desc>Brooke joins a team of experts as they catch two enormous, fully-grown male lions and relocate them to their new home.</desc>
+    <date>20231213</date>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b8d46dcc216d16187745a6bd2034663a.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304022500 +0000" stop="20260304025400 +0000">
+    <title>Wild Wonders With Brooke</title>
+    <sub-title>Dances with Lemurs</sub-title>
+    <episode-num system="onscreen">S03E04</episode-num>
+    <desc>Brooke gets up close and personal with the island's iconic primates.</desc>
+    <date>20231220</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8bb44126108d29782b20e5f4e79f2c51.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304025400 +0000" stop="20260304032200 +0000">
+    <title>Aussie Snake Wranglers</title>
+    <sub-title>Deadly Chase</sub-title>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <desc>Stuart and Chris race against a fleeing eastern brown snake; Mick and Adele relocate a wayward water dragon; Jess must face her fears.</desc>
+    <date>20221025</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/31d75b6a832e96526d99d641d3ea2a44.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304032200 +0000" stop="20260304035000 +0000">
+    <title>Aussie Snake Wranglers</title>
+    <sub-title>Mum's the Word</sub-title>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <desc>Mick and Adele have the delicate task of removing a carpet python guarding her fresh clutch of eggs; a pool party gets interrupted when a baby eastern brown snake decides to go for a swim.</desc>
+    <date>20221101</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/68e5ce1e5e6396d16245b706695ae3bb.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304035000 +0000" stop="20260304041800 +0000">
+    <title>Bright Now!</title>
+    <sub-title>Bright Now!</sub-title>
+    <desc>Short stories about science and tech, history, global issues, and the personalities at the center of it all.</desc>
+    <date>20260304</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304041800 +0000" stop="20260304044700 +0000">
+    <title>Kalu: Growing up Wild &amp; Sandcastle: The Secret Life of Potter Wasps</title>
+    <sub-title>Kalu: Growing up Wild &amp; Sandcastle: The Secret Life of Potter Wasps</sub-title>
+    <desc>In the dense jungles of Costa Rica, a young spider monkey must learn to survive; in the meadows of Switzerland, a tenacious potter wasp searches for the perfect place to build her nest.</desc>
+    <date>20260304</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304044700 +0000" stop="20260304051600 +0000">
+    <title>Defenders of the Wild</title>
+    <sub-title>Desert Hyenas</sub-title>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <desc>The Namibian coastline is home to the brown hyena; Ivan spends time at an isolated seal colony where a research project is revealing their secrets.</desc>
+    <date>20250610</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a6e47c0c41d9834f3aea57e2cde5926f.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304051600 +0000" stop="20260304054500 +0000">
+    <title>Defenders of the Wild</title>
+    <sub-title>Ground Hornbill: Redemption Song</sub-title>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <desc>Southern ground hornbills are a fascinating species, yet increasingly under threat.</desc>
+    <date>20231115</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c56b80117bfd97583896630f1d7c1934.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304054500 +0000" stop="20260304061400 +0000">
+    <title>Defenders of the Wild</title>
+    <sub-title>Seals: The Plastic Predicament</sub-title>
+    <episode-num system="onscreen">S02E10</episode-num>
+    <desc>Namibia is home to Africa's largest seal colonies due to the rich marine life; this abundance leads to competition with humans for resources; Ivan joins an NGO removing plastic from unlucky seals.</desc>
+    <date>20250612</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7fe53a9c2c771b9a2546076e47eaf7be.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304061400 +0000" stop="20260304064300 +0000">
+    <title>Defenders of the Wild</title>
+    <sub-title>Vervet Monkeys: Urban Pests</sub-title>
+    <episode-num system="onscreen">S02E11</episode-num>
+    <desc>In many areas of urban Africa, troops of primates become a severe nuisance; Ivan engages with wildlife managers to explore the realities of this problem and ways to live with these cute pests.</desc>
+    <date>20250610</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c22f07b92296df7c091f303603c37902.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304064300 +0000" stop="20260304071200 +0000">
+    <title>The Killer Bee Catcher</title>
+    <sub-title>It's Getting Swarm in Here</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Lance is hired to remove a hive behind the wall of a home; previously pesticide was used on this hive; something that Lance would never do; a swarm attacks Lance's team back at his office.</desc>
+    <date>20230614</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/ebe2bdbdac1ac0ba6b9dfb49f2f2fbd4.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304071200 +0000" stop="20260304074200 +0000">
+    <title>The Killer Bee Catcher</title>
+    <sub-title>Killer Bees at the Duck Club</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Lance and Sonja help a duck hunting club with a killer bee-infested desert island; Lance uses his chainsaw on a treetop to get three killer beehives, where he is attacked and stung while capturing the bees.</desc>
+    <date>20230503</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8fed152de888121cc318088b27cede0c.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304074200 +0000" stop="20260304081100 +0000">
+    <title>Wild Wonders With Brooke</title>
+    <sub-title>Capturing Giants</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
-    <desc>In the southwest of Spain lies the Doñana Park, a vast network of marshes and temporary lagoons, and a large, and maybe the best-preserved, wetland in Europe.</desc>
-    <date>20250828</date>
+    <desc>Brooke joins Julian Fennessy from Giraffe Conservation Foundation on a mission to learn about giraffe populations in Africa; she discovers the threats faced as they capture and GPS track the giraffes.</desc>
+    <date>20221016</date>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/5fd215c1f6a85b919f98be6a7a3e14fd.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303010000 +0000" stop="20260303015400 +0000">
-    <title>Wetlands: Ephemeral Sanctuaries</title>
-    <sub-title>The American Everglades</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Just a few miles from Miami and its beaches, south Florida is home to a large wetland: the Everglades, or the eternal marshes.</desc>
-    <date>20250829</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303015400 +0000" stop="20260303033100 +0000">
-    <title>Feeding Tomorrow</title>
-    <category>Movie</category>
-    <desc>Farmers, nutritionists and educators work to transform a broken food system. Fighting ecosystem destruction, climate change, inequality and health epidemics, these Innovators build a regenerative and resilient system in their local communities.</desc>
-    <date>20230102</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/8fd2b65fe04c7aa1bc60da4920998fed.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303033100 +0000" stop="20260303035700 +0000">
-    <title>Water Ways</title>
-    <sub-title>Water Ways</sub-title>
-    <desc>Water is life; it shapes landscapes, fuels communities, and sustains everything around the world; but the watersheds need help; meet Niagara Cares, the company rescuing our water ways.</desc>
-    <date>20260303</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303035700 +0000" stop="20260303045100 +0000">
-    <title>Wetlands: Ephemeral Sanctuaries</title>
-    <sub-title>Australia's Kakadu</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Amid the dry and arid Australian bush, the Kakadu sanctuary is an oasis, filled with multiple rivers, abundant rainfall, a luxuriant jungle, and 10,000 hungry crocodiles.</desc>
-    <date>20250825</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303045100 +0000" stop="20260303051900 +0000">
-    <title>Bright Now!</title>
-    <sub-title>Bright Now!</sub-title>
-    <desc>Short stories about science and tech, history, global issues, and the personalities at the center of it all.</desc>
-    <date>20260303</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303051900 +0000" stop="20260303054800 +0000">
-    <title>Kalu: Growing up Wild &amp; Sandcastle: The Secret Life of Potter Wasps</title>
-    <sub-title>Kalu: Growing up Wild &amp; Sandcastle: The Secret Life of Potter Wasps</sub-title>
-    <desc>In the dense jungles of Costa Rica, a young spider monkey must learn to survive; in the meadows of Switzerland, a tenacious potter wasp searches for the perfect place to build her nest.</desc>
-    <date>20260303</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303054800 +0000" stop="20260303061600 +0000">
-    <title>Aussie Snake Wranglers</title>
-    <sub-title>Snake In A Van</sub-title>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <desc>Jess and Stuart respond to a young father's call for help to remove a highly venomous snake from his front yard; Mick and Adele step in when a huge lace monitor is chased into a family's roof by their dogs.</desc>
-    <date>20221030</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6a2c6ccf7b46153b887686f001d76d77.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303061600 +0000" stop="20260303064700 +0000">
-    <title>Aussie Snake Wranglers</title>
-    <sub-title>Hide and Seek</sub-title>
-    <episode-num system="onscreen">S02E11</episode-num>
-    <desc>Adele and Mick face their most difficult challenge, removing an elusive, red-bellied black snake from under a back deck; Chris and Stuart wrangle with high-flying carpet pythons and keelbacks.</desc>
-    <date>20221122</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/4f8a018f19287ca0d61beb4b30ecafec.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303064700 +0000" stop="20260303071500 +0000">
-    <title>Aussie Snake Wranglers</title>
-    <sub-title>Python vs Pet Cat</sub-title>
-    <episode-num system="onscreen">S02E12</episode-num>
-    <desc>A hungry python has its eyes set on two pet cats, so Mick and Adele must come in to remove the snake before the dinner bell rings.</desc>
-    <date>20221129</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5816c5707ee03cb0d8eaf4d33201e522.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303071500 +0000" stop="20260303074300 +0000">
-    <title>Snake Season</title>
-    <sub-title>Green Snakes</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Durban's lush forests are a haven for green snakes that use the vegetation to camouflage themselves; but which ones of these slithery beasts are dangerous?</desc>
-    <date>20250716</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/879fb0d395df3ad8544ceaac6358d2b0.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303074300 +0000" stop="20260303081100 +0000">
-    <title>Snake Season</title>
-    <sub-title>More Mambas &amp; a Python</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Summer is snake season in Durban, and Nick Evans is run off his feet rescuing terrified Durban residents from black mamba invasions.</desc>
-    <date>20250717</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d7a1565be9faeef650d41ba99c6460cf.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303081100 +0000" stop="20260303083900 +0000">
-    <title>Snake Season</title>
-    <sub-title>Mambas &amp; Monitors</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Nick Evans is mad about black mambas, but it's not just snakes he's called out to rescue; he gets calls for pretty much anything scary and scaly, including the infamous monitor lizard.</desc>
-    <date>20250717</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ab651573fa1eee9a73346edf631965ff.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303083900 +0000" stop="20260303091000 +0000">
-    <title>Nature's Ultimate Survivors With the Blowfish</title>
-    <sub-title>Fastest</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The need for speed is an essential skill to survive in a hostile world-and, for some animals, can be the difference between catching a meal or becoming dinner. But which animal is the fastest?</desc>
-    <date>20250319</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/01e426665ce0b70d07aa89047524061a.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303091000 +0000" stop="20260303093800 +0000">
-    <title>Nature's Ultimate Survivors With the Blowfish</title>
-    <sub-title>Builders</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Heavy metal marine biologist, Tom The Blowfish Hird, scours the globe to find the Top 10 most ingenious animal craftsmanship. Which animal will be crowned nature's master builder?</desc>
-    <date>20250319</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/96ee143b70e88a7cab79c1e15c7f23b5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303093800 +0000" stop="20260303103700 +0000">
-    <title>Asia's Deadliest Snakes</title>
-    <sub-title>Asia's Deadliest Snakes</sub-title>
-    <desc>Asia's most violent and venomous snakes.</desc>
-    <date>20260303</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303103700 +0000" stop="20260303110600 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304081100 +0000" stop="20260304084000 +0000">
     <title>Wild Wonders With Brooke</title>
-    <sub-title>Long Live the King!</sub-title>
-    <episode-num system="onscreen">S03E03</episode-num>
-    <desc>Brooke joins a team of experts as they catch two enormous, fully-grown male lions and relocate them to their new home.</desc>
-    <date>20231213</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b8d46dcc216d16187745a6bd2034663a.jpg" />
+    <sub-title>Elephants: A New Landscape</sub-title>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <desc>Elephant lover Brooke joins a specialized capture team and gets fully engaged as they dart two elephant bulls and lift them onto huge trucks for their journey to a new landscape.</desc>
+    <date>20230118</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9d8fef2cba607290de89ae40bbc33bc5.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303110600 +0000" stop="20260303113500 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304084000 +0000" stop="20260304090900 +0000">
     <title>Wild Wonders With Brooke</title>
-    <sub-title>Dances with Lemurs</sub-title>
-    <episode-num system="onscreen">S03E04</episode-num>
-    <desc>Brooke gets up close and personal with the island's iconic primates.</desc>
-    <date>20231220</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/8bb44126108d29782b20e5f4e79f2c51.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303113500 +0000" stop="20260303120300 +0000">
-    <title>Aussie Snake Wranglers</title>
-    <sub-title>Deadly Chase</sub-title>
+    <sub-title>Meet the Meerkats</sub-title>
     <episode-num system="onscreen">S02E07</episode-num>
-    <desc>Stuart and Chris race against a fleeing eastern brown snake; Mick and Adele relocate a wayward water dragon; Jess must face her fears.</desc>
-    <date>20221025</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/31d75b6a832e96526d99d641d3ea2a44.jpg" />
+    <desc>Brooke journeys to the Kalahari research station where she joins a team of scientists researching meerkats; she learns what amazing animals these are and one even uses her head as a lookout point.</desc>
+    <date>20230215</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/04de048351f9848d8ec5c7013a3474e4.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303120300 +0000" stop="20260303123200 +0000">
-    <title>Aussie Snake Wranglers</title>
-    <sub-title>Mum's the Word</sub-title>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <desc>Mick and Adele have the delicate task of removing a carpet python guarding her fresh clutch of eggs; a pool party gets interrupted when a baby eastern brown snake decides to go for a swim.</desc>
-    <date>20221101</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/68e5ce1e5e6396d16245b706695ae3bb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303123200 +0000" stop="20260303130000 +0000">
-    <title>Bright Now!</title>
-    <sub-title>Bright Now!</sub-title>
-    <desc>Short stories about science and tech, history, global issues, and the personalities at the center of it all.</desc>
-    <date>20260303</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303130000 +0000" stop="20260303132800 +0000">
-    <title>Kalu: Growing up Wild &amp; Sandcastle: The Secret Life of Potter Wasps</title>
-    <sub-title>Kalu: Growing up Wild &amp; Sandcastle: The Secret Life of Potter Wasps</sub-title>
-    <desc>In the dense jungles of Costa Rica, a young spider monkey must learn to survive; in the meadows of Switzerland, a tenacious potter wasp searches for the perfect place to build her nest.</desc>
-    <date>20260303</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303132800 +0000" stop="20260303133300 +0000">
-    <title>Guardians</title>
-    <sub-title>Burn Down the Base</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>In order to stop poachers in their tracks, Mfana and the team must resort to burning down their camp.</desc>
-    <date>20250721</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303133300 +0000" stop="20260303140100 +0000">
-    <title>Aussie Snake Wranglers</title>
-    <sub-title>Snake In A Van</sub-title>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <desc>Jess and Stuart respond to a young father's call for help to remove a highly venomous snake from his front yard; Mick and Adele step in when a huge lace monitor is chased into a family's roof by their dogs.</desc>
-    <date>20221030</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6a2c6ccf7b46153b887686f001d76d77.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303140100 +0000" stop="20260303142900 +0000">
-    <title>Aussie Snake Wranglers</title>
-    <sub-title>Hide and Seek</sub-title>
-    <episode-num system="onscreen">S02E11</episode-num>
-    <desc>Adele and Mick face their most difficult challenge, removing an elusive, red-bellied black snake from under a back deck; Chris and Stuart wrangle with high-flying carpet pythons and keelbacks.</desc>
-    <date>20221122</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/4f8a018f19287ca0d61beb4b30ecafec.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303142900 +0000" stop="20260303145800 +0000">
-    <title>Aussie Snake Wranglers</title>
-    <sub-title>Python vs Pet Cat</sub-title>
-    <episode-num system="onscreen">S02E12</episode-num>
-    <desc>A hungry python has its eyes set on two pet cats, so Mick and Adele must come in to remove the snake before the dinner bell rings.</desc>
-    <date>20221129</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5816c5707ee03cb0d8eaf4d33201e522.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303145800 +0000" stop="20260303152600 +0000">
-    <title>Snake Season</title>
-    <sub-title>Green Snakes</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304090900 +0000" stop="20260304093800 +0000">
+    <title>Wild Wonders With Brooke</title>
+    <sub-title>Spaces to Roam</sub-title>
     <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Durban's lush forests are a haven for green snakes that use the vegetation to camouflage themselves; but which ones of these slithery beasts are dangerous?</desc>
-    <date>20250716</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/879fb0d395df3ad8544ceaac6358d2b0.jpg" />
+    <desc>Wildlife such as elephants and zebras often come into conflict with humans; Brooke meets up with a wildlife veterinarian to capture and move these animals safely in order to avoid conflict.</desc>
+    <date>20221023</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/06c4754a5de7295ade82603fd0783e11.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303152600 +0000" stop="20260303155400 +0000">
-    <title>Snake Season</title>
-    <sub-title>More Mambas &amp; a Python</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Summer is snake season in Durban, and Nick Evans is run off his feet rescuing terrified Durban residents from black mamba invasions.</desc>
-    <date>20250717</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d7a1565be9faeef650d41ba99c6460cf.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304093800 +0000" stop="20260304100700 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Elephant Seals and Sea Gooseberry</sub-title>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <desc>Tom the Blowfish Hird meets a seal with an enormous schnoz and more.</desc>
+    <date>20240313</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7cec640d4070608842b0a3d95aa02908.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303155400 +0000" stop="20260303162200 +0000">
-    <title>Snake Season</title>
-    <sub-title>Mambas &amp; Monitors</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Nick Evans is mad about black mambas, but it's not just snakes he's called out to rescue; he gets calls for pretty much anything scary and scaly, including the infamous monitor lizard.</desc>
-    <date>20250717</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ab651573fa1eee9a73346edf631965ff.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303162200 +0000" stop="20260303165000 +0000">
-    <title>Nature's Ultimate Survivors With the Blowfish</title>
-    <sub-title>Fastest</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The need for speed is an essential skill to survive in a hostile world-and, for some animals, can be the difference between catching a meal or becoming dinner. But which animal is the fastest?</desc>
-    <date>20250319</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/01e426665ce0b70d07aa89047524061a.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303165000 +0000" stop="20260303171900 +0000">
-    <title>Nature's Ultimate Survivors With the Blowfish</title>
-    <sub-title>Builders</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304100700 +0000" stop="20260304103600 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Manta Rays and Boxer Crabs</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Heavy metal marine biologist, Tom The Blowfish Hird, scours the globe to find the Top 10 most ingenious animal craftsmanship. Which animal will be crowned nature's master builder?</desc>
-    <date>20250319</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/96ee143b70e88a7cab79c1e15c7f23b5.jpg" />
+    <desc>Tom Hird dives with manta rays, jumps on a skateboard to show how remoras hitch a ride, discovers why boxer crabs use anemones for gloves and how herrings communicate by farting.</desc>
+    <date>20230419</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6a83ea195dcdfe58c8de6a3ca2be42f1.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303171900 +0000" stop="20260303181500 +0000">
-    <title>Asia's Deadliest Snakes</title>
-    <sub-title>Asia's Deadliest Snakes</sub-title>
-    <desc>Asia's most violent and venomous snakes.</desc>
-    <date>20260303</date>
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304103600 +0000" stop="20260304110500 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Octopus Escapees and Blue Whale</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Tom "the Blowfish" Hird demonstrates how octopus fit through tiny gaps, explains why coral glows, meets a crab that tastes with its toes, and uncovers why the blue whale is the biggest animal ever.</desc>
+    <date>20230531</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/fe970cd6cfe7f598d043c0da9e64d31a.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303181500 +0000" stop="20260303184400 +0000">
-    <title>Wild Wonders With Brooke</title>
-    <sub-title>Long Live the King!</sub-title>
-    <episode-num system="onscreen">S03E03</episode-num>
-    <desc>Brooke joins a team of experts as they catch two enormous, fully-grown male lions and relocate them to their new home.</desc>
-    <date>20231213</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b8d46dcc216d16187745a6bd2034663a.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304110500 +0000" stop="20260304113400 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Sea Turtles and Stylish Squids</sub-title>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <desc>Tom the Blowfish Hird reveals the bobtail squid's stylish survival tactics and more.</desc>
+    <date>20240320</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e4c79169f52ab4b54d5bd227045f4c96.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303184400 +0000" stop="20260303191300 +0000">
-    <title>Wild Wonders With Brooke</title>
-    <sub-title>Dances with Lemurs</sub-title>
-    <episode-num system="onscreen">S03E04</episode-num>
-    <desc>Brooke gets up close and personal with the island's iconic primates.</desc>
-    <date>20231220</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/8bb44126108d29782b20e5f4e79f2c51.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304113400 +0000" stop="20260304122800 +0000">
+    <title>March of the Elephants</title>
+    <sub-title>March of the Elephants</sub-title>
+    <desc>Chronicling an elephant herd's incredible 800-mile migration from their homeland in Yunnan, China, through forests, farms, roads, viaducts, and human settlements to their new home in the north.</desc>
+    <date>20260304</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303191300 +0000" stop="20260303194200 +0000">
-    <title>Aussie Snake Wranglers</title>
-    <sub-title>Deadly Chase</sub-title>
-    <episode-num system="onscreen">S02E07</episode-num>
-    <desc>Stuart and Chris race against a fleeing eastern brown snake; Mick and Adele relocate a wayward water dragon; Jess must face her fears.</desc>
-    <date>20221025</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/31d75b6a832e96526d99d641d3ea2a44.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304122800 +0000" stop="20260304125700 +0000">
+    <title>Defenders of the Wild</title>
+    <sub-title>Desert Hyenas</sub-title>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <desc>The Namibian coastline is home to the brown hyena; Ivan spends time at an isolated seal colony where a research project is revealing their secrets.</desc>
+    <date>20250610</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a6e47c0c41d9834f3aea57e2cde5926f.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303194200 +0000" stop="20260303201000 +0000">
-    <title>Aussie Snake Wranglers</title>
-    <sub-title>Mum's the Word</sub-title>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <desc>Mick and Adele have the delicate task of removing a carpet python guarding her fresh clutch of eggs; a pool party gets interrupted when a baby eastern brown snake decides to go for a swim.</desc>
-    <date>20221101</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/68e5ce1e5e6396d16245b706695ae3bb.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304125700 +0000" stop="20260304132600 +0000">
+    <title>Defenders of the Wild</title>
+    <sub-title>Ground Hornbill: Redemption Song</sub-title>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <desc>Southern ground hornbills are a fascinating species, yet increasingly under threat.</desc>
+    <date>20231115</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c56b80117bfd97583896630f1d7c1934.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303201000 +0000" stop="20260303201500 +0000">
-    <title>Texas Gator Savers</title>
-    <sub-title>Hold on Tight</sub-title>
-    <episode-num system="onscreen">S01E17</episode-num>
-    <desc>The team are in a tight spot with a gator that's got the upper hand under a house, every move counts.</desc>
-    <date>20250605</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303201500 +0000" stop="20260303204300 +0000">
-    <title>Bright Now!</title>
-    <sub-title>Bright Now!</sub-title>
-    <desc>Short stories about science and tech, history, global issues, and the personalities at the center of it all.</desc>
-    <date>20260303</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303204300 +0000" stop="20260303211200 +0000">
-    <title>Kalu: Growing up Wild &amp; Sandcastle: The Secret Life of Potter Wasps</title>
-    <sub-title>Kalu: Growing up Wild &amp; Sandcastle: The Secret Life of Potter Wasps</sub-title>
-    <desc>In the dense jungles of Costa Rica, a young spider monkey must learn to survive; in the meadows of Switzerland, a tenacious potter wasp searches for the perfect place to build her nest.</desc>
-    <date>20260303</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303211200 +0000" stop="20260303214000 +0000">
-    <title>Aussie Snake Wranglers</title>
-    <sub-title>Snake In A Van</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304132600 +0000" stop="20260304135500 +0000">
+    <title>Defenders of the Wild</title>
+    <sub-title>Seals: The Plastic Predicament</sub-title>
     <episode-num system="onscreen">S02E10</episode-num>
-    <desc>Jess and Stuart respond to a young father's call for help to remove a highly venomous snake from his front yard; Mick and Adele step in when a huge lace monitor is chased into a family's roof by their dogs.</desc>
-    <date>20221030</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6a2c6ccf7b46153b887686f001d76d77.jpg" />
+    <desc>Namibia is home to Africa's largest seal colonies due to the rich marine life; this abundance leads to competition with humans for resources; Ivan joins an NGO removing plastic from unlucky seals.</desc>
+    <date>20250612</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7fe53a9c2c771b9a2546076e47eaf7be.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303214000 +0000" stop="20260303220800 +0000">
-    <title>Aussie Snake Wranglers</title>
-    <sub-title>Hide and Seek</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304135500 +0000" stop="20260304142400 +0000">
+    <title>Defenders of the Wild</title>
+    <sub-title>Vervet Monkeys: Urban Pests</sub-title>
     <episode-num system="onscreen">S02E11</episode-num>
-    <desc>Adele and Mick face their most difficult challenge, removing an elusive, red-bellied black snake from under a back deck; Chris and Stuart wrangle with high-flying carpet pythons and keelbacks.</desc>
-    <date>20221122</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/4f8a018f19287ca0d61beb4b30ecafec.jpg" />
+    <desc>In many areas of urban Africa, troops of primates become a severe nuisance; Ivan engages with wildlife managers to explore the realities of this problem and ways to live with these cute pests.</desc>
+    <date>20250610</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c22f07b92296df7c091f303603c37902.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303220800 +0000" stop="20260303223600 +0000">
-    <title>Aussie Snake Wranglers</title>
-    <sub-title>Python vs Pet Cat</sub-title>
-    <episode-num system="onscreen">S02E12</episode-num>
-    <desc>A hungry python has its eyes set on two pet cats, so Mick and Adele must come in to remove the snake before the dinner bell rings.</desc>
-    <date>20221129</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5816c5707ee03cb0d8eaf4d33201e522.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304142400 +0000" stop="20260304145300 +0000">
+    <title>The Killer Bee Catcher</title>
+    <sub-title>It's Getting Swarm in Here</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Lance is hired to remove a hive behind the wall of a home; previously pesticide was used on this hive; something that Lance would never do; a swarm attacks Lance's team back at his office.</desc>
+    <date>20230614</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/ebe2bdbdac1ac0ba6b9dfb49f2f2fbd4.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303223600 +0000" stop="20260303230400 +0000">
-    <title>Snake Season</title>
-    <sub-title>Green Snakes</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304145300 +0000" stop="20260304152200 +0000">
+    <title>The Killer Bee Catcher</title>
+    <sub-title>Killer Bees at the Duck Club</sub-title>
     <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Durban's lush forests are a haven for green snakes that use the vegetation to camouflage themselves; but which ones of these slithery beasts are dangerous?</desc>
-    <date>20250716</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/879fb0d395df3ad8544ceaac6358d2b0.jpg" />
+    <desc>Lance and Sonja help a duck hunting club with a killer bee-infested desert island; Lance uses his chainsaw on a treetop to get three killer beehives, where he is attacked and stung while capturing the bees.</desc>
+    <date>20230503</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8fed152de888121cc318088b27cede0c.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303230400 +0000" stop="20260303233500 +0000">
-    <title>Snake Season</title>
-    <sub-title>More Mambas &amp; a Python</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Summer is snake season in Durban, and Nick Evans is run off his feet rescuing terrified Durban residents from black mamba invasions.</desc>
-    <date>20250717</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d7a1565be9faeef650d41ba99c6460cf.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304152200 +0000" stop="20260304155100 +0000">
+    <title>Wild Wonders With Brooke</title>
+    <sub-title>Capturing Giants</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Brooke joins Julian Fennessy from Giraffe Conservation Foundation on a mission to learn about giraffe populations in Africa; she discovers the threats faced as they capture and GPS track the giraffes.</desc>
+    <date>20221016</date>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/5fd215c1f6a85b919f98be6a7a3e14fd.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260303233500 +0000" stop="20260304000300 +0000">
-    <title>Snake Season</title>
-    <sub-title>Mambas &amp; Monitors</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Nick Evans is mad about black mambas, but it's not just snakes he's called out to rescue; he gets calls for pretty much anything scary and scaly, including the infamous monitor lizard.</desc>
-    <date>20250717</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ab651573fa1eee9a73346edf631965ff.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304155100 +0000" stop="20260304162000 +0000">
+    <title>Wild Wonders With Brooke</title>
+    <sub-title>Elephants: A New Landscape</sub-title>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <desc>Elephant lover Brooke joins a specialized capture team and gets fully engaged as they dart two elephant bulls and lift them onto huge trucks for their journey to a new landscape.</desc>
+    <date>20230118</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9d8fef2cba607290de89ae40bbc33bc5.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304000300 +0000" stop="20260304003100 +0000">
-    <title>Nature's Ultimate Survivors With the Blowfish</title>
-    <sub-title>Fastest</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The need for speed is an essential skill to survive in a hostile world-and, for some animals, can be the difference between catching a meal or becoming dinner. But which animal is the fastest?</desc>
-    <date>20250319</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/01e426665ce0b70d07aa89047524061a.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304162000 +0000" stop="20260304164900 +0000">
+    <title>Wild Wonders With Brooke</title>
+    <sub-title>Meet the Meerkats</sub-title>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <desc>Brooke journeys to the Kalahari research station where she joins a team of scientists researching meerkats; she learns what amazing animals these are and one even uses her head as a lookout point.</desc>
+    <date>20230215</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/04de048351f9848d8ec5c7013a3474e4.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304164900 +0000" stop="20260304171900 +0000">
+    <title>Wild Wonders With Brooke</title>
+    <sub-title>Spaces to Roam</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Wildlife such as elephants and zebras often come into conflict with humans; Brooke meets up with a wildlife veterinarian to capture and move these animals safely in order to avoid conflict.</desc>
+    <date>20221023</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/06c4754a5de7295ade82603fd0783e11.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304171900 +0000" stop="20260304174800 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Elephant Seals and Sea Gooseberry</sub-title>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <desc>Tom the Blowfish Hird meets a seal with an enormous schnoz and more.</desc>
+    <date>20240313</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7cec640d4070608842b0a3d95aa02908.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304174800 +0000" stop="20260304181700 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Manta Rays and Boxer Crabs</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Tom Hird dives with manta rays, jumps on a skateboard to show how remoras hitch a ride, discovers why boxer crabs use anemones for gloves and how herrings communicate by farting.</desc>
+    <date>20230419</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6a83ea195dcdfe58c8de6a3ca2be42f1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304181700 +0000" stop="20260304184600 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Octopus Escapees and Blue Whale</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Tom "the Blowfish" Hird demonstrates how octopus fit through tiny gaps, explains why coral glows, meets a crab that tastes with its toes, and uncovers why the blue whale is the biggest animal ever.</desc>
+    <date>20230531</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/fe970cd6cfe7f598d043c0da9e64d31a.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304184600 +0000" stop="20260304191500 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Sea Turtles and Stylish Squids</sub-title>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <desc>Tom the Blowfish Hird reveals the bobtail squid's stylish survival tactics and more.</desc>
+    <date>20240320</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e4c79169f52ab4b54d5bd227045f4c96.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304191500 +0000" stop="20260304200900 +0000">
+    <title>March of the Elephants</title>
+    <sub-title>March of the Elephants</sub-title>
+    <desc>Chronicling an elephant herd's incredible 800-mile migration from their homeland in Yunnan, China, through forests, farms, roads, viaducts, and human settlements to their new home in the north.</desc>
+    <date>20260304</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304200900 +0000" stop="20260304203800 +0000">
+    <title>Defenders of the Wild</title>
+    <sub-title>Desert Hyenas</sub-title>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <desc>The Namibian coastline is home to the brown hyena; Ivan spends time at an isolated seal colony where a research project is revealing their secrets.</desc>
+    <date>20250610</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a6e47c0c41d9834f3aea57e2cde5926f.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304203800 +0000" stop="20260304210700 +0000">
+    <title>Defenders of the Wild</title>
+    <sub-title>Ground Hornbill: Redemption Song</sub-title>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <desc>Southern ground hornbills are a fascinating species, yet increasingly under threat.</desc>
+    <date>20231115</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c56b80117bfd97583896630f1d7c1934.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304210700 +0000" stop="20260304213600 +0000">
+    <title>Defenders of the Wild</title>
+    <sub-title>Seals: The Plastic Predicament</sub-title>
+    <episode-num system="onscreen">S02E10</episode-num>
+    <desc>Namibia is home to Africa's largest seal colonies due to the rich marine life; this abundance leads to competition with humans for resources; Ivan joins an NGO removing plastic from unlucky seals.</desc>
+    <date>20250612</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7fe53a9c2c771b9a2546076e47eaf7be.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304213600 +0000" stop="20260304220500 +0000">
+    <title>Defenders of the Wild</title>
+    <sub-title>Vervet Monkeys: Urban Pests</sub-title>
+    <episode-num system="onscreen">S02E11</episode-num>
+    <desc>In many areas of urban Africa, troops of primates become a severe nuisance; Ivan engages with wildlife managers to explore the realities of this problem and ways to live with these cute pests.</desc>
+    <date>20250610</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c22f07b92296df7c091f303603c37902.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304220500 +0000" stop="20260304223400 +0000">
+    <title>The Killer Bee Catcher</title>
+    <sub-title>It's Getting Swarm in Here</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Lance is hired to remove a hive behind the wall of a home; previously pesticide was used on this hive; something that Lance would never do; a swarm attacks Lance's team back at his office.</desc>
+    <date>20230614</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/ebe2bdbdac1ac0ba6b9dfb49f2f2fbd4.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304223400 +0000" stop="20260304230400 +0000">
+    <title>The Killer Bee Catcher</title>
+    <sub-title>Killer Bees at the Duck Club</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Lance and Sonja help a duck hunting club with a killer bee-infested desert island; Lance uses his chainsaw on a treetop to get three killer beehives, where he is attacked and stung while capturing the bees.</desc>
+    <date>20230503</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8fed152de888121cc318088b27cede0c.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304230400 +0000" stop="20260304233300 +0000">
+    <title>Wild Wonders With Brooke</title>
+    <sub-title>Capturing Giants</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Brooke joins Julian Fennessy from Giraffe Conservation Foundation on a mission to learn about giraffe populations in Africa; she discovers the threats faced as they capture and GPS track the giraffes.</desc>
+    <date>20221016</date>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/5fd215c1f6a85b919f98be6a7a3e14fd.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260304233300 +0000" stop="20260305000200 +0000">
+    <title>Wild Wonders With Brooke</title>
+    <sub-title>Elephants: A New Landscape</sub-title>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <desc>Elephant lover Brooke joins a specialized capture team and gets fully engaged as they dart two elephant bulls and lift them onto huge trucks for their journey to a new landscape.</desc>
+    <date>20230118</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9d8fef2cba607290de89ae40bbc33bc5.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260305000200 +0000" stop="20260305003100 +0000">
+    <title>Wild Wonders With Brooke</title>
+    <sub-title>Meet the Meerkats</sub-title>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <desc>Brooke journeys to the Kalahari research station where she joins a team of scientists researching meerkats; she learns what amazing animals these are and one even uses her head as a lookout point.</desc>
+    <date>20230215</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/04de048351f9848d8ec5c7013a3474e4.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260305003100 +0000" stop="20260305010000 +0000">
+    <title>Wild Wonders With Brooke</title>
+    <sub-title>Spaces to Roam</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Wildlife such as elephants and zebras often come into conflict with humans; Brooke meets up with a wildlife veterinarian to capture and move these animals safely in order to avoid conflict.</desc>
+    <date>20221023</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/06c4754a5de7295ade82603fd0783e11.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260305010000 +0000" stop="20260305012900 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Elephant Seals and Sea Gooseberry</sub-title>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <desc>Tom the Blowfish Hird meets a seal with an enormous schnoz and more.</desc>
+    <date>20240313</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7cec640d4070608842b0a3d95aa02908.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260305012900 +0000" stop="20260305015800 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Manta Rays and Boxer Crabs</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Tom Hird dives with manta rays, jumps on a skateboard to show how remoras hitch a ride, discovers why boxer crabs use anemones for gloves and how herrings communicate by farting.</desc>
+    <date>20230419</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6a83ea195dcdfe58c8de6a3ca2be42f1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f" start="20260305015800 +0000" stop="20260305022700 +0000">
+    <title>Ocean Wonders</title>
+    <sub-title>Octopus Escapees and Blue Whale</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Tom "the Blowfish" Hird demonstrates how octopus fit through tiny gaps, explains why coral glows, meets a crab that tastes with its toes, and uncovers why the blue whale is the biggest animal ever.</desc>
+    <date>20230531</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/fe970cd6cfe7f598d043c0da9e64d31a.jpg" />
   </programme>
   
 </tv>
