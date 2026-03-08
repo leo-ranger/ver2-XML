@@ -1,303 +1,152 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv date="20260307090254 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/464807/20260307.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=464807&amp;date=20260307&amp;timezone=None"><channel id="464807">
+<tv date="20260308090319 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/465320/20260308.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=465320&amp;date=20260308&amp;timezone=None"><channel id="465320">
+    <display-name lang="US">Disney Junior HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="464807">
     <display-name lang="US">Disney XD HD</display-name>
     <icon src=""/>
   </channel>
-  <programme channel="464807" start="20260307000000 +0000" stop="20260307003000 +0000">
-    <title lang="zh">Armorsaurs</title>
-    <desc>Joon, the last to bond with a dinosaur, finally makes his match with Velox, and together they save the team in an epic canyon battle.</desc>
-    <date>2026-03-07</date>
+  <programme channel="465320" start="20260308001500 +0000" stop="20260308004000 +0000">
+    <title lang="zh">Hey AJ!</title>
+    <desc>AJ, a creative young girl, uses the power of imagination to turn ordinary life moments into amazing adventures.</desc>
+    <date>2026-03-08</date>
   </programme>
-  <programme channel="464807" start="20260307003000 +0000" stop="20260307010000 +0000">
-    <title lang="zh">Armorsaurs</title>
-    <desc>T.J. learns the meaning of teamwork on and off the basketball court as he directs the team through a challenging mission.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307010000 +0000" stop="20260307013000 +0000">
-    <title lang="zh">Kiff</title>
-    <desc>Kiff and her friends record the hottest new song in Table Town. Trevor's older brother visits, and Kiff and Barry think he's the coolest.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307013000 +0000" stop="20260307020000 +0000">
-    <title lang="zh">Kiff</title>
-    <desc>Barry is left hangin' by an astronaut. Kiff and the Buns play a board game that makes them all crazy competitive.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307020000 +0000" stop="20260307023000 +0000">
-    <title lang="zh">Big City Greens</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+  <programme channel="465320" start="20260308004000 +0000" stop="20260308010500 +0000">
+    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
+<icon src="https://static.wikia.nocookie.net/spidey-and-his-amazing-friends/images/6/67/IMG_1784.PNG/revision/latest?cb=20221123002202"/>
+<category lang="en">Educational</category>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-    <desc>Cricket wants to prove to his family that he is not dumb during trivia night at the café; Tilly gets punished for the first time and decides to break bad.</desc>
-    <date>2026-03-07</date>
+    <desc>The Spidey bots help Team Spidey defeat Doc Ock's plans to launch a rocket; the villains steal Black Panther's super battery and cause trouble in the city.</desc>
+    <date>2026-03-08</date>
   </programme>
-  <programme channel="464807" start="20260307023000 +0000" stop="20260307030000 +0000">
-    <title lang="zh">Big City Greens</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+  <programme channel="465320" start="20260308010500 +0000" stop="20260308013000 +0000">
+    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
+<icon src="https://static.wikia.nocookie.net/spidey-and-his-amazing-friends/images/6/67/IMG_1784.PNG/revision/latest?cb=20221123002202"/>
+<category lang="en">Educational</category>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-    <desc>Bill goes out of his way to get on a neighbor's good side; Cricket must prove himself worthy to avoid losing his delivery job to a robot.</desc>
-    <date>2026-03-07</date>
+    <desc>Green Goblin and Rhino copy Lockjaw's teleportation power to cause trouble; the heroes must work with Electro to save the day from Green Goblin's dino robot.</desc>
+    <date>2026-03-08</date>
   </programme>
-  <programme channel="464807" start="20260307030000 +0000" stop="20260307033000 +0000">
-    <title lang="zh">Phineas and Ferb</title>
-    <desc>Phineas and Ferb spin the house in order to paint it more quickly.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307033000 +0000" stop="20260307040000 +0000">
-    <title lang="zh">Phineas and Ferb</title>
-    <desc>When the boys are mistaken as a superhero, a villain arrives in town to challenge them.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307040000 +0000" stop="20260307043000 +0000">
-    <title lang="zh">Phineas and Ferb</title>
-    <desc>When Irving's brother, Albert, calls Phineas and Ferb fakes, Buford and Baljeet pretend to be the boys so that Irving can prove Albert wrong; Candace runs a bust camp in her backyard to prep for busting Phineas and Ferb.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307043000 +0000" stop="20260307050000 +0000">
-    <title lang="zh">Phineas and Ferb</title>
-    <desc>The boys' chameleon grows to a dinosaur's size; Phineas and Ferb put on a rodeo with robotic bulls.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307050000 +0000" stop="20260307053000 +0000">
-    <title lang="zh">Phineas and Ferb</title>
-    <desc>Building an ATV; Creating the world's tallest building.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307053000 +0000" stop="20260307060000 +0000">
-    <title lang="zh">Chibiverse</title>
-    <desc>Anne Boonchuy and Sprig Plantar co-host the Chibiverse with Cricket and Tilly Green; when Hop Pop breaks a theater superstition, their show turns spooky.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307060000 +0000" stop="20260307063000 +0000">
-    <title lang="zh">Lilo &amp; Stitch</title>
-    <desc>Stitch is infected by a goofy experiment.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307063000 +0000" stop="20260307070000 +0000">
-    <title lang="zh">Lilo &amp; Stitch</title>
-    <desc>Nani restricts Lilo's diet to healthy food.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307070000 +0000" stop="20260307073000 +0000">
-    <title lang="zh">DuckTales</title>
-    <desc>Scrooge is forced to watch over young Donald and Della as they go on their first adventure to find a powerful artifact; Bradford is taking on this same mission personally.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307073000 +0000" stop="20260307080000 +0000">
-    <title lang="zh">DuckTales</title>
-    <desc>A bitter feud between Scrooge and his sister, Matilda,distracts the family as Phantom Blot attempts to steal a priceless artifact and destroy Castle McDuck once and for all.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307080000 +0000" stop="20260307083000 +0000">
-    <title lang="zh">Amphibia</title>
-    <desc>Angry with how the Plantar farm is being run, Sprig decides to overthrow Hop Pop; Anne plans to give Polly some long-overdue girl time, whether Polly wants it or not.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307083000 +0000" stop="20260307090000 +0000">
-    <title lang="zh">Amphibia</title>
-    <desc>Anne and Hop Pop learn Sprig may like Ivy Sundew, so they attempt to set them up; Anne pretends to like camping, which is fine until she goes dangerously overboard.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307090000 +0000" stop="20260307093000 +0000">
-    <title lang="zh">Big City Greens</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+  <programme channel="465320" start="20260308013000 +0000" stop="20260308015500 +0000">
+    <title lang="zh">Bluey</title>
+<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Adventure</category>
+<category lang="en">Educational</category>
 <category lang="en">Kids</category>
-    <desc>Cricket earns a role in Big Coffee's new TV commercial but loses his confidence; Bill gets more than he bargained for when he trades in his pickup for a cutting-edge electric car.</desc>
-    <date>2026-03-07</date>
+<category lang="en">Kids</category>
+<category lang="en">and</category>
+<category lang="en">Family</category>
+    <desc>The Heelers take a trip to Hammerbarn; Bingo has an idea for a new game; Dad eats Bingo's last chip.</desc>
+    <date>2026-03-08</date>
   </programme>
-  <programme channel="464807" start="20260307093000 +0000" stop="20260307100000 +0000">
-    <title lang="zh">Big City Greens</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+  <programme channel="465320" start="20260308015500 +0000" stop="20260308022000 +0000">
+    <title lang="zh">BeddyByes</title>
+    <desc>MeMo and BaBa discover a dandelion and marvel at how a seed can become a beautiful flower. MeMo and BaBa discover that sometimes all you need is a hug to make things better.</desc>
+    <date>2026-03-08</date>
+  </programme>
+  <programme channel="465320" start="20260308022000 +0000" stop="20260308030000 +0000">
+    <title lang="zh">Bluey</title>
+<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Adventure</category>
+<category lang="en">Educational</category>
 <category lang="en">Kids</category>
-    <desc>When Bill learns that Gramma has been purposely creating a bad reputation around town, he throws a barbecue to befriend the neighbors; Cricket's scheme to cash in on a wishing well snares Tilly, leaving Cricket with a dilemma.</desc>
-    <date>2026-03-07</date>
+<category lang="en">Kids</category>
+<category lang="en">and</category>
+<category lang="en">Family</category>
+    <desc>Bluey is upset when Dad keeps stopping on their walk; Bluey is Dad's only hope to make it to the airport; Bluey takes a solo adventure on the beach.</desc>
+    <date>2026-03-08</date>
   </programme>
-  <programme channel="464807" start="20260307100000 +0000" stop="20260307103000 +0000">
-    <title lang="zh">Big City Greens</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+  <programme channel="465320" start="20260308030000 +0000" stop="20260308032500 +0000">
+    <title lang="zh">SuperKitties</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e36fcf9d176e5165fbd3fe74f53921a5838b7828e378835748b93345121acb53.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Educational</category>
+<category lang="en">Kids</category>
+    <desc>Things don't go as planned when the Glamsters go glamping and Buddy sleeps over at Willa's Treehouse; the Kitties and Willa stop Mr. Puppypaws from taking over the Wild Jungle.</desc>
+    <date>2026-03-08</date>
+  </programme>
+  <programme channel="465320" start="20260308032500 +0000" stop="20260308035000 +0000">
+    <title lang="zh">Bluey</title>
+<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Adventure</category>
+<category lang="en">Educational</category>
 <category lang="en">Kids</category>
-    <desc>Gloria gets stuck on an elevator with the Greens; Remy falls under the sway of an internet influencer.</desc>
-    <date>2026-03-07</date>
+<category lang="en">Kids</category>
+<category lang="en">and</category>
+<category lang="en">Family</category>
+    <desc>The Heelers go on a road trip! Mum bans the girls from saying the word 'dunny.' Bluey wants to help Dad make Bingo's birthday cake.</desc>
+    <date>2026-03-08</date>
   </programme>
-  <programme channel="464807" start="20260307103000 +0000" stop="20260307110000 +0000">
-    <title lang="zh">Big City Greens</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+  <programme channel="465320" start="20260308035000 +0000" stop="20260308041500 +0000">
+    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
+<icon src="https://static.wikia.nocookie.net/spidey-and-his-amazing-friends/images/6/67/IMG_1784.PNG/revision/latest?cb=20221123002202"/>
+<category lang="en">Educational</category>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-    <desc>Chip Whistler returns to take revenge on the Greens, but is forced to apologize; Andromeda and Tilly follow Gloria to a club where they must cure her of her amnesia.</desc>
-    <date>2026-03-07</date>
+    <desc>Team Spidey and The Thing must stop Gobby from using invisibility to cause trouble in the city; Team Spidey must stop Doc Ock's mechanical whale from disrupting the real whales.</desc>
+    <date>2026-03-08</date>
   </programme>
-  <programme channel="464807" start="20260307110000 +0000" stop="20260307113000 +0000">
-    <title lang="zh">Big City Greens</title>
-<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+  <programme channel="465320" start="20260308041500 +0000" stop="20260308044000 +0000">
+    <title lang="zh">Marvel's Spidey and His Amazing Friends</title>
+<icon src="https://static.wikia.nocookie.net/spidey-and-his-amazing-friends/images/6/67/IMG_1784.PNG/revision/latest?cb=20221123002202"/>
+<category lang="en">Educational</category>
 <category lang="en">Animation</category>
 <category lang="en">Comedy</category>
-<category lang="en">Adventure</category>
 <category lang="en">Kids</category>
-    <desc>Chip enacts his ultimate revenge plan by framing the Green family for ruining Big City and turning everyone against them.</desc>
-    <date>2026-03-07</date>
+    <desc>Doc Ock shrinks Spidey, Ghost-Spider and Spin down to the size of actual spiders; when Green Goblin ruins the Spidey Team's egg hunt, the heroes must foil his dastardly plans.</desc>
+    <date>2026-03-08</date>
   </programme>
-  <programme channel="464807" start="20260307113000 +0000" stop="20260307120000 +0000">
-    <title lang="zh">Bakugan</title>
-    <desc>V sets his brainwashed Bakugan loose to rampage through the city; the Misfits scramble through the city to stop V's Bakugan rampage.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307120000 +0000" stop="20260307123000 +0000">
-    <title lang="zh">Yu-Gi-Oh! GO RUSH!!</title>
-    <desc>Yuhi comes face-to-face with a mad scientist who wants him to be his next experiment!</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307123000 +0000" stop="20260307130000 +0000">
-    <title lang="zh">Beyblade X</title>
-    <desc>The first and final battle of Team Persona's duel for victory begins! What strategy will Tenka use against Iwao, who boasts a high winning rate? As the battle nears its end with both competitors running out of stamina.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307130000 +0000" stop="20260307133000 +0000">
-    <title lang="zh">Chibiverse</title>
-    <desc>A new island is created; Marcy unleashes a magic potion; Grunkle Stan puts together a heist.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307133000 +0000" stop="20260307140000 +0000">
-    <title lang="zh">Gravity Falls</title>
-    <desc>The Pines family resolves to get back to normal after the Lil' Gideon incident by throwing a party.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307140000 +0000" stop="20260307143000 +0000">
-    <title lang="zh">Gravity Falls</title>
-    <desc>Dipper's secret journal pages lead him and the gang to the author's hidden bunker where they find themselves face-to-face with a mysterious figure from Gravity Falls' lore.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307143000 +0000" stop="20260307150000 +0000">
-    <title lang="zh">Gravity Falls</title>
-    <desc>Mabel challenges Pacifica to a miniature golf-off.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307150000 +0000" stop="20260307153000 +0000">
-    <title lang="zh">Gravity Falls</title>
-    <desc>Soos needs a date and looks into a dating simulator.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307153000 +0000" stop="20260307160000 +0000">
-    <title lang="zh">Miraculous: Tales of Ladybug and Cat Noir</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/5/5f/Miraculous-original-title-card.png"/>
-<category lang="en">Monster</category>
-<category lang="en">Of</category>
-<category lang="en">The</category>
-<category lang="en">Week</category>
+  <programme channel="465320" start="20260308044000 +0000" stop="20260308050500 +0000">
+    <title lang="zh">Bluey</title>
+<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
 <category lang="en">Animation</category>
-<category lang="en">Super</category>
-<category lang="en">Heros</category>
+<category lang="en">Comedy</category>
+<category lang="en">Educational</category>
 <category lang="en">Kids</category>
-    <desc>Seemingly normal students Marinette and Adrien are chosen to save Paris from evil.</desc>
-    <date>2026-03-07</date>
+<category lang="en">Kids</category>
+<category lang="en">and</category>
+<category lang="en">Family</category>
+    <desc>The Heelers take turns remembering their favorite thing from the day; it's Dad's turn to give the kids breakfast and drop them off at school; Bingo promises to wake up in her own bed.</desc>
+    <date>2026-03-08</date>
   </programme>
-  <programme channel="464807" start="20260307160000 +0000" stop="20260307163000 +0000">
-    <title lang="zh">Miraculous: Tales of Ladybug and Cat Noir</title>
-<icon src="https://upload.wikimedia.org/wikipedia/en/5/5f/Miraculous-original-title-card.png"/>
-<category lang="en">Monster</category>
-<category lang="en">Of</category>
-<category lang="en">The</category>
-<category lang="en">Week</category>
+  <programme channel="465320" start="20260308050500 +0000" stop="20260308053000 +0000">
+    <title lang="zh">Bluey</title>
+<icon src="https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg"/>
 <category lang="en">Animation</category>
-<category lang="en">Super</category>
-<category lang="en">Heros</category>
+<category lang="en">Comedy</category>
+<category lang="en">Educational</category>
 <category lang="en">Kids</category>
-    <desc>Seemingly normal students Marinette and Adrien are chosen to save Paris from evil.</desc>
-    <date>2026-03-07</date>
+<category lang="en">Kids</category>
+<category lang="en">and</category>
+<category lang="en">Family</category>
+    <desc>Bluey wants to know why Dad's always bossing her around; Coco wants to play Wild Girls with Indy, but Chloe wants her to play another game; Lucky's Dad, Lucky and Chucky have come over to the Heelers' house to watch a rugby final together.</desc>
+    <date>2026-03-08</date>
   </programme>
-  <programme channel="464807" start="20260307163000 +0000" stop="20260307170000 +0000">
-    <title lang="zh">Phineas and Ferb</title>
-    <desc>Doof starts the vendpocalypse; Doof saves Norm.</desc>
-    <date>2026-03-07</date>
+  <programme channel="465320" start="20260308053000 +0000" stop="20260308055500 +0000">
+    <title lang="zh">SuperKitties</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e36fcf9d176e5165fbd3fe74f53921a5838b7828e378835748b93345121acb53.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Educational</category>
+<category lang="en">Kids</category>
+    <desc>The SuperKitties have to stop Mr. Puppypaws from turning all the animal treats into doggy treats; Buddy accidentally breaks Sparks' SuperKitty kit and doesn't tell him.</desc>
+    <date>2026-03-08</date>
   </programme>
-  <programme channel="464807" start="20260307170000 +0000" stop="20260307173000 +0000">
-    <title lang="zh">Phineas and Ferb</title>
-    <desc>Stepbrothers keep busy during their summer vacation.</desc>
-    <date>2026-03-07</date>
+  <programme channel="465320" start="20260308055500 +0000" stop="20260309000000 +0000">
+    <title lang="zh">Mickey Mouse Hot Diggity-Dog Tales</title>
+    <desc>Pluto's bath day becomes a dirty job for Mickey when a playful groundhog shows up to make Pluto all muddy.</desc>
+    <date>2026-03-08</date>
   </programme>
-  <programme channel="464807" start="20260307173000 +0000" stop="20260307180000 +0000">
-    <title lang="zh">Phineas and Ferb</title>
-    <desc>Monogram and Carl inspect Agent P's many lair entrances while Candace tries to speak to the Mysterious Force; the kids go on a dungeon crawl while Doof tries a reality dating show.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307180000 +0000" stop="20260307183000 +0000">
-    <title lang="zh">Kiff</title>
-    <desc>Kiff has an unsneezed sneeze trapped in her head so she and Barry try everything to get it out; Kiff and Barry meet their favorite actor, but does he not like them?</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307183000 +0000" stop="20260307190000 +0000">
-    <title lang="zh">Kiff</title>
-    <desc>Kiff, Barry, and Trevor sneak into a movie and try not to get caught. Martin and Beryl vie for Kiff's favor when Kiff comes into some money.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307190000 +0000" stop="20260307193000 +0000">
-    <title lang="zh">Kiff</title>
-    <desc>Kiff and the gang get trapped in the aerial tram and try not to lose their minds; Kiff gets a haircut she hates.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307193000 +0000" stop="20260307200000 +0000">
-    <title lang="zh">Kiff</title>
-    <desc>Kiff and Barry accidentally cause a townwide blackout by upsetting a Lighthouse Keeper. Kiff has dinner at the Buns's and has to hide that she hates the food.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307200000 +0000" stop="20260307203000 +0000">
-    <title lang="zh">Kiff</title>
-    <desc>Kiff runs for class president against a surprise candidate, Mr. RiPeppa. The Chatterleys take Barry on their island vacation, but he seems to have a dark secret.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307203000 +0000" stop="20260307210000 +0000">
-    <title lang="zh">Zombies: The Re-Animated Series</title>
-    <desc>Wynter and A-spen start a band, but they may not reconcile their differing musical visions; Willa and Bucky put Wyatt through an alpha-dog-bootcamp to help him win over Eliza.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307210000 +0000" stop="20260307213000 +0000">
-    <title lang="zh">Zombies: The Re-Animated Series</title>
-    <desc>Bucky turns the school into a Bucky-themed dystopia; when Bonzo discovers mysterious blueprints in the diner, he becomes possessed by the desire to build a Spaghetti Waterfall.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307213000 +0000" stop="20260307220000 +0000">
-    <title lang="zh">Zombies: The Re-Animated Series</title>
-    <desc>Addison is determined to help Dae, the quirky new witch at school, feel welcome; Zed and little sister Zoey must team up to fight a monster hunter.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307220000 +0000" stop="20260307223000 +0000">
-    <title lang="zh">Zombies: The Re-Animated Series</title>
-    <desc>The stress of directing the school play causes Addison's alien energy to fritz; Wyatt teams up with Eliza to help him keep a secret from the wolf pack.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307223000 +0000" stop="20260307230000 +0000">
-    <title lang="zh">Zombies: The Re-Animated Series</title>
-    <desc>Bucky adopts a zombie-dog named Barky to boost his followers online; Wyatt teams up with a monster who promises to help him get over his fight with Eliza.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307230000 +0000" stop="20260307233000 +0000">
-    <title lang="zh">Hamster &amp; Gretel</title>
-    <desc>Gretel gets stressed out when Kevin returns from a relaxation camp with a laid-back attitude; when Carolina is cast in a telenovela, the kids have to stop a saboteur.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260307233000 +0000" stop="20260308000000 +0000">
-    <title lang="zh">Hamster &amp; Gretel</title>
-    <desc>Gretel and her pet hamster, named Hamster, get superpowers; Kevin must work with them to figure out how to protect their city from mysterious dangers.</desc>
-    <date>2026-03-07</date>
-  </programme>
-  <programme channel="464807" start="20260308000000 +0000" stop="20260308003000 +0000">
+<programme channel="464807" start="20260308000000 +0000" stop="20260308003000 +0000">
     <title lang="zh">Hamster &amp; Gretel</title>
     <desc>The Destructress and Fist Puncher go to therapy to get their super-villainy back on track; Gretel and Bailey face off against an A.I. crossing guard.</desc>
     <date>2026-03-08</date>
