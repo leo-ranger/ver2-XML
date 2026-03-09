@@ -1,67 +1,791 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv date="20260308090315 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/464807/20260308.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=464807&amp;date=20260308&amp;timezone=None">
+<tv date="20260309090320 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/464807/20260309.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=464807&amp;date=20260309&amp;timezone=None">
   <channel id="464807">
     <display-name lang="US">Disney XD HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="464807" start="20260308000000 +0000" stop="20260308003000 +0000">
-    <title lang="zh">Hamster &amp; Gretel</title>
-    <desc>The Destructress and Fist Puncher go to therapy to get their super-villainy back on track; Gretel and Bailey face off against an A.I. crossing guard.</desc>
-    <date>2026-03-08</date>
-  </programme>
-  <programme channel="464807" start="20260308003000 +0000" stop="20260308010000 +0000">
-    <title lang="zh">Hamster &amp; Gretel</title>
-    <desc>Hiromi's award ceremony at school is threatened by a mysterious creature; the Luchador moves into Kevin and Gretel's apartment complex.</desc>
-    <date>2026-03-08</date>
-  </programme>
-  <programme channel="464807" start="20260308010000 +0000" stop="20260308013000 +0000">
+  <programme channel="464807" start="20260309000000 +0000" stop="20260309003000 +0000">
     <title lang="zh">Gravity Falls</title>
-    <desc>Grunkle Stan takes the kids with him on a road trip.</desc>
-    <date>2026-03-08</date>
+    <desc>Dipper, Soos and Wendy must save Mabel from a strange new world; Bill's forces plan their next move.</desc>
+    <date>2026-03-09</date>
   </programme>
-  <programme channel="464807" start="20260308013000 +0000" stop="20260308020000 +0000">
+  <programme channel="464807" start="20260309003000 +0000" stop="20260309010000 +0000">
     <title lang="zh">Gravity Falls</title>
-    <desc>A new threat leads Mabel to venture into the enchanted realm of the unicorns; Dipper learns something new about Bill Cipher.</desc>
-    <date>2026-03-08</date>
+    <desc>Ford discovers Bill's true motives; a final confrontation with Bill leads to the Pines family's ultimate fate.</desc>
+    <date>2026-03-09</date>
   </programme>
-  <programme channel="464807" start="20260308020000 +0000" stop="20260308023000 +0000">
+  <programme channel="464807" start="20260309010000 +0000" stop="20260309013000 +0000">
+    <title lang="zh">Armorsaurs</title>
+    <desc>Lt. Colonel Helmsworth realizes that to build trust with the team, she must finally divulge the truth about Switchblade.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309013000 +0000" stop="20260309020000 +0000">
+    <title lang="zh">Armorsaurs</title>
+    <desc>Teen pilots bond with armored mechanical dinosaurs to defend Earth from an alien invasion.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309020000 +0000" stop="20260309023000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Cricket loses his hearing and keeps it a secret from Bill; the Greens go to a hipster drive-in movie, where Gloria proves her life is fun by taking the perfect SnapAGram photo.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309023000 +0000" stop="20260309030000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Remy determines to become a martial arts warrior after freezeing in the face of danger; Cricket's missing dirt jar prompts the story of when the Greens left their country farm.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309030000 +0000" stop="20260309033000 +0000">
+    <title lang="zh">Gravity Falls</title>
+    <desc>The Pine family make their greatest sacrifice yet and arrive at their ultimate fate following a final showdown with Bill.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309033000 +0000" stop="20260309040000 +0000">
+    <title lang="zh">Gravity Falls</title>
+    <desc>Young twins Dipper and Mabel Pines arrive to spend their summer break with their uncle.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309040000 +0000" stop="20260309043000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>The Greens leave Big City and move back to their country farm; however, they grow unsettled when things aren't quite how they remember.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309043000 +0000" stop="20260309050000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>While Cricket shows Remy the fun of country life, Tilly seeks new sleeping arrangements; Cricket tries to win back his old country friend, Hector.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309050000 +0000" stop="20260309053000 +0000">
+    <title lang="zh">Lilo &amp; Stitch</title>
+    <desc>An experiment allows Lilo to age herself 10 years.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309053000 +0000" stop="20260309070000 +0000">
+    <title lang="zh">Lilo &amp; Stitch</title>
+    <desc>Lilo becomes royalty after placing a crown-shaped experiment on her head.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309070000 +0000" stop="20260309073000 +0000">
+    <title lang="zh">Lilo &amp; Stitch</title>
+    <desc>Lilo asks for Kim Possible's help when Stitch is captured by Dr. Drakken.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309073000 +0000" stop="20260309080000 +0000">
+    <title lang="zh">Amphibia</title>
+    <desc>Anne befriends toad soldiers to gain respect in Wartwood, but must choose between her new respect and her frog family; a pair of herons attack Toad Tower.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309080000 +0000" stop="20260309083000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>After finding a box of mementos, Gramma tells the kids the story of her greatest adventure; while the Greens are away, the animals compete to see who will rule the farm.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309083000 +0000" stop="20260309090000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Cricket treats his family to dinner, but Bill is suspicious about how he plans to pay for it; Tilly and Cricket battle to see if Bill lies about liking their Father's Day gifts.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309090000 +0000" stop="20260309093000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Remy's plan for his whole life is thrown into question when he is unprepared for a violin recital; Gramma becomes a rideshare driver, only to find her best customers are robbers.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309093000 +0000" stop="20260309100000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Tilly searches the mall for a new look to reflect her maturity; Cricket persuades Bill to buy a farming robot to get out of chores.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309100000 +0000" stop="20260309103000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Chip Whistler attempts to create an evil family, so he takes down the Greens; the Greens move to the suburbs and live under new identities to hide from Chip.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309103000 +0000" stop="20260309110000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>The Greens cause trouble during free sample day at the Farmers Market; Cricket and Nancy toilet paper all of Smalton in a quest for pranking glory.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309110000 +0000" stop="20260309113000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>In summer, Cricket impulsively eats Bill's chocolate Santa and must replace it; when Gramma's serene country retreat is disrupted by an outdoor festival, she resolves to stop it.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309113000 +0000" stop="20260309120000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Cricket gets dumped by his girlfriend, so he tries to change to win her back; Bill becomes hyper-competitive when Cricket starts to be better at things than him.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309120000 +0000" stop="20260309123000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>The Greens are determined to make their 100th adventure their best, even if that means unleashing monstrous chickens, journeying beyond death and delivering a mysterious package.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309123000 +0000" stop="20260309130000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Chip enacts his ultimate revenge plan by framing the Green family for ruining Big City and turning everyone against them.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309130000 +0000" stop="20260309133000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>When Tilly sees a manipulative ad, she goes to extremes to save all moths; after spending a week with Bill, Cricket fears he's infected with Billness.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309133000 +0000" stop="20260309140000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Identity crises abound; Wayne wants city excitement.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309140000 +0000" stop="20260309143000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Saxon finds love; Remy's parents bond with him.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309143000 +0000" stop="20260309150000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Gramma assembles a seaworthy crew to retrieve packages stolen by Big City's porch pirates; Nick creates a fake scouting troop to trick Cricket and Tilly into raising money for him.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309150000 +0000" stop="20260309153000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>The Greens get the work out of their life at Big Citys new gym; cricket finds a loophole to his curfew that will let him attend a late-night drone show.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309153000 +0000" stop="20260309160000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Big Tech unveils its slate of AI-generated TV shows based on the people of Big City; Tilly's belief in positive thinking is tested when she drives Lupita's faulty go-kart.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309160000 +0000" stop="20260309163000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>A hungry Cricket finds a way to speed up a restaurant's short wait; Nancy tries to stop Cricket from breaking all of Smalton's weird laws.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309163000 +0000" stop="20260309170000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Tilly tries to inspire others into community improvement by cleaning up dog droppings; Nick suggests Nancy start a U-Pick operation, but Nancy remains suspicious of his intentions.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309170000 +0000" stop="20260309173000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Cricket and Remy recall an adventure at the museum that almost derailed their friendship; Cricket learns he was unexpected.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309173000 +0000" stop="20260309180000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>When the Greens return Gramma and Remy to Big City, they are determined to delay their goodbyes for as long as possible.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309180000 +0000" stop="20260309183000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Cricket discovers lake life brings out Bill's fun-loving side; when rabbits threaten to destroy Bill's crops, Nancy enlists their country friends to save the harvest.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309183000 +0000" stop="20260309190000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>The kids plan a heist to steal honey from Bill's beehive; Cricket and Remy run a campaign to get Phoenix, the dog, elected as mayor.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309190000 +0000" stop="20260309193000 +0000">
+    <title lang="zh">Beyblade X</title>
+    <desc>An amateur Blader joins forces with a former champion to create a new team with their sights set on claiming the top spot.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309193000 +0000" stop="20260309200000 +0000">
+    <title lang="zh">The Owl House</title>
+<icon src="https://image.tmdb.org/t/p/original/vK6bSRFOAgaQC6NIuXX5FDgJnyC.jpg"/>
+<category lang="en">Adventure</category>
+<category lang="en">Action</category>
+<category lang="en">Adventure</category>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Drama</category>
+<category lang="en">Fantasy</category>
+<category lang="en">Magic</category>
+<category lang="en">Kids</category>
+    <desc>Eda and Luz scramble to face the Day of Unity; King faces his true identity.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309200000 +0000" stop="20260309203000 +0000">
+    <title lang="zh">The Owl House</title>
+<icon src="https://image.tmdb.org/t/p/original/vK6bSRFOAgaQC6NIuXX5FDgJnyC.jpg"/>
+<category lang="en">Adventure</category>
+<category lang="en">Action</category>
+<category lang="en">Adventure</category>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Drama</category>
+<category lang="en">Fantasy</category>
+<category lang="en">Magic</category>
+<category lang="en">Kids</category>
+    <desc>Everyone on the Isles prepares to celebrate the Day of Unity.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309203000 +0000" stop="20260309210000 +0000">
+    <title lang="zh">The Owl House</title>
+<icon src="https://image.tmdb.org/t/p/original/vK6bSRFOAgaQC6NIuXX5FDgJnyC.jpg"/>
+<category lang="en">Adventure</category>
+<category lang="en">Action</category>
+<category lang="en">Adventure</category>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Drama</category>
+<category lang="en">Fantasy</category>
+<category lang="en">Magic</category>
+<category lang="en">Kids</category>
+    <desc>King takes a significant step to ensure that no harm befalls his friends; the witches start to lose their powers as the solar eclipse commences on the Day of Unity.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309210000 +0000" stop="20260309220000 +0000">
+    <title lang="zh">The Owl House</title>
+<icon src="https://image.tmdb.org/t/p/original/vK6bSRFOAgaQC6NIuXX5FDgJnyC.jpg"/>
+<category lang="en">Adventure</category>
+<category lang="en">Action</category>
+<category lang="en">Adventure</category>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Drama</category>
+<category lang="en">Fantasy</category>
+<category lang="en">Magic</category>
+<category lang="en">Kids</category>
+    <desc>After months of trying, Luz and her friends make a daring attempt to return to the Demon Realm.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309220000 +0000" stop="20260309230000 +0000">
+    <title lang="zh">The Owl House</title>
+<icon src="https://image.tmdb.org/t/p/original/vK6bSRFOAgaQC6NIuXX5FDgJnyC.jpg"/>
+<category lang="en">Adventure</category>
+<category lang="en">Action</category>
+<category lang="en">Adventure</category>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Drama</category>
+<category lang="en">Fantasy</category>
+<category lang="en">Magic</category>
+<category lang="en">Kids</category>
+    <desc>Self-assured teenager Luz stumbles upon a portal to a magical realm where she befriends Eda, a rebellious witch and King, a tiny warrior; despite not having magical abilities, Luz pursues her dream of becoming a witch by serving as Eda's apprentice.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260309230000 +0000" stop="20260310000000 +0000">
+    <title lang="zh">The Owl House</title>
+<icon src="https://image.tmdb.org/t/p/original/vK6bSRFOAgaQC6NIuXX5FDgJnyC.jpg"/>
+<category lang="en">Adventure</category>
+<category lang="en">Action</category>
+<category lang="en">Adventure</category>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Drama</category>
+<category lang="en">Fantasy</category>
+<category lang="en">Magic</category>
+<category lang="en">Kids</category>
+    <desc>Self-assured teenager Luz stumbles upon a portal to a magical realm where she befriends Eda, a rebellious witch and King, a tiny warrior; despite not having magical abilities, Luz pursues her dream of becoming a witch by serving as Eda's apprentice.</desc>
+    <date>2026-03-09</date>
+  </programme>
+  <programme channel="464807" start="20260310000000 +0000" stop="20260310003000 +0000">
     <title lang="zh">Kiff</title>
-    <desc>Kiff wants the first sip at a new water fountain and nothing will stop her; Kiff learns that Barry's family shares bathwater; Kiff is fourth in line.</desc>
-    <date>2026-03-08</date>
+    <desc>Kiff and Barry attempt to kick a rock all the way home; on a Saturday, Kiff and Barry decide to attend school.</desc>
+    <date>2026-03-10</date>
   </programme>
-  <programme channel="464807" start="20260308023000 +0000" stop="20260308030000 +0000">
+  <programme channel="464807" start="20260310003000 +0000" stop="20260310010000 +0000">
     <title lang="zh">Kiff</title>
-    <desc>Helen agrees to cast a swim spell on Barry if Kiff introduces her to Candle's dad Roy Fox; a road trip goes awry when scary-looking bikers pursue the Chatterleys and Barry.</desc>
-    <date>2026-03-08</date>
+    <desc>While watching holiday specials on TV with Barry on Halfway There Day Eve, Kiff notices that Barry is not his usual self, which leads him to admit that he is not in the Halfway There Day spirit; they go on an adventure outside of Table Town.</desc>
+    <date>2026-03-10</date>
   </programme>
-  <programme channel="464807" start="20260308030000 +0000" stop="20260308033000 +0000">
-    <title lang="zh">Zombies: The Re-Animated Series</title>
-    <desc>Addison uses advanced alien powers that she's not ready for yet and inadvertently causes destruction at the big school dance.</desc>
-    <date>2026-03-08</date>
+  <programme channel="464807" start="20260310010000 +0000" stop="20260310013000 +0000">
+    <title lang="zh">Kiff</title>
+    <desc>A trip to the aquarium! Kiff worries that she's annoying.</desc>
+    <date>2026-03-10</date>
   </programme>
-  <programme channel="464807" start="20260308033000 +0000" stop="20260308040000 +0000">
-    <title lang="zh">Zombies: The Re-Animated Series</title>
-    <desc>Zed, Addison and the Seabrook crew get to redo their senior year together; Zed creates a new drink called zoda that transforms the entire school into zoda-obsessed zombies.</desc>
-    <date>2026-03-08</date>
+  <programme channel="464807" start="20260310013000 +0000" stop="20260310020000 +0000">
+    <title lang="zh">Miraculous: Tales of Ladybug and Cat Noir</title>
+<icon src="https://upload.wikimedia.org/wikipedia/en/5/5f/Miraculous-original-title-card.png"/>
+<category lang="en">Monster</category>
+<category lang="en">Of</category>
+<category lang="en">The</category>
+<category lang="en">Week</category>
+<category lang="en">Animation</category>
+<category lang="en">Super</category>
+<category lang="en">Heros</category>
+<category lang="en">Kids</category>
+    <desc>While Zoe looks for a way to stop ill intentioned people on her path from doing evil, Ladybug is faced with a series of strange events in Paris.</desc>
+    <date>2026-03-10</date>
   </programme>
-  <programme channel="464807" start="20260308040000 +0000" stop="20260308043000 +0000">
-    <title lang="zh">Gravity Falls</title>
-    <desc>Mabel decides to plan for her and Dipper's 13th birthday party.</desc>
-    <date>2026-03-08</date>
+  <programme channel="464807" start="20260310020000 +0000" stop="20260310023000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Remy attempts to find his country grit while Cricket takes tractor-driving lessons; Phoenix journeys back to Big City to retrieve Saxon while Gramma and Gloria go to a club.</desc>
+    <date>2026-03-10</date>
   </programme>
-  <programme channel="464807" start="20260308043000 +0000" stop="20260308050000 +0000">
-    <title lang="zh">Gravity Falls</title>
-    <desc>Trapped in the apocalypse and menaced by villains new and old, Dipper finds himself in a race against time.</desc>
-    <date>2026-03-08</date>
-  </programme>
-  <programme channel="464807" start="20260308050000 +0000" stop="20260308053000 +0000">
+  <programme channel="464807" start="20260310023000 +0000" stop="20260310030000 +0000">
     <title lang="zh">Phineas and Ferb</title>
-    <desc>Candace becomes mayor for the day; ultimate lemonade stand.</desc>
-    <date>2026-03-08</date>
+    <desc>When Dad forgets his wedding anniversary, the children must find their parents' favorite band; Dr. Doofenshmirtz plans a birthday party for his daughter.</desc>
+    <date>2026-03-10</date>
   </programme>
-  <programme channel="464807" start="20260308053000 +0000" stop="20260309000000 +0000">
+  <programme channel="464807" start="20260310030000 +0000" stop="20260310033000 +0000">
     <title lang="zh">Phineas and Ferb</title>
-    <desc>The boys create a life-sized maze filled with obstacles; Linda is asked to do a Lindana reunion concert.</desc>
-    <date>2026-03-08</date>
+    <desc>Phineas and Ferb stumble upon Perry's secret lair; the boys help their grandfather jump a gorge on his motorcycle.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310033000 +0000" stop="20260310040000 +0000">
+    <title lang="zh">Phineas and Ferb</title>
+    <desc>Phineas and Ferb get shipped off to reform school; investigative talk show host Morty Williams prepares an eye-opening report on the school.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310040000 +0000" stop="20260310043000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>When Big City faces a coffee bean shortage, Cricket and Gloria's boss, Ms. Cho, challenges them to retrieve one of the few remaining sacks of coffee; when the Greens' dog, Phoenix, runs away from home, the family sets out to find her.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310043000 +0000" stop="20260310050000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Cricket persuades the family to go to a Thanksgiving sale at a big-box store for a deal on a new television; Tilly becomes friends with Anoosh, the neighborhood cat.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310050000 +0000" stop="20260310053000 +0000">
+    <title lang="zh">Lilo &amp; Stitch</title>
+    <desc>A seemingly useful neat-freak experiment goes awry.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310053000 +0000" stop="20260310060000 +0000">
+    <title lang="zh">Lilo &amp; Stitch</title>
+    <desc>Show and tell becomes competitive when Lilo upstages Mertle.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310060000 +0000" stop="20260310063000 +0000">
+    <title lang="zh">DuckTales</title>
+    <desc>Louie teams with Goldie to scam their way through Doofus' dangerous party; Huey pushes himself out of his comfort zone in his favorite online game.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310063000 +0000" stop="20260310070000 +0000">
+    <title lang="zh">DuckTales</title>
+    <desc>When Scrooge and Dewey make a gritty Darkwing Duck movie, Launchpad teams up with the original Darkwing to stop it.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310070000 +0000" stop="20260310073000 +0000">
+    <title lang="zh">Amphibia</title>
+    <desc>During Grubhog Day, Sprig has to decide whether to uphold his responsibilities or have fun at the carnival; to impress Sylvia Sundew, Hop Pop asks Anne to teach him to dance.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310073000 +0000" stop="20260310080000 +0000">
+    <title lang="zh">Amphibia</title>
+    <desc>When Anne exposes Wartwood to a teen romance film, the town splits on the movie's love triangle; after losing his stand, Hop Pop decides to run for mayor of Wartwood.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310080000 +0000" stop="20260310083000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>The Greens cause trouble during free sample day at the Farmers Market; Cricket and Nancy toilet paper all of Smalton in a quest for pranking glory.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310083000 +0000" stop="20260310090000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>In summer, Cricket impulsively eats Bill's chocolate Santa and must replace it; when Gramma's serene country retreat is disrupted by an outdoor festival, she resolves to stop it.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310090000 +0000" stop="20260310093000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Cricket gets dumped by his girlfriend, so he tries to change to win her back; Bill becomes hyper-competitive when Cricket starts to be better at things than him.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310093000 +0000" stop="20260310100000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Chip enacts his ultimate revenge plan by framing the Green family for ruining Big City and turning everyone against them.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310100000 +0000" stop="20260310103000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Tilly and Andromeda exchange letters that reveal their outlooks on the world; Remy enlists the Greens to help him lie to his parents about his week in the country.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310103000 +0000" stop="20260310110000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>A pizza delivery girl from Big City has to flee from a crazed country family; when Bill gets a horse for the day, Tilly must hide how much she secretly hates horses.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310110000 +0000" stop="20260310113000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Tilly makes changes to her country's coming-of-age ceremony and Gramma wants none of it; Cricket fast-tracks his training for a rodeo and gets trapped in a never-ending montage.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310113000 +0000" stop="20260310120000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Brooke Dillman guest stars as diner owner Patti; Nancy tries to get Cricket to cut his new rat tail without admitting that she hates it.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310120000 +0000" stop="20260310123000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Remy attempts to find his country grit while Cricket takes tractor-driving lessons; Phoenix journeys back to Big City to retrieve Saxon while Gramma and Gloria go to a club.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310123000 +0000" stop="20260310130000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>While Cricket shows Remy the fun of country life, Tilly seeks new sleeping arrangements; Cricket tries to win back his old country friend, Hector.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310130000 +0000" stop="20260310133000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>The Greens leave Big City and move back to their country farm; however, they grow unsettled when things aren't quite how they remember.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310133000 +0000" stop="20260310140000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Remy determines to become a martial arts warrior after freezeing in the face of danger; Cricket's missing dirt jar prompts the story of when the Greens left their country farm.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310140000 +0000" stop="20260310143000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Cricket loses his hearing and keeps it a secret from Bill; the Greens go to a hipster drive-in movie, where Gloria proves her life is fun by taking the perfect SnapAGram photo.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310143000 +0000" stop="20260310150000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Bill goes out of his way to get on a neighbor's good side; Cricket must prove himself worthy to avoid losing his delivery job to a robot.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310150000 +0000" stop="20260310153000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Cricket wants to prove to his family that he is not dumb during trivia night at the café; Tilly gets punished for the first time and decides to break bad.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310153000 +0000" stop="20260310160000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Tilly and Bill set off on an epic journey to recycle a fluorescent light bulb at an e-waste center; Tilly tries to solve a long-standing feud between Gramma and Mr. Grigorian.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310160000 +0000" stop="20260310163000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Cricket is halted at a convenience store due to its no shoes, no service policy; when Remy throws Vasquez a surprise party, Bill's secret-keeping is put to the test.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310163000 +0000" stop="20260310170000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Cricket mentors a wild child; Tilly develops a cult following; Nancy tries to prove herself on the farm; Bill struggles to relax at a fancy spa with Gramma.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310170000 +0000" stop="20260310173000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Bill forces his family to embrace a live, laugh, love philosophy; Gloria tries to maintain her café's perfect rating.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310173000 +0000" stop="20260310180000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Tilly revives Cousin Jilly, an alter-ego she created to entertain Cricket when they were younger; Gloria opens a secret café in the former Big Coffee space without permission.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310180000 +0000" stop="20260310183000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Gramma and Cricket fume over an unsightly van parked in front of their house; Nancy joins Cricket and Tilly's Little League team to get back at their unsportsmanlike rivals.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310183000 +0000" stop="20260310190000 +0000">
+    <title lang="zh">Big City Greens</title>
+<icon src="https://m.media-amazon.com/images/S/pv-target-images/e100731e7aab7289107258d9e82dae75fe6d72cec49a5ba85246c0f7c0fdb50b.jpg"/>
+<category lang="en">Animation</category>
+<category lang="en">Comedy</category>
+<category lang="en">Adventure</category>
+<category lang="en">Kids</category>
+    <desc>Remy uses Cricket's antics to gain views and likes on a new video-sharing app; Gloria gives Tilly and Cricket a tour of the animation studio where she's interning.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310190000 +0000" stop="20260310193000 +0000">
+    <title lang="zh">Beyblade X</title>
+    <desc>A flash back to Bird Kazami's past, revealing how the athletic and academic student discovers beyblade for the first time via a transfer student, Tsubasa Takano; his initial reaction is a surprising contrast to the passionate blader he becomes.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310193000 +0000" stop="20260310200000 +0000">
+    <title lang="zh">Lilo &amp; Stitch</title>
+    <desc>Lilo becomes royalty after placing a crown-shaped experiment on her head.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310200000 +0000" stop="20260310203000 +0000">
+    <title lang="zh">Kiff</title>
+    <desc>Kiff and friends invent a game that becomes a professional sport; Kiff and Secretary Prince break Principal Secretary's juice machine and must find him a new one.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310203000 +0000" stop="20260310210000 +0000">
+    <title lang="zh">Phineas and Ferb</title>
+    <desc>Buford's Candace suit comes to life and tries to take over the real Candace's life; Candace ignores her brothers for a day in order to help her Mom with a bust of her own.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310210000 +0000" stop="20260310213000 +0000">
+    <title lang="zh">Phineas and Ferb</title>
+    <desc>Vanessa and Doof travel to Drusselstein while the boys dig for Mom's lost wedding ring; the kids build a bird mansion for a rare macaw while Doof deals with giant praying mantises.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310213000 +0000" stop="20260310220000 +0000">
+    <title lang="zh">Gravity Falls</title>
+    <desc>Dipper is self-conscious that Mabel is taller than him so he seeks out a magic way to grow himself.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310220000 +0000" stop="20260310223000 +0000">
+    <title lang="zh">Gravity Falls</title>
+    <desc>When Mabel befriends a cute merman trapped in the deep end of the public pool, she's determined to return him to his family in the ocean, even though that means her whirlwind romance will come to an end; Dipper learns that Wendy is a lifeguard.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310223000 +0000" stop="20260310230000 +0000">
+    <title lang="zh">Gravity Falls</title>
+    <desc>When Mabel questions the way Stan runs the Shack, he challenges her to a bet.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310230000 +0000" stop="20260310233000 +0000">
+    <title lang="zh">Gravity Falls</title>
+    <desc>While Stan, Dipper, Mabel and Soos are falling in a bottomless pit, they tell stories to pass time.</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260310233000 +0000" stop="20260311000000 +0000">
+    <title lang="zh">Gravity Falls</title>
+    <desc>Twins Dipper and Mabel Pines are sent to spend the summer with their great-uncle, Grunkle Stan, in the mysterious town of Gravity Falls, Ore. Grunkle Stan has the kids help him run The Mystery Shack, the tourist trap that he owns. The twins try to adapt to the weird surroundings but sense there is something strange about Gravity Falls and begin to unlock its secrets. When Dipper uncovers a cryptic</desc>
+    <date>2026-03-10</date>
+  </programme>
+  <programme channel="464807" start="20260311000000 +0000" stop="20260312000000 +0000">
+    <title lang="zh">Kiff</title>
+    <desc>Kiff and Barry accompany Trollie on a mission to his magical neighborhood; the Chatterley family heads to Okaywill for new winter coats.</desc>
+    <date>2026-03-11</date>
   </programme>
 </tv>
