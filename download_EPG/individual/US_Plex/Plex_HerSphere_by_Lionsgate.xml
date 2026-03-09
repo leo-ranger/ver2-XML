@@ -5,183 +5,306 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/3ed082aa-5659-4fd0-8775-22613a65f924/HerSphere_1500x1000_Logo_Dark.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260307231515 +0000" stop="20260308010225 +0000">
-    <title>Gone</title>
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309020658 +0000" stop="20260309023647 +0000">
+    <title>Nurse Jackie</title>
+    <sub-title>Are You with Me, Doctor Wu?</sub-title>
+    <episode-num system="onscreen">S07E07</episode-num>
+    <desc>After an unexpected validation from Grace, Jackie is determined to stop dealing.</desc>
+    <date>20150524</date>
+    <icon src="https://image.tmdb.org/t/p/original/uidjn6olkbF4j2Sc08lYnM1fAyS.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309023647 +0000" stop="20260309030759 +0000">
+    <title>Nurse Jackie</title>
+    <sub-title>Managed Care</sub-title>
+    <episode-num system="onscreen">S07E08</episode-num>
+    <desc>Dr. Prince enlists Jackie’s help to keep an ICU patient with a brain tumor from giving up his fight to live.</desc>
+    <date>20150531</date>
+    <icon src="https://image.tmdb.org/t/p/original/u1EBUOiut8Qn2Fg4rIE76ymY8LU.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309030759 +0000" stop="20260309033950 +0000">
+    <title>Nurse Jackie</title>
+    <sub-title>Serviam in Caritate</sub-title>
+    <episode-num system="onscreen">S07E09</episode-num>
+    <desc>Jackie and Zoey set out on an unexpected road trip.  Dr. Prince attracts a neighborhood mob to All Saints.</desc>
+    <date>20150607</date>
+    <icon src="https://image.tmdb.org/t/p/original/rl0xcjX9FbYgZXdp6sUfHPwKp5V.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309033950 +0000" stop="20260309041021 +0000">
+    <title>Nurse Jackie</title>
+    <sub-title>Jackie and the Wolf</sub-title>
+    <episode-num system="onscreen">S07E10</episode-num>
+    <desc>Jackie and Eddie receive an unwelcome knock at the door that puts everything they’ve worked for in jeopardy.</desc>
+    <date>20150614</date>
+    <icon src="https://image.tmdb.org/t/p/original/yJFdXlrNaAEbuCqogZhW5qI17ew.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309041021 +0000" stop="20260309044324 +0000">
+    <title>Nurse Jackie</title>
+    <sub-title>Vigilante Jones</sub-title>
+    <episode-num system="onscreen">S07E11</episode-num>
+    <desc>Jackie bonds with an emotionally unstable, but charming, patient Vigilante Jones who claims to be a superhero.</desc>
+    <date>20150621</date>
+    <icon src="https://image.tmdb.org/t/p/original/uqJfHZIFaoxbbxgA82i4ZVgXs8u.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309044324 +0000" stop="20260309051652 +0000">
+    <title>Nurse Jackie</title>
+    <sub-title>I Say a Little Prayer</sub-title>
+    <episode-num system="onscreen">S07E12</episode-num>
+    <desc>It’s the last day at All Saints and Jackie’s future is up in the air. An old friend makes a surprise return.</desc>
+    <date>20150628</date>
+    <icon src="https://image.tmdb.org/t/p/original/yIeKdSZ0wDx61wcapJskJblD6xp.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309051652 +0000" stop="20260309054636 +0000">
+    <title>Nurse Jackie</title>
+    <sub-title>Pilot</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>A longtime ER nurse tries to conceal her addiction to painkillers she gets from her boyfriend, the pharmacist.</desc>
+    <date>20090608</date>
+    <icon src="https://image.tmdb.org/t/p/original/zCdS21S26owW1sA55iXK7VCEkPt.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309054636 +0000" stop="20260309061953 +0000">
+    <title>Nurse Jackie</title>
+    <sub-title>Sweet 'n All</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Jackie and her husband Kevin are worried that their daughter Grace might have an anxiety disorder.</desc>
+    <date>20090615</date>
+    <icon src="https://image.tmdb.org/t/p/original/bRuAxKOK6yLlmXGqMHT0tfr1NcQ.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309061953 +0000" stop="20260309065144 +0000">
+    <title>Nurse Jackie</title>
+    <sub-title>Chicken Soup</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Jackie meets a patient who uses his wife's chicken soup to treat his heart disease.</desc>
+    <date>20090622</date>
+    <icon src="https://image.tmdb.org/t/p/original/cu2vW946cOenOmjFTH3z67670kS.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309065144 +0000" stop="20260309071959 +0000">
+    <title>Nurse Jackie</title>
+    <sub-title>School Nurse</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Jackie and Kevin think about sending their daughter Grace to a private school.</desc>
+    <date>20090629</date>
+    <icon src="https://image.tmdb.org/t/p/original/d71wvaxGck5nWvynzmPPO6RnhwJ.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309071959 +0000" stop="20260309075032 +0000">
+    <title>Nurse Jackie</title>
+    <sub-title>Daffodil</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>A 10-year-old girl needs Jackie's help to care for her mother who suffers from lupus.</desc>
+    <date>20090706</date>
+    <icon src="https://image.tmdb.org/t/p/original/bcRZTT7wdMMTnqYCYHf6KDR1L53.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309075032 +0000" stop="20260309082335 +0000">
+    <title>Nurse Jackie</title>
+    <sub-title>Tiny Bubbles</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>A gall bladder attack brings Dr. Cooper's mother to the hospital where she gives away a secret about her son.</desc>
+    <date>20090713</date>
+    <icon src="https://image.tmdb.org/t/p/original/sn5Iai8lSioTQ6N6O9quX07xX7m.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309082335 +0000" stop="20260309085551 +0000">
+    <title>Nurse Jackie</title>
+    <sub-title>Steak Knife</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>After the ex-husband of his date attacked him with a knife, a man is brought to the ER.</desc>
+    <date>20090720</date>
+    <icon src="https://image.tmdb.org/t/p/original/zCckqzOgHWalo9S62bHUqxSxXZM.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309085551 +0000" stop="20260309092752 +0000">
+    <title>Nurse Jackie</title>
+    <sub-title>Pupil</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>When Jackie addresses a temp nurse's drug abuse, he calls her an hypocrite.</desc>
+    <date>20090727</date>
+    <icon src="https://image.tmdb.org/t/p/original/6qEUaxEhVRCv21R1fRIhUhI4MXP.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309092752 +0000" stop="20260309100015 +0000">
+    <title>Nurse Jackie</title>
+    <sub-title>Nosebleed</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Jackie has to deal with the consequences of her drug abuse and Zoey's criticism of a patient's treatment.</desc>
+    <date>20090803</date>
+    <icon src="https://image.tmdb.org/t/p/original/xxe9Tz50U0WSAwuhLruhwaDLCRP.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309100015 +0000" stop="20260309115622 +0000">
+    <title>Factory Girl</title>
     <category>Movie</category>
-    <desc>A woman is convinced her kidnapper has returned when her sister goes missing.</desc>
-    <date>20120223</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5fab75f84264828dbe072fd1e1094d44.jpg" />
+    <desc>A wanna-be star meets and falls for Andy Warhol, and he promises her the fame she's always dreamed of.</desc>
+    <date>20061229</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0b0c31f1b543b242bb9dae6c33db311c.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260308010225 +0000" stop="20260308025554 +0000">
-    <title>Midnight in the Switchgrass</title>
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309115622 +0000" stop="20260309141930 +0000">
+    <title>The Disappearance of Eleanor Rigby</title>
     <category>Movie</category>
-    <desc>An FBI agent and Florida State officer team up to investigate a string of unsolved murder cases.</desc>
-    <date>20210723</date>
-    <icon src="https://image.tmdb.org/t/p/original/1OTSuh2HNcTRfme8caU8DjgJ39K.jpg" />
+    <desc>A married couple torn apart by tragedy tries to reclaim the life they once shared.</desc>
+    <date>20140912</date>
+    <icon src="https://image.tmdb.org/t/p/original/rFBfW5RJbjgOYufLvu2DP4A71JW.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260308025554 +0000" stop="20260308044159 +0000">
-    <title>A Vigilante</title>
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309141930 +0000" stop="20260309162943 +0000">
+    <title>Fierce People</title>
     <category>Movie</category>
-    <desc>After escaping her dangerous husband, a woman turns avenger to help victims of domestic abuse.</desc>
-    <date>20190329</date>
-    <icon src="https://image.tmdb.org/t/p/original/s0TbAVId17OHKEi3B5LnwrRa3BH.jpg" />
+    <desc>A massage therapist looking to reconnect with her son moves in with a wealthy ex-client in New Jersey.</desc>
+    <date>20050424</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f93d2c24c35d7725c626067a922c4464.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260308044159 +0000" stop="20260308063039 +0000">
-    <title>Every Secret Thing</title>
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309162943 +0000" stop="20260309180524 +0000">
+    <title>Beatriz at Dinner</title>
     <category>Movie</category>
-    <desc>Two teens are suspected of abducting a child, and the detective races to prevent history from repeating.</desc>
-    <date>20140420</date>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/e36c395548a9bd20019b96b21e754c35.jpg" />
+    <desc>A provocative film about characters from vastly different sociopolitical backgrounds colliding over dinner.</desc>
+    <date>20170609</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e66dd2a7e8e7e79a04b8609776772318.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260308063039 +0000" stop="20260308081819 +0000">
-    <title>Gone</title>
-    <category>Movie</category>
-    <desc>A woman is convinced her kidnapper has returned when her sister goes missing.</desc>
-    <date>20120223</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5fab75f84264828dbe072fd1e1094d44.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309180524 +0000" stop="20260309190058 +0000">
+    <title>The Royals</title>
+    <sub-title>It Is Not, Nor It Cannot Come to Good</sub-title>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <desc>In the wake of King Simon’s death, King Cyrus’ new monarchy is on display at the Royal polo match.</desc>
+    <date>20151115</date>
+    <icon src="https://image.tmdb.org/t/p/original/7nh2e1VwfISacty6abHMBLz1Ski.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260308081819 +0000" stop="20260308101143 +0000">
-    <title>Midnight in the Switchgrass</title>
-    <category>Movie</category>
-    <desc>An FBI agent and Florida State officer team up to investigate a string of unsolved murder cases.</desc>
-    <date>20210723</date>
-    <icon src="https://image.tmdb.org/t/p/original/1OTSuh2HNcTRfme8caU8DjgJ39K.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309190058 +0000" stop="20260309195503 +0000">
+    <title>The Royals</title>
+    <sub-title>Welcome Is Fashion and Ceremony</sub-title>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <desc>In Prince Liam’s search for vengeance, a secret is exposed that affects the monarchy’s future.</desc>
+    <date>20151122</date>
+    <icon src="https://image.tmdb.org/t/p/original/5uDRKrCBsE1Va1rYZucM1NriMSZ.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260308101143 +0000" stop="20260308121320 +0000">
-    <title>Letters to Juliet</title>
-    <category>Movie</category>
-    <desc>While in Verona, Sophie comes across a 'letter to Juliet' and embarks on a mission to find its author.</desc>
-    <date>20100513</date>
-    <icon src="https://image.tmdb.org/t/p/original/ibOtxVcXFiHuj6gDlBZZfetsZUm.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309195503 +0000" stop="20260309203049 +0000">
+    <title>Grace and Frankie</title>
+    <sub-title>The Expiration Date</sub-title>
+    <episode-num system="onscreen">S04E04</episode-num>
+    <desc>Grace fears her relationship has reached its expiration date. Frankie faces an existential crisis.</desc>
+    <date>20180119</date>
+    <icon src="https://image.tmdb.org/t/p/original/dFMsGtvJmtNzOb6VX2yP8htTI9E.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260308121320 +0000" stop="20260308141526 +0000">
-    <title>Wildflower</title>
-    <category>Movie</category>
-    <desc>A girl navigates life with two intellectually-disabled parents and an extended family that can't quite agree.</desc>
-    <date>20230321</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/0ad7e3e20f3d3c84bac4fb50acec24e4.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309203049 +0000" stop="20260309210746 +0000">
+    <title>Grace and Frankie</title>
+    <sub-title>The Pop-Ups</sub-title>
+    <episode-num system="onscreen">S04E05</episode-num>
+    <desc>Grace and Frankie hold vibrator pop-up sales at a senior center and a college. Bud and Allison hit a roadblock</desc>
+    <date>20180119</date>
+    <icon src="https://image.tmdb.org/t/p/original/vwkWoEa8ZVjvC60UQ84otVfIsJ1.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260308141526 +0000" stop="20260308164004 +0000">
-    <title>Silver Linings Playbook</title>
-    <category>Movie</category>
-    <desc>An unexpected bond forms between a formerly institutionalized man and a woman recovering from her own tragedy.</desc>
-    <date>20121121</date>
-    <icon src="https://image.tmdb.org/t/p/original/g1wfh6BLd5rthHzSdbCnykXPYvG.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309210746 +0000" stop="20260309214600 +0000">
+    <title>Grace and Frankie</title>
+    <sub-title>The Hinge</sub-title>
+    <episode-num system="onscreen">S04E06</episode-num>
+    <desc>Frankie reconnects with someone from her past. Grace refuses to slow down. Robert tries to make amends.</desc>
+    <date>20180119</date>
+    <icon src="https://image.tmdb.org/t/p/original/vSTi3rRr41rONzKodu2Tfj7NywM.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260308164004 +0000" stop="20260308185015 +0000">
-    <title>Long Shot</title>
-    <category>Movie</category>
-    <desc>A journalist reunites with his childhood crush, now one of the most influential women in the world.</desc>
-    <date>20190502</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ae56aaeaf1dca18b89cceb3ff07975ea.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309214600 +0000" stop="20260309221250 +0000">
+    <title>Weeds</title>
+    <sub-title>Free Goat</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Nancy and her children suffer from a lack of funds in the household. Celia confronts her husband's mistress.</desc>
+    <date>20050815</date>
+    <icon src="https://image.tmdb.org/t/p/original/3WFA7eoEfMwaRMV8kYWnft64LhB.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260308185015 +0000" stop="20260308192200 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309221250 +0000" stop="20260309223938 +0000">
+    <title>Weeds</title>
+    <sub-title>Good Shit Lollipop</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>While a mountain lion terrorizes the town of Agrestic, a medical marijuana facility does the same to Nancy.</desc>
+    <date>20050822</date>
+    <icon src="https://image.tmdb.org/t/p/original/aIu9ELBhyyvYCecu7esAiBXlgWM.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309223938 +0000" stop="20260309230556 +0000">
+    <title>Weeds</title>
+    <sub-title>Fashion of the Christ</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Andy, Nancy's brother in-law, causes major problems with his surprise visit. Celia reveals she has cancer.</desc>
+    <date>20050829</date>
+    <icon src="https://image.tmdb.org/t/p/original/7hCmeBR1g95Pers0po3A03rGTS.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309230556 +0000" stop="20260309233216 +0000">
+    <title>Weeds</title>
+    <sub-title>Lude Awakening</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Shane has problems at school again. Celia tries to get rid of her cancer in a non-conventional way.</desc>
+    <date>20050905</date>
+    <icon src="https://image.tmdb.org/t/p/original/9xkOIBuWdQZ9vbgN9DaC0AgkarC.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309233216 +0000" stop="20260309235832 +0000">
+    <title>Weeds</title>
+    <sub-title>Dead in the Nethers</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Nancy, Conrad and Celia go out to a club and things heat up between Conrad and Celia.</desc>
+    <date>20050912</date>
+    <icon src="https://image.tmdb.org/t/p/original/z6guv1T3J8VR9LquOreIMzw6aRE.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309235832 +0000" stop="20260310003011 +0000">
     <title>Nurse Jackie</title>
-    <sub-title>Rag and Bone</sub-title>
-    <episode-num system="onscreen">S06E05</episode-num>
-    <desc>Zoey confronts Prentiss. Jackie pops a surprising question to Frank.</desc>
-    <date>20140511</date>
-    <icon src="https://image.tmdb.org/t/p/original/c6B3Nbs9HPQRciewNDPZVJTttXA.jpg" />
+    <sub-title>Handle Your Scandal</sub-title>
+    <episode-num system="onscreen">S04E10</episode-num>
+    <desc>Cruz purposely pushes Jackie to the breaking point and uses her reaction as grounds to fire her.</desc>
+    <date>20120617</date>
+    <icon src="https://image.tmdb.org/t/p/original/aY4L3j5gSSN87hacieNVyvoGXaR.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260308192200 +0000" stop="20260308195410 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260310003011 +0000" stop="20260310010225 +0000">
     <title>Nurse Jackie</title>
-    <sub-title>Nancy Wood</sub-title>
-    <episode-num system="onscreen">S06E06</episode-num>
-    <desc>Jackie's fake identity is compromised. Prentiss plans a date with Zoey.</desc>
-    <date>20140518</date>
-    <icon src="https://image.tmdb.org/t/p/original/uUCNTMPlkLAD5rn8dVPu30Ftlv0.jpg" />
+    <sub-title>Happy F*cking Birthday</sub-title>
+    <episode-num system="onscreen">S05E01</episode-num>
+    <desc>An overturned bus makes for a crazy day and Eddie gets his job back - all on the day before Jackie's birthday.</desc>
+    <date>20130414</date>
+    <icon src="https://image.tmdb.org/t/p/original/c35JJvLD46YJniFaw6iaf0soH1g.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260308195410 +0000" stop="20260308202629 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260310010225 +0000" stop="20260310013356 +0000">
     <title>Nurse Jackie</title>
-    <sub-title>Rat on a Cheeto</sub-title>
-    <episode-num system="onscreen">S06E07</episode-num>
-    <desc>Jackie is ambushed by Antoinette. Coop’s dream finally comes true.</desc>
-    <date>20140525</date>
-    <icon src="https://image.tmdb.org/t/p/original/g7YjWQYyKrwwGhpky0DdTUit5Rt.jpg" />
+    <sub-title>Luck of the Drawing</sub-title>
+    <episode-num system="onscreen">S05E02</episode-num>
+    <desc>Jackie and Kevin are at a stalemate in their divorce mediation because Kevin wants full custody.</desc>
+    <date>20130421</date>
+    <icon src="https://image.tmdb.org/t/p/original/oZFVlbZooikk8eGIyQlTsUscP34.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260308202629 +0000" stop="20260308205343 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260310013356 +0000" stop="20260310020426 +0000">
     <title>Nurse Jackie</title>
-    <sub-title>The Lady with the Lamp</sub-title>
-    <episode-num system="onscreen">S06E08</episode-num>
-    <desc>Jackie detoxes at home – with help. Frank raises an objection about Grace.</desc>
-    <date>20140601</date>
-    <icon src="https://image.tmdb.org/t/p/original/e0tAPz4qh57ndXFkbhRXbmM8wGA.jpg" />
+    <sub-title>Smile</sub-title>
+    <episode-num system="onscreen">S05E03</episode-num>
+    <desc>After their custody meeting, Jackie rear-ends Kevin. Kevin accuses her of using.</desc>
+    <date>20130428</date>
+    <icon src="https://image.tmdb.org/t/p/original/dgirH4ObbU9q25czvYSZezxr1G9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260308205343 +0000" stop="20260308212553 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260310020426 +0000" stop="20260310023515 +0000">
     <title>Nurse Jackie</title>
-    <sub-title>Candyman</sub-title>
-    <episode-num system="onscreen">S06E09</episode-num>
-    <desc>Frank warns Jackie about a DEA investigation. Antoinette turns to Eddie.</desc>
-    <date>20140608</date>
-    <icon src="https://image.tmdb.org/t/p/original/viOjN6n1xF1UpxsFcfZQlp0cevf.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260308212553 +0000" stop="20260308215737 +0000">
-    <title>Nurse Jackie</title>
-    <sub-title>Sidecars and Spermicide</sub-title>
-    <episode-num system="onscreen">S06E10</episode-num>
-    <desc>Jackie's drug use intensifies as the DEA zeroes in on a suspect.</desc>
-    <date>20140615</date>
-    <icon src="https://image.tmdb.org/t/p/original/8T1SEPVdUNpIkoYggSpeKNghwdT.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260308215737 +0000" stop="20260308223010 +0000">
-    <title>Nurse Jackie</title>
-    <sub-title>Sisterhood</sub-title>
-    <episode-num system="onscreen">S06E11</episode-num>
-    <desc>Jackie reluctantly attends Kevin’s wedding. Carrie makes demands on Coop.</desc>
-    <date>20140622</date>
-    <icon src="https://image.tmdb.org/t/p/original/j66jdwWUZ32OCC7O41OdFGGUjlU.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260308223010 +0000" stop="20260308230048 +0000">
-    <title>Nurse Jackie</title>
-    <sub-title>Flight</sub-title>
-    <episode-num system="onscreen">S06E12</episode-num>
-    <desc>Coop gets a surprise. Jackie hits the road. Season finale.</desc>
-    <date>20140629</date>
-    <icon src="https://image.tmdb.org/t/p/original/uYgvzLLRb2UstVQ3Bs6iHIqThLF.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260308230048 +0000" stop="20260308233319 +0000">
-    <title>Nurse Jackie</title>
-    <sub-title>Clean</sub-title>
-    <episode-num system="onscreen">S07E01</episode-num>
-    <desc>Jackie suffers through a harrowing stay in a holding cell followed by sedated detox.</desc>
-    <date>20150412</date>
-    <icon src="https://image.tmdb.org/t/p/original/gRS5wrtkSMBU1B42WIBIyX7QGG4.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260308233319 +0000" stop="20260309000527 +0000">
-    <title>Nurse Jackie</title>
-    <sub-title>Deal</sub-title>
-    <episode-num system="onscreen">S07E02</episode-num>
-    <desc>Jackie sets her sights on returning to All Saints, aided by her lawyer - but she can’t afford his retainer.</desc>
-    <date>20150419</date>
-    <icon src="https://image.tmdb.org/t/p/original/gW6AJLwqmZFbB4SHHO6icA8DsFY.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" start="20260309000527 +0000" stop="20260309003533 +0000">
-    <title>Nurse Jackie</title>
-    <sub-title>Godfathering</sub-title>
-    <episode-num system="onscreen">S07E03</episode-num>
-    <desc>Under the Diversion Program, Jackie cannot touch patients or medication and undergoes daily urine screens.</desc>
-    <date>20150426</date>
-    <icon src="https://image.tmdb.org/t/p/original/hIBHtSbHhm5bSPhseM5Bia4hjlG.jpg" />
+    <sub-title>Lost Girls</sub-title>
+    <episode-num system="onscreen">S05E04</episode-num>
+    <desc>A heavily medicated Jane Doe is brought into the ER and Jackie tasks Zoey with finding out who she is.</desc>
+    <date>20130505</date>
+    <icon src="https://image.tmdb.org/t/p/original/hqDTHvGV419jSeKyDUF9EIiPlYm.jpg" />
   </programme>
   
 </tv>
