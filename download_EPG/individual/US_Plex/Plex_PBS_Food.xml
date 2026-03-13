@@ -2,448 +2,367 @@
 <tv generator-info-name="www.matthuisman.nz">
 <channel id="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c">
     <display-name>PBS Food</display-name>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/d5d8caa9-6a26-480b-b990-c4ea65b27e30/PBS_Food_Logo_Dark_1500x1000_-_Antonio_de_la_Torre__Tony_.png" />
+    <icon src="https://provider-static.plex.tv/epg/cms/production/b4fa835b-9c5c-4fab-b574-a928e23a7455/PBS_Food_Logo_Vertical_Color_BLUE.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312000228 +0000" stop="20260312003122 +0000">
-    <title>Essential Pépin</title>
-    <sub-title>Veg-In!</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Jacques makes Ragout of Asparagus and two gratins -- Zucchini and Tomato and Cauliflower.</desc>
-    <date>20111105</date>
-    <icon src="https://artworks.thetvdb.com/banners/episodes/252974/4191973.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312003122 +0000" stop="20260312010015 +0000">
-    <title>Essential Pépin</title>
-    <sub-title>Fine Finishes</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Jacques makes Cheesecake with Apricot-Blueberry Sauce and classic flan and mousse.</desc>
-    <date>20111112</date>
-    <icon src="https://artworks.thetvdb.com/banners/episodes/252974/4191974.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312010015 +0000" stop="20260312012909 +0000">
-    <title>Essential Pépin</title>
-    <sub-title>Special Spuds</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Jacques makes the perfect French Fry, plus more classic potato dishes.</desc>
-    <date>20111119</date>
-    <icon src="https://artworks.thetvdb.com/banners/episodes/252974/4191975.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312012909 +0000" stop="20260312015803 +0000">
-    <title>Essential Pépin</title>
-    <sub-title>Economical Offal</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Jacques uses the oft-forgotten liver in a recipe for Pork Liver Pate.</desc>
-    <date>20111126</date>
-    <icon src="https://artworks.thetvdb.com/banners/episodes/252974/4191976.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312015803 +0000" stop="20260312022657 +0000">
-    <title>Essential Pépin</title>
-    <sub-title>Cozy Carbs</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Ricotta Dumplings with Red Pepper Sauce make an easy lunch or supper.</desc>
-    <date>20111211</date>
-    <icon src="https://artworks.thetvdb.com/banners/episodes/252974/4191977.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312022657 +0000" stop="20260312025551 +0000">
-    <title>Essential Pépin</title>
-    <sub-title>Classic Conclusions</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Crepes a la Confiture are a childhood favorite, and the batter is quick and easy to make.</desc>
-    <date>20111210</date>
-    <icon src="https://artworks.thetvdb.com/banners/episodes/252974/4191978.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312025551 +0000" stop="20260312032244 +0000">
-    <title>Essential Pépin</title>
-    <sub-title>Easy and Elegant Seafood</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Jacques makes Lobster in Artichoke Hearts, Shrimp Pane and Escoffier Quenelles.</desc>
-    <date>20120107</date>
-    <icon src="https://artworks.thetvdb.com/banners/episodes/252974/4191979.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312032244 +0000" stop="20260312035138 +0000">
-    <title>Essential Pépin</title>
-    <sub-title>Cattle Call</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Jacques cooks a perfect Grilled Steak with Lemon-Thyme Butter.</desc>
-    <date>20111224</date>
-    <icon src="https://artworks.thetvdb.com/banners/episodes/252974/4191980.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312035138 +0000" stop="20260312042030 +0000">
-    <title>Essential Pépin</title>
-    <sub-title>Fruite Fete</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Jacques’ Good Lady Apples Bon Femme recipe satisfies with maple-sweetened fruit.</desc>
-    <date>20111231</date>
-    <icon src="https://artworks.thetvdb.com/banners/episodes/252974/4191981.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312042030 +0000" stop="20260312044828 +0000">
-    <title>Baking with Julia</title>
-    <sub-title>Chocolate Mint Nightcaps with Marcel Desaulniers</sub-title>
-    <episode-num system="onscreen">S03E07</episode-num>
-    <desc>Marcel Desaulniers makes oven-roasted plum cakes and chocolate-mint nightcaps.</desc>
-    <date>19971115</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/dde96021eb0b274361fe4fafd3cc38bd.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312044828 +0000" stop="20260312051627 +0000">
-    <title>Baking with Julia</title>
-    <sub-title>Savory Pizza Rustica with Nick Malgieri</sub-title>
-    <episode-num system="onscreen">S03E08</episode-num>
-    <desc>Nick Malgieri demonstrates Sicilian specialties like savory pizza rustica and X cookies.</desc>
-    <date>19971122</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6d26d9e0821660d50617dbf6f9b50ddb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312051627 +0000" stop="20260312054425 +0000">
-    <title>Baking with Julia</title>
-    <sub-title>Vanilla Chiffon Chocolate Mousse Cake with Mary Bergin</sub-title>
-    <episode-num system="onscreen">S03E09</episode-num>
-    <desc>Mary Bergin makes a vanilla chiffon cake with chocolate-laced walnut mousse.</desc>
-    <date>19971129</date>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/22ae978c0b74310fa26ba7d0c1d82890.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312054425 +0000" stop="20260312061225 +0000">
-    <title>Baking with Julia</title>
-    <sub-title>Poppyseed Torte with Markus Farbinger</sub-title>
-    <episode-num system="onscreen">S03E10</episode-num>
-    <desc>Markus Farbinger bakes a warm poppyseed torte with poached apricots.</desc>
-    <date>19971206</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/0735f43e343e277fc30775da10f9f184.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312061225 +0000" stop="20260312064023 +0000">
-    <title>Baking with Julia</title>
-    <sub-title>Naan with Beatrice Ojakangas</sub-title>
-    <episode-num system="onscreen">S03E11</episode-num>
-    <desc>Jeffrey Alford and Naomi Duguid demonstrate naan. Beatrice Ojakangas makes hardtack.</desc>
-    <date>19971213</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/dda88abca97b35df48054f481e3c8f6d.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312064023 +0000" stop="20260312070821 +0000">
-    <title>Baking with Julia</title>
-    <sub-title>Chocolate Tuiles &amp; Gingersnaps with Gale Gand and David Blom</sub-title>
-    <episode-num system="onscreen">S03E12</episode-num>
-    <desc>Gail Gand demonstrates mini lemon meringue pies. David Blom makes tuiles and gingersnaps.</desc>
-    <date>19971220</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_BakingwithJulia_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312070821 +0000" stop="20260312073620 +0000">
-    <title>Baking with Julia</title>
-    <sub-title>Raspberry-Fig Crostata with Flo Braker and Leslie Mackie</sub-title>
-    <episode-num system="onscreen">S03E13</episode-num>
-    <desc>Flo Braker turns out two crunchy galettes. Leslie Mackie demonstrates a crostata.</desc>
-    <date>19961104</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6a58d69af8bb3479919afb2f56f499b7.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312073620 +0000" stop="20260312080458 +0000">
-    <title>Food Forward</title>
-    <sub-title>Go Fish!</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Set sail with a new breed of fishermen who are creating community supported fisheries.</desc>
-    <date>20140829</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_FoodForward_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312080458 +0000" stop="20260312083332 +0000">
-    <title>Food Forward</title>
-    <sub-title>The Meat of the Matter</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Meet a new breed of ranchers who are returning to a traditional style of raising cattle.</desc>
-    <date>20140905</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_FoodForward_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312083332 +0000" stop="20260312090210 +0000">
-    <title>Food Forward</title>
-    <sub-title>Seeds of Change</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Meet seed savers pursuing grassroots alternatives.</desc>
-    <date>20140905</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_FoodForward_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312090210 +0000" stop="20260312093046 +0000">
-    <title>Food Forward</title>
-    <sub-title>SOS: Save Our Soil</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Explore new frontiers beneath our feet that might just save our soil.</desc>
-    <date>20140912</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_FoodForward_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312093046 +0000" stop="20260312095924 +0000">
-    <title>Food Forward</title>
-    <sub-title>Modern Milk</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Meet raw milk revolutionaries, Vermont cheese entrepreneurs, and ice cream innovators.</desc>
-    <date>20140912</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_FoodForward_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312095924 +0000" stop="20260312102828 +0000">
-    <title>Simply Ming</title>
-    <sub-title>Andrew Zimmern</sub-title>
-    <episode-num system="onscreen">S17E01</episode-num>
-    <desc>Andrew Zimmern cooks Shrimp Etouffee. Ming follows up with Salt and Pepper Head-On Shrimp.</desc>
-    <date>20191005</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_SimplyMing_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312102828 +0000" stop="20260312105735 +0000">
-    <title>Simply Ming</title>
-    <sub-title>Jacques Pepin</sub-title>
-    <episode-num system="onscreen">S17E02</episode-num>
-    <desc>Jacques Pepin makes Arctic Char with Tomato and Mini Savory Cheesecakes.</desc>
-    <date>20191012</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_SimplyMing_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312105735 +0000" stop="20260312112643 +0000">
-    <title>Simply Ming</title>
-    <sub-title>Kristen Kish</sub-title>
-    <episode-num system="onscreen">S17E03</episode-num>
-    <desc>Kristen Kish cooks Crispy Rice and Ming makes a Tune Poke.</desc>
-    <date>20191019</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_SimplyMing_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312112643 +0000" stop="20260312115549 +0000">
-    <title>Simply Ming</title>
-    <sub-title>Jonathan Waxman</sub-title>
-    <episode-num system="onscreen">S17E04</episode-num>
-    <desc>Jonathan Waxman cooks chicken under a brick. Ming makes Black Pepper Lobster.</desc>
-    <date>20191026</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_SimplyMing_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312115549 +0000" stop="20260312122454 +0000">
-    <title>Simply Ming</title>
-    <sub-title>Rick Bayless</sub-title>
-    <episode-num system="onscreen">S17E05</episode-num>
-    <desc>Rick Bayless makes Grilled Swordfish. Ming cooks Ponzu Marinated Swordfish.</desc>
-    <date>20191102</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_SimplyMing_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312122454 +0000" stop="20260312125401 +0000">
-    <title>Simply Ming</title>
-    <sub-title>Carla Hall</sub-title>
-    <episode-num system="onscreen">S17E06</episode-num>
-    <desc>Carla Hall cooks up Fried Fish Southern Style with Black-Eyed Pea Salad.</desc>
-    <date>20191109</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_SimplyMing_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312125401 +0000" stop="20260312132307 +0000">
-    <title>Simply Ming</title>
-    <sub-title>Susur Lee</sub-title>
-    <episode-num system="onscreen">S17E07</episode-num>
-    <desc>Susur Lee makes a Grilled Eggplant on Polenta Crouton, served with a Tuna XO.</desc>
-    <date>20191116</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_SimplyMing_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312132307 +0000" stop="20260312134954 +0000">
-    <title>Simply Ming</title>
-    <sub-title>Joanne Chang</sub-title>
-    <episode-num system="onscreen">S17E08</episode-num>
-    <desc>Joanne Chang bakes Plum Upside-Down Cake. Ming cooks up Duck Spring Rolls.</desc>
-    <date>20191123</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_SimplyMing_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312134954 +0000" stop="20260312141900 +0000">
-    <title>Simply Ming</title>
-    <sub-title>Sara Moulton</sub-title>
-    <episode-num system="onscreen">S17E09</episode-num>
-    <desc>Ming and Sara Moulton cook up two spicy chicken dishes perfect for weekend eating.</desc>
-    <date>20191130</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_SimplyMing_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312141900 +0000" stop="20260312144803 +0000">
-    <title>Simply Ming</title>
-    <sub-title>Dr. William Li</sub-title>
-    <episode-num system="onscreen">S17E10</episode-num>
-    <desc>Dr. William Li cook Chicken Coconut Curry and Ming makes EVOO Poached Chicken Thighs.</desc>
-    <date>20191207</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_SimplyMing_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312144803 +0000" stop="20260312151708 +0000">
-    <title>Simply Ming</title>
-    <sub-title>Amanda Freitag</sub-title>
-    <episode-num system="onscreen">S17E11</episode-num>
-    <desc>Amanda Freitag cooks Duck Breast with Pine Nut Relish. Ming makes Tea-Smoke Duck Breast.</desc>
-    <date>20191214</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_SimplyMing_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312151708 +0000" stop="20260312154614 +0000">
-    <title>Simply Ming</title>
-    <sub-title>Ken Oringer</sub-title>
-    <episode-num system="onscreen">S17E12</episode-num>
-    <desc>Ken Oringer makes King Crab Nachos while Ming makes Rice Cake Nachos.</desc>
-    <date>20191221</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_SimplyMing_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312154614 +0000" stop="20260312161518 +0000">
-    <title>Simply Ming</title>
-    <sub-title>Michael Schlow</sub-title>
-    <episode-num system="onscreen">S17E13</episode-num>
-    <desc>Ming and Michael Schlow cook Spicy Shrimp with Fregola and Togarashi Shrimp.</desc>
-    <date>20191228</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_SimplyMing_1920x1080_BKGD.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312161518 +0000" stop="20260312164403 +0000">
-    <title>Jacques Pépin: Fast Food My Way</title>
-    <sub-title>Sole-ful Suppertime</sub-title>
-    <episode-num system="onscreen">S02E14</episode-num>
-    <desc>Butternut Squash Velvet; Fillet of Sole with Mushroom Sauce; Seckel Pears in Coffee.</desc>
-    <date>20090103</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JacquesPpinFastFoodMyWay_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312164403 +0000" stop="20260312171249 +0000">
-    <title>Jacques Pépin: Fast Food My Way</title>
-    <sub-title>Crock of Flavor</sub-title>
-    <episode-num system="onscreen">S02E15</episode-num>
-    <desc>Small Crocs of Shrimp in Hot Vegetable Broth; Pork Medallions; Butter Pecan Ice Cream.</desc>
-    <date>20090110</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JacquesPpinFastFoodMyWay_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312171249 +0000" stop="20260312174135 +0000">
-    <title>Jacques Pépin: Fast Food My Way</title>
-    <sub-title>Smooth Food</sub-title>
-    <episode-num system="onscreen">S02E16</episode-num>
-    <desc>Mini Cheesecakes on Arugula; Steamed Scrod Packages; Butternut Squash Saute.</desc>
-    <date>20090117</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JacquesPpinFastFoodMyWay_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312174135 +0000" stop="20260312181020 +0000">
-    <title>Jacques Pépin: Fast Food My Way</title>
-    <sub-title>Game Day Pressure</sub-title>
-    <episode-num system="onscreen">S02E17</episode-num>
-    <desc>Chile con Carne with Lettuce and Cheese; Pears Bonne Femme; Criques; Californian Caviar.</desc>
-    <date>20090124</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JacquesPpinFastFoodMyWay_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312181020 +0000" stop="20260312183906 +0000">
-    <title>Jacques Pépin: Fast Food My Way</title>
-    <sub-title>Light and Luscious</sub-title>
-    <episode-num system="onscreen">S02E18</episode-num>
-    <desc>Rigatoni with Lettuce and Eggplant; Sauteed Julienned Endive; Steamed Fish and Shellfish.</desc>
-    <date>20090131</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JacquesPpinFastFoodMyWay_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312183906 +0000" stop="20260312190751 +0000">
-    <title>Jacques Pépin: Fast Food My Way</title>
-    <sub-title>Dinner Party Special</sub-title>
-    <episode-num system="onscreen">S02E19</episode-num>
-    <desc>Spinach- and Cheese-Stuffed Roast; Cream of Leek and Mushroom Soup; Mini Almond Cakes.</desc>
-    <date>20090206</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JacquesPpinFastFoodMyWay_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312190751 +0000" stop="20260312193637 +0000">
-    <title>Jacques Pépin: Fast Food My Way</title>
-    <sub-title>Breaking with Tradition</sub-title>
-    <episode-num system="onscreen">S02E20</episode-num>
-    <desc>Skillet Apple Charlotte; Harlequin Salad; Turkey Scaloppine with Middle Eastern Couscous.</desc>
-    <date>20090208</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JacquesPpinFastFoodMyWay_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312193637 +0000" stop="20260312200523 +0000">
-    <title>Jacques Pépin: Fast Food My Way</title>
-    <sub-title>Bread Flip</sub-title>
-    <episode-num system="onscreen">S02E21</episode-num>
-    <desc>Tibetan Flatbread; Risotto with Broccoli Stems; Salmon Burgers on Arugula; Grapefruit.</desc>
-    <date>20090209</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JacquesPpinFastFoodMyWay_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312200523 +0000" stop="20260312203410 +0000">
-    <title>Jacques Pépin: Fast Food My Way</title>
-    <sub-title>Seafood Tricks</sub-title>
-    <episode-num system="onscreen">S02E22</episode-num>
-    <desc>Baked Clams Madison; Cod; Skillet Broccoli Bits; Hazelnut-Chocolate Spread.</desc>
-    <date>20090211</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JacquesPpinFastFoodMyWay_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312203410 +0000" stop="20260312210255 +0000">
-    <title>Jacques Pépin: Fast Food My Way</title>
-    <sub-title>Dessert First!</sub-title>
-    <episode-num system="onscreen">S02E23</episode-num>
-    <desc>Savory Iceberg Cup; Caramel Pear Tart; Italian Sausage Patty with Masa Harina.</desc>
-    <date>20090213</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JacquesPpinFastFoodMyWay_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312210255 +0000" stop="20260312213141 +0000">
-    <title>Jacques Pépin: Fast Food My Way</title>
-    <sub-title>Pop Over Anytime</sub-title>
-    <episode-num system="onscreen">S02E24</episode-num>
-    <desc>Chorizo, Mushroom and Cheese Pizza; Orecchiette with Fennel and Tuna; Popover.</desc>
-    <date>20090215</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JacquesPpinFastFoodMyWay_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312213141 +0000" stop="20260312220032 +0000">
-    <title>Jacques Pépin: Fast Food My Way</title>
-    <sub-title>Vegetable Fete</sub-title>
-    <episode-num system="onscreen">S02E25</episode-num>
-    <desc>Ratatouille with Penne; Shrimp with Cabbage and Red Caviar; Peach Melba.</desc>
-    <date>20090216</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_JacquesPpinFastFoodMyWay_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312220032 +0000" stop="20260312222903 +0000">
-    <title>A Chef's Life</title>
-    <sub-title>One Potato, New Potato</sub-title>
-    <episode-num system="onscreen">S03E13</episode-num>
-    <desc>Vivian judges the Southern Sides competition at the annual BBQ Festival.</desc>
-    <date>20151128</date>
-    <icon src="https://image.tmdb.org/t/p/original/vIfFUaJQ9YpmdaZAIafGJ23dWjC.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312222903 +0000" stop="20260312233121 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313013013 +0000" stop="20260313023240 +0000">
     <title>I'll Have What Phil's Having</title>
-    <sub-title>Tokyo</sub-title>
+    <sub-title>Hong Kong</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Join Phil as he puts his palate to the test, trying the unknown and exploring the city.</desc>
+    <date>20151019</date>
+    <icon src="https://image.tmdb.org/t/p/original/mmSFkDLtMcd6CrG1bH7cJbAfrNR.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313023240 +0000" stop="20260313033504 +0000">
+    <title>I'll Have What Phil's Having</title>
+    <sub-title>Barcelona</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Explore this city with Phil, where no one ever sleeps--and also where they always eat.</desc>
+    <date>20151026</date>
+    <icon src="https://image.tmdb.org/t/p/original/7edcEUgU7iB6FiOsjETmJhd1t9s.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313033504 +0000" stop="20260313043731 +0000">
+    <title>I'll Have What Phil's Having</title>
+    <sub-title>Los Angeles</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Join Phil and friends as he visits the culinary gems of his own SoCal backyard.</desc>
+    <date>20151102</date>
+    <icon src="https://image.tmdb.org/t/p/original/coXXCeDkZpo40YtGryzhCifHVnW.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313043731 +0000" stop="20260313051112 +0000">
+    <title>The French Chef</title>
+    <sub-title>Chicken In Cocotte</sub-title>
+    <episode-num system="onscreen">S05E02</episode-num>
+    <desc>After a butter massage, this chicken takes a steam-bath in herbs in the French manner.</desc>
+    <date>19651211</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheFrenchChef_1920x1080_BKGD.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313051112 +0000" stop="20260313054422 +0000">
+    <title>The French Chef</title>
+    <sub-title>Queen Of Sheba Cake</sub-title>
+    <episode-num system="onscreen">S05E03</episode-num>
+    <desc>The chocolate, butter, rum and almond Reine de Saba is the best chocolate cake ever.</desc>
+    <date>19651218</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheFrenchChef_1920x1080_BKGD.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313054422 +0000" stop="20260313061807 +0000">
+    <title>The French Chef</title>
+    <sub-title>To Poach Sole Filets</sub-title>
+    <episode-num system="onscreen">S05E04</episode-num>
+    <desc>All the great French fish dishes are possible once you can cook sole in white wine.</desc>
+    <date>19660101</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheFrenchChef_1920x1080_BKGD.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313061807 +0000" stop="20260313065152 +0000">
+    <title>The French Chef</title>
+    <sub-title>Chop Dinner In Half An Hour</sub-title>
+    <episode-num system="onscreen">S05E05</episode-num>
+    <desc>A dressy dinner in a hurry: Consomme Madrilene, pork chops, and Pots de Creme au Chocolat.</desc>
+    <date>19660115</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheFrenchChef_1920x1080_BKGD.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313065152 +0000" stop="20260313072548 +0000">
+    <title>The French Chef</title>
+    <sub-title>Filet Of Beef Wellington</sub-title>
+    <episode-num system="onscreen">S05E06</episode-num>
+    <desc>The perfect main for a party: tenderloin with wine and mushrooms, baked in a pastry crust.</desc>
+    <date>19660122</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheFrenchChef_1920x1080_BKGD.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313072548 +0000" stop="20260313075938 +0000">
+    <title>The French Chef</title>
+    <sub-title>Apple Charlotte</sub-title>
+    <episode-num system="onscreen">S05E07</episode-num>
+    <desc>Julia Child bakes up rum and apricot marmalade of apples served in a toasty, buttery case.</desc>
+    <date>19660129</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheFrenchChef_1920x1080_BKGD.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313075938 +0000" stop="20260313083251 +0000">
+    <title>The French Chef</title>
+    <sub-title>More Great Beginnings</sub-title>
+    <episode-num system="onscreen">S05E08</episode-num>
+    <desc>Two crab appetizers, one with wine and herbs, the other with herbs and mayonnaise.</desc>
+    <date>19660205</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheFrenchChef_1920x1080_BKGD.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313083251 +0000" stop="20260313090641 +0000">
+    <title>The French Chef</title>
+    <sub-title>Roast Suckling Pig</sub-title>
+    <episode-num system="onscreen">S05E09</episode-num>
+    <desc>Julia Child tells all about stuffing, roasting, carving, and serving a whole suckling pig.</desc>
+    <date>19660212</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheFrenchChef_1920x1080_BKGD.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313090641 +0000" stop="20260313093523 +0000">
+    <title>How She Rolls</title>
+    <sub-title>Beginnings &amp; Endings</sub-title>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <desc>Carrie decides on a new bakery, and her oldest daughter makes a choice for her future.</desc>
+    <date>20221107</date>
+    <icon src="https://artworks.thetvdb.com/banners/v4/episode/9449346/screencap/636d8612697d3.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313093523 +0000" stop="20260313100401 +0000">
+    <title>How She Rolls</title>
+    <sub-title>A Very Carrie Christmas</sub-title>
+    <episode-num system="onscreen">S02E10</episode-num>
+    <desc>Carrie gets in the holiday spirit while balancing a crazy schedule.</desc>
+    <date>20221114</date>
+    <icon src="https://artworks.thetvdb.com/banners/v4/episode/9457412/screencap/63744d0862fb7.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313100401 +0000" stop="20260313103439 +0000">
+    <title>Taco Mafia</title>
+    <sub-title>Familia</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Follow Phil as he searches for the foods that make Tokyo a culinary capital.</desc>
-    <date>20150928</date>
-    <icon src="https://image.tmdb.org/t/p/original/lPhl5JKR5HhMZfooKNtKHGXKERg.jpg" />
+    <desc>Meet the members of the Taco Mafia and learn how their youth shaped who they are today.</desc>
+    <date>20231009</date>
+    <icon src="https://artworks.thetvdb.com/banners/v4/episode/10238036/screencap/659f2e9c3b1da.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260312233121 +0000" stop="20260313003347 +0000">
-    <title>I'll Have What Phil's Having</title>
-    <sub-title>Italy</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313103439 +0000" stop="20260313110518 +0000">
+    <title>Taco Mafia</title>
+    <sub-title>Amor</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Join Phil as he revisits this food mecca and creates new memories with friends and chefs.</desc>
-    <date>20151005</date>
-    <icon src="https://image.tmdb.org/t/p/original/yikCxn6jMIhu1Q1FJV3q5KU2vYv.jpg" />
+    <desc>Edgar &amp; Sara’s love story; Beto balances work and parenting; Anthony &amp; Xose host a BBQ.</desc>
+    <date>20231016</date>
+    <icon src="https://artworks.thetvdb.com/banners/v4/episode/10238037/screencap/659f2ec025977.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313110518 +0000" stop="20260313113556 +0000">
+    <title>Taco Mafia</title>
+    <sub-title>Tradicion</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Edgar and Sara fly to Oaxaca; Beto tours a tortilleria; Anthony and Xose get lunch.</desc>
+    <date>20231023</date>
+    <icon src="https://artworks.thetvdb.com/banners/v4/episode/10238038/screencap/659f2efe12b25.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313113556 +0000" stop="20260313120634 +0000">
+    <title>Taco Mafia</title>
+    <sub-title>Inspiracion</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Edgar and Sara explore Oaxaca; Beto visits taquerias; Discada has a pop-up in Houston.</desc>
+    <date>20231030</date>
+    <icon src="https://artworks.thetvdb.com/banners/v4/episode/10238039/screencap/659f2f3239f53.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313120634 +0000" stop="20260313123714 +0000">
+    <title>Taco Mafia</title>
+    <sub-title>Supervivencia</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Edgar and Sara recap their wedding; Beto discusses health issues; Discada hosts a pop-up.</desc>
+    <date>20231106</date>
+    <icon src="https://artworks.thetvdb.com/banners/v4/episode/10238040/screencap/659f2f5672f48.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313123714 +0000" stop="20260313130754 +0000">
+    <title>Taco Mafia</title>
+    <sub-title>Sacrificio</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>The Taco Mafia reflects on how they support each other through catastrophic life events.</desc>
+    <date>20231113</date>
+    <icon src="https://artworks.thetvdb.com/banners/v4/episode/10238041/screencap/659f2f912b79b.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313130754 +0000" stop="20260313133834 +0000">
+    <title>Taco Mafia</title>
+    <sub-title>Comunidad</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Sara stocks the Free Fridge; Beto buys a new trailer; Discada hosts an anniversary party.</desc>
+    <date>20231120</date>
+    <icon src="https://artworks.thetvdb.com/banners/v4/episode/10238042/screencap/659f2ff463f51.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313133834 +0000" stop="20260313140914 +0000">
+    <title>Taco Mafia</title>
+    <sub-title>Legado</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>The Taco Mafia discuss Winter Storm Uri; U.S. Representative Greg Casar visits Discada.</desc>
+    <date>20231127</date>
+    <icon src="https://artworks.thetvdb.com/banners/v4/episode/10238043/screencap/659f301595245.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313140914 +0000" stop="20260313143808 +0000">
+    <title>In Julia's Kitchen with Master Chefs</title>
+    <sub-title>Jody Adams and Joachim Splichal</sub-title>
+    <episode-num system="onscreen">S01E35</episode-num>
+    <desc>Jody Adams creates carta musica and Joachim Splichal prepares mushroom potato lasagna.</desc>
+    <date>19951125</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f106bdd1ac4098b5852abe543189ec9b.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313143808 +0000" stop="20260313150701 +0000">
+    <title>In Julia's Kitchen with Master Chefs</title>
+    <sub-title>Mark Militello</sub-title>
+    <episode-num system="onscreen">S01E36</episode-num>
+    <desc>Mark Militello creates grilled pork tenderloin with Jamaican spices.</desc>
+    <date>19960309</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_InJuliasKitchenwithMasterChefs_1920x1080_BKGD.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313150701 +0000" stop="20260313153554 +0000">
+    <title>In Julia's Kitchen with Master Chefs</title>
+    <sub-title>Zarela Martinez and Jasper White</sub-title>
+    <episode-num system="onscreen">S01E37</episode-num>
+    <desc>Jasper White creates sweet corn fritters; Zarela Martinez makes poblanos chiles rellenos.</desc>
+    <date>19951209</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c3e214ae6789e4e9d0170c97ae13f4e4.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313153554 +0000" stop="20260313160447 +0000">
+    <title>In Julia's Kitchen with Master Chefs</title>
+    <sub-title>Alfred Portale</sub-title>
+    <episode-num system="onscreen">S01E38</episode-num>
+    <desc>Alfred Portale prepares Muscovy duck breast with Chinese spices.</desc>
+    <date>19960323</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_InJuliasKitchenwithMasterChefs_1920x1080_BKGD.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313160447 +0000" stop="20260313170524 +0000">
+    <title>Somewhere South</title>
+    <sub-title>American as Hand Pie</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Follow Vivian as she learns the historical ties between hand pies, labor and migration.</desc>
+    <date>20200327</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/76c8bbe337cddc4c1016f1c5f9d3ca72.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313170524 +0000" stop="20260313180603 +0000">
+    <title>Somewhere South</title>
+    <sub-title>Porridge for the Soul</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Join Vivian as she honors African American contributions to Southern food.</desc>
+    <date>20200403</date>
+    <icon src="https://artworks.thetvdb.com/banners/series/374498/episodes/5e7e3b89ef307.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313180603 +0000" stop="20260313190641 +0000">
+    <title>Somewhere South</title>
+    <sub-title>Dumpling Dilemma</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Vivian learns about how dumplings stretch ingredients and imaginations.</desc>
+    <date>20200410</date>
+    <icon src="https://artworks.thetvdb.com/banners/series/374498/episodes/5e7e3bb40139d.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313190641 +0000" stop="20260313200718 +0000">
+    <title>Somewhere South</title>
+    <sub-title>What a Pickle</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Vivian gives a lecture on chow chow, then dives into other pickled dishes.</desc>
+    <date>20200417</date>
+    <icon src="https://artworks.thetvdb.com/banners/series/374498/episodes/5e7e3bdba3a51.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313200718 +0000" stop="20260313210756 +0000">
+    <title>Somewhere South</title>
+    <sub-title>It’s a Greens Thing</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Travel with Vivian from North Carolina to Georgia to learn the goodness greens provide</desc>
+    <date>20200424</date>
+    <icon src="https://artworks.thetvdb.com/banners/series/374498/episodes/5e7e3c03e3eb2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313210756 +0000" stop="20260313220835 +0000">
+    <title>Somewhere South</title>
+    <sub-title>How Do You ‘Cue?</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Vivian visits Florida and Texas to expand her idea of what barbecue is and how it’s done.</desc>
+    <date>20200501</date>
+    <icon src="https://artworks.thetvdb.com/banners/series/374498/episodes/5e7e3eb8c46c7.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313220835 +0000" stop="20260313223724 +0000">
+    <title>The Complete Pépin</title>
+    <sub-title>Basic Knife Skills</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Sharpening knives; chopping parsley and basil; peeling and chopping onions.</desc>
+    <date>20250904</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheCompletePpin_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313223724 +0000" stop="20260313230607 +0000">
+    <title>The Complete Pépin</title>
+    <sub-title>Vegetables and More</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Slicing bread; preparing and cooking asparagus; peeling and preparing tomatoes.</desc>
+    <date>20250904</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheCompletePpin_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313230607 +0000" stop="20260313233443 +0000">
+    <title>The Complete Pépin</title>
+    <sub-title>Pots, Pans and the Perfect Egg</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Selecting pots and pans; breaking and hard-cooking eggs; making mayonnaise.</desc>
+    <date>20250904</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheCompletePpin_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260313233443 +0000" stop="20260314000303 +0000">
+    <title>The Complete Pépin</title>
+    <sub-title>Shellfish</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Shelling prawns and shrimp; opening oysters and clams; cleaning mussels; mussel pilaf.</desc>
+    <date>20250904</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheCompletePpin_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260314000303 +0000" stop="20260314003116 +0000">
+    <title>The Complete Pépin</title>
+    <sub-title>Working with Fish</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Filleting sole and salmon; rolling a paupiette; preparing a gravlax; serving a carpaccio.</desc>
+    <date>20250904</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheCompletePpin_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260314003116 +0000" stop="20260314005904 +0000">
+    <title>The Complete Pépin</title>
+    <sub-title>Lamb &amp; Veal</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Trussing lamb; preparing veal steaks; breading veal; preparing Wiener Schnitzel.</desc>
+    <date>20250904</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheCompletePpin_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260314005904 +0000" stop="20260314012808 +0000">
+    <title>The Complete Pépin</title>
+    <sub-title>Preparing Chicken</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Preparing chicken for the grill; boning and stuffing chicken; trussing chicken.</desc>
+    <date>20250904</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheCompletePpin_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260314012808 +0000" stop="20260314015559 +0000">
+    <title>The Complete Pépin</title>
+    <sub-title>Gravies, Carving and Wine</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Carving a chicken and turkey; making stock and gravy; handling wine and champagne.</desc>
+    <date>20250904</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheCompletePpin_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" start="20260314015559 +0000" stop="20260314022423 +0000">
+    <title>The Complete Pépin</title>
+    <sub-title>Fruit &amp; Vegetable Decoration</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Vegetable decorations; glazing with aspic; fluting mushrooms; peeling apples and pears.</desc>
+    <date>20250904</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_TheCompletePpin_16x9.jpg" />
   </programme>
   
 </tv>
