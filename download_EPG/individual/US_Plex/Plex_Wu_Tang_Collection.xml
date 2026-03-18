@@ -5,149 +5,127 @@
     <icon src="https://provider-static.plex.tv/epg/images/ott_channels/logos/wu-tang-collection.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260317002602 +0000" stop="20260317012602 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260318014324 +0000" stop="20260318030310 +0000">
+    <title>Warriors of Budo</title>
+    <sub-title>Warriors of Budo Episode Three: Aikido</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>An exploration of Aikido through the words and actions of some of the top masters teaching today.</desc>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM05IFU5KU2GXO/1280x720.jpg?fb=https%253A%252F%252Fimage.xumo.com%252Fv1%252Fchannels%252Fchannel%252F88889484%252F1280x720.jpg%253Ftype%253DtrcChannelTile" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260318030310 +0000" stop="20260318045925 +0000">
+    <title>Horse Boxing Killer</title>
+    <category>Movie</category>
+    <desc>A handsome fighter and a beautiful warrior combine forces to learn horse boxing from a master.</desc>
+    <date>19790101</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/02e3ed92676b9e345e600e1fd15db65a.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260318045925 +0000" stop="20260318064544 +0000">
+    <title>Kickboxer King</title>
+    <category>Movie</category>
+    <desc>Retired kickboxers return to the ring for one final clash.</desc>
+    <date>19911011</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0f1b6ab377ed0a908a766d89a4640ff3.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260318064544 +0000" stop="20260318083030 +0000">
+    <title>Shaolin Invincibles</title>
+    <category>Movie</category>
+    <desc>A kung-fu master's five disciples set out to restore peace to warring states.</desc>
+    <date>19770101</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/368135e2e57d2a6ea4c350615cd80fa8.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260318083030 +0000" stop="20260318102229 +0000">
+    <title>Dance of the Drunk Mantis</title>
+    <category>Movie</category>
+    <desc>Martial-arts master Sam the Seed (Simon Yuen) battles his enemy Rubber Legs.</desc>
+    <date>19790627</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/726cff9f14422901ccf8297cc5e29315.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260318102229 +0000" stop="20260318120632 +0000">
+    <title>Born Invincible</title>
+    <category>Movie</category>
+    <desc>Master Lui Ping's daughter, Yin Yin, trains for three years to avenge his death.</desc>
+    <date>19780101</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f185a81151908adab16125c25914911a.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260318120632 +0000" stop="20260318140155 +0000">
+    <title>Return of the Red Tiger</title>
+    <category>Movie</category>
+    <desc>A kung-fu fighter (Bruce Le) thwarts spy gangs vying for microfilm.</desc>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0RON2EZEHLLE/720x1080.jpg?fb=https%253A%252F%252Fimage.xumo.com%252Fv1%252Fchannels%252Fchannel%252F88889484%252F720x1080.jpg%253Ftype%253DtrcChannelTile2x3" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260318140155 +0000" stop="20260318154057 +0000">
+    <title>Golden Ninja Warrior</title>
+    <category>Movie</category>
+    <desc>Michael and Sherri, each on distinct missions, unite to confront a common enemy.</desc>
+    <date>19860101</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0be0ea5fdc46d9f8389f84e8dc46ea66.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260318154057 +0000" stop="20260318173150 +0000">
+    <title>Ninja the Violent Sorcerer: Sho Kosugi Ninja Theatre Vol. 7</title>
+    <category>Movie</category>
+    <desc>A murderer and Chinese vampires battle the ghost of a gambling lord's wife.</desc>
+    <date>19820101</date>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/188d0eccc84502a22294ac4aa91706b7.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260318173150 +0000" stop="20260318183150 +0000">
     <title>Wu Tang Collection</title>
     <category>Movie</category>
     <desc>The Wu Tang Collection is dedicated to sharing and preserving some of the most unique Martial Arts films in Asian cinema history.</desc>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/wu-tang-collection.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260317012602 +0000" stop="20260317014458 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260318183150 +0000" stop="20260318193150 +0000">
     <title>Wu Tang Collection</title>
     <category>Movie</category>
     <desc>The Wu Tang Collection is dedicated to sharing and preserving some of the most unique Martial Arts films in Asian cinema history.</desc>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/wu-tang-collection.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260317014458 +0000" stop="20260317033215 +0000">
-    <title>Commando the Ninja</title>
-    <category>Movie</category>
-    <desc>Russians, a Chinese terrorist group and a Japanese ninja try to capture a scientist.</desc>
-    <date>19881216</date>
-    <icon src="https://image.tmdb.org/t/p/original/6x44lT84sxw9GWbQlZQJAqJ5WGH.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260317033215 +0000" stop="20260317050140 +0000">
-    <title>The Iron Profligate</title>
-    <category>Movie</category>
-    <desc>A man investigates on the death of his friend, killed by the henchmen of a casino big boss.</desc>
-    <date>19740201</date>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/ea1378c68d8814b8848c77815acbdf77.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260317050140 +0000" stop="20260317065421 +0000">
-    <title>Ninja in Action</title>
-    <category>Movie</category>
-    <desc>A ninja fighter and his girlfriend search for the man who murdered her father and stole diamonds.</desc>
-    <date>19870516</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/48704665b5bf8c85ed1730c95e73eb39.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260317065421 +0000" stop="20260317085455 +0000">
-    <title>Young Hero of Shaolin Pt. 2</title>
-    <category>Movie</category>
-    <desc>Fong Sai Yuk uses his Shaolin skills to defeat his enemies.</desc>
-    <date>19731010</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/ba5e0c078c08fd2c6378b3e926ec1232.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260317085455 +0000" stop="20260317104826 +0000">
-    <title>Shaolin vs Lama</title>
-    <category>Movie</category>
-    <desc>Martial artists launch a high-kicking duel in defense of the Shaolin temple.</desc>
-    <date>19830101</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6cbfde5698e33ea5ae07664a60022e15.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260317104826 +0000" stop="20260317123703 +0000">
-    <title>Phoenix the Ninja</title>
-    <category>Movie</category>
-    <desc>An orphaned girl becomes a master fighter to avenge her family and uncovers an evil monk's plot.</desc>
-    <date>19810606</date>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/2d423ee1aa2c1a6f759a57a0dd3f5011.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260317123703 +0000" stop="20260317133703 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260318193150 +0000" stop="20260318201711 +0000">
     <title>Wu Tang Collection</title>
     <category>Movie</category>
     <desc>The Wu Tang Collection is dedicated to sharing and preserving some of the most unique Martial Arts films in Asian cinema history.</desc>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/wu-tang-collection.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260317133703 +0000" stop="20260317143215 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260318201711 +0000" stop="20260318220431 +0000">
+    <title>Ninja Operation 4 - Thunderbolt Angels aka Ninja Powerforce</title>
+    <category>Movie</category>
+    <desc>Two childhood buddies are caught on opposite sides of a deadly gang war.</desc>
+    <date>19880206</date>
+    <icon src="https://image.tmdb.org/t/p/original/eFFtCdHZLt82Zg7pO3tOB0sFYOw.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260318220431 +0000" stop="20260318235731 +0000">
+    <title>Master of Death aka Revenge of a Shaolin Kid</title>
+    <category>Movie</category>
+    <desc>After 18 years of training with a Shaolin monk, Chow goes home seeking revenge for his dead family.</desc>
+    <date>19780101</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f1d05a93be496cd15e16689991ab6514.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260318235731 +0000" stop="20260319020053 +0000">
+    <title>Shaolin Tamo Systique</title>
+    <category>Movie</category>
+    <desc>A young woman becomes a great fighter with powerful kung fu skills and fights against her enemies.</desc>
+    <date>19770408</date>
+    <icon src="https://image.tmdb.org/t/p/original/ecdg1BrySDIsT62SUo0AGgtG5gJ.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260319020053 +0000" stop="20260319030053 +0000">
     <title>Wu Tang Collection</title>
     <category>Movie</category>
     <desc>The Wu Tang Collection is dedicated to sharing and preserving some of the most unique Martial Arts films in Asian cinema history.</desc>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/wu-tang-collection.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260317143215 +0000" stop="20260317161353 +0000">
-    <title>Chivalrous Inn</title>
-    <category>Movie</category>
-    <desc>Patriotic sword fighters clash at the Martial Inn.</desc>
-    <date>19770710</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/443b631337c7c2494ea853adc0a0ef8d.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260317161353 +0000" stop="20260317175544 +0000">
-    <title>Super Ninja</title>
-    <category>Movie</category>
-    <desc>A maverick cop unravels an international conspiracy involving a scientist and a secret formula.</desc>
-    <date>19840601</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b86bed4c48d7d85a7b71c32fa13127fb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260317175544 +0000" stop="20260317181945 +0000">
-    <title>52 Masters</title>
-    <sub-title>52 Masters: LOOKING BACK: Eps. 1-10</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Will takes a look back at what he's learned so far- both on and off the training mat.</desc>
-    <date>20181118</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMmIwMjdkZjItOTlhMC00ZmI2LThhOGMtZmRhYzE1MzdmY2I4XkEyXkFqcGc@._V1_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260317181945 +0000" stop="20260317191945 +0000">
-    <title>Wu Tang Collection</title>
-    <category>Movie</category>
-    <desc>The Wu Tang Collection is dedicated to sharing and preserving some of the most unique Martial Arts films in Asian cinema history.</desc>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/wu-tang-collection.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260317191945 +0000" stop="20260317201945 +0000">
-    <title>Wu Tang Collection</title>
-    <category>Movie</category>
-    <desc>The Wu Tang Collection is dedicated to sharing and preserving some of the most unique Martial Arts films in Asian cinema history.</desc>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/wu-tang-collection.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260317201945 +0000" stop="20260317211945 +0000">
-    <title>Wu Tang Collection</title>
-    <category>Movie</category>
-    <desc>The Wu Tang Collection is dedicated to sharing and preserving some of the most unique Martial Arts films in Asian cinema history.</desc>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/wu-tang-collection.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260317211945 +0000" stop="20260317221540 +0000">
-    <title>Wu Tang Collection</title>
-    <category>Movie</category>
-    <desc>The Wu Tang Collection is dedicated to sharing and preserving some of the most unique Martial Arts films in Asian cinema history.</desc>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/wu-tang-collection.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260317221540 +0000" stop="20260317235926 +0000">
-    <title>Legendary Strike</title>
-    <category>Movie</category>
-    <desc>Two martial artists are hired to transport an Asian emperor's treasure through dangerous territory.</desc>
-    <date>19781130</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/069622a858b226c09351689d94e8762f.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" start="20260317235926 +0000" stop="20260318014324 +0000">
-    <title>Brave Platoon aka American Force 1: The Brave Platoon</title>
-    <category>Movie</category>
-    <desc>A group of soldiers goes deep behind enemy lines to stop a Soviet warmonger.</desc>
-    <date>19870609</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9ee06c590cc81c45031a4fed249f93b8.jpg" />
   </programme>
   
 </tv>
