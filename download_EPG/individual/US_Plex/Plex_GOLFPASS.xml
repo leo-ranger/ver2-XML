@@ -5,398 +5,413 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/8639a81b-d79c-4a70-8034-26edfb0e13bc/golfpass-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321000400 +0000" stop="20260321005400 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322004000 +0000" stop="20260322013000 +0000">
     <title>Highway 18</title>
-    <sub-title>The Journey Begins</sub-title>
+    <sub-title>The Spotlight</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Starting their day at the Golf Channel studios in Orlando, Florida, each team gets a shot at hosting a highlight package for the PODS Championship at Innisbrook Resort.</desc>
+    <date>20080826</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c85df7daeeef4ea112d7c295240469bc.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322013000 +0000" stop="20260322022000 +0000">
+    <title>Highway 18</title>
+    <sub-title>Golf History</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>The teams vie for a set of antique clubs and race to Florida's first golf club for an old school short game challenge.</desc>
+    <date>20080902</date>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/5f066f1a04f6caafedff3c00e65875d7.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322022000 +0000" stop="20260322024500 +0000">
+    <title>School of Golf</title>
+    <sub-title>Chapter 5: Iconic Shots</sub-title>
+    <episode-num system="onscreen">S12E05</episode-num>
+    <desc>Martin Hall and Blair O'Neal teach how to recreate iconic shots hit by winners of the Arnold Palmer Invitational. Martin also shares tips to improve ball striking from Arnold Palmer.</desc>
+    <date>20220228</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/2574d20798c2b8f5658f2b6752de383a.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322024500 +0000" stop="20260322031000 +0000">
+    <title>School of Golf</title>
+    <sub-title>Chapter 6: Slice Stoppers</sub-title>
+    <episode-num system="onscreen">S12E06</episode-num>
+    <desc>The biggest keys to stopping the slice and improving the backswing featuring a drill using a basketball and a tip from Nick Faldo. LPGA winner Matilda Castren demonstrates what she does in practice before every tournament to prevent slicing the ball.</desc>
+    <date>20220315</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6fad0324b6f15b90801d3e27d86a16f3.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322031000 +0000" stop="20260322033500 +0000">
+    <title>School of Golf</title>
+    <sub-title>Chapter 7: Putting Pointers</sub-title>
+    <episode-num system="onscreen">S12E07</episode-num>
+    <desc>Martin Hall and Blair O'Neal share putting pointers from the game's best players. Learn how to control speed on the greens like Tiger Woods, improve balance like Jack Nicklaus, square the putter face, and find the right putting grip.</desc>
+    <date>20220321</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/ee1099a4ebf84b396aab0983ecb58492.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322033500 +0000" stop="20260322040000 +0000">
+    <title>School of Golf</title>
+    <sub-title>Chapter 8: Majors Unclassified</sub-title>
+    <episode-num system="onscreen">S12E08</episode-num>
+    <desc>Martin Hall and Blair O'Neal share ball striking secrets from Masters Champions and Chevron Championship winners. Learn tips for working the ball used by Jack Nicklaus, Tiger Woods, Dustin Johnson, and Hideki Matsuyama.</desc>
+    <date>20220328</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/853a90dc7e808bca0691e747a070fcd0.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322040000 +0000" stop="20260322042500 +0000">
+    <title>School of Golf</title>
+    <sub-title>Chapter 9: The Scoring Zone</sub-title>
+    <episode-num system="onscreen">S12E09</episode-num>
+    <desc>Martin Hall and Blair O'Neal teach how to go low in the scoring zone. Learn to stick wedge shots with lessons on solid contact, swing path, trajectory control, and distance control. Martin also shares wedge play advice from Open Champion Shane Lowry.</desc>
+    <date>20220425</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/2d44d83ee4c1ca100154f44da77480a8.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322042500 +0000" stop="20260322044900 +0000">
+    <title>Golf Channel Academy</title>
+    <sub-title>Stewart Cink - Full Swing</sub-title>
+    <episode-num system="onscreen">S24E19</episode-num>
+    <desc>One of Georgia Tech's most accomplished golfers Stewart Cink, visits his alma mater's new practice facility, The Noonan, to discuss all things full swing with Brian Bateman.</desc>
+    <date>20181002</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/cbb967f90b8e88152654a6a477ea0354.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322044900 +0000" stop="20260322051500 +0000">
+    <title>Golf Channel Academy</title>
+    <sub-title>Stewart Cink - Short Game</sub-title>
+    <episode-num system="onscreen">S24E20</episode-num>
+    <desc>Stewart Cink, 2009 Open Champion, visits his alma mater's new practice facility to discuss all things short game with Brian Bateman.</desc>
+    <date>20181009</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/022ca6c18bce21b2e3117051154dbb5a.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322051500 +0000" stop="20260322054000 +0000">
+    <title>Golf Channel Academy</title>
+    <sub-title>Stewart Cink - Putting</sub-title>
+    <episode-num system="onscreen">S24E21</episode-num>
+    <desc>From Georgia Tech's new practice facility, The Noonan, Stewart Cink discusses the putting drills, tips and lessons learned over his 20-plus year career.</desc>
+    <date>20181016</date>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b01e8637b48199238a76b5d8bf3c3022.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322054000 +0000" stop="20260322060500 +0000">
+    <title>School of Golf</title>
+    <sub-title>Chapter 10: Total Driving</sub-title>
+    <episode-num system="onscreen">S12E10</episode-num>
+    <desc>Martin Hall and Blair O'Neal teach how to hit the driver longer and straighter. Learn tips used by Rory McIlroy, Ernie Els, John Daly and more of the game's best all-around drivers. Martin also reveals how to setup for success on the tee.</desc>
+    <date>20220502</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3633b43b3cda27a19b54ec685cc374f2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322060500 +0000" stop="20260322063000 +0000">
+    <title>School of Golf</title>
+    <sub-title>Chapter 11: Lone Star Lessons</sub-title>
+    <episode-num system="onscreen">S12E11</episode-num>
+    <desc>Martin Hall and Blair O'Neal reveal what to learn from the game's greatest Texans.Martin teaches a swing move of solid contact used by Byron Nelson, Ben Hogan,Lee Trevino, and Scottie Scheffler.</desc>
+    <date>20220509</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322063000 +0000" stop="20260322065500 +0000">
+    <title>School of Golf</title>
+    <sub-title>Chapter 12: Sharpen Your Irons</sub-title>
+    <episode-num system="onscreen">S12E12</episode-num>
+    <desc>Martin Hall and Blair O'Neal give a road map to hit solid iron shots. Learn how to achieve impact while also improving arm structure and swing path. LPGA winner Gaby Lopez joins Martin &amp; Blair on the range to reveal her favorite iron play drills.</desc>
+    <date>20220620</date>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/188c40ab76ed5ef517da9d377f0ed41a.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322065500 +0000" stop="20260322070500 +0000">
+    <title>Golf Central</title>
+    <sub-title>Golf Central</sub-title>
+    <episode-num system="onscreen">S2026E73</episode-num>
+    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
+    <date>20260322</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322070500 +0000" stop="20260322071500 +0000">
+    <title>Golf Central</title>
+    <sub-title>Golf Central</sub-title>
+    <episode-num system="onscreen">S2026E73</episode-num>
+    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
+    <date>20260322</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322071500 +0000" stop="20260322072500 +0000">
+    <title>Golf Central</title>
+    <sub-title>Golf Central</sub-title>
+    <episode-num system="onscreen">S2026E73</episode-num>
+    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
+    <date>20260322</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322072500 +0000" stop="20260322075000 +0000">
+    <title>School of Golf</title>
+    <sub-title>Chapter 13: Ball Flight Commander</sub-title>
+    <episode-num system="onscreen">S12E13</episode-num>
+    <desc>Martin Hall and Blair O'Neal demonstrate how to become a ball flight commander. Learn how to hit powerful draws like Rory McIlroy, hit controlled fades like Collin Morikawa, and hit the low stinger like Tiger Woods.</desc>
+    <date>20220627</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322075000 +0000" stop="20260322081600 +0000">
+    <title>School of Golf</title>
+    <sub-title>Chapter 14: The Open</sub-title>
+    <episode-num system="onscreen">S12E14</episode-num>
+    <desc>Martin Hall and Blair O'Neal teach the shots made famous by Open Champions at St. Andrews. Learn how to hit powerful draws like Tiger Woods, escape the rough like Seve Ballesteros, and stick wedges like John Daly.</desc>
+    <date>20220704</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322081600 +0000" stop="20260322084000 +0000">
+    <title>School of Golf</title>
+    <sub-title>Chapter 15: Power Up</sub-title>
+    <episode-num system="onscreen">S12E15</episode-num>
+    <desc>Martin Hall and Blair O'Neal teach how to maximize power like the game's longest drivers. Martin explains how baseball and boxing can translate into a more powerful golf swing.</desc>
+    <date>20220718</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322084000 +0000" stop="20260322090600 +0000">
+    <title>School of Golf</title>
+    <sub-title>Chapter 16: Right or Rubbish</sub-title>
+    <episode-num system="onscreen">S12E16</episode-num>
+    <desc>Martin Hall and Blair O'Neal teach the truth behind some of golf's greatest swing myths. Learn how to grip the club properly like Tiger Woods, hit more accurate irons like Padraig Harrington, and use Elvis Presley to add more distance.</desc>
+    <date>20220725</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322090600 +0000" stop="20260322093100 +0000">
+    <title>Martin Chuck: Breaking 90</title>
+    <sub-title>Martin Chuck Part 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>After finding their car keys hidden within the thick walls of the Castillo de San Marcos in St. Augustine, Florida, the teams scurry to their first golf challenge at the World Golf Hall of Fame.</desc>
-    <date>20080722</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/66fe72eb064e35c6bd323e1b6ed4cee6.jpg" />
+    <desc>Martin Chuck teaches how to correct the driver and iron swing mistakes keeping players from breaking 90.</desc>
+    <date>20210111</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8eafa1f8e404dcf9826a0f216e240871.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321005400 +0000" stop="20260321014400 +0000">
-    <title>Highway 18</title>
-    <sub-title>The Swamp</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322093100 +0000" stop="20260322095600 +0000">
+    <title>Martin Chuck: Breaking 90</title>
+    <sub-title>Martin Chuck Part 2</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
-    <desc>It's a race against time and each other, as five teams of two find their way out of an alligator infested Florida swamp to the University of Florida football field for an unexpected chipping challenge.</desc>
-    <date>20080729</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/fe1e9807bd42496252ee9c108927b521.jpg" />
+    <desc>Martin Chuck shares his five keys to putting and teaches short game tips to help players break 90.</desc>
+    <date>20210111</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/40191075cdb4ed8e053e41d5ead89fa2.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321014400 +0000" stop="20260321023400 +0000">
-    <title>Highway 18</title>
-    <sub-title>Off to the Races</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>The teams face an extraordinary "dogleg" tee shot around the first turn of an Ocala, Florida, horse track.</desc>
-    <date>20080812</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/897c08af2a5dbffc7faed4fb558efd5b.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322095600 +0000" stop="20260322100600 +0000">
+    <title>Golf Central</title>
+    <sub-title>Golf Central</sub-title>
+    <episode-num system="onscreen">S2026E73</episode-num>
+    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
+    <date>20260322</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321023400 +0000" stop="20260321030000 +0000">
-    <title>Golf Channel Academy</title>
-    <sub-title>Annika Sorenstam -- Short Game</sub-title>
-    <episode-num system="onscreen">S25E22</episode-num>
-    <desc>Golf legend Annika Sorenstam shares her thought process and technique for shots around the green including pitches and chip shots.</desc>
-    <date>20191028</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1ad224d7cfde324c138f6ae3da8a96a0.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322100600 +0000" stop="20260322101600 +0000">
+    <title>Golf Central</title>
+    <sub-title>Golf Central</sub-title>
+    <episode-num system="onscreen">S2026E73</episode-num>
+    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
+    <date>20260322</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321030000 +0000" stop="20260321032500 +0000">
-    <title>Golf Channel Academy</title>
-    <sub-title>Annika Sorenstam -- Full Swing</sub-title>
-    <episode-num system="onscreen">S25E23</episode-num>
-    <desc>Golf legend Annika Sorenstam shares her process for ball striking, from setup to in-swing fundamentals. Also, Annika demonstrates how to hit the driver longer or straighter based on the situation.</desc>
-    <date>20191104</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/82faabc9654b31fa8fae1ad745ed3640.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322101600 +0000" stop="20260322110600 +0000">
+    <title>The Big Break</title>
+    <sub-title>Hit the Ground Running</sub-title>
+    <episode-num system="onscreen">S09E01</episode-num>
+    <desc>The 12 competitors arrive and are immediately faced with a challenge that they've never experienced before.</desc>
+    <date>20080415</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/448a396f6631df09b5a026bffde03e77.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321032500 +0000" stop="20260321035000 +0000">
-    <title>Golf Channel Academy</title>
-    <sub-title>Annika Sorenstam -- Mental Focus</sub-title>
-    <episode-num system="onscreen">S25E24</episode-num>
-    <desc>Annika Sorenstam discusses how she controlled her nerves to perform under pressure.</desc>
-    <date>20191111</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/babf8d7d60bc08d75ea440f45d373772.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322110600 +0000" stop="20260322115500 +0000">
+    <title>The Big Break</title>
+    <sub-title>Reliable Roommate Needed</sub-title>
+    <episode-num system="onscreen">S09E02</episode-num>
+    <desc>Alliances are formed and a dispute erupts among competitors.</desc>
+    <date>20080422</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/203798358c218c045ecf76de7fa1c78e.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321035000 +0000" stop="20260321041600 +0000">
-    <title>Golf Channel Academy</title>
-    <sub-title>Rocco Mediate - Full Swing</sub-title>
-    <episode-num system="onscreen">S22E08</episode-num>
-    <desc>Rocco Mediate shares his best tips and most unique drills. Rocco talks how learning to top the ball on purpose can help you become a better ball striker.</desc>
-    <date>20160301</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/30cf70cf154cbb353f68306ab9e47960.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322115500 +0000" stop="20260322124400 +0000">
+    <title>The Big Break</title>
+    <sub-title>Turn a Blind Eye</sub-title>
+    <episode-num system="onscreen">S09E03</episode-num>
+    <desc>A shocking turn of events leads to a completely unexpected matchup in the elimination challenge.</desc>
+    <date>20080429</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/daca63865976cd689b3e34da25e129fa.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321041600 +0000" stop="20260321044300 +0000">
-    <title>Golf Channel Academy</title>
-    <sub-title>Rocco Mediate - Short Game</sub-title>
-    <episode-num system="onscreen">S22E09</episode-num>
-    <desc>Rocco Mediate talks the short game and how you can master feel around the greens by using the bounce of your wedge.</desc>
-    <date>20160308</date>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/ec1a3d0255c9cb76af7e9a177941e13f.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322124400 +0000" stop="20260322133400 +0000">
+    <title>The Big Break</title>
+    <sub-title>Decisions, Decisions</sub-title>
+    <episode-num system="onscreen">S09E04</episode-num>
+    <desc>A surprising performance from one of the competitors turns the already unpredictable competition completely upside down.</desc>
+    <date>20080506</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f0561cd9545870df95f0f655c4719734.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321044300 +0000" stop="20260321050800 +0000">
-    <title>Private Lessons</title>
-    <sub-title>The Miz</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322133400 +0000" stop="20260322142300 +0000">
+    <title>The Big Break</title>
+    <sub-title>Three's a Crowd</sub-title>
+    <episode-num system="onscreen">S09E05</episode-num>
+    <desc>One competitor starts to frustrate with spectacular play, and a weakness is detected in one of the favorites.</desc>
+    <date>20080513</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d1589facb17ff321dc0fa620d957f3d8.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322142300 +0000" stop="20260322151200 +0000">
+    <title>The Big Break</title>
+    <sub-title>Be Like Brittany</sub-title>
+    <episode-num system="onscreen">S09E06</episode-num>
+    <desc>A controversial comment and reaction during the immunity challenge leads to serious backlash.</desc>
+    <date>20080520</date>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/1f5bffb359da7f2a56e79bfa2012cbb4.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322151200 +0000" stop="20260322160000 +0000">
+    <title>The Big Break</title>
+    <sub-title>Cutting It Close</sub-title>
+    <episode-num system="onscreen">S09E07</episode-num>
+    <desc>The pressure of competition begins to wear down one competitor, and great play is attributed to luck.</desc>
+    <date>20080527</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f4a61fbe496e02a14d1bdc4a3a3a2345.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322160000 +0000" stop="20260322164900 +0000">
+    <title>The Big Break</title>
+    <sub-title>A Fine Line</sub-title>
+    <episode-num system="onscreen">S09E08</episode-num>
+    <desc>An already tense situation and questionable etiquette leads to one competitor's exile from the group.</desc>
+    <date>20080603</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/ef6edb3de7643fbbae4fa00a56312dfb.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322164900 +0000" stop="20260322173900 +0000">
+    <title>The Big Break</title>
+    <sub-title>20,000 Ways to Win</sub-title>
+    <episode-num system="onscreen">S09E09</episode-num>
+    <desc>The tension boils over, and one competitor is specifically targeted for elimination.</desc>
+    <date>20080617</date>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/bbbda68352cda6422c003bb95e38f80d.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322173900 +0000" stop="20260322182700 +0000">
+    <title>The Big Break</title>
+    <sub-title>Be All End All</sub-title>
+    <episode-num system="onscreen">S09E10</episode-num>
+    <desc>The final four is set, and a long awaited face-off brings out the best and worst of the competitors.</desc>
+    <date>20080624</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f6c1ba989019db57b69ef3bdbe8a09cf.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322182700 +0000" stop="20260322191400 +0000">
+    <title>The Big Break</title>
+    <sub-title>The End is Near</sub-title>
+    <episode-num system="onscreen">S09E11</episode-num>
+    <desc>Three compete, but only two will move on to play for the ultimate prize.</desc>
+    <date>20080701</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f682365b3e8481ed6cc06b39ba403a15.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322191400 +0000" stop="20260322200400 +0000">
+    <title>The Big Break</title>
+    <sub-title>The Finish Line</sub-title>
+    <episode-num system="onscreen">S09E12</episode-num>
+    <desc>Finalists compete in 18 holes of match play to determine the winner.</desc>
+    <date>20080708</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8a39ea587bf19e9f5b77497591973102.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322200400 +0000" stop="20260322203000 +0000">
+    <title>The Golf Fix</title>
+    <sub-title>Feel Good About Your Finish</sub-title>
+    <episode-num system="onscreen">S13E20</episode-num>
+    <desc>Devan Bonebrake explains how the finish affects other parts of the swing and why you should put a priority on improving it.</desc>
+    <date>20240916</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0748a656bdbc2ed4d30ab4d95327b316.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322203000 +0000" stop="20260322204000 +0000">
+    <title>Golf Central</title>
+    <sub-title>Golf Central</sub-title>
+    <episode-num system="onscreen">S2026E73</episode-num>
+    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
+    <date>20260322</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322204000 +0000" stop="20260322210500 +0000">
+    <title>Martin Hall: Breaking 80</title>
+    <sub-title>Martin Hall Part 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The Miz, a two-time WWE champion wrestler takes a private lesson from GolfPass coach Devan Bonebrake; Devan shows The Miz some fixes for his slice.</desc>
-    <date>20230215</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/054cecd5da14cd1a9662c185168089a8.jpg" />
+    <desc>Martin Hall gives lessons to crush the driver, stick the approach and more keys for breaking 80.</desc>
+    <date>20210111</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d30df8d73c9635f031566a54a409c2f7.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321050800 +0000" stop="20260321053300 +0000">
-    <title>Private Lessons</title>
-    <sub-title>J.R. Smith</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>J.R. Smith, a two-time NBA champion, visits GolfPass coach Chris Como for a private lesson; after he retired, he enrolled in college and make the North Carolina A&amp;T golf team as a freshman.</desc>
-    <date>20230215</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/0a67618be199425e41af43632173a4df.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322210500 +0000" stop="20260322215800 +0000">
+    <title>Cobbs Creek Rising</title>
+    <sub-title>Headwaters to Horizons</sub-title>
+    <desc>Chronicles the journey taken by the Cobb Creek Foundation to turn a century-old public golf course into a community hub for education and recreation.</desc>
+    <date>20251028</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a527d58bbf1cfe8888bc9ac64c86f49b.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321053300 +0000" stop="20260321055900 +0000">
-    <title>GolfPass Top Tips</title>
-    <sub-title>Driving</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Gain distance and find more fairways with this collection of driving tips from world-class GolfPass instructors.</desc>
-    <date>20231211</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/065761470f5635d02b6c7070f36e242d.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322215800 +0000" stop="20260322222300 +0000">
+    <title>Ask Como</title>
+    <sub-title>Part 1</sub-title>
+    <desc>Chris Como answers GolfPass member submitted questions covering how to add distance, hit solid wedge shots, and more.</desc>
+    <date>20221115</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/99fa7a6f89ede86b8bd585b13a2053f4.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321055900 +0000" stop="20260321062400 +0000">
-    <title>GolfPass Top Tips</title>
-    <sub-title>Ball Striking</sub-title>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <desc>The top tips from the world's best teacher have been compiled to make you a better ball striker; Nathalie Sheehan reveals how to eliminate fat contact, Chris Como teaches his Statue of Liberty Drill and Martin Hall goes in-depth.</desc>
-    <date>20250107</date>
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322222300 +0000" stop="20260322224900 +0000">
+    <title>Ask Como</title>
+    <sub-title>Part 2</sub-title>
+    <desc>Chris Como answers GolfPass member submitted questions covering how to add distance, hit solid wedge shots, and more.</desc>
+    <date>20221122</date>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/bb4ed0f02ef91c7568933f384da81308.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321062400 +0000" stop="20260321064900 +0000">
-    <title>GolfPass Top Tips</title>
-    <sub-title>Short Game</sub-title>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <desc>The top tips from the world's best teachers have been compiled to improve your short game; Devan Bonebrake reveals how to make perfect chipping contact, Aimee Cho teaches how a towel can improve your pitch shots and Martin Hall featured.</desc>
-    <date>20250107</date>
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322224900 +0000" stop="20260322231400 +0000">
+    <title>Me and My Golf</title>
+    <sub-title>Bunker Play</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Andy and Piers explain the necessary fundamentals to hit effective greenside and fairway bunker shots. They also explain how to hit it close from one of the most feared shots in the game, the 30-40-yard bunker shot.</desc>
+    <date>20200810</date>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/1c7887a3a71e718df87eaf0cd5538df8.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321064900 +0000" stop="20260321065900 +0000">
-    <title>Golf Central</title>
-    <sub-title>Golf Central</sub-title>
-    <episode-num system="onscreen">S2026E72</episode-num>
-    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
-    <date>20260321</date>
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322231400 +0000" stop="20260322233800 +0000">
+    <title>Me and My Golf</title>
+    <sub-title>Putting</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Me and My Golf's Andy and Piers explain how to master judging speed and reads on the greens. They also demonstrate the proper mechanics for hitting it solid and making those clutch putts.</desc>
+    <date>20200817</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/47b53b2f9e32b3cc58c52fe148386859.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321065900 +0000" stop="20260321070900 +0000">
-    <title>Golf Central</title>
-    <sub-title>Golf Central</sub-title>
-    <episode-num system="onscreen">S2026E72</episode-num>
-    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
-    <date>20260321</date>
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260322233800 +0000" stop="20260323000300 +0000">
+    <title>Me and My Golf</title>
+    <sub-title>From the Rough</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Andy and Piers explain how to master different lies on the course, featuring the buried lie, sitting up lie, and flyer lie.</desc>
+    <date>20200831</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9a546ebb42dbe32d710ba544ad67d12f.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321070900 +0000" stop="20260321071900 +0000">
-    <title>Golf Central</title>
-    <sub-title>Golf Central</sub-title>
-    <episode-num system="onscreen">S2026E72</episode-num>
-    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
-    <date>20260321</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321071900 +0000" stop="20260321074500 +0000">
-    <title>Pain Free Golf</title>
-    <sub-title>Eliminate Back Pain</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Randall Hunt takes David Shimp through a 90-day program of unique exercises, high-tech analysis and swing instruction to alleviate back issues.</desc>
-    <date>20240806</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/44b59860fcceee8446a0ead8ea331b68.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321074500 +0000" stop="20260321081100 +0000">
-    <title>Pain Free Golf</title>
-    <sub-title>Relieve Shoulder Pain</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Follow Randall Hunt and Brianna Asman learn how to increase range of motion, add distance and play pain-free golf through a 90-day program of swing instruction.</desc>
-    <date>20240813</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/67b4c9b0b9f30e1037407f3f30bd68f3.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321081100 +0000" stop="20260321083600 +0000">
-    <title>Pain Free Golf</title>
-    <sub-title>Mobility and Joint Pain</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Follow Randall Hunt and Matt Avril learn how to increase mobility and turn his slice into a powerful draw.</desc>
-    <date>20240820</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9eedbc705e5a5eb1b4c5936eb8932f84.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321083600 +0000" stop="20260321090200 +0000">
-    <title>GolfPass Top Tips</title>
-    <sub-title>Driving</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Gain distance and find more fairways with this collection of driving tips from world-class GolfPass instructors.</desc>
-    <date>20231211</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/065761470f5635d02b6c7070f36e242d.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321090200 +0000" stop="20260321100100 +0000">
-    <title>Glam Golf with Blair O'Neal</title>
-    <sub-title>Birdie Challenge with Aaron Hicks &amp; Hailey Ostrom</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Blair O'Neal invites MLB star Aaron Hicks and golf influencer Hailey Ostrom for a high-stakes round of golf.</desc>
-    <date>20250805</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321100100 +0000" stop="20260321101100 +0000">
-    <title>Golf Central</title>
-    <sub-title>Golf Central</sub-title>
-    <episode-num system="onscreen">S2026E72</episode-num>
-    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
-    <date>20260321</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321101100 +0000" stop="20260321102100 +0000">
-    <title>Golf Central</title>
-    <sub-title>Golf Central</sub-title>
-    <episode-num system="onscreen">S2026E72</episode-num>
-    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
-    <date>20260321</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321102100 +0000" stop="20260321111100 +0000">
-    <title>The Big Break</title>
-    <sub-title>The Dirty Dozen</sub-title>
-    <episode-num system="onscreen">S08E01</episode-num>
-    <desc>This season's players are introduced to a new format as they prepare to battle for a spot in a PGA event.</desc>
-    <date>20071002</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7ca8c513dab536ff4d2335d17a0f0327.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321111100 +0000" stop="20260321120100 +0000">
-    <title>The Big Break</title>
-    <sub-title>Let It Ride</sub-title>
-    <episode-num system="onscreen">S08E02</episode-num>
-    <desc>The leaderboard is shaken up when the players get to bet on themselves.</desc>
-    <date>20071009</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/43cc482a772deaac0984a106b4ea2170.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321120100 +0000" stop="20260321125100 +0000">
-    <title>The Big Break</title>
-    <sub-title>No "I" in Team</sub-title>
-    <episode-num system="onscreen">S08E03</episode-num>
-    <desc>Best ball, alternate shot and match play team competitions.</desc>
-    <date>20071016</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/66af22165c276c5b36753eb86b583421.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321125100 +0000" stop="20260321134100 +0000">
-    <title>The Big Break</title>
-    <sub-title>Die Hard</sub-title>
-    <episode-num system="onscreen">S08E04</episode-num>
-    <desc>Players from the losing team participate in an all-day elimination challenge.</desc>
-    <date>20071023</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/a401d4ad834d56b63aff569a21390956.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321134100 +0000" stop="20260321143100 +0000">
-    <title>The Big Break</title>
-    <sub-title>Grip It and Rip It</sub-title>
-    <episode-num system="onscreen">S08E05</episode-num>
-    <desc>Challenges test players' driving distances.</desc>
-    <date>20071030</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/df44644e1912e5936e6c95642b171100.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321143100 +0000" stop="20260321152100 +0000">
-    <title>The Big Break</title>
-    <sub-title>The Big (Glass) Break</sub-title>
-    <episode-num system="onscreen">S08E06</episode-num>
-    <desc>Players take part in the the Glass Break competition.</desc>
-    <date>20071106</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f8811edf482ccd9ca3ac839306c87c03.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321152100 +0000" stop="20260321161100 +0000">
-    <title>The Big Break</title>
-    <sub-title>King of the Hill</sub-title>
-    <episode-num system="onscreen">S08E07</episode-num>
-    <desc>King of the Hill competition.</desc>
-    <date>20071113</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/3429cc72e402002d8280a97eedec2b81.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321161100 +0000" stop="20260321170100 +0000">
-    <title>The Big Break</title>
-    <sub-title>The Great Escape?</sub-title>
-    <episode-num system="onscreen">S08E08</episode-num>
-    <desc>One player tries to stay alive after facing every elimination challenge this season.</desc>
-    <date>20071120</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6de716c4ecafec1b3112721c2f126c75.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321170100 +0000" stop="20260321175100 +0000">
-    <title>The Big Break</title>
-    <sub-title>Pick Your Poison</sub-title>
-    <episode-num system="onscreen">S08E09</episode-num>
-    <desc>A points challenge helps determine players' fate.</desc>
-    <date>20071127</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/4db2501cb069ada03d904e19956ea95d.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321175100 +0000" stop="20260321184100 +0000">
-    <title>The Big Break</title>
-    <sub-title>The Final Four</sub-title>
-    <episode-num system="onscreen">S08E10</episode-num>
-    <desc>Four remaining players compete in money holes.</desc>
-    <date>20071204</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b5e81ebbe3e2391d1a0f564b995c294c.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321184100 +0000" stop="20260321193000 +0000">
-    <title>The Big Break</title>
-    <sub-title>Cliffhanger</sub-title>
-    <episode-num system="onscreen">S08E11</episode-num>
-    <desc>Nine holes of stroke play determine the final two.</desc>
-    <date>20071211</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/a782ade48267b1d1c2c7230ccf4093c9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321193000 +0000" stop="20260321202000 +0000">
-    <title>The Big Break</title>
-    <sub-title>The Big Break</sub-title>
-    <episode-num system="onscreen">S08E92</episode-num>
-    <desc>Contestants battle for the opportunity to compete in a professional golf event.</desc>
-    <date>20250811</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321202000 +0000" stop="20260321203000 +0000">
-    <title>Golf Central</title>
-    <sub-title>Golf Central</sub-title>
-    <episode-num system="onscreen">S2026E72</episode-num>
-    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
-    <date>20260321</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321203000 +0000" stop="20260321205600 +0000">
-    <title>Home Course Advantage</title>
-    <sub-title>The Ibrahims</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <desc>Immigrating from Somalia, Rashid Ibrahim came to the United States with nothing; all he had was a dream and the hope of a better life for his family; it wasn't until he found the game of golf that the dream began to feel like reality.</desc>
-    <date>20230314</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b0cd33a62baaec2ffdf81ef5f9ed869c.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321205600 +0000" stop="20260321212100 +0000">
-    <title>Home Course Advantage</title>
-    <sub-title>Malia Loo</sub-title>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <desc>Malia Loo was introduced to the game of golf by her father David, and since she was a little girl, he's been her swing coach, mentor, and caddy.</desc>
-    <date>20230424</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f65190936612d8324cc3eda060fcbfb8.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321212100 +0000" stop="20260321214600 +0000">
-    <title>School of Golf</title>
-    <sub-title>Chapter 1: Golf's Most Important Skill</sub-title>
-    <episode-num system="onscreen">S12E01</episode-num>
-    <desc>Martin Hall and Blair O'Neal kick off the season by teaching the biggest keys to solid contact. Learn swing tips used by pros that will help improve ball striking. One of the best training aids for improving impact can be found in the kitchen.</desc>
-    <date>20220131</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321214600 +0000" stop="20260321221100 +0000">
-    <title>School of Golf</title>
-    <sub-title>Chapter 2: Short Game Secrets</sub-title>
-    <episode-num system="onscreen">S12E02</episode-num>
-    <desc>Martin Hall and Blair O'Neal teach the key shots needed to save strokes around the green. Learn wedge play tips used by Seve Ballesteros and a scrambling secret from Annika Sorenstam. Martin also teaches how to hit numerous other short game shots.</desc>
-    <date>20220207</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7827e7b8839e7bf370a0a80421046ef8.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321221100 +0000" stop="20260321223600 +0000">
-    <title>School of Golf</title>
-    <sub-title>Chapter 3: Driving Distance</sub-title>
-    <episode-num system="onscreen">S12E03</episode-num>
-    <desc>Martin Hall and Blair O'Neal teach what to learn from the game's longest drivers past and present. Learn what Arnold Palmer did to maximize distance, a drill used by Rory McIlroy, and the swing keys of 2-time World Long Drive Champion Kyle Berkshire.</desc>
-    <date>20220214</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/61986690aab88979ca9dc68887e2f51f.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321223600 +0000" stop="20260321225900 +0000">
-    <title>School of Golf</title>
-    <sub-title>Chapter 4: Better Bunker Play</sub-title>
-    <episode-num system="onscreen">S12E04</episode-num>
-    <desc>Martin Hall and Blair O'Neal teach how to escape the sand like some of the game's all-time greats. Learn how to spin greenside bunker shots like Gary Player,cure one of the biggest short game faults with a Phil Mickelson move.</desc>
-    <date>20220221</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/a6b4477d5b027c22db3879bf54ab82b3.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321225900 +0000" stop="20260321232500 +0000">
-    <title>Home Course Advantage</title>
-    <sub-title>Wyatt Worthington II</sub-title>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <desc>While chasing his dream of playing college golf, Wyatt Worthington experienced overt prejudice which led him to a bout of paralyzing depression.</desc>
-    <date>20231024</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b3f24d9c350d11c3e60baf91b872a8af.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321232500 +0000" stop="20260321235000 +0000">
-    <title>Home Course Advantage</title>
-    <sub-title>Patrick Pinkey</sub-title>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <desc>With the guidance of Paula Tucker and her "Fore Life" program, Patrick has become one of the most promising young golfers in Florida.</desc>
-    <date>20231030</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b503ad340b3f855a3c31796c2555d9f5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260321235000 +0000" stop="20260322004000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260323000300 +0000" stop="20260323005300 +0000">
     <title>Highway 18</title>
-    <sub-title>Beaches, Basketballs &amp; Bunkers</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>The players turn the world's most famous beach into the ultimate "bunker challenge" before rushing to the Orlando Magic practice facility for a full court putting contest.</desc>
-    <date>20080819</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5f26f41b189acc8cb64f8694ddd094d3.jpg" />
+    <sub-title>Long Drives</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Long Drive Champion Brian Pavlet helps tee things off at the Bobby Jones Golf Club in Sarasota, Florida.</desc>
+    <date>20080909</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/363819c92a78d0c94f9cb8775af66b18.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260323005300 +0000" stop="20260323014300 +0000">
+    <title>Highway 18</title>
+    <sub-title>Air Boats to Extravagance</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Each team must earn an airboat ride to their vehicle before racing to the Mar-a-Lago Club in West Palm.</desc>
+    <date>20080916</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/07de53f04a407d6ac218f0cf511fffd6.jpg" />
   </programme>
   
 </tv>
