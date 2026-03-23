@@ -5,475 +5,367 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/cbce9562-c7a6-460c-9d07-02ab8724bbc5/Light_Logo__Mythical_24_7_1500x1000.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322011537 +0000" stop="20260322014125 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323011437 +0000" stop="20260323013745 +0000">
+    <title>Good Mythical Morning</title>
+    <sub-title>What's The Worst Spice?</sub-title>
+    <episode-num system="onscreen">S25E137</episode-num>
+    <desc>In today's blind taste test, we're determining which spice is the WORST!</desc>
+    <date>20240823</date>
+    <icon src="https://image.tmdb.org/t/p/original/q65meoMF3tdnYcXwZrRiVjQXtf4.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323013745 +0000" stop="20260323020255 +0000">
+    <title>Good Mythical Morning</title>
+    <sub-title>Vintage Canned Foods Taste Test</sub-title>
+    <episode-num system="onscreen">S25E134</episode-num>
+    <desc>We're eating some old vintage canned foods we probably shouldn't be eating!</desc>
+    <date>20240816</date>
+    <icon src="https://image.tmdb.org/t/p/original/z11SNQgy475HF8lbWfCKTbgnZ5C.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323020255 +0000" stop="20260323022731 +0000">
+    <title>Good Mythical Morning</title>
+    <sub-title>Are We Older Than We Look?</sub-title>
+    <episode-num system="onscreen">S25E127</episode-num>
+    <desc>Do we look old???</desc>
+    <date>20240710</date>
+    <icon src="https://image.tmdb.org/t/p/original/8A48N0DwDN4sWX4OfZAnKnbDg5X.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323022731 +0000" stop="20260323025144 +0000">
+    <title>Good Mythical Morning</title>
+    <sub-title>Street Food Taste Test</sub-title>
+    <episode-num system="onscreen">S25E125</episode-num>
+    <desc>It's Day 3 of our Street Food Olympics and we're determining which country has the best street food dessert!</desc>
+    <date>20240726</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/b11c311a0f4203d1/GMM_25GMS15.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323025144 +0000" stop="20260323031439 +0000">
+    <title>Good Mythical Morning</title>
+    <sub-title>Exotic Fruits Taste Test</sub-title>
+    <episode-num system="onscreen">S25E122</episode-num>
+    <desc>We're trying some exotic fruits!</desc>
+    <date>20240719</date>
+    <icon src="https://image.tmdb.org/t/p/original/4gUPp6u8oaf0GDrUXapuZQ32SYm.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323031439 +0000" stop="20260323033823 +0000">
+    <title>Good Mythical Morning</title>
+    <sub-title>$36 vs. $195 Air Fryer Taste Test</sub-title>
+    <episode-num system="onscreen">S25E138</episode-num>
+    <desc>Does a more expensive air fryer mean better food? We're testing air fryers at different price points!</desc>
+    <date>20240826</date>
+    <icon src="https://image.tmdb.org/t/p/original/3p4b4DaEZLHBrwYCHMOEd1oxQKW.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323033823 +0000" stop="20260323040529 +0000">
+    <title>Good Mythical Morning</title>
+    <sub-title>International Fries Taste Test</sub-title>
+    <episode-num system="onscreen">S25E118</episode-num>
+    <desc>GOOD MYTHICAL SUMMER! We're asking: where in the world do these international fries come from?</desc>
+    <date>20240708</date>
+    <icon src="https://image.tmdb.org/t/p/original/qJWCPIec5zs908LsMnrAJuze99u.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323040529 +0000" stop="20260323043026 +0000">
+    <title>Good Mythical Morning</title>
+    <sub-title>Frozen vs. Fast vs. Fancy Food Taste Test</sub-title>
+    <episode-num system="onscreen">S25E126</episode-num>
+    <desc>We're seeing how fancy Rob Lowe's tastes are!</desc>
+    <date>20240729</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/eca522b5b84050b3/GMM_25GMS16.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323043026 +0000" stop="20260323045500 +0000">
+    <title>Good Mythical Morning</title>
+    <sub-title>Fried Street Food Taste Test</sub-title>
+    <episode-num system="onscreen">S25E123</episode-num>
+    <desc>Which street food from around the world deserves the gold?</desc>
+    <date>20240722</date>
+    <icon src="https://image.tmdb.org/t/p/original/tWr9pcGNbItrl4kTip0OCQyzhtZ.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323045500 +0000" stop="20260323051701 +0000">
+    <title>Good Mythical Morning</title>
+    <sub-title>Which Country Has The Best Street Food?</sub-title>
+    <episode-num system="onscreen">S25E124</episode-num>
+    <desc>We're doing day 2 of our street food Olympics!</desc>
+    <date>20240724</date>
+    <icon src="https://image.tmdb.org/t/p/original/7pGzj2yn0gDiTuid5GwSlflskCL.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323051701 +0000" stop="20260323054335 +0000">
+    <title>Good Mythical Morning</title>
+    <sub-title>Are These New Food Products Worth It?</sub-title>
+    <episode-num system="onscreen">S25E136</episode-num>
+    <desc>We're testing some crazy new products!</desc>
+    <date>20240821</date>
+    <icon src="https://image.tmdb.org/t/p/original/pq28BFaft1T1dztjISrTLhG5ZfQ.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323054335 +0000" stop="20260323061639 +0000">
+    <title>Good Mythical Morning</title>
+    <sub-title>Extreme Smelling Bee Challenge</sub-title>
+    <episode-num system="onscreen">S25E139</episode-num>
+    <desc>We're testing our spelling... SMELLING BEE STYLE.</desc>
+    <date>20240828</date>
+    <icon src="https://image.tmdb.org/t/p/original/al9x1EAh47DDMR5GIHk6R1KegCf.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323061639 +0000" stop="20260323064906 +0000">
+    <title>Good Mythical Morning</title>
+    <sub-title>Best Friends vs Twins Challenge (ft. Property Brothers)</sub-title>
+    <episode-num system="onscreen">S25E133</episode-num>
+    <desc>We're joined by the Property Brothers Drew and Jonathan to test how well we really know each other!</desc>
+    <date>20240814</date>
+    <icon src="https://image.tmdb.org/t/p/original/eiPSpxf0MXvv5ZvvvwtnZJUy92s.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323064906 +0000" stop="20260323071205 +0000">
+    <title>Good Mythical Morning</title>
+    <sub-title>Walmart vs. Costco Taste Test</sub-title>
+    <episode-num system="onscreen">S25E129</episode-num>
+    <desc>We're pinning two grocery stores against each other!</desc>
+    <date>20240805</date>
+    <icon src="https://image.tmdb.org/t/p/original/2iOhiSz3WJBizsZyUCmT2XspFSh.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323071205 +0000" stop="20260323073750 +0000">
     <title>Good Mythical Morning</title>
     <sub-title>Craziest Stadium Foods In America</sub-title>
-    <episode-num system="onscreen">S25E87</episode-num>
-    <desc>We're eating some of the craziest stadium foods in America!</desc>
-    <date>20240517</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/45bf593b73fdbaf1/GMM_OTT_Textless_16x9_Gracenote.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322014125 +0000" stop="20260322020240 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>Frozen vs. Fast vs. Fancy Food Taste Test</sub-title>
-    <episode-num system="onscreen">S25E113</episode-num>
-    <desc>We're seeing how fancy Vi from the Mythical Kitchen's tastes are!</desc>
-    <date>20240624</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/45bf593b73fdbaf1/GMM_OTT_Textless_16x9_Gracenote.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322020240 +0000" stop="20260322022541 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>Surprising Foods Made By The Same Company</sub-title>
-    <episode-num system="onscreen">S25E94</episode-num>
-    <desc>Today, we find out which products are secretly sold by the same company!</desc>
-    <date>20240528</date>
-    <icon src="https://image.tmdb.org/t/p/original/14ux4BZG0MOuE4tHXXDwcDnrhBT.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322022541 +0000" stop="20260322025056 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>Playing Board Games Without Instructions</sub-title>
-    <episode-num system="onscreen">S25E81</episode-num>
-    <desc>We're trying to play board games.. without instructions!</desc>
-    <date>20240502</date>
-    <icon src="https://image.tmdb.org/t/p/original/bJGEgoz6FF5j28hrlKPFaNscA6v.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322025056 +0000" stop="20260322031419 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>Is There A Better Way To Mouthwash?</sub-title>
-    <episode-num system="onscreen">S25E96</episode-num>
-    <desc>Can we make mouthwashing fun?</desc>
-    <date>20240523</date>
-    <icon src="https://image.tmdb.org/t/p/original/ycoe7S9M8kPXmzTF7iGHZTQfLjG.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322031419 +0000" stop="20260322033523 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>Can We Find The Name Brand?</sub-title>
-    <episode-num system="onscreen">S25E88</episode-num>
-    <desc>Can we find the name brand sauce?</desc>
-    <date>20240520</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/45bf593b73fdbaf1/GMM_OTT_Textless_16x9_Gracenote.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322033523 +0000" stop="20260322035740 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>Frozen vs. Fast vs. Fancy Food Taste Test</sub-title>
-    <episode-num system="onscreen">S25E93</episode-num>
-    <desc>We're getting to know Jay Pharoah and his favorite foods!</desc>
-    <date>20240527</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/45bf593b73fdbaf1/GMM_OTT_Textless_16x9_Gracenote.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322035740 +0000" stop="20260322041752 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>We Tried EVERY Froot Loops Flavor</sub-title>
-    <episode-num system="onscreen">S25E97</episode-num>
-    <desc>We're eating ALL THE Froot Loops!</desc>
-    <date>20240524</date>
-    <icon src="https://image.tmdb.org/t/p/original/8SzUVz2AkEU3Yodq4q6nRg5UKv.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322041752 +0000" stop="20260322043737 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>Will It Enchilada? Taste Test</sub-title>
-    <episode-num system="onscreen">S25E78</episode-num>
-    <desc>Today, we ask the age old question.. will it enchilada?</desc>
-    <date>20240506</date>
-    <icon src="https://image.tmdb.org/t/p/original/o2hwTZIXbZg5qSJ2WAFrbIh6Izo.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322043737 +0000" stop="20260322050004 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>International Jelly Taste Test</sub-title>
-    <episode-num system="onscreen">S25E83</episode-num>
-    <desc>Where in the world do these international jelly foods come from?</desc>
-    <date>20240513</date>
-    <icon src="https://image.tmdb.org/t/p/original/mojkZWY6EjQbkBUqqqQeoHYqYcE.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322050004 +0000" stop="20260322052229 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>Pro Chef vs. Mom Taste Test</sub-title>
-    <episode-num system="onscreen">S25E82</episode-num>
-    <desc>We're seeing if we can identify our moms' cooking!</desc>
-    <date>20240510</date>
-    <icon src="https://image.tmdb.org/t/p/original/auQhE6TYekC22HvGz8137yWgNyk.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322052229 +0000" stop="20260322054149 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>We Turned Tiny Food Into Giant Food</sub-title>
-    <episode-num system="onscreen">S25E90</episode-num>
-    <desc>We're tasting giant tiny foods and tiny giant foods!</desc>
-    <date>20240515</date>
-    <icon src="https://image.tmdb.org/t/p/original/jxqMXmoL5jKMLVLRKNY0sIdz4nQ.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322054149 +0000" stop="20260322060408 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>Ranking The Best Trader Joe's Snacks</sub-title>
-    <episode-num system="onscreen">S25E95</episode-num>
-    <desc>We're discovering the best food you can find at Trader Joe's!</desc>
-    <date>20240529</date>
-    <icon src="https://image.tmdb.org/t/p/original/gdbQ9GPxscgQjCQezCfenXQXN1H.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322060408 +0000" stop="20260322062541 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>Jersey Mike's vs. Jimmy John's Taste Test</sub-title>
-    <episode-num system="onscreen">S25E92</episode-num>
-    <desc>We're putting two sandwich powerhouses head to head: Jersey Mike's vs. Jimmy John's!</desc>
-    <date>20240524</date>
-    <icon src="https://image.tmdb.org/t/p/original/8SzUVz2AkEU3Yodq4q6nRg5UKv.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322062541 +0000" stop="20260322064708 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>Canned Oxygen Taste Test</sub-title>
-    <episode-num system="onscreen">S25E89</episode-num>
-    <desc>We're trying some flavored canned oxygen!</desc>
-    <date>20240514</date>
-    <icon src="https://image.tmdb.org/t/p/original/zutN0vsXarXzR9HMQXQviuZzsde.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322064708 +0000" stop="20260322070822 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>Oldest vs. Newest Italian Restaurant Taste Test</sub-title>
-    <episode-num system="onscreen">S25E56</episode-num>
-    <desc>We're seeing if LA's newest Italian restaurant makes better pasta than its oldest!</desc>
-    <date>20240325</date>
-    <icon src="https://image.tmdb.org/t/p/original/ogvdkcnwsslFmvmGLPCgYMHllxI.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322070822 +0000" stop="20260322073555 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>Cutting Food Perfectly In Half</sub-title>
-    <episode-num system="onscreen">S25E69</episode-num>
-    <desc>How hard is it to cut things into perfect halves?</desc>
-    <date>20240415</date>
-    <icon src="https://image.tmdb.org/t/p/original/wilNA0zkNwo31SzGtubk4Y3Q00W.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322073555 +0000" stop="20260322080113 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>We Drank As Much Pre-Workout As Humanly Possible</sub-title>
-    <episode-num system="onscreen">S25E66</episode-num>
-    <desc>We're finding out what happens when we try pre-workout.</desc>
-    <date>20240417</date>
-    <icon src="https://image.tmdb.org/t/p/original/tdoGp2CSH6CCNmdrmLQUYPNkD7O.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322080113 +0000" stop="20260322082336 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>Frozen vs. Fast vs. Fancy Food Taste Test</sub-title>
-    <episode-num system="onscreen">S25E68</episode-num>
-    <desc>We're trying Emily's favorite foods!</desc>
-    <date>20240422</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/45bf593b73fdbaf1/GMM_OTT_Textless_16x9_Gracenote.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322082336 +0000" stop="20260322084953 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>Snacks In Different Packages</sub-title>
-    <episode-num system="onscreen">S25E59</episode-num>
-    <desc>Do these snacks actually taste better in different packages?</desc>
-    <date>20240401</date>
-    <icon src="https://image.tmdb.org/t/p/original/vgSg21EHjIH8k9Fc2V76YMqOYCd.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322084953 +0000" stop="20260322090953 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>Is Fancy Food ACTUALLY Worse?</sub-title>
-    <episode-num system="onscreen">S25E70</episode-num>
-    <desc>Has fancy food gone too far?</desc>
-    <date>20240424</date>
-    <icon src="https://image.tmdb.org/t/p/original/8KzoK1WlrdtTQgaKFPZsYX9ogxq.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322090953 +0000" stop="20260322093119 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>What's The WORST Energy Drink?</sub-title>
-    <episode-num system="onscreen">S25E73</episode-num>
-    <desc>We're determining the WORST energy drink out there!</desc>
-    <date>20240429</date>
-    <icon src="https://image.tmdb.org/t/p/original/4P9fYXKIncrKZLbdwalfDZIuYS4.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322093119 +0000" stop="20260322095327 +0000">
-    <title>Good Mythical More</title>
-    <sub-title>What's The Best Chip In The Bag?</sub-title>
-    <episode-num system="onscreen">S25E121</episode-num>
-    <desc>We try every hairstyle in the world.</desc>
-    <date>20240710</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/afa8cebe0fa9a1b6/GMMore_25GMS02.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322095327 +0000" stop="20260322101846 +0000">
-    <title>Good Mythical More</title>
-    <sub-title>Guess What I'm Thinking</sub-title>
     <episode-num system="onscreen">S25E131</episode-num>
-    <desc>We're going to try reading each other's minds!</desc>
-    <date>20240802</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/6dfad8404d7e09a0/GMMore_25GMS12.jpg" />
+    <desc>We're looking at some of the most insane stadium foods in America!</desc>
+    <date>20240809</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/3fb010a2dd9810e3/GMM_25GMS09.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322101846 +0000" stop="20260322104254 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323073750 +0000" stop="20260323084303 +0000">
+    <title>Ear Biscuits</title>
+    <sub-title>Rhett’s Encounter With A Wild Bear</sub-title>
+    <episode-num system="onscreen">S01E352</episode-num>
+    <desc>Rhett tells you his latest trip to woods and why you should always lock your doors.</desc>
+    <date>20221003</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/cf5dcbcaa8b5dadb/EB_Textless_16x9_Gracenote.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323084303 +0000" stop="20260323094011 +0000">
+    <title>A Hot Dog Is A Sandwich</title>
+    <sub-title>What's the Best Kind of Alcohol?</sub-title>
+    <episode-num system="onscreen">S01E46</episode-num>
+    <desc>Josh &amp; Nicole discuss which is the best form of alcohol, beer, wine, or hard alcohol?</desc>
+    <date>20240128</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/33706cbec3cf6cc7/AHDIAS_16x9_Gracenote.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323094011 +0000" stop="20260323100422 +0000">
     <title>Good Mythical More</title>
-    <sub-title>What If We Swapped Bodies?</sub-title>
-    <episode-num system="onscreen">S25E136</episode-num>
-    <desc>We're seeing what we would do in each others bodies!</desc>
-    <date>20240814</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/7f4d7cf128516703/GMMore_25GMS11.jpg" />
+    <sub-title>Guess The Acronym</sub-title>
+    <episode-num system="onscreen">S26E10</episode-num>
+    <desc>Today, we're playing Bananagracronyms!</desc>
+    <date>20240923</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/09fc3d5201bd991e/GMMore_26A06.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322104254 +0000" stop="20260322110744 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323100422 +0000" stop="20260323102717 +0000">
     <title>Good Mythical More</title>
-    <sub-title>What's The Best Name For Every Generation?</sub-title>
-    <episode-num system="onscreen">S25E137</episode-num>
-    <desc>We're exploring the best name for every generation!</desc>
-    <date>20240816</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/e9cf5639b92ad472/GMMore_25GMS18.jpg" />
+    <sub-title>Reacting To Weird Baby Names</sub-title>
+    <episode-num system="onscreen">S26E16</episode-num>
+    <desc>Today, we're exploring whether or not weird words actually make good names!</desc>
+    <date>20241001</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/b7b436663249c7c4/GMMore_26A17.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322110744 +0000" stop="20260322113157 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323102717 +0000" stop="20260323105405 +0000">
     <title>Good Mythical More</title>
-    <sub-title>Which Animal Is The Best Bodyguard?</sub-title>
-    <episode-num system="onscreen">S25E135</episode-num>
-    <desc>We're figuring out which animal would make the best bodyguard!</desc>
-    <date>20240812</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/c4cd3c5b4e5e7726/GMMore_25GMS04.jpg" />
+    <sub-title>Are Gen X School Supplies Still Cool?</sub-title>
+    <episode-num system="onscreen">S26E01</episode-num>
+    <desc>Today, we're seeing if 80's school supplies are still cool!</desc>
+    <date>20240909</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/59c1b9e7e92d684b/GMMore_26A01.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322113157 +0000" stop="20260322115331 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323105405 +0000" stop="20260323111823 +0000">
     <title>Good Mythical More</title>
-    <sub-title>Should You Judge Food By Its Packaging?</sub-title>
-    <episode-num system="onscreen">S25E129</episode-num>
-    <desc>We're seeing if we can guess dish prices by just their photos!</desc>
-    <date>20240729</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/fec03107c58c1104/GMMore_25GMS16.jpg" />
+    <sub-title>What's The Strangest Thing Your Kid Has Ever Done?</sub-title>
+    <episode-num system="onscreen">S26E17</episode-num>
+    <desc>Today, we're reacting to the strangest things our fans' kids have ever done!</desc>
+    <date>20241002</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/bbf2ff6ec4624550/GMMore_26A18.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322115331 +0000" stop="20260322121955 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323111823 +0000" stop="20260323114151 +0000">
     <title>Good Mythical More</title>
-    <sub-title>Who Makes The Best Loaded Fries?</sub-title>
-    <episode-num system="onscreen">S25E120</episode-num>
-    <desc>We're competing to see who makes the best loaded fries!</desc>
-    <date>20240708</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/4a6078b10ddbbe34/GMMore_25GMS01.jpg" />
+    <sub-title>What's The Most Googled Question In Each State?</sub-title>
+    <episode-num system="onscreen">S26E08</episode-num>
+    <desc>Today, we're figuring out the most popular existential question in each state!</desc>
+    <date>20240919</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/c2ab0e712e15edff/GMMore_26A09.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322121955 +0000" stop="20260322124248 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323114151 +0000" stop="20260323120432 +0000">
     <title>Good Mythical More</title>
-    <sub-title>Trying New Energy Drinks</sub-title>
-    <episode-num system="onscreen">S25E126</episode-num>
-    <desc>We're playing chug, sip, spill with new energy drinks!</desc>
-    <date>20240722</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/a9e00528430a8475/GMMore_25GMS13.jpg" />
+    <sub-title>Ranking The Worst Shirts On Amazon</sub-title>
+    <episode-num system="onscreen">S26E09</episode-num>
+    <desc>Today, we're ranking Amazon's most chaotic T-shirts!</desc>
+    <date>20240920</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/590454a41739f764/GMMore_26A10.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322124248 +0000" stop="20260322130943 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323120432 +0000" stop="20260323122739 +0000">
     <title>Good Mythical More</title>
-    <sub-title>Interpreting The Crew's Reacurring Dreams</sub-title>
-    <episode-num system="onscreen">S25E123</episode-num>
-    <desc>We're seeing if we can interpret the Mythical Crew's reccurring dreams!</desc>
-    <date>20240715</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/ceb5c18d42937f9a/GMMore_25GMS24.jpg" />
+    <sub-title>Match The Crew To Their Obsession</sub-title>
+    <episode-num system="onscreen">S26E04</episode-num>
+    <desc>Today, we're trying to match the Mythical crew member to their weird obsession!</desc>
+    <date>20240912</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/66ac5a6161542b79/GMMore_26A05.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322130943 +0000" stop="20260322133943 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323122739 +0000" stop="20260323125159 +0000">
     <title>Good Mythical More</title>
-    <sub-title>Testing Our Fight Or Flight Responses</sub-title>
-    <episode-num system="onscreen">S25E122</episode-num>
-    <desc>We're testing each other's instincts in different scenarios!</desc>
-    <date>20240712</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/4de5e1b869c8b0e3/GMMore_25GMS03.jpg" />
+    <sub-title>We Play Tapple</sub-title>
+    <episode-num system="onscreen">S26E14</episode-num>
+    <desc>Today, we're playing Tapple!</desc>
+    <date>20240927</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/dd79c35a2c09f307/GMMore_26A15.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322133943 +0000" stop="20260322140537 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323125159 +0000" stop="20260323131331 +0000">
     <title>Good Mythical More</title>
-    <sub-title>Best New Summer Snacks Taste Test</sub-title>
-    <episode-num system="onscreen">S25E142</episode-num>
-    <desc>We're checking out some of the best new food items of the summer!</desc>
-    <date>20240828</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/bb246432a292d0c8/GMMore_Textless_16x9_Gracenote.jpg" />
+    <sub-title>Sugar Free Candy Taste Test</sub-title>
+    <episode-num system="onscreen">S26E15</episode-num>
+    <desc>Today, we're eating some sugar free candy!</desc>
+    <date>20240930</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/dd6cc43230f4e143/GMMore_26A16.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322140537 +0000" stop="20260322143025 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323131331 +0000" stop="20260323133648 +0000">
     <title>Good Mythical More</title>
-    <sub-title>Reacting To Our Screen Time</sub-title>
-    <episode-num system="onscreen">S25E143</episode-num>
-    <desc>We're matching our crew members to their screen time!</desc>
-    <date>20240830</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/f30edf8a07f1c6c1/GMMore_25GMS10.jpg" />
+    <sub-title>How To Throw A Great Party</sub-title>
+    <episode-num system="onscreen">S26E06</episode-num>
+    <desc>Today, we're learning how to throw the best party.</desc>
+    <date>20240916</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/6c160745d454c6de/GMMore_26A11.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322143025 +0000" stop="20260322145507 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323133648 +0000" stop="20260323140129 +0000">
     <title>Good Mythical More</title>
-    <sub-title>How Well Do We Know Gaming Controllers?</sub-title>
-    <episode-num system="onscreen">S25E130</episode-num>
-    <desc>We're trying to arrange video game controllers in chronological order!</desc>
-    <date>20240731</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/c25794e424841dca/GMMore_25GMS17.jpg" />
+    <sub-title>We Play TikTok Balloon Games</sub-title>
+    <episode-num system="onscreen">S26E12</episode-num>
+    <desc>Today, we're playing some crazy TikTok balloon games!</desc>
+    <date>20240925</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/8d0d5b246fa448e9/GMMore_26A13.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322145507 +0000" stop="20260322151723 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323140129 +0000" stop="20260323142305 +0000">
     <title>Good Mythical More</title>
-    <sub-title>Reading Our Crew's Complaints</sub-title>
-    <episode-num system="onscreen">S25E133</episode-num>
-    <desc>We're responding to anonymous crew complaints!</desc>
-    <date>20240807</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/b6a7667db123c9b0/GMMore_25GMS08.jpg" />
+    <sub-title>The History Of Fast Food Logos</sub-title>
+    <episode-num system="onscreen">S26E05</episode-num>
+    <desc>Today, we're seeing if we can rank fast food logos through time!</desc>
+    <date>20240913</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/19711cda7371e440/GMMore_26A04.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322151723 +0000" stop="20260322154059 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323142305 +0000" stop="20260323144554 +0000">
     <title>Good Mythical More</title>
-    <sub-title>Which Animal Has The Most Teeth?</sub-title>
-    <episode-num system="onscreen">S25E139</episode-num>
-    <desc>We're guessing which animals have the most teeth!</desc>
-    <date>20240821</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/febb1c397b6a0b84/GMMore_25GMS05.jpg" />
+    <sub-title>Can We Make The Viral Rainbow Shots?</sub-title>
+    <episode-num system="onscreen">S26E19</episode-num>
+    <desc>Today, we're seeing if we can pull off these bartender tricks!</desc>
+    <date>20241004</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/c1f73b0fcb11dfd7/GMMore_26A20.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322154059 +0000" stop="20260322160458 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323144554 +0000" stop="20260323150621 +0000">
     <title>Good Mythical More</title>
-    <sub-title>Match The State To The Slogan</sub-title>
-    <episode-num system="onscreen">S25E141</episode-num>
-    <desc>We're trying to match the state to the tourism slogan!</desc>
-    <date>20240826</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/1e36b307f872e2ab/GMMore_25GMS22.jpg" />
+    <sub-title>Testing Our Friendship</sub-title>
+    <episode-num system="onscreen">S26E18</episode-num>
+    <desc>Today, we're testing our friendship.</desc>
+    <date>20241003</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/2725f46d23485026/GMMore_26A22.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322160458 +0000" stop="20260322163045 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323150621 +0000" stop="20260323153019 +0000">
     <title>Good Mythical More</title>
-    <sub-title>We Try Reverse Charades</sub-title>
-    <episode-num system="onscreen">S25E140</episode-num>
-    <desc>We're playing a game of reverse charades!</desc>
-    <date>20240823</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/bb124dad643af21a/GMMore_25GMS21.jpg" />
+    <sub-title>Who Doesn't Belong?</sub-title>
+    <episode-num system="onscreen">S26E02</episode-num>
+    <desc>Today, we're trying to find the subtle odd one out!</desc>
+    <date>20240910</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/be916fc9e8af8d58/GMMore_26A02.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322163045 +0000" stop="20260322165519 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323153019 +0000" stop="20260323155512 +0000">
     <title>Good Mythical More</title>
-    <sub-title>Are We Girlypop?</sub-title>
-    <episode-num system="onscreen">S25E138</episode-num>
-    <desc>We're figuring out if we know what's cute according to the girlies!</desc>
-    <date>20240819</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/a1e2be3a8846c0e4/GMMore_25GMS19.jpg" />
+    <sub-title>Is Mountain Dew Cringe?</sub-title>
+    <episode-num system="onscreen">S26E03</episode-num>
+    <desc>Today, we're seeing which soda brand belongs to which generation!</desc>
+    <date>20240911</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/94aeec9d1250ae22/GMMore_26A03.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322165519 +0000" stop="20260322171916 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323155512 +0000" stop="20260323161618 +0000">
     <title>Good Mythical More</title>
-    <sub-title>Can We Draw These Countries From Memory?</sub-title>
-    <episode-num system="onscreen">S25E127</episode-num>
-    <desc>We're seeing if we can draw these states and countries from memory!</desc>
-    <date>20240724</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/36a2660eee8ebcf8/GMMore_25GMS14.jpg" />
+    <sub-title>Reacting To The World's Weirdest Races</sub-title>
+    <episode-num system="onscreen">S26E13</episode-num>
+    <desc>Today, we're learning about some of the world's weirdest races!</desc>
+    <date>20240926</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/0f1983f142e9d6dd/GMMore_26A14.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322171916 +0000" stop="20260322173831 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323161618 +0000" stop="20260323164211 +0000">
     <title>Good Mythical More</title>
-    <sub-title>How Long Is This In Sandwiches?</sub-title>
-    <episode-num system="onscreen">S25E128</episode-num>
-    <desc>We're seeing how many footlongs it takes to equal the Mississippi River!</desc>
-    <date>20240726</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/88b7b8f5b816cf16/GMMore_25GMS15.jpg" />
+    <sub-title>Weirdest Canned Foods Taste Test</sub-title>
+    <episode-num system="onscreen">S26E11</episode-num>
+    <desc>Today, we're tasting the best weird canned foods!</desc>
+    <date>20240924</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/2f028166842d2a43/GMMore_26A12.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322173831 +0000" stop="20260322180039 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323164211 +0000" stop="20260323171319 +0000">
     <title>Good Mythical More</title>
-    <sub-title>What's The Best Chip In The Bag?</sub-title>
-    <episode-num system="onscreen">S25E121</episode-num>
-    <desc>We try every hairstyle in the world.</desc>
-    <date>20240710</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/afa8cebe0fa9a1b6/GMMore_25GMS02.jpg" />
+    <sub-title>Who Can Make The Best Quesadilla?</sub-title>
+    <episode-num system="onscreen">S26E07</episode-num>
+    <desc>Today, we're competing to see who can make the best quesadilla!</desc>
+    <date>20240917</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/c4a0a57154063457/GMMore_26A07.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322180039 +0000" stop="20260322182558 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323171319 +0000" stop="20260323173731 +0000">
     <title>Good Mythical More</title>
-    <sub-title>Guess What I'm Thinking</sub-title>
-    <episode-num system="onscreen">S25E131</episode-num>
-    <desc>We're going to try reading each other's minds!</desc>
-    <date>20240802</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/6dfad8404d7e09a0/GMMore_25GMS12.jpg" />
+    <sub-title>Guess The Acronym</sub-title>
+    <episode-num system="onscreen">S26E10</episode-num>
+    <desc>Today, we're playing Bananagracronyms!</desc>
+    <date>20240923</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/09fc3d5201bd991e/GMMore_26A06.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322182558 +0000" stop="20260322185006 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323173731 +0000" stop="20260323180025 +0000">
     <title>Good Mythical More</title>
-    <sub-title>What If We Swapped Bodies?</sub-title>
-    <episode-num system="onscreen">S25E136</episode-num>
-    <desc>We're seeing what we would do in each others bodies!</desc>
-    <date>20240814</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/7f4d7cf128516703/GMMore_25GMS11.jpg" />
+    <sub-title>Reacting To Weird Baby Names</sub-title>
+    <episode-num system="onscreen">S26E16</episode-num>
+    <desc>Today, we're exploring whether or not weird words actually make good names!</desc>
+    <date>20241001</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/b7b436663249c7c4/GMMore_26A17.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322185006 +0000" stop="20260322191210 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>What's The Best Reheated Fast Food Taco?</sub-title>
-    <episode-num system="onscreen">S25E100</episode-num>
-    <desc>Which fast food tacos make the best leftovers?</desc>
-    <date>20240529</date>
-    <icon src="https://image.tmdb.org/t/p/original/gdbQ9GPxscgQjCQezCfenXQXN1H.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323180025 +0000" stop="20260323182714 +0000">
+    <title>Good Mythical More</title>
+    <sub-title>Are Gen X School Supplies Still Cool?</sub-title>
+    <episode-num system="onscreen">S26E01</episode-num>
+    <desc>Today, we're seeing if 80's school supplies are still cool!</desc>
+    <date>20240909</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/59c1b9e7e92d684b/GMMore_26A01.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322191210 +0000" stop="20260322193328 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>What's The Stickiest Food?</sub-title>
-    <episode-num system="onscreen">S25E99</episode-num>
-    <desc>We're seeing which food is the stickiest!</desc>
-    <date>20240604</date>
-    <icon src="https://image.tmdb.org/t/p/original/jdnHzynnIZvmmS0mZ3tuyq8hvh2.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323182714 +0000" stop="20260323185132 +0000">
+    <title>Good Mythical More</title>
+    <sub-title>What's The Strangest Thing Your Kid Has Ever Done?</sub-title>
+    <episode-num system="onscreen">S26E17</episode-num>
+    <desc>Today, we're reacting to the strangest things our fans' kids have ever done!</desc>
+    <date>20241002</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/bbf2ff6ec4624550/GMMore_26A18.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322193328 +0000" stop="20260322200318 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>We Tried EVERY Cheetos Flavor</sub-title>
-    <episode-num system="onscreen">S25E117</episode-num>
-    <desc>We're eating ALL THE CHEETOS.</desc>
-    <date>20240628</date>
-    <icon src="https://image.tmdb.org/t/p/original/vAcCjCKuV4Rosp7dMVDx1Hrf1lL.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322200318 +0000" stop="20260322202452 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>Old vs. New Ways To Make Coffee</sub-title>
-    <episode-num system="onscreen">S25E116</episode-num>
-    <desc>We're trying to find the next best way to grind coffee.</desc>
-    <date>20240620</date>
-    <icon src="https://image.tmdb.org/t/p/original/mLG6GbZX9jg0PsaFay0sxLlEBd1.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322202452 +0000" stop="20260322205018 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>Reacting To YouTube Videos With No Views</sub-title>
-    <episode-num system="onscreen">S25E114</episode-num>
-    <desc>We're discovering some MORE of YouTube's least watched videos!</desc>
-    <date>20240625</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/45bf593b73fdbaf1/GMM_OTT_Textless_16x9_Gracenote.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322205018 +0000" stop="20260322211157 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>$23 vs. $134 Blender Taste Test</sub-title>
-    <episode-num system="onscreen">S25E104</episode-num>
-    <desc>We're testing cheap products against expensive ones!</desc>
-    <date>20240611</date>
-    <icon src="https://image.tmdb.org/t/p/original/p5tE3QVyQSVkOCnftpsHjW7esT2.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322211157 +0000" stop="20260322212858 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>Is Garlic Actually A Bad Flavor?</sub-title>
-    <episode-num system="onscreen">S25E102</episode-num>
-    <desc>We're putting a bunch of weird garlic dishes to the test!</desc>
-    <date>20240531</date>
-    <icon src="https://image.tmdb.org/t/p/original/rjiPqOat1TqCKoEYUlulJxLi5ac.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322212858 +0000" stop="20260322215355 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323185132 +0000" stop="20260323191630 +0000">
     <title>Good Mythical Morning</title>
     <sub-title>What Does This Food Product Do?</sub-title>
     <episode-num system="onscreen">S25E101</episode-num>
@@ -482,43 +374,16 @@
     <icon src="https://image.tmdb.org/t/p/original/q7xNoaSS3kgEj5F9CjqAf9qL7cW.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322215355 +0000" stop="20260322221653 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323191630 +0000" stop="20260323194146 +0000">
     <title>Good Mythical Morning</title>
-    <sub-title>Are Restaurants Getting Worse?</sub-title>
-    <episode-num system="onscreen">S25E105</episode-num>
-    <desc>Can LA's oldest Mexican restaurant make better tacos than its trendiest one?</desc>
-    <date>20240327</date>
-    <icon src="https://image.tmdb.org/t/p/original/2HdURKRIv8O34afJw3ZQ4fO0jBh.jpg" />
+    <sub-title>Reacting To YouTube Videos With No Views</sub-title>
+    <episode-num system="onscreen">S25E114</episode-num>
+    <desc>We're discovering some MORE of YouTube's least watched videos!</desc>
+    <date>20240625</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/45bf593b73fdbaf1/GMM_OTT_Textless_16x9_Gracenote.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322221653 +0000" stop="20260322224037 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>Cheap vs. Expensive Mystery Box</sub-title>
-    <episode-num system="onscreen">S25E109</episode-num>
-    <desc>What mysteries do today's boxes hold?</desc>
-    <date>20240220</date>
-    <icon src="https://image.tmdb.org/t/p/original/82QYiECHxlV8PIjwKFmHwhPUK5F.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322224037 +0000" stop="20260322230458 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>International Chicken Dishes Taste Test</sub-title>
-    <episode-num system="onscreen">S25E103</episode-num>
-    <desc>Where in the world do these international chicken dishes come from?</desc>
-    <date>20240610</date>
-    <icon src="https://image.tmdb.org/t/p/original/2jcCyeUMFPqEk1PWfbPF7uDjxI7.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322230458 +0000" stop="20260322232125 +0000">
-    <title>Good Mythical Morning</title>
-    <sub-title>We Play Human Frogger</sub-title>
-    <episode-num system="onscreen">S25E106</episode-num>
-    <desc>We're playing video games in real life!</desc>
-    <date>20240606</date>
-    <icon src="https://image.tmdb.org/t/p/original/g9QLJ81sJsUTtEg9YMPVOEfCr45.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322232125 +0000" stop="20260322234119 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323194146 +0000" stop="20260323200140 +0000">
     <title>Good Mythical Morning</title>
     <sub-title>Do These Foods Taste Different In Other Countries</sub-title>
     <episode-num system="onscreen">S25E112</episode-num>
@@ -527,7 +392,7 @@
     <icon src="https://image.tmdb.org/t/p/original/cZYtqkOO7i7fIjjSpetFEvUD0NI.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260322234119 +0000" stop="20260323000219 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323200140 +0000" stop="20260323202240 +0000">
     <title>Good Mythical Morning</title>
     <sub-title>Melting Things With Hot Glass</sub-title>
     <episode-num system="onscreen">S25E111</episode-num>
@@ -536,40 +401,121 @@
     <icon src="https://image.tmdb.org/t/p/original/paUJ2AMadbBsEZlMOLCbMkGwq35.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323000219 +0000" stop="20260323002525 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323202240 +0000" stop="20260323203907 +0000">
     <title>Good Mythical Morning</title>
-    <sub-title>Worst Food Crimes Taste Test</sub-title>
-    <episode-num system="onscreen">S25E107</episode-num>
-    <desc>We're trying some of internet's worst food crimes!</desc>
-    <date>20240614</date>
-    <icon src="https://image.tmdb.org/t/p/original/xZEMP8wylMc4NqQOqHQDeX9QSIw.jpg" />
+    <sub-title>We Play Human Frogger</sub-title>
+    <episode-num system="onscreen">S25E106</episode-num>
+    <desc>We're playing video games in real life!</desc>
+    <date>20240606</date>
+    <icon src="https://image.tmdb.org/t/p/original/g9QLJ81sJsUTtEg9YMPVOEfCr45.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323002525 +0000" stop="20260323005120 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323203907 +0000" stop="20260323210927 +0000">
     <title>Good Mythical Morning</title>
-    <sub-title>Who Makes The WORST Soda?</sub-title>
-    <episode-num system="onscreen">S25E132</episode-num>
-    <desc>We're playing SCORNHOLE and figuring out which is the worst soda flavor.</desc>
-    <date>20240812</date>
-    <icon src="https://image.tmdb.org/t/p/original/xJ15cyYnwx0H6vFI2TqENbwQFcP.jpg" />
+    <sub-title>We Tried EVERY Cheetos Flavor</sub-title>
+    <episode-num system="onscreen">S25E117</episode-num>
+    <desc>We're eating ALL THE CHEETOS.</desc>
+    <date>20240628</date>
+    <icon src="https://image.tmdb.org/t/p/original/vAcCjCKuV4Rosp7dMVDx1Hrf1lL.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323005120 +0000" stop="20260323011437 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323210927 +0000" stop="20260323213653 +0000">
     <title>Good Mythical Morning</title>
-    <sub-title>Frozen vs. Boxed Food Taste Test</sub-title>
-    <episode-num system="onscreen">S25E120</episode-num>
-    <desc>Are boxed foods better than frozen foods?</desc>
-    <date>20240712</date>
-    <icon src="https://image.tmdb.org/t/p/original/u01hJi3A5O2YYUi0zDYZG5rIRn4.jpg" />
+    <sub-title>Who Makes The WORST Onion Rings?</sub-title>
+    <episode-num system="onscreen">S25E98</episode-num>
+    <desc>In today's episode of Scornhole, we're discussing who makes the worst onion rings, bread, and more!</desc>
+    <date>20240527</date>
+    <icon src="https://image.tmdb.org/t/p/original/8keNDiGOcaJfJqjVVrLfkA0xlEm.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323011437 +0000" stop="20260323013745 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323213653 +0000" stop="20260323215816 +0000">
     <title>Good Mythical Morning</title>
-    <sub-title>What's The Worst Spice?</sub-title>
-    <episode-num system="onscreen">S25E137</episode-num>
-    <desc>In today's blind taste test, we're determining which spice is the WORST!</desc>
-    <date>20240823</date>
-    <icon src="https://image.tmdb.org/t/p/original/q65meoMF3tdnYcXwZrRiVjQXtf4.jpg" />
+    <sub-title>Buffalo Wild Wings vs. Hooters Taste Test</sub-title>
+    <episode-num system="onscreen">S25E108</episode-num>
+    <desc>We're pinning two chicken wing powerhouses against each other-- Buffalo Wild Wings vs. Hooters!</desc>
+    <date>20240610</date>
+    <icon src="https://image.tmdb.org/t/p/original/2jcCyeUMFPqEk1PWfbPF7uDjxI7.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323215816 +0000" stop="20260323222010 +0000">
+    <title>Good Mythical Morning</title>
+    <sub-title>What's The Best Reheated Fast Food Taco?</sub-title>
+    <episode-num system="onscreen">S25E100</episode-num>
+    <desc>Which fast food tacos make the best leftovers?</desc>
+    <date>20240529</date>
+    <icon src="https://image.tmdb.org/t/p/original/gdbQ9GPxscgQjCQezCfenXQXN1H.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323222010 +0000" stop="20260323224311 +0000">
+    <title>Good Mythical Morning</title>
+    <sub-title>Cheap vs. Expensive Grocery Stores</sub-title>
+    <episode-num system="onscreen">S25E110</episode-num>
+    <desc>We're seeing if cheap ingredients actually taste better than expensive ones!</desc>
+    <date>20240619</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00275/asset_artifacts/image/fetch_media/45bf593b73fdbaf1/GMM_OTT_Textless_16x9_Gracenote.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323224311 +0000" stop="20260323230742 +0000">
+    <title>Good Mythical Morning</title>
+    <sub-title>International Chicken Dishes Taste Test</sub-title>
+    <episode-num system="onscreen">S25E103</episode-num>
+    <desc>Where in the world do these international chicken dishes come from?</desc>
+    <date>20240610</date>
+    <icon src="https://image.tmdb.org/t/p/original/2jcCyeUMFPqEk1PWfbPF7uDjxI7.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323230742 +0000" stop="20260323233040 +0000">
+    <title>Good Mythical Morning</title>
+    <sub-title>Are Restaurants Getting Worse?</sub-title>
+    <episode-num system="onscreen">S25E105</episode-num>
+    <desc>Can LA's oldest Mexican restaurant make better tacos than its trendiest one?</desc>
+    <date>20240327</date>
+    <icon src="https://image.tmdb.org/t/p/original/2HdURKRIv8O34afJw3ZQ4fO0jBh.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323233040 +0000" stop="20260323234741 +0000">
+    <title>Good Mythical Morning</title>
+    <sub-title>Is Garlic Actually A Bad Flavor?</sub-title>
+    <episode-num system="onscreen">S25E102</episode-num>
+    <desc>We're putting a bunch of weird garlic dishes to the test!</desc>
+    <date>20240531</date>
+    <icon src="https://image.tmdb.org/t/p/original/rjiPqOat1TqCKoEYUlulJxLi5ac.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260323234741 +0000" stop="20260324000915 +0000">
+    <title>Good Mythical Morning</title>
+    <sub-title>Old vs. New Ways To Make Coffee</sub-title>
+    <episode-num system="onscreen">S25E116</episode-num>
+    <desc>We're trying to find the next best way to grind coffee.</desc>
+    <date>20240620</date>
+    <icon src="https://image.tmdb.org/t/p/original/mLG6GbZX9jg0PsaFay0sxLlEBd1.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260324000915 +0000" stop="20260324003054 +0000">
+    <title>Good Mythical Morning</title>
+    <sub-title>$23 vs. $134 Blender Taste Test</sub-title>
+    <episode-num system="onscreen">S25E104</episode-num>
+    <desc>We're testing cheap products against expensive ones!</desc>
+    <date>20240611</date>
+    <icon src="https://image.tmdb.org/t/p/original/p5tE3QVyQSVkOCnftpsHjW7esT2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260324003054 +0000" stop="20260324005513 +0000">
+    <title>Good Mythical Morning</title>
+    <sub-title>Most Expensive Fast Food Items</sub-title>
+    <episode-num system="onscreen">S25E115</episode-num>
+    <desc>Which of the most expensive fast food items are worth it?</desc>
+    <date>20240626</date>
+    <icon src="https://image.tmdb.org/t/p/original/tvyGZgf3Y0b4Otpzm5b6KDnIcBh.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500" start="20260324005513 +0000" stop="20260324011631 +0000">
+    <title>Good Mythical Morning</title>
+    <sub-title>What's The Stickiest Food?</sub-title>
+    <episode-num system="onscreen">S25E99</episode-num>
+    <desc>We're seeing which food is the stickiest!</desc>
+    <date>20240604</date>
+    <icon src="https://image.tmdb.org/t/p/original/jdnHzynnIZvmmS0mZ3tuyq8hvh2.jpg" />
   </programme>
   
 </tv>
