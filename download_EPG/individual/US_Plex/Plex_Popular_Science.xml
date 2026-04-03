@@ -5,215 +5,136 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/c6bfca5e-58fe-4ed4-a87d-5e2ccde7f085/Logo_Art_-_Popular_Science_Dark_Backgrounds.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260402004356 +0000" stop="20260402023243 +0000">
-    <title>Deep Web</title>
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260403004536 +0000" stop="20260403015304 +0000">
+    <title>Hacksmith: Making Marvel</title>
+    <sub-title>Thor's Workout, Iron Spider</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Join us as we explore Thor’s intense workout routine and the incredible Iron Spider suit brought to life.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/b30d7c17-1b22-4613-8647-ed0f12a0b596_thor-s-workout-iron-spider_d905bc8a-df68-44f5-8c19-c441a3383da3_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260403015304 +0000" stop="20260403022018 +0000">
+    <title>This Week In Spaceflight</title>
+    <sub-title>Week of March 29, 2026</sub-title>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <desc>Catch up on the latest spaceflight news, missions, and breakthroughs shaping our journey beyond Earth.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/f47d3c65-9d5a-4f3f-8753-8a0c2bac031f_2f520222-3d1a-4353-830c-86ebda8749c4_thumbnail_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260403022018 +0000" stop="20260403024733 +0000">
+    <title>Breakthrough</title>
+    <sub-title>Ark for Humans/Rip Currents</sub-title>
+    <episode-num system="onscreen">S01E107</episode-num>
+    <desc>Scientists store vanishing microbes in a "vault" to preserve them for our future.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/c9f4caa1-423c-4912-a6d2-7b30e267a5b2_6e1b8d12-ab14-4a12-b370-38ce24d3fd64_thumbnail_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260403024733 +0000" stop="20260403033917 +0000">
+    <title>Minute By Minute</title>
+    <sub-title>Chernobyl</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Chernobyl’s Reactor 4 explodes, sparking chaos, panic, and the worst nuclear disaster in history.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/271c94d6-69fa-499b-a800-ad3aa12df649_chernobyl_62646faa-6572-4a67-b18c-8a7236378d32_thumbnail_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260403033917 +0000" stop="20260403040141 +0000">
+    <title>What If: Planet Earth</title>
+    <sub-title>In the Trenches</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Descend into the world’s deepest trenches, exploring the hidden mysteries and unique life forms.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/30c2431f-e295-40c6-abf6-b96aa4676df6_in-the-trenches_556d5796-47f0-4152-9dda-ba063163d502_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260403040141 +0000" stop="20260403041952 +0000">
+    <title>SciShow</title>
+    <sub-title>Rockets: Why Florida?, DIY &amp; Record Breaker</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Discover more intriguing science topics and breakthroughs in the second episode of SciShow!</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/2c8fc664-dd4d-4be5-be27-d519b5b2050c_scishow-episode-2_a12ff12f-1437-4c46-aba3-a0e1cae13389_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260403041952 +0000" stop="20260403043333 +0000">
+    <title>What If: Discussed</title>
+    <sub-title>Our Solar System Orbiting a Black Hole</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>What do we really know about black holes? Are they even black? Are they even holes? Are the escapable?</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/15d02568-e3c3-461c-bbc1-9c1670138dd4_discussed-what-if-our-solar-system-orbited-a-black-hole_5ff88703-b866-4198-8ae9-32fec58e2e41_thumbnail_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260403043333 +0000" stop="20260403062917 +0000">
+    <title>General Magic</title>
     <category>Movie</category>
-    <desc>Deep Web guides us through the inside story of one of the most riveting digital crime sagas of the modern era.</desc>
+    <desc>Discover the magic of Silicon Valley.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260402023243 +0000" stop="20260402041627 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260403062917 +0000" stop="20260403081948 +0000">
+    <title>The Lake at the Bottom of the World</title>
+    <category>Movie</category>
+    <desc>Explore the mysteries of one of Earth’s most remote and unique bodies of water.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260403081948 +0000" stop="20260403104801 +0000">
+    <title>First to the Moon</title>
+    <category>Movie</category>
+    <desc>Relive the historic moment when humanity reached the moon for the first time.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260403104801 +0000" stop="20260403125604 +0000">
+    <title>After Antarctica</title>
+    <category>Movie</category>
+    <desc>After Antarctica follows polar explorer Will Steger’s journey as an eyewitness to the significant change.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260403125604 +0000" stop="20260403145713 +0000">
+    <title>The Mindfulness Movement</title>
+    <category>Movie</category>
+    <desc>The Mindfulness Movement follows people who believe present-moment awareness can build a happier world.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260403145713 +0000" stop="20260403164056 +0000">
     <title>It's Quieter in the Twilight</title>
     <category>Movie</category>
     <desc>In an unremarkable office space, a select group of aging engineers ensures a legendary spacecraft lives on.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260402041627 +0000" stop="20260402051008 +0000">
-    <title>Aperture</title>
-    <sub-title>Mind Control in a Positive World</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Explore the fascinating concept of mind control, and how, when used ethically, it could influence behavior.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/8646eb4e-c34a-4881-a955-6684cba6919e_mind-control-in-a-positive-world_ff8f79d8-0dc6-4e37-af78-aa3c8793b038_thumbnail_1920x1080.png" />
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260403164056 +0000" stop="20260403183642 +0000">
+    <title>General Magic</title>
+    <category>Movie</category>
+    <desc>Discover the magic of Silicon Valley.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260402051008 +0000" stop="20260402055401 +0000">
-    <title>Crash Course: Biology</title>
-    <sub-title>Photosynthesis, Mitosis, Meiosis</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Learn about the molecular world of biology, from cell structures to the processes of metabolism.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/7ee11434-8e71-4e96-9dc6-202986dbab3b_cc-biology-episode-10_50565a10-ab14-4833-af5a-f68296006c53_thumbnail_1920x1080.png" />
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260403183642 +0000" stop="20260403202709 +0000">
+    <title>The Lake at the Bottom of the World</title>
+    <category>Movie</category>
+    <desc>Explore the mysteries of one of Earth’s most remote and unique bodies of water.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260402055401 +0000" stop="20260402064925 +0000">
-    <title>Crash Course: Geography</title>
-    <sub-title>Border Conflicts, Politics, Colonialism, "Developed" Countries</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Explore border conflicts, politics, colonialism, and developed countries to understand global power shifts.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/8ecf7348-f091-4f88-b58d-9e6f1785c10d_border-conflicts-politics-colonialism-developed-countries_9cc5032d-cab5-4dfc-8f95-2a0e47dd53c8_thumbnail_1920x1080.png" />
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260403202709 +0000" stop="20260403225543 +0000">
+    <title>First to the Moon</title>
+    <category>Movie</category>
+    <desc>Relive the historic moment when humanity reached the moon for the first time.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260402064925 +0000" stop="20260402074753 +0000">
-    <title>Crash Course: History of Science</title>
-    <sub-title>Americas, The Romans, and Going Medieval</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Continue your exploration of the history of science, focusing on the ancient civilizations.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/5dea5744-f03f-433c-8006-417fd8d27726_episode-2_6cfc9530-5fda-4304-b81f-6bcc1f28bbc7_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260402074753 +0000" stop="20260402084645 +0000">
-    <title>Drone Wars</title>
-    <sub-title>Drone Triathlon - Episode 12</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Top drone builders design flying machines to conquer extreme challenges.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/64b15956-51a8-42cd-99f1-ad874e705728_drone-wars-episode-12_6479f14c-1ea9-4472-a6ff-d19cc18d6b3d_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260402084645 +0000" stop="20260402093512 +0000">
-    <title>Minute By Minute</title>
-    <sub-title>Fukushima Nuclear Accident</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>The 2011 Japan quake and tsunami trigger Fukushima’s nuclear meltdown, minute by minute.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/44728c68-cdb3-4a5d-879c-076647854165_fukushima-nuclear-accident_b11852b1-168b-4c50-9236-955fe4da949d_thumbnail_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260402093512 +0000" stop="20260402100043 +0000">
-    <title>What If: Body</title>
-    <sub-title>That's Sick</sub-title>
-    <episode-num system="onscreen">S01E16</episode-num>
-    <desc>Explore the science of illness, from bizarre diseases to incredible recoveries.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/e872e66f-3510-485c-9e07-dd161ed73c64_that-s-sick_2ae5153e-04ff-4d8b-b181-59b441712399_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260402100043 +0000" stop="20260402102719 +0000">
-    <title>What If: Cosmos</title>
-    <sub-title>The Entire Kardashev Scale Explained in 20 Minutes</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Unlock the levels of civilization advancement with the Kardashev Scale.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/41ac1c58-9d86-41f5-92c1-b4d128d5d4a9_the-entire-kardashev-scale-explained-in-20-minutes_38c144c8-252a-4042-b838-588ded6ca6e5_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260402102719 +0000" stop="20260402113246 +0000">
-    <title>What If: Fan Favorites</title>
-    <sub-title>7 New Worlds We Discovered</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Explore seven newly discovered worlds and what they could reveal about life, space, and our universe.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/eb8ae85b-9a96-4dda-9656-f51aa3e13ecc_7-new-worlds-we-discovered_1a52e897-5459-44cf-8730-b2da2c5f9952_thumbnail_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260402113246 +0000" stop="20260402120028 +0000">
-    <title>What If: Planet Earth</title>
-    <sub-title>Eight Is Enough</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Discover the fascinating world of eight-legged creatures and their impact on our lives, from spiders to ticks!</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/7e4176f6-9210-4aba-a7c3-c8bdd8f36281_eight-is-enough_e5a85735-b6ee-47a0-af58-a5244dd22e79_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260402120028 +0000" stop="20260402140847 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260403225543 +0000" stop="20260404010406 +0000">
     <title>After Antarctica</title>
     <category>Movie</category>
     <desc>After Antarctica follows polar explorer Will Steger’s journey as an eyewitness to the significant change.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260402140847 +0000" stop="20260402142114 +0000">
-    <title>What If: Discussed</title>
-    <sub-title>Eating Sugar for a Month</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Normally the idea of gorging yourself exclusively with sugar for 30 days would be a hypothetical, but is it?</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/9da0b500-35f5-44bc-aa78-02ddc082879b_discussed-what-if-you-ate-sugar-for-a-month_db6def55-2977-4078-a4ac-c341e60be570_thumbnail_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260402142114 +0000" stop="20260402151624 +0000">
-    <title>Animalogic: Dangerous &amp; Deadly</title>
-    <sub-title>Twisted Punishers</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Meet nature’s twisted punishers, creatures and forces with brutal ways of defending, hunting, and surviving.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/1fba0de2-1fb9-4600-b096-a1569ea6d1da_twisted-punishers_752ddbab-0ce0-4394-bbee-d14694f00f98_thumbnail_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260402151624 +0000" stop="20260402160958 +0000">
-    <title>Aperture</title>
-    <sub-title>Mind Control in a Positive World</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Explore the fascinating concept of mind control, and how, when used ethically, it could influence behavior.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/8646eb4e-c34a-4881-a955-6684cba6919e_mind-control-in-a-positive-world_ff8f79d8-0dc6-4e37-af78-aa3c8793b038_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260402160958 +0000" stop="20260402165356 +0000">
-    <title>Crash Course: Biology</title>
-    <sub-title>Photosynthesis, Mitosis, Meiosis</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Learn about the molecular world of biology, from cell structures to the processes of metabolism.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/7ee11434-8e71-4e96-9dc6-202986dbab3b_cc-biology-episode-10_50565a10-ab14-4833-af5a-f68296006c53_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260402165356 +0000" stop="20260402174929 +0000">
-    <title>Crash Course: Geography</title>
-    <sub-title>Border Conflicts, Politics, Colonialism, "Developed" Countries</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Explore border conflicts, politics, colonialism, and developed countries to understand global power shifts.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/8ecf7348-f091-4f88-b58d-9e6f1785c10d_border-conflicts-politics-colonialism-developed-countries_9cc5032d-cab5-4dfc-8f95-2a0e47dd53c8_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260402174929 +0000" stop="20260402184756 +0000">
-    <title>Crash Course: History of Science</title>
-    <sub-title>Americas, The Romans, and Going Medieval</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Continue your exploration of the history of science, focusing on the ancient civilizations.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/5dea5744-f03f-433c-8006-417fd8d27726_episode-2_6cfc9530-5fda-4304-b81f-6bcc1f28bbc7_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260402184756 +0000" stop="20260402194642 +0000">
-    <title>Drone Wars</title>
-    <sub-title>Drone Triathlon - Episode 12</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Top drone builders design flying machines to conquer extreme challenges.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/64b15956-51a8-42cd-99f1-ad874e705728_drone-wars-episode-12_6479f14c-1ea9-4472-a6ff-d19cc18d6b3d_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260402194642 +0000" stop="20260402202515 +0000">
-    <title>How to Survive</title>
-    <sub-title>Disasters, Naturally</sub-title>
-    <episode-num system="onscreen">S03E14</episode-num>
-    <desc>Explore the powerful forces of nature behind the world’s most devastating natural disasters.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/bcdbf9e8-a898-4261-9b7e-6b09b3c1764f_disasters-naturally_e028048e-f14e-43c3-a6af-a0956ca1ba77_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260402202515 +0000" stop="20260402211347 +0000">
-    <title>Minute By Minute</title>
-    <sub-title>Fukushima Nuclear Accident</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>The 2011 Japan quake and tsunami trigger Fukushima’s nuclear meltdown, minute by minute.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/44728c68-cdb3-4a5d-879c-076647854165_fukushima-nuclear-accident_b11852b1-168b-4c50-9236-955fe4da949d_thumbnail_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260402211347 +0000" stop="20260402213920 +0000">
-    <title>What If: Body</title>
-    <sub-title>That's Sick</sub-title>
-    <episode-num system="onscreen">S01E16</episode-num>
-    <desc>Explore the science of illness, from bizarre diseases to incredible recoveries.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/e872e66f-3510-485c-9e07-dd161ed73c64_that-s-sick_2ae5153e-04ff-4d8b-b181-59b441712399_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260402213920 +0000" stop="20260402220602 +0000">
-    <title>What If: Cosmos</title>
-    <sub-title>The Entire Kardashev Scale Explained in 20 Minutes</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Unlock the levels of civilization advancement with the Kardashev Scale.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/41ac1c58-9d86-41f5-92c1-b4d128d5d4a9_the-entire-kardashev-scale-explained-in-20-minutes_38c144c8-252a-4042-b838-588ded6ca6e5_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260402220602 +0000" stop="20260402231130 +0000">
-    <title>What If: Fan Favorites</title>
-    <sub-title>7 New Worlds We Discovered</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Explore seven newly discovered worlds and what they could reveal about life, space, and our universe.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/eb8ae85b-9a96-4dda-9656-f51aa3e13ecc_7-new-worlds-we-discovered_1a52e897-5459-44cf-8730-b2da2c5f9952_thumbnail_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260402231130 +0000" stop="20260402233922 +0000">
-    <title>What If: Planet Earth</title>
-    <sub-title>Eight Is Enough</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Discover the fascinating world of eight-legged creatures and their impact on our lives, from spiders to ticks!</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/7e4176f6-9210-4aba-a7c3-c8bdd8f36281_eight-is-enough_e5a85735-b6ee-47a0-af58-a5244dd22e79_thumbnail_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260402233922 +0000" stop="20260403014730 +0000">
-    <title>After Antarctica</title>
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260404010406 +0000" stop="20260404030515 +0000">
+    <title>The Mindfulness Movement</title>
     <category>Movie</category>
-    <desc>After Antarctica follows polar explorer Will Steger’s journey as an eyewitness to the significant change.</desc>
+    <desc>The Mindfulness Movement follows people who believe present-moment awareness can build a happier world.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
   </programme>
   
