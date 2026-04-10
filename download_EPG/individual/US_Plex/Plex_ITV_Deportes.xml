@@ -5,40 +5,14 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/a158aa7c-26b6-4c00-af9d-6fe52cab555a/iTV_LOGO-DarkBG_-_Alejandro_N.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260409020000 +0000" stop="20260409050000 +0000">
-    <title>Kickboxing</title>
+<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260410010000 +0000" stop="20260410030000 +0000">
+    <title>El Calor de Cancún vs. Adelitas de Chihuahua</title>
     <category>Movie</category>
-    <desc>Toda la acción de los combates que mezclan las artes marciales con el boxeo.</desc>
-    <date>20010101</date>
-    <icon src="http://www.tmsimg.com/assets/p416177_i_v8_aa.jpg?w=960&amp;h=1440" />
+    <desc>Primer juego de la serie regular de la LNBP Femenil 2026. Desde el Polifórum Benito Juárez, Cancún.</desc>
+    <icon src="http://www.tmsimg.com/assets/p22060960_i_v12_aa.jpg?w=1920&amp;h=2880" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260409050000 +0000" stop="20260409070000 +0000">
-    <title>Tepatitlán vs. Alebrijes de Oaxaca</title>
-    <category>Movie</category>
-    <desc>Jornada 13 del Torneo Clausura 2026 de la Liga Expansión MX. Desde el estadio Gregorio Gómez.</desc>
-    <icon src="http://www.tmsimg.com/assets/p18691836_i_v12_aa.jpg?w=1920&amp;h=2880" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260409070000 +0000" stop="20260409073000 +0000">
-    <title>Campeones</title>
-    <sub-title>Grandes leyendas</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Las historias de las leyendas del boxeo mexicano.</desc>
-    <date>20251117</date>
-    <icon src="http://www.tmsimg.com/assets/p30186833_b_h8_aa.jpg?w=3840&amp;h=2160" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260409073000 +0000" stop="20260409080000 +0000">
-    <title>Campeones</title>
-    <sub-title>Francisco Vargas</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Una mirada a la carrera del boxeador, medallista panamericano y excampeón de la CMB peso superpluma.</desc>
-    <date>20251017</date>
-    <icon src="http://www.tmsimg.com/assets/p30186833_b_h8_aa.jpg?w=3840&amp;h=2160" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260409080000 +0000" stop="20260409083000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260410030000 +0000" stop="20260410033000 +0000">
     <title>Entrevista</title>
     <sub-title>Héctor Ponce de León</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -47,7 +21,59 @@
     <icon src="http://www.tmsimg.com/assets/p23001103_i_h8_aa.jpg?w=3840&amp;h=2160" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260409083000 +0000" stop="20260409090000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260410033000 +0000" stop="20260410040000 +0000">
+    <title>Campeones</title>
+    <sub-title>Grandes leyendas</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Las historias de las leyendas del boxeo mexicano.</desc>
+    <date>20251117</date>
+    <icon src="http://www.tmsimg.com/assets/p30186833_b_h8_aa.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260410040000 +0000" stop="20260410050000 +0000">
+    <title>IWRG: Platicando con</title>
+    <sub-title>Hijo de Fishman</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Charla con Hijo de Fishman sobre su trayectoria en Europa y el circuito independiente.</desc>
+    <date>20251223</date>
+    <icon src="http://www.tmsimg.com/assets/p32031110_b_h8_aa.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260410050000 +0000" stop="20260410070000 +0000">
+    <title>Leones Negros vs. Morelia</title>
+    <category>Movie</category>
+    <desc>Jornada 13 del Torneo Clausura 2026 de la Liga Expansión MX. Desde el Estadio Jalisco.</desc>
+    <icon src="http://www.tmsimg.com/assets/p18691836_i_v12_aa.jpg?w=1920&amp;h=2880" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260410070000 +0000" stop="20260410073000 +0000">
+    <title>Campeones</title>
+    <sub-title>Grandes leyendas</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Las historias de las leyendas del boxeo mexicano.</desc>
+    <date>20251117</date>
+    <icon src="http://www.tmsimg.com/assets/p30186833_b_h8_aa.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260410073000 +0000" stop="20260410080000 +0000">
+    <title>Campeones</title>
+    <sub-title>Francisco Vargas</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Una mirada a la carrera del boxeador, medallista panamericano y excampeón de la CMB peso superpluma.</desc>
+    <date>20251017</date>
+    <icon src="http://www.tmsimg.com/assets/p30186833_b_h8_aa.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260410080000 +0000" stop="20260410083000 +0000">
+    <title>Entrevista</title>
+    <sub-title>Héctor Ponce de León</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Conversación con Héctor Ponce de León, quien ha dedicado su vida a la montaña y el deporte.</desc>
+    <date>20251105</date>
+    <icon src="http://www.tmsimg.com/assets/p23001103_i_h8_aa.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260410083000 +0000" stop="20260410090000 +0000">
     <title>Entrevista</title>
     <sub-title>Misterioso Jr.</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -56,66 +82,52 @@
     <icon src="http://www.tmsimg.com/assets/p23001103_i_h8_aa.jpg?w=3840&amp;h=2160" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260409090000 +0000" stop="20260409110000 +0000">
-    <title>Ocho Grandes Femenil: UANL vs. TEC GDL</title>
+<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260410090000 +0000" stop="20260410110000 +0000">
+    <title>Ocho Grandes Femenil: TEC Monterrey vs. CEU Monterrey</title>
     <category>Movie</category>
-    <desc>Torneo femenino 8 Grandes de la ABE. Cuartos de final. Tigres UANL enfrenta a Borregos GDL.</desc>
+    <desc>Cuartos de final de los Ocho Grandes Femenil 2025. Desde la Arena Borregos, en Monterrey.</desc>
     <icon src="http://www.tmsimg.com/assets/p14518437_i_v8_aa.jpg?w=960&amp;h=1440" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260409110000 +0000" stop="20260409120000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260410110000 +0000" stop="20260410120000 +0000">
     <title>El pierrotazo</title>
-    <sub-title>Coco Negro</sub-title>
-    <episode-num system="onscreen">S01E28</episode-num>
-    <desc>Toda la información del mundo de la lucha libre mexicana, de la mano de los protagonistas del ring.</desc>
+    <sub-title>Huracán Ramírez</sub-title>
+    <episode-num system="onscreen">S01E23</episode-num>
+    <desc>Análisis profundo de la trayectoria deportiva y actor mexicano de Daniel García Arteaga.</desc>
     <icon src="http://www.tmsimg.com/assets/p16932232_i_h10_aa.jpg?w=1920&amp;h=1080" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260409120000 +0000" stop="20260409140000 +0000">
-    <title>Tepatitlán vs. Alebrijes de Oaxaca</title>
+<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260410120000 +0000" stop="20260410140000 +0000">
+    <title>Leones Negros vs. Morelia</title>
     <category>Movie</category>
-    <desc>Jornada 13 del Torneo Clausura 2026 de la Liga Expansión MX. Desde el estadio Gregorio Gómez.</desc>
+    <desc>Jornada 13 del Torneo Clausura 2026 de la Liga Expansión MX. Desde el Estadio Jalisco.</desc>
     <icon src="http://www.tmsimg.com/assets/p18691836_i_v12_aa.jpg?w=1920&amp;h=2880" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260409140000 +0000" stop="20260409170000 +0000">
-    <title>Serie de la Reina: Sultanes de Monterrey vs. Diablos Rojos del México</title>
+<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260410140000 +0000" stop="20260410170000 +0000">
+    <title>Serie de la Reina: Diablos Rojos del México vs. Sultanes de Monterrey</title>
     <category>Movie</category>
-    <desc>Acción del juego 4 de la Serie de la Reina de la Liga Mexicana de Sóftbol 2026.</desc>
+    <desc>Acción del juego 2 de la Serie de la Reina de la Liga Mexicana de Sóftbol 2026.</desc>
     <icon src="http://www.tmsimg.com/assets/p26532877_b_v12_aa.jpg?w=1920&amp;h=2880" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260409170000 +0000" stop="20260409173000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260410170000 +0000" stop="20260410173000 +0000">
     <title>IWRG: Platicando con</title>
-    <sub-title>Los Mexaboys</sub-title>
+    <sub-title>La Dinastía Imperial</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Entrevista con Los Mexaboys, reconocidos por haber ganado el Campeonato de Parejas de la IWRG.</desc>
-    <date>20251225</date>
+    <desc>Charla con la Dinastía Imperial, una de las facciones más reconocidas de la lucha libre mexicana.</desc>
+    <date>20251224</date>
     <icon src="http://www.tmsimg.com/assets/p32031110_b_h8_aa.jpg?w=3840&amp;h=2160" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260409173000 +0000" stop="20260409203000 +0000">
-    <title>Juego de Estrellas 2026</title>
+<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260410173000 +0000" stop="20260410193000 +0000">
+    <title>Home Run Derby 2026</title>
     <category>Movie</category>
-    <desc>Acción de la primera edición del Juego de Estrellas de la Liga Mexicana de Softbol.</desc>
+    <desc>Cobertura de la primera edición del Home Run Derby de la Liga Mexiana de Softbol.</desc>
     <icon src="http://www.tmsimg.com/assets/p26532877_b_v12_aa.jpg?w=1920&amp;h=2880" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260409203000 +0000" stop="20260409213000 +0000">
-    <title>En los deportes, vámonos de largo</title>
-    <category>Movie</category>
-    <desc>Análisis de las últimas noticias y lo más viral del mundo deportivo.</desc>
-    <icon src="http://www.tmsimg.com/assets/p18804136_b_v8_aa.jpg?w=960&amp;h=1440" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260409213000 +0000" stop="20260409233000 +0000">
-    <title>Panteras de Aguascalientes vs. Santas del Potosi</title>
-    <category>Movie</category>
-    <desc>Desde el Auditorio Hermanos Carreón, en Aguascalientes, México.</desc>
-    <icon src="http://www.tmsimg.com/assets/p22060960_i_v12_aa.jpg?w=1920&amp;h=2880" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260409233000 +0000" stop="20260410003000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260410193000 +0000" stop="20260410213000 +0000">
     <title>IWRG: Platicando con</title>
     <sub-title>Tromba y el Mimo</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -124,20 +136,26 @@
     <icon src="http://www.tmsimg.com/assets/p32031110_b_h8_aa.jpg?w=3840&amp;h=2160" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260410003000 +0000" stop="20260410010000 +0000">
-    <title>Entrevista</title>
-    <sub-title>Misterioso Jr.</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Conversación con el luchador Misterioso Jr., conocido también como Misterioso II.</desc>
-    <date>20251104</date>
-    <icon src="http://www.tmsimg.com/assets/p23001103_i_h8_aa.jpg?w=3840&amp;h=2160" />
+<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260410213000 +0000" stop="20260411003000 +0000">
+    <title>Serie de la Reina: Diablos Rojos del México vs. Sultanes de Monterrey</title>
+    <category>Movie</category>
+    <desc>Acción del juego 2 de la Serie de la Reina de la Liga Mexicana de Sóftbol 2026.</desc>
+    <icon src="http://www.tmsimg.com/assets/p26532877_b_v12_aa.jpg?w=1920&amp;h=2880" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260410010000 +0000" stop="20260410030000 +0000">
-    <title>Baloncesto Mexicano Femenino LNBP</title>
+<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260411003000 +0000" stop="20260411010000 +0000">
+    <title>Campeones</title>
+    <sub-title>Gilberto Román</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>La vida del boxeador mexicano, Gilberto Román quien fue campeón de peso supermosca.</desc>
+    <date>20251118</date>
+    <icon src="http://www.tmsimg.com/assets/p30186833_b_h8_aa.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260411010000 +0000" stop="20260411030000 +0000">
+    <title>El Calor de Cancún vs. Adelitas de Chihuahua</title>
     <category>Movie</category>
-    <desc>Toda la acción de los partidos de la liga de baloncesto femenino profesional mexicana.</desc>
-    <date>20220101</date>
+    <desc>Primer juego de la serie regular de la LNBP Femenil 2026. Desde el Polifórum Benito Juárez, Cancún.</desc>
     <icon src="http://www.tmsimg.com/assets/p22060960_i_v12_aa.jpg?w=1920&amp;h=2880" />
   </programme>
   
