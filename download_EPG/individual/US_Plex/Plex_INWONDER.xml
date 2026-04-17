@@ -5,299 +5,394 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/eaa03a9e-c480-4a0a-be8b-a641aa4d7973/inwinder_logo_color_1500x1000_-_Itay_Pollak.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416005353 +0000" stop="20260416012114 +0000">
-    <title>Xploration Outer Space S1 - "Satellites"</title>
-    <sub-title>Satellites</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Host Emily Calandrelli delves into the world of satellites.</desc>
-    <date>20140101</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/f6ba004fb959b903/IN00007137_01_0010_Episodic_3840x2160.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416012114 +0000" stop="20260416014846 +0000">
-    <title>Xploration Outer Space S1 - "The All-Powerful Sun"</title>
-    <sub-title>The All-Powerful Sun</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Host Emily Calandrelli meets with a team of scientists to discuss the dynamic, explosive, and dangerous center of the Solar System: the Sun.</desc>
-    <date>20140101</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/85e790c49aaf82f8/IN00007137_01_0011_Episodic_3840x2160.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416014846 +0000" stop="20260416021645 +0000">
-    <title>Xploration Outer Space S1 - "Extreme Space"</title>
-    <sub-title>Extreme Space</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Host Emily Calandrelli meets with a team of scientists to discuss the death of massive stars in the Universe.</desc>
-    <date>20140101</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/a9e94bc3afc7f0fa/IN00007137_01_0012_Episodic_3840x2160.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416021645 +0000" stop="20260416024448 +0000">
-    <title>Xploration Outer Space S1 - "Why We Explore"</title>
-    <sub-title>Why We Explore</sub-title>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <desc>Through the eyes of astronauts, entrepreneurs, and inventors, host Emily Calandrelli asks one of the key questions of Outer Space: Why do we explore?</desc>
-    <date>20140101</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/5ec70ffec98d62ee/IN00007137_01_0013_Episodic_3840x2160.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416024448 +0000" stop="20260416031459 +0000">
-    <title>The New Frontier S2 - "Getting There"</title>
-    <sub-title>Getting There</sub-title>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <desc>Launching payloads into space is a very difficult task, historically rocket launches are the proverbial 'swords into ploughshares' Missiles designed to carry atomic warheads now send satellites and probes into the solar system.</desc>
-    <date>20160101</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/955d6cac677b2ab7/IN00006350_01_0000_Hero_Clean_3840x2160.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416031459 +0000" stop="20260416034537 +0000">
-    <title>The New Frontier S2 - "Orbit"</title>
-    <sub-title>Orbit</sub-title>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <desc>The International Space Station is undoubtedly the jewel in the crown of low Earth orbit; observation post, research lab and class room. Equally however there are many other assets orbiting Earth that are even more important to our everyday lives.</desc>
-    <date>20160101</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/9d060bf83f9257ff/IN00006350_03_0000_Logo_3840x2160.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416034537 +0000" stop="20260416035837 +0000">
-    <title>Space Greed S1 - "Declaring Martian Law"</title>
-    <sub-title>Declaring Martian Law</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Space is home to crucial resources, important discoveries, and big potential profit.</desc>
-    <date>20210101</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/1441c15e4e6dafd6/IN00007442_01_0000_Title_3840x2160.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416035837 +0000" stop="20260416045715 +0000">
-    <title>Unearth S1 - "A.I. The Code For Consiousness?"</title>
-    <sub-title>A.I. The Code For Consiousness?</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417022648 +0000" stop="20260417033010 +0000">
+    <title>Python Hunters S1 - "Everglades Under Siege"</title>
+    <sub-title>Everglades Under Siege</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Hollywood has made us rather fearful of Artificial Intelligence, or A.I. But as we shall see, A.I. and its dance partner robotics might not be the nemesis we should fear; at least, not if we get them right.</desc>
-    <date>20190101</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/4f0c591523c1dd3e/IN00006904_01_0000_Hero_Clean_3840x2160.jpg" />
+    <desc>The Florida Everglades are home to thousands of invasive plant, insect and animal species and yet the Burmese Python is perceived as the biggest concern. Are they a problem or is this snake hysteria?</desc>
+    <date>20100101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/181d9f1b4522762e/IN00008869_01_0003_Episodic_3840x2160.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416045715 +0000" stop="20260416060000 +0000">
-    <title>Unearth S1 - "Germ Warefare"</title>
-    <sub-title>Germ Warefare</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>A new enemy is emerging. This new enemy is the natural world itself, a microscopic realm of bacteria. And not just any bacteria, but the so-called super-bugs. We'll look at the emerging threats and what scientists are doing to counter them.</desc>
-    <date>20190101</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/1ee7769178873fb3/IN00006904_01_0000_Title_3840x2160.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417033010 +0000" stop="20260417043333 +0000">
+    <title>Python Hunters S2 - "Snake Invasion"</title>
+    <sub-title>Snake Invasion</sub-title>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <desc>This time on Python Hunters… It’s a new season of hunting, and the guys are back in the Everglades to see if Florida’s bitter winter has put a serious dent in the Burmese python population.</desc>
+    <date>20100101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/8c88176cca29b3de/IN00008869_02_0001_Episodic_3840x2160.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416060000 +0000" stop="20260416063054 +0000">
-    <title>The Aviators S1 - "AirVenture"</title>
-    <sub-title>AirVenture</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417043333 +0000" stop="20260417050100 +0000">
+    <title>Wildlife Heroes S1 - "Birute Galdikas"</title>
+    <sub-title>Birute Galdikas</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>America’s largest aviation celebration.</desc>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/3a055fa069638f8c/IN18149886_01_0001_Episodic_3840x2160.jpg" />
+    <desc>Dr. Biruté Mary Galdikas is the leading expert on orangutans, having devoted her life to saving them over the last 50 years.</desc>
+    <date>20200101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/7fad99f8825b2f4a/IN00008001_01_0001_Episodic_3840x2160.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416063054 +0000" stop="20260416070149 +0000">
-    <title>The Aviators S1 - "Chartright"</title>
-    <sub-title>Chartright</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417050100 +0000" stop="20260417052227 +0000">
+    <title>Wildlife Heroes S1 - "Christina Karliczek"</title>
+    <sub-title>Christina Karliczek</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Corporate charters are all about flying in style.</desc>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/250934a5aaca50e7/IN18149886_01_0002_Episodic_3840x2160.jpg" />
+    <desc>Christina Karliczek Skoglund has been filming animals on land and under water in the most remote places for over ten years.</desc>
+    <date>20200101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/9c4c67e6c604650d/IN00008001_01_0002_Episodic_3840x2160.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416070149 +0000" stop="20260416073243 +0000">
-    <title>The Aviators S1 - "Cessna"</title>
-    <sub-title>Cessna</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417052227 +0000" stop="20260417054757 +0000">
+    <title>Wildlife Heroes S1 - "Dr. Betsy Fox"</title>
+    <sub-title>Dr. Betsy Fox</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Anthony explores the legacy of the Cessna brand.</desc>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/ff4a0a2ebf0f41d4/IN18149886_01_0003_Episodic_3840x2160.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416073243 +0000" stop="20260416080339 +0000">
-    <title>The Aviators S1 - "Sun 'n Fun Special"</title>
-    <sub-title>Sun 'n Fun Special</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>We pay a visit to Spring Break for pilots in Lakeland, Florida.</desc>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/eb537a46696d138c/IN18149886_01_0004_Episodic_3840x2160.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416080339 +0000" stop="20260416090657 +0000">
-    <title>Ancient Engineering S1 - "Secrets Of Notre Dame"</title>
-    <sub-title>Secrets Of Notre Dame</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Building for God reached a high point in the Middle Ages when a new engineering movement emerged in Europe, changing the rules forever.</desc>
+    <desc>Originally from the USA, Dr. Betsy Fox has lived in Namibia since 1990 and has led an exciting life ever since amongst its wildlife.</desc>
     <date>20200101</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/bba29a089fa873da/IN00007430_01_0005_Episodic_3840x2160.jpg" />
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/4dcd50900d3cc409/IN00008001_01_0003_Episodic_3840x2160.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416090657 +0000" stop="20260416101015 +0000">
-    <title>Ancient Engineering S1 - "Secrets Of Angkor Wat"</title>
-    <sub-title>Secrets Of Angkor Wat</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Temples, designed to honor the Gods, have been at the heart of cities since the earliest times</desc>
-    <date>20200101</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/15e01bd14e9ac695/IN00007430_01_0006_Episodic_3840x2160.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417054757 +0000" stop="20260417060000 +0000">
+    <title>Bright Now S1 - "Raising a Genius"</title>
+    <sub-title>Raising a Genius</sub-title>
+    <episode-num system="onscreen">S01E27</episode-num>
+    <desc>Every child has a gift, and all of us as humen beings have a contribution that we can make to society, and we just have to find what that is. But what does it take to create a genius? What should the education of a genius look like?</desc>
+    <date>20190101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/3ca6c537d5b8ae81/IN00008666_01_0027_Episodic_3840x2160.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416101015 +0000" stop="20260416111333 +0000">
-    <title>Ancient Engineering S1 - "The Power Of Water"</title>
-    <sub-title>The Power Of Water</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Without water, civilization is simply not possible. Romans took control of their water supplies very, very seriously.</desc>
-    <date>20200101</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/cd7c612387cc6649/IN00007430_01_0007_Episodic_3840x2160.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416111333 +0000" stop="20260416121650 +0000">
-    <title>Ancient Engineering S1 - "History’s Greatest Ships"</title>
-    <sub-title>History’s Greatest Ships</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>As far back as the Bronze Age, humans were building ships capable of crossing oceans and trading between continents.</desc>
-    <date>20200101</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/d36fd6ec059cb95f/IN00007430_01_0008_Episodic_3840x2160.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416121650 +0000" stop="20260416125227 +0000">
-    <title>The Age of Robots S1 - "The Humanoid Robots"</title>
-    <sub-title>The Humanoid Robots</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417060000 +0000" stop="20260417062643 +0000">
+    <title>Survival Science S1 - "Surviving a Bear Attack"</title>
+    <sub-title>Surviving a Bear Attack</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>They look, they move like us and soon they will live among us. They are humanoid robots.Meet an astonishing group of humanoids,among them: iCub,the world's first baby robot and REEM,the Service Robot,ready to be launched as a guide in public spaces.</desc>
-    <date>20150101</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/486ae896218bb25d/IN00008455_01_0001_Episodic_3840x2160.jpg" />
+    <desc>Nick and Laura create kick-ass tests to explore the immense power and startling speed of grizzly bears. They use Hollywood stunt tools to experience an attack. Then try to recreate a “miracle” arrow shot that saved a man from being killed by a bear.</desc>
+    <date>20170101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/5e1c6e95a2e4fa5b/IN00006319_01_0001_Episodic_3840x2160.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416125227 +0000" stop="20260416132815 +0000">
-    <title>The Age of Robots S1 - "Bioinspired Robots"</title>
-    <sub-title>Bioinspired Robots</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417062643 +0000" stop="20260417065302 +0000">
+    <title>Survival Science S1 - "Surviving Treestand Accidents"</title>
+    <sub-title>Surviving Treestand Accidents</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
-    <desc>In this episode we look at a robotic plant that mimics the mechanics of plant roots, and dive underwater to see robots inspired by fish.</desc>
-    <date>20150101</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/c439b21cc683b049/IN00008455_01_0002_Episodic_3840x2160.jpg" />
+    <desc>In this exciting episode we’ll find out the reasons why tree stand accidents happen and how we can prevent them. Cool science mixed with dynamic experiments send our hosts, our stunt team and our special crash test dummies plummeting to the ground.</desc>
+    <date>20170101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/ebdf35fcea1235cc/IN00006319_01_0002_Episodic_3840x2160.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416132815 +0000" stop="20260416140416 +0000">
-    <title>The Age of Robots S1 - "City of the Future"</title>
-    <sub-title>City of the Future</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417065302 +0000" stop="20260417072111 +0000">
+    <title>Survival Science S1 - "Sniper Attack"</title>
+    <sub-title>Sniper Attack</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
-    <desc>By the year 2050, three qarters of the world's population will live in urban areas. Looking at robotic systems being developed worlwide we can take a glimpse at the city life of the future.</desc>
-    <date>20150101</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/fc0c76aff109af90/IN00008455_01_0003_Episodic_3840x2160.jpg" />
+    <desc>Military snipers are trained in a variety of skills: detection, stalking, camouflage, infiltration, special reconnaissance and target acquisition. Bottom line, a ton of cool shooting and science for Nick and Laura to explore!</desc>
+    <date>20170101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/d489a80ebf111053/IN00006319_01_0003_Episodic_3840x2160.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416140416 +0000" stop="20260416144137 +0000">
-    <title>The Age of Robots S1 - "Robot Explorers"</title>
-    <sub-title>Robot Explorers</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417072111 +0000" stop="20260417074840 +0000">
+    <title>Survival Science S1 - "Surviving a Lightning Strike"</title>
+    <sub-title>Surviving a Lightning Strike</sub-title>
     <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Inhospitable environments that would normally be unreacheble become accessible thanks to Robot Explorers. Robots can help us in difficult tasks but is there any danger in letting machines handle so many tasks that used to belong to us?</desc>
-    <date>20150101</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/2d94a65f17c695a7/IN00008455_01_0004_Episodic_3840x2160.jpg" />
+    <desc>Laura and Nick travel to a state-of-the-art Direct Effects Lightning Test Lab. With some “explosive” experiments, they’ll determine the power lightning and how it behaves?  And they’ll find out how can hunters and fishermen best protect themselves?</desc>
+    <date>20170101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/cbdd15923e70a7b6/IN00006319_01_0004_Episodic_3840x2160.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416144137 +0000" stop="20260416155108 +0000">
-    <title>Journey to Planet Earth S2 - "Hot Zones"</title>
-    <sub-title>Hot Zones</sub-title>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <desc>Examines how recent trends in globalization and the altering of ecosystems have led to dramatic increases in the spread of infectious diseases.</desc>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/dfa5825a496be03f/IN00008794_02_0002_Episodic_3840x2160.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417074840 +0000" stop="20260417081456 +0000">
+    <title>Hollywood Weapons: Fact or Fiction? S6 - "Terry Reacher"</title>
+    <sub-title>Terry Reacher</sub-title>
+    <episode-num system="onscreen">S06E02</episode-num>
+    <desc>We're putting Jack Reacher to the test! The movie, the series, and the pie!</desc>
+    <date>20240101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/aac4abe8c782278a/IN00005186_06_0002_Episodic_3840x2160.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416155108 +0000" stop="20260416165955 +0000">
-    <title>Journey to Planet Earth S2 - "Seas of Grass"</title>
-    <sub-title>Seas of Grass</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417081456 +0000" stop="20260417084112 +0000">
+    <title>Hollywood Weapons: Fact or Fiction? S6 - "The Harder Terry Falls"</title>
+    <sub-title>The Harder Terry Falls</sub-title>
+    <episode-num system="onscreen">S06E03</episode-num>
+    <desc>Dust off your chaps as Terry tests several things from the epic western The Harder They Fall, and a canteen buster test from Gunsmoke!</desc>
+    <date>20240101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/3c820c0a781c755a/IN00005186_06_0003_Episodic_3840x2160.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417084112 +0000" stop="20260417090729 +0000">
+    <title>Hollywood Weapons: Fact or Fiction? S6 - "The Schappert Identity"</title>
+    <sub-title>The Schappert Identity</sub-title>
+    <episode-num system="onscreen">S06E04</episode-num>
+    <desc>Terry channels his inner Jason Bourne to test some of the best moments from the series of films.</desc>
+    <date>20240101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/3f9ae7005ede99f0/IN00005186_06_0004_Episodic_3840x2160.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417090729 +0000" stop="20260417093345 +0000">
+    <title>Hollywood Weapons: Fact or Fiction? S6 - "We Do It For You"</title>
+    <sub-title>We Do It For You</sub-title>
+    <episode-num system="onscreen">S06E05</episode-num>
+    <desc>We go to the mail room for viewer requests as Terry and Larry take a look into famous scenes from Yellowstone, SWAT, Fast and Furious.</desc>
+    <date>20240101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/28b6975003aec967/IN00005186_06_0005_Episodic_3840x2160.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417093345 +0000" stop="20260417100305 +0000">
+    <title>The Re-Inventors S2 - "Panjandrum"</title>
+    <sub-title>Panjandrum</sub-title>
     <episode-num system="onscreen">S02E03</episode-num>
-    <desc>Shows the devastating environmental, political, and economic effects of the degradation of the world's grasslands.</desc>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/1475e6ac3f5a5eb2/IN00008794_02_0003_Episodic_3840x2160.jpg" />
+    <desc>Rockets, 100 pounds os explosives, and a "wheel of fiery death". For the Re-Inventors it's just another day, another danger.</desc>
+    <date>20070101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/a3c450c0a8290eea/IN00008527_02_0003_Episodic_3840x2160.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416165955 +0000" stop="20260416181008 +0000">
-    <title>Journey to Planet Earth S2 - "On the Brink"</title>
-    <sub-title>On the Brink</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417100305 +0000" stop="20260417103226 +0000">
+    <title>The Re-Inventors S2 - "Windmill"</title>
+    <sub-title>Windmill</sub-title>
     <episode-num system="onscreen">S02E04</episode-num>
-    <desc>Considers how environmental pressures can lead to terrorism and regional conflict.</desc>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/9c2cc8e8aaccf8e8/IN00008794_02_0004_Episodic_3840x2160.jpg" />
+    <desc>Over 1000 years old windmill design. Is it still usable today?</desc>
+    <date>20070101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/d211bb84f018b56e/IN00008527_02_0004_Episodic_3840x2160.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416181008 +0000" stop="20260416183727 +0000">
-    <title>Health Explored S2 - "Pura Vida Part 1"</title>
-    <sub-title>Pura Vida Part 1</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417103226 +0000" stop="20260417110146 +0000">
+    <title>The Re-Inventors S2 - "Crematorium"</title>
+    <sub-title>Crematorium</sub-title>
     <episode-num system="onscreen">S02E05</episode-num>
-    <desc>"Pura Vida" is a popular saying in Costa Rica, often translated as "pure life" or "simple life." We learn from centenarians from the Blue Zone why we should live a pure life.</desc>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/7b412541fd1c22ee/IN41310023_01_0000_Hero_Title_3840x2160.jpg" />
+    <desc>Crematorium heated by sunlight, find out if the sun can turn a person into a pile of ashes.</desc>
+    <date>20070101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/f8e5dbd36c984689/IN00008527_02_0005_Episodic_3840x2160.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416183727 +0000" stop="20260416190533 +0000">
-    <title>Health Explored S2 - "Pura Vida Part 2"</title>
-    <sub-title>Pura Vida Part 2</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417110146 +0000" stop="20260417113106 +0000">
+    <title>The Re-Inventors S2 - "Flame Thower"</title>
+    <sub-title>Flame Thower</sub-title>
     <episode-num system="onscreen">S02E06</episode-num>
-    <desc>We learn about conservation in Costa Rica from reforestation projects, to sustainable fishing and endangered turtle rescue.</desc>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/7b412541fd1c22ee/IN41310023_01_0000_Hero_Title_3840x2160.jpg" />
+    <desc>A thousand years old Chinese flamethrower, will it be a real weapon or just a kitchen tool for flaming.</desc>
+    <date>20070101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/c670f598972ab100/IN00008527_02_0006_Episodic_3840x2160.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416190533 +0000" stop="20260416193319 +0000">
-    <title>Health Explored S2 - "A Taste of Life Part 1"</title>
-    <sub-title>A Taste of Life Part 1</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417113106 +0000" stop="20260417120114 +0000">
+    <title>The New Frontier S2 - "Shore to Shore"</title>
+    <sub-title>Shore to Shore</sub-title>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <desc>Our seafaring nature has translated well to the space age, seeking to sail out into the unknown in search of riches of one kind or another. While Europe and Asia continue their interest in the resource rich Moon, The United States and NASA on Mars.</desc>
+    <date>20160101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/c4bd3aa6f6ba0396/IN00006350_01_0000_Hero_Clean_3840x2160.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417120114 +0000" stop="20260417123122 +0000">
+    <title>The New Frontier S2 - "Mars: Adapt or Leave"</title>
+    <sub-title>Mars: Adapt or Leave</sub-title>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <desc>As the latest successes and failures come and go Mars continues to give up her secrets. Invisible clouds are revealed with ultraviolet light and the search for the source of methane continues with ExoMars.</desc>
+    <date>20160101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/a0698e5083c8953a/IN00006350_03_0000_Logo_3840x2160.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417123122 +0000" stop="20260417130130 +0000">
+    <title>The New Frontier S2 - "Emissaries"</title>
+    <sub-title>Emissaries</sub-title>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <desc>Our solar system is vast, from our own star the Sun to Earth is nearly 150 million kilometers or 1 Astronomical Unit. Jupiter is 5.2 AU distant and Pluto up to 48AU, the solar system extends far beyond this into interstellar space.</desc>
+    <date>20160101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/c5d8aa7b70aab7a2/IN00006350_01_0000_Title_3840x2160.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417130130 +0000" stop="20260417133208 +0000">
+    <title>The New Frontier S2 - "Danger Asteroids Ahead"</title>
+    <sub-title>Danger Asteroids Ahead</sub-title>
     <episode-num system="onscreen">S02E07</episode-num>
-    <desc>Why does Sardinia stand alone as Europe's Healthiest Community? Is it the coast, the pastures or the mountains that grant its residences with longevity?</desc>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/7b412541fd1c22ee/IN41310023_01_0000_Hero_Title_3840x2160.jpg" />
+    <desc>The question often rises is the cost of space exploration really worth it? Could the money be better spent elsewhere. If so one space program would have to remain. The planetary defence program, to locate identify and deflect a wayward asteroid.</desc>
+    <date>20160101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/bee92f7e4c27a6a1/IN00006350_03_0000_Clean_3840x2160.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416193319 +0000" stop="20260416200108 +0000">
-    <title>Health Explored S2 - "A Taste of Life Part 2"</title>
-    <sub-title>A Taste of Life Part 2</sub-title>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <desc>Learn about the foods and the culture that makes Sardinia so special. From fishing with their hands, to traditional foods... it's a culinary exploration in good health.</desc>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/7b412541fd1c22ee/IN41310023_01_0000_Hero_Title_3840x2160.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416200108 +0000" stop="20260416210626 +0000">
-    <title>Wildest India S1 - "The Himalayas: Surviving the Summits"</title>
-    <sub-title>The Himalayas: Surviving the Summits</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>The Himalayas run across 1550 miles of north India. The Himalayas' rugged highlands offer little direct refuge to humans, and in the shadow below, over a billion people in India rely on the mountains for survival.</desc>
-    <date>20110101</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/ad2885e40f590580/IN00003993_01_0003_Episodic_3840x2160.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416210626 +0000" stop="20260416221148 +0000">
-    <title>Wildest India S1 - "Western Ghats: Monsoon Mountains'"</title>
-    <sub-title>Western Ghats: Monsoon Mountains'</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>The Western Ghats are a spine of mountains that lay claim to being one of the most biodiverse places in the world. In the east, tigers and wild dogs compete for prey. All the while, the western Ghats hold the key to life across southern India.</desc>
-    <date>20110101</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/3cad4169b8bf645e/IN00003993_01_0004_Episodic_3840x2160.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416221148 +0000" stop="20260416231711 +0000">
-    <title>Wildest India S1 - "India’s Lost World"</title>
-    <sub-title>India’s Lost World</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417133208 +0000" stop="20260417135901 +0000">
+    <title>Survival Science S1 - "Surviving Nature’s Fury – Storms"</title>
+    <sub-title>Surviving Nature’s Fury – Storms</sub-title>
     <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Northeast India is an anthropological paradise; there is no other place on Earth with so many different ethnic groups. The forests are filled with mysterious tribes whose lives are dictated by the rain and the seasonal fruits of the forest.</desc>
-    <date>20110101</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/49a3efee73857ddc/IN00003993_01_0005_Episodic_3840x2160.jpg" />
+    <desc>Nick and Laura experience Nature’s fury through storm amazing generating gear that simulates terrible hurricanes, ice cold winds and even tornados. For these experiments they’ll use remarkable technology that creates massive storms on Hollywood sets.</desc>
+    <date>20170101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/b10161cd84e52250/IN00006319_01_0005_Episodic_3840x2160.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416231711 +0000" stop="20260416234825 +0000">
-    <title>Amazing Animals S1 - "Animal Journeys Part 1"</title>
-    <sub-title>Animal Journeys Part 1</sub-title>
-    <episode-num system="onscreen">S01E37</episode-num>
-    <desc>Extraordinary land, sea and air migrations. Voyages in the natural world that will leave you awestruck. What compels animals and even certain plants to embark upon such great journeys, pulling off remarkable navigational feats along the way?</desc>
-    <date>20100101</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/d31a1f7c6ecd3014/IN00008464_01_0037_Episodic_3840x2160.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417135901 +0000" stop="20260417142436 +0000">
+    <title>Survival Science S1 - "Surviving a Mountain Lion Attack"</title>
+    <sub-title>Surviving a Mountain Lion Attack</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Laura and Nick explore the techniques to deal with these apex predators when they are the most dangerous. We’ll scientifically breakdown the behaviors, strength, eyesight and speed of mountain lions through outrageous experiments, in day and night.</desc>
+    <date>20170101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/acb785aabe5e8eb0/IN00006319_01_0006_Episodic_3840x2160.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260416234825 +0000" stop="20260417002203 +0000">
-    <title>Amazing Animals S1 - "Animal Journeys Part 2"</title>
-    <sub-title>Animal Journeys Part 2</sub-title>
-    <episode-num system="onscreen">S01E38</episode-num>
-    <desc>Extraordinary land, sea and air migrations. Voyages in the natural world that will leave you awestruck. What compels animals and even certain plants to embark upon such great journeys, pulling off remarkable navigational feats along the way?</desc>
-    <date>20100101</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/faa36c411c973384/IN00008464_01_0038_Episodic_3840x2160.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417142436 +0000" stop="20260417145320 +0000">
+    <title>Nigel Latta Blows Stuff Up S1 - "Fire"</title>
+    <sub-title>Fire</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>What really happens in a house fire ? Nigel sets out to get the answer by setting a house on fire. The results are surprising.</desc>
+    <date>20150101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/12879bb9d2eced06/IN00008123_01_0005_Episodic_3840x2160.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417002203 +0000" stop="20260417012355 +0000">
-    <title>Python Hunters S1 - "The Perfect Storm"</title>
-    <sub-title>The Perfect Storm</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417145320 +0000" stop="20260417152221 +0000">
+    <title>Nigel Latta Blows Stuff Up S1 - "Space"</title>
+    <sub-title>Space</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Nigel wants to be the first New Zealander to make it into space. To do so he explores the fundamental physics of rocket science, and demonstrates the sometimes wayward nature of science.</desc>
+    <date>20150101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/53f258e035fb591b/IN00008123_01_0006_Episodic_3840x2160.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417152221 +0000" stop="20260417155002 +0000">
+    <title>Nigel Latta Blows Stuff Up S1 - "Sound"</title>
+    <sub-title>Sound</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Breaking the sound barrier. A good excuse for Nigel to invent some crazy experiments, and break a few other things along the way. Using some clever models, including 150 school students with flags, he examines the fundamentals of sound.</desc>
+    <date>20150101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/7546d080a0e98044/IN00008123_01_0007_Episodic_3840x2160.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417155002 +0000" stop="20260417161900 +0000">
+    <title>Nigel Latta Blows Stuff Up S1 - "Gravity"</title>
+    <sub-title>Gravity</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Gravity is usually associated with names like Galileo and Isaac Newton. Nigel tests the fundamentals of gravity through some interesting and innovative experiments.</desc>
+    <date>20150101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/863988399856f773/IN00008123_01_0008_Episodic_3840x2160.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417161900 +0000" stop="20260417172018 +0000">
+    <title>Science of Thrills S1 - "Speed"</title>
+    <sub-title>Speed</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The Python Hunters decide to tackle the debate over how the Burmese Pythons came to be established in the Everglades.</desc>
-    <date>20100101</date>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/09b52aa40ea72749/IN00008869_01_0001_Episodic_3840x2160.jpg" />
+    <desc>Engineer and adventurer Rob Bell climbs aboard some of the world’s fastest theme park rides and learns what it takes to build them.</desc>
+    <date>20160101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/8c9fa02953ba60ca/TE00000601_01_0001_Episodic_3840x2160.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417172018 +0000" stop="20260417182135 +0000">
+    <title>Science of Thrills S1 - "Falling"</title>
+    <sub-title>Falling</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Engineer and adventurer Rob Bell discovers how our fear of falling is exploited by some of the world’s top theme park rides.</desc>
+    <date>20160101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/6c90a01d8e86f620/TE00000601_01_0002_Episodic_3840x2160.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417182135 +0000" stop="20260417192252 +0000">
+    <title>Science of Thrills S1 - "Height"</title>
+    <sub-title>Height</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Engineer and adventurer Rob Bell climbs aboard four spectacular rollercoasters in Europe and America that exploit our fear of heights.</desc>
+    <date>20160101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/c4f2a5c4472cb547/TE00000601_01_0003_Episodic_3840x2160.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417192252 +0000" stop="20260417202410 +0000">
+    <title>Science of Thrills S1 - "Inversion"</title>
+    <sub-title>Inversion</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Engineer and adventurer Rob Bell investigates four roller coasters in Europe and America that use inversions, or loops, to create thrilling rides.</desc>
+    <date>20160101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/39ac0d733aa9f3db/TE00000601_01_0004_Episodic_3840x2160.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417202410 +0000" stop="20260417205541 +0000">
+    <title>Rethink S1 - "McGurk Effect Phenomenon"</title>
+    <sub-title>McGurk Effect Phenomenon</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Lets take a look at the art movement photorealism and another test for your ears in the McGurk Effect phenomenon. We’ll take you back in time to introduce you to Peppers ghost and highlight famous forward thinker Leonardo Da Vinci.</desc>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/0207b26b0b966f4e/IN00009365_01_0004_Episodic_3840x2160.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417205541 +0000" stop="20260417212712 +0000">
+    <title>Rethink S1 - "Zeno’s paradox and The UV - A Blacklight"</title>
+    <sub-title>Zeno’s paradox and The UV - A Blacklight</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>In a world where nothing is what it seems, we’ll take a look at magician’s trade secrets, the contradictions of Zeno’s paradox, and the UV - A Blacklight. We’ll take another look at the levitation illusion, and illusionist David Blaine.</desc>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/6eabd028d078da9f/IN00009365_01_0005_Episodic_3840x2160.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417212712 +0000" stop="20260417215618 +0000">
+    <title>Angry Planet S1 - "Avalanche"</title>
+    <sub-title>Avalanche</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Avalanche danger is very high in the Rogers Pass area of the Trans Canada Highway in British Columbia. Host of Angry Planet George Kourounis travels with a variety of experts to bring down huge avalanches in the Rocky Mountains.</desc>
+    <date>20070101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/31d52546828e48a1/IN00009355_01_0009_Episodic_3840x2160.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417215618 +0000" stop="20260417222526 +0000">
+    <title>Angry Planet S1 - "Blizzard"</title>
+    <sub-title>Blizzard</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Our host George becomes a “human popsicle”, encased in ice in at the National Resarch Council’s high speed wind tunnel. Then he and his sidekick Mark Robinson climb to the top of the mountain in mid-January and brave their way into a summit blizzard.</desc>
+    <date>20070101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/84181d541ed45787/IN00009355_01_0000_Title_3840x2160.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417222526 +0000" stop="20260417225433 +0000">
+    <title>Angry Planet S1 - "Fin del Mundo"</title>
+    <sub-title>Fin del Mundo</sub-title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <desc>Some of the fiercest weather on the planet can be experienced at the southern tip of Argentina and Chile– the area the South Americans call the “Fin del Mundo” – the end of the world.</desc>
+    <date>20070101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/b6a990e12568419a/IN00009355_03_0000_Hero_Title_3840x2160.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417225433 +0000" stop="20260417232229 +0000">
+    <title>Xploration Awesome Planet S6 - "Slovenia"</title>
+    <sub-title>Slovenia</sub-title>
+    <episode-num system="onscreen">S06E05</episode-num>
+    <desc>In this episode, we travel to the country of Slovenia and look at how karst rock has led to the formation of over 12,000 caves across the country.</desc>
+    <date>20200101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/d12cfd7586ac8cb8/IN00004121_06_0005_Episodic_3840x2160.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417232229 +0000" stop="20260417235037 +0000">
+    <title>Xploration Awesome Planet S6 - "Animal Rescue"</title>
+    <sub-title>Animal Rescue</sub-title>
+    <episode-num system="onscreen">S06E06</episode-num>
+    <desc>In this episode, we will visit a few different animal rescues centers starting with the marine mammal centre in Vancouver as they tend to orphaned harbor seals.</desc>
+    <date>20200101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/9b18ce7df9c19929/IN00004121_06_0006_Episodic_3840x2160.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260417235037 +0000" stop="20260418001845 +0000">
+    <title>Xploration Awesome Planet S6 - "Invasive Planet"</title>
+    <sub-title>Invasive Planet</sub-title>
+    <episode-num system="onscreen">S06E07</episode-num>
+    <desc>In this episode, we see a few different ways researchers are fighting invasive plants, animals, and materials in native habitats.</desc>
+    <date>20200101</date>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/c07da40e35616103/IN00004121_02_0000_Title_3840x2160.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260418001845 +0000" stop="20260418011559 +0000">
+    <title>Heavy Lifting S1 - "Special Delivery"</title>
+    <sub-title>Special Delivery</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Regional Crane’s new machine hits a hydraulic snag. Dave uses his downtime for repairs, and Brad helps clear a stand of pine trees.</desc>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/e8e07769e934147a/IN47010715_01_0004_Episodic_3840x2160.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260418011559 +0000" stop="20260418021311 +0000">
+    <title>Heavy Lifting S1 - "The Need for Speed"</title>
+    <sub-title>The Need for Speed</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Maxum Crane tackles a tight indoor lift, JP removes a 60-year-old fighter jet, and Brad and Nathan race to install farm machinery before a storm hits.</desc>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/ca3f0ff405922bde/IN47010715_01_0005_Episodic_3840x2160.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260418021311 +0000" stop="20260418031023 +0000">
+    <title>Heavy Lifting S1 - "Son of a Sailor"</title>
+    <sub-title>Son of a Sailor</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Dan and Francis pull boats for winter. Maxum replaces a ferry engine. Brad and Nathan face tricky container moves. J.P. finishes by greasing the boom.</desc>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/89b4d81552382c4e/IN47010715_01_0006_Episodic_3840x2160.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" start="20260418031023 +0000" stop="20260418040605 +0000">
+    <title>Secrets of the Factories S1 - "Secrets of McVitie's Biscuits"</title>
+    <sub-title>Secrets of McVitie's Biscuits</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>The McVitie's factory in Carlisle, Cumbria, opens its doors to reveal how millions of the nation's favourite biscuits are made, 24 hours a day, in one of Britain's biggest factories and oldest biscuit factory in the world.</desc>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/6c98e3d362632a1b/IN72310553_01_0001_Episodic_3840x2160.jpg" />
   </programme>
   
 </tv>
