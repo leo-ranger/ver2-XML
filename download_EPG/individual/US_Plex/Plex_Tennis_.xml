@@ -5,75 +5,67 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260417005642 +0000" stop="20260417053856 +0000">
-    <title>Australian Open Full Match</title>
-    <sub-title>AO92 Men's Third Round - Becker v McEnroe</sub-title>
-    <episode-num system="onscreen">S1992E25</episode-num>
-    <desc>Full Match of Australian Open 1992 Men's Third Round - Boris Becker v John McEnroe</desc>
-    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260417053856 +0000" stop="20260417093000 +0000">
-    <title>Australian Open Full Match</title>
-    <sub-title>AO25 Men's First Round - Rinderknech v Tiafoe</sub-title>
-    <episode-num system="onscreen">S2025E07</episode-num>
-    <desc>Full Match of Australian Open 2025 Men's First Round - Rinderknech v Frances Tiafoe</desc>
-    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260417093000 +0000" stop="20260417105458 +0000">
-    <title>Pod Laver Arena</title>
-    <sub-title>Weekly Episode</sub-title>
-    <episode-num system="onscreen">S2026E01</episode-num>
-    <desc>Latest episode of Pod Laver Arena hosted by comedians Mike Goldstein and Lizzy Hoo</desc>
-    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/PodLaverArenaLogo.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260417105458 +0000" stop="20260417130901 +0000">
-    <title>Australian Open Full Match</title>
-    <sub-title>AO14 Men's Semifinal - Nadal v Federer</sub-title>
-    <episode-num system="onscreen">S2014E04</episode-num>
-    <desc>Full Match of Australian Open 2014 Men's Semifinal - Rafael Nadal v Roger Federer</desc>
-    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260417130901 +0000" stop="20260417171315 +0000">
-    <title>Australian Open Full Match</title>
-    <sub-title>AO16 Men's Fourth Round - Djokovic v Simon</sub-title>
-    <episode-num system="onscreen">S2016E04</episode-num>
-    <desc>Full Match of Australian Open 2016 Men's Fourth Round - Novak Djokovic v Gilles Simon</desc>
-    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260417171315 +0000" stop="20260417211429 +0000">
-    <title>Australian Open Full Match</title>
-    <sub-title>AO24 Men's Quarterfinal - Djokovic v Fritz</sub-title>
-    <episode-num system="onscreen">S2024E11</episode-num>
-    <desc>Full Match of Australian Open 2024 Men's Quarterfinal - Novak Djokovic v Taylor Fritz</desc>
-    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260417211429 +0000" stop="20260418011011 +0000">
-    <title>Australian Open Full Match</title>
-    <sub-title>AO25 Women's Quarterfinal - Sabalenka v Pavlyuchenkova</sub-title>
-    <episode-num system="onscreen">S2025E48</episode-num>
-    <desc>Full Match of Australian Open 2025 Women's Quarterfinal - Aryna Sabalenka v Anastasia Pavlyuchenkova</desc>
-    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260418011011 +0000" stop="20260418015448 +0000">
-    <title>Australian Open Full Match</title>
-    <sub-title>AO19 Women's Fourth Round - S Williams v Halep</sub-title>
-    <episode-num system="onscreen">S2019E15</episode-num>
-    <desc>Full Match of Australian Open 2019 Women's Fourth Round - Serena Williams v Simona Halep</desc>
-    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260418015448 +0000" stop="20260418043242 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260418015523 +0000" stop="20260418043317 +0000">
     <title>Australian Open Full Match</title>
     <sub-title>AO24 Men's Quarterfinal - Zverev v Alcaraz</sub-title>
     <episode-num system="onscreen">S2024E14</episode-num>
     <desc>Full Match of Australian Open 2024 Men's Quarterfinal - Alexander Zverev v Carlos Alcaraz</desc>
+    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260418043317 +0000" stop="20260418075058 +0000">
+    <title>Australian Open Full Match</title>
+    <sub-title>AO22 Men's Fourth Round - Sinner v de Minaur</sub-title>
+    <episode-num system="onscreen">S2022E06</episode-num>
+    <desc>Full Match of Australian Open 2022 Men's Fourth Round - Jannik Sinner v Alex de Minaur</desc>
+    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260418075058 +0000" stop="20260418101611 +0000">
+    <title>Australian Open Full Match</title>
+    <sub-title>AO25 Women's Semifinal - Swiatek v Keys</sub-title>
+    <episode-num system="onscreen">S2025E56</episode-num>
+    <desc>Full Match of Australian Open 2025 Women's Semifinal - Iga Swiatek v Madison Keys</desc>
+    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260418101611 +0000" stop="20260418165027 +0000">
+    <title>Australian Open Full Match</title>
+    <sub-title>AO18 Women's Semifinal - Halep v Kerber</sub-title>
+    <episode-num system="onscreen">S2018E11</episode-num>
+    <desc>Full Match of Australian Open 2018 Women's Semifinal - Simona Halep v Angelique Kerber</desc>
+    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260418165027 +0000" stop="20260418192347 +0000">
+    <title>Australian Open Full Match</title>
+    <sub-title>AO24 Men's Quarterfinal - Sinner v Rublev</sub-title>
+    <episode-num system="onscreen">S2024E13</episode-num>
+    <desc>Full Match of Australian Open 2024 Men's Quarterfinal - Jannik Sinner v Andrey Rublev</desc>
+    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260418192347 +0000" stop="20260418222840 +0000">
+    <title>Australian Open Full Match</title>
+    <sub-title>AO25 Men's Quarterfinal - Zverev v Paul</sub-title>
+    <episode-num system="onscreen">S2025E17</episode-num>
+    <desc>Full Match of Australian Open 2025 Men's Quarterfinal - Alexander Zverev v Tommy Paul</desc>
+    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260418222840 +0000" stop="20260419001758 +0000">
+    <title>Australian Open Full Match</title>
+    <sub-title>AO16 Women's Quarterfinal - Kerber v Azarenka</sub-title>
+    <episode-num system="onscreen">S2016E13</episode-num>
+    <desc>Full Match of Australian Open 2016 Women's Quarterfinal - Angelique Kerber v Victoria Azarenka</desc>
+    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260419001758 +0000" stop="20260419044052 +0000">
+    <title>Australian Open Full Match</title>
+    <sub-title>AO25 Men's Second Round - Tien v Medvedev</sub-title>
+    <episode-num system="onscreen">S2025E24</episode-num>
+    <desc>Full Match of Australian Open 2025 Men's Second Round - Learner Tien v Daniil Medvedev</desc>
     <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
   </programme>
   
