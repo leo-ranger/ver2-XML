@@ -5,14 +5,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/e29b4344-3b1d-4fb1-b00d-5f0204466380/PLEX_1500X1000_LOGO_LIGHT.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260418010000 +0000" stop="20260418040000 +0000">
-    <title>Fox Weather @ Night</title>
-    <sub-title>Fox Weather @ Night</sub-title>
-    <desc>Pull an all-nighter with fox weather as our meteorologists recap the day in weather news and forecast across America for tomorrow.</desc>
-    <date>20260418</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260418040000 +0000" stop="20260418050000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260419020000 +0000" stop="20260419030000 +0000">
     <title>Park'd Places</title>
     <sub-title>Rocky Mountain National Park</sub-title>
     <episode-num system="onscreen">S01E09</episode-num>
@@ -20,7 +13,7 @@
     <date>20260403</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260418050000 +0000" stop="20260418060000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260419030000 +0000" stop="20260419040000 +0000">
     <title>Park'd Places</title>
     <sub-title>Denali National Park and Preserve</sub-title>
     <episode-num system="onscreen">S01E10</episode-num>
@@ -28,7 +21,7 @@
     <date>20260403</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260418060000 +0000" stop="20260418070000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260419040000 +0000" stop="20260419050000 +0000">
     <title>Park'd Places</title>
     <sub-title>Rocky Mountain National Park</sub-title>
     <episode-num system="onscreen">S01E09</episode-num>
@@ -36,7 +29,7 @@
     <date>20260403</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260418070000 +0000" stop="20260418080000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260419050000 +0000" stop="20260419060000 +0000">
     <title>Park'd Places</title>
     <sub-title>Denali National Park and Preserve</sub-title>
     <episode-num system="onscreen">S01E10</episode-num>
@@ -44,7 +37,7 @@
     <date>20260403</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260418080000 +0000" stop="20260418090000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260419060000 +0000" stop="20260419070000 +0000">
     <title>Park'd Places</title>
     <sub-title>Rocky Mountain National Park</sub-title>
     <episode-num system="onscreen">S01E09</episode-num>
@@ -52,7 +45,7 @@
     <date>20260403</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260418090000 +0000" stop="20260418100000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260419070000 +0000" stop="20260419080000 +0000">
     <title>Park'd Places</title>
     <sub-title>Denali National Park and Preserve</sub-title>
     <episode-num system="onscreen">S01E10</episode-num>
@@ -60,21 +53,37 @@
     <date>20260403</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260418100000 +0000" stop="20260418160000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260419080000 +0000" stop="20260419090000 +0000">
+    <title>Park'd Places</title>
+    <sub-title>Rocky Mountain National Park</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>The magnificent peaks and majestic wildlife.</desc>
+    <date>20260403</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260419090000 +0000" stop="20260419100000 +0000">
+    <title>Park'd Places</title>
+    <sub-title>Denali National Park and Preserve</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Abby's back in Alaska, this time in Denali.</desc>
+    <date>20260403</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260419100000 +0000" stop="20260419160000 +0000">
     <title>Weather Command Weekend</title>
     <sub-title>Weather Command Weekend</sub-title>
     <desc>Stay up to date inside the Weather Command center; get your weekend forecast with real-time weather alerts and breaking weather news from America's forecast authority.</desc>
-    <date>20260418</date>
+    <date>20260419</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260418160000 +0000" stop="20260418220000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260419160000 +0000" stop="20260419220000 +0000">
     <title>FOX Weather Live Weekend</title>
     <sub-title>FOX Weather Live Weekend</sub-title>
     <desc>Make the most of your weekend plans with all the latest forecasts from fox weather; get a jump start on your week with all the latest weather news and what to expect in weather.</desc>
-    <date>20260418</date>
+    <date>20260419</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260418220000 +0000" stop="20260418230000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260419220000 +0000" stop="20260419230000 +0000">
     <title>Park'd Places</title>
     <sub-title>Rocky Mountain National Park</sub-title>
     <episode-num system="onscreen">S01E09</episode-num>
@@ -82,7 +91,7 @@
     <date>20260403</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260418230000 +0000" stop="20260419000000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260419230000 +0000" stop="20260420000000 +0000">
     <title>Park'd Places</title>
     <sub-title>Denali National Park and Preserve</sub-title>
     <episode-num system="onscreen">S01E10</episode-num>
@@ -90,7 +99,7 @@
     <date>20260403</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260419000000 +0000" stop="20260419010000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260420000000 +0000" stop="20260420010000 +0000">
     <title>Park'd Places</title>
     <sub-title>Rocky Mountain National Park</sub-title>
     <episode-num system="onscreen">S01E09</episode-num>
@@ -98,7 +107,7 @@
     <date>20260403</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260419010000 +0000" stop="20260419020000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260420010000 +0000" stop="20260420020000 +0000">
     <title>Park'd Places</title>
     <sub-title>Denali National Park and Preserve</sub-title>
     <episode-num system="onscreen">S01E10</episode-num>
@@ -106,7 +115,7 @@
     <date>20260403</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260419020000 +0000" stop="20260419030000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" start="20260420020000 +0000" stop="20260420030000 +0000">
     <title>Park'd Places</title>
     <sub-title>Rocky Mountain National Park</sub-title>
     <episode-num system="onscreen">S01E09</episode-num>
