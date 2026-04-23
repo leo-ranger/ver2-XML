@@ -5,44 +5,15 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/a4713cf8-8897-41c2-bab4-132f733d3f5f/TC2_Logo_Plex_1500X1000_LightRDX.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260421230000 +0000" stop="20260422050000 +0000">
-    <title>Madrid-WTA</title>
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260422230000 +0000" stop="20260423050000 +0000">
+    <title>Madrid-ATP/WTA</title>
     <sub-title>1st Round</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
     <desc>Encore coverage from Madrid 2026</desc>
     <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_MADRID.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260422050000 +0000" stop="20260422090000 +0000">
-    <title>Madrid-WTA</title>
-    <sub-title>1st Round</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Encore coverage from Madrid 2026</desc>
-    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_MADRID.jpeg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260422090000 +0000" stop="20260422100000 +0000">
-    <title>Madrid-ATP/WTA Live</title>
-    <category>Movie</category>
-    <desc>Live coverage from Madrid 2026</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e68f0fa7-4f80-4b75-ba0f-7ff7b912e17f/TC2_Plex_2000X3000_Vertical_Art_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260422100000 +0000" stop="20260422130000 +0000">
-    <title>Madrid-ATP/WTA Live</title>
-    <category>Movie</category>
-    <desc>Live coverage from Madrid 2026</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e68f0fa7-4f80-4b75-ba0f-7ff7b912e17f/TC2_Plex_2000X3000_Vertical_Art_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260422130000 +0000" stop="20260422190000 +0000">
-    <title>Madrid-ATP/WTA Live</title>
-    <category>Movie</category>
-    <desc>Live coverage from Madrid 2026</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e68f0fa7-4f80-4b75-ba0f-7ff7b912e17f/TC2_Plex_2000X3000_Vertical_Art_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260422190000 +0000" stop="20260422230000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260423050000 +0000" stop="20260423090000 +0000">
     <title>Madrid-ATP/WTA</title>
     <sub-title>1st Round</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
@@ -50,10 +21,39 @@
     <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_MADRID.jpeg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260422230000 +0000" stop="20260423050000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260423090000 +0000" stop="20260423100000 +0000">
+    <title>Madrid-ATP/WTA Live</title>
+    <category>Movie</category>
+    <desc>Live coverage from Madrid 2026</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e68f0fa7-4f80-4b75-ba0f-7ff7b912e17f/TC2_Plex_2000X3000_Vertical_Art_.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260423100000 +0000" stop="20260423130000 +0000">
+    <title>Madrid-ATP/WTA Live</title>
+    <category>Movie</category>
+    <desc>Live coverage from Madrid 2026</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e68f0fa7-4f80-4b75-ba0f-7ff7b912e17f/TC2_Plex_2000X3000_Vertical_Art_.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260423130000 +0000" stop="20260423190000 +0000">
+    <title>Madrid-ATP/WTA Live</title>
+    <category>Movie</category>
+    <desc>Live coverage from Madrid 2026</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e68f0fa7-4f80-4b75-ba0f-7ff7b912e17f/TC2_Plex_2000X3000_Vertical_Art_.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260423190000 +0000" stop="20260423230000 +0000">
     <title>Madrid-ATP/WTA</title>
-    <sub-title>1st Round</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
+    <sub-title>ATP 1st Round &amp; 2nd Round</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Encore coverage from Madrid 2026</desc>
+    <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_MADRID.jpeg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" start="20260423230000 +0000" stop="20260424050000 +0000">
+    <title>Madrid-ATP/WTA</title>
+    <sub-title>ATP 1st Round &amp; 2nd Round</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
     <desc>Encore coverage from Madrid 2026</desc>
     <icon src="https://dh7h3upxwg7do.cloudfront.net/Images/S3/16x9_MADRID.jpeg" />
   </programme>
