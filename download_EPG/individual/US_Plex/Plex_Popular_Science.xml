@@ -5,93 +5,224 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/c6bfca5e-58fe-4ed4-a87d-5e2ccde7f085/Logo_Art_-_Popular_Science_Dark_Backgrounds.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260424093634 +0000" stop="20260424111655 +0000">
-    <title>Trust Machine: The Story of Blockchain</title>
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425003735 +0000" stop="20260425023644 +0000">
+    <title>The Last Man on the Moon</title>
     <category>Movie</category>
-    <desc>Why are banks terrified while UNICEF embraces it to feed refugee children? Is blockchain technology poised to</desc>
+    <desc>The epic story of astronaut Gene Cernan's trip to the moon in 1972, and the emotional journey behind it.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260424111655 +0000" stop="20260424121537 +0000">
-    <title>Animalogic: Dangerous &amp; Deadly</title>
-    <sub-title>Deceptively Adorable</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425023644 +0000" stop="20260425032530 +0000">
+    <title>Aperture</title>
+    <sub-title>Got What It Takes?</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Test your limits as we explore the skills, resilience, and strategies for surviving the toughest challenges.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/5f68464c-d982-4c9f-84fa-9304b8bbb8e6_got-what-it-takes_d8043c2a-03b4-45aa-a975-16d24930c7ea_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425032530 +0000" stop="20260425041357 +0000">
+    <title>Aperture</title>
+    <sub-title>From Dawn to Death</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>From Dawn to Death</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/75470b8d-4107-4843-8d31-dcc96b95c1de_from-dawn-to-death_1fc77cf4-a38c-4236-9d3f-1b6038027dde_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425041357 +0000" stop="20260425044109 +0000">
+    <title>Breakthrough</title>
+    <sub-title>Alzheimer's/Spider Silk</sub-title>
+    <episode-num system="onscreen">S01E106</episode-num>
+    <desc>For scientists, reversing Alzheimer's' disease is a major research goal.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/a2edb0e2-a55d-40dd-a514-3d1b4a2804b3_8373f097-70bf-45b1-92da-0848a574d0ec_thumbnail_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425044109 +0000" stop="20260425050827 +0000">
+    <title>Breakthrough</title>
+    <sub-title>Ark for Humans/Rip Currents</sub-title>
+    <episode-num system="onscreen">S01E107</episode-num>
+    <desc>Scientists store vanishing microbes in a "vault" to preserve them for our future.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/c9f4caa1-423c-4912-a6d2-7b30e267a5b2_6e1b8d12-ab14-4a12-b370-38ce24d3fd64_thumbnail_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425050827 +0000" stop="20260425053544 +0000">
+    <title>Breakthrough</title>
+    <sub-title>Greenland Melting/Miami Underwater</sub-title>
+    <episode-num system="onscreen">S01E108</episode-num>
+    <desc>The critical Greenland ice sheet is melting, and scientists are seeking ways to preserve it.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/216f22c9-42d7-4ec2-8d52-a75f7ec943ec_8b3e3740-2347-421f-8427-5575ce4032c1_thumbnail_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425053544 +0000" stop="20260425060302 +0000">
+    <title>Breakthrough</title>
+    <sub-title>Making Babies/Dog's Nose</sub-title>
+    <episode-num system="onscreen">S01E109</episode-num>
+    <desc>How close are we to rendering infertility a thing of the past?</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/8f25f9eb-025d-410f-902d-fae2e470b2fd_e0504b52-30a7-4de3-b46e-b32b103cef28_thumbnail_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425060302 +0000" stop="20260425063019 +0000">
+    <title>Breakthrough</title>
+    <sub-title>Longest Vertebrate/Climate Crisis</sub-title>
+    <episode-num system="onscreen">S01E111</episode-num>
+    <desc>The Greenland Shark is Earth's longest-living vertebrate, but what is it, exactly?</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/ffe84409-e38c-432f-b061-001b2a80a125_7c9ecf2a-a994-4665-928e-78a3fbe76104_thumbnail_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425063019 +0000" stop="20260425065737 +0000">
+    <title>Breakthrough</title>
+    <sub-title>Asteroid Explosion/Peru Cloud Warriors</sub-title>
+    <episode-num system="onscreen">S01E113</episode-num>
+    <desc>Spacecraft Hayabusa 2 explodes an asteroid in the name of science.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/f7f59f58-3afc-4a25-8db7-47526c839ed6_151b3f8c-4023-46a3-8a41-2c0f1b1c505c_thumbnail_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425065737 +0000" stop="20260425072453 +0000">
+    <title>Breakthrough</title>
+    <sub-title>Mars InSight/T-Rex Timeline</sub-title>
+    <episode-num system="onscreen">S01E114</episode-num>
+    <desc>See the critical moments when the Mars Insight vehicle touches down on the Red Planet.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/81bccab8-1a4c-4302-af09-8626a0fa052b_0d1b8620-1efb-4963-bfc3-0c660dfc054b_thumbnail_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425072453 +0000" stop="20260425075203 +0000">
+    <title>Breakthrough</title>
+    <sub-title>Homo Naledi/Egypt's Lost City</sub-title>
+    <episode-num system="onscreen">S01E117</episode-num>
+    <desc>Findings of small-skulled fossils uncover more about when and how ancient beings lived.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/898dced1-d24a-44bd-bb9f-928ece299ed3_76b50079-0967-4981-920e-c8b552d4f3ed_thumbnail_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425075203 +0000" stop="20260425081914 +0000">
+    <title>Breakthrough</title>
+    <sub-title>Kuiper Belt Target/Shark Family Tree</sub-title>
+    <episode-num system="onscreen">S01E118</episode-num>
+    <desc>The New Horizons spacecraft and Ultima Thule plus the greatest evolutionary predator: the Great White Shark.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/849fd26c-a447-493b-8930-3859830d0624_1c525530-d43b-4df5-b202-bbda8a05a8f5_thumbnail_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425081914 +0000" stop="20260425084626 +0000">
+    <title>Breakthrough</title>
+    <sub-title>Rewinding Time/West is Burning</sub-title>
+    <episode-num system="onscreen">S01E102</episode-num>
+    <desc>Can 3 billion-year-old Gravitational Waves rewind time?; The United States' western forests are catching fire.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/0294a026-885c-4d4b-baee-2d65b6762f9e_83e271ea-9120-4b98-8eb2-eb8a333c2f87_thumbnail_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425084626 +0000" stop="20260425095830 +0000">
+    <title>Animalogic: Cuteness Overload</title>
+    <sub-title>Adorable &amp; Strange Animals</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Meet some of the world’s most adorable yet strangely unique animals and their surprising traits!</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/1b135a58-3a13-4ac2-9924-caf5fc6c06ed_adorable-strange-animals_543cd994-3552-40f4-9b2a-3ded22fb73d9_thumbnail_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425095830 +0000" stop="20260425110102 +0000">
+    <title>Animalogic: Cuteness Overload</title>
+    <sub-title>Unbelievable Animals</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Meet unbelievable animals with wild abilities and surprising adaptations you have to see to believe.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/3e1e47e2-49e4-4be9-8f8e-4344a7951629_unbelievable-animals_4ac1efc3-2583-41fd-9d83-e0a151f4d446_thumbnail_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425110102 +0000" stop="20260425120629 +0000">
+    <title>Animalogic: Cuteness Overload</title>
+    <sub-title>Kooky Cuties</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Meet quirky, adorable creatures with strange looks and even stranger habits.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/462e834f-dfe3-4c1c-8b87-42a401ce61b8_kooky-cuties_1cf71ff3-fd32-4f40-9887-3ab62ac4f59c_thumbnail_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425120629 +0000" stop="20260425125508 +0000">
+    <title>Animalogic: Cuteness Overload</title>
+    <sub-title>Flora With Big Personality</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Meet plants with big personalities, from dramatic defenses to surprising behaviors you won’t expect.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/d507df57-3f9e-4ed9-9781-f2deea4c4546_flora-with-big-personality_b7a91725-caac-4e61-a35d-c1c65483870e_thumbnail_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425125508 +0000" stop="20260425135815 +0000">
+    <title>Animalogic: Cuteness Overload</title>
+    <sub-title>Wild Defenses</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Discover the wildest animal defenses, from clever tricks to extreme survival tactics in nature.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/e470db2f-341a-4ab3-ba64-4b1ecac6b489_wild-defenses_87bb47ae-c5b1-4b8b-867d-98cee128bd85_thumbnail_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425135815 +0000" stop="20260425145653 +0000">
+    <title>Animalogic: Cuteness Overload</title>
+    <sub-title>Fluffy Friends</sub-title>
     <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Looks sweet and innocent… but don’t be fooled. Looks can be wildly deceiving.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/28e53a46-d08d-4fee-83d3-3c76b933cd48_deceptively-adorable_31639ccb-494b-4980-ba7b-3bdc9200f97a_thumbnail_1920x1080.jpg" />
+    <desc>Meet adorable fluffy animals from all over the world and the charming traits that make them unforgettable.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/23ea27df-39e5-4a92-b36b-ddd401067d89_fluffy-friends_359abd53-b8ff-409e-ba22-ee48665bd424_thumbnail_1920x1080.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260424121537 +0000" stop="20260424141525 +0000">
-    <title>The YouTube Effect</title>
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425145653 +0000" stop="20260425160358 +0000">
+    <title>Animalogic: Cuteness Overload</title>
+    <sub-title>Natural Wonders</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Explore stunning natural wonders from around the world and the incredible forces that shaped them.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/5bd41441-89a1-4951-ac2f-d72420752484_natural-wonders_941d8c26-daba-4949-9461-474ee402dc21_thumbnail_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425160358 +0000" stop="20260425171135 +0000">
+    <title>Animalogic: Species Deep Dive</title>
+    <sub-title>The World of Invertebrates</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Strange, stunning, and spineless—explore the hidden power of invertebrate life.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/137203db-d7f8-46b0-9d59-2bf3d167121d_the-world-of-invertebrates_1a875ffd-4f36-44e0-811b-3eb93b9b8d03_thumbnail_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425171135 +0000" stop="20260425180517 +0000">
+    <title>Animalogic: Species Deep Dive</title>
+    <sub-title>Inside the Mustelid Family</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Small bodies, big attitude—meet the fierce, clever hunters of the mustelid family.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/030d288c-ff9f-4c4e-b0ab-c159c57681f0_inside-the-mustelid-family_22586676-9ea2-449d-adf2-e82ad88c57f4_thumbnail_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425180517 +0000" stop="20260425190726 +0000">
+    <title>Animalogic: Species Deep Dive</title>
+    <sub-title>Sharks, Sharks, Sharks</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Fins slice the water as ocean legends glide, hunt, and rule the deep.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/97c0d921-8737-4bd7-aa90-9e999919b97e_sharks-sharks-sharks_59c3267a-18a0-495d-8399-12692f8ae75c_thumbnail_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425190726 +0000" stop="20260425200601 +0000">
+    <title>Animalogic: Species Deep Dive</title>
+    <sub-title>The Canine Clan</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>From loyal companions to wild leaders, meet the powerful pack bond of the canine clan.</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/0d519fbc-66f9-4fc1-b734-efa958b3c6b7_the-canine-clan_861dca91-0351-453d-8258-de92294271b5_thumbnail_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425200601 +0000" stop="20260425203318 +0000">
+    <title>Breakthrough</title>
+    <sub-title>Zealandia/Extinction</sub-title>
+    <episode-num system="onscreen">S01E105</episode-num>
+    <desc>Geologists believe they've uncovered a massive eighth continent: Zealandia;</desc>
+    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/5edd55de-44de-4e7a-8845-4ef22569e58b_d7176728-40f3-4631-8019-e7047a626240_thumbnail_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425203318 +0000" stop="20260425223224 +0000">
+    <title>The Last Man on the Moon</title>
     <category>Movie</category>
-    <desc>Alex Winter's troubling look at YouTube, its humble origins, and how it changed how we experience the world.</desc>
+    <desc>The epic story of astronaut Gene Cernan's trip to the moon in 1972, and the emotional journey behind it.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260424141525 +0000" stop="20260424160510 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425223224 +0000" stop="20260426002216 +0000">
     <title>Jim Allison: Breakthrough</title>
     <category>Movie</category>
     <desc>The astounding true story of one warm-hearted, stubborn man’s visionary quest to find a cure for cancer.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260424160510 +0000" stop="20260424182821 +0000">
-    <title>Close Encounters of the Fifth Kind - Contact has Begun</title>
+<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260426002216 +0000" stop="20260426022221 +0000">
+    <title>The YouTube Effect</title>
     <category>Movie</category>
-    <desc>Dr. Steve Greer presents information that the architects of secrecy don't want you to know.</desc>
+    <desc>Alex Winter's troubling look at YouTube, its humble origins, and how it changed how we experience the world.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260424182821 +0000" stop="20260424194845 +0000">
-    <title>Aliens In America: The Pascagoula Case</title>
-    <category>Movie</category>
-    <desc>Revisit the infamous Pascagoula alien abduction case with new evidence and expert insight.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260424194845 +0000" stop="20260424213722 +0000">
-    <title>Deep Web</title>
-    <category>Movie</category>
-    <desc>Deep Web guides us through the inside story of one of the most riveting digital crime sagas of the modern era.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260424213722 +0000" stop="20260424231727 +0000">
-    <title>Trust Machine: The Story of Blockchain</title>
-    <category>Movie</category>
-    <desc>Why are banks terrified while UNICEF embraces it to feed refugee children? Is blockchain technology poised to</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260424231727 +0000" stop="20260425001551 +0000">
-    <title>Animalogic: Dangerous &amp; Deadly</title>
-    <sub-title>Deceptively Adorable</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Looks sweet and innocent… but don’t be fooled. Looks can be wildly deceiving.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/28e53a46-d08d-4fee-83d3-3c76b933cd48_deceptively-adorable_31639ccb-494b-4980-ba7b-3bdc9200f97a_thumbnail_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425001551 +0000" stop="20260425010645 +0000">
-    <title>Animalogic: Dangerous &amp; Deadly</title>
-    <sub-title>Unhinged and Dangerous</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Chaotic energy meets real threat. This one spirals fast—and doesn’t hold back.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/e0201538-9c7b-4b1d-9f90-adacba485902_unhinged-and-dangerous_e4547b96-2894-462c-b09e-dabba8d28d1a_thumbnail_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425010645 +0000" stop="20260425021305 +0000">
-    <title>Animalogic: Dangerous &amp; Deadly</title>
-    <sub-title>Extinct Giants and Modern Monsters</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Explore extinct giants and the modern monsters that still rule Earth today.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/4d515ba9-8357-4d69-aa5b-547ad693a564_extinct-giants-and-modern-monsters_12e78745-19b4-495b-9c00-723cc13dd643_thumbnail_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" start="20260425021305 +0000" stop="20260425032808 +0000">
-    <title>Animalogic: Dangerous &amp; Deadly</title>
-    <sub-title>Adapt and Thrive</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Discover how animals and plants adapt to survive and thrive in extreme environments.</desc>
-    <icon src="https://d1ki4kvnknm0kh.cloudfront.net/powder/70c86a4b-3be8-4106-b9a9-c2dc8f649713_adapt-and-thrive_7e4a6600-6688-4a45-9a32-3afa2bf61ab9_thumbnail_1920x1080.jpg" />
   </programme>
   
 </tv>
