@@ -31,9 +31,9 @@ jobs:
           "https://epg.pw/api/epg.xml?lang=en&date=${TOMORROW}&channel_id=5771"
 
       # -----------------------------
-      # MERGE XML (NO TIME SHIFT APPLIED)
+      # MERGE XML (NO TIME CHANGES)
       # -----------------------------
-      - name: Merge EPG safely (no offset)
+      - name: Merge EPG safely (raw timestamps)
         run: |
           python3 << 'EOF'
           import re
@@ -46,14 +46,12 @@ jobs:
           with open("tomorrow.xml", "r", encoding="utf-8") as f:
               tomorrow = f.read()
 
-          # Extract first few programmes from tomorrow if needed
-          tomorrow_fill = re.findall(r'<programme.*?</programme>', tomorrow, re.S)[:10]
-
+          # Keep original XML exactly as provided
           insert_pos = today.rfind("</tv>")
 
           merged = (
               today[:insert_pos] +
-              "\n" + "\n".join(tomorrow_fill) +
+              "\n" +
               "\n</tv>"
           )
 
@@ -62,9 +60,8 @@ jobs:
           EOF
 
       # -----------------------------
-      # DO NOT MODIFY TIME OR ADD OFFSETS
+      # XML HEADER
       # -----------------------------
-
       - name: Add XML Declaration and DOCTYPE
         run: |
           sed -i '1s|$| <!DOCTYPE tv SYSTEM "xmltv.dtd">|' download_EPG/individual/ClubbingTV/ClubbingTV.xml
@@ -141,6 +138,9 @@ jobs:
           tree.write(xml_file, encoding='utf-8', xml_declaration=True)
           EOF
 
+      # -----------------------------
+      # COMMIT
+      # -----------------------------
       - name: Commit and push if changed
         run: |
           git config --global user.name "github-actions"
