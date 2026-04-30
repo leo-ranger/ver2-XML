@@ -20,6 +20,7 @@ jobs:
 
       - name: Create directory structure
         run: mkdir -p download_EPG/individual/Sports
+
       - name: Fetch EPG XML (today + tomorrow)
         run: |
           TODAY=$(date -u +%Y%m%d)
@@ -39,53 +40,67 @@ jobs:
 
           SHIFT = 8
 
-          def parse(file):
+          def load(file):
               with open(file, "r", encoding="utf-8") as f:
                   return f.read()
 
-          today = parse("today.xml")
-          tomorrow = parse("tomorrow.xml")
+          today_xml = load("today.xml")
+          tomorrow_xml = load("tomorrow.xml")
 
-          pattern = re.compile(r'(start|stop)="(\d{14})\s([+-]\d{4})"')
+          programme_re = re.compile(r'<programme.*?</programme>', re.DOTALL)
+          time_re = re.compile(r'(start|stop)="(\d{14})\s([+-]\d{4})"')
 
-          def shift(ts, hours):
+          def shift_time(ts, hours):
               dt = datetime.strptime(ts, "%Y%m%d%H%M%S")
               dt += timedelta(hours=hours)
               return dt.strftime("%Y%m%d%H%M%S")
 
-          # Split logic:
-          # - today: shift -8h (so 08:00 becomes 00:00)
-          # - tomorrow: only take 00:00–08:00, shift -8h to fill end
-
-          def transform(xml, shift_hours):
+          def shift_block(block, hours):
               def repl(m):
                   tag, ts, tz = m.group(1), m.group(2), m.group(3)
-                  return f'{tag}="{shift(ts, shift_hours)} {tz}"'
-              return pattern.sub(repl, xml)
+                  return f'{tag}="{shift_time(ts, hours)} {tz}"'
+              return time_re.sub(repl, block)
 
-          today_shifted = transform(today, -SHIFT)
-          tomorrow_shifted = transform(tomorrow, -SHIFT)
+          # Extract full programme blocks
+          today_programmes = programme_re.findall(today_xml)
+          tomorrow_programmes = programme_re.findall(tomorrow_xml)
 
-          # Keep only tomorrow entries that belong to first 8 hours AFTER shift logic
-          def filter_tomorrow(xml):
-              out = []
-              for line in xml.splitlines():
-                  if 'start="' in line:
-                      ts = re.search(r'start="(\d{14})', line)
-                      if ts:
-                          t = datetime.strptime(ts.group(1), "%Y%m%d%H%M%S")
-                          if t.hour < SHIFT:
-                              out.append(line)
-                  else:
-                      out.append(line)
-              return "\n".join(out)
+          # Shift today backwards 8 hours
+          today_shifted = [shift_block(p, -SHIFT) for p in today_programmes]
 
-          tomorrow_filtered = filter_tomorrow(tomorrow_shifted)
+          # Shift tomorrow and only keep first 8 hours window
+          tomorrow_shifted = []
 
-          merged = today_shifted.replace("</tv>", "") + "\n" + tomorrow_filtered + "\n</tv>"
+          for p in tomorrow_programmes:
+              shifted = shift_block(p, -SHIFT)
+
+              m = re.search(r'start="(\d{14})', shifted)
+              if m:
+                  t = datetime.strptime(m.group(1), "%Y%m%d%H%M%S")
+
+                  # keep only 00:00–08:00 after shift
+                  if t.hour < SHIFT:
+                      tomorrow_shifted.append(shifted)
+
+          # Build final XML safely
+          header = re.search(r'<\?xml.*?\?>', today_xml)
+          tv_open = re.search(r'<tv[^>]*>', today_xml)
+
+          output = []
+
+          if header:
+              output.append(header.group())
+          if tv_open:
+              output.append(tv_open.group())
+
+          output += today_shifted
+          output += tomorrow_shifted
+          output.append("</tv>")
+
+          final_xml = "\n".join(output)
 
           with open("download_EPG/individual/Sports/fueltv.xml", "w", encoding="utf-8") as f:
-              f.write(merged)
+              f.write(final_xml)
           EOF
 
       - name: Ensure XML header + DOCTYPE
