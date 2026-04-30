@@ -143,27 +143,30 @@ if __name__ == "__main__":
     )
 
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    
+tv = ET.Element("tv")
 
-    tv = ET.Element("tv")
+for p in programs:
+    prog = ET.SubElement(tv, "programme")
+    prog.set("channel", p["channel"])
+    prog.set("start", p["start"])
+    prog.set("stop", p["stop"])
 
-    for p in programs:
-        prog = ET.SubElement(tv, "programme")
-        prog.set("channel", p["channel"])
-        prog.set("start", p["start"])
-        prog.set("stop", p["stop"])
+    title = ET.SubElement(prog, "title")
+    title.text = p["title"]
 
-        title = ET.SubElement(prog, "title")
-        title.text = p["title"]
+    if p.get("desc"):
+        desc = ET.SubElement(prog, "desc")
+        desc.text = p["desc"]
 
-        if p.get("desc"):
-            desc = ET.SubElement(prog, "desc")
-            desc.text = p["desc"]
+    if p.get("icon"):
+        icon = ET.SubElement(prog, "icon")
+        icon.set("src", p["icon"])
 
-        if p.get("icon"):
-            icon = ET.SubElement(prog, "icon")
-            icon.set("src", p["icon"])
-import xml.etree.ElementTree as ET
 
+# -----------------------------
+# PRETTY PRINT FUNCTION
+# -----------------------------
 def indent_xml(elem, level=0):
     i = "\n" + level * "  "
     if len(elem):
@@ -178,7 +181,7 @@ def indent_xml(elem, level=0):
 
 
 # -----------------------------
-# PRETTY XML OUTPUT
+# WRITE OUTPUT
 # -----------------------------
 indent_xml(tv)
 
