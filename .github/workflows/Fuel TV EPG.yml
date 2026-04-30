@@ -28,6 +28,9 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
+
           git add download_EPG/individual/Sports/fueltv.xml
           git commit -m "Update FuelTV EPG" || echo "No changes"
+
+          git pull --rebase origin main
           git push
