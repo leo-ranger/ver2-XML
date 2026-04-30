@@ -21,6 +21,9 @@ jobs:
       - name: Create directory structure
         run: mkdir -p download_EPG/individual/Sports
 
+      # -----------------------------
+      # FETCH EPG DATA
+      # -----------------------------
       - name: Fetch EPG XML (today + tomorrow)
         run: |
           TODAY=$(date -u +%Y%m%d)
@@ -32,6 +35,9 @@ jobs:
           curl -L -o tomorrow.xml \
           "https://epg.pw/api/epg.xml?lang=en&date=${TOMORROW}&channel_id=421685"
 
+      # -----------------------------
+      # BUILD SHIFTED 24H EPG
+      # -----------------------------
       - name: Build 24h shifted EPG (08:00 → 00:00 roll)
         run: |
           python3 << 'EOF'
@@ -39,6 +45,7 @@ jobs:
           from datetime import datetime, timedelta
 
           SHIFT = 8
+          FILE = "download_EPG/individual/Sports/fueltv.xml"
 
           def load(file):
               with open(file, "r", encoding="utf-8") as f:
@@ -61,33 +68,25 @@ jobs:
                   return f'{tag}="{shift_time(ts, hours)} {tz}"'
               return time_re.sub(repl, block)
 
-          # Extract full programme blocks
           today_programmes = programme_re.findall(today_xml)
           tomorrow_programmes = programme_re.findall(tomorrow_xml)
 
-          # Shift today backwards 8 hours
           today_shifted = [shift_block(p, -SHIFT) for p in today_programmes]
 
-          # Shift tomorrow and only keep first 8 hours window
           tomorrow_shifted = []
-
           for p in tomorrow_programmes:
               shifted = shift_block(p, -SHIFT)
-
               m = re.search(r'start="(\d{14})', shifted)
+
               if m:
                   t = datetime.strptime(m.group(1), "%Y%m%d%H%M%S")
-
-                  # keep only 00:00–08:00 after shift
                   if t.hour < SHIFT:
                       tomorrow_shifted.append(shifted)
 
-          # Build final XML safely
           header = re.search(r'<\?xml.*?\?>', today_xml)
           tv_open = re.search(r'<tv[^>]*>', today_xml)
 
           output = []
-
           if header:
               output.append(header.group())
           if tv_open:
@@ -99,10 +98,184 @@ jobs:
 
           final_xml = "\n".join(output)
 
-          with open("download_EPG/individual/Sports/fueltv.xml", "w", encoding="utf-8") as f:
+          with open(FILE, "w", encoding="utf-8") as f:
               f.write(final_xml)
           EOF
 
+      # -----------------------------
+      # EPISODE PARSING (Sn / Ep)
+      # -----------------------------
+      - name: Inject episode metadata (Sn/Ep → episode-num)
+        run: |
+          python3 << 'EOF'
+          import re
+
+          FILE = "download_EPG/individual/Sports/fueltv.xml"
+
+          programme_re = re.compile(r'<programme.*?</programme>', re.DOTALL)
+
+          def parse_title(raw):
+              m = re.match(r"^(.*?)\s*[–-]\s*Sn\s*(\d+),\s*Ep\s*(\d+)\.\s*(.*)$", raw)
+              if not m:
+                  return None
+
+              return {
+                  "show": m.group(1).strip(),
+                  "season": int(m.group(2)),
+                  "episode": int(m.group(3)),
+                  "title": m.group(4).strip()
+              }
+
+          def build_ep(season, episode):
+              onscreen = f"S{season}.E{episode}."
+              xmltv_ns = f"{season-1}.{episode-1}.0"
+              return onscreen, xmltv_ns
+
+          def process(block):
+              title = re.search(r'<title>(.*?)</title>', block)
+              if not title:
+                  return block
+
+              p = parse_title(title.group(1))
+              if not p:
+                  return block
+
+              onscreen, xmltv_ns = build_ep(p["season"], p["episode"])
+
+              block = re.sub(r'<title>.*?</title>', f'<title>{p["show"]}</title>', block)
+
+              if "<sub-title>" in block:
+                  block = re.sub(r'<sub-title>.*?</sub-title>', f'<sub-title>{p["title"]}</sub-title>', block)
+              else:
+                  block = block.replace("</programme>", f"<sub-title>{p['title']}</sub-title></programme>")
+
+              block = re.sub(r'<episode-num.*?</episode-num>', '', block)
+
+              ep_xml = (
+                  f'<episode-num system="onscreen">{onscreen}</episode-num>'
+                  f'<episode-num system="xmltv_ns">{xmltv_ns}</episode-num>'
+              )
+
+              return block.replace("</programme>", ep_xml + "</programme>")
+
+          with open(FILE, "r", encoding="utf-8") as f:
+              xml = f.read()
+
+          programmes = programme_re.findall(xml)
+          updated = [process(p) for p in programmes]
+
+          header = re.search(r'<\?xml.*?\?>', xml)
+          tv_open = re.search(r'<tv[^>]*>', xml)
+
+          output = []
+          if header:
+              output.append(header.group())
+          if tv_open:
+              output.append(tv_open.group())
+
+          output += updated
+          output.append("</tv>")
+
+          with open(FILE, "w", encoding="utf-8") as f:
+              f.write("\n".join(output))
+          EOF
+
+      # -----------------------------
+      # FUZZY DESCRIPTION ENRICHMENT
+      # -----------------------------
+      - name: Fuzzy match Fuel TV descriptions (RAW TITLE FIRST)
+        run: |
+          python3 << 'EOF'
+          import re
+          import requests
+          from difflib import SequenceMatcher
+          from datetime import datetime
+
+          FILE = "download_EPG/individual/Sports/fueltv.xml"
+
+          TODAY = datetime.utcnow().strftime("%Y-%m-%d")
+          URL = f"https://fuel.tv/browse/guide/{TODAY}"
+
+          def sim(a, b):
+              return SequenceMatcher(None, a.lower(), b.lower()).ratio()
+
+          try:
+              html = requests.get(URL, timeout=30).text
+          except:
+              html = ""
+
+          # crude text extraction of guide entries
+          blocks = re.findall(r'<div[^>]*>(.*?)</div>', html, re.S)
+
+          guide = []
+          for b in blocks:
+              t = re.sub(r'<.*?>', '', b).strip()
+              if len(t) > 10:
+                  guide.append(t)
+
+          def get_programmes(xml):
+              return re.findall(r'<programme.*?</programme>', xml, re.S)
+
+          def get_raw_title(block):
+              # IMPORTANT: match BEFORE any parsing
+              m = re.search(r'<title>(.*?)</title>', block)
+              return m.group(1) if m else ""
+
+          def inject_desc(block, desc):
+              if not desc:
+                  return block
+
+              if "<desc>" in block:
+                  block = re.sub(r'<desc>.*?</desc>', f'<desc>{desc}</desc>', block)
+              else:
+                  block = block.replace("</programme>", f"<desc>{desc}</desc></programme>")
+
+              return block
+
+          with open(FILE, "r", encoding="utf-8") as f:
+              xml = f.read()
+
+          programmes = get_programmes(xml)
+          updated = []
+
+          for p in programmes:
+              raw_title = get_raw_title(p)
+
+              best_score = 0
+              best_desc = None
+
+              for g in guide:
+                  score = sim(raw_title, g)
+
+                  if score > best_score:
+                      best_score = score
+                      best_desc = g
+
+              # match threshold
+              if best_score > 0.45:
+                  p = inject_desc(p, best_desc)
+
+              updated.append(p)
+
+          header = re.search(r'<\?xml.*?\?>', xml)
+          tv_open = re.search(r'<tv[^>]*>', xml)
+
+          output = []
+          if header:
+              output.append(header.group())
+          if tv_open:
+              output.append(tv_open.group())
+
+          output += updated
+          output.append("</tv>")
+
+          with open(FILE, "w", encoding="utf-8") as f:
+              f.write("\n".join(output))
+          EOF
+
+      # -----------------------------
+      # FINALIZE XML
+      # -----------------------------
       - name: Ensure XML header + DOCTYPE
         run: |
           FILE=download_EPG/individual/Sports/fueltv.xml
@@ -113,9 +286,9 @@ jobs:
 
           sed -i '/^<\?xml/ a <!DOCTYPE tv SYSTEM "xmltv.dtd">' "$FILE"
 
-      - name: Inject show metadata (shared definitions)
-        run: bash .github/scripts/inject_epg.sh download_EPG/individual/Sports/fueltv.xml
-
+      # -----------------------------
+      # COMMIT
+      # -----------------------------
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions"
