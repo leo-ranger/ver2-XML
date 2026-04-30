@@ -22,7 +22,7 @@ jobs:
         run: mkdir -p download_EPG/individual/Sports
 
       # -----------------------------
-      # FETCH EPG DATA
+      # FETCH EPG
       # -----------------------------
       - name: Fetch EPG XML (today + tomorrow)
         run: |
@@ -47,26 +47,26 @@ jobs:
           SHIFT = 8
           FILE = "download_EPG/individual/Sports/fueltv.xml"
 
-          def load(file):
-              with open(file, "r", encoding="utf-8") as f:
-                  return f.read()
+          def load(f):
+              with open(f, "r", encoding="utf-8") as x:
+                  return x.read()
 
           today_xml = load("today.xml")
           tomorrow_xml = load("tomorrow.xml")
 
-          programme_re = re.compile(r'<programme.*?</programme>', re.DOTALL)
+          programme_re = re.compile(r'<programme.*?</programme>', re.S)
           time_re = re.compile(r'(start|stop)="(\d{14})\s([+-]\d{4})"')
 
-          def shift_time(ts, hours):
+          def shift_time(ts, h):
               dt = datetime.strptime(ts, "%Y%m%d%H%M%S")
-              dt += timedelta(hours=hours)
+              dt += timedelta(hours=h)
               return dt.strftime("%Y%m%d%H%M%S")
 
-          def shift_block(block, hours):
-              def repl(m):
-                  tag, ts, tz = m.group(1), m.group(2), m.group(3)
-                  return f'{tag}="{shift_time(ts, hours)} {tz}"'
-              return time_re.sub(repl, block)
+          def shift_block(block, h):
+              return time_re.sub(
+                  lambda m: f'{m.group(1)}="{shift_time(m.group(2), h)} {m.group(3)}"',
+                  block
+              )
 
           today_programmes = programme_re.findall(today_xml)
           tomorrow_programmes = programme_re.findall(tomorrow_xml)
@@ -96,94 +96,14 @@ jobs:
           output += tomorrow_shifted
           output.append("</tv>")
 
-          final_xml = "\n".join(output)
-
-          with open(FILE, "w", encoding="utf-8") as f:
-              f.write(final_xml)
-          EOF
-
-      # -----------------------------
-      # EPISODE PARSING (Sn / Ep)
-      # -----------------------------
-      - name: Inject episode metadata (Sn/Ep → episode-num)
-        run: |
-          python3 << 'EOF'
-          import re
-
-          FILE = "download_EPG/individual/Sports/fueltv.xml"
-
-          programme_re = re.compile(r'<programme.*?</programme>', re.DOTALL)
-
-          def parse_title(raw):
-              m = re.match(r"^(.*?)\s*[–-]\s*Sn\s*(\d+),\s*Ep\s*(\d+)\.\s*(.*)$", raw)
-              if not m:
-                  return None
-
-              return {
-                  "show": m.group(1).strip(),
-                  "season": int(m.group(2)),
-                  "episode": int(m.group(3)),
-                  "title": m.group(4).strip()
-              }
-
-          def build_ep(season, episode):
-              onscreen = f"S{season}.E{episode}."
-              xmltv_ns = f"{season-1}.{episode-1}.0"
-              return onscreen, xmltv_ns
-
-          def process(block):
-              title = re.search(r'<title>(.*?)</title>', block)
-              if not title:
-                  return block
-
-              p = parse_title(title.group(1))
-              if not p:
-                  return block
-
-              onscreen, xmltv_ns = build_ep(p["season"], p["episode"])
-
-              block = re.sub(r'<title>.*?</title>', f'<title>{p["show"]}</title>', block)
-
-              if "<sub-title>" in block:
-                  block = re.sub(r'<sub-title>.*?</sub-title>', f'<sub-title>{p["title"]}</sub-title>', block)
-              else:
-                  block = block.replace("</programme>", f"<sub-title>{p['title']}</sub-title></programme>")
-
-              block = re.sub(r'<episode-num.*?</episode-num>', '', block)
-
-              ep_xml = (
-                  f'<episode-num system="onscreen">{onscreen}</episode-num>'
-                  f'<episode-num system="xmltv_ns">{xmltv_ns}</episode-num>'
-              )
-
-              return block.replace("</programme>", ep_xml + "</programme>")
-
-          with open(FILE, "r", encoding="utf-8") as f:
-              xml = f.read()
-
-          programmes = programme_re.findall(xml)
-          updated = [process(p) for p in programmes]
-
-          header = re.search(r'<\?xml.*?\?>', xml)
-          tv_open = re.search(r'<tv[^>]*>', xml)
-
-          output = []
-          if header:
-              output.append(header.group())
-          if tv_open:
-              output.append(tv_open.group())
-
-          output += updated
-          output.append("</tv>")
-
           with open(FILE, "w", encoding="utf-8") as f:
               f.write("\n".join(output))
           EOF
 
       # -----------------------------
-      # FUZZY DESCRIPTION ENRICHMENT
+      # MATCH + ENRICH + FORMAT (CORE LOGIC)
       # -----------------------------
-      - name: Fuzzy match Fuel TV descriptions (RAW TITLE FIRST)
+      - name: Match + Enrich + Format EPG
         run: |
           python3 << 'EOF'
           import re
@@ -204,7 +124,6 @@ jobs:
           except:
               html = ""
 
-          # crude text extraction of guide entries
           blocks = re.findall(r'<div[^>]*>(.*?)</div>', html, re.S)
 
           guide = []
@@ -213,13 +132,26 @@ jobs:
               if len(t) > 10:
                   guide.append(t)
 
-          def get_programmes(xml):
-              return re.findall(r'<programme.*?</programme>', xml, re.S)
+          programme_re = re.compile(r'<programme.*?</programme>', re.S)
 
-          def get_raw_title(block):
-              # IMPORTANT: match BEFORE any parsing
+          def get_raw(block):
               m = re.search(r'<title>(.*?)</title>', block)
               return m.group(1) if m else ""
+
+          def parse(raw):
+              m = re.match(r"^(.*?)\s*[–-]\s*Sn\s*(\d+),\s*Ep\s*(\d+)\.\s*(.*)$", raw)
+              if not m:
+                  return None
+
+              return {
+                  "show": m.group(1).strip(),
+                  "season": int(m.group(2)),
+                  "episode": int(m.group(3)),
+                  "ep_title": m.group(4).strip()
+              }
+
+          def build_ep(season, episode):
+              return f"S{season}.E{episode}.", f"{season-1}.{episode-1}.0"
 
           def inject_desc(block, desc):
               if not desc:
@@ -229,52 +161,77 @@ jobs:
                   block = re.sub(r'<desc>.*?</desc>', f'<desc>{desc}</desc>', block)
               else:
                   block = block.replace("</programme>", f"<desc>{desc}</desc></programme>")
-
               return block
+
+          def inject_format(block, parsed):
+              if not parsed:
+                  return block
+
+              onscreen, xmltv_ns = build_ep(parsed["season"], parsed["episode"])
+
+              block = re.sub(r'<title>.*?</title>', f'<title>{parsed["show"]}</title>', block)
+
+              if "<sub-title>" in block:
+                  block = re.sub(r'<sub-title>.*?</sub-title>', f'<sub-title>{parsed["ep_title"]}</sub-title>', block)
+              else:
+                  block = block.replace("</programme>", f"<sub-title>{parsed['ep_title']}</sub-title></programme>")
+
+              block = re.sub(r'<episode-num.*?</episode-num>', '', block)
+
+              ep_xml = (
+                  f'<episode-num system="onscreen">{onscreen}</episode-num>'
+                  f'<episode-num system="xmltv_ns">{xmltv_ns}</episode-num>'
+              )
+
+              return block.replace("</programme>", ep_xml + "</programme>")
 
           with open(FILE, "r", encoding="utf-8") as f:
               xml = f.read()
 
-          programmes = get_programmes(xml)
-          updated = []
+          programmes = programme_re.findall(xml)
+          output = []
 
           for p in programmes:
-              raw_title = get_raw_title(p)
+              raw = get_raw(p)
 
-              best_score = 0
+              # -------------------------
+              # MATCH FIRST (RAW TITLE)
+              # -------------------------
+              best = 0
               best_desc = None
 
               for g in guide:
-                  score = sim(raw_title, g)
-
-                  if score > best_score:
-                      best_score = score
+                  score = sim(raw, g)
+                  if score > best:
+                      best = score
                       best_desc = g
 
-              # match threshold
-              if best_score > 0.45:
+              if best >= 0.80:
                   p = inject_desc(p, best_desc)
 
-              updated.append(p)
+              parsed = parse(raw)
+              p = inject_format(p, parsed)
+
+              output.append(p)
 
           header = re.search(r'<\?xml.*?\?>', xml)
           tv_open = re.search(r'<tv[^>]*>', xml)
 
-          output = []
+          final = []
           if header:
-              output.append(header.group())
+              final.append(header.group())
           if tv_open:
-              output.append(tv_open.group())
+              final.append(tv_open.group())
 
-          output += updated
-          output.append("</tv>")
+          final += output
+          final.append("</tv>")
 
           with open(FILE, "w", encoding="utf-8") as f:
-              f.write("\n".join(output))
+              f.write("\n".join(final))
           EOF
 
       # -----------------------------
-      # FINALIZE XML
+      # FINAL XML CLEANUP
       # -----------------------------
       - name: Ensure XML header + DOCTYPE
         run: |
