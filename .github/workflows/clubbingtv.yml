@@ -30,10 +30,10 @@ jobs:
           TOMORROW=$(date -u -d "+1 day" +%Y%m%d)
 
           curl -L -o today.xml \
-          "https://epg.pw/api/epg.xml?lang=en&date=${TODAY}&channel_id=421685"
+          "https://epg.pw/api/epg.xml?lang=en&date=${TODAY}&channel_id=5771"
 
           curl -L -o tomorrow.xml \
-          "https://epg.pw/api/epg.xml?lang=en&date=${TOMORROW}&channel_id=421685"
+          "https://epg.pw/api/epg.xml?lang=en&date=${TOMORROW}&channel_id=5771"
 
       # -----------------------------
       # SHIFT EPG (ONLY)
@@ -103,21 +103,18 @@ jobs:
           with open(FILE, "r", encoding="utf-8") as f:
               xml = f.read()
 
-          # translate title
           xml = re.sub(
               r'(<title[^>]*>)(.*?)(</title>)',
               lambda m: m.group(1) + tr(m.group(2)) + m.group(3),
               xml
           )
 
-          # translate subtitle
           xml = re.sub(
               r'(<sub-title>)(.*?)(</sub-title>)',
               lambda m: m.group(1) + tr(m.group(2)) + m.group(3),
               xml
           )
 
-          # translate description
           xml = re.sub(
               r'(<desc>)(.*?)(</desc>)',
               lambda m: m.group(1) + tr(m.group(2)) + m.group(3),
