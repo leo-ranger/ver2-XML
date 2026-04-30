@@ -36,9 +36,9 @@ jobs:
           "https://epg.pw/api/epg.xml?lang=en&date=${TOMORROW}&channel_id=421685"
 
       # -----------------------------
-      # BUILD SHIFTED 24H EPG
+      # BUILD SHIFTED EPG
       # -----------------------------
-      - name: Build 24h shifted EPG (08:00 → 00:00 roll)
+      - name: Build 24h shifted EPG (12 hour shift)
         run: |
           python3 << 'EOF'
           import re
@@ -101,20 +101,38 @@ jobs:
           EOF
 
       # -----------------------------
-      # MATCH + ENRICH + FORMAT
+      # MATCH + ENRICH + TRANSLATE
       # -----------------------------
-      - name: Match + Enrich + Fix metadata (ROBUST)
+      - name: Match + Enrich + Translate (RU → EN)
         run: |
+          pip install requests deep-translator
+
           python3 << 'EOF'
           import re
           import requests
           from difflib import SequenceMatcher
           from datetime import datetime
+          from deep_translator import GoogleTranslator
 
           FILE = "download_EPG/individual/ClubbingTV/clubbingtv.xml"
 
           TODAY = datetime.utcnow().strftime("%Y-%m-%d")
           URL = f"https://fuel.tv/browse/guide/{TODAY}"
+
+          translator = GoogleTranslator(source='ru', target='en')
+
+          def is_russian(text):
+              return bool(re.search(r'[\u0400-\u04FF]', text))
+
+          def translate(text):
+              if not text:
+                  return text
+              if is_russian(text):
+                  try:
+                      return translator.translate(text)
+                  except:
+                      return text
+              return text
 
           def sim(a, b):
               return SequenceMatcher(None, a.lower(), b.lower()).ratio()
@@ -128,7 +146,7 @@ jobs:
 
           guide = []
           for b in blocks:
-              t = re.sub(r'<.*?>', '', b).strip()
+              t = translate(re.sub(r'<.*?>', '', b).strip())
               if len(t) > 10:
                   guide.append(t)
 
@@ -143,10 +161,10 @@ jobs:
                   return None
 
               return {
-                  "show": m.group(1).strip(),
+                  "show": translate(m.group(1).strip()),
                   "season": int(m.group(2)),
                   "episode": int(m.group(3)),
-                  "ep_title": m.group(4).strip()
+                  "ep_title": translate(m.group(4).strip())
               }
 
           def build_ep(season, episode):
@@ -155,39 +173,30 @@ jobs:
               return onscreen, xmltv_ns
 
           def inject_desc(block, desc):
-              if not desc or desc.strip() == "":
-                  return block.replace("<desc />", "<desc></desc>")
-
+              if not desc:
+                  return block
               if "<desc>" in block:
-                  block = re.sub(r'<desc>.*?</desc>', f'<desc>{desc}</desc>', block)
-              else:
-                  block = block.replace("</programme>", f"<desc>{desc}</desc></programme>")
-
-              return block
+                  return re.sub(r'<desc>.*?</desc>', f'<desc>{desc}</desc>', block)
+              return block.replace("</programme>", f"<desc>{desc}</desc></programme>")
 
           def inject_format(block, parsed):
               if not parsed:
                   return block
 
+              parsed["show"] = translate(parsed["show"])
+              parsed["ep_title"] = translate(parsed["ep_title"])
+
               onscreen, xmltv_ns = build_ep(parsed["season"], parsed["episode"])
 
-              block = re.sub(
-                  r'<title[^>]*>.*?</title>',
-                  f'<title>{parsed["show"]}</title>',
-                  block
-              )
+              block = re.sub(r'<title[^>]*>.*?</title>',
+                             f'<title>{parsed["show"]}</title>', block)
 
               if "<sub-title>" in block:
-                  block = re.sub(
-                      r'<sub-title>.*?</sub-title>',
-                      f'<sub-title>{parsed["ep_title"]}</sub-title>',
-                      block
-                  )
+                  block = re.sub(r'<sub-title>.*?</sub-title>',
+                                 f'<sub-title>{parsed["ep_title"]}</sub-title>', block)
               else:
-                  block = block.replace(
-                      "</programme>",
-                      f"<sub-title>{parsed['ep_title']}</sub-title></programme>"
-                  )
+                  block = block.replace("</programme>",
+                                        f"<sub-title>{parsed['ep_title']}</sub-title></programme>")
 
               block = re.sub(r'<episode-num.*?</episode-num>', '', block)
 
@@ -206,7 +215,7 @@ jobs:
 
           for p in programmes:
               raw = re.search(r'<title[^>]*>(.*?)</title>', p)
-              raw_title = raw.group(1) if raw else ""
+              raw_title = translate(raw.group(1) if raw else "")
 
               best = 0
               best_desc = None
@@ -244,7 +253,7 @@ jobs:
           EOF
 
       # -----------------------------
-      # FINAL XML CLEANUP
+      # FINAL CLEANUP
       # -----------------------------
       - name: Ensure XML header + DOCTYPE
         run: |
