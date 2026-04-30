@@ -2,7 +2,7 @@ name: Update EPG XML ClubbingTV
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs at midnight UTC daily
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -11,21 +11,109 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Create folder ClubbingTV
         run: mkdir -p download_EPG/individual/ClubbingTV
 
-      - name: Fetch EPG XML
+      # -----------------------------
+      # FETCH TODAY + TOMORROW
+      # -----------------------------
+      - name: Fetch EPG XML (today + tomorrow)
         run: |
-          curl -o download_EPG/individual/ClubbingTV/ClubbingTV.xml \
-          "https://epg.pw/api/epg.xml?lang=en&date=$(date +%Y%m%d)&channel_id=5771"
+          TODAY=$(date -u +%Y%m%d)
+          TOMORROW=$(date -u -d "+1 day" +%Y%m%d)
 
+          curl -L -o today.xml \
+          "https://epg.pw/api/epg.xml?lang=en&date=${TODAY}&channel_id=5771"
+
+          curl -L -o tomorrow.xml \
+          "https://epg.pw/api/epg.xml?lang=en&date=${TOMORROW}&channel_id=5771"
+
+      # -----------------------------
+      # BUILD SHIFTED EPG
+      # -----------------------------
+      - name: Build 24h shifted EPG (08:00 → 00:00 roll)
+        run: |
+          python3 << 'EOF'
+          import re
+          from datetime import datetime, timedelta
+
+          SHIFT = 8
+          OUT = "download_EPG/individual/ClubbingTV/ClubbingTV.xml"
+
+          def load(f):
+              with open(f, "r", encoding="utf-8") as x:
+                  return x.read()
+
+          today_xml = load("today.xml")
+          tomorrow_xml = load("tomorrow.xml")
+
+          programme_re = re.compile(r'<programme.*?</programme>', re.S)
+          time_re = re.compile(r'(start|stop)="(\d{14})\s([+-]\d{4})"')
+
+          def shift_time(ts, h):
+              dt = datetime.strptime(ts, "%Y%m%d%H%M%S")
+              dt += timedelta(hours=h)
+              return dt.strftime("%Y%m%d%H%M%S")
+
+          def shift_block(block, h):
+              return time_re.sub(
+                  lambda m: f'{m.group(1)}="{shift_time(m.group(2), h)} {m.group(3)}"',
+                  block
+              )
+
+          today_programmes = programme_re.findall(today_xml)
+          tomorrow_programmes = programme_re.findall(tomorrow_xml)
+
+          today_shifted = [shift_block(p, -SHIFT) for p in today_programmes]
+
+          tomorrow_shifted = []
+          for p in tomorrow_programmes:
+              shifted = shift_block(p, -SHIFT)
+              m = re.search(r'start="(\d{14})', shifted)
+
+              if m:
+                  t = datetime.strptime(m.group(1), "%Y%m%d%H%M%S")
+                  if t.hour < SHIFT:
+                      tomorrow_shifted.append(shifted)
+
+          header = re.search(r'<\?xml.*?\?>', today_xml)
+          tv_open = re.search(r'<tv[^>]*>', today_xml)
+
+          output = []
+          if header:
+              output.append(header.group())
+          if tv_open:
+              output.append(tv_open.group())
+
+          output += today_shifted
+          output += tomorrow_shifted
+          output.append("</tv>")
+
+          with open(OUT, "w", encoding="utf-8") as f:
+              f.write("\n".join(output))
+          EOF
+
+      # -----------------------------
+      # ADD XML HEADER + DOCTYPE
+      # -----------------------------
       - name: Add XML Declaration and DOCTYPE
         run: |
-          sed -i '1s|$| <!DOCTYPE tv SYSTEM "xmltv.dtd">|' download_EPG/individual/ClubbingTV/ClubbingTV.xml
+          FILE=download_EPG/individual/ClubbingTV/ClubbingTV.xml
 
-      - name: Translate Russian titles and descriptions, clean placeholders
+          if ! head -n 1 "$FILE" | grep -q "<?xml"; then
+            sed -i '1i<?xml version="1.0" encoding="UTF-8"?>' "$FILE"
+          fi
+
+          sed -i '/^<\?xml/ a <!DOCTYPE tv SYSTEM "xmltv.dtd">' "$FILE"
+
+      # -----------------------------
+      # TRANSLATE
+      # -----------------------------
+      - name: Translate Russian titles and descriptions
         run: |
           python3 -m pip install --upgrade pip
           python3 -m pip install googletrans==4.0.0-rc1
@@ -43,32 +131,33 @@ jobs:
               return re.sub(r'([.!?])([A-Za-z])', r'\1 \2', text)
 
           for prog in root.findall('programme'):
-              # Translate <title>
               for title in prog.findall('title'):
                   if title.text and title.text.strip():
                       try:
-                          translated = translator.translate(title.text, src='ru', dest='en').text
-                          translated = fix_spacing(translated)
-                          translated = re.sub(r'\[(Russian|Russian characters)\]', '', translated).strip()
-                          title.text = translated
-                      except Exception as e:
-                          print(f"Title translation failed: {e}")
+                          t = translator.translate(title.text, src='ru', dest='en').text
+                          t = fix_spacing(t)
+                          t = re.sub(r'\[(Russian|Russian characters)\]', '', t).strip()
+                          title.text = t
+                      except:
+                          pass
 
-              # Translate <desc>
               desc = prog.find('desc')
               if desc is not None and desc.text and desc.text.strip():
                   try:
-                      translated = translator.translate(desc.text, src='ru', dest='en').text
-                      translated = fix_spacing(translated)
-                      translated = re.sub(r'\[(Russian|Russian characters)\]', '', translated).strip()
-                      desc.text = translated
-                  except Exception as e:
-                      print(f"Description translation failed: {e}")
+                      t = translator.translate(desc.text, src='ru', dest='en').text
+                      t = fix_spacing(t)
+                      t = re.sub(r'\[(Russian|Russian characters)\]', '', t).strip()
+                      desc.text = t
+                  except:
+                      pass
 
           tree.write(xml_file, encoding='utf-8', xml_declaration=True)
           EOF
 
-      - name: Inject default icon after <desc> in every programme
+      # -----------------------------
+      # ADD ICON
+      # -----------------------------
+      - name: Inject default icon
         run: |
           python3 - << 'EOF'
           import xml.etree.ElementTree as ET
@@ -81,23 +170,29 @@ jobs:
 
           for prog in root.findall('programme'):
               if prog.find('icon') is None:
+                  icon = ET.Element('icon')
+                  icon.set('src', icon_url)
+
                   desc = prog.find('desc')
-                  icon_elem = ET.Element('icon')
-                  icon_elem.set('src', icon_url)
                   if desc is not None:
-                      index = list(prog).index(desc) + 1
-                      prog.insert(index, icon_elem)
+                      idx = list(prog).index(desc) + 1
+                      prog.insert(idx, icon)
                   else:
-                      prog.append(icon_elem)
+                      prog.append(icon)
 
           tree.write(xml_file, encoding='utf-8', xml_declaration=True)
           EOF
 
+      # -----------------------------
+      # COMMIT
+      # -----------------------------
       - name: Commit and push if changed
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
-          git pull --rebase --autostash
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
           git add download_EPG/individual/ClubbingTV/ClubbingTV.xml
-          git commit -m "Updated ClubbingTV EPG $(date +%Y-%m-%d)" || echo "No changes to commit"
+
+          git commit -m "Updated ClubbingTV EPG $(date -u +%Y-%m-%d)" || exit 0
+          git pull --rebase
           git push
