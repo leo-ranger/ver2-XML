@@ -1,9 +1,12 @@
-name: Update EPG XML ClubbingTV
+name: Update EPG XML Clubbing TV
 
 on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update:
@@ -11,145 +14,258 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Create folder ClubbingTV
+      - name: Create directory structure
         run: mkdir -p download_EPG/individual/ClubbingTV
 
       # -----------------------------
-      # FETCH DATA
+      # FETCH EPG
       # -----------------------------
       - name: Fetch EPG XML (today + tomorrow)
         run: |
           TODAY=$(date -u +%Y%m%d)
           TOMORROW=$(date -u -d "+1 day" +%Y%m%d)
 
-          curl -o today.xml \
-          "https://epg.pw/api/epg.xml?lang=en&date=${TODAY}&channel_id=5771"
+          curl -L -o today.xml \
+          "https://epg.pw/api/epg.xml?lang=en&date=${TODAY}&channel_id=421685"
 
-          curl -o tomorrow.xml \
-          "https://epg.pw/api/epg.xml?lang=en&date=${TOMORROW}&channel_id=5771"
+          curl -L -o tomorrow.xml \
+          "https://epg.pw/api/epg.xml?lang=en&date=${TOMORROW}&channel_id=421685"
 
       # -----------------------------
-      # APPLY OFFSET (-13 HOURS)
+      # BUILD SHIFTED 24H EPG
       # -----------------------------
-      - name: Apply EPG time correction (-13h)
+      - name: Build 24h shifted EPG (08:00 → 00:00 roll)
         run: |
           python3 << 'EOF'
           import re
           from datetime import datetime, timedelta
 
-          FILE_OUT = "download_EPG/individual/ClubbingTV/ClubbingTV.xml"
-          OFFSET_HOURS = -13
+          SHIFT = 12
+          FILE = "download_EPG/individual/ClubbingTV/clubbingtv.xml"
 
-          with open("today.xml", "r", encoding="utf-8") as f:
-              today = f.read()
+          def load(f):
+              with open(f, "r", encoding="utf-8") as x:
+                  return x.read()
 
-          with open("tomorrow.xml", "r", encoding="utf-8") as f:
-              tomorrow = f.read()
+          today_xml = load("today.xml")
+          tomorrow_xml = load("tomorrow.xml")
 
-          pattern = re.compile(r'(start|stop)="(\d{14})\s([+-]\d{4})"')
+          programme_re = re.compile(r'<programme.*?</programme>', re.S)
+          time_re = re.compile(r'(start|stop)="(\d{14})\s([+-]\d{4})"')
 
-          def shift(ts):
+          def shift_time(ts, h):
               dt = datetime.strptime(ts, "%Y%m%d%H%M%S")
-              dt += timedelta(hours=OFFSET_HOURS)
+              dt += timedelta(hours=h)
               return dt.strftime("%Y%m%d%H%M%S")
 
-          def transform(xml):
-              return pattern.sub(
-                  lambda m: f'{m.group(1)}="{shift(m.group(2))} {m.group(3)}"',
-                  xml
+          def shift_block(block, h):
+              return time_re.sub(
+                  lambda m: f'{m.group(1)}="{shift_time(m.group(2), h)} {m.group(3)}"',
+                  block
               )
 
-          today_shifted = transform(today)
-          tomorrow_shifted = transform(tomorrow)
+          today_programmes = programme_re.findall(today_xml)
+          tomorrow_programmes = programme_re.findall(tomorrow_xml)
 
-          insert_pos = today_shifted.rfind("</tv>")
+          today_shifted = [shift_block(p, -SHIFT) for p in today_programmes]
 
-          merged = (
-              today_shifted[:insert_pos] +
-              "\n" + tomorrow_shifted +
-              "\n</tv>"
-          )
+          tomorrow_shifted = []
+          for p in tomorrow_programmes:
+              shifted = shift_block(p, -SHIFT)
+              m = re.search(r'start="(\d{14})', shifted)
 
-          # IMPORTANT: ensure XML declaration exists and is clean
-          if not merged.startswith("<?xml"):
-              merged = '<?xml version="1.0" encoding="UTF-8"?>\n' + merged
+              if m:
+                  t = datetime.strptime(m.group(1), "%Y%m%d%H%M%S")
+                  if t.hour < SHIFT:
+                      tomorrow_shifted.append(shifted)
 
-          with open(FILE_OUT, "w", encoding="utf-8") as f:
-              f.write(merged)
+          header = re.search(r'<\?xml.*?\?>', today_xml)
+          tv_open = re.search(r'<tv[^>]*>', today_xml)
+
+          output = []
+          if header:
+              output.append(header.group())
+          if tv_open:
+              output.append(tv_open.group())
+
+          output += today_shifted
+          output += tomorrow_shifted
+          output.append("</tv>")
+
+          with open(FILE, "w", encoding="utf-8") as f:
+              f.write("\n".join(output))
           EOF
 
       # -----------------------------
-      # TRANSLATION
+      # MATCH + ENRICH + FORMAT
       # -----------------------------
-      - name: Translate Russian titles and descriptions
+      - name: Match + Enrich + Fix metadata (ROBUST)
         run: |
-          python3 -m pip install --upgrade pip
-          python3 -m pip install googletrans==4.0.0-rc1
-          python3 - << 'EOF'
-          import xml.etree.ElementTree as ET
-          from googletrans import Translator
+          python3 << 'EOF'
+          import re
+          import requests
+          from difflib import SequenceMatcher
+          from datetime import datetime
 
-          xml_file = "download_EPG/individual/ClubbingTV/ClubbingTV.xml"
-          tree = ET.parse(xml_file)
-          root = tree.getroot()
-          translator = Translator()
+          FILE = "download_EPG/individual/ClubbingTV/clubbingtv.xml"
 
-          for prog in root.findall('programme'):
-              for title in prog.findall('title'):
-                  if title.text and title.text.strip():
-                      try:
-                          title.text = translator.translate(title.text, src='ru', dest='en').text
-                      except:
-                          pass
+          TODAY = datetime.utcnow().strftime("%Y-%m-%d")
+          URL = f"https://fuel.tv/browse/guide/{TODAY}"
 
-              desc = prog.find('desc')
-              if desc is not None and desc.text and desc.text.strip():
-                  try:
-                      desc.text = translator.translate(desc.text, src='ru', dest='en').text
-                  except:
-                      pass
+          def sim(a, b):
+              return SequenceMatcher(None, a.lower(), b.lower()).ratio()
 
-          tree.write(xml_file, encoding='utf-8', xml_declaration=True)
+          try:
+              html = requests.get(URL, timeout=30).text
+          except:
+              html = ""
+
+          blocks = re.findall(r'<div[^>]*>(.*?)</div>', html, re.S)
+
+          guide = []
+          for b in blocks:
+              t = re.sub(r'<.*?>', '', b).strip()
+              if len(t) > 10:
+                  guide.append(t)
+
+          programme_re = re.compile(r'<programme.*?</programme>', re.S)
+
+          def parse(raw):
+              m = re.match(
+                  r"^(.*?)\s*[–—-]\s*Sn\s*(\d+)\s*,\s*Ep\s*(\d+)\.?\s*(.*)$",
+                  raw
+              )
+              if not m:
+                  return None
+
+              return {
+                  "show": m.group(1).strip(),
+                  "season": int(m.group(2)),
+                  "episode": int(m.group(3)),
+                  "ep_title": m.group(4).strip()
+              }
+
+          def build_ep(season, episode):
+              onscreen = f"S{season}.E{episode}."
+              xmltv_ns = f"{season-1}.{episode-1}.0"
+              return onscreen, xmltv_ns
+
+          def inject_desc(block, desc):
+              if not desc or desc.strip() == "":
+                  return block.replace("<desc />", "<desc></desc>")
+
+              if "<desc>" in block:
+                  block = re.sub(r'<desc>.*?</desc>', f'<desc>{desc}</desc>', block)
+              else:
+                  block = block.replace("</programme>", f"<desc>{desc}</desc></programme>")
+
+              return block
+
+          def inject_format(block, parsed):
+              if not parsed:
+                  return block
+
+              onscreen, xmltv_ns = build_ep(parsed["season"], parsed["episode"])
+
+              block = re.sub(
+                  r'<title[^>]*>.*?</title>',
+                  f'<title>{parsed["show"]}</title>',
+                  block
+              )
+
+              if "<sub-title>" in block:
+                  block = re.sub(
+                      r'<sub-title>.*?</sub-title>',
+                      f'<sub-title>{parsed["ep_title"]}</sub-title>',
+                      block
+                  )
+              else:
+                  block = block.replace(
+                      "</programme>",
+                      f"<sub-title>{parsed['ep_title']}</sub-title></programme>"
+                  )
+
+              block = re.sub(r'<episode-num.*?</episode-num>', '', block)
+
+              ep_xml = (
+                  f'<episode-num system="onscreen">{onscreen}</episode-num>'
+                  f'<episode-num system="xmltv_ns">{xmltv_ns}</episode-num>'
+              )
+
+              return block.replace("</programme>", ep_xml + "</programme>")
+
+          with open(FILE, "r", encoding="utf-8") as f:
+              xml = f.read()
+
+          programmes = programme_re.findall(xml)
+          output = []
+
+          for p in programmes:
+              raw = re.search(r'<title[^>]*>(.*?)</title>', p)
+              raw_title = raw.group(1) if raw else ""
+
+              best = 0
+              best_desc = None
+
+              for g in guide:
+                  score = sim(raw_title, g)
+                  if score > best:
+                      best = score
+                      best_desc = g
+
+              if best >= 0.75:
+                  p = inject_desc(p, best_desc)
+              else:
+                  p = inject_desc(p, raw_title)
+
+              parsed = parse(raw_title)
+              p = inject_format(p, parsed)
+
+              output.append(p)
+
+          header = re.search(r'<\?xml.*?\?>', xml)
+          tv_open = re.search(r'<tv[^>]*>', xml)
+
+          final = []
+          if header:
+              final.append(header.group())
+          if tv_open:
+              final.append(tv_open.group())
+
+          final += output
+          final.append("</tv>")
+
+          with open(FILE, "w", encoding="utf-8") as f:
+              f.write("\n".join(final))
           EOF
 
       # -----------------------------
-      # ICON INJECTION
+      # FINAL XML CLEANUP
       # -----------------------------
-      - name: Inject default icon after <desc>
+      - name: Ensure XML header + DOCTYPE
         run: |
-          python3 - << 'EOF'
-          import xml.etree.ElementTree as ET
+          FILE=download_EPG/individual/ClubbingTV/clubbingtv.xml
 
-          xml_file = "download_EPG/individual/ClubbingTV/ClubbingTV.xml"
-          tree = ET.parse(xml_file)
-          root = tree.getroot()
+          if ! head -n 1 "$FILE" | grep -q "<?xml"; then
+            sed -i '1i<?xml version="1.0" encoding="UTF-8"?>' "$FILE"
+          fi
 
-          icon_url = "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2018/12/clubbintv-700x450.jpg?resize=700%2C450&ssl=1"
-
-          for prog in root.findall('programme'):
-              if prog.find('icon') is None:
-                  desc = prog.find('desc')
-                  icon_elem = ET.Element('icon')
-                  icon_elem.set('src', icon_url)
-
-                  if desc is not None:
-                      prog.insert(list(prog).index(desc) + 1, icon_elem)
-                  else:
-                      prog.append(icon_elem)
-
-          tree.write(xml_file, encoding='utf-8', xml_declaration=True)
-          EOF
+          sed -i '/^<\?xml/ a <!DOCTYPE tv SYSTEM "xmltv.dtd">' "$FILE"
 
       # -----------------------------
       # COMMIT
       # -----------------------------
       - name: Commit and push if changed
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
-          git pull --rebase --autostash
-          git add download_EPG/individual/ClubbingTV/ClubbingTV.xml
-          git commit -m "Updated ClubbingTV EPG $(date +%Y-%m-%d)" || echo "No changes to commit"
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add download_EPG/individual/ClubbingTV/clubbingtv.xml
+
+          git commit -m "Updated ClubbingTV EPG $(date -u +%Y-%m-%d)" || exit 0
+          git pull --rebase
           git push
