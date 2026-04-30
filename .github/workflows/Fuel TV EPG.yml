@@ -103,7 +103,7 @@ jobs:
       # -----------------------------
       # MATCH + ENRICH + FORMAT (CORE LOGIC)
       # -----------------------------
-      - name: Match + Enrich + Format EPG
+      - name: Match + Enrich + Fix metadata (ROBUST)
         run: |
           python3 << 'EOF'
           import re
@@ -119,6 +119,9 @@ jobs:
           def sim(a, b):
               return SequenceMatcher(None, a.lower(), b.lower()).ratio()
 
+          # -------------------------
+          # LOAD GUIDE
+          # -------------------------
           try:
               html = requests.get(URL, timeout=30).text
           except:
@@ -134,12 +137,14 @@ jobs:
 
           programme_re = re.compile(r'<programme.*?</programme>', re.S)
 
-          def get_raw(block):
-              m = re.search(r'<title>(.*?)</title>', block)
-              return m.group(1) if m else ""
-
+          # -------------------------
+          # ROBUST TITLE PARSER
+          # -------------------------
           def parse(raw):
-              m = re.match(r"^(.*?)\s*[–-]\s*Sn\s*(\d+),\s*Ep\s*(\d+)\.\s*(.*)$", raw)
+              m = re.match(
+                  r"^(.*?)\s*[–—-]\s*Sn\s*(\d+)\s*,\s*Ep\s*(\d+)\.?\s*(.*)$",
+                  raw
+              )
               if not m:
                   return None
 
@@ -151,16 +156,22 @@ jobs:
               }
 
           def build_ep(season, episode):
-              return f"S{season}.E{episode}.", f"{season-1}.{episode-1}.0"
+              onscreen = f"S{season}.E{episode}."
+              xmltv_ns = f"{season-1}.{episode-1}.0"
+              return onscreen, xmltv_ns
 
+          # -------------------------
+          # SAFE DESC INJECTION
+          # -------------------------
           def inject_desc(block, desc):
-              if not desc:
-                  return block
+              if not desc or desc.strip() == "":
+                  return block.replace("<desc />", "<desc></desc>")
 
               if "<desc>" in block:
                   block = re.sub(r'<desc>.*?</desc>', f'<desc>{desc}</desc>', block)
               else:
                   block = block.replace("</programme>", f"<desc>{desc}</desc></programme>")
+
               return block
 
           def inject_format(block, parsed):
@@ -169,12 +180,23 @@ jobs:
 
               onscreen, xmltv_ns = build_ep(parsed["season"], parsed["episode"])
 
-              block = re.sub(r'<title>.*?</title>', f'<title>{parsed["show"]}</title>', block)
+              block = re.sub(
+                  r'<title[^>]*>.*?</title>',
+                  f'<title>{parsed["show"]}</title>',
+                  block
+              )
 
               if "<sub-title>" in block:
-                  block = re.sub(r'<sub-title>.*?</sub-title>', f'<sub-title>{parsed["ep_title"]}</sub-title>', block)
+                  block = re.sub(
+                      r'<sub-title>.*?</sub-title>',
+                      f'<sub-title>{parsed["ep_title"]}</sub-title>',
+                      block
+                  )
               else:
-                  block = block.replace("</programme>", f"<sub-title>{parsed['ep_title']}</sub-title></programme>")
+                  block = block.replace(
+                      "</programme>",
+                      f"<sub-title>{parsed['ep_title']}</sub-title></programme>"
+                  )
 
               block = re.sub(r'<episode-num.*?</episode-num>', '', block)
 
@@ -185,6 +207,9 @@ jobs:
 
               return block.replace("</programme>", ep_xml + "</programme>")
 
+          # -------------------------
+          # PROCESS XML
+          # -------------------------
           with open(FILE, "r", encoding="utf-8") as f:
               xml = f.read()
 
@@ -192,7 +217,8 @@ jobs:
           output = []
 
           for p in programmes:
-              raw = get_raw(p)
+              raw = re.search(r'<title[^>]*>(.*?)</title>', p)
+              raw_title = raw.group(1) if raw else ""
 
               # -------------------------
               # MATCH FIRST (RAW TITLE)
@@ -201,15 +227,19 @@ jobs:
               best_desc = None
 
               for g in guide:
-                  score = sim(raw, g)
+                  score = sim(raw_title, g)
                   if score > best:
                       best = score
                       best_desc = g
 
-              if best >= 0.80:
+              # relaxed threshold (fixes missed matches like "Built to Shred")
+              if best >= 0.75:
                   p = inject_desc(p, best_desc)
+              else:
+                  # fallback: never leave empty desc
+                  p = inject_desc(p, raw_title)
 
-              parsed = parse(raw)
+              parsed = parse(raw_title)
               p = inject_format(p, parsed)
 
               output.append(p)
