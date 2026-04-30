@@ -33,7 +33,7 @@ jobs:
       # -----------------------------
       # APPLY 8 HOUR SHIFT (NON-DESTRUCTIVE)
       # -----------------------------
-      - name: Apply hour shift
+      - name: Apply -1 hour shift
         run: |
           python3 << 'EOF'
           import re
@@ -52,28 +52,30 @@ jobs:
 
           def shift(ts):
               dt = datetime.strptime(ts, "%Y%m%d%H%M%S")
-              dt -= timedelta(hours=SHIFT)
+              dt -= timedelta(hours=SHIFT)  # handles negative correctly
               return dt.strftime("%Y%m%d%H%M%S")
 
           def transform(xml):
-              def repl(m):
-                  return f'{m.group(1)}="{shift(m.group(2))} {m.group(3)}"'
-              return pattern.sub(repl, xml)
+              return pattern.sub(lambda m: f'{m.group(1)}="{shift(m.group(2))} {m.group(3)}"', xml)
 
           today_shifted = transform(today)
           tomorrow_shifted = transform(tomorrow)
 
-          def filter_blocks(xml):
-              out = []
-              for block in re.findall(r'<programme.*?</programme>', xml, re.S):
-                  m = re.search(r'start="(\d{14})', block)
-                  if m:
-                      t = datetime.strptime(m.group(1), "%Y%m%d%H%M%S")
-                      if t.hour < SHIFT:
-                          out.append(block)
-              return "\n".join(out)
+          # for -1 shift, we need last 1 hour of tomorrow (23:00–00:00 equivalent)
+          tomorrow_blocks = []
+          for block in re.findall(r'<programme.*?</programme>', tomorrow_shifted, re.S):
+              m = re.search(r'start="(\d{14})', block)
+              if m:
+                  t = datetime.strptime(m.group(1), "%Y%m%d%H%M%S")
+                  if t.hour >= 23:  # last hour window
+                      tomorrow_blocks.append(block)
 
-          merged = today_shifted.replace("</tv>", "") + "\n" + filter_blocks(tomorrow_shifted) + "\n</tv>"
+          insert_pos = today_shifted.rfind("</tv>")
+            merged = (
+                today_shifted[:insert_pos] +
+                "\n" + "\n".join(tomorrow_blocks) +
+                "\n</tv>"
+          )
 
           with open(OUT, "w", encoding="utf-8") as f:
               f.write(merged)
