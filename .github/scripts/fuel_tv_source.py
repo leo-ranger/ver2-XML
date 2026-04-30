@@ -1,15 +1,38 @@
 from playwright.sync_api import sync_playwright
 from datetime import datetime, timedelta
-import os
-import xml.etree.ElementTree as ET
+import re
 
 BASE_URL = "https://fuel.tv/browse/guide/{}"
 CHANNEL_ID = "fuel.tv"
 
 
-# -------------------------
-# SCRAPER FUNCTION
-# -------------------------
+def parse_block(text):
+    """
+    Attempts to extract:
+    time, title, description
+    """
+
+    # Example:
+    # 12:35 AM
+    # Bubba's World - Season 2 - The Shift
+    # Motorsports
+    # description...
+    # 30 mins
+
+    lines = [l.strip() for l in text.split("\n") if l.strip()]
+
+    time_match = re.match(r"(\d{1,2}:\d{2}\s?[APMapm]{2})", lines[0]) if lines else None
+    if not time_match:
+        return None
+
+    time_str = time_match.group(1)
+
+    title = lines[1] if len(lines) > 1 else "Unknown"
+    desc = lines[3] if len(lines) > 3 else ""
+
+    return time_str, title, desc
+
+
 def fetch_fuel_tv():
     programs = []
 
@@ -23,62 +46,61 @@ def fetch_fuel_tv():
             date = today + timedelta(days=i)
             url = BASE_URL.format(date.strftime("%Y-%m-%d"))
 
+            print(f"[EPG] {url}")
+
             page.goto(url, timeout=60000)
-            page.wait_for_timeout(3000)
+            page.wait_for_timeout(4000)
 
-            items = page.query_selector_all("div")
+            # ⚠️ You will refine this selector later
+            cards = page.query_selector_all("div")
 
-            for item in items:
-                text = item.inner_text().strip()
+            day_programs = []
 
-                if ":" not in text:
+            for card in cards:
+                text = card.inner_text()
+
+                # IMAGE extraction (important part)
+                img_el = card.query_selector("img")
+                img = img_el.get_attribute("src") if img_el else None
+
+                parsed = parse_block(text)
+                if not parsed:
                     continue
 
-                programs.append({
+                time_str, title, desc = parsed
+
+                dt = datetime.strptime(
+                    f"{date} {time_str.upper()}",
+                    "%Y-%m-%d %I:%M %p"
+                )
+
+                day_programs.append({
                     "channel": CHANNEL_ID,
-                    "title": text,
-                    "start": "20260101000000 +0000",  # placeholder for now
-                    "stop": "20260101003000 +0000"
+                    "title": title,
+                    "desc": desc,
+                    "icon": img,
+                    "start": dt,
+                })
+
+            # sort timeline
+            day_programs.sort(key=lambda x: x["start"])
+
+            # build stop times
+            for i, p in enumerate(day_programs):
+                if i + 1 < len(day_programs):
+                    stop = day_programs[i + 1]["start"]
+                else:
+                    stop = p["start"] + timedelta(minutes=30)
+
+                programs.append({
+                    "channel": p["channel"],
+                    "title": p["title"],
+                    "desc": p["desc"],
+                    "icon": p["icon"],
+                    "start": p["start"].strftime("%Y%m%d%H%M%S +0000"),
+                    "stop": stop.strftime("%Y%m%d%H%M%S +0000"),
                 })
 
         browser.close()
 
     return programs
-
-
-# -------------------------
-# MAIN EXECUTION (ONLY HERE)
-# -------------------------
-if __name__ == "__main__":
-
-    programs = fetch_fuel_tv()
-
-    BASE_DIR = os.path.abspath(
-        os.path.join(os.path.dirname(__file__), "../../")
-    )
-
-    output_path = os.path.join(
-        BASE_DIR,
-        "download_EPG/individual/Sports/fueltv.xml"
-    )
-
-    os.makedirs(os.path.dirname(output_path), exist_ok=True)
-
-    tv = ET.Element("tv")
-
-    for p in programs:
-        prog = ET.SubElement(tv, "programme")
-        prog.set("channel", p["channel"])
-        prog.set("start", p["start"])
-        prog.set("stop", p["stop"])
-
-        title = ET.SubElement(prog, "title")
-        title.text = p["title"]
-
-    ET.ElementTree(tv).write(
-        output_path,
-        encoding="utf-8",
-        xml_declaration=True
-    )
-
-    print(f"[OK] Wrote EPG → {output_path}")
