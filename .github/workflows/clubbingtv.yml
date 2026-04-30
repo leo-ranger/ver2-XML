@@ -36,9 +36,9 @@ jobs:
           "https://epg.pw/api/epg.xml?lang=en&date=${TOMORROW}&channel_id=421685"
 
       # -----------------------------
-      # BUILD SHIFTED EPG (FIXED)
+      # SHIFT EPG (ONLY)
       # -----------------------------
-      - name: Build 24h shifted EPG (12 hour shift FIXED)
+      - name: Shift EPG (12 hour shift)
         run: |
           python3 << 'EOF'
           import re
@@ -51,222 +51,93 @@ jobs:
               with open(f, "r", encoding="utf-8") as x:
                   return x.read()
 
-          today_xml = load("today.xml")
-          tomorrow_xml = load("tomorrow.xml")
+          xml = load("today.xml") + load("tomorrow.xml")
 
-          programme_re = re.compile(r'<programme.*?</programme>', re.S)
-          time_re = re.compile(r'(start|stop)="(\d{14})\s[+-]\d{4}"')
+          def shift_ts(match):
+              tag = match.group(1)
+              ts = match.group(2)
+              tz = match.group(3)
 
-          def shift_time(ts):
               dt = datetime.strptime(ts, "%Y%m%d%H%M%S")
-              dt += timedelta(hours=-SHIFT)
-              return dt.strftime("%Y%m%d%H%M%S")
+              dt -= timedelta(hours=SHIFT)
 
-          def shift_block(block):
-              def repl(m):
-                  tag = m.group(1)
-                  ts = m.group(2)
-                  tz = re.search(r'[+-]\d{4}', m.group(0)).group(0)
-                  return f'{tag}="{shift_time(ts)} {tz}"'
+              return f'{tag}="{dt.strftime("%Y%m%d%H%M%S")} {tz}"'
 
-              return time_re.sub(repl, block)
-
-          today_programmes = programme_re.findall(today_xml)
-          tomorrow_programmes = programme_re.findall(tomorrow_xml)
-
-          today_shifted = [shift_block(p) for p in today_programmes]
-
-          tomorrow_shifted = []
-          for p in tomorrow_programmes:
-              shifted = shift_block(p)
-              m = re.search(r'start="(\d{14})', shifted)
-
-              if m:
-                  t = datetime.strptime(m.group(1), "%Y%m%d%H%M%S")
-                  if t.hour < SHIFT:
-                      tomorrow_shifted.append(shifted)
-
-          header = re.search(r'<\?xml.*?\?>', today_xml)
-          tv_open = re.search(r'<tv[^>]*>', today_xml)
-
-          output = []
-          if header:
-              output.append(header.group())
-          if tv_open:
-              output.append(tv_open.group())
-
-          output += today_shifted
-          output += tomorrow_shifted
-          output.append("</tv>")
+          xml = re.sub(
+              r'(start|stop)="(\d{14})\s([+-]\d{4})"',
+              shift_ts,
+              xml
+          )
 
           with open(FILE, "w", encoding="utf-8") as f:
-              f.write("\n".join(output))
+              f.write(xml)
           EOF
 
       # -----------------------------
-      # MATCH + ENRICH + TRANSLATE
+      # TRANSLATE ONLY (RU → EN)
       # -----------------------------
-      - name: Match + Enrich + Translate (RU → EN)
+      - name: Translate Russian → English
         run: |
-          pip install requests deep-translator
+          pip install deep-translator
 
           python3 << 'EOF'
           import re
-          import requests
-          from difflib import SequenceMatcher
-          from datetime import datetime
           from deep_translator import GoogleTranslator
 
           FILE = "download_EPG/individual/ClubbingTV/clubbingtv.xml"
-
-          TODAY = datetime.utcnow().strftime("%Y-%m-%d")
-          URL = f"https://fuel.tv/browse/guide/{TODAY}"
-
           translator = GoogleTranslator(source='ru', target='en')
 
-          def is_russian(text):
+          def is_ru(text):
               return bool(re.search(r'[\u0400-\u04FF]', text))
 
-          def translate(text):
+          def tr(text):
               if not text:
                   return text
-              if is_russian(text):
+              if is_ru(text):
                   try:
                       return translator.translate(text)
                   except:
                       return text
               return text
 
-          def sim(a, b):
-              return SequenceMatcher(None, a.lower(), b.lower()).ratio()
-
-          try:
-              html = requests.get(URL, timeout=30).text
-          except:
-              html = ""
-
-          blocks = re.findall(r'<div[^>]*>(.*?)</div>', html, re.S)
-
-          guide = []
-          for b in blocks:
-              t = translate(re.sub(r'<.*?>', '', b).strip())
-              if len(t) > 10:
-                  guide.append(t)
-
-          programme_re = re.compile(r'<programme.*?</programme>', re.S)
-
-          def parse(raw):
-              m = re.match(
-                  r"^(.*?)\s*[–—-]\s*Sn\s*(\d+)\s*,\s*Ep\s*(\d+)\.?\s*(.*)$",
-                  raw
-              )
-              if not m:
-                  return None
-
-              return {
-                  "show": translate(m.group(1).strip()),
-                  "season": int(m.group(2)),
-                  "episode": int(m.group(3)),
-                  "ep_title": translate(m.group(4).strip())
-              }
-
-          def build_ep(season, episode):
-              onscreen = f"S{season}.E{episode}."
-              xmltv_ns = f"{season-1}.{episode-1}.0"
-              return onscreen, xmltv_ns
-
-          def inject_desc(block, desc):
-              if not desc:
-                  return block
-              if "<desc>" in block:
-                  return re.sub(r'<desc>.*?</desc>', f'<desc>{desc}</desc>', block)
-              return block.replace("</programme>", f"<desc>{desc}</desc></programme>")
-
-          def inject_format(block, parsed):
-              if not parsed:
-                  return block
-
-              parsed["show"] = translate(parsed["show"])
-              parsed["ep_title"] = translate(parsed["ep_title"])
-
-              onscreen, xmltv_ns = build_ep(parsed["season"], parsed["episode"])
-
-              block = re.sub(r'<title[^>]*>.*?</title>',
-                             f'<title>{parsed["show"]}</title>', block)
-
-              if "<sub-title>" in block:
-                  block = re.sub(r'<sub-title>.*?</sub-title>',
-                                 f'<sub-title>{parsed["ep_title"]}</sub-title>', block)
-              else:
-                  block = block.replace("</programme>",
-                                        f"<sub-title>{parsed['ep_title']}</sub-title></programme>")
-
-              block = re.sub(r'<episode-num.*?</episode-num>', '', block)
-
-              ep_xml = (
-                  f'<episode-num system="onscreen">{onscreen}</episode-num>'
-                  f'<episode-num system="xmltv_ns">{xmltv_ns}</episode-num>'
-              )
-
-              return block.replace("</programme>", ep_xml + "</programme>")
-
           with open(FILE, "r", encoding="utf-8") as f:
               xml = f.read()
 
-          programmes = programme_re.findall(xml)
-          output = []
+          # translate title
+          xml = re.sub(
+              r'(<title[^>]*>)(.*?)(</title>)',
+              lambda m: m.group(1) + tr(m.group(2)) + m.group(3),
+              xml
+          )
 
-          for p in programmes:
-              raw = re.search(r'<title[^>]*>(.*?)</title>', p)
-              raw_title = translate(raw.group(1) if raw else "")
+          # translate subtitle
+          xml = re.sub(
+              r'(<sub-title>)(.*?)(</sub-title>)',
+              lambda m: m.group(1) + tr(m.group(2)) + m.group(3),
+              xml
+          )
 
-              best = 0
-              best_desc = None
-
-              for g in guide:
-                  score = sim(raw_title, g)
-                  if score > best:
-                      best = score
-                      best_desc = g
-
-              if best >= 0.75:
-                  p = inject_desc(p, best_desc)
-              else:
-                  p = inject_desc(p, raw_title)
-
-              parsed = parse(raw_title)
-              p = inject_format(p, parsed)
-
-              output.append(p)
-
-          header = re.search(r'<\?xml.*?\?>', xml)
-          tv_open = re.search(r'<tv[^>]*>', xml)
-
-          final = []
-          if header:
-              final.append(header.group())
-          if tv_open:
-              final.append(tv_open.group())
-
-          final += output
-          final.append("</tv>")
+          # translate description
+          xml = re.sub(
+              r'(<desc>)(.*?)(</desc>)',
+              lambda m: m.group(1) + tr(m.group(2)) + m.group(3),
+              xml
+          )
 
           with open(FILE, "w", encoding="utf-8") as f:
-              f.write("\n".join(final))
+              f.write(xml)
           EOF
 
       # -----------------------------
-      # FINAL CLEANUP
+      # CLEANUP
       # -----------------------------
-      - name: Ensure XML header + DOCTYPE
+      - name: Ensure XML header
         run: |
           FILE=download_EPG/individual/ClubbingTV/clubbingtv.xml
 
           if ! head -n 1 "$FILE" | grep -q "<?xml"; then
             sed -i '1i<?xml version="1.0" encoding="UTF-8"?>' "$FILE"
           fi
-
-          sed -i '/^<\?xml/ a <!DOCTYPE tv SYSTEM "xmltv.dtd">' "$FILE"
 
       # -----------------------------
       # COMMIT
