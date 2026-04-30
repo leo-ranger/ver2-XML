@@ -33,7 +33,7 @@ jobs:
       # -----------------------------
       # APPLY 8 HOUR SHIFT (NON-DESTRUCTIVE)
       # -----------------------------
-      - name: Apply +5 hour shift (with tomorrow fill)
+      - name: Apply +15 hour shift (with tomorrow fill)
         run: |
           python3 << 'EOF'
           import re
@@ -54,7 +54,7 @@ jobs:
           # -------------------------
           def shift(ts):
               dt = datetime.strptime(ts, "%Y%m%d%H%M%S")
-              dt += timedelta(hours=5)
+              dt += timedelta(hours=15)
               return dt.strftime("%Y%m%d%H%M%S")
 
           def transform(xml):
