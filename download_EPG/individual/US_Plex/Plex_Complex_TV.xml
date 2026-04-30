@@ -5,74 +5,113 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/10b6f3f8-d7b9-492e-a22f-f4c340d62654/PLEX_COMPLEX_White_Logo_1500x1000.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260428234402 +0000" stop="20260429015348 +0000">
-    <title>The Boondock Saints</title>
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430011945 +0000" stop="20260430015529 +0000">
+    <title>White Famous</title>
+    <sub-title>Heat</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Malcolm presses Floyd to commit to his next project.</desc>
+    <date>20171015</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/TahZq7UH/poster.jpg?width=1920" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430015529 +0000" stop="20260430023043 +0000">
+    <title>White Famous</title>
+    <sub-title>Woo</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Floyd grows apprehensive about `Angry Black' when he learns Sadie's boyfriend has been cast.</desc>
+    <date>20171022</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/8YNXQaxZ/poster.jpg?width=1920" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430023043 +0000" stop="20260430030544 +0000">
+    <title>White Famous</title>
+    <sub-title>Appetites</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Floyd and Balls need to settle a creative dispute and Stu shares troubling news from the set.</desc>
+    <date>20171029</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/VeMlJsc8/poster.jpg?width=1920" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430030544 +0000" stop="20260430034059 +0000">
+    <title>White Famous</title>
+    <sub-title>Life on Mars</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Trevor's behaviour lands Floyd in trouble at the principal's office.</desc>
+    <date>20171105</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/1vNYiJyc/poster.jpg?width=1920" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430034059 +0000" stop="20260430041857 +0000">
+    <title>White Famous</title>
+    <sub-title>Wolves</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Teddy asks for Floyd's help in winning back the rights to Angry Black.</desc>
+    <date>20171112</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/junjtJoo/poster.jpg?width=1920" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430041857 +0000" stop="20260430045332 +0000">
+    <title>White Famous</title>
+    <sub-title>Duality</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Floyd seeks advice after finding Robbie in a compromising situation.</desc>
+    <date>20171119</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/N7idgc0Z/poster.jpg?width=1920" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430045332 +0000" stop="20260430052810 +0000">
+    <title>White Famous</title>
+    <sub-title>Make-Believe</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Floyd accepts a role in Kali's newest music video and Malcolm leverages his job.</desc>
+    <date>20171126</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/wicHpK2X/poster.jpg?width=1920" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430052810 +0000" stop="20260430060424 +0000">
+    <title>White Famous</title>
+    <sub-title>Scandal</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>An incriminating video of Floyd goes viral, igniting controversy.</desc>
+    <date>20171203</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/kw8Tt9T4/poster.jpg?width=1920" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430060424 +0000" stop="20260430064224 +0000">
+    <title>White Famous</title>
+    <sub-title>Zero Effs Given</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Floyd weighs his career opportunities following the release of another viral video.</desc>
+    <date>20171210</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/ZKYefXpO/poster.jpg?width=1920" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430064224 +0000" stop="20260430083500 +0000">
+    <title>Death of a Dynasty</title>
     <category>Movie</category>
-    <desc>Two vigilante brothers try to wipe out Boston's criminal underworld. Willem Dafoe and Norman Reedus star.</desc>
-    <date>19990804</date>
+    <desc>The story of a beef between Dash and Jay-Z over a woman.</desc>
+    <date>20070721</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260429015348 +0000" stop="20260429040654 +0000">
-    <title>End of Watch</title>
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430083500 +0000" stop="20260430093118 +0000">
+    <title>Jay-Z: Ultimate Hustle</title>
     <category>Movie</category>
-    <desc>From the creator of Training Day, Jake Gyllenhaal and Michael Peña star as two cops facing cartel revenge.</desc>
-    <date>20120921</date>
+    <desc>From the Brooklyn projects to hip-hop icon, follow Jay-Z's legendary career in the music industry and beyond.</desc>
+    <date>20240312</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260429040654 +0000" stop="20260429065250 +0000">
-    <title>Donnie Darko (Director's Cut)</title>
-    <category>Movie</category>
-    <desc>A cult classic starring Jake Gyllenhaal as a troubled teen plagued by visions of a man in a rabbit suit.</desc>
-    <date>20010119</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430093118 +0000" stop="20260430100256 +0000">
+    <title>360 With Speedy</title>
+    <sub-title>The LeBron James Interview</sub-title>
+    <episode-num system="onscreen">S04E27</episode-num>
+    <desc>The LeBron James Interview</desc>
+    <date>20250918</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/PVScxuwO/poster.jpg?width=1920" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260429065250 +0000" stop="20260429083914 +0000">
-    <title>Snoop Dogg's Hood of Horror</title>
-    <category>Movie</category>
-    <desc>A hip hop horror anthology of three tales of terror that revolve around the residents of an inner-city.</desc>
-    <date>20071212</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260429083914 +0000" stop="20260429092830 +0000">
-    <title>Snoop Dogg: Uncaged</title>
-    <category>Movie</category>
-    <desc>This is the story and legacy of Snoop Dogg, from the 1990s hip-hop scene to his status as a pop culture icon.</desc>
-    <date>20240123</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260429092830 +0000" stop="20260429095343 +0000">
-    <title>Sneaker Shopping</title>
-    <sub-title>Conor McGregor and Jake Gyllenhaal</sub-title>
-    <episode-num system="onscreen">S21E07</episode-num>
-    <desc>Conor McGregor &amp; Jake Gyllenhaal go Sneaker Shopping with Joe La Puma.</desc>
-    <date>20240325</date>
-    <icon src="https://cdn.jwplayer.com/v2/media/THjtGcJj/poster.jpg?width=1920" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260429095343 +0000" stop="20260429101417 +0000">
-    <title>Sneaker Shopping</title>
-    <sub-title>Jake Paul</sub-title>
-    <episode-num system="onscreen">S22E08</episode-num>
-    <desc>Jake Paul goes Sneaker Shopping with Joe La Puma, talking favorite pairs and pickups.</desc>
-    <date>20240923</date>
-    <icon src="https://cdn.jwplayer.com/v2/media/zHU3SCZx/poster.jpg?width=1920" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260429101417 +0000" stop="20260429103421 +0000">
-    <title>Sneaker Shopping</title>
-    <sub-title>Jimmy Fallon</sub-title>
-    <episode-num system="onscreen">S23E03</episode-num>
-    <desc>Jimmy Fallon goes Sneaker Shopping with Joe La Puma, talking favorite pairs and pickups.</desc>
-    <date>20241111</date>
-    <icon src="https://cdn.jwplayer.com/v2/media/4z1ufHpP/poster.jpg?width=1920" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260429103421 +0000" stop="20260429105626 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430100256 +0000" stop="20260430102456 +0000">
     <title>Sneaker Shopping</title>
     <sub-title>Bobby Lee and Andrew Santino</sub-title>
     <episode-num system="onscreen">S24E02</episode-num>
@@ -81,93 +120,25 @@
     <icon src="https://cdn.jwplayer.com/v2/media/51hD62ce/poster.jpg?width=1920" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260429105626 +0000" stop="20260429111053 +0000">
-    <title>GOAT Talk</title>
-    <sub-title>Jamie Foxx &amp; Cameron Diaz</sub-title>
-    <episode-num system="onscreen">S03E02</episode-num>
-    <desc>Jamie Foxx &amp; Cameron Diaz Debate GOAT Comedian, Conspiracy Theories and Impressions</desc>
-    <date>20250115</date>
-    <icon src="https://cdn.jwplayer.com/v2/media/sppHEjAJ/poster.jpg?width=1920" />
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430102456 +0000" stop="20260430104628 +0000">
+    <title>Sneaker Shopping</title>
+    <sub-title>Fat Joe And Jadakiss</sub-title>
+    <episode-num system="onscreen">S26E06</episode-num>
+    <desc>Fat Joe &amp; Jadakiss go Sneaker Shopping with Joe La Puma.</desc>
+    <date>20250908</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/S18yVwZT/poster.jpg?width=1920" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260429111053 +0000" stop="20260429112659 +0000">
-    <title>GOAT Talk</title>
-    <sub-title>The Usos</sub-title>
-    <episode-num system="onscreen">S03E05</episode-num>
-    <desc>The Usos Debate the Best &amp; Worst Things Ever</desc>
-    <date>20250416</date>
-    <icon src="https://cdn.jwplayer.com/v2/media/KQQG3gS3/poster.jpg?width=1920" />
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430104628 +0000" stop="20260430110022 +0000">
+    <title>Sneaker Shopping</title>
+    <sub-title>Saquon Barkley</sub-title>
+    <episode-num system="onscreen">S26E03</episode-num>
+    <desc>Saquon Barkley goes Sneaker Shopping with Joe La Puma, talking favorite pairs and pickups.</desc>
+    <date>20250811</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/CforCGWj/poster.jpg?width=1920" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260429112659 +0000" stop="20260429114420 +0000">
-    <title>GOAT Talk</title>
-    <sub-title>Ben Affleck &amp; Jon Bernthal</sub-title>
-    <episode-num system="onscreen">S03E06</episode-num>
-    <desc>Ben Affleck &amp; Jon Bernthal Debate GOAT Marvel Character, Batman &amp; WWE Wrestler</desc>
-    <date>20250428</date>
-    <icon src="https://cdn.jwplayer.com/v2/media/sgdaUl2E/poster.jpg?width=1920" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260429114420 +0000" stop="20260429123947 +0000">
-    <title>The Ride Life</title>
-    <sub-title>UK</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Sung explores the UK car culture, finding it's the people who make it truly unforgettable.</desc>
-    <date>20250304</date>
-    <icon src="https://cdn.jwplayer.com/v2/media/1lLQTzYI/poster.jpg?width=1920" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260429123947 +0000" stop="20260429133529 +0000">
-    <title>The Ride Life</title>
-    <sub-title>Poland</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Sung dives into Poland's car culture, discovering new freedoms in a thrilling experience.</desc>
-    <date>20250311</date>
-    <icon src="https://cdn.jwplayer.com/v2/media/LH9ruXRn/poster.jpg?width=1920" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260429133529 +0000" stop="20260429143110 +0000">
-    <title>The Ride Life</title>
-    <sub-title>Korea</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Sung returns to Korea, exploring its emerging car culture and finding peace with his estranged mother.</desc>
-    <date>20250318</date>
-    <icon src="https://cdn.jwplayer.com/v2/media/HSz2ZfIV/poster.jpg?width=1920" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260429143110 +0000" stop="20260429164056 +0000">
-    <title>The Boondock Saints</title>
-    <category>Movie</category>
-    <desc>Two vigilante brothers try to wipe out Boston's criminal underworld. Willem Dafoe and Norman Reedus star.</desc>
-    <date>19990804</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260429164056 +0000" stop="20260429184008 +0000">
-    <title>More Than A Game</title>
-    <category>Movie</category>
-    <desc>Follow the rise to fame of LeBron James and the trails and tribulations of his high school basketball team.</desc>
-    <date>20091002</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260429184008 +0000" stop="20260429204704 +0000">
-    <title>Game Time</title>
-    <category>Movie</category>
-    <desc>Two amateur basketball players are invited to participate in the ultra-violent competitive duel championship.</desc>
-    <date>20111227</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260429204704 +0000" stop="20260429223026 +0000">
-    <title>Champs</title>
-    <category>Movie</category>
-    <desc>Boxing legends Mike Tyson, Evander Holyfield and Bernard Hopkins discuss their careers.</desc>
-    <date>20150313</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260429223026 +0000" stop="20260429224637 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430110022 +0000" stop="20260430111634 +0000">
     <title>Sneaker Shopping</title>
     <sub-title>Seth Rollins</sub-title>
     <episode-num system="onscreen">S19E02</episode-num>
@@ -176,7 +147,7 @@
     <icon src="https://cdn.jwplayer.com/v2/media/Uap2pSeB/poster.jpg?width=1920" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260429224637 +0000" stop="20260429230416 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430111634 +0000" stop="20260430113417 +0000">
     <title>Sneaker Shopping</title>
     <sub-title>Tom Hardy</sub-title>
     <episode-num system="onscreen">S23E02</episode-num>
@@ -185,7 +156,7 @@
     <icon src="https://cdn.jwplayer.com/v2/media/vNAMN2T3/poster.jpg?width=1920" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260429230416 +0000" stop="20260429232008 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430113417 +0000" stop="20260430115015 +0000">
     <title>Sneaker Shopping</title>
     <sub-title>Destroy Lonely</sub-title>
     <episode-num system="onscreen">S23E05</episode-num>
@@ -194,7 +165,7 @@
     <icon src="https://cdn.jwplayer.com/v2/media/KpWXhlAO/poster.jpg?width=1920" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260429232008 +0000" stop="20260429233614 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430115015 +0000" stop="20260430120558 +0000">
     <title>Sneaker Shopping</title>
     <sub-title>Offset</sub-title>
     <episode-num system="onscreen">S23E08</episode-num>
@@ -203,31 +174,153 @@
     <icon src="https://cdn.jwplayer.com/v2/media/euphwCRS/poster.jpg?width=1920" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260429233614 +0000" stop="20260429235223 +0000">
-    <title>Sneaker Shopping</title>
-    <sub-title>CM Punk</sub-title>
-    <episode-num system="onscreen">S24E01</episode-num>
-    <desc>CM Punk goes Sneaker Shopping with Joe La Puma, talking favorite pairs and pickups.</desc>
-    <date>20250127</date>
-    <icon src="https://cdn.jwplayer.com/v2/media/0qaEETjZ/poster.jpg?width=1920" />
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430120558 +0000" stop="20260430124747 +0000">
+    <title>White Famous</title>
+    <sub-title>Pilot</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>A racially-charged encounter with a film producer goes viral, presenting an opportunity to a young comic.</desc>
+    <date>20171015</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/bMdNqT0E/poster.jpg?width=1920" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260429235223 +0000" stop="20260430000829 +0000">
-    <title>Sneaker Shopping</title>
-    <sub-title>The Rizzler</sub-title>
-    <episode-num system="onscreen">S24E03</episode-num>
-    <desc>The Rizzler goes Sneaker Shopping with Joe La Puma, talking favorite pairs and pickups.</desc>
-    <date>20250210</date>
-    <icon src="https://cdn.jwplayer.com/v2/media/VWid3BpK/poster.jpg?width=1920" />
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430124747 +0000" stop="20260430132332 +0000">
+    <title>White Famous</title>
+    <sub-title>Heat</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Malcolm presses Floyd to commit to his next project.</desc>
+    <date>20171015</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/TahZq7UH/poster.jpg?width=1920" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430000829 +0000" stop="20260430002425 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430132332 +0000" stop="20260430135846 +0000">
+    <title>White Famous</title>
+    <sub-title>Woo</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Floyd grows apprehensive about `Angry Black' when he learns Sadie's boyfriend has been cast.</desc>
+    <date>20171022</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/8YNXQaxZ/poster.jpg?width=1920" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430135846 +0000" stop="20260430143346 +0000">
+    <title>White Famous</title>
+    <sub-title>Appetites</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Floyd and Balls need to settle a creative dispute and Stu shares troubling news from the set.</desc>
+    <date>20171029</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/VeMlJsc8/poster.jpg?width=1920" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430143346 +0000" stop="20260430150701 +0000">
+    <title>White Famous</title>
+    <sub-title>Life on Mars</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Trevor's behaviour lands Floyd in trouble at the principal's office.</desc>
+    <date>20171105</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/1vNYiJyc/poster.jpg?width=1920" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430150701 +0000" stop="20260430154458 +0000">
+    <title>White Famous</title>
+    <sub-title>Wolves</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Teddy asks for Floyd's help in winning back the rights to Angry Black.</desc>
+    <date>20171112</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/junjtJoo/poster.jpg?width=1920" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430154458 +0000" stop="20260430161933 +0000">
+    <title>White Famous</title>
+    <sub-title>Duality</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Floyd seeks advice after finding Robbie in a compromising situation.</desc>
+    <date>20171119</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/N7idgc0Z/poster.jpg?width=1920" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430161933 +0000" stop="20260430165411 +0000">
+    <title>White Famous</title>
+    <sub-title>Make-Believe</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Floyd accepts a role in Kali's newest music video and Malcolm leverages his job.</desc>
+    <date>20171126</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/wicHpK2X/poster.jpg?width=1920" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430165411 +0000" stop="20260430173026 +0000">
+    <title>White Famous</title>
+    <sub-title>Scandal</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>An incriminating video of Floyd goes viral, igniting controversy.</desc>
+    <date>20171203</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/kw8Tt9T4/poster.jpg?width=1920" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430173026 +0000" stop="20260430180825 +0000">
+    <title>White Famous</title>
+    <sub-title>Zero Effs Given</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Floyd weighs his career opportunities following the release of another viral video.</desc>
+    <date>20171210</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/ZKYefXpO/poster.jpg?width=1920" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430180825 +0000" stop="20260430195906 +0000">
+    <title>Tupac: Aftermath</title>
+    <category>Movie</category>
+    <desc>A look into the days immediately following the death of hip-hop artist, Tupac Shakur.</desc>
+    <date>20090101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430195906 +0000" stop="20260430213615 +0000">
+    <title>#Lucky Number</title>
+    <category>Movie</category>
+    <desc>A young man's life is on a losing streak until he gets the old cell number of a major basketball star.</desc>
+    <date>20150901</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430213615 +0000" stop="20260430232917 +0000">
+    <title>Champions</title>
+    <category>Movie</category>
+    <desc>A retired gladiator (Louis Mandylor) re-enters the outlawed sport of extreme fighting to avenge his brother's death.</desc>
+    <date>19970323</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430232917 +0000" stop="20260430235430 +0000">
     <title>Sneaker Shopping</title>
-    <sub-title>WWE Superstar Jey Uso</sub-title>
-    <episode-num system="onscreen">S25E03</episode-num>
-    <desc>Jey Uso goes Sneaker Shopping with Joe La Puma, talking favorite pairs and pickups.</desc>
-    <date>20250414</date>
-    <icon src="https://cdn.jwplayer.com/v2/media/W2QJKM8j/poster.jpg?width=1920" />
+    <sub-title>Conor McGregor and Jake Gyllenhaal</sub-title>
+    <episode-num system="onscreen">S21E07</episode-num>
+    <desc>Conor McGregor &amp; Jake Gyllenhaal go Sneaker Shopping with Joe La Puma.</desc>
+    <date>20240325</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/THjtGcJj/poster.jpg?width=1920" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260430235430 +0000" stop="20260501001505 +0000">
+    <title>Sneaker Shopping</title>
+    <sub-title>Jake Paul</sub-title>
+    <episode-num system="onscreen">S22E08</episode-num>
+    <desc>Jake Paul goes Sneaker Shopping with Joe La Puma, talking favorite pairs and pickups.</desc>
+    <date>20240923</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/zHU3SCZx/poster.jpg?width=1920" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260501001505 +0000" stop="20260501003709 +0000">
+    <title>Sneaker Shopping</title>
+    <sub-title>Jimmy Fallon</sub-title>
+    <episode-num system="onscreen">S23E03</episode-num>
+    <desc>Jimmy Fallon goes Sneaker Shopping with Joe La Puma, talking favorite pairs and pickups.</desc>
+    <date>20241111</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/4z1ufHpP/poster.jpg?width=1920" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260501003709 +0000" stop="20260501025207 +0000">
+    <title>Beat Street</title>
+    <category>Movie</category>
+    <desc>An aspiring DJ from the Bronx attempts to get into show business with his best friend.</desc>
+    <date>19840608</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
   </programme>
   
 </tv>
