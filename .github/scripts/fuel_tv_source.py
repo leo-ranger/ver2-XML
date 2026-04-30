@@ -1,38 +1,45 @@
 from playwright.sync_api import sync_playwright
 from datetime import datetime, timedelta
 import re
+import os
+import xml.etree.ElementTree as ET
 
 BASE_URL = "https://fuel.tv/browse/guide/{}"
 CHANNEL_ID = "fuel.tv"
 
 
+# -----------------------------
+# ROBUST BLOCK PARSER
+# -----------------------------
 def parse_block(text):
-    """
-    Attempts to extract:
-    time, title, description
-    """
-
-    # Example:
-    # 12:35 AM
-    # Bubba's World - Season 2 - The Shift
-    # Motorsports
-    # description...
-    # 30 mins
-
     lines = [l.strip() for l in text.split("\n") if l.strip()]
 
-    time_match = re.match(r"(\d{1,2}:\d{2}\s?[APMapm]{2})", lines[0]) if lines else None
-    if not time_match:
+    if not lines:
         return None
 
-    time_str = time_match.group(1)
+    # Find time anywhere in block
+    time_str = None
+    for l in lines:
+        match = re.match(r"(\d{1,2}:\d{2}\s?[APMapm]{2})", l)
+        if match:
+            time_str = match.group(1)
+            break
 
-    title = lines[1] if len(lines) > 1 else "Unknown"
-    desc = lines[3] if len(lines) > 3 else ""
+    if not time_str:
+        return None
+
+    # Remove time line(s)
+    cleaned = [l for l in lines if time_str not in l]
+
+    title = cleaned[0] if len(cleaned) > 0 else "Unknown"
+    desc = max(cleaned[1:], key=len) if len(cleaned) > 1 else ""
 
     return time_str, title, desc
 
 
+# -----------------------------
+# MAIN SCRAPER
+# -----------------------------
 def fetch_fuel_tv():
     programs = []
 
@@ -46,22 +53,25 @@ def fetch_fuel_tv():
             date = today + timedelta(days=i)
             url = BASE_URL.format(date.strftime("%Y-%m-%d"))
 
-            print(f"[EPG] {url}")
+            print(f"[FuelTV] Fetching {url}")
 
             page.goto(url, timeout=60000)
             page.wait_for_timeout(4000)
 
-            # ⚠️ You will refine this selector later
             cards = page.query_selector_all("div")
 
             day_programs = []
 
             for card in cards:
-                text = card.inner_text()
+                text = card.inner_text().strip()
 
-                # IMAGE extraction (important part)
+                # -------------------------
+                # IMAGE EXTRACTION (safe)
+                # -------------------------
                 img_el = card.query_selector("img")
-                img = img_el.get_attribute("src") if img_el else None
+                img = None
+                if img_el:
+                    img = img_el.get_attribute("src") or img_el.get_attribute("data-src")
 
                 parsed = parse_block(text)
                 if not parsed:
@@ -69,10 +79,13 @@ def fetch_fuel_tv():
 
                 time_str, title, desc = parsed
 
-                dt = datetime.strptime(
-                    f"{date} {time_str.upper()}",
-                    "%Y-%m-%d %I:%M %p"
-                )
+                try:
+                    dt = datetime.strptime(
+                        f"{date} {time_str.upper()}",
+                        "%Y-%m-%d %I:%M %p"
+                    )
+                except:
+                    continue
 
                 day_programs.append({
                     "channel": CHANNEL_ID,
@@ -82,15 +95,20 @@ def fetch_fuel_tv():
                     "start": dt,
                 })
 
-            # sort timeline
+            # -----------------------------
+            # SORT TIMELINE
+            # -----------------------------
             day_programs.sort(key=lambda x: x["start"])
 
-            # build stop times
+            # -----------------------------
+            # BUILD STOP TIMES
+            # -----------------------------
             for i, p in enumerate(day_programs):
+
                 if i + 1 < len(day_programs):
-                    stop = day_programs[i + 1]["start"]
+                    stop_dt = day_programs[i + 1]["start"]
                 else:
-                    stop = p["start"] + timedelta(minutes=30)
+                    stop_dt = p["start"] + timedelta(minutes=30)
 
                 programs.append({
                     "channel": p["channel"],
@@ -98,9 +116,55 @@ def fetch_fuel_tv():
                     "desc": p["desc"],
                     "icon": p["icon"],
                     "start": p["start"].strftime("%Y%m%d%H%M%S +0000"),
-                    "stop": stop.strftime("%Y%m%d%H%M%S +0000"),
+                    "stop": stop_dt.strftime("%Y%m%d%H%M%S +0000"),
                 })
 
         browser.close()
 
     return programs
+
+
+# -----------------------------
+# OPTIONAL LOCAL TEST RUN
+# -----------------------------
+if __name__ == "__main__":
+
+    programs = fetch_fuel_tv()
+
+    BASE_DIR = os.path.abspath(
+        os.path.join(os.path.dirname(__file__), "../../")
+    )
+
+    output_path = os.path.join(
+        BASE_DIR,
+        "download_EPG/individual/Sports/fueltv.xml"
+    )
+
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+
+    tv = ET.Element("tv")
+
+    for p in programs:
+        prog = ET.SubElement(tv, "programme")
+        prog.set("channel", p["channel"])
+        prog.set("start", p["start"])
+        prog.set("stop", p["stop"])
+
+        title = ET.SubElement(prog, "title")
+        title.text = p["title"]
+
+        if p.get("desc"):
+            desc = ET.SubElement(prog, "desc")
+            desc.text = p["desc"]
+
+        if p.get("icon"):
+            icon = ET.SubElement(prog, "icon")
+            icon.set("src", p["icon"])
+
+    ET.ElementTree(tv).write(
+        output_path,
+        encoding="utf-8",
+        xml_declaration=True
+    )
+
+    print(f"[OK] Wrote EPG → {output_path}")
