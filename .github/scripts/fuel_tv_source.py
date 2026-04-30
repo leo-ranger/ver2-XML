@@ -57,8 +57,19 @@ def fetch_fuel_tv():
 
             page.goto(url, timeout=60000)
             page.wait_for_timeout(4000)
+            
+cards = page.query_selector_all("div")
 
-            cards = page.query_selector_all("div")
+filtered_cards = []
+
+for card in cards:
+    text = card.inner_text().strip()
+
+    # ONLY keep real programme-like blocks
+    if re.search(r"\d{1,2}:\d{2}\s?[APMapm]{2}", text) and len(text) < 500:
+        filtered_cards.append(card)
+
+cards = filtered_cards
 
             day_programs = []
 
