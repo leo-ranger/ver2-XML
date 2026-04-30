@@ -1,0 +1,33 @@
+name: Test Fuel TV EPG
+
+on:
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Playwright
+        run: |
+          pip install playwright
+          playwright install --with-deps
+
+      - name: Run script
+        run: python .github/scripts/fuel_tv_source.py
+
+      - name: Commit output
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add download_EPG/individual/Sports/fueltv.xml
+          git commit -m "Update FuelTV EPG" || echo "No changes"
+          git push
