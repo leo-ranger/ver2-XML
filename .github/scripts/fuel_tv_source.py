@@ -57,20 +57,11 @@ def fetch_fuel_tv():
 
             page.goto(url, timeout=60000)
             page.wait_for_timeout(4000)
-            
-cards = page.query_selector_all("div")
 
-filtered_cards = []
+            # ⚠️ still broad selector (we refine later)
+            cards = page.query_selector_all("div")
 
-for card in cards:
-    text = card.inner_text().strip()
-
-    # ONLY keep real programme-like blocks
-    if re.search(r"\d{1,2}:\d{2}\s?[APMapm]{2}", text) and len(text) < 500:
-        filtered_cards.append(card)
-
-cards = filtered_cards
-
+            # ✅ FIXED: must be OUTSIDE loop (was causing indentation crash)
             day_programs = []
 
             for card in cards:
@@ -114,19 +105,19 @@ cards = filtered_cards
             # -----------------------------
             # BUILD STOP TIMES
             # -----------------------------
-            for i, p in enumerate(day_programs):
+            for i, p_item in enumerate(day_programs):
 
                 if i + 1 < len(day_programs):
                     stop_dt = day_programs[i + 1]["start"]
                 else:
-                    stop_dt = p["start"] + timedelta(minutes=30)
+                    stop_dt = p_item["start"] + timedelta(minutes=30)
 
                 programs.append({
-                    "channel": p["channel"],
-                    "title": p["title"],
-                    "desc": p["desc"],
-                    "icon": p["icon"],
-                    "start": p["start"].strftime("%Y%m%d%H%M%S +0000"),
+                    "channel": p_item["channel"],
+                    "title": p_item["title"],
+                    "desc": p_item["desc"],
+                    "icon": p_item["icon"],
+                    "start": p_item["start"].strftime("%Y%m%d%H%M%S +0000"),
                     "stop": stop_dt.strftime("%Y%m%d%H%M%S +0000"),
                 })
 
