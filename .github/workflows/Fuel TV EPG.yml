@@ -20,7 +20,6 @@ jobs:
 
       - name: Create directory structure
         run: mkdir -p download_EPG/individual/Sports
-
       - name: Fetch EPG XML (today + tomorrow)
         run: |
           TODAY=$(date -u +%Y%m%d)
@@ -32,47 +31,61 @@ jobs:
           curl -L -o tomorrow.xml \
           "https://epg.pw/api/epg.xml?lang=en&date=${TOMORROW}&channel_id=421685"
 
-      - name: Merge XML files
-        run: |
-          # Remove XML header from tomorrow file
-          sed '1,2d' tomorrow.xml > tomorrow_clean.xml
-
-          # Merge safely
-          head -n -1 today.xml > merged.xml
-          tail -n 1 today.xml >> merged.xml
-          cat tomorrow_clean.xml >> merged.xml
-
-          mv merged.xml download_EPG/individual/Sports/fueltv.xml
-
-      - name: Shift EPG times by +8 hours
+      - name: Build 24h shifted EPG (08:00 → 00:00 roll)
         run: |
           python3 << 'EOF'
           import re
           from datetime import datetime, timedelta
 
-          FILE = "download_EPG/individual/Sports/fueltv.xml"
-          SHIFT_HOURS = 8  # change to -8 if needed
+          SHIFT = 8
+
+          def parse(file):
+              with open(file, "r", encoding="utf-8") as f:
+                  return f.read()
+
+          today = parse("today.xml")
+          tomorrow = parse("tomorrow.xml")
 
           pattern = re.compile(r'(start|stop)="(\d{14})\s([+-]\d{4})"')
 
-          def shift(ts):
+          def shift(ts, hours):
               dt = datetime.strptime(ts, "%Y%m%d%H%M%S")
-              dt += timedelta(hours=SHIFT_HOURS)
+              dt += timedelta(hours=hours)
               return dt.strftime("%Y%m%d%H%M%S")
 
-          with open(FILE, "r", encoding="utf-8") as f:
-              data = f.read()
+          # Split logic:
+          # - today: shift -8h (so 08:00 becomes 00:00)
+          # - tomorrow: only take 00:00–08:00, shift -8h to fill end
 
-          def repl(m):
-              tag = m.group(1)
-              ts = m.group(2)
-              tz = m.group(3)
-              return f'{tag}="{shift(ts)} {tz}"'
+          def transform(xml, shift_hours):
+              def repl(m):
+                  tag, ts, tz = m.group(1), m.group(2), m.group(3)
+                  return f'{tag}="{shift(ts, shift_hours)} {tz}"'
+              return pattern.sub(repl, xml)
 
-          data = pattern.sub(repl, data)
+          today_shifted = transform(today, -SHIFT)
+          tomorrow_shifted = transform(tomorrow, -SHIFT)
 
-          with open(FILE, "w", encoding="utf-8") as f:
-              f.write(data)
+          # Keep only tomorrow entries that belong to first 8 hours AFTER shift logic
+          def filter_tomorrow(xml):
+              out = []
+              for line in xml.splitlines():
+                  if 'start="' in line:
+                      ts = re.search(r'start="(\d{14})', line)
+                      if ts:
+                          t = datetime.strptime(ts.group(1), "%Y%m%d%H%M%S")
+                          if t.hour < SHIFT:
+                              out.append(line)
+                  else:
+                      out.append(line)
+              return "\n".join(out)
+
+          tomorrow_filtered = filter_tomorrow(tomorrow_shifted)
+
+          merged = today_shifted.replace("</tv>", "") + "\n" + tomorrow_filtered + "\n</tv>"
+
+          with open("download_EPG/individual/Sports/fueltv.xml", "w", encoding="utf-8") as f:
+              f.write(merged)
           EOF
 
       - name: Ensure XML header + DOCTYPE
