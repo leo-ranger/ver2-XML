@@ -39,7 +39,7 @@ jobs:
           import re
           from datetime import datetime, timedelta
 
-          SHIFT = 8
+          SHIFT = 0
           OUT = "download_EPG/individual/ClubbingTV/ClubbingTV.xml"
 
           with open("today.xml", "r", encoding="utf-8") as f:
