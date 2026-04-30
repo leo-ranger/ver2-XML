@@ -33,14 +33,13 @@ jobs:
       # -----------------------------
       # APPLY 8 HOUR SHIFT (NON-DESTRUCTIVE)
       # -----------------------------
-      - name: Apply -1 hour shift
+      - name: Apply +1 hour shift (with tomorrow fill)
         run: |
           python3 << 'EOF'
           import re
           from datetime import datetime, timedelta
 
-          SHIFT = -1
-          OUT = "download_EPG/individual/ClubbingTV/ClubbingTV.xml"
+          FILE_OUT = "download_EPG/individual/ClubbingTV/ClubbingTV.xml"
 
           with open("today.xml", "r", encoding="utf-8") as f:
               today = f.read()
@@ -50,34 +49,47 @@ jobs:
 
           pattern = re.compile(r'(start|stop)="(\d{14})\s([+-]\d{4})"')
 
+          # -------------------------
+          # SHIFT FUNCTION (+1 hour)
+          # -------------------------
           def shift(ts):
               dt = datetime.strptime(ts, "%Y%m%d%H%M%S")
-              dt -= timedelta(hours=SHIFT)  # handles negative correctly
+              dt += timedelta(hours=1)
               return dt.strftime("%Y%m%d%H%M%S")
 
           def transform(xml):
-              return pattern.sub(lambda m: f'{m.group(1)}="{shift(m.group(2))} {m.group(3)}"', xml)
+              return pattern.sub(
+                  lambda m: f'{m.group(1)}="{shift(m.group(2))} {m.group(3)}"',
+                  xml
+              )
 
           today_shifted = transform(today)
           tomorrow_shifted = transform(tomorrow)
 
-          # for -1 shift, we need last 1 hour of tomorrow (23:00–00:00 equivalent)
-          tomorrow_blocks = []
+          # -------------------------
+          # GET FIRST HOUR OF TOMORROW (FILL GAP)
+          # -------------------------
+          tomorrow_fill = []
           for block in re.findall(r'<programme.*?</programme>', tomorrow_shifted, re.S):
               m = re.search(r'start="(\d{14})', block)
               if m:
                   t = datetime.strptime(m.group(1), "%Y%m%d%H%M%S")
-                  if t.hour >= 23:  # last hour window
-                      tomorrow_blocks.append(block)
+                  # only first hour after shift boundary
+                  if t.hour == 0:
+                      tomorrow_fill.append(block)
 
+          # -------------------------
+          # MERGE SAFELY
+          # -------------------------
           insert_pos = today_shifted.rfind("</tv>")
-            merged = (
-                today_shifted[:insert_pos] +
-                "\n" + "\n".join(tomorrow_blocks) +
-                "\n</tv>"
+
+          merged = (
+              today_shifted[:insert_pos] +
+              "\n" + "\n".join(tomorrow_fill) +
+              "\n</tv>"
           )
 
-          with open(OUT, "w", encoding="utf-8") as f:
+          with open(FILE_OUT, "w", encoding="utf-8") as f:
               f.write(merged)
           EOF
 
