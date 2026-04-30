@@ -31,14 +31,17 @@ jobs:
           "https://epg.pw/api/epg.xml?lang=en&date=${TOMORROW}&channel_id=5771"
 
       # -----------------------------
-      # MERGE XML (NO TIME CHANGES)
+      # APPLY FIXED OFFSET (-13 HOURS)
       # -----------------------------
-      - name: Merge EPG safely (raw timestamps)
+      - name: Apply EPG time correction (-13h)
         run: |
           python3 << 'EOF'
           import re
+          from datetime import datetime, timedelta
 
           FILE_OUT = "download_EPG/individual/ClubbingTV/ClubbingTV.xml"
+
+          OFFSET_HOURS = -13
 
           with open("today.xml", "r", encoding="utf-8") as f:
               today = f.read()
@@ -46,12 +49,27 @@ jobs:
           with open("tomorrow.xml", "r", encoding="utf-8") as f:
               tomorrow = f.read()
 
-          # Keep original XML exactly as provided
-          insert_pos = today.rfind("</tv>")
+          pattern = re.compile(r'(start|stop)="(\d{14})\s([+-]\d{4})"')
+
+          def shift(ts):
+              dt = datetime.strptime(ts, "%Y%m%d%H%M%S")
+              dt += timedelta(hours=OFFSET_HOURS)
+              return dt.strftime("%Y%m%d%H%M%S")
+
+          def transform(xml):
+              return pattern.sub(
+                  lambda m: f'{m.group(1)}="{shift(m.group(2))} {m.group(3)}"',
+                  xml
+              )
+
+          today_shifted = transform(today)
+          tomorrow_shifted = transform(tomorrow)
+
+          insert_pos = today_shifted.rfind("</tv>")
 
           merged = (
-              today[:insert_pos] +
-              "\n" +
+              today_shifted[:insert_pos] +
+              "\n" + tomorrow_shifted +
               "\n</tv>"
           )
 
@@ -67,9 +85,9 @@ jobs:
           sed -i '1s|$| <!DOCTYPE tv SYSTEM "xmltv.dtd">|' download_EPG/individual/ClubbingTV/ClubbingTV.xml
 
       # -----------------------------
-      # TRANSLATION STEP (UNCHANGED)
+      # TRANSLATION STEP
       # -----------------------------
-      - name: Translate Russian titles and descriptions, clean placeholders
+      - name: Translate Russian titles and descriptions
         run: |
           python3 -m pip install --upgrade pip
           python3 -m pip install googletrans==4.0.0-rc1
@@ -90,20 +108,14 @@ jobs:
               for title in prog.findall('title'):
                   if title.text and title.text.strip():
                       try:
-                          translated = translator.translate(title.text, src='ru', dest='en').text
-                          translated = fix_spacing(translated)
-                          translated = re.sub(r'\[(Russian|Russian characters)\]', '', translated).strip()
-                          title.text = translated
+                          title.text = translator.translate(title.text, src='ru', dest='en').text
                       except Exception:
                           pass
 
               desc = prog.find('desc')
               if desc is not None and desc.text and desc.text.strip():
                   try:
-                      translated = translator.translate(desc.text, src='ru', dest='en').text
-                      translated = fix_spacing(translated)
-                      translated = re.sub(r'\[(Russian|Russian characters)\]', '', translated).strip()
-                      desc.text = translated
+                      desc.text = translator.translate(desc.text, src='ru', dest='en').text
                   except Exception:
                       pass
 
@@ -111,9 +123,9 @@ jobs:
           EOF
 
       # -----------------------------
-      # ICON INJECTION (UNCHANGED)
+      # ICON INJECTION
       # -----------------------------
-      - name: Inject default icon after <desc> in every programme
+      - name: Inject default icon after <desc>
         run: |
           python3 - << 'EOF'
           import xml.etree.ElementTree as ET
@@ -130,8 +142,7 @@ jobs:
                   icon_elem = ET.Element('icon')
                   icon_elem.set('src', icon_url)
                   if desc is not None:
-                      index = list(prog).index(desc) + 1
-                      prog.insert(index, icon_elem)
+                      prog.insert(list(prog).index(desc) + 1, icon_elem)
                   else:
                       prog.append(icon_elem)
 
@@ -139,7 +150,7 @@ jobs:
           EOF
 
       # -----------------------------
-      # COMMIT
+      # COMMIT CHANGES
       # -----------------------------
       - name: Commit and push if changed
         run: |
