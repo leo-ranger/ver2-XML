@@ -1,693 +1,929 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <tv date="20260430185706 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/421685/20260430.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=421685&amp;date=20260430&amp;timezone=None">
-<programme channel="421685" start="20260429121000 +0000" stop="20260429124000 +0000">
-    <title>The Standard Snowboard Show</title>
+  <channel id="421685">
+    <display-name lang="Russian Federation">Fuel TV HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/04/05/20250405021902351736_60.png" />
+  </channel>
+  <programme channel="421685" start="20260429121000 +0000" stop="20260429124000 +0000">
+    <title lang="zh">The Standard Snowboard Show – Sn 2, Ep 1. Eero Ettala</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>The Standard Snowboard Show – Sn 2, Ep 1. Eero Ettala</desc><sub-title>Eero Ettala</sub-title><episode-num system="onscreen">S2.E1.</episode-num><episode-num system="xmltv_ns">1.0.0</episode-num></programme>
-<programme channel="421685" start="20260429124000 +0000" stop="20260429131000 +0000">
-    <title>The Captain and Casey Show</title>
+  </programme>
+  <programme channel="421685" start="20260429124000 +0000" stop="20260429131000 +0000">
+    <title lang="zh">The Captain and Casey Show – Sn 3, Ep 9. Episode 9</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>The Captain and Casey Show – Sn 3, Ep 9. Episode 9</desc><sub-title>Episode 9</sub-title><episode-num system="onscreen">S3.E9.</episode-num><episode-num system="xmltv_ns">2.8.0</episode-num></programme>
-<programme channel="421685" start="20260429131000 +0000" stop="20260429134000 +0000">
-    <title>Firsthand</title>
+  </programme>
+  <programme channel="421685" start="20260429131000 +0000" stop="20260429134000 +0000">
+    <title lang="zh">Firsthand – Sn 7, Ep 7. Corey Bohan</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>Firsthand – Sn 7, Ep 7. Corey Bohan</desc><sub-title>Corey Bohan</sub-title><episode-num system="onscreen">S7.E7.</episode-num><episode-num system="xmltv_ns">6.6.0</episode-num></programme>
-<programme channel="421685" start="20260429134000 +0000" stop="20260429141000 +0000">
-    <title>Monster Army Unleashed</title>
+  </programme>
+  <programme channel="421685" start="20260429134000 +0000" stop="20260429141000 +0000">
+    <title lang="zh">Monster Army Unleashed – Sn 1, Ep 11. Monster Army Movie 11</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>Monster Army Unleashed – Sn 1, Ep 11. Monster Army Movie 11</desc><sub-title>Monster Army Movie 11</sub-title><episode-num system="onscreen">S1.E11.</episode-num><episode-num system="xmltv_ns">0.10.0</episode-num></programme>
-<programme channel="421685" start="20260429141000 +0000" stop="20260429143000 +0000">
-    <title>In the Mix</title>
+  </programme>
+  <programme channel="421685" start="20260429141000 +0000" stop="20260429143000 +0000">
+    <title lang="zh">In the Mix – Sn 1, Ep 1. RSEO24</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>In the Mix – Sn 1, Ep 1. RSEO24</desc><sub-title>RSEO24</sub-title><episode-num system="onscreen">S1.E1.</episode-num><episode-num system="xmltv_ns">0.0.0</episode-num></programme>
-<programme channel="421685" start="20260429143000 +0000" stop="20260429144500 +0000">
-    <title>In the Mix</title>
+  </programme>
+  <programme channel="421685" start="20260429143000 +0000" stop="20260429144500 +0000">
+    <title lang="zh">In the Mix – Sn 1, Ep 2. Vans Pool Party</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>In the Mix – Sn 1, Ep 2. Vans Pool Party</desc><sub-title>Vans Pool Party</sub-title><episode-num system="onscreen">S1.E2.</episode-num><episode-num system="xmltv_ns">0.1.0</episode-num></programme>
-<programme channel="421685" start="20260429144500 +0000" stop="20260429153000 +0000">
+  </programme>
+  <programme channel="421685" start="20260429144500 +0000" stop="20260429153000 +0000">
     <title lang="zh">The Story of Estonian Skateboarding</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>The Story of Estonian Skateboarding</desc></programme>
-<programme channel="421685" start="20260429153000 +0000" stop="20260429160000 +0000">
-    <title>The Great Ride Open</title>
+  </programme>
+  <programme channel="421685" start="20260429153000 +0000" stop="20260429160000 +0000">
+    <title lang="zh">The Great Ride Open – Sn 2, Ep 4. Delta</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>The Great Ride Open – Sn 2, Ep 4. Delta</desc><sub-title>Delta</sub-title><episode-num system="onscreen">S2.E4.</episode-num><episode-num system="xmltv_ns">1.3.0</episode-num></programme>
-<programme channel="421685" start="20260429160000 +0000" stop="20260429163000 +0000">
-    <title>Built to Shred</title>
+  </programme>
+  <programme channel="421685" start="20260429160000 +0000" stop="20260429163000 +0000">
+    <title lang="zh">Built to Shred – Sn 4, Ep 5. Land of Giants</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>Built to Shred – Sn 4, Ep 5. Land of Giants</desc><sub-title>Land of Giants</sub-title><episode-num system="onscreen">S4.E5.</episode-num><episode-num system="xmltv_ns">3.4.0</episode-num></programme>
-<programme channel="421685" start="20260429163000 +0000" stop="20260429170000 +0000">
-    <title>The Adventures of Danny and the Dingo</title>
+  </programme>
+  <programme channel="421685" start="20260429163000 +0000" stop="20260429170000 +0000">
+    <title lang="zh">The Adventures of Danny and the Dingo – Sn 1, Ep 4. Mountain Creek</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>The Adventures of Danny and the Dingo – Sn 1, Ep 4. Mountain Creek</desc><sub-title>Mountain Creek</sub-title><episode-num system="onscreen">S1.E4.</episode-num><episode-num system="xmltv_ns">0.3.0</episode-num></programme>
-<programme channel="421685" start="20260429170000 +0000" stop="20260429173000 +0000">
-    <title>The Standard Snowboard Show</title>
+  </programme>
+  <programme channel="421685" start="20260429170000 +0000" stop="20260429173000 +0000">
+    <title lang="zh">The Standard Snowboard Show – Sn 3, Ep 8. Lake Tahoe</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>The Standard Snowboard Show – Sn 3, Ep 8. Lake Tahoe</desc><sub-title>Lake Tahoe</sub-title><episode-num system="onscreen">S3.E8.</episode-num><episode-num system="xmltv_ns">2.7.0</episode-num></programme>
-<programme channel="421685" start="20260429173000 +0000" stop="20260429180000 +0000">
-    <title>The Captain and Casey Show</title>
+  </programme>
+  <programme channel="421685" start="20260429173000 +0000" stop="20260429180000 +0000">
+    <title lang="zh">The Captain and Casey Show – Sn 4, Ep 13. BBQ</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>The Captain and Casey Show – Sn 4, Ep 13. BBQ</desc><sub-title>BBQ</sub-title><episode-num system="onscreen">S4.E13.</episode-num><episode-num system="xmltv_ns">3.12.0</episode-num></programme>
-<programme channel="421685" start="20260429180000 +0000" stop="20260429183000 +0000">
-    <title>M80</title>
+  </programme>
+  <programme channel="421685" start="20260429180000 +0000" stop="20260429183000 +0000">
+    <title lang="zh">M80 – Sn 1, Ep 8. Colin Morrison</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>M80 – Sn 1, Ep 8. Colin Morrison</desc><sub-title>Colin Morrison</sub-title><episode-num system="onscreen">S1.E8.</episode-num><episode-num system="xmltv_ns">0.7.0</episode-num></programme>
-<programme channel="421685" start="20260429183000 +0000" stop="20260429190000 +0000">
-    <title>The Moto: Inside the Outdoors</title>
+  </programme>
+  <programme channel="421685" start="20260429183000 +0000" stop="20260429190000 +0000">
+    <title lang="zh">The Moto: Inside the Outdoors – Sn 3, Ep 5. Thunder Valley National</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>The Moto: Inside the Outdoors – Sn 3, Ep 5. Thunder Valley National</desc><sub-title>Thunder Valley National</sub-title><episode-num system="onscreen">S3.E5.</episode-num><episode-num system="xmltv_ns">2.4.0</episode-num></programme>
-<programme channel="421685" start="20260429190000 +0000" stop="20260429193000 +0000">
-    <title>Monster Army Unleashed</title>
+  </programme>
+  <programme channel="421685" start="20260429190000 +0000" stop="20260429193000 +0000">
+    <title lang="zh">Monster Army Unleashed – Sn 1, Ep 11. Monster Army Movie 11</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>Monster Army Unleashed – Sn 1, Ep 11. Monster Army Movie 11</desc><sub-title>Monster Army Movie 11</sub-title><episode-num system="onscreen">S1.E11.</episode-num><episode-num system="xmltv_ns">0.10.0</episode-num></programme>
-<programme channel="421685" start="20260429193000 +0000" stop="20260429195000 +0000">
-    <title>In the Mix</title>
+  </programme>
+  <programme channel="421685" start="20260429193000 +0000" stop="20260429195000 +0000">
+    <title lang="zh">In the Mix – Sn 1, Ep 1. RSEO24</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>In the Mix – Sn 1, Ep 1. RSEO24</desc><sub-title>RSEO24</sub-title><episode-num system="onscreen">S1.E1.</episode-num><episode-num system="xmltv_ns">0.0.0</episode-num></programme>
-<programme channel="421685" start="20260429195000 +0000" stop="20260429200500 +0000">
-    <title>In the Mix</title>
+  </programme>
+  <programme channel="421685" start="20260429195000 +0000" stop="20260429200500 +0000">
+    <title lang="zh">In the Mix – Sn 1, Ep 2. Vans Pool Party</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>In the Mix – Sn 1, Ep 2. Vans Pool Party</desc><sub-title>Vans Pool Party</sub-title><episode-num system="onscreen">S1.E2.</episode-num><episode-num system="xmltv_ns">0.1.0</episode-num></programme>
-<programme channel="421685" start="20260429200500 +0000" stop="20260429203000 +0000">
+  </programme>
+  <programme channel="421685" start="20260429200500 +0000" stop="20260429203000 +0000">
     <title lang="zh">First Push</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>First Push</desc></programme>
-<programme channel="421685" start="20260429203000 +0000" stop="20260429210000 +0000">
+  </programme>
+  <programme channel="421685" start="20260429203000 +0000" stop="20260429210000 +0000">
     <title lang="zh">The Gypsy Tour</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>The Gypsy Tour</desc></programme>
-<programme channel="421685" start="20260429210000 +0000" stop="20260429213000 +0000">
-    <title>Drive Thru</title>
+  </programme>
+  <programme channel="421685" start="20260429210000 +0000" stop="20260429213000 +0000">
+    <title lang="zh">Drive Thru – Sn 6, Ep 4. The Gold Coast</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>Drive Thru – Sn 6, Ep 4. The Gold Coast</desc><sub-title>The Gold Coast</sub-title><episode-num system="onscreen">S6.E4.</episode-num><episode-num system="xmltv_ns">5.3.0</episode-num></programme>
-<programme channel="421685" start="20260429213000 +0000" stop="20260429220500 +0000">
-    <title>Camp Woodward</title>
+  </programme>
+  <programme channel="421685" start="20260429213000 +0000" stop="20260429220500 +0000">
+    <title lang="zh">Camp Woodward – Sn 7, Ep 12. Episode 12</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>Camp Woodward – Sn 7, Ep 12. Episode 12</desc><sub-title>Episode 12</sub-title><episode-num system="onscreen">S7.E12.</episode-num><episode-num system="xmltv_ns">6.11.0</episode-num></programme>
-<programme channel="421685" start="20260429220500 +0000" stop="20260429223500 +0000">
-    <title>The Adventures of Danny and the Dingo</title>
+  </programme>
+  <programme channel="421685" start="20260429220500 +0000" stop="20260429223500 +0000">
+    <title lang="zh">The Adventures of Danny and the Dingo – Sn 2, Ep 4. Skate And Destroy</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>The Adventures of Danny and the Dingo – Sn 2, Ep 4. Skate And Destroy</desc><sub-title>Skate And Destroy</sub-title><episode-num system="onscreen">S2.E4.</episode-num><episode-num system="xmltv_ns">1.3.0</episode-num></programme>
-<programme channel="421685" start="20260429223500 +0000" stop="20260429230500 +0000">
-    <title>Built to Shred</title>
+  </programme>
+  <programme channel="421685" start="20260429223500 +0000" stop="20260429230500 +0000">
+    <title lang="zh">Built to Shred – Sn 4, Ep 3. Golfland</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>Built to Shred – Sn 4, Ep 3. Golfland</desc><sub-title>Golfland</sub-title><episode-num system="onscreen">S4.E3.</episode-num><episode-num system="xmltv_ns">3.2.0</episode-num></programme>
-<programme channel="421685" start="20260429230500 +0000" stop="20260429233500 +0000">
-    <title>Thrillbillies</title>
+  </programme>
+  <programme channel="421685" start="20260429230500 +0000" stop="20260429233500 +0000">
+    <title lang="zh">Thrillbillies – Sn 4, Ep 8. Clay's Dream</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>Thrillbillies – Sn 4, Ep 8. Clay's Dream</desc><sub-title>Clay's Dream</sub-title><episode-num system="onscreen">S4.E8.</episode-num><episode-num system="xmltv_ns">3.7.0</episode-num></programme>
-<programme channel="421685" start="20260429233500 +0000" stop="20260430000500 +0000">
-    <title>Firsthand</title>
+  </programme>
+  <programme channel="421685" start="20260429233500 +0000" stop="20260430000500 +0000">
+    <title lang="zh">Firsthand – Sn 12, Ep 15. Chas Guldemond</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>Firsthand – Sn 12, Ep 15. Chas Guldemond</desc><sub-title>Chas Guldemond</sub-title><episode-num system="onscreen">S12.E15.</episode-num><episode-num system="xmltv_ns">11.14.0</episode-num></programme>
-<programme channel="421685" start="20260430000500 +0000" stop="20260430003500 +0000">
-    <title>Drive Thru</title>
+  </programme>
+  <programme channel="421685" start="20260430000500 +0000" stop="20260430003500 +0000">
+    <title lang="zh">Drive Thru – Sn 6, Ep 2. Turn Around</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>Drive Thru – Sn 6, Ep 2. Turn Around</desc><sub-title>Turn Around</sub-title><episode-num system="onscreen">S6.E2.</episode-num><episode-num system="xmltv_ns">5.1.0</episode-num></programme>
-<programme channel="421685" start="20260430003500 +0000" stop="20260430011000 +0000">
-    <title>Behind the Gate</title>
+  </programme>
+  <programme channel="421685" start="20260430003500 +0000" stop="20260430011000 +0000">
+    <title lang="zh">Behind the Gate – Sn 2, Ep 18. Numbers Game</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>Behind the Gate – Sn 2, Ep 18. Numbers Game</desc><sub-title>Numbers Game</sub-title><episode-num system="onscreen">S2.E18.</episode-num><episode-num system="xmltv_ns">1.17.0</episode-num></programme>
-<programme channel="421685" start="20260430011000 +0000" stop="20260430014000 +0000">
-    <title>Bubba's World</title>
+  </programme>
+  <programme channel="421685" start="20260430011000 +0000" stop="20260430014000 +0000">
+    <title lang="zh">Bubba's World – Sn 2, Ep 3. The Bootcamp</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>Bubba's World – Sn 2, Ep 3. The Bootcamp</desc><sub-title>The Bootcamp</sub-title><episode-num system="onscreen">S2.E3.</episode-num><episode-num system="xmltv_ns">1.2.0</episode-num></programme>
-<programme channel="421685" start="20260430014000 +0000" stop="20260430021000 +0000">
-    <title>M80</title>
+  </programme>
+  <programme channel="421685" start="20260430014000 +0000" stop="20260430021000 +0000">
+    <title lang="zh">M80 – Sn 2, Ep 11. Jim Mcneil</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>M80 – Sn 2, Ep 11. Jim Mcneil</desc><sub-title>Jim Mcneil</sub-title><episode-num system="onscreen">S2.E11.</episode-num><episode-num system="xmltv_ns">1.10.0</episode-num></programme>
-<programme channel="421685" start="20260430021000 +0000" stop="20260430024000 +0000">
-    <title>Monster Army Unleashed</title>
+  </programme>
+  <programme channel="421685" start="20260430021000 +0000" stop="20260430024000 +0000">
+    <title lang="zh">Monster Army Unleashed – Sn 1, Ep 11. Monster Army Movie 11</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>Monster Army Unleashed – Sn 1, Ep 11. Monster Army Movie 11</desc><sub-title>Monster Army Movie 11</sub-title><episode-num system="onscreen">S1.E11.</episode-num><episode-num system="xmltv_ns">0.10.0</episode-num></programme>
-<programme channel="421685" start="20260430024000 +0000" stop="20260430030000 +0000">
-    <title>In the Mix</title>
+  </programme>
+  <programme channel="421685" start="20260430024000 +0000" stop="20260430030000 +0000">
+    <title lang="zh">In the Mix – Sn 1, Ep 1. RSEO24</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>In the Mix – Sn 1, Ep 1. RSEO24</desc><sub-title>RSEO24</sub-title><episode-num system="onscreen">S1.E1.</episode-num><episode-num system="xmltv_ns">0.0.0</episode-num></programme>
-<programme channel="421685" start="20260430030000 +0000" stop="20260430031500 +0000">
-    <title>In the Mix</title>
+  </programme>
+  <programme channel="421685" start="20260430030000 +0000" stop="20260430031500 +0000">
+    <title lang="zh">In the Mix – Sn 1, Ep 2. Vans Pool Party</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>In the Mix – Sn 1, Ep 2. Vans Pool Party</desc><sub-title>Vans Pool Party</sub-title><episode-num system="onscreen">S1.E2.</episode-num><episode-num system="xmltv_ns">0.1.0</episode-num></programme>
-<programme channel="421685" start="20260430031500 +0000" stop="20260430034500 +0000">
+  </programme>
+  <programme channel="421685" start="20260430031500 +0000" stop="20260430034500 +0000">
     <title lang="zh">Route 66 Tour</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>Route 66 Tour</desc></programme>
-<programme channel="421685" start="20260430034500 +0000" stop="20260430040000 +0000">
+  </programme>
+  <programme channel="421685" start="20260430034500 +0000" stop="20260430040000 +0000">
     <title lang="zh">Skate Total Urbe 2021</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>Skate Total Urbe 2021</desc></programme>
-<programme channel="421685" start="20260430040000 +0000" stop="20260430043000 +0000">
-    <title>The Moto: Inside the Outdoors</title>
+  </programme>
+  <programme channel="421685" start="20260430040000 +0000" stop="20260430043000 +0000">
+    <title lang="zh">The Moto: Inside the Outdoors – Sn 3, Ep 3. High Point National</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>The Moto: Inside the Outdoors – Sn 3, Ep 3. High Point National</desc><sub-title>High Point National</sub-title><episode-num system="onscreen">S3.E3.</episode-num><episode-num system="xmltv_ns">2.2.0</episode-num></programme>
-<programme channel="421685" start="20260430043000 +0000" stop="20260430050000 +0000">
-    <title>Built to Shred</title>
+  </programme>
+  <programme channel="421685" start="20260430043000 +0000" stop="20260430050000 +0000">
+    <title lang="zh">Built to Shred – Sn 4, Ep 10. Needle in the Hay</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>Built to Shred – Sn 4, Ep 10. Needle in the Hay</desc><sub-title>Needle in the Hay</sub-title><episode-num system="onscreen">S4.E10.</episode-num><episode-num system="xmltv_ns">3.9.0</episode-num></programme>
-<programme channel="421685" start="20260430050000 +0000" stop="20260430053000 +0000">
-    <title>Thrillbillies</title>
+  </programme>
+  <programme channel="421685" start="20260430050000 +0000" stop="20260430053000 +0000">
+    <title lang="zh">Thrillbillies – Sn 3, Ep 5. Yard Work</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>Thrillbillies – Sn 3, Ep 5. Yard Work</desc><sub-title>Yard Work</sub-title><episode-num system="onscreen">S3.E5.</episode-num><episode-num system="xmltv_ns">2.4.0</episode-num></programme>
-<programme channel="421685" start="20260430053000 +0000" stop="20260430060000 +0000">
-    <title>The Adventures of Danny and the Dingo</title>
+  </programme>
+  <programme channel="421685" start="20260430053000 +0000" stop="20260430060000 +0000">
+    <title lang="zh">The Adventures of Danny and the Dingo – Sn 3, Ep 3. First Competition</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>The Adventures of Danny and the Dingo – Sn 3, Ep 3. First Competition</desc><sub-title>First Competition</sub-title><episode-num system="onscreen">S3.E3.</episode-num><episode-num system="xmltv_ns">2.2.0</episode-num></programme>
-<programme channel="421685" start="20260430060000 +0000" stop="20260430063000 +0000">
-    <title>The Standard Snowboard Show</title>
+  </programme>
+  <programme channel="421685" start="20260430060000 +0000" stop="20260430063000 +0000">
+    <title lang="zh">The Standard Snowboard Show – Sn 4, Ep 5. Mitch Reed</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>The Standard Snowboard Show – Sn 4, Ep 5. Mitch Reed</desc><sub-title>Mitch Reed</sub-title><episode-num system="onscreen">S4.E5.</episode-num><episode-num system="xmltv_ns">3.4.0</episode-num></programme>
-<programme channel="421685" start="20260430063000 +0000" stop="20260430070000 +0000">
-    <title>Firsthand</title>
+  </programme>
+  <programme channel="421685" start="20260430063000 +0000" stop="20260430070000 +0000">
+    <title lang="zh">Firsthand – Sn 7, Ep 12. Dennis Busenitz</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>Firsthand – Sn 7, Ep 12. Dennis Busenitz</desc><sub-title>Dennis Busenitz</sub-title><episode-num system="onscreen">S7.E12.</episode-num><episode-num system="xmltv_ns">6.11.0</episode-num></programme>
-<programme channel="421685" start="20260430070000 +0000" stop="20260430073000 +0000">
-    <title>Monster Army Unleashed</title>
+  </programme>
+  <programme channel="421685" start="20260430070000 +0000" stop="20260430073000 +0000">
+    <title lang="zh">Monster Army Unleashed – Sn 1, Ep 11. Monster Army Movie 11</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>Monster Army Unleashed – Sn 1, Ep 11. Monster Army Movie 11</desc><sub-title>Monster Army Movie 11</sub-title><episode-num system="onscreen">S1.E11.</episode-num><episode-num system="xmltv_ns">0.10.0</episode-num></programme>
-<programme channel="421685" start="20260430073000 +0000" stop="20260430075000 +0000">
-    <title>In the Mix</title>
+  </programme>
+  <programme channel="421685" start="20260430073000 +0000" stop="20260430075000 +0000">
+    <title lang="zh">In the Mix – Sn 1, Ep 1. RSEO24</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>In the Mix – Sn 1, Ep 1. RSEO24</desc><sub-title>RSEO24</sub-title><episode-num system="onscreen">S1.E1.</episode-num><episode-num system="xmltv_ns">0.0.0</episode-num></programme>
-<programme channel="421685" start="20260430075000 +0000" stop="20260430080500 +0000">
-    <title>In the Mix</title>
+  </programme>
+  <programme channel="421685" start="20260430075000 +0000" stop="20260430080500 +0000">
+    <title lang="zh">In the Mix – Sn 1, Ep 2. Vans Pool Party</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>In the Mix – Sn 1, Ep 2. Vans Pool Party</desc><sub-title>Vans Pool Party</sub-title><episode-num system="onscreen">S1.E2.</episode-num><episode-num system="xmltv_ns">0.1.0</episode-num></programme>
-<programme channel="421685" start="20260430080500 +0000" stop="20260430090000 +0000">
+  </programme>
+  <programme channel="421685" start="20260430080500 +0000" stop="20260430090000 +0000">
     <title lang="zh">Couscous Swell – A Moroccan Surf Story</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>Couscous Swell – A Moroccan Surf Story</desc></programme>
-<programme channel="421685" start="20260430090000 +0000" stop="20260430100000 +0000">
-    <title>On Surfari</title>
+  </programme>
+  <programme channel="421685" start="20260430090000 +0000" stop="20260430100000 +0000">
+    <title lang="zh">On Surfari – Sn 1, Ep 1. India</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>On Surfari – Sn 1, Ep 1. India</desc><sub-title>India</sub-title><episode-num system="onscreen">S1.E1.</episode-num><episode-num system="xmltv_ns">0.0.0</episode-num></programme>
-<programme channel="421685" start="20260430100000 +0000" stop="20260430103500 +0000">
-    <title>Behind the Gate</title>
+  </programme>
+  <programme channel="421685" start="20260430100000 +0000" stop="20260430103500 +0000">
+    <title lang="zh">Behind the Gate – Sn 2, Ep 5. La Dolce Vita</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>Behind the Gate – Sn 2, Ep 5. La Dolce Vita</desc><sub-title>La Dolce Vita</sub-title><episode-num system="onscreen">S2.E5.</episode-num><episode-num system="xmltv_ns">1.4.0</episode-num></programme>
-<programme channel="421685" start="20260430103500 +0000" stop="20260430110500 +0000">
-    <title>Bubba's World</title>
+  </programme>
+  <programme channel="421685" start="20260430103500 +0000" stop="20260430110500 +0000">
+    <title lang="zh">Bubba's World – Sn 2, Ep 13. The Shift</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>Bubba's World – Sn 2, Ep 13. The Shift</desc><sub-title>The Shift</sub-title><episode-num system="onscreen">S2.E13.</episode-num><episode-num system="xmltv_ns">1.12.0</episode-num></programme>
-<programme channel="421685" start="20260430110500 +0000" stop="20260430114000 +0000">
-    <title>Fuel TV presents Camp Woodward</title>
+  </programme>
+  <programme channel="421685" start="20260430110500 +0000" stop="20260430114000 +0000">
+    <title lang="zh">Fuel TV presents Camp Woodward – Sn 6, Ep 2. Camp Kick-Off</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>Fuel TV presents Camp Woodward – Sn 6, Ep 2. Camp Kick-Off</desc><sub-title>Camp Kick-Off</sub-title><episode-num system="onscreen">S6.E2.</episode-num><episode-num system="xmltv_ns">5.1.0</episode-num></programme>
-<programme channel="421685" start="20260430114000 +0000" stop="20260430120000 +0000">
-    <title>Check 1,2</title>
+  </programme>
+  <programme channel="421685" start="20260430114000 +0000" stop="20260430120000 +0000">
+    <title lang="zh">Check 1,2 – Sn 1, Ep 5. Ray Barbee and Mike Watt</title>
     <desc />
     <date>2026-04-30</date>
-  <desc>Check 1,2 – Sn 1, Ep 5. Ray Barbee and Mike Watt</desc><sub-title>Ray Barbee and Mike Watt</sub-title><episode-num system="onscreen">S1.E5.</episode-num><episode-num system="xmltv_ns">0.4.0</episode-num></programme>
-<programme channel="421685" start="20260430121000 +0000" stop="20260430124000 +0000">
-    <title>The Standard Snowboard Show</title>
+  </programme>
+  <programme channel="421685" start="20260430121000 +0000" stop="20260430124000 +0000">
+    <title lang="zh">The Standard Snowboard Show – Sn 2, Ep 2. Terje Haakonsen</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>The Standard Snowboard Show – Sn 2, Ep 2. Terje Haakonsen</desc><sub-title>Terje Haakonsen</sub-title><episode-num system="onscreen">S2.E2.</episode-num><episode-num system="xmltv_ns">1.1.0</episode-num></programme>
-<programme channel="421685" start="20260430124000 +0000" stop="20260430131000 +0000">
-    <title>The Captain and Casey Show</title>
+  </programme>
+  <programme channel="421685" start="20260430124000 +0000" stop="20260430131000 +0000">
+    <title lang="zh">The Captain and Casey Show – Sn 3, Ep 10. Episode 10</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>The Captain and Casey Show – Sn 3, Ep 10. Episode 10</desc><sub-title>Episode 10</sub-title><episode-num system="onscreen">S3.E10.</episode-num><episode-num system="xmltv_ns">2.9.0</episode-num></programme>
-<programme channel="421685" start="20260430131000 +0000" stop="20260430134000 +0000">
-    <title>Firsthand</title>
+  </programme>
+  <programme channel="421685" start="20260430131000 +0000" stop="20260430134000 +0000">
+    <title lang="zh">Firsthand – Sn 7, Ep 8. Rusty Malinoski</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Firsthand – Sn 7, Ep 8. Rusty Malinoski</desc><sub-title>Rusty Malinoski</sub-title><episode-num system="onscreen">S7.E8.</episode-num><episode-num system="xmltv_ns">6.7.0</episode-num></programme>
-<programme channel="421685" start="20260430134000 +0000" stop="20260430141000 +0000">
-    <title>Monster Army Unleashed</title>
+  </programme>
+  <programme channel="421685" start="20260430134000 +0000" stop="20260430141000 +0000">
+    <title lang="zh">Monster Army Unleashed – Sn 1, Ep 11. Monster Army Movie 11</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Monster Army Unleashed – Sn 1, Ep 11. Monster Army Movie 11</desc><sub-title>Monster Army Movie 11</sub-title><episode-num system="onscreen">S1.E11.</episode-num><episode-num system="xmltv_ns">0.10.0</episode-num></programme>
-<programme channel="421685" start="20260430141000 +0000" stop="20260430143000 +0000">
-    <title>In the Mix</title>
+  </programme>
+  <programme channel="421685" start="20260430141000 +0000" stop="20260430143000 +0000">
+    <title lang="zh">In the Mix – Sn 1, Ep 1. RSEO24</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>In the Mix – Sn 1, Ep 1. RSEO24</desc><sub-title>RSEO24</sub-title><episode-num system="onscreen">S1.E1.</episode-num><episode-num system="xmltv_ns">0.0.0</episode-num></programme>
-<programme channel="421685" start="20260430143000 +0000" stop="20260430144500 +0000">
-    <title>In the Mix</title>
+  </programme>
+  <programme channel="421685" start="20260430143000 +0000" stop="20260430144500 +0000">
+    <title lang="zh">In the Mix – Sn 1, Ep 2. Vans Pool Party</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>In the Mix – Sn 1, Ep 2. Vans Pool Party</desc><sub-title>Vans Pool Party</sub-title><episode-num system="onscreen">S1.E2.</episode-num><episode-num system="xmltv_ns">0.1.0</episode-num></programme>
-<programme channel="421685" start="20260430144500 +0000" stop="20260430153000 +0000">
+  </programme>
+  <programme channel="421685" start="20260430144500 +0000" stop="20260430153000 +0000">
     <title lang="zh">The Storming</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>The Storming</desc></programme>
-<programme channel="421685" start="20260430153000 +0000" stop="20260430160000 +0000">
-    <title>The Great Ride Open</title>
+  </programme>
+  <programme channel="421685" start="20260430153000 +0000" stop="20260430160000 +0000">
+    <title lang="zh">The Great Ride Open – Sn 2, Ep 5. Montrose / Salina</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>The Great Ride Open – Sn 2, Ep 5. Montrose / Salina</desc><sub-title>Montrose / Salina</sub-title><episode-num system="onscreen">S2.E5.</episode-num><episode-num system="xmltv_ns">1.4.0</episode-num></programme>
-<programme channel="421685" start="20260430160000 +0000" stop="20260430163000 +0000">
-    <title>Built to Shred</title>
+  </programme>
+  <programme channel="421685" start="20260430160000 +0000" stop="20260430163000 +0000">
+    <title lang="zh">Built to Shred – Sn 4, Ep 6. Tactical Shred</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Built to Shred – Sn 4, Ep 6. Tactical Shred</desc><sub-title>Tactical Shred</sub-title><episode-num system="onscreen">S4.E6.</episode-num><episode-num system="xmltv_ns">3.5.0</episode-num></programme>
-<programme channel="421685" start="20260430163000 +0000" stop="20260430170000 +0000">
-    <title>The Adventures of Danny and the Dingo</title>
+  </programme>
+  <programme channel="421685" start="20260430163000 +0000" stop="20260430170000 +0000">
+    <title lang="zh">The Adventures of Danny and the Dingo – Sn 1, Ep 5. Layover In Cleveland</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>The Adventures of Danny and the Dingo – Sn 1, Ep 5. Layover In Cleveland</desc><sub-title>Layover In Cleveland</sub-title><episode-num system="onscreen">S1.E5.</episode-num><episode-num system="xmltv_ns">0.4.0</episode-num></programme>
-<programme channel="421685" start="20260430170000 +0000" stop="20260430173000 +0000">
-    <title>The Standard Snowboard Show</title>
+  </programme>
+  <programme channel="421685" start="20260430170000 +0000" stop="20260430173000 +0000">
+    <title lang="zh">The Standard Snowboard Show – Sn 3, Ep 9. Johon Olofsson</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>The Standard Snowboard Show – Sn 3, Ep 9. Johon Olofsson</desc><sub-title>Johon Olofsson</sub-title><episode-num system="onscreen">S3.E9.</episode-num><episode-num system="xmltv_ns">2.8.0</episode-num></programme>
-<programme channel="421685" start="20260430173000 +0000" stop="20260430180000 +0000">
-    <title>The Captain and Casey Show</title>
+  </programme>
+  <programme channel="421685" start="20260430173000 +0000" stop="20260430180000 +0000">
+    <title lang="zh">The Captain and Casey Show – Sn 5, Ep 1. The Knife Channel</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>The Captain and Casey Show – Sn 5, Ep 1. The Knife Channel</desc><sub-title>The Knife Channel</sub-title><episode-num system="onscreen">S5.E1.</episode-num><episode-num system="xmltv_ns">4.0.0</episode-num></programme>
-<programme channel="421685" start="20260430180000 +0000" stop="20260430183000 +0000">
-    <title>M80</title>
+  </programme>
+  <programme channel="421685" start="20260430180000 +0000" stop="20260430183000 +0000">
+    <title lang="zh">M80 – Sn 1, Ep 9. Nate Adams</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>M80 – Sn 1, Ep 9. Nate Adams</desc><sub-title>Nate Adams</sub-title><episode-num system="onscreen">S1.E9.</episode-num><episode-num system="xmltv_ns">0.8.0</episode-num></programme>
-<programme channel="421685" start="20260430183000 +0000" stop="20260430190000 +0000">
-    <title>The Moto: Inside the Outdoors</title>
+  </programme>
+  <programme channel="421685" start="20260430183000 +0000" stop="20260430190000 +0000">
+    <title lang="zh">The Moto: Inside the Outdoors – Sn 3, Ep 6. Red Bud National</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>The Moto: Inside the Outdoors – Sn 3, Ep 6. Red Bud National</desc><sub-title>Red Bud National</sub-title><episode-num system="onscreen">S3.E6.</episode-num><episode-num system="xmltv_ns">2.5.0</episode-num></programme>
-<programme channel="421685" start="20260430190000 +0000" stop="20260430193000 +0000">
-    <title>Monster Army Unleashed</title>
+  </programme>
+  <programme channel="421685" start="20260430190000 +0000" stop="20260430193000 +0000">
+    <title lang="zh">Monster Army Unleashed – Sn 1, Ep 11. Monster Army Movie 11</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Monster Army Unleashed – Sn 1, Ep 11. Monster Army Movie 11</desc><sub-title>Monster Army Movie 11</sub-title><episode-num system="onscreen">S1.E11.</episode-num><episode-num system="xmltv_ns">0.10.0</episode-num></programme>
-<programme channel="421685" start="20260430193000 +0000" stop="20260430195000 +0000">
-    <title>In the Mix</title>
+  </programme>
+  <programme channel="421685" start="20260430193000 +0000" stop="20260430195000 +0000">
+    <title lang="zh">In the Mix – Sn 1, Ep 1. RSEO24</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>In the Mix – Sn 1, Ep 1. RSEO24</desc><sub-title>RSEO24</sub-title><episode-num system="onscreen">S1.E1.</episode-num><episode-num system="xmltv_ns">0.0.0</episode-num></programme>
-<programme channel="421685" start="20260430195000 +0000" stop="20260430200500 +0000">
-    <title>In the Mix</title>
+  </programme>
+  <programme channel="421685" start="20260430195000 +0000" stop="20260430200500 +0000">
+    <title lang="zh">In the Mix – Sn 1, Ep 2. Vans Pool Party</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>In the Mix – Sn 1, Ep 2. Vans Pool Party</desc><sub-title>Vans Pool Party</sub-title><episode-num system="onscreen">S1.E2.</episode-num><episode-num system="xmltv_ns">0.1.0</episode-num></programme>
-<programme channel="421685" start="20260430200500 +0000" stop="20260430203000 +0000">
+  </programme>
+  <programme channel="421685" start="20260430200500 +0000" stop="20260430203000 +0000">
     <title lang="zh">First Push</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>First Push</desc></programme>
-<programme channel="421685" start="20260430203000 +0000" stop="20260430210000 +0000">
+  </programme>
+  <programme channel="421685" start="20260430203000 +0000" stop="20260430210000 +0000">
     <title lang="zh">The Gypsea Tour</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>The Gypsea Tour</desc></programme>
-<programme channel="421685" start="20260430210000 +0000" stop="20260430213000 +0000">
-    <title>Drive Thru</title>
+  </programme>
+  <programme channel="421685" start="20260430210000 +0000" stop="20260430213000 +0000">
+    <title lang="zh">Drive Thru – Sn 6, Ep 6. The Footy Game</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Drive Thru – Sn 6, Ep 6. The Footy Game</desc><sub-title>The Footy Game</sub-title><episode-num system="onscreen">S6.E6.</episode-num><episode-num system="xmltv_ns">5.5.0</episode-num></programme>
-<programme channel="421685" start="20260430213000 +0000" stop="20260430220000 +0000">
-    <title>Camp Woodward</title>
+  </programme>
+  <programme channel="421685" start="20260430213000 +0000" stop="20260430220000 +0000">
+    <title lang="zh">Camp Woodward – Sn 7, Ep 13. Episode 13</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Camp Woodward – Sn 7, Ep 13. Episode 13</desc><sub-title>Episode 13</sub-title><episode-num system="onscreen">S7.E13.</episode-num><episode-num system="xmltv_ns">6.12.0</episode-num></programme>
-<programme channel="421685" start="20260430220000 +0000" stop="20260430223000 +0000">
-    <title>The Adventures of Danny and the Dingo</title>
+  </programme>
+  <programme channel="421685" start="20260430220000 +0000" stop="20260430223000 +0000">
+    <title lang="zh">The Adventures of Danny and the Dingo – Sn 2, Ep 5. Freak Out</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>The Adventures of Danny and the Dingo – Sn 2, Ep 5. Freak Out</desc><sub-title>Freak Out</sub-title><episode-num system="onscreen">S2.E5.</episode-num><episode-num system="xmltv_ns">1.4.0</episode-num></programme>
-<programme channel="421685" start="20260430223000 +0000" stop="20260430230000 +0000">
-    <title>Built to Shred</title>
+  </programme>
+  <programme channel="421685" start="20260430223000 +0000" stop="20260430230000 +0000">
+    <title lang="zh">Built to Shred – Sn 4, Ep 4. Musical Shred</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Built to Shred – Sn 4, Ep 4. Musical Shred</desc><sub-title>Musical Shred</sub-title><episode-num system="onscreen">S4.E4.</episode-num><episode-num system="xmltv_ns">3.3.0</episode-num></programme>
-<programme channel="421685" start="20260430230000 +0000" stop="20260430233000 +0000">
-    <title>Thrillbillies</title>
+  </programme>
+  <programme channel="421685" start="20260430230000 +0000" stop="20260430233000 +0000">
+    <title lang="zh">Thrillbillies – Sn 4, Ep 9. Cam's Roll</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Thrillbillies – Sn 4, Ep 9. Cam's Roll</desc><sub-title>Cam's Roll</sub-title><episode-num system="onscreen">S4.E9.</episode-num><episode-num system="xmltv_ns">3.8.0</episode-num></programme>
-<programme channel="421685" start="20260430233000 +0000" stop="20260501000000 +0000">
-    <title>Firsthand</title>
+  </programme>
+  <programme channel="421685" start="20260430233000 +0000" stop="20260501000000 +0000">
+    <title lang="zh">Firsthand – Sn 12, Ep 16. Jamie Thomas</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Firsthand – Sn 12, Ep 16. Jamie Thomas</desc><sub-title>Jamie Thomas</sub-title><episode-num system="onscreen">S12.E16.</episode-num><episode-num system="xmltv_ns">11.15.0</episode-num></programme>
-<programme channel="421685" start="20260501000000 +0000" stop="20260501003000 +0000">
-    <title>Drive Thru</title>
+  </programme>
+  <programme channel="421685" start="20260501000000 +0000" stop="20260501003000 +0000">
+    <title lang="zh">Drive Thru – Sn 6, Ep 4. The Gold Coast</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Drive Thru – Sn 6, Ep 4. The Gold Coast</desc><sub-title>The Gold Coast</sub-title><episode-num system="onscreen">S6.E4.</episode-num><episode-num system="xmltv_ns">5.3.0</episode-num></programme>
-<programme channel="421685" start="20260501003000 +0000" stop="20260501010500 +0000">
-    <title>Behind the Gate</title>
+  </programme>
+  <programme channel="421685" start="20260501003000 +0000" stop="20260501010500 +0000">
+    <title lang="zh">Behind the Gate – Sn 2, Ep 19. Stranger Things</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Behind the Gate – Sn 2, Ep 19. Stranger Things</desc><sub-title>Stranger Things</sub-title><episode-num system="onscreen">S2.E19.</episode-num><episode-num system="xmltv_ns">1.18.0</episode-num></programme>
-<programme channel="421685" start="20260501010500 +0000" stop="20260501013500 +0000">
-    <title>Bubba's World</title>
+  </programme>
+  <programme channel="421685" start="20260501010500 +0000" stop="20260501013500 +0000">
+    <title lang="zh">Bubba's World – Sn 2, Ep 4. The Chick</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Bubba's World – Sn 2, Ep 4. The Chick</desc><sub-title>The Chick</sub-title><episode-num system="onscreen">S2.E4.</episode-num><episode-num system="xmltv_ns">1.3.0</episode-num></programme>
-<programme channel="421685" start="20260501013500 +0000" stop="20260501020500 +0000">
-    <title>M80</title>
+  </programme>
+  <programme channel="421685" start="20260501013500 +0000" stop="20260501020500 +0000">
+    <title lang="zh">M80 – Sn 2, Ep 12. Mike Mason</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>M80 – Sn 2, Ep 12. Mike Mason</desc><sub-title>Mike Mason</sub-title><episode-num system="onscreen">S2.E12.</episode-num><episode-num system="xmltv_ns">1.11.0</episode-num></programme>
-<programme channel="421685" start="20260501020500 +0000" stop="20260501023500 +0000">
-    <title>Monster Army Unleashed</title>
+  </programme>
+  <programme channel="421685" start="20260501020500 +0000" stop="20260501023500 +0000">
+    <title lang="zh">Monster Army Unleashed – Sn 1, Ep 11. Monster Army Movie 11</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Monster Army Unleashed – Sn 1, Ep 11. Monster Army Movie 11</desc><sub-title>Monster Army Movie 11</sub-title><episode-num system="onscreen">S1.E11.</episode-num><episode-num system="xmltv_ns">0.10.0</episode-num></programme>
-<programme channel="421685" start="20260501023500 +0000" stop="20260501025500 +0000">
-    <title>In the Mix</title>
+  </programme>
+  <programme channel="421685" start="20260501023500 +0000" stop="20260501025500 +0000">
+    <title lang="zh">In the Mix – Sn 1, Ep 1. RSEO24</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>In the Mix – Sn 1, Ep 1. RSEO24</desc><sub-title>RSEO24</sub-title><episode-num system="onscreen">S1.E1.</episode-num><episode-num system="xmltv_ns">0.0.0</episode-num></programme>
-<programme channel="421685" start="20260501025500 +0000" stop="20260501031000 +0000">
-    <title>In the Mix</title>
+  </programme>
+  <programme channel="421685" start="20260501025500 +0000" stop="20260501031000 +0000">
+    <title lang="zh">In the Mix – Sn 1, Ep 2. Vans Pool Party</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>In the Mix – Sn 1, Ep 2. Vans Pool Party</desc><sub-title>Vans Pool Party</sub-title><episode-num system="onscreen">S1.E2.</episode-num><episode-num system="xmltv_ns">0.1.0</episode-num></programme>
-<programme channel="421685" start="20260501031000 +0000" stop="20260501040000 +0000">
+  </programme>
+  <programme channel="421685" start="20260501031000 +0000" stop="20260501040000 +0000">
     <title lang="zh">CPH Open: Everyone is a Winner</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>CPH Open: Everyone is a Winner</desc></programme>
-<programme channel="421685" start="20260501040000 +0000" stop="20260501043000 +0000">
-    <title>The Moto: Inside the Outdoors</title>
+  </programme>
+  <programme channel="421685" start="20260501040000 +0000" stop="20260501043000 +0000">
+    <title lang="zh">The Moto: Inside the Outdoors – Sn 3, Ep 4. Budds Creek National</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>The Moto: Inside the Outdoors – Sn 3, Ep 4. Budds Creek National</desc><sub-title>Budds Creek National</sub-title><episode-num system="onscreen">S3.E4.</episode-num><episode-num system="xmltv_ns">2.3.0</episode-num></programme>
-<programme channel="421685" start="20260501043000 +0000" stop="20260501050000 +0000">
-    <title>Built to Shred</title>
+  </programme>
+  <programme channel="421685" start="20260501043000 +0000" stop="20260501050000 +0000">
+    <title lang="zh">Built to Shred – Sn 4, Ep 11. Backstage Pass: All Access</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Built to Shred – Sn 4, Ep 11. Backstage Pass: All Access</desc><sub-title>Backstage Pass: All Access</sub-title><episode-num system="onscreen">S4.E11.</episode-num><episode-num system="xmltv_ns">3.10.0</episode-num></programme>
-<programme channel="421685" start="20260501050000 +0000" stop="20260501053000 +0000">
-    <title>Thrillbillies</title>
+  </programme>
+  <programme channel="421685" start="20260501050000 +0000" stop="20260501053000 +0000">
+    <title lang="zh">Thrillbillies – Sn 3, Ep 6. Try-Outs</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Thrillbillies – Sn 3, Ep 6. Try-Outs</desc><sub-title>Try-Outs</sub-title><episode-num system="onscreen">S3.E6.</episode-num><episode-num system="xmltv_ns">2.5.0</episode-num></programme>
-<programme channel="421685" start="20260501053000 +0000" stop="20260501060000 +0000">
-    <title>The Adventures of Danny and the Dingo</title>
+  </programme>
+  <programme channel="421685" start="20260501053000 +0000" stop="20260501060000 +0000">
+    <title lang="zh">The Adventures of Danny and the Dingo – Sn 3, Ep 4. Teen Wolf</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>The Adventures of Danny and the Dingo – Sn 3, Ep 4. Teen Wolf</desc><sub-title>Teen Wolf</sub-title><episode-num system="onscreen">S3.E4.</episode-num><episode-num system="xmltv_ns">2.3.0</episode-num></programme>
-<programme channel="421685" start="20260501060000 +0000" stop="20260501073000 +0000">
+  </programme>
+  <programme channel="421685" start="20260501060000 +0000" stop="20260501073000 +0000">
     <title lang="zh">Episode 7</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Episode 7</desc></programme>
-<programme channel="421685" start="20260501073000 +0000" stop="20260501075000 +0000">
-    <title>In the Mix</title>
+  </programme>
+  <programme channel="421685" start="20260501073000 +0000" stop="20260501075000 +0000">
+    <title lang="zh">In the Mix – Sn 1, Ep 1. RSEO24</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>In the Mix – Sn 1, Ep 1. RSEO24</desc><sub-title>RSEO24</sub-title><episode-num system="onscreen">S1.E1.</episode-num><episode-num system="xmltv_ns">0.0.0</episode-num></programme>
-<programme channel="421685" start="20260501075000 +0000" stop="20260501080500 +0000">
-    <title>In the Mix</title>
+  </programme>
+  <programme channel="421685" start="20260501075000 +0000" stop="20260501080500 +0000">
+    <title lang="zh">In the Mix – Sn 1, Ep 2. Vans Pool Party</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>In the Mix – Sn 1, Ep 2. Vans Pool Party</desc><sub-title>Vans Pool Party</sub-title><episode-num system="onscreen">S1.E2.</episode-num><episode-num system="xmltv_ns">0.1.0</episode-num></programme>
-<programme channel="421685" start="20260501080500 +0000" stop="20260501090000 +0000">
+  </programme>
+  <programme channel="421685" start="20260501080500 +0000" stop="20260501090000 +0000">
     <title lang="zh">Without a Paddle</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Without a Paddle</desc></programme>
-<programme channel="421685" start="20260501090000 +0000" stop="20260501093000 +0000">
-    <title>On Surfari</title>
+  </programme>
+  <programme channel="421685" start="20260501090000 +0000" stop="20260501093000 +0000">
+    <title lang="zh">On Surfari – Sn 1, Ep 2. Bocas Del Toro</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>On Surfari – Sn 1, Ep 2. Bocas Del Toro</desc><sub-title>Bocas Del Toro</sub-title><episode-num system="onscreen">S1.E2.</episode-num><episode-num system="xmltv_ns">0.1.0</episode-num></programme>
-<programme channel="421685" start="20260501093000 +0000" stop="20260501100000 +0000">
-    <title>Drive Thru</title>
+  </programme>
+  <programme channel="421685" start="20260501093000 +0000" stop="20260501100000 +0000">
+    <title lang="zh">Drive Thru – Sn 6, Ep 2. Turn Around</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Drive Thru – Sn 6, Ep 2. Turn Around</desc><sub-title>Turn Around</sub-title><episode-num system="onscreen">S6.E2.</episode-num><episode-num system="xmltv_ns">5.1.0</episode-num></programme>
-<programme channel="421685" start="20260501100000 +0000" stop="20260501103500 +0000">
-    <title>Behind the Gate</title>
+  </programme>
+  <programme channel="421685" start="20260501100000 +0000" stop="20260501103500 +0000">
+    <title lang="zh">Behind the Gate – Sn 2, Ep 6. Rain Hit Rodeo</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Behind the Gate – Sn 2, Ep 6. Rain Hit Rodeo</desc><sub-title>Rain Hit Rodeo</sub-title><episode-num system="onscreen">S2.E6.</episode-num><episode-num system="xmltv_ns">1.5.0</episode-num></programme>
-<programme channel="421685" start="20260501103500 +0000" stop="20260501110500 +0000">
-    <title>Bubba's World</title>
+  </programme>
+  <programme channel="421685" start="20260501103500 +0000" stop="20260501110500 +0000">
+    <title lang="zh">Bubba's World – Sn 1, Ep 1. The Compound</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Bubba's World – Sn 1, Ep 1. The Compound</desc><sub-title>The Compound</sub-title><episode-num system="onscreen">S1.E1.</episode-num><episode-num system="xmltv_ns">0.0.0</episode-num></programme>
-<programme channel="421685" start="20260501110500 +0000" stop="20260501114000 +0000">
-    <title>Fuel TV presents Camp Woodward</title>
+  </programme>
+  <programme channel="421685" start="20260501110500 +0000" stop="20260501114000 +0000">
+    <title lang="zh">Fuel TV presents Camp Woodward – Sn 6, Ep 3. Pros and Bros</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Fuel TV presents Camp Woodward – Sn 6, Ep 3. Pros and Bros</desc><sub-title>Pros and Bros</sub-title><episode-num system="onscreen">S6.E3.</episode-num><episode-num system="xmltv_ns">5.2.0</episode-num></programme>
-<programme channel="421685" start="20260501114000 +0000" stop="20260501120000 +0000">
-    <title>Check 1,2</title>
+  </programme>
+  <programme channel="421685" start="20260501114000 +0000" stop="20260501120000 +0000">
+    <title lang="zh">Check 1,2 – Sn 1, Ep 6. Swollen Members</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Check 1,2 – Sn 1, Ep 6. Swollen Members</desc><sub-title>Swollen Members</sub-title><episode-num system="onscreen">S1.E6.</episode-num><episode-num system="xmltv_ns">0.5.0</episode-num></programme>
-<programme channel="421685" start="20260501000000 +0000" stop="20260501003000 +0000">
-    <title>Drive Thru</title>
+  </programme>
+</tv>
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20260430185707 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/421685/20260501.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=421685&amp;date=20260501&amp;timezone=None">
+  <channel id="421685">
+    <display-name lang="Russian Federation">Fuel TV HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/04/05/20250405021902351736_60.png" />
+  </channel>
+  <programme channel="421685" start="20260430121000 +0000" stop="20260430124000 +0000">
+    <title lang="zh">The Standard Snowboard Show – Sn 2, Ep 2. Terje Haakonsen</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Drive Thru – Sn 6, Ep 4. The Gold Coast</desc><sub-title>The Gold Coast</sub-title><episode-num system="onscreen">S6.E4.</episode-num><episode-num system="xmltv_ns">5.3.0</episode-num></programme>
-<programme channel="421685" start="20260501003000 +0000" stop="20260501010500 +0000">
-    <title>Behind the Gate</title>
+  </programme>
+  <programme channel="421685" start="20260430124000 +0000" stop="20260430131000 +0000">
+    <title lang="zh">The Captain and Casey Show – Sn 3, Ep 10. Episode 10</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Behind the Gate – Sn 2, Ep 19. Stranger Things</desc><sub-title>Stranger Things</sub-title><episode-num system="onscreen">S2.E19.</episode-num><episode-num system="xmltv_ns">1.18.0</episode-num></programme>
-<programme channel="421685" start="20260501010500 +0000" stop="20260501013500 +0000">
-    <title>Bubba's World</title>
+  </programme>
+  <programme channel="421685" start="20260430131000 +0000" stop="20260430134000 +0000">
+    <title lang="zh">Firsthand – Sn 7, Ep 8. Rusty Malinoski</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Bubba's World – Sn 2, Ep 4. The Chick</desc><sub-title>The Chick</sub-title><episode-num system="onscreen">S2.E4.</episode-num><episode-num system="xmltv_ns">1.3.0</episode-num></programme>
-<programme channel="421685" start="20260501013500 +0000" stop="20260501020500 +0000">
-    <title>M80</title>
+  </programme>
+  <programme channel="421685" start="20260430134000 +0000" stop="20260430141000 +0000">
+    <title lang="zh">Monster Army Unleashed – Sn 1, Ep 11. Monster Army Movie 11</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>M80 – Sn 2, Ep 12. Mike Mason</desc><sub-title>Mike Mason</sub-title><episode-num system="onscreen">S2.E12.</episode-num><episode-num system="xmltv_ns">1.11.0</episode-num></programme>
-<programme channel="421685" start="20260501020500 +0000" stop="20260501023500 +0000">
-    <title>Monster Army Unleashed</title>
+  </programme>
+  <programme channel="421685" start="20260430141000 +0000" stop="20260430143000 +0000">
+    <title lang="zh">In the Mix – Sn 1, Ep 1. RSEO24</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Monster Army Unleashed – Sn 1, Ep 11. Monster Army Movie 11</desc><sub-title>Monster Army Movie 11</sub-title><episode-num system="onscreen">S1.E11.</episode-num><episode-num system="xmltv_ns">0.10.0</episode-num></programme>
-<programme channel="421685" start="20260501023500 +0000" stop="20260501025500 +0000">
-    <title>In the Mix</title>
+  </programme>
+  <programme channel="421685" start="20260430143000 +0000" stop="20260430144500 +0000">
+    <title lang="zh">In the Mix – Sn 1, Ep 2. Vans Pool Party</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>In the Mix – Sn 1, Ep 1. RSEO24</desc><sub-title>RSEO24</sub-title><episode-num system="onscreen">S1.E1.</episode-num><episode-num system="xmltv_ns">0.0.0</episode-num></programme>
-<programme channel="421685" start="20260501025500 +0000" stop="20260501031000 +0000">
-    <title>In the Mix</title>
+  </programme>
+  <programme channel="421685" start="20260430144500 +0000" stop="20260430153000 +0000">
+    <title lang="zh">The Storming</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>In the Mix – Sn 1, Ep 2. Vans Pool Party</desc><sub-title>Vans Pool Party</sub-title><episode-num system="onscreen">S1.E2.</episode-num><episode-num system="xmltv_ns">0.1.0</episode-num></programme>
-<programme channel="421685" start="20260501031000 +0000" stop="20260501040000 +0000">
+  </programme>
+  <programme channel="421685" start="20260430153000 +0000" stop="20260430160000 +0000">
+    <title lang="zh">The Great Ride Open – Sn 2, Ep 5. Montrose / Salina</title>
+    <desc />
+    <date>2026-05-01</date>
+  </programme>
+  <programme channel="421685" start="20260430160000 +0000" stop="20260430163000 +0000">
+    <title lang="zh">Built to Shred – Sn 4, Ep 6. Tactical Shred</title>
+    <desc />
+    <date>2026-05-01</date>
+  </programme>
+  <programme channel="421685" start="20260430163000 +0000" stop="20260430170000 +0000">
+    <title lang="zh">The Adventures of Danny and the Dingo – Sn 1, Ep 5. Layover In Cleveland</title>
+    <desc />
+    <date>2026-05-01</date>
+  </programme>
+  <programme channel="421685" start="20260430170000 +0000" stop="20260430173000 +0000">
+    <title lang="zh">The Standard Snowboard Show – Sn 3, Ep 9. Johon Olofsson</title>
+    <desc />
+    <date>2026-05-01</date>
+  </programme>
+  <programme channel="421685" start="20260430173000 +0000" stop="20260430180000 +0000">
+    <title lang="zh">The Captain and Casey Show – Sn 5, Ep 1. The Knife Channel</title>
+    <desc />
+    <date>2026-05-01</date>
+  </programme>
+  <programme channel="421685" start="20260430180000 +0000" stop="20260430183000 +0000">
+    <title lang="zh">M80 – Sn 1, Ep 9. Nate Adams</title>
+    <desc />
+    <date>2026-05-01</date>
+  </programme>
+  <programme channel="421685" start="20260430183000 +0000" stop="20260430190000 +0000">
+    <title lang="zh">The Moto: Inside the Outdoors – Sn 3, Ep 6. Red Bud National</title>
+    <desc />
+    <date>2026-05-01</date>
+  </programme>
+  <programme channel="421685" start="20260430190000 +0000" stop="20260430193000 +0000">
+    <title lang="zh">Monster Army Unleashed – Sn 1, Ep 11. Monster Army Movie 11</title>
+    <desc />
+    <date>2026-05-01</date>
+  </programme>
+  <programme channel="421685" start="20260430193000 +0000" stop="20260430195000 +0000">
+    <title lang="zh">In the Mix – Sn 1, Ep 1. RSEO24</title>
+    <desc />
+    <date>2026-05-01</date>
+  </programme>
+  <programme channel="421685" start="20260430195000 +0000" stop="20260430200500 +0000">
+    <title lang="zh">In the Mix – Sn 1, Ep 2. Vans Pool Party</title>
+    <desc />
+    <date>2026-05-01</date>
+  </programme>
+  <programme channel="421685" start="20260430200500 +0000" stop="20260430203000 +0000">
+    <title lang="zh">First Push</title>
+    <desc />
+    <date>2026-05-01</date>
+  </programme>
+  <programme channel="421685" start="20260430203000 +0000" stop="20260430210000 +0000">
+    <title lang="zh">The Gypsea Tour</title>
+    <desc />
+    <date>2026-05-01</date>
+  </programme>
+  <programme channel="421685" start="20260430210000 +0000" stop="20260430213000 +0000">
+    <title lang="zh">Drive Thru – Sn 6, Ep 6. The Footy Game</title>
+    <desc />
+    <date>2026-05-01</date>
+  </programme>
+  <programme channel="421685" start="20260430213000 +0000" stop="20260430220000 +0000">
+    <title lang="zh">Camp Woodward – Sn 7, Ep 13. Episode 13</title>
+    <desc />
+    <date>2026-05-01</date>
+  </programme>
+  <programme channel="421685" start="20260430220000 +0000" stop="20260430223000 +0000">
+    <title lang="zh">The Adventures of Danny and the Dingo – Sn 2, Ep 5. Freak Out</title>
+    <desc />
+    <date>2026-05-01</date>
+  </programme>
+  <programme channel="421685" start="20260430223000 +0000" stop="20260430230000 +0000">
+    <title lang="zh">Built to Shred – Sn 4, Ep 4. Musical Shred</title>
+    <desc />
+    <date>2026-05-01</date>
+  </programme>
+  <programme channel="421685" start="20260430230000 +0000" stop="20260430233000 +0000">
+    <title lang="zh">Thrillbillies – Sn 4, Ep 9. Cam's Roll</title>
+    <desc />
+    <date>2026-05-01</date>
+  </programme>
+  <programme channel="421685" start="20260430233000 +0000" stop="20260501000000 +0000">
+    <title lang="zh">Firsthand – Sn 12, Ep 16. Jamie Thomas</title>
+    <desc />
+    <date>2026-05-01</date>
+  </programme>
+  <programme channel="421685" start="20260501000000 +0000" stop="20260501003000 +0000">
+    <title lang="zh">Drive Thru – Sn 6, Ep 4. The Gold Coast</title>
+    <desc />
+    <date>2026-05-01</date>
+  </programme>
+  <programme channel="421685" start="20260501003000 +0000" stop="20260501010500 +0000">
+    <title lang="zh">Behind the Gate – Sn 2, Ep 19. Stranger Things</title>
+    <desc />
+    <date>2026-05-01</date>
+  </programme>
+  <programme channel="421685" start="20260501010500 +0000" stop="20260501013500 +0000">
+    <title lang="zh">Bubba's World – Sn 2, Ep 4. The Chick</title>
+    <desc />
+    <date>2026-05-01</date>
+  </programme>
+  <programme channel="421685" start="20260501013500 +0000" stop="20260501020500 +0000">
+    <title lang="zh">M80 – Sn 2, Ep 12. Mike Mason</title>
+    <desc />
+    <date>2026-05-01</date>
+  </programme>
+  <programme channel="421685" start="20260501020500 +0000" stop="20260501023500 +0000">
+    <title lang="zh">Monster Army Unleashed – Sn 1, Ep 11. Monster Army Movie 11</title>
+    <desc />
+    <date>2026-05-01</date>
+  </programme>
+  <programme channel="421685" start="20260501023500 +0000" stop="20260501025500 +0000">
+    <title lang="zh">In the Mix – Sn 1, Ep 1. RSEO24</title>
+    <desc />
+    <date>2026-05-01</date>
+  </programme>
+  <programme channel="421685" start="20260501025500 +0000" stop="20260501031000 +0000">
+    <title lang="zh">In the Mix – Sn 1, Ep 2. Vans Pool Party</title>
+    <desc />
+    <date>2026-05-01</date>
+  </programme>
+  <programme channel="421685" start="20260501031000 +0000" stop="20260501040000 +0000">
     <title lang="zh">CPH Open: Everyone is a Winner</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>CPH Open: Everyone is a Winner</desc></programme>
-<programme channel="421685" start="20260501040000 +0000" stop="20260501043000 +0000">
-    <title>The Moto: Inside the Outdoors</title>
+  </programme>
+  <programme channel="421685" start="20260501040000 +0000" stop="20260501043000 +0000">
+    <title lang="zh">The Moto: Inside the Outdoors – Sn 3, Ep 4. Budds Creek National</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>The Moto: Inside the Outdoors – Sn 3, Ep 4. Budds Creek National</desc><sub-title>Budds Creek National</sub-title><episode-num system="onscreen">S3.E4.</episode-num><episode-num system="xmltv_ns">2.3.0</episode-num></programme>
-<programme channel="421685" start="20260501043000 +0000" stop="20260501050000 +0000">
-    <title>Built to Shred</title>
+  </programme>
+  <programme channel="421685" start="20260501043000 +0000" stop="20260501050000 +0000">
+    <title lang="zh">Built to Shred – Sn 4, Ep 11. Backstage Pass: All Access</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Built to Shred – Sn 4, Ep 11. Backstage Pass: All Access</desc><sub-title>Backstage Pass: All Access</sub-title><episode-num system="onscreen">S4.E11.</episode-num><episode-num system="xmltv_ns">3.10.0</episode-num></programme>
-<programme channel="421685" start="20260501050000 +0000" stop="20260501053000 +0000">
-    <title>Thrillbillies</title>
+  </programme>
+  <programme channel="421685" start="20260501050000 +0000" stop="20260501053000 +0000">
+    <title lang="zh">Thrillbillies – Sn 3, Ep 6. Try-Outs</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Thrillbillies – Sn 3, Ep 6. Try-Outs</desc><sub-title>Try-Outs</sub-title><episode-num system="onscreen">S3.E6.</episode-num><episode-num system="xmltv_ns">2.5.0</episode-num></programme>
-<programme channel="421685" start="20260501053000 +0000" stop="20260501060000 +0000">
-    <title>The Adventures of Danny and the Dingo</title>
+  </programme>
+  <programme channel="421685" start="20260501053000 +0000" stop="20260501060000 +0000">
+    <title lang="zh">The Adventures of Danny and the Dingo – Sn 3, Ep 4. Teen Wolf</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>The Adventures of Danny and the Dingo – Sn 3, Ep 4. Teen Wolf</desc><sub-title>Teen Wolf</sub-title><episode-num system="onscreen">S3.E4.</episode-num><episode-num system="xmltv_ns">2.3.0</episode-num></programme>
-<programme channel="421685" start="20260501060000 +0000" stop="20260501073000 +0000">
+  </programme>
+  <programme channel="421685" start="20260501060000 +0000" stop="20260501073000 +0000">
     <title lang="zh">Episode 7</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Episode 7</desc></programme>
-<programme channel="421685" start="20260501073000 +0000" stop="20260501075000 +0000">
-    <title>In the Mix</title>
+  </programme>
+  <programme channel="421685" start="20260501073000 +0000" stop="20260501075000 +0000">
+    <title lang="zh">In the Mix – Sn 1, Ep 1. RSEO24</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>In the Mix – Sn 1, Ep 1. RSEO24</desc><sub-title>RSEO24</sub-title><episode-num system="onscreen">S1.E1.</episode-num><episode-num system="xmltv_ns">0.0.0</episode-num></programme>
-<programme channel="421685" start="20260501075000 +0000" stop="20260501080500 +0000">
-    <title>In the Mix</title>
+  </programme>
+  <programme channel="421685" start="20260501075000 +0000" stop="20260501080500 +0000">
+    <title lang="zh">In the Mix – Sn 1, Ep 2. Vans Pool Party</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>In the Mix – Sn 1, Ep 2. Vans Pool Party</desc><sub-title>Vans Pool Party</sub-title><episode-num system="onscreen">S1.E2.</episode-num><episode-num system="xmltv_ns">0.1.0</episode-num></programme>
-<programme channel="421685" start="20260501080500 +0000" stop="20260501090000 +0000">
+  </programme>
+  <programme channel="421685" start="20260501080500 +0000" stop="20260501090000 +0000">
     <title lang="zh">Without a Paddle</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Without a Paddle</desc></programme>
-<programme channel="421685" start="20260501090000 +0000" stop="20260501093000 +0000">
-    <title>On Surfari</title>
+  </programme>
+  <programme channel="421685" start="20260501090000 +0000" stop="20260501093000 +0000">
+    <title lang="zh">On Surfari – Sn 1, Ep 2. Bocas Del Toro</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>On Surfari – Sn 1, Ep 2. Bocas Del Toro</desc><sub-title>Bocas Del Toro</sub-title><episode-num system="onscreen">S1.E2.</episode-num><episode-num system="xmltv_ns">0.1.0</episode-num></programme>
-<programme channel="421685" start="20260501093000 +0000" stop="20260501100000 +0000">
-    <title>Drive Thru</title>
+  </programme>
+  <programme channel="421685" start="20260501093000 +0000" stop="20260501100000 +0000">
+    <title lang="zh">Drive Thru – Sn 6, Ep 2. Turn Around</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Drive Thru – Sn 6, Ep 2. Turn Around</desc><sub-title>Turn Around</sub-title><episode-num system="onscreen">S6.E2.</episode-num><episode-num system="xmltv_ns">5.1.0</episode-num></programme>
-<programme channel="421685" start="20260501100000 +0000" stop="20260501103500 +0000">
-    <title>Behind the Gate</title>
+  </programme>
+  <programme channel="421685" start="20260501100000 +0000" stop="20260501103500 +0000">
+    <title lang="zh">Behind the Gate – Sn 2, Ep 6. Rain Hit Rodeo</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Behind the Gate – Sn 2, Ep 6. Rain Hit Rodeo</desc><sub-title>Rain Hit Rodeo</sub-title><episode-num system="onscreen">S2.E6.</episode-num><episode-num system="xmltv_ns">1.5.0</episode-num></programme>
-<programme channel="421685" start="20260501103500 +0000" stop="20260501110500 +0000">
-    <title>Bubba's World</title>
+  </programme>
+  <programme channel="421685" start="20260501103500 +0000" stop="20260501110500 +0000">
+    <title lang="zh">Bubba's World – Sn 1, Ep 1. The Compound</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Bubba's World – Sn 1, Ep 1. The Compound</desc><sub-title>The Compound</sub-title><episode-num system="onscreen">S1.E1.</episode-num><episode-num system="xmltv_ns">0.0.0</episode-num></programme>
-<programme channel="421685" start="20260501110500 +0000" stop="20260501114000 +0000">
-    <title>Fuel TV presents Camp Woodward</title>
+  </programme>
+  <programme channel="421685" start="20260501110500 +0000" stop="20260501114000 +0000">
+    <title lang="zh">Fuel TV presents Camp Woodward – Sn 6, Ep 3. Pros and Bros</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Fuel TV presents Camp Woodward – Sn 6, Ep 3. Pros and Bros</desc><sub-title>Pros and Bros</sub-title><episode-num system="onscreen">S6.E3.</episode-num><episode-num system="xmltv_ns">5.2.0</episode-num></programme>
-<programme channel="421685" start="20260501114000 +0000" stop="20260501120000 +0000">
-    <title>Check 1,2</title>
+  </programme>
+  <programme channel="421685" start="20260501114000 +0000" stop="20260501120000 +0000">
+    <title lang="zh">Check 1,2 – Sn 1, Ep 6. Swollen Members</title>
     <desc />
     <date>2026-05-01</date>
-  <desc>Check 1,2 – Sn 1, Ep 6. Swollen Members</desc><sub-title>Swollen Members</sub-title><episode-num system="onscreen">S1.E6.</episode-num><episode-num system="xmltv_ns">0.5.0</episode-num></programme>
-<programme channel="421685" start="20260502000000 +0000" stop="20260502003000 +0000">
-    <title>Drive Thru</title>
+  </programme>
+  <programme channel="421685" start="20260501121000 +0000" stop="20260501124000 +0000">
+    <title lang="zh">The Standard Snowboard Show – Sn 2, Ep 3. Dave Hatchett</title>
     <desc />
     <date>2026-05-02</date>
-  <desc>Drive Thru – Sn 6, Ep 5. The Joel Connection</desc><sub-title>The Joel Connection</sub-title><episode-num system="onscreen">S6.E5.</episode-num><episode-num system="xmltv_ns">5.4.0</episode-num></programme>
-<programme channel="421685" start="20260502003000 +0000" stop="20260502010500 +0000">
-    <title>Behind the Gate</title>
+  </programme>
+  <programme channel="421685" start="20260501124000 +0000" stop="20260501131000 +0000">
+    <title lang="zh">The Captain and Casey Show – Sn 3, Ep 11. Episode 11</title>
     <desc />
     <date>2026-05-02</date>
-  <desc>Behind the Gate – Sn 2, Ep 20. One Last Dance</desc><sub-title>One Last Dance</sub-title><episode-num system="onscreen">S2.E20.</episode-num><episode-num system="xmltv_ns">1.19.0</episode-num></programme>
-<programme channel="421685" start="20260502010500 +0000" stop="20260502013500 +0000">
-    <title>Bubba's World</title>
+  </programme>
+  <programme channel="421685" start="20260501131000 +0000" stop="20260501134000 +0000">
+    <title lang="zh">Firsthand – Sn 7, Ep 9. Kyle Berard</title>
     <desc />
     <date>2026-05-02</date>
-  <desc>Bubba's World – Sn 2, Ep 5. The Sponsors</desc><sub-title>The Sponsors</sub-title><episode-num system="onscreen">S2.E5.</episode-num><episode-num system="xmltv_ns">1.4.0</episode-num></programme>
-<programme channel="421685" start="20260502013500 +0000" stop="20260502020500 +0000">
-    <title>M80</title>
+  </programme>
+  <programme channel="421685" start="20260501134000 +0000" stop="20260501151500 +0000">
+    <title lang="zh">Riding Portugal – Sn 2, Ep 6. Episode 6</title>
     <desc />
     <date>2026-05-02</date>
-  <desc>M80 – Sn 2, Ep 13. Best of Season 2</desc><sub-title>Best of Season 2</sub-title><episode-num system="onscreen">S2.E13.</episode-num><episode-num system="xmltv_ns">1.12.0</episode-num></programme>
-<programme channel="421685" start="20260502020500 +0000" stop="20260502034000 +0000">
-    <title>Riding Portugal</title>
+  </programme>
+  <programme channel="421685" start="20260501151500 +0000" stop="20260501153000 +0000">
+    <title lang="zh">Thin Line With Nic Von Rupp</title>
     <desc />
     <date>2026-05-02</date>
-  <desc>Riding Portugal – Sn 2, Ep 6. Episode 6</desc><sub-title>Episode 6</sub-title><episode-num system="onscreen">S2.E6.</episode-num><episode-num system="xmltv_ns">1.5.0</episode-num></programme>
-<programme channel="421685" start="20260502034000 +0000" stop="20260502040000 +0000">
+  </programme>
+  <programme channel="421685" start="20260501153000 +0000" stop="20260501160000 +0000">
+    <title lang="zh">The Great Ride Open – Sn 2, Ep 6. Little Sahara</title>
+    <desc />
+    <date>2026-05-02</date>
+  </programme>
+  <programme channel="421685" start="20260501160000 +0000" stop="20260501163000 +0000">
+    <title lang="zh">Built to Shred – Sn 4, Ep 7. Flutag: Flight of the Shredheaded Stepchildren</title>
+    <desc />
+    <date>2026-05-02</date>
+  </programme>
+  <programme channel="421685" start="20260501163000 +0000" stop="20260501170000 +0000">
+    <title lang="zh">The Adventures of Danny and the Dingo – Sn 1, Ep 6. Raging Buffalo</title>
+    <desc />
+    <date>2026-05-02</date>
+  </programme>
+  <programme channel="421685" start="20260501170000 +0000" stop="20260501173000 +0000">
+    <title lang="zh">The Standard Snowboard Show – Sn 3, Ep 10. The Snowboard</title>
+    <desc />
+    <date>2026-05-02</date>
+  </programme>
+  <programme channel="421685" start="20260501173000 +0000" stop="20260501180000 +0000">
+    <title lang="zh">The Captain and Casey Show – Sn 5, Ep 2. Bilingual</title>
+    <desc />
+    <date>2026-05-02</date>
+  </programme>
+  <programme channel="421685" start="20260501180000 +0000" stop="20260501183000 +0000">
+    <title lang="zh">M80 – Sn 1, Ep 10. Brian Deegan</title>
+    <desc />
+    <date>2026-05-02</date>
+  </programme>
+  <programme channel="421685" start="20260501183000 +0000" stop="20260501190000 +0000">
+    <title lang="zh">The Moto: Inside the Outdoors – Sn 3, Ep 7. Spring Creek National</title>
+    <desc />
+    <date>2026-05-02</date>
+  </programme>
+  <programme channel="421685" start="20260501190000 +0000" stop="20260501203500 +0000">
+    <title lang="zh">Riding Portugal – Sn 2, Ep 6. Episode 6</title>
+    <desc />
+    <date>2026-05-02</date>
+  </programme>
+  <programme channel="421685" start="20260501203500 +0000" stop="20260501210000 +0000">
+    <title lang="zh">Red Monkey, Full Moon</title>
+    <desc />
+    <date>2026-05-02</date>
+  </programme>
+  <programme channel="421685" start="20260501210000 +0000" stop="20260501213000 +0000">
+    <title lang="zh">Drive Thru – Sn 7, Ep 1. We Got Dane</title>
+    <desc />
+    <date>2026-05-02</date>
+  </programme>
+  <programme channel="421685" start="20260501213000 +0000" stop="20260501220000 +0000">
+    <title lang="zh">Camp Woodward – Sn 7, Ep 14. Episode 14</title>
+    <desc />
+    <date>2026-05-02</date>
+  </programme>
+  <programme channel="421685" start="20260501220000 +0000" stop="20260501223000 +0000">
+    <title lang="zh">The Adventures of Danny and the Dingo – Sn 2, Ep 6. Dirty Jersey</title>
+    <desc />
+    <date>2026-05-02</date>
+  </programme>
+  <programme channel="421685" start="20260501223000 +0000" stop="20260501230000 +0000">
+    <title lang="zh">Built to Shred – Sn 4, Ep 5. Land of Giants</title>
+    <desc />
+    <date>2026-05-02</date>
+  </programme>
+  <programme channel="421685" start="20260501230000 +0000" stop="20260501233000 +0000">
+    <title lang="zh">Thrillbillies – Sn 4, Ep 10. Extreme Skating</title>
+    <desc />
+    <date>2026-05-02</date>
+  </programme>
+  <programme channel="421685" start="20260501233000 +0000" stop="20260502000000 +0000">
+    <title lang="zh">Firsthand – Sn 12, Ep 17. Preston Strout</title>
+    <desc />
+    <date>2026-05-02</date>
+  </programme>
+  <programme channel="421685" start="20260502000000 +0000" stop="20260502003000 +0000">
+    <title lang="zh">Drive Thru – Sn 6, Ep 5. The Joel Connection</title>
+    <desc />
+    <date>2026-05-02</date>
+  </programme>
+  <programme channel="421685" start="20260502003000 +0000" stop="20260502010500 +0000">
+    <title lang="zh">Behind the Gate – Sn 2, Ep 20. One Last Dance</title>
+    <desc />
+    <date>2026-05-02</date>
+  </programme>
+  <programme channel="421685" start="20260502010500 +0000" stop="20260502013500 +0000">
+    <title lang="zh">Bubba's World – Sn 2, Ep 5. The Sponsors</title>
+    <desc />
+    <date>2026-05-02</date>
+  </programme>
+  <programme channel="421685" start="20260502013500 +0000" stop="20260502020500 +0000">
+    <title lang="zh">M80 – Sn 2, Ep 13. Best of Season 2</title>
+    <desc />
+    <date>2026-05-02</date>
+  </programme>
+  <programme channel="421685" start="20260502020500 +0000" stop="20260502034000 +0000">
+    <title lang="zh">Riding Portugal – Sn 2, Ep 6. Episode 6</title>
+    <desc />
+    <date>2026-05-02</date>
+  </programme>
+  <programme channel="421685" start="20260502034000 +0000" stop="20260502040000 +0000">
     <title lang="zh">American RoundTable</title>
     <desc />
     <date>2026-05-02</date>
-  <desc>American RoundTable</desc></programme>
-<programme channel="421685" start="20260502040000 +0000" stop="20260502043000 +0000">
-    <title>The Moto: Inside the Outdoors</title>
+  </programme>
+  <programme channel="421685" start="20260502040000 +0000" stop="20260502043000 +0000">
+    <title lang="zh">The Moto: Inside the Outdoors – Sn 3, Ep 5. Thunder Valley National</title>
     <desc />
     <date>2026-05-02</date>
-  <desc>The Moto: Inside the Outdoors – Sn 3, Ep 5. Thunder Valley National</desc><sub-title>Thunder Valley National</sub-title><episode-num system="onscreen">S3.E5.</episode-num><episode-num system="xmltv_ns">2.4.0</episode-num></programme>
-<programme channel="421685" start="20260502043000 +0000" stop="20260502050000 +0000">
-    <title>Built to Shred</title>
+  </programme>
+  <programme channel="421685" start="20260502043000 +0000" stop="20260502050000 +0000">
+    <title lang="zh">Built to Shred – Sn 4, Ep 12. Heavy Equipment</title>
     <desc />
     <date>2026-05-02</date>
-  <desc>Built to Shred – Sn 4, Ep 12. Heavy Equipment</desc><sub-title>Heavy Equipment</sub-title><episode-num system="onscreen">S4.E12.</episode-num><episode-num system="xmltv_ns">3.11.0</episode-num></programme>
-<programme channel="421685" start="20260502050000 +0000" stop="20260502053000 +0000">
-    <title>Thrillbillies</title>
+  </programme>
+  <programme channel="421685" start="20260502050000 +0000" stop="20260502053000 +0000">
+    <title lang="zh">Thrillbillies – Sn 3, Ep 7. Charity Work</title>
     <desc />
     <date>2026-05-02</date>
-  <desc>Thrillbillies – Sn 3, Ep 7. Charity Work</desc><sub-title>Charity Work</sub-title><episode-num system="onscreen">S3.E7.</episode-num><episode-num system="xmltv_ns">2.6.0</episode-num></programme>
-<programme channel="421685" start="20260502053000 +0000" stop="20260502060000 +0000">
-    <title>The Adventures of Danny and the Dingo</title>
+  </programme>
+  <programme channel="421685" start="20260502053000 +0000" stop="20260502060000 +0000">
+    <title lang="zh">The Adventures of Danny and the Dingo – Sn 3, Ep 5. The US Open</title>
     <desc />
     <date>2026-05-02</date>
-  <desc>The Adventures of Danny and the Dingo – Sn 3, Ep 5. The US Open</desc><sub-title>The US Open</sub-title><episode-num system="onscreen">S3.E5.</episode-num><episode-num system="xmltv_ns">2.4.0</episode-num></programme>
-<programme channel="421685" start="20260502060000 +0000" stop="20260502061500 +0000">
-    <title>Custom</title>
+  </programme>
+  <programme channel="421685" start="20260502060000 +0000" stop="20260502061500 +0000">
+    <title lang="zh">Custom – Sn 10, Ep 2. Episode 2</title>
     <desc />
     <date>2026-05-02</date>
-  <desc>Custom – Sn 10, Ep 2. Episode 2</desc><sub-title>Episode 2</sub-title><episode-num system="onscreen">S10.E2.</episode-num><episode-num system="xmltv_ns">9.1.0</episode-num></programme>
-<programme channel="421685" start="20260502061500 +0000" stop="20260502074000 +0000">
+  </programme>
+  <programme channel="421685" start="20260502061500 +0000" stop="20260502074000 +0000">
     <title lang="zh">Fire and Water</title>
     <desc />
     <date>2026-05-02</date>
-  <desc>Fire and Water</desc></programme>
-<programme channel="421685" start="20260502074000 +0000" stop="20260502084000 +0000">
+  </programme>
+  <programme channel="421685" start="20260502074000 +0000" stop="20260502084000 +0000">
     <title lang="zh">Scandalnavians 2</title>
     <desc />
     <date>2026-05-02</date>
-  <desc>Scandalnavians 2</desc></programme>
-<programme channel="421685" start="20260502084000 +0000" stop="20260502090000 +0000">
+  </programme>
+  <programme channel="421685" start="20260502084000 +0000" stop="20260502090000 +0000">
     <title lang="zh">The Line Between Good and Evil</title>
     <desc />
     <date>2026-05-02</date>
-  <desc>The Line Between Good and Evil</desc></programme>
-<programme channel="421685" start="20260502090000 +0000" stop="20260502093000 +0000">
-    <title>On Surfari</title>
+  </programme>
+  <programme channel="421685" start="20260502090000 +0000" stop="20260502093000 +0000">
+    <title lang="zh">On Surfari – Sn 1, Ep 3. Island of Mauritius</title>
     <desc />
     <date>2026-05-02</date>
-  <desc>On Surfari – Sn 1, Ep 3. Island of Mauritius</desc><sub-title>Island of Mauritius</sub-title><episode-num system="onscreen">S1.E3.</episode-num><episode-num system="xmltv_ns">0.2.0</episode-num></programme>
-<programme channel="421685" start="20260502093000 +0000" stop="20260502100000 +0000">
-    <title>Drive Thru</title>
+  </programme>
+  <programme channel="421685" start="20260502093000 +0000" stop="20260502100000 +0000">
+    <title lang="zh">Drive Thru – Sn 6, Ep 3. Stay Together</title>
     <desc />
     <date>2026-05-02</date>
-  <desc>Drive Thru – Sn 6, Ep 3. Stay Together</desc><sub-title>Stay Together</sub-title><episode-num system="onscreen">S6.E3.</episode-num><episode-num system="xmltv_ns">5.2.0</episode-num></programme>
-<programme channel="421685" start="20260502100000 +0000" stop="20260502103500 +0000">
-    <title>Behind the Gate</title>
+  </programme>
+  <programme channel="421685" start="20260502100000 +0000" stop="20260502103500 +0000">
+    <title lang="zh">Behind the Gate – Sn 2, Ep 7. Friendly Fire</title>
     <desc />
     <date>2026-05-02</date>
-  <desc>Behind the Gate – Sn 2, Ep 7. Friendly Fire</desc><sub-title>Friendly Fire</sub-title><episode-num system="onscreen">S2.E7.</episode-num><episode-num system="xmltv_ns">1.6.0</episode-num></programme>
-<programme channel="421685" start="20260502103500 +0000" stop="20260502110500 +0000">
-    <title>Bubba's World</title>
+  </programme>
+  <programme channel="421685" start="20260502103500 +0000" stop="20260502110500 +0000">
+    <title lang="zh">Bubba's World – Sn 1, Ep 2. The Nap</title>
     <desc />
     <date>2026-05-02</date>
-  <desc>Bubba's World – Sn 1, Ep 2. The Nap</desc><sub-title>The Nap</sub-title><episode-num system="onscreen">S1.E2.</episode-num><episode-num system="xmltv_ns">0.1.0</episode-num></programme>
-<programme channel="421685" start="20260502110500 +0000" stop="20260502113500 +0000">
-    <title>Fuel TV presents Camp Woodward</title>
+  </programme>
+  <programme channel="421685" start="20260502110500 +0000" stop="20260502113500 +0000">
+    <title lang="zh">Fuel TV presents Camp Woodward – Sn 6, Ep 4. Lights, Camera, Action</title>
     <desc />
     <date>2026-05-02</date>
-  <desc>Fuel TV presents Camp Woodward – Sn 6, Ep 4. Lights, Camera, Action</desc><sub-title>Lights, Camera, Action</sub-title><episode-num system="onscreen">S6.E4.</episode-num><episode-num system="xmltv_ns">5.3.0</episode-num></programme>
-<programme channel="421685" start="20260502113500 +0000" stop="20260502120000 +0000">
-    <title>Check 1,2</title>
+  </programme>
+  <programme channel="421685" start="20260502113500 +0000" stop="20260502120000 +0000">
+    <title lang="zh">Check 1,2 – Sn 1, Ep 7. The Goons of Doom</title>
     <desc />
     <date>2026-05-02</date>
-  <desc>Check 1,2 – Sn 1, Ep 7. The Goons of Doom</desc><sub-title>The Goons of Doom</sub-title><episode-num system="onscreen">S1.E7.</episode-num><episode-num system="xmltv_ns">0.6.0</episode-num></programme>
+  </programme>
 </tv>
