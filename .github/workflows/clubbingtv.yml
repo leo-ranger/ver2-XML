@@ -44,7 +44,7 @@ jobs:
           import re
           from datetime import datetime, timedelta
 
-          SHIFT = 2
+          SHIFT = 13
           FILE = "download_EPG/individual/ClubbingTV/clubbingtv.xml"
 
           def load(f):
