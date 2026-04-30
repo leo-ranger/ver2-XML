@@ -36,9 +36,9 @@ jobs:
           "https://epg.pw/api/epg.xml?lang=en&date=${TOMORROW}&channel_id=421685"
 
       # -----------------------------
-      # BUILD SHIFTED EPG
+      # BUILD SHIFTED EPG (FIXED)
       # -----------------------------
-      - name: Build 24h shifted EPG (12 hour shift)
+      - name: Build 24h shifted EPG (12 hour shift FIXED)
         run: |
           python3 << 'EOF'
           import re
@@ -55,27 +55,30 @@ jobs:
           tomorrow_xml = load("tomorrow.xml")
 
           programme_re = re.compile(r'<programme.*?</programme>', re.S)
-          time_re = re.compile(r'(start|stop)="(\d{14})\s([+-]\d{4})"')
+          time_re = re.compile(r'(start|stop)="(\d{14})\s[+-]\d{4}"')
 
-          def shift_time(ts, h):
+          def shift_time(ts):
               dt = datetime.strptime(ts, "%Y%m%d%H%M%S")
-              dt += timedelta(hours=h)
+              dt += timedelta(hours=-SHIFT)
               return dt.strftime("%Y%m%d%H%M%S")
 
-          def shift_block(block, h):
-              return time_re.sub(
-                  lambda m: f'{m.group(1)}="{shift_time(m.group(2), h)} {m.group(3)}"',
-                  block
-              )
+          def shift_block(block):
+              def repl(m):
+                  tag = m.group(1)
+                  ts = m.group(2)
+                  tz = re.search(r'[+-]\d{4}', m.group(0)).group(0)
+                  return f'{tag}="{shift_time(ts)} {tz}"'
+
+              return time_re.sub(repl, block)
 
           today_programmes = programme_re.findall(today_xml)
           tomorrow_programmes = programme_re.findall(tomorrow_xml)
 
-          today_shifted = [shift_block(p, -SHIFT) for p in today_programmes]
+          today_shifted = [shift_block(p) for p in today_programmes]
 
           tomorrow_shifted = []
           for p in tomorrow_programmes:
-              shifted = shift_block(p, -SHIFT)
+              shifted = shift_block(p)
               m = re.search(r'start="(\d{14})', shifted)
 
               if m:
