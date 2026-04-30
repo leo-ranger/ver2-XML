@@ -8,16 +8,15 @@ BASE_URL = "https://fuel.tv/browse/guide/{}"
 CHANNEL_ID = "fuel.tv"
 
 
-# -----------------------------
-# ROBUST BLOCK PARSER
-# -----------------------------
 def parse_block(text):
     lines = [l.strip() for l in text.split("\n") if l.strip()]
 
     if not lines:
         return None
 
-    # Find time anywhere in block
+    # -------------------------
+    # FIND TIME
+    # -------------------------
     time_str = None
     for l in lines:
         match = re.match(r"(\d{1,2}:\d{2}\s?[APMapm]{2})", l)
@@ -28,11 +27,47 @@ def parse_block(text):
     if not time_str:
         return None
 
-    # Remove time line(s)
+    # remove time line noise
     cleaned = [l for l in lines if time_str not in l]
 
-    title = cleaned[0] if len(cleaned) > 0 else "Unknown"
-    desc = max(cleaned[1:], key=len) if len(cleaned) > 1 else ""
+    # -------------------------
+    # FILTER OUT JUNK
+    # -------------------------
+    junk = ["mins", "min", "season", "episode", "sn", "ep", "sports", "motorsports"]
+
+    filtered = []
+    for l in cleaned:
+        low = l.lower()
+
+        if any(j in low for j in junk):
+            continue
+
+        if len(l) < 2:
+            continue
+
+        filtered.append(l)
+
+    # -------------------------
+    # STRUCTURE IS FIXED ORDER:
+    # 0 = genre
+    # 1 = title
+    # 2 = episode
+    # 3 = description
+    # -------------------------
+
+    genre = filtered[0] if len(filtered) > 0 else ""
+
+    title = filtered[1] if len(filtered) > 1 else "Unknown"
+
+    episode = filtered[2] if len(filtered) > 2 else ""
+
+    desc = filtered[3] if len(filtered) > 3 else ""
+
+    # -------------------------
+    # OPTIONAL CLEANUP (important)
+    # -------------------------
+    if title == genre:
+        title = "Unknown"
 
     return time_str, title, desc
 
