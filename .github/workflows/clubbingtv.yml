@@ -2,7 +2,7 @@ name: Update EPG XML ClubbingTV
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs at midnight UTC daily
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -17,7 +17,7 @@ jobs:
         run: mkdir -p download_EPG/individual/ClubbingTV
 
       # -----------------------------
-      # FETCH TODAY + TOMORROW
+      # FETCH DATA
       # -----------------------------
       - name: Fetch EPG XML (today + tomorrow)
         run: |
@@ -31,7 +31,7 @@ jobs:
           "https://epg.pw/api/epg.xml?lang=en&date=${TOMORROW}&channel_id=5771"
 
       # -----------------------------
-      # APPLY FIXED OFFSET (-13 HOURS)
+      # APPLY OFFSET (-13 HOURS)
       # -----------------------------
       - name: Apply EPG time correction (-13h)
         run: |
@@ -40,7 +40,6 @@ jobs:
           from datetime import datetime, timedelta
 
           FILE_OUT = "download_EPG/individual/ClubbingTV/ClubbingTV.xml"
-
           OFFSET_HOURS = -13
 
           with open("today.xml", "r", encoding="utf-8") as f:
@@ -73,19 +72,16 @@ jobs:
               "\n</tv>"
           )
 
+          # IMPORTANT: ensure XML declaration exists and is clean
+          if not merged.startswith("<?xml"):
+              merged = '<?xml version="1.0" encoding="UTF-8"?>\n' + merged
+
           with open(FILE_OUT, "w", encoding="utf-8") as f:
               f.write(merged)
           EOF
 
       # -----------------------------
-      # XML HEADER
-      # -----------------------------
-      - name: Add XML Declaration and DOCTYPE
-        run: |
-          sed -i '1s|$| <!DOCTYPE tv SYSTEM "xmltv.dtd">|' download_EPG/individual/ClubbingTV/ClubbingTV.xml
-
-      # -----------------------------
-      # TRANSLATION STEP
+      # TRANSLATION
       # -----------------------------
       - name: Translate Russian titles and descriptions
         run: |
@@ -94,29 +90,25 @@ jobs:
           python3 - << 'EOF'
           import xml.etree.ElementTree as ET
           from googletrans import Translator
-          import re
 
           xml_file = "download_EPG/individual/ClubbingTV/ClubbingTV.xml"
           tree = ET.parse(xml_file)
           root = tree.getroot()
           translator = Translator()
 
-          def fix_spacing(text):
-              return re.sub(r'([.!?])([A-Za-z])', r'\1 \2', text)
-
           for prog in root.findall('programme'):
               for title in prog.findall('title'):
                   if title.text and title.text.strip():
                       try:
                           title.text = translator.translate(title.text, src='ru', dest='en').text
-                      except Exception:
+                      except:
                           pass
 
               desc = prog.find('desc')
               if desc is not None and desc.text and desc.text.strip():
                   try:
                       desc.text = translator.translate(desc.text, src='ru', dest='en').text
-                  except Exception:
+                  except:
                       pass
 
           tree.write(xml_file, encoding='utf-8', xml_declaration=True)
@@ -141,6 +133,7 @@ jobs:
                   desc = prog.find('desc')
                   icon_elem = ET.Element('icon')
                   icon_elem.set('src', icon_url)
+
                   if desc is not None:
                       prog.insert(list(prog).index(desc) + 1, icon_elem)
                   else:
@@ -150,7 +143,7 @@ jobs:
           EOF
 
       # -----------------------------
-      # COMMIT CHANGES
+      # COMMIT
       # -----------------------------
       - name: Commit and push if changed
         run: |
