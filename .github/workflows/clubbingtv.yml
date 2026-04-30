@@ -33,13 +33,13 @@ jobs:
       # -----------------------------
       # APPLY 8 HOUR SHIFT (NON-DESTRUCTIVE)
       # -----------------------------
-      - name: Apply 8 hour shift
+      - name: Apply hour shift
         run: |
           python3 << 'EOF'
           import re
           from datetime import datetime, timedelta
 
-          SHIFT = 0
+          SHIFT = -1
           OUT = "download_EPG/individual/ClubbingTV/ClubbingTV.xml"
 
           with open("today.xml", "r", encoding="utf-8") as f:
