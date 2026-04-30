@@ -1,39 +1,100 @@
-name: Test Fuel TV EPG
+name: Update EPG XML Fuel tv
 
 on:
+  schedule:
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  run:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          fetch-depth: 0
 
-      - name: Install Playwright
+      - name: Create directory structure
+        run: mkdir -p download_EPG/individual/Sports
+
+      - name: Fetch EPG XML (today + tomorrow)
         run: |
-          pip install playwright
-          playwright install --with-deps
+          TODAY=$(date -u +%Y%m%d)
+          TOMORROW=$(date -u -d "+1 day" +%Y%m%d)
 
-      - name: Run script
-        run: python .github/scripts/fuel_tv_source.py
+          curl -L -o today.xml \
+          "https://epg.pw/api/epg.xml?lang=en&date=${TODAY}&channel_id=421685"
 
-      - name: Commit output
+          curl -L -o tomorrow.xml \
+          "https://epg.pw/api/epg.xml?lang=en&date=${TOMORROW}&channel_id=421685"
+
+      - name: Merge XML files
+        run: |
+          # Remove XML header from tomorrow file
+          sed '1,2d' tomorrow.xml > tomorrow_clean.xml
+
+          # Merge safely
+          head -n -1 today.xml > merged.xml
+          tail -n 1 today.xml >> merged.xml
+          cat tomorrow_clean.xml >> merged.xml
+
+          mv merged.xml download_EPG/individual/Sports/fueltv.xml
+
+      - name: Shift EPG times by +8 hours
+        run: |
+          python3 << 'EOF'
+          import re
+          from datetime import datetime, timedelta
+
+          FILE = "download_EPG/individual/Sports/fueltv.xml"
+          SHIFT_HOURS = 8  # change to -8 if needed
+
+          pattern = re.compile(r'(start|stop)="(\d{14})\s([+-]\d{4})"')
+
+          def shift(ts):
+              dt = datetime.strptime(ts, "%Y%m%d%H%M%S")
+              dt += timedelta(hours=SHIFT_HOURS)
+              return dt.strftime("%Y%m%d%H%M%S")
+
+          with open(FILE, "r", encoding="utf-8") as f:
+              data = f.read()
+
+          def repl(m):
+              tag = m.group(1)
+              ts = m.group(2)
+              tz = m.group(3)
+              return f'{tag}="{shift(ts)} {tz}"'
+
+          data = pattern.sub(repl, data)
+
+          with open(FILE, "w", encoding="utf-8") as f:
+              f.write(data)
+          EOF
+
+      - name: Ensure XML header + DOCTYPE
+        run: |
+          FILE=download_EPG/individual/Sports/fueltv.xml
+
+          if ! head -n 1 "$FILE" | grep -q "<?xml"; then
+            sed -i '1i<?xml version="1.0" encoding="UTF-8"?>' "$FILE"
+          fi
+
+          sed -i '/^<\?xml/ a <!DOCTYPE tv SYSTEM "xmltv.dtd">' "$FILE"
+
+      - name: Inject show metadata (shared definitions)
+        run: bash .github/scripts/inject_epg.sh download_EPG/individual/Sports/fueltv.xml
+
+      - name: Commit and push if changed
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
           git add download_EPG/individual/Sports/fueltv.xml
-          git commit -m "Update FuelTV EPG" || echo "No changes"
 
-          git pull --rebase --autostash origin main
-          git push
-
-          git pull --rebase origin main
+          git commit -m "Updated EPG $(date -u +%Y-%m-%d)" || exit 0
+          git pull --rebase
           git push
