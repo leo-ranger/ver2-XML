@@ -5,175 +5,23 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/f0f82a9b-52a8-48ae-8964-846c15cd22b9/WB_Plex_LogoPackage_1500x1000_Light_LAS_-_Megan_Jones.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260502000000 +0000" stop="20260502020000 +0000">
-    <title>La Leyenda de la Cueva de las 5 Millas</title>
+<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260503000000 +0000" stop="20260503020000 +0000">
+    <title>Blue Ridge</title>
     <category>Movie</category>
-    <desc>Un extranio se une a un niño con cuentos del Oeste. Pasado y presente chocan al aparecer un agente corrupto en busca del oro perdido.</desc>
+    <desc>El ex Boina Verde, Justin Wise, cambia su vida de peligro por una placa de sheriff en un pueblo tranquilo en el corazón de las montañas Blue Ridge. Ahora más cerca de su ex esposa e hija, está listo para establecerse y abrazar una vida sin caos. Pero los problemas tienen una manera de seguirlo. Justo cuando comienza a adaptarse a la vida sencilla, un asesinato en la comunidad pone nerviosos a los residentes y reaviva una larga disputa entre dos de las familias más poderosas.  A medida que Justin y sus ayudantes trabajan en el caso, se da cuenta de que hay más en su nuevo hogar de lo que parece. Los secretos se revelan y los motivos emergen, lo que lleva a Justin a una carrera contra el tiempo para resolver el caso antes de que la gente del pueblo tome la ley en sus propias manos.</desc>
+    <date>20250321</date>
+    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/poster/2000x2858/brdg_las_poster.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260503020000 +0000" stop="20260503040000 +0000">
+    <title>Accion Legal</title>
+    <category>Movie</category>
+    <desc>Un abogado descubre la gran corrupción del pequeño pueblo en el jucio a su ex cuñado, acusado de asesinar a un fiscal del distrito local.</desc>
     <date>20250513</date>
-    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/poster/2000x2858/lfmc_las_vertical.jpg" />
+    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/poster/2000x2858/lact_las_vertical.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260502020000 +0000" stop="20260502030000 +0000">
-    <title>Vida Vaquera: Alabama</title>
-    <sub-title>Sigue Jugando</sub-title>
-    <episode-num system="onscreen">S04E04</episode-num>
-    <desc>Los chicos van al norte a una carrera de carromatos. No es para amateurs, ¿vencerán los pronósticos y ganarán?</desc>
-    <date>20250827</date>
-    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/tcw401_las_horizontal_6.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260502030000 +0000" stop="20260502040000 +0000">
-    <title>Vida Vaquera: Alabama</title>
-    <sub-title>En la Escuela</sub-title>
-    <episode-num system="onscreen">S04E05</episode-num>
-    <desc>Booger regresa a la escuela por su interés en subastas. La baja en precios del ganado provoca una tensa charla con el socio vaquero.</desc>
-    <date>20250827</date>
-    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/tcw401_las_horizontal_5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260502040000 +0000" stop="20260502042749 +0000">
-    <title>América Hecha a Mano</title>
-    <sub-title>America Hecha a Mano - Candelabros de Vidrio, Herramientas de Jardin, Monturas del Oeste</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <desc>Jill ama los candelabros de un soplador de vidrio, los utensillos de jardin y las sillas de montar talladas de un trabajador del cuero.</desc>
-    <date>20250903</date>
-    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/hca201_las_horizontal.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260502042749 +0000" stop="20260502050000 +0000">
-    <title>América Hecha a Mano</title>
-    <sub-title>America Hecha a Mano - Espuelas de Metal, Botas de Montana, Mochilas</sub-title>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <desc>Jill aprende sobre espuelas de vaquero en Texas, botas de montaña en California, y mochilas en Oregón.</desc>
-    <date>20250903</date>
-    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/hca201_las_horizontal.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260502050000 +0000" stop="20260502052749 +0000">
-    <title>América Hecha a Mano</title>
-    <sub-title>America Hecha a Mano - Kayaks, Aldabas de Bronce, Caballos Mecedores</sub-title>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <desc>Jill conoce a un constructor de kayaks en Nueva York, a un fabricante de aldabas en Arizona y a un tallador de caballos mecedores en Texas.</desc>
-    <date>20250903</date>
-    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/hca201_las_horizontal.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260502052749 +0000" stop="20260502060000 +0000">
-    <title>América Hecha a Mano</title>
-    <sub-title>America Hecha a Mano - Violines, Lana y Putters</sub-title>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <desc>Jill visita New York para conocer a un fabricante de violines, una granja de ovejas de California y un campo de golf de Arizona.</desc>
-    <date>20250903</date>
-    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/hca201_las_horizontal.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260502060000 +0000" stop="20260502062749 +0000">
-    <title>América Hecha a Mano</title>
-    <sub-title>America Hecha a Mano - Cuchillos, Carpinteria y Bolsos de Cuero</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Jill conoce a un matrimonio de herreros en Alaska, un maestro carpintero en Carolina del Norte y una fabricante de bolsos de mano de Texas.</desc>
-    <date>20250804</date>
-    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/hca101_las_horizontal.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260502062749 +0000" stop="20260502070000 +0000">
-    <title>Platillo Estatal</title>
-    <sub-title>South Dakota</sub-title>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <desc>En Dakota del Sur, Taylor clasifica ovejas y prueba chislic, filetes de bisonte, espárragos silvestres y deliciosos postres dobles.</desc>
-    <date>20250919</date>
-    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/stp201_las_horizontal.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260502070000 +0000" stop="20260502080000 +0000">
-    <title>Leyendas de la Diligencia</title>
-    <category>Movie</category>
-    <desc>La diligencia se volvioo indispensable en el Oeste. Sus conductores viajan por senderos peligrosos siendo blancos fáciles para los bandidos.</desc>
-    <date>20251113</date>
-    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/poster/2000x2858/los_las_vertical.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260502080000 +0000" stop="20260502082749 +0000">
-    <title>Crónicas del Salvaje Oeste</title>
-    <sub-title>Cronicas del Salvaje Oeste - La Ultima Bala en el OK Corral</sub-title>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <desc>Tras encontrar un fósil en Wyoming, un hombre queda atrapado en el fuego cruzado de paleontólogos rivales luchando por huesos de dinosaurio.</desc>
-    <date>20250527</date>
-    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/wwc2_master_localization_ottera_las_1920x1080_11.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260502082749 +0000" stop="20260502090000 +0000">
-    <title>Crónicas del Salvaje Oeste</title>
-    <sub-title>Cronicas del Salvaje Oeste - La Guerra de los Huesos</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <desc>Tras encontrar un fósil en Wyoming, un hombre queda atrapado en el fuego cruzado de paleontólogos rivales luchando por huesos de dinosaurio.</desc>
-    <date>20250527</date>
-    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/wwc2_master_localization_ottera_las_1920x1080_0.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260502090000 +0000" stop="20260502100000 +0000">
-    <title>En La Frontera Salvaje</title>
-    <sub-title>Jim Clyman: Sobreviviente de la Frontera</sub-title>
-    <episode-num system="onscreen">S02E07</episode-num>
-    <desc>Jim Clyman sobrevive a una épica travesía de 600 millas hacia la seguridad al poner su destino en manos de su enemigo.</desc>
-    <date>20250716</date>
-    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/wld201_las_horizontal.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260502100000 +0000" stop="20260502110000 +0000">
-    <title>Cowboy: El Enfrentamiento Final</title>
-    <sub-title>Cada Vaquero a lo Suyo</sub-title>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <desc>La competición da un nuevo giro con un desafío de eliminación en dos partes. El vaquero que no sepa adaptarse al momento se irá a casa.</desc>
-    <date>20251113</date>
-    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/ult201_las_horizontal.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260502110000 +0000" stop="20260502112749 +0000">
-    <title>América Hecha a Mano</title>
-    <sub-title>America Hecha a Mano - Canoas, Sillas Adirondack, Atriles Musicales de Madera</sub-title>
-    <episode-num system="onscreen">S03E08</episode-num>
-    <desc>La madera es el centro de atención. Jill aprende sobre canoas de cedro,  sobre sillas Adirondack y  sobre intrincados atriles para música.</desc>
-    <date>20250829</date>
-    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/hca301_las_horizontal.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260502112749 +0000" stop="20260502120000 +0000">
-    <title>América Hecha a Mano</title>
-    <sub-title>America Hecha a Mano - Grifos de Metal y Vidrio, Baules de Viaje, Mesas de Tejo</sub-title>
-    <episode-num system="onscreen">S03E09</episode-num>
-    <desc>Jill descubre artículos tan singulares como grifos de metal y vidrio en Maryland, baúles de viaje en Michigan y mesas de tejo en Georgia.</desc>
-    <date>20250829</date>
-    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/hca301_las_horizontal.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260502120000 +0000" stop="20260502140000 +0000">
-    <title>La Leyenda de la Cueva de las 5 Millas</title>
-    <category>Movie</category>
-    <desc>Un extranio se une a un niño con cuentos del Oeste. Pasado y presente chocan al aparecer un agente corrupto en busca del oro perdido.</desc>
-    <date>20250513</date>
-    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/poster/2000x2858/lfmc_las_vertical.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260502140000 +0000" stop="20260502150000 +0000">
-    <title>Vida Vaquera: Alabama</title>
-    <sub-title>Sigue Jugando</sub-title>
-    <episode-num system="onscreen">S04E04</episode-num>
-    <desc>Los chicos van al norte a una carrera de carromatos. No es para amateurs, ¿vencerán los pronósticos y ganarán?</desc>
-    <date>20250827</date>
-    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/tcw401_las_horizontal_6.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260502150000 +0000" stop="20260502160000 +0000">
-    <title>Vida Vaquera: Alabama</title>
-    <sub-title>En la Escuela</sub-title>
-    <episode-num system="onscreen">S04E05</episode-num>
-    <desc>Booger regresa a la escuela por su interés en subastas. La baja en precios del ganado provoca una tensa charla con el socio vaquero.</desc>
-    <date>20250827</date>
-    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/tcw401_las_horizontal_5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260502160000 +0000" stop="20260502180000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260503040000 +0000" stop="20260503060000 +0000">
     <title>Amanecer en Savannah</title>
     <category>Movie</category>
     <desc>La nuera y su suegra de espíritu libre emprenden un viaje por carretera,  descubriendo que se necesitan más de lo que quieren admitir.</desc>
@@ -181,7 +29,7 @@
     <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/poster/2000x2858/ssun_las_vertical.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260502180000 +0000" stop="20260502190000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260503060000 +0000" stop="20260503070000 +0000">
     <title>Vida Vaquera: Alabama</title>
     <sub-title>Bubba, Cody y Booger: De Vuelta a la Silla</sub-title>
     <episode-num system="onscreen">S02E01</episode-num>
@@ -190,7 +38,7 @@
     <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/tcw201_las_horizontal.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260502190000 +0000" stop="20260502200000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260503070000 +0000" stop="20260503080000 +0000">
     <title>Vida Vaquera: Alabama</title>
     <sub-title>Ponle un Anillo</sub-title>
     <episode-num system="onscreen">S02E02</episode-num>
@@ -199,7 +47,7 @@
     <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/tcw201_las_horizontal.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260502200000 +0000" stop="20260502210000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260503080000 +0000" stop="20260503090000 +0000">
     <title>Cowboy: El Enfrentamiento Final</title>
     <sub-title>Cada Vaquero a lo Suyo</sub-title>
     <episode-num system="onscreen">S02E09</episode-num>
@@ -208,7 +56,7 @@
     <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/ult201_las_horizontal.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260502210000 +0000" stop="20260502220000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260503090000 +0000" stop="20260503100000 +0000">
     <title>Cowboy: El Enfrentamiento Final</title>
     <sub-title>La Ultima Mano en Pie</sub-title>
     <episode-num system="onscreen">S02E10</episode-num>
@@ -217,7 +65,7 @@
     <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/ult201_las_horizontal.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260502220000 +0000" stop="20260502222749 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260503100000 +0000" stop="20260503102749 +0000">
     <title>Las Fantásticas Historias de Jim Bridger</title>
     <sub-title>Las Fantasticas Historias de Jim Bridger - La Eleccion de Molly</sub-title>
     <episode-num system="onscreen">S01E07</episode-num>
@@ -226,7 +74,7 @@
     <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/jim101_las_horizontal.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260502222749 +0000" stop="20260502230000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260503102749 +0000" stop="20260503110000 +0000">
     <title>Las Fantásticas Historias de Jim Bridger</title>
     <sub-title>Las Fantasticas Historias de Jim Bridger - La Cura de la Serpentaria</sub-title>
     <episode-num system="onscreen">S01E08</episode-num>
@@ -235,7 +83,7 @@
     <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/jim101_las_horizontal.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260502230000 +0000" stop="20260502232749 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260503110000 +0000" stop="20260503112749 +0000">
     <title>Crónicas del Salvaje Oeste</title>
     <sub-title>Cronicas del Salvaje Oeste - La Ultima Incursion de Jesse James</sub-title>
     <episode-num system="onscreen">S05E03</episode-num>
@@ -244,7 +92,7 @@
     <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/wwc5_las_horizontal.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260502232749 +0000" stop="20260503000000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260503112749 +0000" stop="20260503120000 +0000">
     <title>Crónicas del Salvaje Oeste</title>
     <sub-title>Cronicas del Salvaje Oeste - El Juramento de Doc Susie</sub-title>
     <episode-num system="onscreen">S05E04</episode-num>
@@ -253,12 +101,126 @@
     <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/wwc5_las_horizontal.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260503000000 +0000" stop="20260503020000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260503120000 +0000" stop="20260503140000 +0000">
     <title>Blue Ridge</title>
     <category>Movie</category>
     <desc>El ex Boina Verde, Justin Wise, cambia su vida de peligro por una placa de sheriff en un pueblo tranquilo en el corazón de las montañas Blue Ridge. Ahora más cerca de su ex esposa e hija, está listo para establecerse y abrazar una vida sin caos. Pero los problemas tienen una manera de seguirlo. Justo cuando comienza a adaptarse a la vida sencilla, un asesinato en la comunidad pone nerviosos a los residentes y reaviva una larga disputa entre dos de las familias más poderosas.  A medida que Justin y sus ayudantes trabajan en el caso, se da cuenta de que hay más en su nuevo hogar de lo que parece. Los secretos se revelan y los motivos emergen, lo que lleva a Justin a una carrera contra el tiempo para resolver el caso antes de que la gente del pueblo tome la ley en sus propias manos.</desc>
     <date>20250321</date>
     <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/poster/2000x2858/brdg_las_poster.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260503140000 +0000" stop="20260503160000 +0000">
+    <title>Accion Legal</title>
+    <category>Movie</category>
+    <desc>Un abogado descubre la gran corrupción del pequeño pueblo en el jucio a su ex cuñado, acusado de asesinar a un fiscal del distrito local.</desc>
+    <date>20250513</date>
+    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/poster/2000x2858/lact_las_vertical.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260503160000 +0000" stop="20260503162749 +0000">
+    <title>Platillo Estatal</title>
+    <sub-title>New Jersey</sub-title>
+    <episode-num system="onscreen">S02E17</episode-num>
+    <desc>Taylor celebra la cultura gastronómica de Nueva Jersey con hot dogs  italianos, sándwiches de cerdo, y más platillos.</desc>
+    <date>20250919</date>
+    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/stp201_las_horizontal.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260503162749 +0000" stop="20260503170000 +0000">
+    <title>Platillo Estatal</title>
+    <sub-title>Montana</sub-title>
+    <episode-num system="onscreen">S02E14</episode-num>
+    <desc>El entrenador Bob Knight se une a Taylor en Montana, donde el plato estatal está lleno de ingredientes por descubrir.</desc>
+    <date>20250919</date>
+    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/stp201_las_horizontal.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260503170000 +0000" stop="20260503172749 +0000">
+    <title>Platillo Estatal</title>
+    <sub-title>North Carolina</sub-title>
+    <episode-num system="onscreen">S02E20</episode-num>
+    <desc>Taylor probará carne asada, verduras frescas y un pastel casero de camote. Hará masa de la uva dulce. Y verá la batalla de la barbacoa.</desc>
+    <date>20250919</date>
+    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/stp201_las_horizontal.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260503172749 +0000" stop="20260503180000 +0000">
+    <title>Platillo Estatal</title>
+    <sub-title>New Hampshire</sub-title>
+    <episode-num system="onscreen">S02E21</episode-num>
+    <desc>Taylor prueba comidas clásicas en Connecticut y disfruta de ostras, hamburguesas con queso al vapor y otros manjares.</desc>
+    <date>20250919</date>
+    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/stp201_las_horizontal.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260503180000 +0000" stop="20260503190000 +0000">
+    <title>En La Frontera Salvaje</title>
+    <sub-title>John Coffee Hays: Una Leyenda de Texas</sub-title>
+    <episode-num system="onscreen">S04E05</episode-num>
+    <desc>En los primeros días de Texas, John Coffee Hays lidera a los Texas Rangers en una lucha desesperada contra los comanches.</desc>
+    <date>20250906</date>
+    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/wld401_las_horizontal.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260503190000 +0000" stop="20260503192749 +0000">
+    <title>Crónicas del Salvaje Oeste</title>
+    <sub-title>Cronicas del Salvaje Oeste - Billy the Kid, El Origen de un Forajido</sub-title>
+    <episode-num system="onscreen">S03E02</episode-num>
+    <desc>Tras el asesinato de su empleador, William Bonney busca venganza y se convierte en Billy the Kid.</desc>
+    <date>20250808</date>
+    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/wwc301_las_horizontal.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260503192749 +0000" stop="20260503200000 +0000">
+    <title>Crónicas del Salvaje Oeste</title>
+    <sub-title>Cronicas del Salvaje Oeste - El Gran Descubrimiento de George McJunkin</sub-title>
+    <episode-num system="onscreen">S03E10</episode-num>
+    <desc>Tras una tormenta, el capataz George McJunkin descubre fósiles de bisontes que podrían cambiar la historia humana.</desc>
+    <date>20250808</date>
+    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/wwc301_las_horizontal.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260503200000 +0000" stop="20260503202749 +0000">
+    <title>Crónicas del Salvaje Oeste</title>
+    <sub-title>Cronicas del Salvaje Oeste - Calamity Jane, La Reina de las Llanuras</sub-title>
+    <episode-num system="onscreen">S03E07</episode-num>
+    <desc>Cuando un brote de viruela afecta Deadwood, Calamity Jane lucha incansablemente para salvar a los ciudadanos infectados.</desc>
+    <date>20250808</date>
+    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/wwc301_las_horizontal_0.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260503202749 +0000" stop="20260503210000 +0000">
+    <title>Crónicas del Salvaje Oeste</title>
+    <sub-title>Cronicas del Salvaje Oeste - Los Quatro Que Murieron en un Tiroteo de 5 Segundos</sub-title>
+    <episode-num system="onscreen">S03E13</episode-num>
+    <desc>Tras el asesinato de dos vaqueros mexicanos en El Paso, el nuevo mariscal se ve envuelto en uno de los tiroteos más infames del Oeste.</desc>
+    <date>20250808</date>
+    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/wwc301_las_horizontal.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260503210000 +0000" stop="20260503220000 +0000">
+    <title>Fiebre Turquesa</title>
+    <sub-title>Arriba en la Mina Cloud 9</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Un camino sin terminar se interpone entre los Otteson y un tesoro de turquesas. Lane y Tristan toman posesión de su primera mina.</desc>
+    <date>20250716</date>
+    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/3840x2160/blu101_las_horizontal.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260503220000 +0000" stop="20260504000000 +0000">
+    <title>County Line</title>
+    <category>Movie</category>
+    <desc>Cuando su mejor amigo, el Sheriff Clint Thorne (Jeff Fahey, Texas Rising, Justified), es brutalmente acribillado, el ex sheriff del condado vecino Alden Rockwell (Tom Wopat, The Dukes Of Hazzard, Longmire), queda desconcertado Despues de que la investigación no avance y el reemplazo, el Sheriff Preston (Grant Goodeve, Eight is Enough, Dynasty) ignore los hechos, Alden se hace cargo del caso. Descubriendo una red de delitos, engaños y corrupción que abarca ambos condados, Alden se encuentra atrapado en una red criminal sin refuerzos, sin placa, y la dueña de un restaurante local, Maddie (Patricia Richardson, Home Improvement, The West Wing) como su única aliada. Buscando justicia cualquier costo, Alden debe encontrar a quien esta detrás estos delitos, incluso si algunas líneas deben ser cruzadas.</desc>
+    <date>20250213</date>
+    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/poster/2000x2858/clin_las_poster.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-693ebecae2cae3f1bc73ae45" start="20260504000000 +0000" stop="20260504020000 +0000">
+    <title>Far Haven</title>
+    <category>Movie</category>
+    <desc>En 1887, después de cumplir dos años en la Prisión Territorial de Yuma, acusado injustamente, Hunter Braddock, un hombre virtuoso con un pasado complejo, regresa a la ciudad de Arizona de Far Haven para comenzar de nuevo con sus dos hijos pequeños. Pero cuando su suegro es brutalmente atacado por un grupo de asalto no identificado, Braddock debe enfrentarse a las fuerzas corruptas que estrangulan la ciudad para proteger lo que más ama.</desc>
+    <date>20250321</date>
+    <icon src="https://img.static-ottera.com/prod/ime/video/thumbnails/poster/2000x2858/fhvn_poster.jpg" />
   </programme>
   
 </tv>
