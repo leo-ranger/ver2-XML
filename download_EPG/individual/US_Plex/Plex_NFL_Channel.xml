@@ -5,22 +5,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/a7617b69-6d23-46d0-8e8e-e4ec9fa29d59/NFL_WHITE.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260509000000 +0000" stop="20260509002900 +0000">
-    <title>NFL 360</title>
-    <sub-title>Kahuku Mana</sub-title>
-    <episode-num system="onscreen">S2023E01</episode-num>
-    <desc>The Kahuku High School Red Raiders honor the memory of three fallen coaches and their Polynesian heritage by bringing a state championship to Hawaii's North Shore of Oahu.</desc>
-    <date>20230119</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260509002900 +0000" stop="20260509005200 +0000">
-    <title>NFL Draft</title>
-    <sub-title>Jordan Mailata's Journey From Australian Rugby League to Eagles Draft Pick</sub-title>
-    <desc>Meet Jordan Mailata, the 6-foot-8, 345-pound former rugby league player from Sydney, Australia. Jordan has left a successful career in Australia to try and achieve the impossible - making an NFL roster, with no knowledge or previous experience.</desc>
-    <date>20220522</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260509005200 +0000" stop="20260509013200 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260510005600 +0000" stop="20260510013600 +0000">
     <title>NFL Media Originals</title>
     <sub-title>Mini Movie: Inside Mac Jones' Rookie Season</sub-title>
     <episode-num system="onscreen">S2022E06</episode-num>
@@ -28,7 +13,7 @@
     <date>20220307</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260509013200 +0000" stop="20260509020400 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260510013600 +0000" stop="20260510020800 +0000">
     <title>NFL Events</title>
     <sub-title>Scott Fights - AAPI Heritage Month</sub-title>
     <episode-num system="onscreen">S2024E03</episode-num>
@@ -36,76 +21,80 @@
     <date>20240530</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260509020400 +0000" stop="20260509030000 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260510020800 +0000" stop="20260510023100 +0000">
+    <title>NFL Draft</title>
+    <sub-title>Jordan Mailata's Journey From Australian Rugby League to Eagles Draft Pick</sub-title>
+    <desc>Meet Jordan Mailata, the 6-foot-8, 345-pound former rugby league player from Sydney, Australia. Jordan has left a successful career in Australia to try and achieve the impossible - making an NFL roster, with no knowledge or previous experience.</desc>
+    <date>20220522</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260510023100 +0000" stop="20260510030000 +0000">
     <title>NFL 360</title>
-    <sub-title>Resilience, Heroes, Ikigai</sub-title>
-    <episode-num system="onscreen">S2023E18</episode-num>
-    <desc>Three players risk their lives to save others, an NFL hopeful has a transformational experience in Japan, and Joshua Dobbs forms a close bond with a young cancer survivor.</desc>
-    <date>20231226</date>
+    <sub-title>Kahuku Mana</sub-title>
+    <episode-num system="onscreen">S2023E01</episode-num>
+    <desc>The Kahuku High School Red Raiders honor the memory of three fallen coaches and their Polynesian heritage by bringing a state championship to Hawaii's North Shore of Oahu.</desc>
+    <date>20230119</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260509030000 +0000" stop="20260509052900 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260510030000 +0000" stop="20260510051800 +0000">
     <title>NFL Highlights</title>
-    <sub-title>Best Routes of 2025</sub-title>
-    <desc>Highlights of the best routes from 2025.</desc>
-    <date>20251231</date>
+    <sub-title>Top Plays of 2025</sub-title>
+    <desc>Highlights of the top plays in2025.</desc>
+    <date>20260101</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260509052900 +0000" stop="20260509063100 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260510051800 +0000" stop="20260510053800 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>Top Game-Winning Drives of 2025</sub-title>
+    <desc>A list of the top 10 game-winning drives of 2025.</desc>
+    <date>20260106</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260510053800 +0000" stop="20260510055800 +0000">
+    <title>NFL Highlights</title>
+    <sub-title>Fastest Plays of 2025</sub-title>
+    <desc>Countdown of the top 50 fastest plays in 2025.</desc>
+    <date>20260101</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260510055800 +0000" stop="20260510070000 +0000">
     <title>NFL Highlights</title>
     <sub-title>Best Special Teams Plays of 2025</sub-title>
     <desc>Highlights of the best special teams plays of 2025.</desc>
     <date>20260101</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260509063100 +0000" stop="20260509071100 +0000">
-    <title>NFL Highlights</title>
-    <sub-title>Best Trick Plays of 2025</sub-title>
-    <desc>Highlights of the best trick plays of 2025.</desc>
-    <date>20251231</date>
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260510070000 +0000" stop="20260510073000 +0000">
+    <title>NFL Explained</title>
+    <sub-title>Germany</sub-title>
+    <desc>Everything that goes into preparing a stadium for the first NFL game in Germany.</desc>
+    <date>20230222</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260509071100 +0000" stop="20260509094200 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260510073000 +0000" stop="20260510095700 +0000">
     <title>NFL Game Re-Airs</title>
-    <sub-title>2023: Bills vs. Jets, Week 1</sub-title>
-    <episode-num system="onscreen">S2024E22</episode-num>
-    <desc>Jets lose Aaron Rodgers to an Achilles tendon injury, then rally to stun Bills 22-16 in overtime.</desc>
-    <date>20240221</date>
+    <sub-title>2022: Seahawks vs. Buccaneers, Week 10</sub-title>
+    <episode-num system="onscreen">S2022E452</episode-num>
+    <desc>Tom Brady and the Buccaneers beat the Seahawks 21-16 in the first regular-season game played in Munich, Germany.</desc>
+    <date>20221121</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260509094200 +0000" stop="20260509105700 +0000">
-    <title>NFL Throwback</title>
-    <sub-title>Best Decade Ever: The 2000s</sub-title>
-    <episode-num system="onscreen">S2025E53</episode-num>
-    <desc>From dominant dynasties to wild underdog stories and Super Bowl thrillers, NFL Throwback takes a deep dive into the 2000s.</desc>
-    <date>20250930</date>
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260510095700 +0000" stop="20260510102600 +0000">
+    <title>Going Global</title>
+    <sub-title>Odell Beckham Jr.</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Follow Odell Beckham Jr.'s trip to Germany to spread America's Game internationally. OBJ hangs with Bayern Munich, his German fans, the Munich Cowboys, dives into German lederhosen and food culture. Odell then takes a trip to London.</desc>
+    <date>20161018</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260509105700 +0000" stop="20260509113000 +0000">
-    <title>NFL Throwback</title>
-    <sub-title>Greatest Game Ever: Broncos vs. Cowboys (2013)</sub-title>
-    <episode-num system="onscreen">S2025E29</episode-num>
-    <desc>The record-setting Broncos travel to Dallas where Peyton Manning and Tony Romo have a shoot-out for the ages.</desc>
-    <date>20250706</date>
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260510102600 +0000" stop="20260510120000 +0000">
+    <title>A Lifetime of Sundays</title>
+    <sub-title>A Lifetime of Sundays</sub-title>
+    <desc>A look at the history of the NFL through the eyes of four iconic female owners: Virginia McCaskey, Martha Firestone Ford, Norma Hunt and Patricia Rooney.</desc>
+    <date>20260510</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260509113000 +0000" stop="20260509120000 +0000">
-    <title>NFL Throwback</title>
-    <sub-title>Top 10 International Games</sub-title>
-    <episode-num system="onscreen">S2025E51</episode-num>
-    <desc>See the best games to ever take place outside of America.</desc>
-    <date>20250924</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260509120000 +0000" stop="20260509145500 +0000">
-    <title>NFL Game Re-Airs</title>
-    <sub-title>2022: Broncos vs. Jaguars, Week 8</sub-title>
-    <episode-num system="onscreen">S2022E453</episode-num>
-    <desc>Denver Broncos beat the Jacksonville Jaguars 21-17 in London to snap losing streak.</desc>
-    <date>20221122</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260509145500 +0000" stop="20260509173600 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260510120000 +0000" stop="20260510144100 +0000">
     <title>NFL Game Re-Airs</title>
     <sub-title>2023: Dolphins vs. Chiefs - Week 9</sub-title>
     <episode-num system="onscreen">S2026E48</episode-num>
@@ -113,44 +102,74 @@
     <date>20260509</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260509173600 +0000" stop="20260509202100 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260510144100 +0000" stop="20260510173100 +0000">
     <title>NFL Game Re-Airs</title>
-    <sub-title>2024: Cardinals vs. 49ers - Week 5</sub-title>
-    <episode-num system="onscreen">S2024E108</episode-num>
-    <desc>Arizona Cardinals quarterback Kyler Murray puts the team on his back to upset the San Francisco 49ers on the road.</desc>
-    <date>20241011</date>
+    <sub-title>2025: Falcons vs. Colts - Week 10</sub-title>
+    <episode-num system="onscreen">S2025E146</episode-num>
+    <desc>Jonathan Taylor got his career high in scrimmage yards with 286, fifth game with three or more touchdowns this season as Indianapolis wins in overtime at Olympiastadion Berlin 31-25 over Atlanta.</desc>
+    <date>20251111</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260509202100 +0000" stop="20260509225100 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260510173100 +0000" stop="20260510174700 +0000">
+    <title>NFL Throwback</title>
+    <sub-title>Top 10 Madden Teams</sub-title>
+    <episode-num system="onscreen">S2025E41</episode-num>
+    <desc>See which Madden teams were the biggest cheat codes.</desc>
+    <date>20250820</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260510174700 +0000" stop="20260510181600 +0000">
+    <title>NFL Media Originals</title>
+    <sub-title>Most Interesting Jobs: NFL Officials and Game Day Presentation</sub-title>
+    <episode-num system="onscreen">S2024E13</episode-num>
+    <desc>Steve Smith Sr joins and NFL Officiating Crew to learn how to ref an NFL game and visits London to see how Game Day Presentation entertains international fans in the stadium.</desc>
+    <date>20241004</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260510181600 +0000" stop="20260510183600 +0000">
+    <title>NFL Explained</title>
+    <sub-title>How Do International Players Get Discovered</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Learn more about the NFL's International Player Pathway program.</desc>
+    <date>20241005</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260510183600 +0000" stop="20260510190000 +0000">
+    <title>NFL Films Presents</title>
+    <sub-title>Evolution of NFL International Games</sub-title>
+    <episode-num system="onscreen">S2021E15</episode-num>
+    <desc>A look back at the history of international games in the NFL.</desc>
+    <date>20211010</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260510190000 +0000" stop="20260510203400 +0000">
+    <title>A Lifetime of Sundays</title>
+    <sub-title>A Lifetime of Sundays</sub-title>
+    <desc>A look at the history of the NFL through the eyes of four iconic female owners: Virginia McCaskey, Martha Firestone Ford, Norma Hunt and Patricia Rooney.</desc>
+    <date>20260510</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260510203400 +0000" stop="20260510210600 +0000">
+    <title>Going Global</title>
+    <sub-title>Justin Jefferson in Brazil</sub-title>
+    <desc>Justin Jefferson was an NFL ambassador in Brazil, with soccer great Vinícius Jr. as his tour guide.</desc>
+    <date>20231208</date>
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260510210600 +0000" stop="20260511002900 +0000">
     <title>NFL Game Re-Airs</title>
-    <sub-title>2025: Lions vs. Bears - Week 18</sub-title>
-    <episode-num system="onscreen">S2026E07</episode-num>
-    <desc>Chicago rallies 16 points in the fourth quarter as the 'Cardiac Bears' attempt to take down the reigning NFC North champion Lions in the regular season finale of the 2025 season.</desc>
-    <date>20260109</date>
+    <sub-title>2024: Packers vs. Eagles - Week 1</sub-title>
+    <episode-num system="onscreen">S2024E81</episode-num>
+    <desc>Saquon Barkley scored three touchdowns Friday night in the first NFL game in São Paulo, Brazil and led the Eagles to a 34-29 victory over the Green Bay Packers, who lost quarterback Jordan Love to an injury in the closing seconds.</desc>
+    <date>20240914</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260509225100 +0000" stop="20260509233000 +0000">
-    <title>NFL Throwback</title>
-    <sub-title>Greatest Plays from International Games</sub-title>
-    <episode-num system="onscreen">S2022E02</episode-num>
-    <desc>Check out the greatest plays from international games in NFL history.</desc>
-    <date>20220106</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260509233000 +0000" stop="20260510000000 +0000">
-    <title>NFL Throwback</title>
-    <sub-title>Top 100 Catches Since 2000</sub-title>
-    <episode-num system="onscreen">S2026E07</episode-num>
-    <desc>The most impressive receptions of the past quarter-century.</desc>
-    <date>20260215</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260510000000 +0000" stop="20260510005600 +0000">
-    <title>NFL 360</title>
-    <sub-title>Resilience, Heroes, Ikigai</sub-title>
-    <episode-num system="onscreen">S2023E18</episode-num>
-    <desc>Three players risk their lives to save others, an NFL hopeful has a transformational experience in Japan, and Joshua Dobbs forms a close bond with a young cancer survivor.</desc>
-    <date>20231226</date>
+<programme channel="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" start="20260511002900 +0000" stop="20260511031500 +0000">
+    <title>NFL Game Re-Airs</title>
+    <sub-title>2018: Titans vs. Chargers, Week 7</sub-title>
+    <episode-num system="onscreen">S2022E467</episode-num>
+    <desc>Philip Rivers threw for 306 yards with two touchdown passes and the Los Angeles Chargers held on for a 20-19 victory in London after the Tennessee Titans failed twice on a go-ahead 2-point conversion with 31 seconds remaining.</desc>
+    <date>20221208</date>
   </programme>
   
 </tv>
