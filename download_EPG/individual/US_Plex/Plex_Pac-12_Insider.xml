@@ -5,7 +5,59 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/a3c09b3c-9f7e-40e9-b14e-5174a45ad551/P12_Insider_blue_-_Sean_Kent.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260512014009 +0000" stop="20260512034009 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260513003038 +0000" stop="20260513033000 +0000">
+    <title>(LIVE) Baseball</title>
+    <category>Movie</category>
+    <desc>Oregon State Baseball hosts the Portland Pilots LIVE from Goss Stadium at Coleman Field</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/d3fee6f9-a7bd-458b-8866-4594422f23ae/P12_Insider_2000x3000_-_Sean_Kent.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260513033000 +0000" stop="20260513053010 +0000">
+    <title>Pac-12 Football Classics</title>
+    <sub-title>2006 USC at Oregon State</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>OSU's Matt Moore rushes and passes for a touchdown in an upset of No. 3 USC in Corvallis. (Oct. 28, 2006)</desc>
+    <date>20210327</date>
+    <icon src="https://d2jrooo0uvo7kr.cloudfront.net/pac_default.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260513053010 +0000" stop="20260513073010 +0000">
+    <title>Football</title>
+    <sub-title>#1 USC at Oregon State (9/25/08)</sub-title>
+    <episode-num system="onscreen">S04E80</episode-num>
+    <desc>Jacquizz Rodgers leads Oregon State to upset over #1 USC and Mark Sanchez</desc>
+    <date>20080925</date>
+    <icon src="https://pac-12.com/images/2026/3/27/9_25_08_CFB_USC_OSU.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260513073010 +0000" stop="20260513093011 +0000">
+    <title>Football</title>
+    <sub-title>UCLA at Oregon State (10/31/09)</sub-title>
+    <episode-num system="onscreen">S05E88</episode-num>
+    <desc>The Rodgers brothers (Jacquizz and James) come up big for Oregon State in 26-19 win vs. UCLA</desc>
+    <date>20091031</date>
+    <icon src="https://pac-12.com/images/2026/4/3/10_31_09_CFB_UCLA_OSU.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260513093011 +0000" stop="20260513113023 +0000">
+    <title>Football</title>
+    <sub-title>Washington at Oregon State (11/19/11)</sub-title>
+    <episode-num system="onscreen">S03E32</episode-num>
+    <desc>James Rodgers becomes Oregon State receptions leader in win over Washington</desc>
+    <date>20111119</date>
+    <icon src="https://pac-12.com/images/2026/3/27/11_19_11_CFB_WASH_OSU.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260513113023 +0000" stop="20260513130000 +0000">
+    <title>Women's Gymnastics</title>
+    <sub-title>2025 BYU at Oregon State</sub-title>
+    <episode-num system="onscreen">S13E01</episode-num>
+    <desc>Senior Captain and Olympic Gold Medalist Jade Carey shines in home opener vs. BYU (1/11/25)</desc>
+    <date>20250113</date>
+    <icon src="https://pac-12.com/images/2025/1/6/Gymnastics_BYU_OSU_1920x1080.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260513130000 +0000" stop="20260513150000 +0000">
     <title>Baseball</title>
     <sub-title>Cal Poly at #7 Oregon State (4/10/26)</sub-title>
     <episode-num system="onscreen">S14E08</episode-num>
@@ -14,7 +66,7 @@
     <icon src="https://pac-12.com/images/2026/4/1/4_10_26_BSB_POLY_OSU.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260512034009 +0000" stop="20260512054015 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260513150000 +0000" stop="20260513170006 +0000">
     <title>Baseball</title>
     <sub-title>Cal Poly at #7 Oregon State (4/11/26)</sub-title>
     <episode-num system="onscreen">S14E09</episode-num>
@@ -23,7 +75,7 @@
     <icon src="https://pac-12.com/images/2026/4/1/4_11_26_BSB_POLY_OSU.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260512054015 +0000" stop="20260512074019 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260513170006 +0000" stop="20260513190010 +0000">
     <title>Baseball</title>
     <sub-title>Cal Poly at #7 Oregon State (4/12/26)</sub-title>
     <episode-num system="onscreen">S14E10</episode-num>
@@ -32,104 +84,56 @@
     <icon src="https://pac-12.com/images/2026/4/1/4_12_26_BSB_POLY_OSU.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260512074019 +0000" stop="20260512090019 +0000">
-    <title>Gymnastics</title>
-    <sub-title>Sacramento State at Oregon State (1/16/26)</sub-title>
-    <episode-num system="onscreen">S14E01</episode-num>
-    <desc>Sophia Esposito 39.500 in all-around. Oregon State defeats Sacramento State 196.375-193.675 at Gill Coliseum</desc>
-    <date>20260121</date>
-    <icon src="https://pac-12.com/images/2026/1/20/WGY_1_16_26_SAC_OSU.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260513190010 +0000" stop="20260513203029 +0000">
+    <title>Olympic Sports Encore</title>
+    <sub-title>2018 Oklahoma at UCLA</sub-title>
+    <episode-num system="onscreen">S06E01</episode-num>
+    <desc>UCLA and Oklahoma combine for six (6) Perfect 10s in star-studded performance at Pauley Pavilion (2/4/18)</desc>
+    <date>20210723</date>
+    <icon src="https://pac-12.com/images/2025/2/24/PAC_12_Encore_1920x1080.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260512090019 +0000" stop="20260512110024 +0000">
-    <title>Gymnastics</title>
-    <sub-title>Utah State at Oregon State (1/25/26)</sub-title>
-    <episode-num system="onscreen">S14E02</episode-num>
-    <desc>Oregon State bars lineup (49.425) proves pivotal in Beavers 196.600-196.075 home win vs. Utah State</desc>
-    <date>20260126</date>
-    <icon src="https://pac-12.com/images/2026/1/26/WGY_1_25_26_USU_OSU.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260513203029 +0000" stop="20260513220038 +0000">
+    <title>Olympic Sports Encore</title>
+    <sub-title>2018 Oregon State at UCLA</sub-title>
+    <episode-num system="onscreen">S05E20</episode-num>
+    <desc>Katelyn Ohashi Takes a Bow with a perfect 10 on floor.</desc>
+    <date>20220201</date>
+    <icon src="https://d2jrooo0uvo7kr.cloudfront.net/pac_default.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260512110024 +0000" stop="20260512130000 +0000">
-    <title>Gymnastics</title>
-    <sub-title>Southern Utah at Oregon State (2/14/26)</sub-title>
-    <episode-num system="onscreen">S14E03</episode-num>
-    <desc>Beavers post season-best marks on beam (49.350) and floor (49.400) hosting future Pac-12 foe Southern Utah</desc>
-    <date>20260214</date>
-    <icon src="https://pac-12.com/images/2026/2/14/2_14_26_WGY_SUU_OSU.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260512130000 +0000" stop="20260512134009 +0000">
-    <title>BRONCO-STUDIOS-LIVE--4-27-26--20260427220038999</title>
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260513220038 +0000" stop="20260513230208 +0000">
+    <title>(LIVE) Bronco Studios</title>
     <category>Movie</category>
+    <desc>Award-winning sports anchor Jay Tust gives Bronco Nation an inside look at Boise State Athletics</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/d3fee6f9-a7bd-458b-8866-4594422f23ae/P12_Insider_2000x3000_-_Sean_Kent.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260512134009 +0000" stop="20260512142018 +0000">
-    <title>BRONCO-STUDIOS-LIVE--4-27-26--20260427220038999</title>
-    <category>Movie</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/d3fee6f9-a7bd-458b-8866-4594422f23ae/P12_Insider_2000x3000_-_Sean_Kent.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260513230208 +0000" stop="20260514010025 +0000">
+    <title>Olympic Sports Encore</title>
+    <sub-title>2016 Utah at UCLA</sub-title>
+    <episode-num system="onscreen">S04E10</episode-num>
+    <desc>Sophina DeJesus' 'Salute' floor exercise at Pauley Pavilion becomes an instant UCLA viral sensation (2/6/16).</desc>
+    <date>20230129</date>
+    <icon src="https://d2jrooo0uvo7kr.cloudfront.net/pac_default.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260512142018 +0000" stop="20260512150026 +0000">
-    <title>BRONCO-STUDIOS-LIVE--4-27-26--20260427220038999</title>
-    <category>Movie</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/d3fee6f9-a7bd-458b-8866-4594422f23ae/P12_Insider_2000x3000_-_Sean_Kent.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260514010025 +0000" stop="20260514024025 +0000">
+    <title>Women's Gymnastics Encore</title>
+    <sub-title>2016 Oregon State at UCLA</sub-title>
+    <episode-num system="onscreen">S04E14</episode-num>
+    <desc>Sophina DeJesus &amp; Danusia Francis lead UCLA with fantastic performances on beam vs. Oregon State (2/13/16).</desc>
+    <date>20230116</date>
+    <icon src="https://d2jrooo0uvo7kr.cloudfront.net/pac_default.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260512150026 +0000" stop="20260512154035 +0000">
-    <title>BRONCO-STUDIOS-LIVE--4-27-26--20260427220038999</title>
-    <category>Movie</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/d3fee6f9-a7bd-458b-8866-4594422f23ae/P12_Insider_2000x3000_-_Sean_Kent.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260512154035 +0000" stop="20260512163009 +0000">
-    <title>BRONCO-STUDIOS-LIVE--4-27-26--20260427220038999</title>
-    <category>Movie</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/d3fee6f9-a7bd-458b-8866-4594422f23ae/P12_Insider_2000x3000_-_Sean_Kent.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260512163009 +0000" stop="20260512183010 +0000">
-    <title>Baseball</title>
-    <sub-title>Hawai'i at #6 Oregon State (4/26/26)</sub-title>
-    <episode-num system="onscreen">S14E15</episode-num>
-    <desc>Eric Segura 6 IP, 1 R, Nyan Hayes 2-run HR in 7th propels Oregon State to 3-1 win vs. Hawai'i</desc>
-    <date>20260426</date>
-    <icon src="https://pac-12.com/images/2026/4/1/4_26_26_BSB_HAW_OSU.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260512183010 +0000" stop="20260512203012 +0000">
-    <title>Baseball</title>
-    <sub-title>Hawai'i at #6 Oregon State (4/24/26)</sub-title>
-    <episode-num system="onscreen">S14E13</episode-num>
-    <desc>Dax Whitney 6 2/3 IP, 3 ER, 7 K, Adam Haight 3-run HR power Oregon State Beavers to 12-4 win vs. Hawai'i</desc>
-    <date>20260424</date>
-    <icon src="https://pac-12.com/images/2026/4/1/4_24_26_BSB_HAW_OSU.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260512203012 +0000" stop="20260512223031 +0000">
-    <title>Baseball</title>
-    <sub-title>Hawai'i at #6 Oregon State (4/26/26)</sub-title>
-    <episode-num system="onscreen">S14E15</episode-num>
-    <desc>Eric Segura 6 IP, 1 R, Nyan Hayes 2-run HR in 7th propels Oregon State to 3-1 win vs. Hawai'i</desc>
-    <date>20260426</date>
-    <icon src="https://pac-12.com/images/2026/4/1/4_26_26_BSB_HAW_OSU.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260512223031 +0000" stop="20260513003038 +0000">
-    <title>Baseball</title>
-    <sub-title>Hawai'i at #6 Oregon State (4/25/26)</sub-title>
-    <episode-num system="onscreen">S14E14</episode-num>
-    <desc>Tyler Inge 3-4, 2 RBI and Ethan Kleinschmit 5 IP, 3 H, 1 ER, 5 K in Oregon State 8-1 win vs. Hawai'i</desc>
-    <date>20260425</date>
-    <icon src="https://pac-12.com/images/2026/4/1/4_25_26_BSB_HAW_OSU.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260513003038 +0000" stop="20260513033101 +0000">
-    <title>LIVE-Baseball--Portland-at-Oregon-State--5-12-26--20260513003038999</title>
-    <category>Movie</category>
-    <desc>LIVE-Baseball--Portland-at-Oregon-State--5-12-26--20260513003038999</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/d3fee6f9-a7bd-458b-8866-4594422f23ae/P12_Insider_2000x3000_-_Sean_Kent.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260514024025 +0000" stop="20260514040012 +0000">
+    <title>Olympic Sports Encore</title>
+    <sub-title>2017 North Carolina at UCLA</sub-title>
+    <episode-num system="onscreen">S05E27</episode-num>
+    <desc>Christine Peng-Peng Lee perfect 10 on bars, Katelyn Ohashi perfect 10 on balance beam as UCLA defeats UNC.</desc>
+    <date>20220316</date>
+    <icon src="https://d2jrooo0uvo7kr.cloudfront.net/pac_default.jpg" />
   </programme>
   
 </tv>
