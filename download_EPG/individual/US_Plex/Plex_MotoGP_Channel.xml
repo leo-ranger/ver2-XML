@@ -5,58 +5,6 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/d5b19340-b4d9-498d-8f89-2a69bc30fc4b/MotoGPChannel_1500x1000_logo_for_dark_bgd_-_Eddie_Hunter-Higgins.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260515100000 +0000" stop="20260515110000 +0000">
-    <title>2025 MotoE</title>
-    <sub-title>Catalonia Grand Prix: MotoE Race 1</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Just when you think you have seen it all MotoE shows how much more there is to go in this sport!</desc>
-    <date>20250514</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/2025MotoE.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260515110000 +0000" stop="20260515140000 +0000">
-    <title>LIVE: 2026 MotoGP Catalonia Practice</title>
-    <category>Movie</category>
-    <desc>It's go time for the riders as the practice sessions get underway in the Barcelona.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/067fbaa8-d405-4a1e-bb9d-3417d96b4f76/MotoGPChannel_vertical_art_2000x3000_-_Eddie_Hunter-Higgins.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260515140000 +0000" stop="20260515160713 +0000">
-    <title>MotoGP 2015</title>
-    <sub-title>Catalan Grand Prix: Full Race</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Barcelona plays host to late-braking lunges and finely tuned aggression.</desc>
-    <date>20250514</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP2015.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260515160713 +0000" stop="20260515181954 +0000">
-    <title>MotoGP 2017</title>
-    <sub-title>Catalan Grand Prix: Full Race</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Barcelona brings track tweaks and bold overtakes in another Catalan chess match.</desc>
-    <date>20250514</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP2017.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260515181954 +0000" stop="20260515203010 +0000">
-    <title>MotoGP 2020</title>
-    <sub-title>Catalan Grand Prix: Full Race</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Barcelona hosts a tyre-limited battle, where every lap is a game of preservation.</desc>
-    <date>20250514</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP2020.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260515203010 +0000" stop="20260515231047 +0000">
-    <title>MotoGP 2023</title>
-    <sub-title>Catalan Grand Prix: Full Race</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>A chaotic start shakes up Catalunya, but calm minds carve out clinical rides.</desc>
-    <date>20250514</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP2023.png" />
-  </programme>
-  
 <programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260515231047 +0000" stop="20260516014252 +0000">
     <title>MotoGP 2024</title>
     <sub-title>Catalan Grand Prix: Full Race</sub-title>
@@ -73,6 +21,94 @@
     <desc>The breathtaking events of sprint Saturday, the cards look marked but this is racing &amp; anything can happen!</desc>
     <date>20250514</date>
     <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP2025.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260516035633 +0000" stop="20260516043850 +0000">
+    <title>2026 French Grand Prix: Moto3 Qualifying 1</title>
+    <category>Movie</category>
+    <desc>Winds threaten to arrive as racers compete in Q1.</desc>
+    <date>20260514</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/067fbaa8-d405-4a1e-bb9d-3417d96b4f76/MotoGPChannel_vertical_art_2000x3000_-_Eddie_Hunter-Higgins.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260516043850 +0000" stop="20260516052456 +0000">
+    <title>LIVE: 2026 French Moto2 &amp; Moto3 Qualifying</title>
+    <category>Movie</category>
+    <desc>The lights are out and the action begins as Moto2 and Moto3 Qualifying gets underway.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/067fbaa8-d405-4a1e-bb9d-3417d96b4f76/MotoGPChannel_vertical_art_2000x3000_-_Eddie_Hunter-Higgins.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260516052456 +0000" stop="20260516064000 +0000">
+    <title>2026 Moto 3</title>
+    <sub-title>2026 French Grand Prix: Moto2 Race</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>With some suprises on the grid, Le Mans promises an action packed Moto2 Race.</desc>
+    <date>20260514</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/Moto3_2026.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260516064000 +0000" stop="20260516094000 +0000">
+    <title>LIVE: 2026 MotoGP Catalonia Qualifying</title>
+    <category>Movie</category>
+    <desc>The sun is out and the heat is on as the MotoGP qualifying begins.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/067fbaa8-d405-4a1e-bb9d-3417d96b4f76/MotoGPChannel_vertical_art_2000x3000_-_Eddie_Hunter-Higgins.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260516094000 +0000" stop="20260516100000 +0000">
+    <title>2025 MotoE</title>
+    <sub-title>Catalonia Grand Prix: MotoE Race 2</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>After a sensational Race 1 the stage is set and the title race is very much alive!</desc>
+    <date>20250514</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/2025MotoE.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260516100000 +0000" stop="20260516120000 +0000">
+    <title>To Be Announced</title>
+    <category>Movie</category>
+    <desc>Program information is not yet available</desc>
+    <date>20260101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/067fbaa8-d405-4a1e-bb9d-3417d96b4f76/MotoGPChannel_vertical_art_2000x3000_-_Eddie_Hunter-Higgins.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260516120000 +0000" stop="20260516150000 +0000">
+    <title>To Be Announced</title>
+    <category>Movie</category>
+    <desc>Program information is not yet available</desc>
+    <date>20260101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/067fbaa8-d405-4a1e-bb9d-3417d96b4f76/MotoGPChannel_vertical_art_2000x3000_-_Eddie_Hunter-Higgins.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260516150000 +0000" stop="20260516180000 +0000">
+    <title>To Be Announced</title>
+    <category>Movie</category>
+    <desc>Program information is not yet available</desc>
+    <date>20260101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/067fbaa8-d405-4a1e-bb9d-3417d96b4f76/MotoGPChannel_vertical_art_2000x3000_-_Eddie_Hunter-Higgins.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260516180000 +0000" stop="20260516210000 +0000">
+    <title>To Be Announced</title>
+    <category>Movie</category>
+    <desc>Program information is not yet available</desc>
+    <date>20260101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/067fbaa8-d405-4a1e-bb9d-3417d96b4f76/MotoGPChannel_vertical_art_2000x3000_-_Eddie_Hunter-Higgins.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260516210000 +0000" stop="20260517000000 +0000">
+    <title>To Be Announced</title>
+    <category>Movie</category>
+    <desc>Program information is not yet available</desc>
+    <date>20260101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/067fbaa8-d405-4a1e-bb9d-3417d96b4f76/MotoGPChannel_vertical_art_2000x3000_-_Eddie_Hunter-Higgins.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260517000000 +0000" stop="20260517030000 +0000">
+    <title>To Be Announced</title>
+    <category>Movie</category>
+    <desc>Program information is not yet available</desc>
+    <date>20260101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/067fbaa8-d405-4a1e-bb9d-3417d96b4f76/MotoGPChannel_vertical_art_2000x3000_-_Eddie_Hunter-Higgins.jpg" />
   </programme>
   
 </tv>
