@@ -5,229 +5,184 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/45a16f23-86c2-4853-bcb6-c462b96d7959/MilitaryHeroes-Channel-Logo-_Light_-1500x1000px.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260519021629 +0000" stop="20260519040002 +0000">
-    <title>D-Day: The Untold Stories</title>
-    <sub-title>D-Day: The Untold Stories</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260520030801 +0000" stop="20260520040002 +0000">
+    <title>Forged in Fire</title>
+    <sub-title>Armed Forces Tournament Finale</sub-title>
+    <episode-num system="onscreen">S08E31</episode-num>
+    <desc>The four surviving smiths will face off to determine who wins it all.</desc>
+    <date>20210714</date>
+    <icon src="https://image.tmdb.org/t/p/original/Ak8Ts7ktceIWSArkD6Ajh1vYFip.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260520040002 +0000" stop="20260520045044 +0000">
+    <title>Forged in Fire</title>
+    <sub-title>Armed Forces Tournament Part 1</sub-title>
+    <episode-num system="onscreen">S08E29</episode-num>
+    <desc>Eight armed forces members redeploy to the forge for a three-part tournament.</desc>
+    <date>20210721</date>
+    <icon src="https://image.tmdb.org/t/p/original/y62z5faAJxF70wcP46bv3FJW5xi.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260520045044 +0000" stop="20260520054120 +0000">
+    <title>Forged in Fire</title>
+    <sub-title>Armed Forces Tournament Part 2</sub-title>
+    <episode-num system="onscreen">S08E30</episode-num>
+    <desc>Four U.S. service members redeploy to the forge floor in one five-hour battle.</desc>
+    <date>20210728</date>
+    <icon src="https://image.tmdb.org/t/p/original/6zYH5F8vHAXaaO1MnAtefjmxZSz.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260520054120 +0000" stop="20260520063148 +0000">
+    <title>Forged in Fire: Best Of</title>
+    <sub-title>Championship Short Swords</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Judge Dave Baker revisits five of the most intense championship rounds.</desc>
+    <date>20220601</date>
+    <icon src="https://artworks.thetvdb.com/banners/v4/episode/9185943/screencap/651e173a2113d.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260520063148 +0000" stop="20260520072439 +0000">
+    <title>Forged in Fire</title>
+    <sub-title>Military Tribute</sub-title>
+    <episode-num system="onscreen">S07E09</episode-num>
+    <desc>Four bladesmiths pay tribute in a special military themed competition.</desc>
+    <date>20191113</date>
+    <icon src="https://image.tmdb.org/t/p/original/jeOpxt1BnFJ2H9uDGdlqhodesOg.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260520072439 +0000" stop="20260520081724 +0000">
+    <title>Forged in Fire</title>
+    <sub-title>General Patton's Saber</sub-title>
+    <episode-num system="onscreen">S07E02</episode-num>
+    <desc>Four bladesmiths are tasked with forging a parameter specific blade shape.</desc>
+    <date>20191016</date>
+    <icon src="https://image.tmdb.org/t/p/original/v6EF3fWP3fclQyYjLmu2zt6RcQo.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260520081724 +0000" stop="20260520090802 +0000">
+    <title>Forged in Fire: Best Of</title>
+    <sub-title>Championship Curved Blades</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Dave Baker revisits five of the most intense championship rounds.</desc>
+    <date>20220525</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/dad7bd9d309947071a5e90a5e384c354.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260520090802 +0000" stop="20260520100000 +0000">
+    <title>Forged in Fire</title>
+    <sub-title>Armed Forces Tournament Finale</sub-title>
+    <episode-num system="onscreen">S08E31</episode-num>
+    <desc>The four surviving smiths will face off to determine who wins it all.</desc>
+    <date>20210714</date>
+    <icon src="https://image.tmdb.org/t/p/original/Ak8Ts7ktceIWSArkD6Ajh1vYFip.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260520100000 +0000" stop="20260520114045 +0000">
+    <title>FDR</title>
+    <sub-title>Nothing to Fear</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>WWII Allied invasion key events, honoring all diverse servicemen.</desc>
-    <date>20190602</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/228888_365330_16_9.jpg" />
+    <desc>Franklin Roosevelt guides the nation through this hour of profound crisis.</desc>
+    <date>20230529</date>
+    <icon src="https://image.tmdb.org/t/p/original/re5DJ3OsNXy009pZ8xirswXkJnd.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260519040002 +0000" stop="20260519054232 +0000">
-    <title>D-Day in HD</title>
-    <sub-title>Part 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>70th D-Day Anniversary: HD story with survivor interviews on History.</desc>
-    <date>20140606</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/148116_231429_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260519054232 +0000" stop="20260519063359 +0000">
-    <title>Mail Call</title>
-    <sub-title>D-Day Special</sub-title>
-    <episode-num system="onscreen">S04E14</episode-num>
-    <desc>Host R. Lee Ermey travels to Dover, England, and Normandy, France.</desc>
-    <date>20060307</date>
-    <icon src="https://artworks.thetvdb.com/banners/v4/episode/1602531/screencap/624caebf39cbe.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260519063359 +0000" stop="20260519081628 +0000">
-    <title>Part 2</title>
-    <sub-title>Part 2</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260520114045 +0000" stop="20260520132436 +0000">
+    <title>FDR</title>
+    <sub-title>Rendezvous with Destiny</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
-    <desc>70th D-Day Anniversary: History in HD with rare footage, interviews.</desc>
-    <date>20140607</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/148117_231430_thumb.jpg" />
+    <desc>As Hitler sweeps across Europe, Franklin prepares a reluctant nation for war.</desc>
+    <date>20230530</date>
+    <icon src="https://image.tmdb.org/t/p/original/495lfVjYBLksKMjPIUpYMVZHMS.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260519081628 +0000" stop="20260519100000 +0000">
-    <title>D-Day: The Untold Stories</title>
-    <sub-title>D-Day: The Untold Stories</sub-title>
+<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260520132436 +0000" stop="20260520150730 +0000">
+    <title>FDR</title>
+    <sub-title>Arsenal of Democracy</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Franklin rallies the industrial might of the nation.</desc>
+    <date>20230531</date>
+    <icon src="https://image.tmdb.org/t/p/original/mNO9FBpPuIsO9t0p0FXFcJmio3Z.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260520150730 +0000" stop="20260520160001 +0000">
+    <title>WWII in HD</title>
+    <sub-title>Darkness Falls/Hard Way Back</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>WWII Allied invasion key events, honoring all diverse servicemen.</desc>
-    <date>20190602</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/228888_365330_16_9.jpg" />
+    <desc>As Europe falls under Nazi control, America is unprepared for war.</desc>
+    <date>20091115</date>
+    <icon src="https://image.tmdb.org/t/p/original/i34avBeyXQ06FRG25uAIqjepRxG.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260519100000 +0000" stop="20260519105041 +0000">
-    <title>Forged in Fire</title>
-    <sub-title>Armed Forces Tournament Part 1</sub-title>
-    <episode-num system="onscreen">S08E29</episode-num>
-    <desc>Eight armed forces members redeploy to the forge for a three-part tournament.</desc>
-    <date>20210721</date>
-    <icon src="https://image.tmdb.org/t/p/original/y62z5faAJxF70wcP46bv3FJW5xi.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260520160001 +0000" stop="20260520174046 +0000">
+    <title>FDR</title>
+    <sub-title>Nothing to Fear</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Franklin Roosevelt guides the nation through this hour of profound crisis.</desc>
+    <date>20230529</date>
+    <icon src="https://image.tmdb.org/t/p/original/re5DJ3OsNXy009pZ8xirswXkJnd.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260519105041 +0000" stop="20260519114118 +0000">
-    <title>Forged in Fire</title>
-    <sub-title>Armed Forces Tournament Part 2</sub-title>
-    <episode-num system="onscreen">S08E30</episode-num>
-    <desc>Four U.S. service members redeploy to the forge floor in one five-hour battle.</desc>
-    <date>20210728</date>
-    <icon src="https://image.tmdb.org/t/p/original/6zYH5F8vHAXaaO1MnAtefjmxZSz.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260520174046 +0000" stop="20260520192437 +0000">
+    <title>FDR</title>
+    <sub-title>Rendezvous with Destiny</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>As Hitler sweeps across Europe, Franklin prepares a reluctant nation for war.</desc>
+    <date>20230530</date>
+    <icon src="https://image.tmdb.org/t/p/original/495lfVjYBLksKMjPIUpYMVZHMS.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260519114118 +0000" stop="20260519123146 +0000">
-    <title>Forged in Fire: Best Of</title>
-    <sub-title>Championship Short Swords</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Judge Dave Baker revisits five of the most intense championship rounds.</desc>
-    <date>20220601</date>
-    <icon src="https://artworks.thetvdb.com/banners/v4/episode/9185943/screencap/651e173a2113d.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260520192437 +0000" stop="20260520210730 +0000">
+    <title>FDR</title>
+    <sub-title>Arsenal of Democracy</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Franklin rallies the industrial might of the nation.</desc>
+    <date>20230531</date>
+    <icon src="https://image.tmdb.org/t/p/original/mNO9FBpPuIsO9t0p0FXFcJmio3Z.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260519123146 +0000" stop="20260519132436 +0000">
-    <title>Forged in Fire</title>
-    <sub-title>Military Tribute</sub-title>
-    <episode-num system="onscreen">S07E09</episode-num>
-    <desc>Four bladesmiths pay tribute in a special military themed competition.</desc>
-    <date>20191113</date>
-    <icon src="https://image.tmdb.org/t/p/original/jeOpxt1BnFJ2H9uDGdlqhodesOg.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260520210730 +0000" stop="20260520220002 +0000">
+    <title>WWII in HD</title>
+    <sub-title>Darkness Falls/Hard Way Back</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>As Europe falls under Nazi control, America is unprepared for war.</desc>
+    <date>20091115</date>
+    <icon src="https://image.tmdb.org/t/p/original/i34avBeyXQ06FRG25uAIqjepRxG.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260519132436 +0000" stop="20260519141722 +0000">
-    <title>Forged in Fire</title>
-    <sub-title>General Patton's Saber</sub-title>
-    <episode-num system="onscreen">S07E02</episode-num>
-    <desc>Four bladesmiths are tasked with forging a parameter specific blade shape.</desc>
-    <date>20191016</date>
-    <icon src="https://image.tmdb.org/t/p/original/v6EF3fWP3fclQyYjLmu2zt6RcQo.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260520220002 +0000" stop="20260520234047 +0000">
+    <title>FDR</title>
+    <sub-title>Nothing to Fear</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Franklin Roosevelt guides the nation through this hour of profound crisis.</desc>
+    <date>20230529</date>
+    <icon src="https://image.tmdb.org/t/p/original/re5DJ3OsNXy009pZ8xirswXkJnd.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260519141722 +0000" stop="20260519150759 +0000">
-    <title>Forged in Fire: Best Of</title>
-    <sub-title>Championship Curved Blades</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Dave Baker revisits five of the most intense championship rounds.</desc>
-    <date>20220525</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/dad7bd9d309947071a5e90a5e384c354.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260520234047 +0000" stop="20260521012438 +0000">
+    <title>FDR</title>
+    <sub-title>Rendezvous with Destiny</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>As Hitler sweeps across Europe, Franklin prepares a reluctant nation for war.</desc>
+    <date>20230530</date>
+    <icon src="https://image.tmdb.org/t/p/original/495lfVjYBLksKMjPIUpYMVZHMS.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260519150759 +0000" stop="20260519160000 +0000">
-    <title>Forged in Fire</title>
-    <sub-title>Armed Forces Tournament Finale</sub-title>
-    <episode-num system="onscreen">S08E31</episode-num>
-    <desc>The four surviving smiths will face off to determine who wins it all.</desc>
-    <date>20210714</date>
-    <icon src="https://image.tmdb.org/t/p/original/Ak8Ts7ktceIWSArkD6Ajh1vYFip.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260521012438 +0000" stop="20260521030731 +0000">
+    <title>FDR</title>
+    <sub-title>Arsenal of Democracy</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Franklin rallies the industrial might of the nation.</desc>
+    <date>20230531</date>
+    <icon src="https://image.tmdb.org/t/p/original/mNO9FBpPuIsO9t0p0FXFcJmio3Z.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260519160000 +0000" stop="20260519165042 +0000">
-    <title>Forged in Fire</title>
-    <sub-title>Armed Forces Tournament Part 1</sub-title>
-    <episode-num system="onscreen">S08E29</episode-num>
-    <desc>Eight armed forces members redeploy to the forge for a three-part tournament.</desc>
-    <date>20210721</date>
-    <icon src="https://image.tmdb.org/t/p/original/y62z5faAJxF70wcP46bv3FJW5xi.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260519165042 +0000" stop="20260519174118 +0000">
-    <title>Forged in Fire</title>
-    <sub-title>Armed Forces Tournament Part 2</sub-title>
-    <episode-num system="onscreen">S08E30</episode-num>
-    <desc>Four U.S. service members redeploy to the forge floor in one five-hour battle.</desc>
-    <date>20210728</date>
-    <icon src="https://image.tmdb.org/t/p/original/6zYH5F8vHAXaaO1MnAtefjmxZSz.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260519174118 +0000" stop="20260519183146 +0000">
-    <title>Forged in Fire: Best Of</title>
-    <sub-title>Championship Short Swords</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Judge Dave Baker revisits five of the most intense championship rounds.</desc>
-    <date>20220601</date>
-    <icon src="https://artworks.thetvdb.com/banners/v4/episode/9185943/screencap/651e173a2113d.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260519183146 +0000" stop="20260519192437 +0000">
-    <title>Forged in Fire</title>
-    <sub-title>Military Tribute</sub-title>
-    <episode-num system="onscreen">S07E09</episode-num>
-    <desc>Four bladesmiths pay tribute in a special military themed competition.</desc>
-    <date>20191113</date>
-    <icon src="https://image.tmdb.org/t/p/original/jeOpxt1BnFJ2H9uDGdlqhodesOg.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260519192437 +0000" stop="20260519201722 +0000">
-    <title>Forged in Fire</title>
-    <sub-title>General Patton's Saber</sub-title>
-    <episode-num system="onscreen">S07E02</episode-num>
-    <desc>Four bladesmiths are tasked with forging a parameter specific blade shape.</desc>
-    <date>20191016</date>
-    <icon src="https://image.tmdb.org/t/p/original/v6EF3fWP3fclQyYjLmu2zt6RcQo.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260519201722 +0000" stop="20260519210800 +0000">
-    <title>Forged in Fire: Best Of</title>
-    <sub-title>Championship Curved Blades</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Dave Baker revisits five of the most intense championship rounds.</desc>
-    <date>20220525</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/dad7bd9d309947071a5e90a5e384c354.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260519210800 +0000" stop="20260519220001 +0000">
-    <title>Forged in Fire</title>
-    <sub-title>Armed Forces Tournament Finale</sub-title>
-    <episode-num system="onscreen">S08E31</episode-num>
-    <desc>The four surviving smiths will face off to determine who wins it all.</desc>
-    <date>20210714</date>
-    <icon src="https://image.tmdb.org/t/p/original/Ak8Ts7ktceIWSArkD6Ajh1vYFip.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260519220001 +0000" stop="20260519225043 +0000">
-    <title>Forged in Fire</title>
-    <sub-title>Armed Forces Tournament Part 1</sub-title>
-    <episode-num system="onscreen">S08E29</episode-num>
-    <desc>Eight armed forces members redeploy to the forge for a three-part tournament.</desc>
-    <date>20210721</date>
-    <icon src="https://image.tmdb.org/t/p/original/y62z5faAJxF70wcP46bv3FJW5xi.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260519225043 +0000" stop="20260519234119 +0000">
-    <title>Forged in Fire</title>
-    <sub-title>Armed Forces Tournament Part 2</sub-title>
-    <episode-num system="onscreen">S08E30</episode-num>
-    <desc>Four U.S. service members redeploy to the forge floor in one five-hour battle.</desc>
-    <date>20210728</date>
-    <icon src="https://image.tmdb.org/t/p/original/6zYH5F8vHAXaaO1MnAtefjmxZSz.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260519234119 +0000" stop="20260520003147 +0000">
-    <title>Forged in Fire: Best Of</title>
-    <sub-title>Championship Short Swords</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Judge Dave Baker revisits five of the most intense championship rounds.</desc>
-    <date>20220601</date>
-    <icon src="https://artworks.thetvdb.com/banners/v4/episode/9185943/screencap/651e173a2113d.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260520003147 +0000" stop="20260520012438 +0000">
-    <title>Forged in Fire</title>
-    <sub-title>Military Tribute</sub-title>
-    <episode-num system="onscreen">S07E09</episode-num>
-    <desc>Four bladesmiths pay tribute in a special military themed competition.</desc>
-    <date>20191113</date>
-    <icon src="https://image.tmdb.org/t/p/original/jeOpxt1BnFJ2H9uDGdlqhodesOg.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260520012438 +0000" stop="20260520021723 +0000">
-    <title>Forged in Fire</title>
-    <sub-title>General Patton's Saber</sub-title>
-    <episode-num system="onscreen">S07E02</episode-num>
-    <desc>Four bladesmiths are tasked with forging a parameter specific blade shape.</desc>
-    <date>20191016</date>
-    <icon src="https://image.tmdb.org/t/p/original/v6EF3fWP3fclQyYjLmu2zt6RcQo.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260520021723 +0000" stop="20260520030801 +0000">
-    <title>Forged in Fire: Best Of</title>
-    <sub-title>Championship Curved Blades</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Dave Baker revisits five of the most intense championship rounds.</desc>
-    <date>20220525</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/dad7bd9d309947071a5e90a5e384c354.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" start="20260521030731 +0000" stop="20260521040003 +0000">
+    <title>WWII in HD</title>
+    <sub-title>Darkness Falls/Hard Way Back</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>As Europe falls under Nazi control, America is unprepared for war.</desc>
+    <date>20091115</date>
+    <icon src="https://image.tmdb.org/t/p/original/i34avBeyXQ06FRG25uAIqjepRxG.jpg" />
   </programme>
   
 </tv>
