@@ -5,7 +5,48 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/1a0bf145-a80f-4dd5-8134-ecb3975c389f/CM-Plex-dark_logo-CanelaTV-narco_drama_-_Natalia_Rodriguez.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260521010520 +0000" stop="20260521020734 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260522020938 +0000" stop="20260522040000 +0000">
+    <title>El Justiciero</title>
+    <category>Movie</category>
+    <desc>Un hombre común decide enfrentar al crimen por su cuenta.</desc>
+    <date>20190102</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/3fa3b812a2f784ddfecfe0cb0036d6097b6681e8_2x3.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260522040000 +0000" stop="20260522053415 +0000">
+    <title>El Justiciero 2</title>
+    <category>Movie</category>
+    <desc>Roberto continúa enfrentándose al crimen por su cuenta.</desc>
+    <date>20200102</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/8109251bb8d0ed6c4bb24bf3cd5511d5322da5b9_2x3.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260522053415 +0000" stop="20260522071452 +0000">
+    <title>Operativo de Guerra</title>
+    <category>Movie</category>
+    <desc>Mireles y sus sicarios defienden la plaza a sangre y fuego.</desc>
+    <date>20240120</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/96694be0173191a432a567d066a53f2cf9e0a17f_2x3.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260522071452 +0000" stop="20260522085308 +0000">
+    <title>Despedida de Narcos</title>
+    <category>Movie</category>
+    <desc>Un último encargo arrastra a criminales a un destino fatal.</desc>
+    <date>20020102</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/401b4b296fe612d53c1b958e7224ec50000e5b16_2x3.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260522085308 +0000" stop="20260522095519 +0000">
+    <title>Narco Impacto</title>
+    <sub-title>El Terror De "El Mencho"</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>La historia del poder, alcance y terror que genera el CJNG en México.</desc>
+    <date>20230101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/78759e93-9c02-40ca-bd75-46e50b930cb3_ctv-narco_impacto-16x9_2.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260522095519 +0000" stop="20260522110748 +0000">
     <title>Narco Impacto</title>
     <sub-title>La Ruta de la Muerte</sub-title>
     <episode-num system="onscreen">S01E05</episode-num>
@@ -14,102 +55,34 @@
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/78759e93-9c02-40ca-bd75-46e50b930cb3_ctv-narco_impacto-16x9_2.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260521020734 +0000" stop="20260521040130 +0000">
-    <title>Brindis Mortal</title>
-    <category>Movie</category>
-    <desc>El hijo de un poderoso narco, anhela convertirse en la mano derecha de su padre.</desc>
-    <date>20230217</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/216bac933ca19d449bbb4b3ac2257b04cd6b9f94_2x3.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260521040130 +0000" stop="20260521054313 +0000">
-    <title>El Justiciero</title>
-    <category>Movie</category>
-    <desc>Un hombre común decide enfrentar al crimen por su cuenta.</desc>
-    <date>20190102</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/3fa3b812a2f784ddfecfe0cb0036d6097b6681e8_2x3.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260521054313 +0000" stop="20260521072606 +0000">
-    <title>El Justiciero 2</title>
-    <category>Movie</category>
-    <desc>Roberto continúa enfrentándose al crimen por su cuenta.</desc>
-    <date>20200102</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/8109251bb8d0ed6c4bb24bf3cd5511d5322da5b9_2x3.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260521072606 +0000" stop="20260521090449 +0000">
-    <title>Fiesta en la Sierra</title>
-    <category>Movie</category>
-    <desc>Una fiesta se convierte en el escenario perfecto para un ajuste de cuentas.</desc>
-    <date>20230102</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/3b087cadedf2d0a63393e0050417f81224844342_2x3.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260521090449 +0000" stop="20260521100801 +0000">
-    <title>Narco Impacto</title>
-    <sub-title>El Poder De “El Chapo”</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>La guerra del narcotráfico en México.</desc>
-    <date>20230101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/78759e93-9c02-40ca-bd75-46e50b930cb3_ctv-narco_impacto-16x9_2.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260521100801 +0000" stop="20260521112137 +0000">
-    <title>Narco Impacto</title>
-    <sub-title>México: Gran Fosa Clandestina</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Guerrero es "La Joya Del Pacífico", zona de cultivos de marihuana y amapola.</desc>
-    <date>20230101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/78759e93-9c02-40ca-bd75-46e50b930cb3_ctv-narco_impacto-16x9_2.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260521112137 +0000" stop="20260521121327 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260522110748 +0000" stop="20260522115819 +0000">
     <title>Confidencial</title>
-    <sub-title>Porque Te Quiero, Te Mato Parte 3</sub-title>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <desc>Alejandra decide denunciar a Gerardo.</desc>
+    <sub-title>El Informante Parte 1</sub-title>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <desc>Un grave accidente toma lugar.</desc>
     <date>20110208</date>
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/367948efd3f987ce8cc706132f7ac021a92e11cd_16x9.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260521121327 +0000" stop="20260521130559 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260522115819 +0000" stop="20260522124836 +0000">
     <title>Confidencial</title>
-    <sub-title>Porque Te Quiero, Te Mato Parte 4</sub-title>
-    <episode-num system="onscreen">S01E14</episode-num>
-    <desc>Gerardo recae e intenta lo peor.</desc>
+    <sub-title>El Informante Parte 2</sub-title>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <desc>Amenazas y mas sorpresas.</desc>
     <date>20110208</date>
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/367948efd3f987ce8cc706132f7ac021a92e11cd_16x9.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260521130559 +0000" stop="20260521140403 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260522124836 +0000" stop="20260522134440 +0000">
     <title>Confidencial</title>
-    <sub-title>Porque Te Quiero, Te Mato Parte 5</sub-title>
-    <episode-num system="onscreen">S01E15</episode-num>
-    <desc>Alejandra se decide a alejarse de Gerardo.</desc>
+    <sub-title>El Informante Parte 3</sub-title>
+    <episode-num system="onscreen">S01E18</episode-num>
+    <desc>Maruja logra poner a salvo a su familia.</desc>
     <date>20110208</date>
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/367948efd3f987ce8cc706132f7ac021a92e11cd_16x9.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260521140403 +0000" stop="20260521145626 +0000">
-    <title>Fugitivos</title>
-    <sub-title>Amor Con Engaños</sub-title>
-    <episode-num system="onscreen">S01E19</episode-num>
-    <desc>Julián intenta comunicare con sus seres queridos.</desc>
-    <date>20140101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/d56fb5e2-5f63-4546-8622-d38cb54687bf_fugitivos_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260521145626 +0000" stop="20260521154849 +0000">
-    <title>Fugitivos</title>
-    <sub-title>Un Gran Encuentro</sub-title>
-    <episode-num system="onscreen">S01E20</episode-num>
-    <desc>Ricardo continúa untándose las manos.</desc>
-    <date>20140101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/d56fb5e2-5f63-4546-8622-d38cb54687bf_fugitivos_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260521154849 +0000" stop="20260521164923 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260522134440 +0000" stop="20260522143804 +0000">
     <title>Fugitivos</title>
     <sub-title>Escape Exitoso</sub-title>
     <episode-num system="onscreen">S01E21</episode-num>
@@ -118,16 +91,25 @@
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/d56fb5e2-5f63-4546-8622-d38cb54687bf_fugitivos_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260521164923 +0000" stop="20260521174457 +0000">
-    <title>La Teniente</title>
-    <sub-title>Responsabilidades</sub-title>
-    <episode-num system="onscreen">S01E18</episode-num>
-    <desc>La inteligencia conlleva grandes responsabilidades</desc>
-    <date>20120101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/7276523d-87b3-41d7-8e0c-35a4663e1255_canela_1920x1080_jul23.jpg" />
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260522143804 +0000" stop="20260522153127 +0000">
+    <title>Fugitivos</title>
+    <sub-title>Encuentro Inesperado</sub-title>
+    <episode-num system="onscreen">S01E22</episode-num>
+    <desc>Steve, aprovecha la ausencia de Julián.</desc>
+    <date>20140101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/d56fb5e2-5f63-4546-8622-d38cb54687bf_fugitivos_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260521174457 +0000" stop="20260521183511 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260522153127 +0000" stop="20260522163201 +0000">
+    <title>Fugitivos</title>
+    <sub-title>Engañando Al Enemigo</sub-title>
+    <episode-num system="onscreen">S01E23</episode-num>
+    <desc>Julián no tiene más opción que contactar a la DLA.</desc>
+    <date>20140101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/d56fb5e2-5f63-4546-8622-d38cb54687bf_fugitivos_16x9.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260522163201 +0000" stop="20260522172215 +0000">
     <title>La Teniente</title>
     <sub-title>El Desertor</sub-title>
     <episode-num system="onscreen">S01E19</episode-num>
@@ -136,7 +118,7 @@
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/7276523d-87b3-41d7-8e0c-35a4663e1255_canela_1920x1080_jul23.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260521183511 +0000" stop="20260521193921 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260522172215 +0000" stop="20260522181324 +0000">
     <title>La Teniente</title>
     <sub-title>Evidencias</sub-title>
     <episode-num system="onscreen">S01E20</episode-num>
@@ -145,25 +127,25 @@
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/7276523d-87b3-41d7-8e0c-35a4663e1255_canela_1920x1080_jul23.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260521193921 +0000" stop="20260521203225 +0000">
-    <title>El Encantador</title>
-    <sub-title>Reportaje</sub-title>
-    <episode-num system="onscreen">S01E27</episode-num>
-    <desc>Luisa y Rolando comienzan una relación de amantes.</desc>
-    <date>20100101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/b8e59f47a3883903978669253bf17be5fd53bc5b_16x9.png" />
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260522181324 +0000" stop="20260522185603 +0000">
+    <title>La Teniente</title>
+    <sub-title>Pelotón Serpiente</sub-title>
+    <episode-num system="onscreen">S01E21</episode-num>
+    <desc>Torreblanca reincorpora a la Teniente al Pelotón Serpiente.</desc>
+    <date>20120101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/7276523d-87b3-41d7-8e0c-35a4663e1255_canela_1920x1080_jul23.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260521203225 +0000" stop="20260521212723 +0000">
-    <title>El Encantador</title>
-    <sub-title>Representante Legal</sub-title>
-    <episode-num system="onscreen">S01E28</episode-num>
-    <desc>Victoria se niega a los sobornos de Rolando.</desc>
-    <date>20100101</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/b8e59f47a3883903978669253bf17be5fd53bc5b_16x9.png" />
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260522185603 +0000" stop="20260522194414 +0000">
+    <title>La Teniente</title>
+    <sub-title>Reygadas</sub-title>
+    <episode-num system="onscreen">S01E22</episode-num>
+    <desc>Reygadas destruye todo rastro antes de que lleguen.</desc>
+    <date>20120101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/7276523d-87b3-41d7-8e0c-35a4663e1255_canela_1920x1080_jul23.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260521212723 +0000" stop="20260521223024 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260522194414 +0000" stop="20260522203735 +0000">
     <title>El Encantador</title>
     <sub-title>Ayuda</sub-title>
     <episode-num system="onscreen">S01E29</episode-num>
@@ -172,25 +154,25 @@
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/b8e59f47a3883903978669253bf17be5fd53bc5b_16x9.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260521223024 +0000" stop="20260521232101 +0000">
-    <title>Ruta 35</title>
-    <sub-title>Marina</sub-title>
-    <episode-num system="onscreen">S01E54</episode-num>
-    <desc>Marina encara a Tomas</desc>
-    <date>20150318</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/97fa02c7-b97e-43a2-9a6b-606cbf4ce301_16x9.png" />
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260522203735 +0000" stop="20260522213148 +0000">
+    <title>El Encantador</title>
+    <sub-title>Descubierto</sub-title>
+    <episode-num system="onscreen">S01E30</episode-num>
+    <desc>Juan Ignacio intenta suicidarse.</desc>
+    <date>20100101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/b8e59f47a3883903978669253bf17be5fd53bc5b_16x9.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260521232101 +0000" stop="20260522001545 +0000">
-    <title>Ruta 35</title>
-    <sub-title>Salomón y Mercurio</sub-title>
-    <episode-num system="onscreen">S01E55</episode-num>
-    <desc>Salomón y Mercurio atrapan a Tony Morales</desc>
-    <date>20150318</date>
-    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/97fa02c7-b97e-43a2-9a6b-606cbf4ce301_16x9.png" />
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260522213148 +0000" stop="20260522223627 +0000">
+    <title>El Encantador</title>
+    <sub-title>Expuesto</sub-title>
+    <episode-num system="onscreen">S01E31</episode-num>
+    <desc>Luisa descubre quién financia la campaña.</desc>
+    <date>20100101</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/b8e59f47a3883903978669253bf17be5fd53bc5b_16x9.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260522001545 +0000" stop="20260522010627 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260522223627 +0000" stop="20260522232709 +0000">
     <title>Ruta 35</title>
     <sub-title>Venta de Droga</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -199,11 +181,29 @@
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/97fa02c7-b97e-43a2-9a6b-606cbf4ce301_16x9.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260522010627 +0000" stop="20260522020938 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260522232709 +0000" stop="20260523002953 +0000">
+    <title>Ruta 35</title>
+    <sub-title>Información</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Doña Conchita saca información a la madre de Henry</desc>
+    <date>20150318</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/97fa02c7-b97e-43a2-9a6b-606cbf4ce301_16x9.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260523002953 +0000" stop="20260523013056 +0000">
+    <title>Ruta 35</title>
+    <sub-title>Trabajar para los Federales</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Miguel Atencio está trabajando para los federales</desc>
+    <date>20150318</date>
+    <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/97fa02c7-b97e-43a2-9a6b-606cbf4ce301_16x9.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529" start="20260523013056 +0000" stop="20260523023406 +0000">
     <title>Narco Impacto</title>
-    <sub-title>El Poder De “El Chapo”</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>La guerra del narcotráfico en México.</desc>
+    <sub-title>El Terror De "El Mencho"</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>La historia del poder, alcance y terror que genera el CJNG en México.</desc>
     <date>20230101</date>
     <icon src="https://d2stskx618uhui.cloudfront.net/Images/S3/78759e93-9c02-40ca-bd75-46e50b930cb3_ctv-narco_impacto-16x9_2.jpg" />
   </programme>

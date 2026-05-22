@@ -5,23 +5,39 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/df07efa9-4dbf-470b-86d6-c12a4a43d18c/F1Channel_1500x1000_for_dark_bgd_-_Eddie_Hunter-Higgins.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260520234305 +0000" stop="20260521021712 +0000">
-    <title>2017 Canadian Grand Prix</title>
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260522011342 +0000" stop="20260522040026 +0000">
+    <title>2023 Canadian Grand Prix</title>
     <category>Movie</category>
-    <desc>2017 Canadian Grand Prix</desc>
-    <date>20260401</date>
+    <desc>Verstappen dominates in Montreal, securing a commanding win at the 2023 Canadian GP despite late drama!</desc>
+    <date>20251211</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_003.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260522040026 +0000" stop="20260522064821 +0000">
+    <title>F1 2014 Canadian Grand Prix</title>
+    <category>Movie</category>
+    <desc>Ricciardo wins the 2014 Canadian GP in a thrilling race, holding off Mercedes for his first F1 victory!</desc>
+    <date>20240201</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_004.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260522064821 +0000" stop="20260522065835 +0000">
+    <title>Race Highlights - China 2026</title>
+    <category>Movie</category>
+    <desc>Watch the best of the race action from Shanghai.</desc>
+    <date>20260315</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/fc02c426-341e-42f5-a265-18cac9414db7/F1Channel_2000x3000_-_Eddie_Hunter-Higgins.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260521021712 +0000" stop="20260521060839 +0000">
-    <title>F1 2024 Monaco Grand Prix</title>
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260522065835 +0000" stop="20260522070845 +0000">
+    <title>Race Highlights - Japan 2026</title>
     <category>Movie</category>
-    <desc>Leclerc takes a stunning victory in Monaco, holding off fierce rivals in a rain-soaked, dramatic race!</desc>
-    <date>20240528</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_006.png" />
+    <desc>Watch the best of the race action from Suzuka.</desc>
+    <date>20260330</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/fc02c426-341e-42f5-a265-18cac9414db7/F1Channel_2000x3000_-_Eddie_Hunter-Higgins.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260521060839 +0000" stop="20260521085616 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260522070845 +0000" stop="20260522095552 +0000">
     <title>F1 2024 United States Grand Prix</title>
     <category>Movie</category>
     <desc>Leclerc triumphs in Austin with a masterful drive, fending off Verstappen in a thrilling, chaotic race!</desc>
@@ -29,47 +45,23 @@
     <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_002.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260521085616 +0000" stop="20260521093401 +0000">
-    <title>F1 Race in 30 - China 2025</title>
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260522095552 +0000" stop="20260522103331 +0000">
+    <title>F1 Race in 30 - Miami 2025</title>
     <category>Movie</category>
-    <desc>30 minute recap of the 2025 Chinese Grand Prix, Piastri heads McLaren 1-2 as Russell completes podium.</desc>
-    <date>20250324</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_003.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260521093401 +0000" stop="20260521101113 +0000">
-    <title>F1 Race in 30 - Emilia Romagna 2025</title>
-    <category>Movie</category>
-    <desc>30 minute recap of the 2025 Emilia Grand Prix, Verstappen is back on the top spot!</desc>
-    <date>20250519</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_006.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260521101113 +0000" stop="20260521105015 +0000">
-    <title>F1 Race in 30 - Japan 2025</title>
-    <category>Movie</category>
-    <desc>30 minute recap of the 2025 Japanese Grand Prix, Verstappen holds off McLarens for 4th win at Suzuka.</desc>
-    <date>20250406</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_003.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260521105015 +0000" stop="20260521112711 +0000">
-    <title>F1 Race in 30 - Monaco 2025</title>
-    <category>Movie</category>
-    <desc>30 minute recap of the 2025 Monaco Grand Prix, Norris takes his first win at Monaco!</desc>
-    <date>20250526</date>
+    <desc>30 minute recap of the 2025 Miami Grand Prix, Oscar Piastri takes his fourth win this year!</desc>
+    <date>20250505</date>
     <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_004.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260521112711 +0000" stop="20260521120344 +0000">
-    <title>Jolyon Palmer's Anaylsis - Great Britain 2025</title>
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260522103331 +0000" stop="20260522111120 +0000">
+    <title>F1 Race in 30 - Netherlands 2025</title>
     <category>Movie</category>
-    <desc>Join Jolyon in the Studio as he breaks down the 2025 British Grand Prix.</desc>
-    <date>20250709</date>
+    <desc>30 minute recap of the 2025 Dutch Grand Prix, Piastri dominates from pole by a mile!</desc>
+    <date>20250901</date>
     <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_005.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260521120344 +0000" stop="20260521124109 +0000">
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260522111120 +0000" stop="20260522114830 +0000">
     <title>F1 Race in 30 - Saudi Arabia 2025</title>
     <category>Movie</category>
     <desc>30 minute recap of the 2025 Saudi Arabian Grand Prix, Oscar Piastri plays it to perfection.</desc>
@@ -77,100 +69,139 @@
     <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_001.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260521124109 +0000" stop="20260521153938 +0000">
-    <title>F1 2020 Turkish Grand Prix</title>
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260522114830 +0000" stop="20260522125247 +0000">
+    <title>Vettel: More Than A Champion</title>
     <category>Movie</category>
-    <desc>Hamilton clinches his 7th title in a wet and chaotic 2020 Turkish GP, mastering the slippery track!</desc>
+    <desc>Vettel: icon, rebel, mentor. Beyond titles, his legacy fuels F1's soul and future with passion and purpose.</desc>
     <date>20240201</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_006.png" />
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_002.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260521153938 +0000" stop="20260521161617 +0000">
-    <title>F1 Race in 30 - Azerbaijan 2024</title>
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260522125247 +0000" stop="20260522130000 +0000">
+    <title>Tech Talk : What is the compression ratio?</title>
     <category>Movie</category>
-    <desc>30 minute recap of the 2024 Azerbaijan Grand Prix, Sainz and Perez collide on penultimate lap.</desc>
-    <date>20240916</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_004.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260521161617 +0000" stop="20260521165412 +0000">
-    <title>F1 Race in 30 - Azerbaijan 2025</title>
-    <category>Movie</category>
-    <desc>A 30 minute recap of the 2025 Azerbaijan Grand Prix, Verstappen flies to Victory!</desc>
-    <date>20250922</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_004.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260521165412 +0000" stop="20260521192749 +0000">
-    <title>2017 Canadian Grand Prix</title>
-    <category>Movie</category>
-    <desc>2017 Canadian Grand Prix</desc>
-    <date>20260401</date>
+    <desc>The vital compression ratio is all important for engine performance, maximising the fuel efficiency and power. Sam Collins is your guide to this most pressing of topics.</desc>
+    <date>20260222</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/fc02c426-341e-42f5-a265-18cac9414db7/F1Channel_2000x3000_-_Eddie_Hunter-Higgins.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260521192749 +0000" stop="20260521200504 +0000">
-    <title>F1 Race in 30 - China 2025</title>
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260522130000 +0000" stop="20260522134000 +0000">
+    <title>LIVE: Montreal F1A Practice</title>
     <category>Movie</category>
-    <desc>30 minute recap of the 2025 Chinese Grand Prix, Piastri heads McLaren 1-2 as Russell completes podium.</desc>
-    <date>20250324</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_003.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260521200504 +0000" stop="20260521204216 +0000">
-    <title>F1 Race in 30 - Emilia Romagna 2025</title>
-    <category>Movie</category>
-    <desc>30 minute recap of the 2025 Emilia Grand Prix, Verstappen is back on the top spot!</desc>
-    <date>20250519</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_006.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260521204216 +0000" stop="20260521212153 +0000">
-    <title>F1 Race in 30 - Japan 2025</title>
-    <category>Movie</category>
-    <desc>30 minute recap of the 2025 Japanese Grand Prix, Verstappen holds off McLarens for 4th win at Suzuka.</desc>
-    <date>20250406</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_003.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260521212153 +0000" stop="20260521215919 +0000">
-    <title>F1 Race in 30 - Monaco 2025</title>
-    <category>Movie</category>
-    <desc>30 minute recap of the 2025 Monaco Grand Prix, Norris takes his first win at Monaco!</desc>
-    <date>20250526</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_004.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260521215919 +0000" stop="20260521223750 +0000">
-    <title>Jolyon Palmer's Analysis: Classics Brazil 2003</title>
-    <category>Movie</category>
-    <desc>Jolyon Palmer and Jacques Villeneuve discuss the key incidents at a highly chaotic 2003 Brazilian Grand Prix.</desc>
-    <date>20260312</date>
+    <desc>LIVE: Montreal F1A Practice</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/fc02c426-341e-42f5-a265-18cac9414db7/F1Channel_2000x3000_-_Eddie_Hunter-Higgins.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260521223750 +0000" stop="20260521225906 +0000">
-    <title>F1 Icons: Making Ayrton Senna</title>
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260522134000 +0000" stop="20260522135110 +0000">
+    <title>Race Highlights - Japan 2026</title>
     <category>Movie</category>
-    <desc>Ayrton Senna is revered as one of the greatest drivers of all time, but even legends have to start somewhere</desc>
-    <date>20240424</date>
+    <desc>Watch the best of the race action from Suzuka.</desc>
+    <date>20260330</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/fc02c426-341e-42f5-a265-18cac9414db7/F1Channel_2000x3000_-_Eddie_Hunter-Higgins.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260522135110 +0000" stop="20260522140516 +0000">
+    <title>F2 Feature Race Highlights - Miami</title>
+    <category>Movie</category>
+    <desc>Watch the best of the F2 Feature Race action from Miami.</desc>
+    <date>20260504</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/fc02c426-341e-42f5-a265-18cac9414db7/F1Channel_2000x3000_-_Eddie_Hunter-Higgins.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260522140516 +0000" stop="20260522141634 +0000">
+    <title>Sprint Highlights - Miami</title>
+    <category>Movie</category>
+    <desc>Watch the best of the Sprint action from Miami.</desc>
+    <date>20260504</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/fc02c426-341e-42f5-a265-18cac9414db7/F1Channel_2000x3000_-_Eddie_Hunter-Higgins.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260522141634 +0000" stop="20260522143824 +0000">
+    <title>Race Highlights - Miami</title>
+    <category>Movie</category>
+    <desc>Watch the best of the race action from Miami.</desc>
+    <date>20260504</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/fc02c426-341e-42f5-a265-18cac9414db7/F1Channel_2000x3000_-_Eddie_Hunter-Higgins.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260522143824 +0000" stop="20260522172959 +0000">
+    <title>2026 Miami Grand Prix</title>
+    <category>Movie</category>
+    <desc>Race</desc>
+    <date>20260504</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/fc02c426-341e-42f5-a265-18cac9414db7/F1Channel_2000x3000_-_Eddie_Hunter-Higgins.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260522172959 +0000" stop="20260522183446 +0000">
+    <title>Vettel: More Than A Champion</title>
+    <category>Movie</category>
+    <desc>Vettel: icon, rebel, mentor. Beyond titles, his legacy fuels F1's soul and future with passion and purpose.</desc>
+    <date>20240201</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_002.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260522183446 +0000" stop="20260522191211 +0000">
+    <title>F1 Race in 30 - Saudi Arabia 2025</title>
+    <category>Movie</category>
+    <desc>30 minute recap of the 2025 Saudi Arabian Grand Prix, Oscar Piastri plays it to perfection.</desc>
+    <date>20250421</date>
     <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_001.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260521225906 +0000" stop="20260522011342 +0000">
-    <title>F1 2019 Italian Grand Prix</title>
-    <category>Movie</category>
-    <desc>Leclerc stuns with a thrilling victory at Monza, Ferrari’s first since 2010, as Hamilton fights back!</desc>
-    <date>20240716</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_005.png" />
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260522191211 +0000" stop="20260522192203 +0000">
+    <title>Greatest Races</title>
+    <sub-title>Nurburgring 2007- Fernando Alonso</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>2007 European GP, widely considered a classic race due to its chaotic nature and dramatic events.</desc>
+    <date>20240201</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/1500000189_landscape_web.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260522011342 +0000" stop="20260522040026 +0000">
-    <title>2023 Canadian Grand Prix</title>
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260522192203 +0000" stop="20260522193217 +0000">
+    <title>Race Highlights - China 2026</title>
     <category>Movie</category>
-    <desc>Verstappen dominates in Montreal, securing a commanding win at the 2023 Canadian GP despite late drama!</desc>
-    <date>20251211</date>
+    <desc>Watch the best of the race action from Shanghai.</desc>
+    <date>20260315</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/fc02c426-341e-42f5-a265-18cac9414db7/F1Channel_2000x3000_-_Eddie_Hunter-Higgins.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260522193217 +0000" stop="20260522204633 +0000">
+    <title>Race Highlights - Japan 2026</title>
+    <category>Movie</category>
+    <desc>Watch the best of the race action from Suzuka.</desc>
+    <date>20260330</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/fc02c426-341e-42f5-a265-18cac9414db7/F1Channel_2000x3000_-_Eddie_Hunter-Higgins.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260522204633 +0000" stop="20260522220000 +0000">
+    <title>Canadian GP - F1A Race 1 2025</title>
+    <category>Movie</category>
+    <desc>Pin storms to victory in Canada F1 Academy Race 1 after early clash—takes lead in title fight!</desc>
+    <date>20250615</date>
     <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_003.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260522220000 +0000" stop="20260522224000 +0000">
+    <title>LIVE: Montreal F1A Qualifying</title>
+    <category>Movie</category>
+    <desc>LIVE: Montreal F1A Qualifying</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/fc02c426-341e-42f5-a265-18cac9414db7/F1Channel_2000x3000_-_Eddie_Hunter-Higgins.jpg" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260522224000 +0000" stop="20260523012724 +0000">
+    <title>F1 2024 Canadian Grand Prix</title>
+    <category>Movie</category>
+    <desc>Verstappen wins in Montreal after a thrilling battle—chaos, strategy, and drama shake up the grid!</desc>
+    <date>20240611</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_006.png" />
+  </programme>
+  
+<programme channel="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" start="20260523012724 +0000" stop="20260523034836 +0000">
+    <title>F1 2024 Italian Grand Prix</title>
+    <category>Movie</category>
+    <desc>Verstappen dominates Monza, but chaos erupts behind as strategy and fierce battles heat up the race!</desc>
+    <date>20240902</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_004.png" />
   </programme>
   
 </tv>
