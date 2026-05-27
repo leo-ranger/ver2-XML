@@ -1,190 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f">
+<channel id="6a1610bebdf296985fd95603-608aec5fa09205002da4f28f">
     <display-name>Complex TV</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/10b6f3f8-d7b9-492e-a22f-f4c340d62654/PLEX_COMPLEX_White_Logo_1500x1000.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260526023405 +0000" stop="20260526044100 +0000">
-    <title>King of New York</title>
-    <category>Movie</category>
-    <desc>Recently freed from prison, Frank White begins to exterminate the drug lords who rose to power in his absence.</desc>
-    <date>19910105</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260526044100 +0000" stop="20260526064139 +0000">
-    <title>Shottas</title>
-    <category>Movie</category>
-    <desc>Two men from Jamaica begin a ruthless climb to the top of a criminal enterprise in Miami.</desc>
-    <date>20020227</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260526064139 +0000" stop="20260526082543 +0000">
-    <title>Setup</title>
-    <category>Movie</category>
-    <desc>A group of friends become involved in a potentially deadly diamond heist.</desc>
-    <date>20110920</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260526082543 +0000" stop="20260526084250 +0000">
-    <title>Sneaker Shopping</title>
-    <sub-title>Real Madrid's Vini Jr.</sub-title>
-    <episode-num system="onscreen">S21E02</episode-num>
-    <desc>Vini Jr. goes Sneaker Shopping with Joe La Puma, talking favorite pairs and pickups.</desc>
-    <date>20240129</date>
-    <icon src="https://cdn.jwplayer.com/v2/media/jSOjce21/poster.jpg?width=1920" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260526084250 +0000" stop="20260526090311 +0000">
-    <title>Sneaker Shopping</title>
-    <sub-title>Peso Pluma</sub-title>
-    <episode-num system="onscreen">S20E09</episode-num>
-    <desc>Peso Pluma goes Sneaker Shopping with Joe La Puma, talking favorite pairs and pickups.</desc>
-    <date>20230918</date>
-    <icon src="https://cdn.jwplayer.com/v2/media/2AwIEdiK/poster.jpg?width=1920" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260526090311 +0000" stop="20260526091629 +0000">
-    <title>Sneaker Shopping</title>
-    <sub-title>Barcelona's Marcus Rashford</sub-title>
-    <episode-num system="onscreen">S20E02</episode-num>
-    <desc>Marcus Rashford goes Sneaker Shopping with Joe La Puma, talking favorite pairs and latest pickups.</desc>
-    <date>20231113</date>
-    <icon src="https://cdn.jwplayer.com/v2/media/4pvGGf61/poster.jpg?width=1920" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260526091629 +0000" stop="20260526093304 +0000">
-    <title>Sneaker Shopping</title>
-    <sub-title>Christian Pulisic</sub-title>
-    <episode-num system="onscreen">S19E03</episode-num>
-    <desc>Christian Pulisic goes Sneaker Shopping with Joe La Puma, talking favorite pairs and latest pickups.</desc>
-    <date>20230626</date>
-    <icon src="https://cdn.jwplayer.com/v2/media/40WzqprO/poster.jpg?width=1920" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260526093304 +0000" stop="20260526095006 +0000">
-    <title>Sneaker Shopping</title>
-    <sub-title>Pete Davidson</sub-title>
-    <episode-num system="onscreen">S19E05</episode-num>
-    <desc>Pete Davidson goes Sneaker Shopping with Joe La Puma, talking favorite pairs and latest pickups.</desc>
-    <date>20230605</date>
-    <icon src="https://cdn.jwplayer.com/v2/media/PPT13ZWN/poster.jpg?width=1920" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260526095006 +0000" stop="20260526100736 +0000">
-    <title>Sneaker Shopping</title>
-    <sub-title>Kai Cenat</sub-title>
-    <episode-num system="onscreen">S18E02</episode-num>
-    <desc>Kai Cenat goes Sneaker Shopping with Joe La Puma, talking favorite pairs and latest pickups.</desc>
-    <date>20230130</date>
-    <icon src="https://cdn.jwplayer.com/v2/media/SBT7LWMy/poster.jpg?width=1920" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260526100736 +0000" stop="20260526102838 +0000">
-    <title>Sneaker Shopping</title>
-    <sub-title>Freddie Gibbs</sub-title>
-    <episode-num system="onscreen">S22E10</episode-num>
-    <desc>Freddie Gibbs goes Sneaker Shopping with Joe La Puma, talking favorite pairs and pickups.</desc>
-    <date>20241007</date>
-    <icon src="https://cdn.jwplayer.com/v2/media/zvMUOJa1/poster.jpg?width=1920" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260526102838 +0000" stop="20260526104145 +0000">
-    <title>Sneaker Shopping</title>
-    <sub-title>Eladio Carrión</sub-title>
-    <episode-num system="onscreen">S22E07</episode-num>
-    <desc>Eladio Carrión goes Sneaker Shopping with Joe La Puma, talking favorite pairs and pickups.</desc>
-    <date>20240812</date>
-    <icon src="https://cdn.jwplayer.com/v2/media/jruZhnED/poster.jpg?width=1920" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260526104145 +0000" stop="20260526105802 +0000">
-    <title>Sneaker Shopping</title>
-    <sub-title>T.I.</sub-title>
-    <episode-num system="onscreen">S22E03</episode-num>
-    <desc>T.I. goes Sneaker Shopping with Joe La Puma, talking favorite pairs and pickups.</desc>
-    <date>20240603</date>
-    <icon src="https://cdn.jwplayer.com/v2/media/XP6DNBHx/poster.jpg?width=1920" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260526105802 +0000" stop="20260526131447 +0000">
-    <title>Something from Nothing: The Art of Rap</title>
-    <category>Movie</category>
-    <desc>A documentary on rap music and its rise to global prominence.</desc>
-    <date>20120712</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260526131447 +0000" stop="20260526142945 +0000">
-    <title>Dr. Dre: Beat by Beat</title>
-    <category>Movie</category>
-    <desc>Backstage presents the story of one of the founding fathers of gangsta rap, Dr. Dre.</desc>
-    <date>20240116</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260526142945 +0000" stop="20260526160634 +0000">
-    <title>NWA &amp; Eazy-E: Kings of Compton</title>
-    <category>Movie</category>
-    <desc>An exploration of the rise and fall of Eazy-E, Ice Cube, and Dr. Dre, featuring unseen footage and interviews.</desc>
-    <date>20160402</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260526160634 +0000" stop="20260526181238 +0000">
-    <title>Sorry to Bother You</title>
-    <category>Movie</category>
-    <desc>In an alternate present-day version of Oakland, a black telemarketer discovers a magical key to success.</desc>
-    <date>20180120</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260526181238 +0000" stop="20260526200633 +0000">
-    <title>Guns Akimbo</title>
-    <category>Movie</category>
-    <desc>Daniel Radcliffe stars as a man who uses new gladiator skills to rescue his ex from dangerous kidnappers.</desc>
-    <date>20200328</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260526200633 +0000" stop="20260526221418 +0000">
-    <title>The Boondock Saints</title>
-    <category>Movie</category>
-    <desc>Two vigilante brothers try to wipe out Boston's criminal underworld. Willem Dafoe and Norman Reedus star.</desc>
-    <date>19990804</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260526221418 +0000" stop="20260526223913 +0000">
-    <title>GOAT Talk</title>
-    <sub-title>Kali Uchis &amp; Mariah the Scientist</sub-title>
-    <episode-num system="onscreen">S03E19</episode-num>
-    <desc>Kali Uchis &amp; Mariah the Scientist Debate The Best &amp; Worst Things Ever</desc>
-    <date>20251203</date>
-    <icon src="https://cdn.jwplayer.com/v2/media/i4XTjnLL/poster.jpg?width=1920" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260526223913 +0000" stop="20260526230143 +0000">
-    <title>GOAT Talk</title>
-    <sub-title>FaZe Banks &amp; Plaqueboymax</sub-title>
-    <episode-num system="onscreen">S02E17</episode-num>
-    <desc>FaZe Banks &amp; Plaqueboymax Debate the Best and Worst Things Ever</desc>
-    <date>20241218</date>
-    <icon src="https://cdn.jwplayer.com/v2/media/WRo6ObME/poster.jpg?width=1920" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260526230143 +0000" stop="20260527012751 +0000">
-    <title>Southpaw</title>
-    <category>Movie</category>
-    <desc>Jake Gyllenhall and Forest Whitaker lead in a boxing redemption story as a boxer and trainer.</desc>
-    <date>20150720</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260527012751 +0000" stop="20260527033854 +0000">
+<programme channel="6a1610bebdf296985fd95603-608aec5fa09205002da4f28f" start="20260527012751 +0000" stop="20260527033854 +0000">
     <title>End of Watch</title>
     <category>Movie</category>
     <desc>From the creator of Training Day, Jake Gyllenhaal and Michael Peña star as two cops facing cartel revenge.</desc>
@@ -192,11 +13,146 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" start="20260527033854 +0000" stop="20260527061759 +0000">
+<programme channel="6a1610bebdf296985fd95603-608aec5fa09205002da4f28f" start="20260527033854 +0000" stop="20260527061759 +0000">
     <title>Brooklyn's Finest</title>
     <category>Movie</category>
     <desc>Three Brooklyn cops wind up at the same deadly location after enduring vastly different career paths.</desc>
     <date>20100305</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-608aec5fa09205002da4f28f" start="20260527061759 +0000" stop="20260527082634 +0000">
+    <title>The Boondock Saints</title>
+    <category>Movie</category>
+    <desc>Two vigilante brothers try to wipe out Boston's criminal underworld. Willem Dafoe and Norman Reedus star.</desc>
+    <date>19990804</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-608aec5fa09205002da4f28f" start="20260527082634 +0000" stop="20260527084245 +0000">
+    <title>GOAT Talk</title>
+    <sub-title>Jimmy O. Yang &amp; Ronny Chieng</sub-title>
+    <episode-num system="onscreen">S02E16</episode-num>
+    <desc>Jimmy O. Yang &amp; Ronny Chieng Debate the Best and Worst Things Ever</desc>
+    <date>20241127</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/EcXeZarD/poster.jpg?width=1920" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-608aec5fa09205002da4f28f" start="20260527084245 +0000" stop="20260527090016 +0000">
+    <title>GOAT Talk</title>
+    <sub-title>Latto &amp; Brooklyn Nikole</sub-title>
+    <episode-num system="onscreen">S02E10</episode-num>
+    <desc>Latto &amp; Brooklyn Nikole Debate GOAT Rap Beef, Dates &amp; Country Song</desc>
+    <date>20240813</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/chJzN0w5/poster.jpg?width=1920" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-608aec5fa09205002da4f28f" start="20260527090016 +0000" stop="20260527091647 +0000">
+    <title>GOAT Talk</title>
+    <sub-title>mgk &amp; Trippie Redd</sub-title>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <desc>mgk &amp; Trippie Redd Fight Over GOAT Diss Song, Video Game, and Emo Rapper</desc>
+    <date>20240423</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/qnKt44lH/poster.jpg?width=1920" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-608aec5fa09205002da4f28f" start="20260527091647 +0000" stop="20260527093401 +0000">
+    <title>GOAT Talk</title>
+    <sub-title>Paul Wall &amp; That Mexican OT</sub-title>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <desc>Paul Wall &amp; That Mexican OT Debate GOAT Grill, Texas Slang &amp; Mixtape</desc>
+    <date>20240312</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/MPkYIHWb/poster.jpg?width=1920" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-608aec5fa09205002da4f28f" start="20260527093401 +0000" stop="20260527095137 +0000">
+    <title>GOAT Talk</title>
+    <sub-title>Donald Glover &amp; Maya Erskine</sub-title>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <desc>Donald Glover &amp; Maya Erskine Debate GOAT 21 Savage Song, Memes and Conspiracy Theories</desc>
+    <date>20240206</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/k3ngIqXx/poster.jpg?width=1920" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-608aec5fa09205002da4f28f" start="20260527095137 +0000" stop="20260527100825 +0000">
+    <title>GOAT Talk</title>
+    <sub-title>Emily Blunt &amp; Dwayne Johnson</sub-title>
+    <episode-num system="onscreen">S03E16</episode-num>
+    <desc>Emily Blunt &amp; Dwayne Johnson Debate The Best &amp; Worst Things Ever</desc>
+    <date>20251001</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/AkMp0u0T/poster.jpg?width=1920" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-608aec5fa09205002da4f28f" start="20260527100825 +0000" stop="20260527102444 +0000">
+    <title>GOAT Talk</title>
+    <sub-title>Nelly &amp; Ashanti</sub-title>
+    <episode-num system="onscreen">S03E11</episode-num>
+    <desc>Nelly &amp; Ashanti Debate the Best &amp; Worst Things Ever</desc>
+    <date>20250709</date>
+    <icon src="https://cdn.jwplayer.com/v2/media/eTg1XKz2/poster.jpg?width=1920" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-608aec5fa09205002da4f28f" start="20260527102444 +0000" stop="20260527114011 +0000">
+    <title>Tupac &amp; Biggie: Worlds Collide</title>
+    <category>Movie</category>
+    <desc>Backstage presents the stories of rappers and rivals, Tupac Shakur and Biggie Smalls.</desc>
+    <date>20231107</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-608aec5fa09205002da4f28f" start="20260527114011 +0000" stop="20260527143318 +0000">
+    <title>Tupac: Battle For Compton</title>
+    <category>Movie</category>
+    <desc>Tupac and Biggie: the most infamous murder cases in music history finally explained.</desc>
+    <date>20170310</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-608aec5fa09205002da4f28f" start="20260527143318 +0000" stop="20260527164158 +0000">
+    <title>Never Back Down</title>
+    <category>Movie</category>
+    <desc>A teenager arrives at a new high school to discover an underground fight club.</desc>
+    <date>20080314</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-608aec5fa09205002da4f28f" start="20260527164158 +0000" stop="20260527190805 +0000">
+    <title>Southpaw</title>
+    <category>Movie</category>
+    <desc>Jake Gyllenhall and Forest Whitaker lead in a boxing redemption story as a boxer and trainer.</desc>
+    <date>20150720</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-608aec5fa09205002da4f28f" start="20260527190805 +0000" stop="20260527204557 +0000">
+    <title>State Property</title>
+    <category>Movie</category>
+    <desc>State Property follows Beans and his crew, as they take over the city creating mayhem as their empire builds.</desc>
+    <date>20020118</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-608aec5fa09205002da4f28f" start="20260527204557 +0000" stop="20260527232501 +0000">
+    <title>Brooklyn's Finest</title>
+    <category>Movie</category>
+    <desc>Three Brooklyn cops wind up at the same deadly location after enduring vastly different career paths.</desc>
+    <date>20100305</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-608aec5fa09205002da4f28f" start="20260527232501 +0000" stop="20260528013156 +0000">
+    <title>King of New York</title>
+    <category>Movie</category>
+    <desc>Recently freed from prison, Frank White begins to exterminate the drug lords who rose to power in his absence.</desc>
+    <date>19910105</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-608aec5fa09205002da4f28f" start="20260528013156 +0000" stop="20260528033259 +0000">
+    <title>Shottas</title>
+    <category>Movie</category>
+    <desc>Two men from Jamaica begin a ruthless climb to the top of a criminal enterprise in Miami.</desc>
+    <date>20020227</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg" />
   </programme>
   

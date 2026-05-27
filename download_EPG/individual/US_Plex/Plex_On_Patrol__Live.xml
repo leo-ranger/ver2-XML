@@ -1,98 +1,89 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-69d80ed5db43551137a2ff86">
+<channel id="6a1610bebdf296985fd95603-69d80ed5db43551137a2ff86">
     <display-name>On Patrol: Live</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/e0f96512-d06e-4573-bbb1-6a7a0e4f866b/1500x1000_OnPatrolLive_Logo_Color.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-69d80ed5db43551137a2ff86" start="20260526015118 +0000" stop="20260526043224 +0000">
-    <title>On Patrol: Live</title>
-    <sub-title>Unknown Emergency</sub-title>
-    <episode-num system="onscreen">S01E27</episode-num>
-    <desc>An officer helps a dog that was hit by a car; officers serve a warrant.</desc>
-    <date>20221021</date>
-    <icon src="https://image.tmdb.org/t/p/original/aTOMUVoab3sWON7Sot8EuzxwhDn.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-69d80ed5db43551137a2ff86" start="20260526043224 +0000" stop="20260526071336 +0000">
-    <title>On Patrol: Live</title>
-    <sub-title>Aggressive ATVs</sub-title>
-    <episode-num system="onscreen">S01E28</episode-num>
-    <desc>Officers spot unusual activity behind a gas station; ATVs taunt other drivers.</desc>
-    <date>20221022</date>
-    <icon src="https://image.tmdb.org/t/p/original/vANpOeQP4JtJCL16ocVx3l9BRLR.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-69d80ed5db43551137a2ff86" start="20260526071336 +0000" stop="20260526095440 +0000">
-    <title>On Patrol: Live</title>
-    <sub-title>Tracking Device</sub-title>
-    <episode-num system="onscreen">S01E29</episode-num>
-    <desc>An officer responds to a man who found a tracking device on his vehicle.</desc>
-    <date>20221028</date>
-    <icon src="https://image.tmdb.org/t/p/original/dvJZsryEd8E9Cr81z382PaTORBo.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-69d80ed5db43551137a2ff86" start="20260526095440 +0000" stop="20260526123547 +0000">
-    <title>On Patrol: Live</title>
-    <sub-title>Halloween Havoc</sub-title>
-    <episode-num system="onscreen">S01E30</episode-num>
-    <desc>An officer is dispatched after a man disturbs a trick or treating event.</desc>
-    <date>20221029</date>
-    <icon src="https://image.tmdb.org/t/p/original/rrV0gBzBFAfWbIWeUanFF0eZnEd.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-69d80ed5db43551137a2ff86" start="20260526123547 +0000" stop="20260526151623 +0000">
-    <title>On Patrol: Live</title>
-    <sub-title>Lost Gun</sub-title>
-    <episode-num system="onscreen">S01E31</episode-num>
-    <desc>An officer searches for a lost gun; an officer responds to trouble outside of a gas station.</desc>
-    <date>20221104</date>
-    <icon src="https://image.tmdb.org/t/p/original/tiV89ylJR3wxgtz8mqLkPgBTuHL.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-69d80ed5db43551137a2ff86" start="20260526151623 +0000" stop="20260526175655 +0000">
-    <title>On Patrol: Live</title>
-    <sub-title>Guns in a Pizza Box</sub-title>
-    <episode-num system="onscreen">S01E32</episode-num>
-    <desc>An officer finds guns hidden in a pizza box; a man is suspected of driving under the influence.</desc>
-    <date>20221105</date>
-    <icon src="https://image.tmdb.org/t/p/original/cTkBWYt5VvhiEz0lzWOZkpoKs38.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-69d80ed5db43551137a2ff86" start="20260526175655 +0000" stop="20260526203723 +0000">
-    <title>On Patrol: Live</title>
-    <sub-title>Drag Race</sub-title>
-    <episode-num system="onscreen">S01E33</episode-num>
-    <desc>An officer is injured when trying to detain a suspect; a missing teenager is recovered.</desc>
-    <date>20221111</date>
-    <icon src="https://image.tmdb.org/t/p/original/8tcaNMbbWyer49f807iprdctFAx.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-69d80ed5db43551137a2ff86" start="20260526203723 +0000" stop="20260526231758 +0000">
-    <title>On Patrol: Live</title>
-    <sub-title>Berkeley Barricade</sub-title>
-    <episode-num system="onscreen">S01E34</episode-num>
-    <desc>Sheriffs respond to reports of a man with a possible weapon; officers arrive at a domestic dispute.</desc>
-    <date>20221112</date>
-    <icon src="https://image.tmdb.org/t/p/original/vc75K0BB6ipujbq0My8Pg97Fugw.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-69d80ed5db43551137a2ff86" start="20260526231758 +0000" stop="20260527020106 +0000">
-    <title>On Patrol: Live</title>
-    <sub-title>Richland County Citizen Ride Along</sub-title>
-    <episode-num system="onscreen">S01E35</episode-num>
-    <desc>Alexa rides along with officers; officers stop a fleeing vehicle by using spike strips.</desc>
-    <date>20221118</date>
-    <icon src="https://image.tmdb.org/t/p/original/hDbDHW5UM18UK57ZEsAQUbDq7Hj.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-69d80ed5db43551137a2ff86" start="20260527020106 +0000" stop="20260527044416 +0000">
+<programme channel="6a1610bebdf296985fd95603-69d80ed5db43551137a2ff86" start="20260527020106 +0000" stop="20260527044416 +0000">
     <title>On Patrol: Live</title>
     <sub-title>Hotel Discovery</sub-title>
     <episode-num system="onscreen">S01E36</episode-num>
     <desc>Officers attempt a traffic stop when the suspect flees; officers arrest a woman for prostitution.</desc>
     <date>20221119</date>
     <icon src="https://image.tmdb.org/t/p/original/mUxWl3ZlunpNnxDlSfP3liGiLcZ.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-69d80ed5db43551137a2ff86" start="20260527044416 +0000" stop="20260527072721 +0000">
+    <title>On Patrol: Live</title>
+    <sub-title>Dangerous Driving</sub-title>
+    <episode-num system="onscreen">S01E37</episode-num>
+    <desc>A domestic disturbance reportedly turns physical; a vehicle does burnouts near a big crowd.</desc>
+    <date>20221125</date>
+    <icon src="https://image.tmdb.org/t/p/original/uS7xoFUUulR3z2Bo4O7255fSVFy.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-69d80ed5db43551137a2ff86" start="20260527072721 +0000" stop="20260527101024 +0000">
+    <title>On Patrol: Live</title>
+    <sub-title>Car Show Chaos</sub-title>
+    <episode-num system="onscreen">S01E38</episode-num>
+    <desc>Three break-ins in South Carolina; a fight at a car show; a search for a wanted man.</desc>
+    <date>20221126</date>
+    <icon src="https://image.tmdb.org/t/p/original/2K3rfhWKhT5jJBBe64JruA1I9Yb.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-69d80ed5db43551137a2ff86" start="20260527101024 +0000" stop="20260527125333 +0000">
+    <title>On Patrol: Live</title>
+    <sub-title>Restaurant Trespassing</sub-title>
+    <episode-num system="onscreen">S01E39</episode-num>
+    <desc>Officers in Bernalillo County, N.M., arrest a woman with a warrant.</desc>
+    <date>20221202</date>
+    <icon src="https://image.tmdb.org/t/p/original/2ZqbFYA9clefQ6BRq60nOhr2ZCw.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-69d80ed5db43551137a2ff86" start="20260527125333 +0000" stop="20260527153627 +0000">
+    <title>On Patrol: Live</title>
+    <sub-title>Problematic Plates</sub-title>
+    <episode-num system="onscreen">S01E40</episode-num>
+    <desc>Officers in Richland County, S.C., track a vehicle which flees from police.</desc>
+    <date>20221203</date>
+    <icon src="https://image.tmdb.org/t/p/original/qYejlcUQzrpkfLDSpYBoMpRDtxR.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-69d80ed5db43551137a2ff86" start="20260527153627 +0000" stop="20260527181924 +0000">
+    <title>On Patrol: Live</title>
+    <sub-title>Vehicle Fire</sub-title>
+    <episode-num system="onscreen">S01E41</episode-num>
+    <desc>Officers in Richland County, S.C., search for stolen golf carts.</desc>
+    <date>20221209</date>
+    <icon src="https://image.tmdb.org/t/p/original/re9ILHFYyAAtrdcCH99DDMvfzbd.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-69d80ed5db43551137a2ff86" start="20260527181924 +0000" stop="20260527210222 +0000">
+    <title>On Patrol: Live</title>
+    <sub-title>Spike Strip Stop</sub-title>
+    <episode-num system="onscreen">S01E42</episode-num>
+    <desc>Officers in Daytona Beach, Fla., use spike strips to stop a fleeing vehicle.</desc>
+    <date>20221210</date>
+    <icon src="https://image.tmdb.org/t/p/original/ywJt8xiDCdfxRaEEaApflI2AbYG.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-69d80ed5db43551137a2ff86" start="20260527210222 +0000" stop="20260527234523 +0000">
+    <title>On Patrol: Live</title>
+    <sub-title>Car Fire</sub-title>
+    <episode-num system="onscreen">S01E43</episode-num>
+    <desc>Officers respond to a car on fire at a casino; officers catch a man after pursuing him.</desc>
+    <date>20221216</date>
+    <icon src="https://image.tmdb.org/t/p/original/p0Mce08DxYne7RxA7QNKxN8zRhL.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-69d80ed5db43551137a2ff86" start="20260527234523 +0000" stop="20260528022834 +0000">
+    <title>On Patrol: Live</title>
+    <sub-title>Drone Capture</sub-title>
+    <episode-num system="onscreen">S01E44</episode-num>
+    <desc>An officer is flagged down regarding a home intrusion; officers use a drone to search for a suspect.</desc>
+    <date>20221217</date>
+    <icon src="https://image.tmdb.org/t/p/original/zl1gFJqSeyliYdFZoSNBypiwx15.jpg" />
   </programme>
   
 </tv>

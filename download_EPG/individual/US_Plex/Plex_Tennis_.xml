@@ -1,82 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c">
+<channel id="6a1610bebdf296985fd95603-6761f91555e174e95ccc4e4c">
     <display-name>Tennis+</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260526032141 +0000" stop="20260526051759 +0000">
-    <title>Australian Open Full Match</title>
-    <sub-title>AO15 Women's Fourth Round - S Williams v Muguruza</sub-title>
-    <episode-num system="onscreen">S2015E12</episode-num>
-    <desc>Full Match of Australian Open 2015 Women's Fourth Round - Serena Williams v Garbine Muguruza</desc>
-    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260526051759 +0000" stop="20260526073841 +0000">
-    <title>Australian Open Full Match</title>
-    <sub-title>AO92 Men's Third Round - Becker v McEnroe</sub-title>
-    <episode-num system="onscreen">S1992E25</episode-num>
-    <desc>Full Match of Australian Open 1992 Men's Third Round - Boris Becker v John McEnroe</desc>
-    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260526073841 +0000" stop="20260526093842 +0000">
-    <title>Australian Open Full Match</title>
-    <sub-title>AO07 Women's Quarterfinal - Hingis v Clijsters</sub-title>
-    <episode-num system="onscreen">S2007E06</episode-num>
-    <desc>Full Match of Australian Open 2007 Women's Quarterfinal - Martina Hingis v Kim Clijsters</desc>
-    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260526093842 +0000" stop="20260526103710 +0000">
-    <title>Australian Open Tournament Film</title>
-    <category>Movie</category>
-    <desc>Relive what took place at the 2003 Australian Open</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/7a4c210d-ee2a-49e2-9fea-9f150c1ede05/4_Tennis_Plus__Vertical_Default_Art__2000x3000px_v3.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260526103710 +0000" stop="20260526141553 +0000">
-    <title>Australian Open Full Match</title>
-    <sub-title>AO26 Men's First Round - Monfils v Sweeney</sub-title>
-    <episode-num system="onscreen">S2026E05</episode-num>
-    <desc>Full Match of Australian Open 2026 Men's First Round - Gael Monfils v Dane Sweeney</desc>
-    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260526141553 +0000" stop="20260526173351 +0000">
-    <title>Australian Open Full Match</title>
-    <sub-title>AO18 Men's Second Round - Tsonga v Shapovalov</sub-title>
-    <episode-num system="onscreen">S2018E06</episode-num>
-    <desc>Full Match of Australian Open 2018 Men's Second Round - Jo-Wilfried Tsonga v Denis Shapovalov</desc>
-    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260526173351 +0000" stop="20260526190503 +0000">
-    <title>Australian Open Full Match</title>
-    <sub-title>AO18 Women's Semifinal - Mertens v Wozniacki</sub-title>
-    <episode-num system="onscreen">S2018E12</episode-num>
-    <desc>Full Match of Australian Open 2018 Women's Semifinal - Elise Mertens v Caroline Wozniacki</desc>
-    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260526190503 +0000" stop="20260526205455 +0000">
-    <title>Australian Open Full Match</title>
-    <sub-title>AO25 Men's Quarterfinal - Sinner v de Minaur</sub-title>
-    <episode-num system="onscreen">S2025E16</episode-num>
-    <desc>Full Match of Australian Open 2025 Men's Quarterfinal - Jannik Sinner v Alex de Minaur</desc>
-    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260526205455 +0000" stop="20260526231519 +0000">
-    <title>Australian Open Full Match</title>
-    <sub-title>AO22 Women's Second Round - Swiatek v Cirstea</sub-title>
-    <episode-num system="onscreen">S2022E22</episode-num>
-    <desc>Full Match of Australian Open 2022 Women's Second Round - Iga Swiatek v Sorana Cirstea</desc>
-    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260526231519 +0000" stop="20260527030843 +0000">
+<programme channel="6a1610bebdf296985fd95603-6761f91555e174e95ccc4e4c" start="20260526231519 +0000" stop="20260527030843 +0000">
     <title>Australian Open Full Match</title>
     <sub-title>AO25 Men's First Round - Musetti v Arnaldi</sub-title>
     <episode-num system="onscreen">S2025E471</episode-num>
@@ -84,11 +13,83 @@
     <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c" start="20260527030843 +0000" stop="20260527064035 +0000">
+<programme channel="6a1610bebdf296985fd95603-6761f91555e174e95ccc4e4c" start="20260527030843 +0000" stop="20260527064035 +0000">
     <title>Australian Open Full Match</title>
     <sub-title>AO24 Men's Quarterfinal - Medvedev v Hurkacz</sub-title>
     <episode-num system="onscreen">S2024E12</episode-num>
     <desc>Full Match of Australian Open 2024 Men's Quarterfinal - Daniil Medvedev v Hubert Hurkacz</desc>
+    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6761f91555e174e95ccc4e4c" start="20260527064035 +0000" stop="20260527101607 +0000">
+    <title>Australian Open Full Match</title>
+    <sub-title>AO15 Men's Second Round - Nadal v Smyczek</sub-title>
+    <episode-num system="onscreen">S2015E06</episode-num>
+    <desc>Full Match of Australian Open 2015 Men's Second Round - Rafael Nadal v Tim Smyczek</desc>
+    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6761f91555e174e95ccc4e4c" start="20260527101607 +0000" stop="20260527122041 +0000">
+    <title>United Cup Full Match</title>
+    <sub-title>UC24 Women's Group Stage - Paolini v Garcia</sub-title>
+    <episode-num system="onscreen">S2024E03</episode-num>
+    <desc>The Full Match from the United Cup 2024 Women's Group Stage - Jasime Paolini v Caroline Garcia</desc>
+    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/UnitedCupFullMatchLogo.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6761f91555e174e95ccc4e4c" start="20260527122041 +0000" stop="20260527144023 +0000">
+    <title>Australian Open Full Match</title>
+    <sub-title>AO92 Men's Third Round - Becker v McEnroe</sub-title>
+    <episode-num system="onscreen">S1992E25</episode-num>
+    <desc>Full Match of Australian Open 1992 Men's Third Round - Boris Becker v John McEnroe</desc>
+    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6761f91555e174e95ccc4e4c" start="20260527144023 +0000" stop="20260527183344 +0000">
+    <title>Australian Open Full Match</title>
+    <sub-title>AO20 Men's Quarterfinal - Nadal v Thiem</sub-title>
+    <episode-num system="onscreen">S2020E05</episode-num>
+    <desc>Full Match of Australian Open 2020 Men's Quarterfinal - Rafael Nadal v Dominic Thiem</desc>
+    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6761f91555e174e95ccc4e4c" start="20260527183344 +0000" stop="20260527193827 +0000">
+    <title>Australian Open Full Match</title>
+    <sub-title>AO10 Women's Fourth Round - S Williams v Stosur</sub-title>
+    <episode-num system="onscreen">S2010E07</episode-num>
+    <desc>Full Match of Australian Open 2010 Women's Fourth Round - Serena Williams v Sam Stosur</desc>
+    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6761f91555e174e95ccc4e4c" start="20260527193827 +0000" stop="20260527210532 +0000">
+    <title>Australian Open Full Match</title>
+    <sub-title>AO98 Men's Final - Korda v Rios</sub-title>
+    <episode-num system="onscreen">S1998E48</episode-num>
+    <desc>Full Match of Australian Open 1998 Men's Final - Petr Korda v Marcelo Rios</desc>
+    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6761f91555e174e95ccc4e4c" start="20260527210532 +0000" stop="20260527235115 +0000">
+    <title>Australian Open Full Match</title>
+    <sub-title>AO25 Men's Third Round - Shelton v Musetti</sub-title>
+    <episode-num system="onscreen">S2025E31</episode-num>
+    <desc>Full Match of Australian Open 2025 Men's Third Round - Ben Shelton v Lorzeno Musetti</desc>
+    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6761f91555e174e95ccc4e4c" start="20260527235115 +0000" stop="20260528014956 +0000">
+    <title>Australian Open Full Match</title>
+    <sub-title>AO20 Women's Final - Kenin v Muguruza</sub-title>
+    <episode-num system="onscreen">S2020E12</episode-num>
+    <desc>Full Match of Australian Open 2020 Women's Final - Sofia Kenin v Garbine Muguruza</desc>
+    <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6761f91555e174e95ccc4e4c" start="20260528014956 +0000" stop="20260528033027 +0000">
+    <title>Australian Open Full Match</title>
+    <sub-title>AO26 Women's Thrid Round - Paolini v Jovic</sub-title>
+    <episode-num system="onscreen">S2026E06</episode-num>
+    <desc>Full Match of Australian Open 2026 Women's Third Round - Jasmine Paolini v Iva Jovic</desc>
     <icon src="https://d3nz4ni37og2lk.cloudfront.net/Images/S3/tennp/FullMatchLogo.jpg" />
   </programme>
   

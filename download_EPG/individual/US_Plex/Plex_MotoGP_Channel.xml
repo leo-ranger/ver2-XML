@@ -1,101 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265">
+<channel id="6a1610bebdf296985fd95603-68b0b0d0f2989364c9c17265">
     <display-name>MotoGP Channel</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/d5b19340-b4d9-498d-8f89-2a69bc30fc4b/MotoGPChannel_1500x1000_logo_for_dark_bgd_-_Eddie_Hunter-Higgins.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260526033711 +0000" stop="20260526060904 +0000">
-    <title>MotoGP 2023</title>
-    <sub-title>Argentinian Grand Prix: Full Race</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Rain mixes up the order, expect precision and composure define the race in South America.</desc>
-    <date>20260521</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP2023.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260526060904 +0000" stop="20260526083251 +0000">
-    <title>MotoGP 2023</title>
-    <sub-title>US Grand Prix: Full Race</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Unforgiving bumps and hard braking test concentration on the technical Texas terrain.</desc>
-    <date>20250521</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP2023.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260526083251 +0000" stop="20260526103332 +0000">
-    <title>MotoGP 2020</title>
-    <sub-title>2020 Aragon Grand Prix: Full Race</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Tyre temperature dominates as Aragón’s long corners punish the overzealous.</desc>
-    <date>20250521</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP2020.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260526103332 +0000" stop="20260526125734 +0000">
-    <title>MotoGP 2023</title>
-    <sub-title>US Grand Prix: Full Race</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Unforgiving bumps and hard braking test concentration on the technical Texas terrain.</desc>
-    <date>20250521</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP2023.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260526125734 +0000" stop="20260526145831 +0000">
-    <title>MotoGP 2020</title>
-    <sub-title>2020 Aragon Grand Prix: Full Race</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Tyre temperature dominates as Aragón’s long corners punish the overzealous.</desc>
-    <date>20250521</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP2020.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260526145831 +0000" stop="20260526170715 +0000">
-    <title>MotoGP 2020</title>
-    <sub-title>Valencia Grand Prix: Full Race</sub-title>
-    <episode-num system="onscreen">S01E14</episode-num>
-    <desc>A week later, with data in hand, the field closes in for another Spanish showdown.</desc>
-    <date>20250521</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP2020.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260526170715 +0000" stop="20260526192442 +0000">
-    <title>MotoGP 2025</title>
-    <sub-title>Australia Grand Prix: MotoGP Full Race</sub-title>
-    <episode-num system="onscreen">S01E22</episode-num>
-    <desc>With top names sidelined a real chance to take points is up for grabs on the famous track.</desc>
-    <date>20250521</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP2025.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260526192442 +0000" stop="20260526213525 +0000">
-    <title>MotoGP 2023</title>
-    <sub-title>Malaysian Grand Prix: Full Race</sub-title>
-    <episode-num system="onscreen">S01E18</episode-num>
-    <desc>Sepang’s pace and unpredictability test riders’ stamina and split-second decision making.</desc>
-    <date>20250521</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP2023.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260526213525 +0000" stop="20260527001426 +0000">
-    <title>MotoGP 2024</title>
-    <sub-title>Italian Grand Prix: Full Race</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>High-speed procession in the Tuscan hills - the roar never fades.</desc>
-    <date>20260521</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP2024.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260527001426 +0000" stop="20260527013012 +0000">
-    <title>2025 Moto2</title>
-    <sub-title>Italy Grand Prix: Moto2 Full Race</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Mugello Moto2 is a must see event and 2025's stakes are as high as the top speeds.</desc>
-    <date>20250521</date>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/25Moto2.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260527013012 +0000" stop="20260527025547 +0000">
+<programme channel="6a1610bebdf296985fd95603-68b0b0d0f2989364c9c17265" start="20260527013012 +0000" stop="20260527025547 +0000">
     <title>2025 Moto2</title>
     <sub-title>San Marino Grand Prix: Moto2 Race</sub-title>
     <episode-num system="onscreen">S01E14</episode-num>
@@ -104,13 +14,112 @@
     <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/25Moto2.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" start="20260527025547 +0000" stop="20260527053449 +0000">
+<programme channel="6a1610bebdf296985fd95603-68b0b0d0f2989364c9c17265" start="20260527025547 +0000" stop="20260527053449 +0000">
     <title>MotoGP 2025</title>
     <sub-title>Valencia Grand Prix: Full Race</sub-title>
     <episode-num system="onscreen">S01E25</episode-num>
     <desc>Who will be the final winner of this record breaking campaign?</desc>
     <date>20250521</date>
     <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP2025.png" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-68b0b0d0f2989364c9c17265" start="20260527053449 +0000" stop="20260527074643 +0000">
+    <title>MotoGP 2024</title>
+    <sub-title>2024 German Grand Prix: Full Race</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>A twisty gauntlet where rhythm rules and tight transitions turn into art.</desc>
+    <date>20260521</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP2024.png" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-68b0b0d0f2989364c9c17265" start="20260527074643 +0000" stop="20260527095557 +0000">
+    <title>MotoGP 2020</title>
+    <sub-title>Valencia Grand Prix: Full Race</sub-title>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <desc>A week later, with data in hand, the field closes in for another Spanish showdown.</desc>
+    <date>20250521</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP2020.png" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-68b0b0d0f2989364c9c17265" start="20260527095557 +0000" stop="20260527110709 +0000">
+    <title>MotoGP Classics</title>
+    <sub-title>Classics: Italian Grand Prix 1992</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>The fifth round of the 1992 Grand Prix motorcycle racing season was held at Mugello Circuit, May 1992.</desc>
+    <date>20250521</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/Classics_16x9.png" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-68b0b0d0f2989364c9c17265" start="20260527110709 +0000" stop="20260527131744 +0000">
+    <title>MotoGP Classics</title>
+    <sub-title>Classics: Italian Grand Prix 1999</sub-title>
+    <episode-num system="onscreen">S01E31</episode-num>
+    <desc>Relive all of the action from the 1999 Italian Grand Prix at Mugello Circuit.</desc>
+    <date>20250521</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/Classics_16x9.png" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-68b0b0d0f2989364c9c17265" start="20260527131744 +0000" stop="20260527151840 +0000">
+    <title>MotoGP 2020</title>
+    <sub-title>2020 Aragon Grand Prix: Full Race</sub-title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <desc>Tyre temperature dominates as Aragón’s long corners punish the overzealous.</desc>
+    <date>20250521</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP2020.png" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-68b0b0d0f2989364c9c17265" start="20260527151840 +0000" stop="20260527171943 +0000">
+    <title>MotoGP 2023</title>
+    <sub-title>2023 Qatar Grand Prix: Full Race</sub-title>
+    <episode-num system="onscreen">S01E19</episode-num>
+    <desc>As the end of the 2023 season draws near, Jorge Martin and Pecco Bagnaia fight for the title.</desc>
+    <date>20250521</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP2023.png" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-68b0b0d0f2989364c9c17265" start="20260527171943 +0000" stop="20260527194345 +0000">
+    <title>MotoGP 2023</title>
+    <sub-title>US Grand Prix: Full Race</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Unforgiving bumps and hard braking test concentration on the technical Texas terrain.</desc>
+    <date>20250521</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP2023.png" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-68b0b0d0f2989364c9c17265" start="20260527194345 +0000" stop="20260527220113 +0000">
+    <title>MotoGP 2025</title>
+    <sub-title>Australia Grand Prix: MotoGP Full Race</sub-title>
+    <episode-num system="onscreen">S01E22</episode-num>
+    <desc>With top names sidelined a real chance to take points is up for grabs on the famous track.</desc>
+    <date>20250521</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP2025.png" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-68b0b0d0f2989364c9c17265" start="20260527220113 +0000" stop="20260527231034 +0000">
+    <title>Moto3Junior</title>
+    <sub-title>2026 Catalan Moto3 Junior World Championship Race 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Fierce competition, rising talent and pure adrenaline defined the first races of the weekend.</desc>
+    <date>20260526</date>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/MotoGPChannel_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-68b0b0d0f2989364c9c17265" start="20260527231034 +0000" stop="20260528002154 +0000">
+    <title>Moto3Junior</title>
+    <sub-title>2026 Catalan Moto3 Junior World Championship Race 2</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>The ambition is evident as the riders go full throttle in the second round of races.</desc>
+    <date>20260526</date>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/MotoGPChannel_thumbnail_1920x1080.png" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-68b0b0d0f2989364c9c17265" start="20260528002154 +0000" stop="20260528025348 +0000">
+    <title>MotoGP 2023</title>
+    <sub-title>Argentinian Grand Prix: Full Race</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Rain mixes up the order, expect precision and composure define the race in South America.</desc>
+    <date>20260521</date>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/MGPTV/MotoGP2023.png" />
   </programme>
   
 </tv>

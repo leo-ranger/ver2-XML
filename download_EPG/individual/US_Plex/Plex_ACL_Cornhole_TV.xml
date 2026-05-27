@@ -1,45 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01">
+<channel id="6a1610bebdf296985fd95603-63504925a97bd70eaef54f01">
     <display-name>ACL Cornhole TV</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/d1076185-58d6-411b-ba73-1126837074dd/Plex_cornhole__1500x1000_white_-_Brendan_Canning_white_rdx.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01" start="20260526040000 +0000" stop="20260526053100 +0000">
-    <title>2024-2025 ACL Signature #6</title>
-    <category>Movie</category>
-    <desc>Pro Teams: Carolina Coasters vs Pennsylvania Ringers from July 5, 2025</desc>
-    <date>20260114</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/1c897c1a-e779-4746-8845-c8625b2d91c0/Plex_cornhole_vertical_-_Brendan_Canning.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01" start="20260526053100 +0000" stop="20260526063000 +0000">
-    <title>NOT_PUBLISHED:  (show)</title>
-    <sub-title>2024-2025 ACL Signature #6</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Pro Teams: Florida Freeze vs Chicagoland Spinners from July 5, 2025</desc>
-    <date>20260109</date>
-    <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_z0p6xqok/version/0/vid_sec/895/width/3840/height/2160/type/3/a.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01" start="20260526063000 +0000" stop="20260526110000 +0000">
-    <title>2024-2025 ACL Signature #6</title>
-    <category>Movie</category>
-    <desc>Pro Doubles from July 5, 2025</desc>
-    <date>20260404</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/1c897c1a-e779-4746-8845-c8625b2d91c0/Plex_cornhole_vertical_-_Brendan_Canning.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01" start="20260526110000 +0000" stop="20260526130000 +0000">
-    <title>NOT_PUBLISHED:  (show)</title>
-    <sub-title>2024 ACL Open #10</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Open Singles from February 25, 2024</desc>
-    <date>20260509</date>
-    <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_b36o3eq9/version/0/vid_sec/2000/width/3840/height/2160/type/3/a.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01" start="20260526130000 +0000" stop="20260526160000 +0000">
+<programme channel="6a1610bebdf296985fd95603-63504925a97bd70eaef54f01" start="20260527010000 +0000" stop="20260527040000 +0000">
     <title>2024-2025 ACL Signature #6</title>
     <category>Movie</category>
     <desc>Women's, Junior, Senior Tour Doubles from July 4, 2025</desc>
@@ -47,54 +13,63 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/1c897c1a-e779-4746-8845-c8625b2d91c0/Plex_cornhole_vertical_-_Brendan_Canning.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01" start="20260526160000 +0000" stop="20260526173100 +0000">
-    <title>2024-2025 ACL Signature #6</title>
-    <category>Movie</category>
-    <desc>Pro Teams: Carolina Coasters vs Pennsylvania Ringers from July 5, 2025</desc>
-    <date>20260114</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/1c897c1a-e779-4746-8845-c8625b2d91c0/Plex_cornhole_vertical_-_Brendan_Canning.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01" start="20260526173100 +0000" stop="20260526183000 +0000">
-    <title>NOT_PUBLISHED:  (show)</title>
-    <sub-title>2024-2025 ACL Signature #6</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Pro Teams: Florida Freeze vs Chicagoland Spinners from July 5, 2025</desc>
-    <date>20260109</date>
-    <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_z0p6xqok/version/0/vid_sec/895/width/3840/height/2160/type/3/a.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01" start="20260526183000 +0000" stop="20260526230000 +0000">
-    <title>2024-2025 ACL Signature #6</title>
-    <category>Movie</category>
-    <desc>Pro Doubles from July 5, 2025</desc>
-    <date>20260404</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/1c897c1a-e779-4746-8845-c8625b2d91c0/Plex_cornhole_vertical_-_Brendan_Canning.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01" start="20260526230000 +0000" stop="20260527010000 +0000">
-    <title>NOT_PUBLISHED:  (show)</title>
-    <sub-title>2024 ACL Open #10</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Open Singles from February 25, 2024</desc>
-    <date>20260509</date>
-    <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_b36o3eq9/version/0/vid_sec/2000/width/3840/height/2160/type/3/a.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01" start="20260527010000 +0000" stop="20260527040000 +0000">
-    <title>2024-2025 ACL Signature #6</title>
-    <category>Movie</category>
-    <desc>Women's, Junior, Senior Tour Doubles from July 4, 2025</desc>
-    <date>20260120</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/1c897c1a-e779-4746-8845-c8625b2d91c0/Plex_cornhole_vertical_-_Brendan_Canning.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01" start="20260527040000 +0000" stop="20260527073000 +0000">
+<programme channel="6a1610bebdf296985fd95603-63504925a97bd70eaef54f01" start="20260527040000 +0000" stop="20260527073000 +0000">
     <title>2024-2025 ACL Signature #4</title>
     <category>Movie</category>
     <desc>Women's, Juniors, Senior Pro Tour Doubles from May 30, 2025</desc>
     <date>20260426</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/1c897c1a-e779-4746-8845-c8625b2d91c0/Plex_cornhole_vertical_-_Brendan_Canning.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-63504925a97bd70eaef54f01" start="20260527073000 +0000" stop="20260527123000 +0000">
+    <title>25/26 ACL Rock Hill Open</title>
+    <category>Movie</category>
+    <desc>Open 1: Women's, Juniors, Senior Singles from October 3, 2025</desc>
+    <date>20260513</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/1c897c1a-e779-4746-8845-c8625b2d91c0/Plex_cornhole_vertical_-_Brendan_Canning.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-63504925a97bd70eaef54f01" start="20260527123000 +0000" stop="20260527180000 +0000">
+    <title>NOT_PUBLISHED:  (show)</title>
+    <sub-title>25/26 ACL Albuquerque Open</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Open Doubles from Decemeber 6, 2025</desc>
+    <date>20260103</date>
+    <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_s8nee6sc/version/0/vid_sec/5355/width/3840/height/2160/type/3/a.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-63504925a97bd70eaef54f01" start="20260527180000 +0000" stop="20260527230000 +0000">
+    <title>25/26 ACL Rock Hill Open</title>
+    <category>Movie</category>
+    <desc>Open 1: Women's, Juniors, Senior Singles from October 3, 2025</desc>
+    <date>20260513</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/1c897c1a-e779-4746-8845-c8625b2d91c0/Plex_cornhole_vertical_-_Brendan_Canning.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-63504925a97bd70eaef54f01" start="20260527230000 +0000" stop="20260528000000 +0000">
+    <title>NOT_PUBLISHED:  (show)</title>
+    <sub-title>2024 ACL Open #9</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Open Singles from February 10, 2024</desc>
+    <date>20260509</date>
+    <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_ldeytl1m/version/0/vid_sec/1000/width/3840/height/2160/type/3/a.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-63504925a97bd70eaef54f01" start="20260528000000 +0000" stop="20260528010000 +0000">
+    <title>Around the ACL</title>
+    <category>Movie</category>
+    <desc>ATA 218 Texas Pressure: Who’s Climbing Into the Top 10? The race to Signature #5 in Texas is getting tight, and this week on Around The ACL, Jake, Anthony, and Meesh break down the players and teams sitting just outside the Top 10 with a real chance to make a move after Texas. From veterans trying to re-establish themselves to dangerous teams quietly climbing the standings, the crew debates who is best positioned for a late-season push and whose window may be closing fast. The show also dives into which players may need a miracle run to change the trajectory of their season, along with a rapid-fire segment where the analysts give one word for what certain players need most from Texas. Featuring discussion around names like Matt Guy, Gage Landis, Sammy Soto, Tommy Sliker, Gabriel Clauson, Ryan Wiedenfeld and more, before closing out the show with another edition of Hole-Y Hot Take</desc>
+    <date>20260526</date>
+    <icon src="https://img.static-ottera.com/prod/bbb/media_list/thumbnails/poster/2000x2858/around_the_acl_2by3.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-63504925a97bd70eaef54f01" start="20260528010000 +0000" stop="20260528023100 +0000">
+    <title>NOT_PUBLISHED:  (show)</title>
+    <sub-title>2024-2025 ACL Signature #1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Pro Teams from April 5, 2025</desc>
+    <date>20260505</date>
+    <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_93hl6emj/version/0/vid_sec/1500/width/3840/height/2160/type/3/a.jpg" />
   </programme>
   
 </tv>

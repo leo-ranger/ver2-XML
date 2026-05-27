@@ -1,115 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-636d9d2d4ea1109a7d205a70">
+<channel id="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70">
     <display-name>Real Crime</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/b0d345b3-05d6-41d2-82b1-0bfdd351312a/Real_Crime_Logo_White_-_Simon_Tuquabordx2.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-636d9d2d4ea1109a7d205a70" start="20260526041015 +0000" stop="20260526050926 +0000">
-    <title>The Prosecutors</title>
-    <sub-title>A Question of Sanity</sub-title>
-    <episode-num system="onscreen">S02E14</episode-num>
-    <desc>A church shoot-out in Northern Virginia leads authorities to an ex-FBI agent's home for revenge.</desc>
-    <date>20000101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RCRIM/DOMTPIS002EP014.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-636d9d2d4ea1109a7d205a70" start="20260526050926 +0000" stop="20260526060835 +0000">
-    <title>The Prosecutors</title>
-    <sub-title>Murder in the Desert</sub-title>
-    <episode-num system="onscreen">S02E15</episode-num>
-    <desc>Two young women are murdered in Twentynine Palms, California, causing fear and confusion</desc>
-    <date>20000101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RCRIM/DOMTPIS002EP015.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-636d9d2d4ea1109a7d205a70" start="20260526060835 +0000" stop="20260526070745 +0000">
-    <title>The Prosecutors</title>
-    <sub-title>Infant Mortality</sub-title>
-    <episode-num system="onscreen">S02E16</episode-num>
-    <desc>On January 23, 1994, Renee Goode, a 2-year-old girl, was found dead at a slumber party in Alvin</desc>
-    <date>20000101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RCRIM/DOMTPIS002EP016.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-636d9d2d4ea1109a7d205a70" start="20260526070745 +0000" stop="20260526080655 +0000">
-    <title>The Prosecutors</title>
-    <sub-title>Career Criminal</sub-title>
-    <episode-num system="onscreen">S02E17</episode-num>
-    <desc>A mother's disappearance in Arlington, Texas, sparks suspicions of foul play but no evidence.</desc>
-    <date>20000101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RCRIM/DOMTPIS002EP017.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-636d9d2d4ea1109a7d205a70" start="20260526080655 +0000" stop="20260526090825 +0000">
-    <title>Infamous Crimes: JFK</title>
-    <category>Movie</category>
-    <desc>JFK, America's 35th president, was tragically assassinated in 1963 after nearly 3 years in office.</desc>
-    <date>20240101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/dc0e53d0-0767-44e1-8d23-9621d4ff3daf/2000X3000_Fallback_Real_Crime_-_Simon_Tuquabo.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-636d9d2d4ea1109a7d205a70" start="20260526090825 +0000" stop="20260526100157 +0000">
-    <title>Infamous Crimes: OJ</title>
-    <category>Movie</category>
-    <desc>June 17, 1994: O.J. Simpson's freeway chase gripped a nation and marked a star's shocking fall.</desc>
-    <date>20240101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/dc0e53d0-0767-44e1-8d23-9621d4ff3daf/2000X3000_Fallback_Real_Crime_-_Simon_Tuquabo.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-636d9d2d4ea1109a7d205a70" start="20260526100157 +0000" stop="20260526102534 +0000">
-    <title>Crime Exposé</title>
-    <sub-title>Episode 17</sub-title>
-    <episode-num system="onscreen">S01E17</episode-num>
-    <desc>When a beloved grandmother is murdered police begin to suspect a young construction worker she had hired.</desc>
-    <date>20240101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RCRIM/Default_Thumbnail.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-636d9d2d4ea1109a7d205a70" start="20260526102534 +0000" stop="20260526104937 +0000">
-    <title>Crime Exposé</title>
-    <sub-title>Episode 18</sub-title>
-    <episode-num system="onscreen">S01E18</episode-num>
-    <desc>After an elderly woman overdoses police discover that her accidental death may have been staged.</desc>
-    <date>20240101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RCRIM/Default_Thumbnail.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-636d9d2d4ea1109a7d205a70" start="20260526104937 +0000" stop="20260526111312 +0000">
-    <title>Crime Exposé</title>
-    <sub-title>Episode 19</sub-title>
-    <episode-num system="onscreen">S01E19</episode-num>
-    <desc>An activist and a son in law are ruthlessly murdered revealing a deeply disturbing religious plot.</desc>
-    <date>20240101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RCRIM/Default_Thumbnail.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-636d9d2d4ea1109a7d205a70" start="20260526111312 +0000" stop="20260526113732 +0000">
-    <title>Crime Exposé</title>
-    <sub-title>Episode 01</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>A decomposing body found in a rural ditch exposes a deadly love triangle and a botched cover up.</desc>
-    <date>20240101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RCRIM/Default_Thumbnail.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-636d9d2d4ea1109a7d205a70" start="20260526113732 +0000" stop="20260526120110 +0000">
-    <title>Crime Exposé</title>
-    <sub-title>Episode 02</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>A staged home invasion and a shocking murder for hire plot are uncovered after a young mother is shot.</desc>
-    <date>20240101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RCRIM/Default_Thumbnail.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-636d9d2d4ea1109a7d205a70" start="20260526120110 +0000" stop="20260526142057 +0000">
+<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260527000829 +0000" stop="20260527022846 +0000">
     <title>JFK Assassination: The Oval Office To Dealey Plaza</title>
     <category>Movie</category>
     <desc>Explosive new facts on who may have been responsible for JFK's untimely death are explored in a cutting-edge assessment of this historic case.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/dc0e53d0-0767-44e1-8d23-9621d4ff3daf/2000X3000_Fallback_Real_Crime_-_Simon_Tuquabo.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-636d9d2d4ea1109a7d205a70" start="20260526142057 +0000" stop="20260526161127 +0000">
+<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260527022846 +0000" stop="20260527041931 +0000">
     <title>Code Of Silence - Trail Of Murder</title>
     <category>Movie</category>
     <desc>A documentary about the Boston Bandits gang in the 1990’s known for armored car and bank robberies.</desc>
@@ -117,7 +20,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/dc0e53d0-0767-44e1-8d23-9621d4ff3daf/2000X3000_Fallback_Real_Crime_-_Simon_Tuquabo.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-636d9d2d4ea1109a7d205a70" start="20260526161127 +0000" stop="20260526172042 +0000">
+<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260527041931 +0000" stop="20260527052846 +0000">
     <title>Jack the Ripper: London's Most Notorious Killer</title>
     <category>Movie</category>
     <desc>The "Jack the Ripper" murders remain unsolved, with conspiracy theories ranging from British Royalty to low.</desc>
@@ -125,7 +28,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/dc0e53d0-0767-44e1-8d23-9621d4ff3daf/2000X3000_Fallback_Real_Crime_-_Simon_Tuquabo.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-636d9d2d4ea1109a7d205a70" start="20260526172042 +0000" stop="20260526181409 +0000">
+<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260527052846 +0000" stop="20260527062228 +0000">
     <title>The Bambers: Murder At The Farm</title>
     <sub-title>Episode 01</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -134,7 +37,7 @@
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/RCRIM/Default_Thumbnail.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-636d9d2d4ea1109a7d205a70" start="20260526181409 +0000" stop="20260526190752 +0000">
+<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260527062228 +0000" stop="20260527071556 +0000">
     <title>The Bambers: Murder At The Farm</title>
     <sub-title>Episode 02</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
@@ -143,7 +46,7 @@
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/RCRIM/Default_Thumbnail.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-636d9d2d4ea1109a7d205a70" start="20260526190752 +0000" stop="20260526200133 +0000">
+<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260527071556 +0000" stop="20260527080937 +0000">
     <title>The Bambers: Murder At The Farm</title>
     <sub-title>Episode 03</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
@@ -152,7 +55,7 @@
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/RCRIM/Default_Thumbnail.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-636d9d2d4ea1109a7d205a70" start="20260526200133 +0000" stop="20260526205548 +0000">
+<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260527080937 +0000" stop="20260527090353 +0000">
     <title>The Bambers: Murder At The Farm</title>
     <sub-title>Episode 04</sub-title>
     <episode-num system="onscreen">S01E04</episode-num>
@@ -161,7 +64,7 @@
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/RCRIM/Default_Thumbnail.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-636d9d2d4ea1109a7d205a70" start="20260526205548 +0000" stop="20260526220444 +0000">
+<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260527090353 +0000" stop="20260527101249 +0000">
     <title>Who Killed Tupac Shakur?</title>
     <category>Movie</category>
     <desc>After Tyson's fight in Vegas, Tupac and Suge clashed with rival Orlando Anderson, sparking violence.</desc>
@@ -169,7 +72,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/dc0e53d0-0767-44e1-8d23-9621d4ff3daf/2000X3000_Fallback_Real_Crime_-_Simon_Tuquabo.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-636d9d2d4ea1109a7d205a70" start="20260526220444 +0000" stop="20260527000829 +0000">
+<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260527101249 +0000" stop="20260527120145 +0000">
     <title>Escape From Death Row</title>
     <category>Movie</category>
     <desc>In late 1983, a group of inmates slated for death launched the elaborate scheme that would set them free.</desc>
@@ -177,19 +80,116 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/dc0e53d0-0767-44e1-8d23-9621d4ff3daf/2000X3000_Fallback_Real_Crime_-_Simon_Tuquabo.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-636d9d2d4ea1109a7d205a70" start="20260527000829 +0000" stop="20260527022846 +0000">
-    <title>JFK Assassination: The Oval Office To Dealey Plaza</title>
+<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260527120145 +0000" stop="20260527133158 +0000">
+    <title>Fly Colt Fly: Legend Of The Barefoot Bandit</title>
+    <sub-title>Fly Colt Fly</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Colton Harris-Moore's superhuman ability to escape capture by stealing aeroplanes and living in the wilderness made him a modern-day folk hero.</desc>
+    <date>20140101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RCRIM/SYNFCFS001EP001.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260527133158 +0000" stop="20260527143558 +0000">
+    <title>Love and Hate Crime</title>
+    <sub-title>Double Lives</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>A transsexual teenager dies at the hands of her gang-member boyfriend in Mississippi.</desc>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RCRIM/Default_Thumbnail.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260527143558 +0000" stop="20260527154132 +0000">
+    <title>Love and Hate Crime</title>
+    <sub-title>Murder in Mississippi</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>When a black man is murdered in Jackson, one of several white suspects is a girl of 18.</desc>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RCRIM/Default_Thumbnail.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260527154132 +0000" stop="20260527164749 +0000">
+    <title>Love and Hate Crime</title>
+    <sub-title>Killer with a Camera</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Reporting on the murder of Lisa Trubnikova, planned out in detail by killer Adrian Loya.</desc>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RCRIM/Default_Thumbnail.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260527164749 +0000" stop="20260527174647 +0000">
+    <title>Behind the Screams, Real American Horror</title>
+    <sub-title>A Real Psycho</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>The program, set in Small Town America in 1954, depicts graphic violence and sexual situations</desc>
+    <date>20150101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RCRIM/HFPBTSS001EP001.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260527174647 +0000" stop="20260527184618 +0000">
+    <title>Behind the Screams, Real American Horror</title>
+    <sub-title>Handsome Devil</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>The program follows the 1974 missing young women case, inspired by "The Silence of the Lambs</desc>
+    <date>20150101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RCRIM/HFPBTSS001EP002.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260527184618 +0000" stop="20260527194517 +0000">
+    <title>Behind the Screams, Real American Horror</title>
+    <sub-title>The Real Clown Killer</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>The program tells the story of a power-hungry sadist in Chicago who kills teenage boys</desc>
+    <date>20150101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RCRIM/HFPBTSS001EP003.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260527194517 +0000" stop="20260527204448 +0000">
+    <title>Behind the Screams, Real American Horror</title>
+    <sub-title>Satan Inside Me</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>The family in Cottage City, Maryland, is haunted by strange noises and a dripping sound</desc>
+    <date>20150101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RCRIM/HFPBTSS001EP004.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260527204448 +0000" stop="20260527214349 +0000">
+    <title>Behind the Screams, Real American Horror</title>
+    <sub-title>Witches Among Us</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>The story follows a family in a rural farmhouse, plagued by unexplained events and supernatural phenomena.</desc>
+    <date>20150101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RCRIM/HFPBTSS001EP005.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260527214349 +0000" stop="20260527224251 +0000">
+    <title>Behind the Screams, Real American Horror</title>
+    <sub-title>Alien Invasion</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>A terrifying tale of 6 suspects abducted from Turkey Springs, Arizona, inspired by a Hollywood horror film</desc>
+    <date>20150101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RCRIM/HFPBTSS001EP006.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260527224251 +0000" stop="20260528000208 +0000">
+    <title>Wayne Couzens: Killer In Plain Sight</title>
     <category>Movie</category>
-    <desc>Explosive new facts on who may have been responsible for JFK's untimely death are explored in a cutting-edge assessment of this historic case.</desc>
+    <desc>Interviews with experts reveal Wayne Couzens' true story, questioning his prolonged hiding from scrutiny</desc>
+    <date>20230101</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/dc0e53d0-0767-44e1-8d23-9621d4ff3daf/2000X3000_Fallback_Real_Crime_-_Simon_Tuquabo.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-636d9d2d4ea1109a7d205a70" start="20260527022846 +0000" stop="20260527041931 +0000">
-    <title>Code Of Silence - Trail Of Murder</title>
-    <category>Movie</category>
-    <desc>A documentary about the Boston Bandits gang in the 1990’s known for armored car and bank robberies.</desc>
-    <date>20120101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/dc0e53d0-0767-44e1-8d23-9621d4ff3daf/2000X3000_Fallback_Real_Crime_-_Simon_Tuquabo.jpg" />
+<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260528000208 +0000" stop="20260528013220 +0000">
+    <title>Fly Colt Fly: Legend Of The Barefoot Bandit</title>
+    <sub-title>Fly Colt Fly</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Colton Harris-Moore's superhuman ability to escape capture by stealing aeroplanes and living in the wilderness made him a modern-day folk hero.</desc>
+    <date>20140101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RCRIM/SYNFCFS001EP001.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260528013220 +0000" stop="20260528023605 +0000">
+    <title>Love and Hate Crime</title>
+    <sub-title>Double Lives</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>A transsexual teenager dies at the hands of her gang-member boyfriend in Mississippi.</desc>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RCRIM/Default_Thumbnail.jpg" />
   </programme>
   
 </tv>

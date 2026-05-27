@@ -1,191 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-6582a024a90606db3c841b1b">
+<channel id="6a1610bebdf296985fd95603-6582a024a90606db3c841b1b">
     <display-name>The FBI Files</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/7c8f08bd-78d1-45e6-a447-ad9c0142963d/FilmRise_FBIFilesThe_Logo_Color.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-6582a024a90606db3c841b1b" start="20260526041129 +0000" stop="20260526051418 +0000">
-    <title>The FBI Files</title>
-    <sub-title>Home Invaders</sub-title>
-    <episode-num system="onscreen">S05E05</episode-num>
-    <desc>Wisconsin's largest bank robbery.</desc>
-    <date>20030225</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/694fb71dad134298d64c3d319254c69f.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6582a024a90606db3c841b1b" start="20260526051418 +0000" stop="20260526061918 +0000">
-    <title>The FBI Files</title>
-    <sub-title>Held Hostage</sub-title>
-    <episode-num system="onscreen">S05E09</episode-num>
-    <desc>In 1995, a South Carolina family was taken hostage as part of a bank robbery.</desc>
-    <date>20030617</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d0c7088b43697b61fe04d25e3f03f2cf.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6582a024a90606db3c841b1b" start="20260526061918 +0000" stop="20260526072402 +0000">
-    <title>The FBI Files</title>
-    <sub-title>A Family Torn</sub-title>
-    <episode-num system="onscreen">S04E04</episode-num>
-    <desc>A man gives police conflicting accounts of what happened to his niece.</desc>
-    <date>20021210</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/47e49eb38aa70c5b5cefe498b5641e2e.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6582a024a90606db3c841b1b" start="20260526072402 +0000" stop="20260526082646 +0000">
-    <title>The FBI Files</title>
-    <sub-title>Without Remorse</sub-title>
-    <episode-num system="onscreen">S04E14</episode-num>
-    <desc>In 1986, a psychotic killer shot and killed a police officer at point-blank range.</desc>
-    <date>20020403</date>
-    <icon src="https://artworks.thetvdb.com/banners/v4/episode/1643141/screencap/659abd2e3b12c.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6582a024a90606db3c841b1b" start="20260526082646 +0000" stop="20260526093136 +0000">
-    <title>The FBI Files</title>
-    <sub-title>Terror for Sale</sub-title>
-    <episode-num system="onscreen">S07E06</episode-num>
-    <desc>In the mid-1980s, as drug profits grew, gangs ruled the streets of Chicago.</desc>
-    <date>20050825</date>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTQ3OTE0NjAwNl5BMl5BanBnXkFtZTgwMDg1NTA1NDE@._V1_.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6582a024a90606db3c841b1b" start="20260526093136 +0000" stop="20260526103647 +0000">
-    <title>The FBI Files</title>
-    <sub-title>The Coffee Shop Murders</sub-title>
-    <episode-num system="onscreen">S04E13</episode-num>
-    <desc>In July 1997, three people were shot to death at a Georgetown coffee shop.</desc>
-    <date>20020326</date>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c290af431367f7e8d9515e856ecbcf2c.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6582a024a90606db3c841b1b" start="20260526103647 +0000" stop="20260526114137 +0000">
-    <title>The FBI Files</title>
-    <sub-title>Voice of Terror</sub-title>
-    <episode-num system="onscreen">S07E01</episode-num>
-    <desc>The Cuban nationalist group Omega 7 takes credit for a murder.</desc>
-    <date>20041208</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5d9eb310c29992584b647fcfa37b7323.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6582a024a90606db3c841b1b" start="20260526114137 +0000" stop="20260526124637 +0000">
-    <title>The FBI Files</title>
-    <sub-title>Dangerous Takedown</sub-title>
-    <episode-num system="onscreen">S06E14</episode-num>
-    <desc>In 1997, two men used a sledgehammer to break into a Camden, New Jersey home.</desc>
-    <date>20041127</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/8b4f09b7dae51acd602f3e8dd976d458.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6582a024a90606db3c841b1b" start="20260526124637 +0000" stop="20260526134917 +0000">
-    <title>The FBI Files</title>
-    <sub-title>Operation Goldenrod</sub-title>
-    <episode-num system="onscreen">S06E18</episode-num>
-    <desc>The FBI captures five terrorists who tried to hijack a Royal Jordanian flight in 1985.</desc>
-    <date>20041208</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5d9eb310c29992584b647fcfa37b7323.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6582a024a90606db3c841b1b" start="20260526134917 +0000" stop="20260526145155 +0000">
-    <title>The FBI Files</title>
-    <sub-title>Lost Boys</sub-title>
-    <episode-num system="onscreen">S04E10</episode-num>
-    <desc>Two young men go on a spree of robbery, kidnapping and murder, then they disappear.</desc>
-    <date>20020226</date>
-    <icon src="https://artworks.thetvdb.com/banners/v4/episode/1643101/screencap/659abc5a40083.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6582a024a90606db3c841b1b" start="20260526145155 +0000" stop="20260526155444 +0000">
-    <title>The FBI Files</title>
-    <sub-title>Radical Agenda</sub-title>
-    <episode-num system="onscreen">S06E04</episode-num>
-    <desc>In December 1981, a New Jersey state trooper was shot to death on the side of Interstate 80.</desc>
-    <date>20040525</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d15dc9402668527827bdb73a9233a6ad.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6582a024a90606db3c841b1b" start="20260526155444 +0000" stop="20260526165722 +0000">
-    <title>The FBI Files</title>
-    <sub-title>When Seconds Count</sub-title>
-    <episode-num system="onscreen">S04E17</episode-num>
-    <desc>In the upscale town of Lodi, California, a 12-year-old girl was taken from her home.</desc>
-    <date>20020417</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/3f233518033434a6ebec409b1905a860.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6582a024a90606db3c841b1b" start="20260526165722 +0000" stop="20260526180011 +0000">
-    <title>The FBI Files</title>
-    <sub-title>Lawless</sub-title>
-    <episode-num system="onscreen">S05E07</episode-num>
-    <desc>A domestic disturbance call helps police to nab a convicted bank robber.</desc>
-    <date>20030315</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b077fac6f6d07f528c14e7380d5377be.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6582a024a90606db3c841b1b" start="20260526180011 +0000" stop="20260526190511 +0000">
-    <title>The FBI Files</title>
-    <sub-title>Tracks of a Killer</sub-title>
-    <episode-num system="onscreen">S05E06</episode-num>
-    <desc>In the summer of 1999, a brutal serial killer who traveled by train terrorized Texas.</desc>
-    <date>20030204</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/75a80665fe5278415e83f9ef9eb2cd57.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6582a024a90606db3c841b1b" start="20260526190511 +0000" stop="20260526200800 +0000">
-    <title>The FBI Files</title>
-    <sub-title>The Killing Zone</sub-title>
-    <episode-num system="onscreen">S06E05</episode-num>
-    <desc>Authorities try to gather evidence of murder and drug trafficking by a Washington, D.C., gang.</desc>
-    <date>20040605</date>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/ef7ffdf95683f00d5a411c6f7b661734.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6582a024a90606db3c841b1b" start="20260526200800 +0000" stop="20260526211050 +0000">
-    <title>The FBI Files</title>
-    <sub-title>Brotherhood of Hate</sub-title>
-    <episode-num system="onscreen">S06E08</episode-num>
-    <desc>After an Arkansas state trooper is shot and killed, officers catch the murderer.</desc>
-    <date>20040810</date>
-    <icon src="https://artworks.thetvdb.com/banners/episodes/104781/4095091.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6582a024a90606db3c841b1b" start="20260526211050 +0000" stop="20260526221607 +0000">
-    <title>The FBI Files</title>
-    <sub-title>Deadly Secrets</sub-title>
-    <episode-num system="onscreen">S04E08</episode-num>
-    <desc>In 1992, a young mother was gunned down in front of her children and police were left baffled.</desc>
-    <date>20020129</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/748c7a6b48e1cebe24b4a0317d456982.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6582a024a90606db3c841b1b" start="20260526221607 +0000" stop="20260526231847 +0000">
-    <title>The FBI Files</title>
-    <sub-title>Forced Entry</sub-title>
-    <episode-num system="onscreen">S06E17</episode-num>
-    <desc>In 1994, men dressed as police officers commit a plague of home robberies in Detroit.</desc>
-    <date>20041127</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/8b4f09b7dae51acd602f3e8dd976d458.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6582a024a90606db3c841b1b" start="20260526231847 +0000" stop="20260527002131 +0000">
-    <title>The FBI Files</title>
-    <sub-title>Without Remorse</sub-title>
-    <episode-num system="onscreen">S04E14</episode-num>
-    <desc>In 1986, a psychotic killer shot and killed a police officer at point-blank range.</desc>
-    <date>20020403</date>
-    <icon src="https://artworks.thetvdb.com/banners/v4/episode/1643141/screencap/659abd2e3b12c.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6582a024a90606db3c841b1b" start="20260527002131 +0000" stop="20260527012415 +0000">
-    <title>The FBI Files</title>
-    <sub-title>The Initiation</sub-title>
-    <episode-num system="onscreen">S05E10</episode-num>
-    <desc>In February 1988, a record store clerk in Ohio was fatally shot in his van.</desc>
-    <date>20030617</date>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/cebfe19bfa0eb45cde3f17521d9c086a.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-6582a024a90606db3c841b1b" start="20260527012415 +0000" stop="20260527022727 +0000">
+<programme channel="6a1610bebdf296985fd95603-6582a024a90606db3c841b1b" start="20260527012415 +0000" stop="20260527022727 +0000">
     <title>The FBI Files</title>
     <sub-title>Betrayed</sub-title>
     <episode-num system="onscreen">S04E16</episode-num>
@@ -194,7 +14,7 @@
     <icon src="https://metadata-static.plex.tv/d/gracenote/d8a12dd411a52058657be08f5565b364.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6582a024a90606db3c841b1b" start="20260527022727 +0000" stop="20260527033007 +0000">
+<programme channel="6a1610bebdf296985fd95603-6582a024a90606db3c841b1b" start="20260527022727 +0000" stop="20260527033007 +0000">
     <title>The FBI Files</title>
     <sub-title>Killer Instinct</sub-title>
     <episode-num system="onscreen">S06E09</episode-num>
@@ -203,13 +23,202 @@
     <icon src="https://m.media-amazon.com/images/M/MV5BMjQxMjI2ODc0MV5BMl5BanBnXkFtZTgwMTc0NDExNDE@._V1_.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-6582a024a90606db3c841b1b" start="20260527033007 +0000" stop="20260527043458 +0000">
+<programme channel="6a1610bebdf296985fd95603-6582a024a90606db3c841b1b" start="20260527033007 +0000" stop="20260527043458 +0000">
     <title>The FBI Files</title>
     <sub-title>Death of a Diplomat</sub-title>
     <episode-num system="onscreen">S07E07</episode-num>
     <desc>A car bomb kills Orlando Letelier.</desc>
     <date>20050710</date>
     <icon src="https://metadata-static.plex.tv/7/gracenote/76a469139a459a788abd04a1b09de694.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6582a024a90606db3c841b1b" start="20260527043458 +0000" stop="20260527054027 +0000">
+    <title>The FBI Files</title>
+    <sub-title>Caught in the Act</sub-title>
+    <episode-num system="onscreen">S05E02</episode-num>
+    <desc>Authorities range from Alabama to Virginia in search of murder suspects.</desc>
+    <date>20030205</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8a81fbb01efcba874c3156f9a8412d09.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6582a024a90606db3c841b1b" start="20260527054027 +0000" stop="20260527064518 +0000">
+    <title>The FBI Files</title>
+    <sub-title>Inside the Bureau</sub-title>
+    <episode-num system="onscreen">S06E15</episode-num>
+    <desc>Investigative techniques.</desc>
+    <date>20050709</date>
+    <icon src="https://artworks.thetvdb.com/banners/episodes/104781/4095057.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6582a024a90606db3c841b1b" start="20260527064518 +0000" stop="20260527074808 +0000">
+    <title>The FBI Files</title>
+    <sub-title>Home Invaders</sub-title>
+    <episode-num system="onscreen">S05E05</episode-num>
+    <desc>Wisconsin's largest bank robbery.</desc>
+    <date>20030225</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/694fb71dad134298d64c3d319254c69f.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6582a024a90606db3c841b1b" start="20260527074808 +0000" stop="20260527085048 +0000">
+    <title>The FBI Files</title>
+    <sub-title>Ivy League Murders</sub-title>
+    <episode-num system="onscreen">S07E16</episode-num>
+    <desc>Two beloved professors at Dartmouth College are brutally murdered in their home.</desc>
+    <date>20060303</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTAzNTM4NDg0MDBeQTJeQWpwZ15BbWU4MDI3NTUwNTQx._V1_.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6582a024a90606db3c841b1b" start="20260527085048 +0000" stop="20260527095327 +0000">
+    <title>The FBI Files</title>
+    <sub-title>Deadly Heist</sub-title>
+    <episode-num system="onscreen">S04E06</episode-num>
+    <desc>In Arizona, a shipment of money vanished without a trace, along with the two men hired to guard it.</desc>
+    <date>20011030</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/ccd40a0d1dbaaeffcc3a7c50b99d2e19.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6582a024a90606db3c841b1b" start="20260527095327 +0000" stop="20260527105827 +0000">
+    <title>The FBI Files</title>
+    <sub-title>Criminal Enterprise</sub-title>
+    <episode-num system="onscreen">S05E16</episode-num>
+    <desc>An anonymous tip links the kidnapping of a jeweler with a bank robbery two months earlier.</desc>
+    <date>20031104</date>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b45c64b86da38d2f0c1044bdf8fc4f15.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6582a024a90606db3c841b1b" start="20260527105827 +0000" stop="20260527120104 +0000">
+    <title>The FBI Files</title>
+    <sub-title>When Seconds Count</sub-title>
+    <episode-num system="onscreen">S04E17</episode-num>
+    <desc>In the upscale town of Lodi, California, a 12-year-old girl was taken from her home.</desc>
+    <date>20020417</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3f233518033434a6ebec409b1905a860.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6582a024a90606db3c841b1b" start="20260527120104 +0000" stop="20260527130354 +0000">
+    <title>The FBI Files</title>
+    <sub-title>Fateful Crossing</sub-title>
+    <episode-num system="onscreen">S05E17</episode-num>
+    <desc>In January 1984, a U.S. Customs officer disappeared from his post near the Del Rio.</desc>
+    <date>20031111</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a8e8eaf6dbcca14e72c603cdfa651cdf.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6582a024a90606db3c841b1b" start="20260527130354 +0000" stop="20260527140905 +0000">
+    <title>The FBI Files</title>
+    <sub-title>The Coffee Shop Murders</sub-title>
+    <episode-num system="onscreen">S04E13</episode-num>
+    <desc>In July 1997, three people were shot to death at a Georgetown coffee shop.</desc>
+    <date>20020326</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c290af431367f7e8d9515e856ecbcf2c.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6582a024a90606db3c841b1b" start="20260527140905 +0000" stop="20260527151355 +0000">
+    <title>The FBI Files</title>
+    <sub-title>Crackdown</sub-title>
+    <episode-num system="onscreen">S07E10</episode-num>
+    <desc>Authorities sought to put two ruthless drug kingpins behind bars for their crimes.</desc>
+    <date>20050908</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNDM1MTQ5ODA4OV5BMl5BanBnXkFtZTgwMzQxNzQ0NDE@._V1_.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6582a024a90606db3c841b1b" start="20260527151355 +0000" stop="20260527161636 +0000">
+    <title>The FBI Files</title>
+    <sub-title>Killer Instinct</sub-title>
+    <episode-num system="onscreen">S06E09</episode-num>
+    <desc>In 1992, a Washington, DC professor was shot and killed as she tried to get into her car.</desc>
+    <date>20040612</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjQxMjI2ODc0MV5BMl5BanBnXkFtZTgwMTc0NDExNDE@._V1_.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6582a024a90606db3c841b1b" start="20260527161636 +0000" stop="20260527172126 +0000">
+    <title>The FBI Files</title>
+    <sub-title>Philly Mob War</sub-title>
+    <episode-num system="onscreen">S07E03</episode-num>
+    <desc>In 1990s Philadelphia, a ruthless grab for power led to a full-scale mob war.</desc>
+    <date>20050901</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f1713bc4c90f62966bb5170ed7c7f21c.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6582a024a90606db3c841b1b" start="20260527172126 +0000" stop="20260527182617 +0000">
+    <title>The FBI Files</title>
+    <sub-title>Robin the Hood</sub-title>
+    <episode-num system="onscreen">S07E13</episode-num>
+    <desc>Notorious bank robber Byron Chubbuck escaped from New Mexico State Penitentiary in 2000.</desc>
+    <date>20060310</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9f000e2c00cb3ec23511b4d0c40fd110.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6582a024a90606db3c841b1b" start="20260527182617 +0000" stop="20260527193116 +0000">
+    <title>The FBI Files</title>
+    <sub-title>A Bitter End</sub-title>
+    <episode-num system="onscreen">S06E12</episode-num>
+    <desc>In 1996, a series of bank robberies in Texas baffled authorities.</desc>
+    <date>20050326</date>
+    <icon src="https://artworks.thetvdb.com/banners/v4/episode/4095093/screencap/659abef3cf884.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6582a024a90606db3c841b1b" start="20260527193116 +0000" stop="20260527203633 +0000">
+    <title>The FBI Files</title>
+    <sub-title>Deadly Secrets</sub-title>
+    <episode-num system="onscreen">S04E08</episode-num>
+    <desc>In 1992, a young mother was gunned down in front of her children and police were left baffled.</desc>
+    <date>20020129</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/748c7a6b48e1cebe24b4a0317d456982.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6582a024a90606db3c841b1b" start="20260527203633 +0000" stop="20260527213913 +0000">
+    <title>The FBI Files</title>
+    <sub-title>Operation Goldenrod</sub-title>
+    <episode-num system="onscreen">S06E18</episode-num>
+    <desc>The FBI captures five terrorists who tried to hijack a Royal Jordanian flight in 1985.</desc>
+    <date>20041208</date>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/5d9eb310c29992584b647fcfa37b7323.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6582a024a90606db3c841b1b" start="20260527213913 +0000" stop="20260527224153 +0000">
+    <title>The FBI Files</title>
+    <sub-title>Ivy League Murders</sub-title>
+    <episode-num system="onscreen">S07E16</episode-num>
+    <desc>Two beloved professors at Dartmouth College are brutally murdered in their home.</desc>
+    <date>20060303</date>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTAzNTM4NDg0MDBeQTJeQWpwZ15BbWU4MDI3NTUwNTQx._V1_.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6582a024a90606db3c841b1b" start="20260527224153 +0000" stop="20260527234443 +0000">
+    <title>The FBI Files</title>
+    <sub-title>Dark Woods</sub-title>
+    <episode-num system="onscreen">S05E11</episode-num>
+    <desc>In June 1973, a young girl was abducted from a state park while camping with her family.</desc>
+    <date>20030902</date>
+    <icon src="https://artworks.thetvdb.com/banners/episodes/104781/3259231.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6582a024a90606db3c841b1b" start="20260527234443 +0000" stop="20260528004933 +0000">
+    <title>The FBI Files</title>
+    <sub-title>Deadly Payout</sub-title>
+    <episode-num system="onscreen">S07E08</episode-num>
+    <desc>A copy machine, placed in a busy Las Vegas casino, is actually a bomb.</desc>
+    <date>20050124</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0dfb77b534c26daa24699b3c911f0d19.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6582a024a90606db3c841b1b" start="20260528004933 +0000" stop="20260528015223 +0000">
+    <title>The FBI Files</title>
+    <sub-title>Home Invaders</sub-title>
+    <episode-num system="onscreen">S05E05</episode-num>
+    <desc>Wisconsin's largest bank robbery.</desc>
+    <date>20030225</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/694fb71dad134298d64c3d319254c69f.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-6582a024a90606db3c841b1b" start="20260528015223 +0000" stop="20260528025506 +0000">
+    <title>The FBI Files</title>
+    <sub-title>Held for Ransom</sub-title>
+    <episode-num system="onscreen">S04E18</episode-num>
+    <desc>In rural Texas, a millionaire's teenage daughter was kidnapped on her way to school.</desc>
+    <date>20020501</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/954cab6a84eb16987ed263e15ebc3075.jpg" />
   </programme>
   
 </tv>

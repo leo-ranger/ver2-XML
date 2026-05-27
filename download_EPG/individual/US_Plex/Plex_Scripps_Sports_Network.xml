@@ -1,90 +1,144 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-69b047eed42e70e462105dbb">
+<channel id="6a1610bebdf296985fd95603-69b047eed42e70e462105dbb">
     <display-name>Scripps Sports Network</display-name>
     <icon src="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/e8dddc90d079e4fcc8930c345f05ebd1.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-69b047eed42e70e462105dbb" start="20260526040000 +0000" stop="20260526060000 +0000">
-    <title>Scripps National Spelling Bee Semi-Finals</title>
-    <sub-title>Scripps National Spelling Bee Semi-Finals</sub-title>
-    <desc>Coverage of the 96th Scripps National Spelling Bee commences from Washington, D.C., where regional Bee champions from around the country have gathered for the semifinal round of play.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-69b047eed42e70e462105dbb" start="20260526060000 +0000" stop="20260526080000 +0000">
-    <title>Scripps National Spelling Bee Finals</title>
-    <sub-title>Scripps National Spelling Bee Finals</sub-title>
-    <desc>Live coverage of the 96th Scripps National Spelling Bee continues from Washington, D.C.; the competition is challenging and the contestants are all geared up to give their best.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-69b047eed42e70e462105dbb" start="20260526080000 +0000" stop="20260526100000 +0000">
-    <title>Scripps National Spelling Bee Semi-Finals</title>
-    <sub-title>Scripps National Spelling Bee Semi-Finals</sub-title>
-    <desc>Coverage of the semi-finals of the 100th Scripps National Spelling Bee.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-69b047eed42e70e462105dbb" start="20260526100000 +0000" stop="20260526120000 +0000">
-    <title>Scripps National Spelling Bee Finals</title>
-    <sub-title>Scripps National Spelling Bee Finals</sub-title>
-    <desc>Coverage of the 100th Scripps National Spelling Bee.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-69b047eed42e70e462105dbb" start="20260526120000 +0000" stop="20260526160000 +0000">
-    <title>Scripps National Spelling Bee Preliminaries</title>
-    <sub-title>Scripps National Spelling Bee Preliminaries</sub-title>
-    <desc>Live coverage of the 101st Scripps National Spelling Bee kicks off.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-69b047eed42e70e462105dbb" start="20260526160000 +0000" stop="20260526190000 +0000">
-    <title>Scripps National Spelling Bee Preliminaries</title>
-    <sub-title>Scripps National Spelling Bee Preliminaries</sub-title>
-    <desc>Live coverage of the 101st Scripps National Spelling Bee kicks off.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-69b047eed42e70e462105dbb" start="20260526190000 +0000" stop="20260526210000 +0000">
-    <title>Women's Soccer</title>
-    <sub-title>Teal Rising Cup: Club América vs. Palmeiras</sub-title>
-    <desc>From CPKC Stadium in Kansas City, Mo.</desc>
-    <date>20260409</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-69b047eed42e70e462105dbb" start="20260526210000 +0000" stop="20260526214500 +0000">
-    <title>Teal Rising Cup Match Break Show</title>
-    <sub-title>Teal Rising Cup Match Break Show</sub-title>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-69b047eed42e70e462105dbb" start="20260526214500 +0000" stop="20260527000000 +0000">
-    <title>Women's Soccer</title>
-    <sub-title>Teal Rising Cup: Kansas City Current vs. Corinthians</sub-title>
-    <desc>From CPKC Stadium in Kansas City, Mo.</desc>
-    <date>20260409</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-69b047eed42e70e462105dbb" start="20260527000000 +0000" stop="20260527020000 +0000">
-    <title>Women's Soccer</title>
-    <sub-title>Teal Rising Cup: Club América vs. Corinthians</sub-title>
-    <desc>Third-Place match.</desc>
-    <date>20260412</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-69b047eed42e70e462105dbb" start="20260527020000 +0000" stop="20260527030000 +0000">
+<programme channel="6a1610bebdf296985fd95603-69b047eed42e70e462105dbb" start="20260527020000 +0000" stop="20260527030000 +0000">
     <title>Teal Rising Cup Match Break Show</title>
     <sub-title>Teal Rising Cup Match Break Show</sub-title>
     <date>20260527</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-69b047eed42e70e462105dbb" start="20260527030000 +0000" stop="20260527050000 +0000">
+<programme channel="6a1610bebdf296985fd95603-69b047eed42e70e462105dbb" start="20260527030000 +0000" stop="20260527050000 +0000">
     <title>Women's Soccer</title>
     <sub-title>Teal Rising Cup: Kansas City Current vs. Palmeiras</sub-title>
     <desc>Championship.</desc>
     <date>20260412</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-69b047eed42e70e462105dbb" start="20260527050000 +0000" stop="20260527073000 +0000">
+    <title>Soccer</title>
+    <sub-title>FIFA Legends Match</sub-title>
+    <date>20260117</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-69b047eed42e70e462105dbb" start="20260527073000 +0000" stop="20260527080000 +0000">
+    <title>Golf's Greatest Holes</title>
+    <sub-title>Portugal, Part 1</sub-title>
+    <desc>From the rugged terrain of Porto in the north to the sun-drenched coastal playground of the Algarve, Golf's Greatest Holes offers an immersive experience of Portugal's broad variety of championship-quality golf courses.</desc>
+    <date>20260425</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-69b047eed42e70e462105dbb" start="20260527080000 +0000" stop="20260527090000 +0000">
+    <title>Compton Magic</title>
+    <sub-title>Fathers And Sons</sub-title>
+    <episode-num system="onscreen">S01E104</episode-num>
+    <desc>It's a non-stop hustle on and off the court for AAU basketball juggernaut, The Compton Magic, as its coaches, current and former players fight to stay on top, and possibly launch the careers of the next generation of college and NBA stars.</desc>
+    <date>20260405</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-69b047eed42e70e462105dbb" start="20260527090000 +0000" stop="20260527100000 +0000">
+    <title>Compton Magic</title>
+    <sub-title>Homecoming</sub-title>
+    <episode-num system="onscreen">S01E105</episode-num>
+    <desc>It's a non-stop hustle on and off the court for AAU basketball juggernaut, The Compton Magic, as its coaches, current and former players fight to stay on top, and possibly launch the careers of the next generation of college and NBA stars.</desc>
+    <date>20260405</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-69b047eed42e70e462105dbb" start="20260527100000 +0000" stop="20260527110000 +0000">
+    <title>Compton Magic</title>
+    <sub-title>Moment Of Truth</sub-title>
+    <episode-num system="onscreen">S01E106</episode-num>
+    <desc>It's a non-stop hustle on and off the court for AAU basketball juggernaut, The Compton Magic, as its coaches, current and former players fight to stay on top, and possibly launch the careers of the next generation of college and NBA stars.</desc>
+    <date>20260405</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-69b047eed42e70e462105dbb" start="20260527110000 +0000" stop="20260527120000 +0000">
+    <title>Compton Magic</title>
+    <sub-title>The Brotherhood</sub-title>
+    <episode-num system="onscreen">S01E101</episode-num>
+    <desc>It's a non-stop hustle on and off the court for AAU basketball juggernaut, The Compton Magic, as its coaches, current and former players fight to stay on top, and possibly launch the careers of the next generation of college and NBA stars.</desc>
+    <date>20260318</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-69b047eed42e70e462105dbb" start="20260527120000 +0000" stop="20260527160000 +0000">
+    <title>Scripps National Spelling Bee Quarter Finals</title>
+    <sub-title>Scripps National Spelling Bee Quarter Finals</sub-title>
+    <desc>Live coverage of the 101st Scripps National Spelling Bee.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-69b047eed42e70e462105dbb" start="20260527160000 +0000" stop="20260527170000 +0000">
+    <title>Scripps National Spelling Bee Quarter Finals</title>
+    <sub-title>Scripps National Spelling Bee Quarter Finals</sub-title>
+    <desc>Live coverage of the 101st Scripps National Spelling Bee.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-69b047eed42e70e462105dbb" start="20260527170000 +0000" stop="20260527173000 +0000">
+    <title>Inspired Lives</title>
+    <sub-title>Ali Truwit</sub-title>
+    <desc>A fearless swimmer's remarkable journey from near-death experience to Paralympic champion and advocate.</desc>
+    <date>20250808</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-69b047eed42e70e462105dbb" start="20260527173000 +0000" stop="20260527180000 +0000">
+    <title>Inspired Lives</title>
+    <sub-title>Jerami Grant, NBA's Portland Trail Blazers</sub-title>
+    <desc>The Portland Trail Blazers' Jerami Grant is teaching kids to excel on and off the basketball court toward a lifetime of success.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-69b047eed42e70e462105dbb" start="20260527180000 +0000" stop="20260527183000 +0000">
+    <title>Inspired Lives</title>
+    <sub-title>Kalen Jackson, Owner, NFL's Indianapolis Colts</sub-title>
+    <desc>Kalen Jackson is leading the NFL's Indianapolis Colts in supporting children struggling with mental health issues and combating hunger. Colts running back Jonathan Taylor and head coach Shane Steichen discuss their support for Jackson's work.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-69b047eed42e70e462105dbb" start="20260527183000 +0000" stop="20260527223000 +0000">
+    <title>Scripps National Spelling Bee Semi-Finals</title>
+    <sub-title>Scripps National Spelling Bee Semi-Finals</sub-title>
+    <desc>Coverage of the 101st Scripps National Spelling Bee.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-69b047eed42e70e462105dbb" start="20260527223000 +0000" stop="20260527230000 +0000">
+    <title>Inspired Lives</title>
+    <sub-title>Two-time Indianapolis 500 Champion Josef Newgarden</sub-title>
+    <desc>The 2023 and 2024 Indy 500 Champion discusses his pursuit of racing excellence and his philanthropic work benefiting children in need.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-69b047eed42e70e462105dbb" start="20260527230000 +0000" stop="20260527233000 +0000">
+    <title>Inspired Lives</title>
+    <sub-title>NFL Hall Of Fame Quarterback Joe Namath</sub-title>
+    <desc>Joe Namath is the author of the most famous guarantee in North American sports history. Now he's helping military veterans and underserved children beat the odds.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-69b047eed42e70e462105dbb" start="20260527233000 +0000" stop="20260528000000 +0000">
+    <title>Inspired Lives</title>
+    <sub-title>Los Angeles Angels Zach Neto/Team USA Paralympian, Part Two</sub-title>
+    <desc>Second-year Los Angeles Angels shortstop Zach Neto is setting records on the field, while winning children's hearts in his community; Team USA Paralympian Ali Truwit, a follow-up on a young athlete's courageous journey.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-69b047eed42e70e462105dbb" start="20260528000000 +0000" stop="20260528020000 +0000">
+    <title>Scripps National Spelling Bee Semi-Finals</title>
+    <sub-title>Scripps National Spelling Bee Semi-Finals</sub-title>
+    <desc>Coverage of the 101st Scripps National Spelling Bee.</desc>
+    <date>20260528</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-69b047eed42e70e462105dbb" start="20260528020000 +0000" stop="20260528030000 +0000">
+    <title>Compton Magic</title>
+    <sub-title>Dog Fight</sub-title>
+    <episode-num system="onscreen">S01E102</episode-num>
+    <desc>It's a non-stop hustle on and off the court for AAU basketball juggernaut, The Compton Magic, as its coaches, current and former players fight to stay on top, and possibly launch the careers of the next generation of college and NBA stars.</desc>
+    <date>20260318</date>
   </programme>
   
 </tv>

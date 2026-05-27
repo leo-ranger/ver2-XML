@@ -1,414 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e">
+<channel id="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e">
     <display-name>GOLFPASS</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/8639a81b-d79c-4a70-8034-26edfb0e13bc/golfpass-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526033200 +0000" stop="20260526042000 +0000">
-    <title>The Big Break</title>
-    <sub-title>You're So Money...and You Don't Even Know It</sub-title>
-    <episode-num system="onscreen">S15E04</episode-num>
-    <desc>Callouts, collapses and conning lead to difficult decisions and devastating consequences.</desc>
-    <date>20110606</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/0021234f6f75c7320c220d98dacf49dd.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526042000 +0000" stop="20260526051400 +0000">
-    <title>Golf Channel Podcast with Rex &amp; Lav</title>
-    <sub-title>Golf Channel Podcast with Rex &amp; Lav</sub-title>
-    <episode-num system="onscreen">S2026E03</episode-num>
-    <desc>GolfChannel.com writers discuss and debate the news of the PGA Tour, DP World Tour, LPGA, Korn Ferry Tour, Champions Tour, College Golf and the amateur game.</desc>
-    <date>20260525</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526051400 +0000" stop="20260526060400 +0000">
-    <title>5 Clubs With Gary Williams</title>
-    <sub-title>5 Clubs With Gary Williams</sub-title>
-    <episode-num system="onscreen">S2026E45</episode-num>
-    <desc>Viewpoints of people in the game with people who love the game; we discuss what is of interest to them in the vast and deep reservoir of stories within the game of golf.</desc>
-    <date>20260525</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526060400 +0000" stop="20260526062900 +0000">
-    <title>School of Golf</title>
-    <sub-title>Chapter 9: Drive, Chip and Putt</sub-title>
-    <episode-num system="onscreen">S09E09</episode-num>
-    <desc>This lesson features tips on improving drives, chipping and putting, with useful advice for everyone.</desc>
-    <date>20190402</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/a9d1371601476b201cbfc670ce56ad4e.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526062900 +0000" stop="20260526065400 +0000">
-    <title>School of Golf</title>
-    <sub-title>Chapter 10: The Scoring Zone</sub-title>
-    <episode-num system="onscreen">S09E10</episode-num>
-    <desc>Martin Hall and Blair O'Neal are at Four Seasons Golf and Sports Club Orlando to teach the key shots in the scoring zone. Martin reveals a tip for mid-wedge shots he learned in-person from 2019 Masters champion Tiger Woods.</desc>
-    <date>20190423</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/88438ea0c73c9b961ece84d0ac7b5238.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526065400 +0000" stop="20260526071900 +0000">
-    <title>School of Golf</title>
-    <sub-title>Chapter 11: Teamwork</sub-title>
-    <episode-num system="onscreen">S09E11</episode-num>
-    <desc>Martin Hall and Blair O'Neal teach great drills that require a partner. Martin also teaches teamwork tips for driving it longer, sticking your approach shots, hitting solid pitch shots, and making more putts.</desc>
-    <date>20190430</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/06e17a6243c905bce52e51b534c92d06.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526071900 +0000" stop="20260526074500 +0000">
-    <title>School of Golf</title>
-    <sub-title>Chapter 12: Path to Success</sub-title>
-    <episode-num system="onscreen">S09E12</episode-num>
-    <desc>Martin Hall and Blair O'Neal teach how to putt like the U.S. Open champion. Learn drills to improve your grip, aim, path and keys to sinking more putts. Martin also discusses what you can learn from Ben Hogan's legendary ball striking.</desc>
-    <date>20190618</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f624b866320672df62abe3f2043ed8bd.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526074500 +0000" stop="20260526075500 +0000">
-    <title>Golf Central</title>
-    <sub-title>Golf Central</sub-title>
-    <episode-num system="onscreen">S2026E130</episode-num>
-    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526075500 +0000" stop="20260526080500 +0000">
-    <title>Golf Central</title>
-    <sub-title>Golf Central</sub-title>
-    <episode-num system="onscreen">S2026E130</episode-num>
-    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526080500 +0000" stop="20260526081500 +0000">
-    <title>Golf Central</title>
-    <sub-title>Golf Central</sub-title>
-    <episode-num system="onscreen">S2026E130</episode-num>
-    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526081500 +0000" stop="20260526090900 +0000">
-    <title>Golf Channel Podcast with Rex &amp; Lav</title>
-    <sub-title>Golf Channel Podcast with Rex &amp; Lav</sub-title>
-    <episode-num system="onscreen">S2026E03</episode-num>
-    <desc>GolfChannel.com writers discuss and debate the news of the PGA Tour, DP World Tour, LPGA, Korn Ferry Tour, Champions Tour, College Golf and the amateur game.</desc>
-    <date>20260525</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526090900 +0000" stop="20260526095900 +0000">
-    <title>5 Clubs With Gary Williams</title>
-    <sub-title>5 Clubs With Gary Williams</sub-title>
-    <episode-num system="onscreen">S2026E45</episode-num>
-    <desc>Viewpoints of people in the game with people who love the game; we discuss what is of interest to them in the vast and deep reservoir of stories within the game of golf.</desc>
-    <date>20260525</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526095900 +0000" stop="20260526100900 +0000">
-    <title>Golf Central</title>
-    <sub-title>Golf Central</sub-title>
-    <episode-num system="onscreen">S2026E130</episode-num>
-    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526100900 +0000" stop="20260526101900 +0000">
-    <title>Golf Central</title>
-    <sub-title>Golf Central</sub-title>
-    <episode-num system="onscreen">S2026E130</episode-num>
-    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526101900 +0000" stop="20260526113300 +0000">
-    <title>The Big Break</title>
-    <sub-title>Rematch - Kip Henley vs. Don Donatello</sub-title>
-    <desc>Contestants battle for the opportunity to compete in a professional golf event.</desc>
-    <date>20251119</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526113300 +0000" stop="20260526115900 +0000">
-    <title>Golf Fitness Over 50+</title>
-    <sub-title>Strength</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Fitness coach Don Saladino is joined by instructor Debbie Doniger and Vince Cellini for a workout plan aimed at the over 50 golfer will help to swing faster with more control and less risk of injury.</desc>
-    <date>20250128</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526115900 +0000" stop="20260526122400 +0000">
-    <title>Golf Fitness Over 50+</title>
-    <sub-title>Mobility</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Fitness coach Don Saladino is joined by instructor Debbie Doniger and Vince Cellini for a workout plan aimed at the over 50 golfer will help to swing faster with more control and less risk of injury.</desc>
-    <date>20250204</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526122400 +0000" stop="20260526123400 +0000">
-    <title>Golf Central</title>
-    <sub-title>Golf Central</sub-title>
-    <episode-num system="onscreen">S2026E130</episode-num>
-    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526123400 +0000" stop="20260526124400 +0000">
-    <title>Golf Central</title>
-    <sub-title>Golf Central</sub-title>
-    <episode-num system="onscreen">S2026E130</episode-num>
-    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526124400 +0000" stop="20260526130900 +0000">
-    <title>Swing Expedition With Chris Como</title>
-    <sub-title>Randy Smith &amp; Scottie Scheffler</sub-title>
-    <episode-num system="onscreen">S03E01</episode-num>
-    <desc>Masters champion Scottie Scheffler gives Chris an inside look alongside longtime coach Randy Smith.</desc>
-    <date>20210719</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f238833d1f279d28b58df8503cb0f136.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526130900 +0000" stop="20260526133400 +0000">
-    <title>Swing Expedition With Chris Como</title>
-    <sub-title>Randy Smith</sub-title>
-    <episode-num system="onscreen">S03E02</episode-num>
-    <desc>Chris and Randy dive into golf swing technique and discuss things such as ball position and club path that can help amateur golfers of any handicap.</desc>
-    <date>20210719</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9f37976f4c27d032a5748074141d2a70.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526133400 +0000" stop="20260526135900 +0000">
-    <title>Swing Expedition With Chris Como</title>
-    <sub-title>Carlos Ortiz &amp; Justin Poynter</sub-title>
-    <episode-num system="onscreen">S03E03</episode-num>
-    <desc>Chris spends time with PGA Tour winner Carlos Ortiz and his coach, Justin Poynter.</desc>
-    <date>20210802</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/8d23a5030fadd722444f078278823485.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526135900 +0000" stop="20260526142400 +0000">
-    <title>Swing Expedition With Chris Como</title>
-    <sub-title>Dr. Young-Hoo Kwon</sub-title>
-    <episode-num system="onscreen">S03E04</episode-num>
-    <desc>Chris and Biomechanics professor, Dr. Young-Hoo Kwon, address what can be learned from analyzing the biomechanics of the golf swing.</desc>
-    <date>20210808</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6da79e9d209554c3feef9e5ee7601a32.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526142400 +0000" stop="20260526144900 +0000">
-    <title>Swing Expedition With Chris Como</title>
-    <sub-title>Justin Parsons</sub-title>
-    <episode-num system="onscreen">S03E05</episode-num>
-    <desc>Chris travels to the Sea Island Golf Performance Center where he meets up with Justin Parsons.</desc>
-    <date>20210813</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d2a033faa68ce8b2b8c68acf2ae0ec1e.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526144900 +0000" stop="20260526151400 +0000">
-    <title>Swing Expedition With Chris Como</title>
-    <sub-title>Todd Anderson and Tyler Strafaci</sub-title>
-    <episode-num system="onscreen">S03E06</episode-num>
-    <desc>Todd presents the structure of his teaching, taking Chris all the way from developing a correct motion, to ways to implement on-course pressure into practice.</desc>
-    <date>20210821</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f4269efde4be0975f98ad4b797b3a38c.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526151400 +0000" stop="20260526153900 +0000">
-    <title>Swing Expedition With Chris Como</title>
-    <sub-title>Athletic Motion Golf</sub-title>
-    <episode-num system="onscreen">S03E07</episode-num>
-    <desc>Chris Como travels to the Athletic Motion Golf Warehouse in Cartersville, GA where he joins the brains behind AMG, Mike Granato and Shaun Webb.</desc>
-    <date>20210828</date>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/290a8ef766fafe8c16a5b27c1f0c013e.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526153900 +0000" stop="20260526154900 +0000">
-    <title>Golf Central</title>
-    <sub-title>Golf Central</sub-title>
-    <episode-num system="onscreen">S2026E130</episode-num>
-    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526154900 +0000" stop="20260526155900 +0000">
-    <title>Golf Central</title>
-    <sub-title>Golf Central</sub-title>
-    <episode-num system="onscreen">S2026E130</episode-num>
-    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526155900 +0000" stop="20260526162400 +0000">
-    <title>Ask Rory</title>
-    <sub-title>Attacking Par 5s</sub-title>
-    <episode-num system="onscreen">S05E01</episode-num>
-    <desc>Rory McIlroy explains common amateur mistakes when trying to add distance and his par 5 strategy when going for the green in two.</desc>
-    <date>20250902</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526162400 +0000" stop="20260526165000 +0000">
-    <title>Ask Rory</title>
-    <sub-title>Drivable Par 4s</sub-title>
-    <desc>Rory McIlroy answers member-submitted questions about how to swing better, shoot lower scores and have more fun with challenges on the golf course.</desc>
-    <date>20250813</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526165000 +0000" stop="20260526171500 +0000">
-    <title>Playing Lessons</title>
-    <sub-title>Michael La Sasso -- Part 1</sub-title>
-    <episode-num system="onscreen">S2025E04</episode-num>
-    <desc>Discover the strategies and techniques that work for them on the big stage and see what you can bring back to your own home course.</desc>
-    <date>20251211</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526171500 +0000" stop="20260526174000 +0000">
-    <title>Playing Lessons</title>
-    <sub-title>Michael La Sasso -- Part 2</sub-title>
-    <episode-num system="onscreen">S25E05</episode-num>
-    <desc>Discover the strategies and techniques that work for them on the big stage and see what you can bring back to your own home course.</desc>
-    <date>20251218</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526174000 +0000" stop="20260526180600 +0000">
-    <title>Playing Lessons</title>
-    <sub-title>Jake Knapp -- Trouble Shots &amp; Par 5 Management</sub-title>
-    <episode-num system="onscreen">S25E01</episode-num>
-    <desc>Jake Knapp analyzes par five shot management, covering tee shot techniques (lower trajectory, subtle fade), green slopes and putting speed.</desc>
-    <date>20250701</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526180600 +0000" stop="20260526183100 +0000">
-    <title>Playing Lessons</title>
-    <sub-title>Jake Knapp -- Handling Drivable Par 4s</sub-title>
-    <episode-num system="onscreen">S25E02</episode-num>
-    <desc>Strategies for handling par fours, prioritizing smart decisions over power; evaluate the risk and reward of each shot, and learn specific techniques for tee shots and approaches.</desc>
-    <date>20250708</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526183100 +0000" stop="20260526185600 +0000">
-    <title>Swing Expedition With Chris Como</title>
-    <sub-title>Randy Smith &amp; Scottie Scheffler</sub-title>
-    <episode-num system="onscreen">S03E01</episode-num>
-    <desc>Masters champion Scottie Scheffler gives Chris an inside look alongside longtime coach Randy Smith.</desc>
-    <date>20210719</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f238833d1f279d28b58df8503cb0f136.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526185600 +0000" stop="20260526194600 +0000">
-    <title>5 Clubs With Gary Williams</title>
-    <sub-title>5 Clubs With Gary Williams</sub-title>
-    <episode-num system="onscreen">S2026E46</episode-num>
-    <desc>Viewpoints of people in the game with people who love the game; we discuss what is of interest to them in the vast and deep reservoir of stories within the game of golf.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526194600 +0000" stop="20260526203600 +0000">
-    <title>The Big Swing With Jimmy Roberts</title>
-    <sub-title>The Big Swing With Jimmy Roberts</sub-title>
-    <episode-num system="onscreen">S2026E01</episode-num>
-    <desc>Conversations with people making news in the business of golf.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526203600 +0000" stop="20260526210100 +0000">
-    <title>Swing Expedition With Chris Como</title>
-    <sub-title>Scott Hamilton</sub-title>
-    <episode-num system="onscreen">S03E08</episode-num>
-    <desc>Scott Hamilton presents his analytical yet simple teaching style, and brings in a couple of his students to show how he molded their swings.</desc>
-    <date>20210907</date>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/ca44aac6ea201621eb4032d655497d7e.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526210100 +0000" stop="20260526212600 +0000">
-    <title>Swing Expedition With Chris Como</title>
-    <sub-title>John Montgomery</sub-title>
-    <episode-num system="onscreen">S03E09</episode-num>
-    <desc>Chris Como is in Celebration, Florida where he joins John Montgomery, golf social media extraordinaire.</desc>
-    <date>20210910</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/84cff328db467fd1edef90c89376142d.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526212600 +0000" stop="20260526215100 +0000">
-    <title>Swing Expedition With Chris Como</title>
-    <sub-title>Clay Ballard</sub-title>
-    <episode-num system="onscreen">S03E10</episode-num>
-    <desc>Chris Como is in Lake Mary, Florida at the headquarters of Top Speed Golf along with its co-founder, Clay Ballard.</desc>
-    <date>20210921</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/becc943d7504c9a4150c8aee9f80cbdc.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526215100 +0000" stop="20260526221600 +0000">
-    <title>Swing Expedition With Chris Como</title>
-    <sub-title>Dr. Gio Valiante's Mental Game Blueprint</sub-title>
-    <episode-num system="onscreen">S03E11</episode-num>
-    <desc>Chris Como is joined by some of the best in the golf psychology game, Dr. Gio Valiante and Ina Kim-Schaad, at Hawk's Landing Golf Club in Orlando, Florida.</desc>
-    <date>20210928</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d4ba6caa8c32e1e91078d0d470cf8349.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526221600 +0000" stop="20260526224100 +0000">
-    <title>The Next Shot</title>
-    <sub-title>Practice Plan 5</sub-title>
-    <episode-num system="onscreen">S24E06</episode-num>
-    <desc>GolfPass coach Nathalie Sheehan has put together a practice plan to stop scooping from tee to green.</desc>
-    <date>20241021</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ab73846ff7bcbf5b923cd048a0e0cdbf.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526224100 +0000" stop="20260526230600 +0000">
-    <title>The Next Shot</title>
-    <sub-title>Practice Plan 6</sub-title>
-    <episode-num system="onscreen">S24E07</episode-num>
-    <desc>GolfPass coach Nathalie Sheehan has put together a practice plan to start making consistent solid contact.</desc>
-    <date>20241028</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/47e207303f77699b4377f1c1c131f306.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526230600 +0000" stop="20260526233100 +0000">
-    <title>The Next Shot</title>
-    <sub-title>Practice Plan 7</sub-title>
-    <episode-num system="onscreen">S24E08</episode-num>
-    <desc>GolfPass coach Nathalie Sheehan has put together a practice plan to eliminate the worst mistakes she sees on the range.</desc>
-    <date>20241104</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/79f54ec3373c0b9f57b5647b14aee4a0.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526233100 +0000" stop="20260526235600 +0000">
-    <title>The Next Shot</title>
-    <sub-title>Practice Plan 8</sub-title>
-    <episode-num system="onscreen">S24E09</episode-num>
-    <desc>GolfPass coach Nathalie Sheehan has put together a plan to practice like the pros.</desc>
-    <date>20241111</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7c5a81163bc6677f5efba6b43c415cbd.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260526235600 +0000" stop="20260527002200 +0000">
-    <title>Ask Rory</title>
-    <sub-title>Attacking Par 5s</sub-title>
-    <episode-num system="onscreen">S05E01</episode-num>
-    <desc>Rory McIlroy explains common amateur mistakes when trying to add distance and his par 5 strategy when going for the green in two.</desc>
-    <date>20250902</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260527002200 +0000" stop="20260527004700 +0000">
-    <title>Ask Rory</title>
-    <sub-title>Drivable Par 4s</sub-title>
-    <desc>Rory McIlroy answers member-submitted questions about how to swing better, shoot lower scores and have more fun with challenges on the golf course.</desc>
-    <date>20250813</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260527004700 +0000" stop="20260527013500 +0000">
-    <title>The Big Break</title>
-    <sub-title>Get Back, I'm Alright Jack...</sub-title>
-    <episode-num system="onscreen">S15E05</episode-num>
-    <desc>Previously eliminated competitors get another chance, but the player who eliminated them gets the final say.</desc>
-    <date>20110613</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5a3453a4d32ef6b2fcdaadc78e3145ea.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260527013500 +0000" stop="20260527022300 +0000">
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527013500 +0000" stop="20260527022300 +0000">
     <title>The Big Break</title>
     <sub-title>...Keep Your Hands off My Stack</sub-title>
     <episode-num system="onscreen">S15E06</episode-num>
@@ -417,7 +14,7 @@
     <icon src="https://metadata-static.plex.tv/4/gracenote/4c5fb17de7a6a2aa851e5c8ce6718fd3.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260527022300 +0000" stop="20260527031000 +0000">
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527022300 +0000" stop="20260527031000 +0000">
     <title>The Big Break</title>
     <sub-title>Money Often Costs Too Much</sub-title>
     <episode-num system="onscreen">S15E07</episode-num>
@@ -426,7 +23,7 @@
     <icon src="https://metadata-static.plex.tv/e/gracenote/e0bea80875fd5e011eb8b3fa7df44992.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260527031000 +0000" stop="20260527033500 +0000">
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527031000 +0000" stop="20260527033500 +0000">
     <title>Swing Expedition With Chris Como</title>
     <sub-title>Randy Smith</sub-title>
     <episode-num system="onscreen">S03E02</episode-num>
@@ -435,12 +32,376 @@
     <icon src="https://metadata-static.plex.tv/9/gracenote/9f37976f4c27d032a5748074141d2a70.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" start="20260527033500 +0000" stop="20260527042500 +0000">
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527033500 +0000" stop="20260527042500 +0000">
     <title>The Big Swing With Jimmy Roberts</title>
     <sub-title>The Big Swing With Jimmy Roberts</sub-title>
     <episode-num system="onscreen">S2026E01</episode-num>
     <desc>Conversations with people making news in the business of golf.</desc>
     <date>20260526</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527042500 +0000" stop="20260527051500 +0000">
+    <title>5 Clubs With Gary Williams</title>
+    <sub-title>5 Clubs With Gary Williams</sub-title>
+    <episode-num system="onscreen">S2026E46</episode-num>
+    <desc>Viewpoints of people in the game with people who love the game; we discuss what is of interest to them in the vast and deep reservoir of stories within the game of golf.</desc>
+    <date>20260526</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527051500 +0000" stop="20260527054000 +0000">
+    <title>Swing Expedition With Chris Como</title>
+    <sub-title>Carlos Ortiz &amp; Justin Poynter</sub-title>
+    <episode-num system="onscreen">S03E03</episode-num>
+    <desc>Chris spends time with PGA Tour winner Carlos Ortiz and his coach, Justin Poynter.</desc>
+    <date>20210802</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8d23a5030fadd722444f078278823485.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527054000 +0000" stop="20260527060500 +0000">
+    <title>Better Off with Hally Leadbetter</title>
+    <sub-title>Better Off with Hally Leadbetter</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>What an alternate golf universe looks like; troubles lefties face in golf; a new product that could be the next big thing in golf.</desc>
+    <date>20230509</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/64eccbbf153ee0779a2c97e65967f342.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527060500 +0000" stop="20260527063100 +0000">
+    <title>Better Off with Hally Leadbetter</title>
+    <sub-title>Better Off with Hally Leadbetter</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>A Pee.S.A that takes on cheaters in charity golf scrambles; how surfers and skateboarders are changing golf.</desc>
+    <date>20230612</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a2f27212cb42cd0f3adea31b443ce7b1.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527063100 +0000" stop="20260527065700 +0000">
+    <title>Better Off with Hally Leadbetter</title>
+    <sub-title>Better Off with Hally Leadbetter</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Hally talks to Stephen Curry, Ray Romano, Tony Romo, and Charles Barkley to get advice at the American Century Championship in Lake Tahoe.</desc>
+    <date>20230807</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d91e47025c48c98f0cb50ab1882bdb1a.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527065700 +0000" stop="20260527072100 +0000">
+    <title>Better Off with Hally Leadbetter</title>
+    <sub-title>Better Off with Hally Leadbetter</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Hally is haunted by an apparition; Emilia Migliaccio's decision to join golf media rather than turn pro.</desc>
+    <date>20231002</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/23864a32c02341ada2b228dee9ffc1b0.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527072100 +0000" stop="20260527073100 +0000">
+    <title>Golf Central</title>
+    <sub-title>Golf Central</sub-title>
+    <episode-num system="onscreen">S2026E131</episode-num>
+    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527073100 +0000" stop="20260527074100 +0000">
+    <title>Golf Central</title>
+    <sub-title>Golf Central</sub-title>
+    <episode-num system="onscreen">S2026E131</episode-num>
+    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527074100 +0000" stop="20260527075100 +0000">
+    <title>Golf Central</title>
+    <sub-title>Golf Central</sub-title>
+    <episode-num system="onscreen">S2026E131</episode-num>
+    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527075100 +0000" stop="20260527080100 +0000">
+    <title>Golf Central</title>
+    <sub-title>Golf Central</sub-title>
+    <episode-num system="onscreen">S2026E131</episode-num>
+    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527080100 +0000" stop="20260527085100 +0000">
+    <title>The Big Swing With Jimmy Roberts</title>
+    <sub-title>The Big Swing With Jimmy Roberts</sub-title>
+    <episode-num system="onscreen">S2026E01</episode-num>
+    <desc>Conversations with people making news in the business of golf.</desc>
+    <date>20260526</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527085100 +0000" stop="20260527094100 +0000">
+    <title>5 Clubs With Gary Williams</title>
+    <sub-title>5 Clubs With Gary Williams</sub-title>
+    <episode-num system="onscreen">S2026E46</episode-num>
+    <desc>Viewpoints of people in the game with people who love the game; we discuss what is of interest to them in the vast and deep reservoir of stories within the game of golf.</desc>
+    <date>20260526</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527094100 +0000" stop="20260527100500 +0000">
+    <title>Swing Expedition With Chris Como</title>
+    <sub-title>Dr. Young-Hoo Kwon</sub-title>
+    <episode-num system="onscreen">S03E04</episode-num>
+    <desc>Chris and Biomechanics professor, Dr. Young-Hoo Kwon, address what can be learned from analyzing the biomechanics of the golf swing.</desc>
+    <date>20210808</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6da79e9d209554c3feef9e5ee7601a32.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527100500 +0000" stop="20260527101500 +0000">
+    <title>Golf Central</title>
+    <sub-title>Golf Central</sub-title>
+    <episode-num system="onscreen">S2026E131</episode-num>
+    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527101500 +0000" stop="20260527102500 +0000">
+    <title>Golf Central</title>
+    <sub-title>Golf Central</sub-title>
+    <episode-num system="onscreen">S2026E131</episode-num>
+    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527102500 +0000" stop="20260527105100 +0000">
+    <title>Golf Channel Academy</title>
+    <sub-title>Padraig Harrington - Full Swing Special</sub-title>
+    <episode-num system="onscreen">S22E17</episode-num>
+    <desc>Host Martin Hall talks to Ryder Cup stalwart Padraig Harrington about his approach to his golf swing.</desc>
+    <date>20160517</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a9752d993817e7b4ccf7d0d5daf8685e.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527105100 +0000" stop="20260527111700 +0000">
+    <title>Golf Channel Academy</title>
+    <sub-title>Padraig Harrington - Driver Special</sub-title>
+    <episode-num system="onscreen">S22E18</episode-num>
+    <desc>Padraig Harrington talks how to hit the driver better, farther, and with more accuracy.</desc>
+    <date>20160621</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/86d81cb04dd88bbebc241447ae6e3ac6.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527111700 +0000" stop="20260527114300 +0000">
+    <title>Golf Channel Academy</title>
+    <sub-title>Padraig Harrington - Short Game Special</sub-title>
+    <episode-num system="onscreen">S22E19</episode-num>
+    <desc>Padraig Harrington talks how to chip, pitch, and improve your bunker shots. Harrington shares secrets on the short game and how using a variety of clubs will help lower your scores.</desc>
+    <date>20160628</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/402a1f1a78fc22181df1dbc717ed6a1f.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527114300 +0000" stop="20260527120900 +0000">
+    <title>Golf Channel Academy</title>
+    <sub-title>Padraig Harrington - Putting Special</sub-title>
+    <episode-num system="onscreen">S22E20</episode-num>
+    <desc>Padraig Harrington talks all things putting and shares tips on how to putt better to lower score.</desc>
+    <date>20160705</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6acc1ade59c278aedcbbfa8615e10cd5.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527120900 +0000" stop="20260527123400 +0000">
+    <title>Swing Expedition With Chris Como</title>
+    <sub-title>Justin Parsons</sub-title>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <desc>Chris travels to the Sea Island Golf Performance Center where he meets up with Justin Parsons.</desc>
+    <date>20210813</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d2a033faa68ce8b2b8c68acf2ae0ec1e.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527123400 +0000" stop="20260527124400 +0000">
+    <title>Golf Central</title>
+    <sub-title>Golf Central</sub-title>
+    <episode-num system="onscreen">S2026E131</episode-num>
+    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527124400 +0000" stop="20260527125400 +0000">
+    <title>Golf Central</title>
+    <sub-title>Golf Central</sub-title>
+    <episode-num system="onscreen">S2026E131</episode-num>
+    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527125400 +0000" stop="20260527134700 +0000">
+    <title>Cobbs Creek Rising</title>
+    <sub-title>Headwaters to Horizons</sub-title>
+    <desc>Visionaries reopen the field and create a community campus.</desc>
+    <date>20251028</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a527d58bbf1cfe8888bc9ac64c86f49b.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527134700 +0000" stop="20260527141200 +0000">
+    <title>The Golf Fix</title>
+    <sub-title>Over the Top</sub-title>
+    <episode-num system="onscreen">S10E01</episode-num>
+    <desc>Devan Bonebrake teaches his favorite drills to stop coming over the top; learning how to swing on plane like Rory McIlroy and perform exercises that will help draw the ball with more power.</desc>
+    <date>20210908</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3cd6cd3a71df275f2df4a7b35fccc1e9.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527141200 +0000" stop="20260527143700 +0000">
+    <title>The Golf Fix</title>
+    <sub-title>Solid Iron Contact</sub-title>
+    <episode-num system="onscreen">S10E02</episode-num>
+    <desc>Devan Bonebrake hits the course to improve iron play from a variety of lies; learning to stick it from the fairway like Tiger Woods, play from the rough like Bryson DeChambeau and make solid contact from fairway bunkers.</desc>
+    <date>20210915</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/4b4a8f3d98531ddbf3d299c7ffc95750.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527143700 +0000" stop="20260527150200 +0000">
+    <title>The Golf Fix</title>
+    <sub-title>More Distance</sub-title>
+    <episode-num system="onscreen">S10E03</episode-num>
+    <desc>Devan Bonebrake teaches the keys to maximizing distance; learning drills, fitness exercises, equipment changes and even mental tips to become a more powerful golfer.</desc>
+    <date>20210920</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/28628cc6acf65102581c84dad974c0b4.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527150200 +0000" stop="20260527152700 +0000">
+    <title>The Golf Fix</title>
+    <sub-title>Make More Putts</sub-title>
+    <episode-num system="onscreen">S10E04</episode-num>
+    <desc>Devan Bonebrake reveals how to make more short putts; tips for start line, speed control, putter face contact and green reading for sinking the short ones like Xander Schauffele.</desc>
+    <date>20210922</date>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/5b53996719e949870e91de0d961e813c.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527152700 +0000" stop="20260527153700 +0000">
+    <title>Golf Central</title>
+    <sub-title>Golf Central</sub-title>
+    <episode-num system="onscreen">S2026E131</episode-num>
+    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527153700 +0000" stop="20260527154700 +0000">
+    <title>Golf Central</title>
+    <sub-title>Golf Central</sub-title>
+    <episode-num system="onscreen">S2026E131</episode-num>
+    <desc>Keep up with everything that's happening in the world of golf. The game's only live, daily news source provides more than just scores, delivering in depth analysis, breaking news, and unforgettable highlights.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527154700 +0000" stop="20260527161200 +0000">
+    <title>Breaking into the Game: Beginners</title>
+    <sub-title>Series Preview</sub-title>
+    <desc>Shot at The Club at Ibis, Martin Hall's new series is the definitive video golf instruction piece for beginners, providing a solid foundation for new golfers of any age.</desc>
+    <date>20210527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527161200 +0000" stop="20260527163800 +0000">
+    <title>Breaking Golf's Greatest Myths</title>
+    <sub-title>Martin Chuck - Part 1</sub-title>
+    <desc>Martin Chuck examines a number of swing myths that have persisted over the years like "keep your head down" and "keep your lead arm straight."</desc>
+    <date>20220511</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/31b73ab6d6bb7733f641a8e481b2abe3.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527163800 +0000" stop="20260527170400 +0000">
+    <title>Breaking Golf's Greatest Myths</title>
+    <sub-title>Martin Chuck - Part 2</sub-title>
+    <desc>Martin Chuck examines a number of swing myths that have persisted over the years like "keep your head down" and "keep your lead arm straight."</desc>
+    <date>20220511</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/01f8f07ae614447254c11f7341be173f.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527170400 +0000" stop="20260527173400 +0000">
+    <title>Golf's Greatest Holes</title>
+    <sub-title>Ireland and Northern Ireland - Atlantic Beginnings</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Paul McGinley plays the stunning and legendary Hole 4 at The Old Head Golf Links, which perches on the edge of a cliff, overlooking the Atlantic Ocean.</desc>
+    <date>20211011</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d7ea85a0f5aa1511805a56b6d78d7800.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527173400 +0000" stop="20260527180000 +0000">
+    <title>Golf Channel Academy</title>
+    <sub-title>Padraig Harrington - Full Swing Special</sub-title>
+    <episode-num system="onscreen">S22E17</episode-num>
+    <desc>Host Martin Hall talks to Ryder Cup stalwart Padraig Harrington about his approach to his golf swing.</desc>
+    <date>20160517</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a9752d993817e7b4ccf7d0d5daf8685e.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527180000 +0000" stop="20260527182100 +0000">
+    <title>Golf Road Trippin'</title>
+    <sub-title>Omni La Costa Resort &amp; Spa</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Full time comedian and part-time golfer James Davis heads to sunny San Diego to see all that Omni La Costa Resort &amp; Spa has to offer - an old school Hollywood stomping ground.</desc>
+    <date>20210518</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/71d91f111beaf87375a679d514000ed6.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527182100 +0000" stop="20260527185100 +0000">
+    <title>Golf Road Trippin'</title>
+    <sub-title>Preview Show Part II</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>James Davis hits the road and lets viewers ride shotgun for a scenic trip across the southwest, hitting a few special golf courses along the way.</desc>
+    <date>20210518</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527185100 +0000" stop="20260527191200 +0000">
+    <title>Golf Road Trippin'</title>
+    <sub-title>Omni La Costa Resort &amp; Spa</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Full time comedian and part-time golfer James Davis heads to sunny San Diego to see all that Omni La Costa Resort &amp; Spa has to offer - an old school Hollywood stomping ground.</desc>
+    <date>20210518</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/71d91f111beaf87375a679d514000ed6.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527191200 +0000" stop="20260527200200 +0000">
+    <title>5 Clubs With Gary Williams</title>
+    <sub-title>5 Clubs With Gary Williams</sub-title>
+    <episode-num system="onscreen">S2026E47</episode-num>
+    <desc>Viewpoints of people in the game with people who love the game; we discuss what is of interest to them in the vast and deep reservoir of stories within the game of golf.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527200200 +0000" stop="20260527205200 +0000">
+    <title>The Smylie Show</title>
+    <sub-title>The Smylie Show</sub-title>
+    <episode-num system="onscreen">S2026E03</episode-num>
+    <desc>PGA Tour winner Smylie Kaufman shares golf insights and conversations with tour pros and celebs.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260527205200 +0000" stop="20260528003600 +0000">
+    <title>Golf Channel Games</title>
+    <sub-title>2025 Golf Channel Games</sub-title>
+    <episode-num system="onscreen">S25E01</episode-num>
+    <date>20260312</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260528003600 +0000" stop="20260528012300 +0000">
+    <title>The Big Break</title>
+    <sub-title>A Nickel Ain't Worth a Dime Anymore</sub-title>
+    <episode-num system="onscreen">S15E08</episode-num>
+    <desc>As the final approaches, those who are vulnerable will be exposed; a face-off between friends has shocking consequences.</desc>
+    <date>20110704</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/ecb2b44f4bbbd26903a92cf42eaa9bf7.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260528012300 +0000" stop="20260528021000 +0000">
+    <title>The Big Break</title>
+    <sub-title>I'm Not Greedy...I Just Want Your Half</sub-title>
+    <episode-num system="onscreen">S15E09</episode-num>
+    <desc>As the players square off in a race for the finale, one competitor faces his biggest challenge of the season.</desc>
+    <date>20110711</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/86e61f021e04ce350658c34c33493892.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc706038aba71002d8b7c8e" start="20260528021000 +0000" stop="20260528025700 +0000">
+    <title>The Big Break</title>
+    <sub-title>Cha-Ching</sub-title>
+    <episode-num system="onscreen">S15E10</episode-num>
+    <desc>Two men have to overcome grudges and play their best -- and one will be crowned champion.</desc>
+    <date>20110718</date>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/27834517d2470dd706e8850be1eb24e2.jpg" />
   </programme>
   
 </tv>

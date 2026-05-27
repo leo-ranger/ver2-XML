@@ -1,110 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa">
+<channel id="6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa">
     <display-name>FTF Sports</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa" start="20260526040000 +0000" stop="20260526073000 +0000">
-    <title>American Poolplayers Association Billiards</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Final: Cue-Ties Patooties vs. Viper Queens from April 30, 2026.</desc>
-    <date>20260519</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/654962f8-b9c7-494a-9dfa-1e2436baf206/ftf-sports_artwork_horizontal.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa" start="20260526073000 +0000" stop="20260526090000 +0000">
-    <title>American Poolplayers Association Billiards</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Black Tier Final: Leonardo Lopez-Hernandez vs. Jon Geue from May 2, 2026.</desc>
-    <date>20260522</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/654962f8-b9c7-494a-9dfa-1e2436baf206/ftf-sports_artwork_horizontal.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa" start="20260526090000 +0000" stop="20260526120000 +0000">
-    <title>International Pool Association Billiards</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Final: Cory Rees vs. Dan Davy from Feb. 21, 2026.</desc>
-    <date>20260325</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/654962f8-b9c7-494a-9dfa-1e2436baf206/ftf-sports_artwork_horizontal.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa" start="20260526120000 +0000" stop="20260526130000 +0000">
-    <title>Life in Between Gates</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Profiles of some of the world's best alpine ski racers as they travel to some of the top ski destinations in the U.S. and compete on the World Pro Ski Tour.</desc>
-    <date>20200118</date>
-    <icon src="http://www.tmsimg.com/assets/p17721779_i_h2_ab.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa" start="20260526130000 +0000" stop="20260526150000 +0000">
-    <title>Bundesliga Basketball</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>From January 17, 2026.</desc>
-    <date>20260301</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/654962f8-b9c7-494a-9dfa-1e2436baf206/ftf-sports_artwork_horizontal.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa" start="20260526150000 +0000" stop="20260526170000 +0000">
-    <title>Bundesliga Basketball</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>From Stadthalle Rostock in Rostock, Mecklenburg-Vorpommern, Germany.</desc>
-    <date>20260118</date>
-    <icon src="http://www.tmsimg.com/assets/GNLZZGG002BWMCT.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa" start="20260526170000 +0000" stop="20260526190000 +0000">
-    <title>Bundesliga Basketball</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>From Telekom Dome in Bonn, North Rhine-Westphalia, Germany.</desc>
-    <date>20260123</date>
-    <icon src="http://www.tmsimg.com/assets/GNLZZGG002SBVVJ.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa" start="20260526190000 +0000" stop="20260526210000 +0000">
-    <title>Bundesliga Basketball</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>From BMW Park in Munich.</desc>
-    <date>20260125</date>
-    <icon src="http://www.tmsimg.com/assets/GNLZZGG002SP8PL.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa" start="20260526210000 +0000" stop="20260526230000 +0000">
-    <title>Bundesliga Basketball</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Bundesliga Basketball</desc>
-    <date>20260202</date>
-    <icon src="http://www.tmsimg.com/assets/GNLZZGG002TC1SK.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa" start="20260526230000 +0000" stop="20260527010000 +0000">
-    <title>Bundesliga Basketball</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>From MHP-Arena in Ludwigsburg, Baden-Württemberg, Germany.</desc>
-    <date>20260207</date>
-    <icon src="http://www.tmsimg.com/assets/GNLZZGG002CQFVJ.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa" start="20260527010000 +0000" stop="20260527013000 +0000">
-    <title>Blackjack</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>$948,000 Blackjack - Strap in - Wild Ride - Coffee and Blackjack.</desc>
-    <date>20250821</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/654962f8-b9c7-494a-9dfa-1e2436baf206/ftf-sports_artwork_horizontal.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa" start="20260527013000 +0000" stop="20260527023000 +0000">
+<programme channel="6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa" start="20260527013000 +0000" stop="20260527023000 +0000">
     <title>ISG Show with Larry Ridley</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -113,7 +14,7 @@
     <icon src="http://www.tmsimg.com/assets/p32913545_i_h8_aa.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa" start="20260527023000 +0000" stop="20260527031500 +0000">
+<programme channel="6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa" start="20260527023000 +0000" stop="20260527031500 +0000">
     <title>Blackjack</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -122,7 +23,7 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/654962f8-b9c7-494a-9dfa-1e2436baf206/ftf-sports_artwork_horizontal.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa" start="20260527031500 +0000" stop="20260527040000 +0000">
+<programme channel="6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa" start="20260527031500 +0000" stop="20260527040000 +0000">
     <title>Blackjack</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -131,12 +32,183 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/654962f8-b9c7-494a-9dfa-1e2436baf206/ftf-sports_artwork_horizontal.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa" start="20260527040000 +0000" stop="20260527050000 +0000">
+<programme channel="6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa" start="20260527040000 +0000" stop="20260527050000 +0000">
     <title>Volleyball World Beach Pro Tour</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
     <desc>Coverage of the Volleyball World Beach Pro Tour.</desc>
     <date>20260314</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/654962f8-b9c7-494a-9dfa-1e2436baf206/ftf-sports_artwork_horizontal.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa" start="20260527050000 +0000" stop="20260527060000 +0000">
+    <title>Volleyball World Beach Pro Tour</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Coverage of the Volleyball World Beach Pro Tour.</desc>
+    <date>20260314</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/654962f8-b9c7-494a-9dfa-1e2436baf206/ftf-sports_artwork_horizontal.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa" start="20260527060000 +0000" stop="20260527070000 +0000">
+    <title>Volleyball World Beach Pro Tour</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Coverage of the Volleyball World Beach Pro Tour.</desc>
+    <date>20260315</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/654962f8-b9c7-494a-9dfa-1e2436baf206/ftf-sports_artwork_horizontal.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa" start="20260527070000 +0000" stop="20260527080000 +0000">
+    <title>Volleyball World Beach Pro Tour</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Coverage of the Volleyball World Beach Pro Tour.</desc>
+    <date>20260315</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/654962f8-b9c7-494a-9dfa-1e2436baf206/ftf-sports_artwork_horizontal.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa" start="20260527080000 +0000" stop="20260527100000 +0000">
+    <title>Handball</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>From Dec. 11, 2025.</desc>
+    <date>20260130</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/654962f8-b9c7-494a-9dfa-1e2436baf206/ftf-sports_artwork_horizontal.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa" start="20260527100000 +0000" stop="20260527120000 +0000">
+    <title>Handball</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>From Dec. 14, 2025.</desc>
+    <date>20260130</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/654962f8-b9c7-494a-9dfa-1e2436baf206/ftf-sports_artwork_horizontal.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa" start="20260527120000 +0000" stop="20260527130000 +0000">
+    <title>World Poker Tour</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Professional poker action from a series of international tournaments.</desc>
+    <date>20211022</date>
+    <icon src="http://www.tmsimg.com/assets/p20773135_b_h8_aa.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa" start="20260527130000 +0000" stop="20260527140000 +0000">
+    <title>World Poker Tour</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Professional poker action from a series of international tournaments.</desc>
+    <date>20230101</date>
+    <icon src="http://www.tmsimg.com/assets/p23432175_b_h2_aa.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa" start="20260527140000 +0000" stop="20260527150000 +0000">
+    <title>World Poker Tour</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Professional poker action from a series of international tournaments.</desc>
+    <date>20230101</date>
+    <icon src="http://www.tmsimg.com/assets/p23432185_b_h2_aa.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa" start="20260527150000 +0000" stop="20260527160000 +0000">
+    <title>World Poker Tour</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Poker players compete in a series of tournaments at casinos around the world.</desc>
+    <date>20110412</date>
+    <icon src="http://www.tmsimg.com/assets/p8611466_i_h8_ac.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa" start="20260527160000 +0000" stop="20260527170000 +0000">
+    <title>World Poker Tour</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Presenting the finale of the WPT Borgata Winter Poker Open.</desc>
+    <date>20200419</date>
+    <icon src="http://www.tmsimg.com/assets/p17959739_b_h2_aa.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa" start="20260527170000 +0000" stop="20260527180000 +0000">
+    <title>World Poker Tour</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Professional poker action from a series of international tournaments.</desc>
+    <date>20230101</date>
+    <icon src="http://www.tmsimg.com/assets/p23432190_b_h2_aa.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa" start="20260527180000 +0000" stop="20260527190000 +0000">
+    <title>World Poker Tour: Season 13</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Bala Patur leads the way, but former WPT Champion Matas Cimbolas is heating up and is now only behind by a small margin; in the middle of the pack sits two-time WPT champion James Carroll who will be looking to outlast the two shorter stacks.</desc>
+    <date>20231118</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/654962f8-b9c7-494a-9dfa-1e2436baf206/ftf-sports_artwork_horizontal.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa" start="20260527190000 +0000" stop="20260527200000 +0000">
+    <title>World Poker Tour</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Down to four players at the final table of the WPT Los Angeles Poker Classic, WPT Champion Matas Cimbolas, who finished second in this event in 2019, is still on the hunt for the title.</desc>
+    <date>20211125</date>
+    <icon src="http://www.tmsimg.com/assets/p20804930_b_h2_aa.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa" start="20260527200000 +0000" stop="20260527210000 +0000">
+    <title>World Poker Tour</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Professional poker action from a series of international tournaments.</desc>
+    <date>20211018</date>
+    <icon src="http://www.tmsimg.com/assets/p20813687_b_h8_aa.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa" start="20260527210000 +0000" stop="20260527220000 +0000">
+    <title>World Poker Tour</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Professional poker action from a series of international tournaments.</desc>
+    <date>20200524</date>
+    <icon src="http://www.tmsimg.com/assets/p18058013_b_h8_aa.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa" start="20260527220000 +0000" stop="20260527230000 +0000">
+    <title>World Poker Tour</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Professional poker action from a series of international tournaments.</desc>
+    <date>20200531</date>
+    <icon src="http://www.tmsimg.com/assets/p18058153_b_h8_aa.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa" start="20260527230000 +0000" stop="20260528000000 +0000">
+    <title>World Poker Tour</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Professional poker action from a series of international tournaments.</desc>
+    <date>20200607</date>
+    <icon src="http://www.tmsimg.com/assets/p18232243_b_h8_aa.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa" start="20260528000000 +0000" stop="20260528010000 +0000">
+    <title>World Poker Tour</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Professional poker action from a series of international tournaments.</desc>
+    <date>20200614</date>
+    <icon src="http://www.tmsimg.com/assets/p18232436_b_h8_aa.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa" start="20260528010000 +0000" stop="20260528023000 +0000">
+    <title>Blackjack</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>$800,000 CRAZIEST BLACKJACK EVER - Up Down, Brutal and Sick.</desc>
+    <date>20250314</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/654962f8-b9c7-494a-9dfa-1e2436baf206/ftf-sports_artwork_horizontal.jpg" />
   </programme>
   

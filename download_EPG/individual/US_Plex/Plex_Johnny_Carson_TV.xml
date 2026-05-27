@@ -1,200 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123">
+<channel id="6a1610bebdf296985fd95603-60d4edd6b2fdec002c141123">
     <display-name>Johnny Carson TV</display-name>
     <icon src="https://provider-static.plex.tv/epg/images/ott_channels/logos/johnnycarsontv_logo_dark.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" start="20260526031037 +0000" stop="20260526043117 +0000">
-    <title>The Johnny Carson Show</title>
-    <sub-title>Comic Legends Of The '60s - Joan Rivers (12/31/75)</sub-title>
-    <episode-num system="onscreen">S06E08</episode-num>
-    <desc>Find out Joan Rivers' New Year's resolutions. Plus Orson Bean, Charles Nelson Reilly and Scatman Crothers.</desc>
-    <date>19750101</date>
-    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_HollywoodIconsOfThe60s_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" start="20260526043117 +0000" stop="20260526051023 +0000">
-    <title>The Johnny Carson Show</title>
-    <sub-title>The Very Best of Johnny and Guests - Gilda Radner, Walter Cronkite (11/15/83)</sub-title>
-    <episode-num system="onscreen">S22E43</episode-num>
-    <desc>Gilda Radner makes her one and only Tonight Show appearance promoting her book.</desc>
-    <date>19830101</date>
-    <icon src="https://dkmazaatqjstt.cloudfront.net/JohnnyCarson_TheVeryBestOfJohnnyAndGuests_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" start="20260526051023 +0000" stop="20260526061200 +0000">
-    <title>The Johnny Carson Show</title>
-    <sub-title>The Very Best of Johnny and Guests - Steve Lawrence, Rodney Dangerfield, Susan Sarandon, Christopher Reeve (1/31/79)</sub-title>
-    <episode-num system="onscreen">S22E26</episode-num>
-    <desc>Rodney Dangerfield cracks up both Johnny and the audience, Christopher Reeve is hot off Superman.</desc>
-    <date>19790101</date>
-    <icon src="https://dkmazaatqjstt.cloudfront.net/JohnnyCarson_TheVeryBestOfJohnnyAndGuests_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" start="20260526061200 +0000" stop="20260526073806 +0000">
-    <title>The Johnny Carson Show</title>
-    <sub-title>Hollywood Icons Of The '70s - Lilly Tomlin (2/20/75)</sub-title>
-    <episode-num system="onscreen">S14E09</episode-num>
-    <desc>Lily Tomlin describes her Detroit childhood, creating a character by working a check-out counter.</desc>
-    <date>19750101</date>
-    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_HollywoodIconsOfThe70s_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" start="20260526073806 +0000" stop="20260526083641 +0000">
-    <title>The Johnny Carson Show</title>
-    <sub-title>Hollywood Icons Of The '60s - Raquel Welch (6/22/88)</sub-title>
-    <episode-num system="onscreen">S13E10</episode-num>
-    <desc>Hog wild: That’s Jay Leno who owns 17 motorcycles. Plus Raquel Welch discusses children and getting older.</desc>
-    <date>19880101</date>
-    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_HollywoodIconsOfThe60s_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" start="20260526083641 +0000" stop="20260526092826 +0000">
-    <title>The Johnny Carson Show</title>
-    <sub-title>Comic Legends Of The '60s - Don Rickles (11/21/84)</sub-title>
-    <episode-num system="onscreen">S06E24</episode-num>
-    <desc>When Don Rickles has Thanksgiving with Bob Newhart, you want to hear him talk about it. Plus Angie Dickinson.</desc>
-    <date>19840101</date>
-    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_HollywoodIconsOfThe60s_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" start="20260526092826 +0000" stop="20260526104835 +0000">
-    <title>The Johnny Carson Show</title>
-    <sub-title>Comic Legends Of The '50s - George Burns (11/30/76)</sub-title>
-    <episode-num system="onscreen">S05E06</episode-num>
-    <desc>George Burns takes on Groucho Marx and young people and Rodney Dangerfield continues to get no respect.</desc>
-    <date>19760101</date>
-    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_ComicLegendsOfThe50s_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" start="20260526104835 +0000" stop="20260526114612 +0000">
-    <title>The Johnny Carson Show</title>
-    <sub-title>Comic Legends Of The '50s - Bob Hope (12/15/88)</sub-title>
-    <episode-num system="onscreen">S05E13</episode-num>
-    <desc>Bob Hope talks about growing up poor, his brief boxing career and what it means when a man wears a red tie.</desc>
-    <date>19880101</date>
-    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_ComicLegendsOfThe50s_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" start="20260526114612 +0000" stop="20260526124447 +0000">
-    <title>The Johnny Carson Show</title>
-    <sub-title>Hollywood Icons Of The '60s - Walter Matthau (7/22/86)</sub-title>
-    <episode-num system="onscreen">S13E09</episode-num>
-    <desc>We’re spelling tonight! Walter Matthau and Johnny quiz one another on difficult words.</desc>
-    <date>19860101</date>
-    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_HollywoodIconsOfThe60s_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" start="20260526124447 +0000" stop="20260526141140 +0000">
-    <title>The Johnny Carson Show</title>
-    <sub-title>The Best Of Richard Pryor (1/17/74)</sub-title>
-    <episode-num system="onscreen">S11E01</episode-num>
-    <desc>Pryor is joined by Fernando Lamas and “The Exorcist” author William Peter Blatty.</desc>
-    <date>19740101</date>
-    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_TheBestOfRichardPryor_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" start="20260526141140 +0000" stop="20260526151048 +0000">
-    <title>The Johnny Carson Show</title>
-    <sub-title>Hollywood Icons Of The '80s - Christie Brinkley (5/14/82)</sub-title>
-    <episode-num system="onscreen">S15E56</episode-num>
-    <desc>Christie Brinkley describes doing photo shoots all over the world and skydiving.</desc>
-    <date>19820101</date>
-    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_HollywoodIconsOfThe80s_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" start="20260526151048 +0000" stop="20260526160859 +0000">
-    <title>The Johnny Carson Show</title>
-    <sub-title>Hollywood Icons Of The '80s - Hulk Hogan (6/15/82)</sub-title>
-    <episode-num system="onscreen">S15E09</episode-num>
-    <desc>Hulkomania takes over The Tonight Show! How do George Miller and Brooke Shields follow that??</desc>
-    <date>19820101</date>
-    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_HollywoodIconsOfThe80s_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" start="20260526160859 +0000" stop="20260526170635 +0000">
-    <title>The Johnny Carson Show</title>
-    <sub-title>Comic Legends Of The '60s - Buddy Hackett (5/7/86)</sub-title>
-    <episode-num system="onscreen">S06E25</episode-num>
-    <desc>Expert balancer Ed Kennedy graces the stage along with comic legend Buddy Hackett and actress Ally Sheedy.</desc>
-    <date>19860101</date>
-    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_HollywoodIconsOfThe60s_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" start="20260526170635 +0000" stop="20260526180516 +0000">
-    <title>The Johnny Carson Show</title>
-    <sub-title>Hollywood Icons Of The '80s - John Lithgow (12/11/84)</sub-title>
-    <episode-num system="onscreen">S15E17</episode-num>
-    <desc>John Lithgow and Buddy Hackett stop by the couch, plus Johnny talks about the Christmas season.</desc>
-    <date>19840101</date>
-    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_HollywoodIconsOfThe80s_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" start="20260526180516 +0000" stop="20260526190327 +0000">
-    <title>The Johnny Carson Show</title>
-    <sub-title>Comic Legends Of The '90s - Bill Maher (8/31/82)</sub-title>
-    <episode-num system="onscreen">S09E05</episode-num>
-    <desc>Catch Bill Maher’s first appearance on The Tonight Show. He dishes on President Reagan and VP George Bush.</desc>
-    <date>19820101</date>
-    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_ComicLegendsOfThe90s_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" start="20260526190327 +0000" stop="20260526202636 +0000">
-    <title>The Johnny Carson Show</title>
-    <sub-title>Animal Antics With Jim Fowler (7/23/80)</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Jim Fowler brings out an alligator and crocodile. Plus, Rodney Dangerfield has Johnny in stitches.</desc>
-    <date>19800101</date>
-    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_AnimalAntics_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" start="20260526202636 +0000" stop="20260526212538 +0000">
-    <title>The Johnny Carson Show</title>
-    <sub-title>Animal Antics With Jim Fowler (9/7/89)</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>The legendary Jimmy Stewart reads a poem, and animal trainer Jim Fowler brings a 220-pound Python on stage.</desc>
-    <date>19890101</date>
-    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_AnimalAntics_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" start="20260526212538 +0000" stop="20260526224656 +0000">
-    <title>The Johnny Carson Show</title>
-    <sub-title>Comic Legends Of The '60s - Carl Reiner (2/2/78)</sub-title>
-    <episode-num system="onscreen">S06E11</episode-num>
-    <desc>Hollywood legend Carl Reiner stops by with his toupee. Plus, Jack Klugman talks examining dead bodies.</desc>
-    <date>19780101</date>
-    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_HollywoodIconsOfThe60s_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" start="20260526224656 +0000" stop="20260527001344 +0000">
-    <title>The Johnny Carson Show</title>
-    <sub-title>Comic Legends Of The '50s - Bob Hope (5/21/74)</sub-title>
-    <episode-num system="onscreen">S05E04</episode-num>
-    <desc>Bob Hope stops by to talk about his many honorary degrees, plus Don Rickles insults pretty much everyone.</desc>
-    <date>19740101</date>
-    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_ComicLegendsOfThe50s_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" start="20260527001344 +0000" stop="20260527011236 +0000">
-    <title>The Johnny Carson Show</title>
-    <sub-title>Talk Show Greats - Dick Cavett (9/20/83)</sub-title>
-    <episode-num system="onscreen">S19E06</episode-num>
-    <desc>Fellow talk show host Dick Cavett talks about his early days in the business.</desc>
-    <date>19830101</date>
-    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" start="20260527011236 +0000" stop="20260527021113 +0000">
-    <title>The Johnny Carson Show</title>
-    <sub-title>Hollywood Icons Of The '70s - Leonard Nimoy (4/3/91)</sub-title>
-    <episode-num system="onscreen">S14E42</episode-num>
-    <desc>Star Trek’s Dr. Spock -- Leonard Nimoy – presents Johnny with a pair of Vulcan ears.</desc>
-    <date>19910101</date>
-    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_HollywoodIconsOfThe70s_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" start="20260527021113 +0000" stop="20260527033506 +0000">
+<programme channel="6a1610bebdf296985fd95603-60d4edd6b2fdec002c141123" start="20260527021113 +0000" stop="20260527033506 +0000">
     <title>The Johnny Carson Show</title>
     <sub-title>Hollywood Icons Of The '70s - Michael Caine (12/5/75)</sub-title>
     <episode-num system="onscreen">S14E10</episode-num>
@@ -203,12 +14,210 @@
     <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_HollywoodIconsOfThe70s_1920x1080.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" start="20260527033506 +0000" stop="20260527043348 +0000">
+<programme channel="6a1610bebdf296985fd95603-60d4edd6b2fdec002c141123" start="20260527033506 +0000" stop="20260527043348 +0000">
     <title>The Johnny Carson Show</title>
     <sub-title>Hollywood Icons Of The '80s - Ted Danson (9/19/85)</sub-title>
     <episode-num system="onscreen">S15E19</episode-num>
     <desc>Ted Danson has a hit show on his hands in Cheers and Courteney Cox enjoys being single in this episode.</desc>
     <date>19850101</date>
+    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_HollywoodIconsOfThe80s_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-60d4edd6b2fdec002c141123" start="20260527043348 +0000" stop="20260527053215 +0000">
+    <title>The Johnny Carson Show</title>
+    <sub-title>Hollywood Icons Of The '50s - Elizabeth Taylor (2/21/92)</sub-title>
+    <episode-num system="onscreen">S12E13</episode-num>
+    <desc>Oscar-winner Elizabeth Taylor chats about her new perfume, addiction programs, her seven husbands, and more.</desc>
+    <date>19920101</date>
+    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_HollywoodIconsOfThe50s_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-60d4edd6b2fdec002c141123" start="20260527053215 +0000" stop="20260527062555 +0000">
+    <title>The Johnny Carson Show</title>
+    <sub-title>Hollywood Icons Of The '90s - Glenn Close (11/13/91)</sub-title>
+    <episode-num system="onscreen">S16E11</episode-num>
+    <desc>Glenn Close discusses two movies that couldn't be more different--"Fatal Attractions" and "The Big Chill."</desc>
+    <date>19910101</date>
+    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_HollywoodIconsOfThe90s_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-60d4edd6b2fdec002c141123" start="20260527062555 +0000" stop="20260527072519 +0000">
+    <title>The Johnny Carson Show</title>
+    <sub-title>Comic Legends Of The '80s - Jon Lovitz (9/1/87)</sub-title>
+    <episode-num system="onscreen">S08E26</episode-num>
+    <desc>Saturday Night Live's Jon Lovitz talks growing up in The Valley and living in New York. Plus, Paul Sorvino.</desc>
+    <date>19870101</date>
+    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_ComicLegendsOfThe80s_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-60d4edd6b2fdec002c141123" start="20260527072519 +0000" stop="20260527080920 +0000">
+    <title>The Johnny Carson Show</title>
+    <sub-title>Comic Legends Of The '80s - Dan Aykroyd (11/29/85)</sub-title>
+    <episode-num system="onscreen">S08E17</episode-num>
+    <desc>This turbo-charged episode featured the comedy triumvirate of David Letterman, Chevy Chase and Dan Aykroyd.</desc>
+    <date>19850101</date>
+    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_ComicLegendsOfThe80s_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-60d4edd6b2fdec002c141123" start="20260527080920 +0000" stop="20260527090720 +0000">
+    <title>The Johnny Carson Show</title>
+    <sub-title>Hollywood Icons Of The '80s - John Larroquette (3/20/91)</sub-title>
+    <episode-num system="onscreen">S15E36</episode-num>
+    <desc>John Larroquette discusses hair loss, playing the saxophone and The Weasel Awards.</desc>
+    <date>19910101</date>
+    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_HollywoodIconsOfThe80s_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-60d4edd6b2fdec002c141123" start="20260527090720 +0000" stop="20260527100149 +0000">
+    <title>The Johnny Carson Show</title>
+    <sub-title>Talk Show Greats - Jack Paar (12/17/87)</sub-title>
+    <episode-num system="onscreen">S19E09</episode-num>
+    <desc>Jack Paar wanted to buy a Rolls Royce for his mother for just $5. Johnny reads kids' letters to Santa Claus.</desc>
+    <date>19870101</date>
+    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-60d4edd6b2fdec002c141123" start="20260527100149 +0000" stop="20260527112615 +0000">
+    <title>The Johnny Carson Show</title>
+    <sub-title>Talk Show Greats - Tom Snyder (6/7/77)</sub-title>
+    <episode-num system="onscreen">S19E01</episode-num>
+    <desc>Tom Snyder confesses it’s hard being Johnny’s guest and describes his life in California.</desc>
+    <date>19770101</date>
+    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-60d4edd6b2fdec002c141123" start="20260527112615 +0000" stop="20260527122501 +0000">
+    <title>The Johnny Carson Show</title>
+    <sub-title>Comic Legends Of The '50s - Bob Hope (10/31/80)</sub-title>
+    <episode-num system="onscreen">S05E11</episode-num>
+    <desc>The inimitable Bob Hope offers his 2 cents on the Reagan – Carter debate andsleeping in the Lincoln bedroom.</desc>
+    <date>19800101</date>
+    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_ComicLegendsOfThe50s_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-60d4edd6b2fdec002c141123" start="20260527122501 +0000" stop="20260527132421 +0000">
+    <title>The Johnny Carson Show</title>
+    <sub-title>The Best Of Richard Pryor (6/9/83)</sub-title>
+    <episode-num system="onscreen">S11E08</episode-num>
+    <desc>Richard Pryor pokes fun at his failure at marriage and reflects on his new sobriety.</desc>
+    <date>19830101</date>
+    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_TheBestOfRichardPryor_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-60d4edd6b2fdec002c141123" start="20260527132421 +0000" stop="20260527141116 +0000">
+    <title>The Johnny Carson Show</title>
+    <sub-title>The Very Best of Johnny and Guests - Bette Davis, Pete Fountain (5/22/86)</sub-title>
+    <episode-num system="onscreen">S22E48</episode-num>
+    <desc>Bette Davis shares a medal she received in France. Pete Fountain performs.</desc>
+    <date>19860101</date>
+    <icon src="https://dkmazaatqjstt.cloudfront.net/JohnnyCarson_TheVeryBestOfJohnnyAndGuests_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-60d4edd6b2fdec002c141123" start="20260527141116 +0000" stop="20260527150839 +0000">
+    <title>The Johnny Carson Show</title>
+    <sub-title>Comic Legends Of The '60s - Mel Brooks (12/15/83)</sub-title>
+    <episode-num system="onscreen">S06E22</episode-num>
+    <desc>Finally, the world has proof that Johnny's desk backdrop isn't real when Mel Brooks reveals all!</desc>
+    <date>19830101</date>
+    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_HollywoodIconsOfThe60s_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-60d4edd6b2fdec002c141123" start="20260527150839 +0000" stop="20260527163458 +0000">
+    <title>The Johnny Carson Show</title>
+    <sub-title>Animal Antics With Joan Embery (2/28/78)</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Bubble the Hippo makes an appearance with animal trainer Joan Embery.</desc>
+    <date>19780101</date>
+    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_AnimalAntics_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-60d4edd6b2fdec002c141123" start="20260527163458 +0000" stop="20260527173351 +0000">
+    <title>The Johnny Carson Show</title>
+    <sub-title>Hollywood Icons Of The '80s - Tim Thomerson (10/4/85)</sub-title>
+    <episode-num system="onscreen">S15E53</episode-num>
+    <desc>Stand Up comedian Tim Thomerson announces he’s leaving comedy to act in grade B sci-fi movies.</desc>
+    <date>19850101</date>
+    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_HollywoodIconsOfThe80s_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-60d4edd6b2fdec002c141123" start="20260527173351 +0000" stop="20260527183045 +0000">
+    <title>The Johnny Carson Show</title>
+    <sub-title>Hollywood Icons Of The '80s - Arnold Schwartzenegger (8/22/85)</sub-title>
+    <episode-num system="onscreen">S15E18</episode-num>
+    <desc>Arnold can't help but talk about his workout habits and Johnny jokes about killer bees.</desc>
+    <date>19850101</date>
+    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_HollywoodIconsOfThe80s_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-60d4edd6b2fdec002c141123" start="20260527183045 +0000" stop="20260527195747 +0000">
+    <title>The Johnny Carson Show</title>
+    <sub-title>Hollywood Icons Of The '80s - George Miller (4/7/78)</sub-title>
+    <episode-num system="onscreen">S15E04</episode-num>
+    <desc>George Miller does standup &amp; Robert Mitchum talks marijuana. Plus Dick Van Patten &amp; Dennis Madalone</desc>
+    <date>19780101</date>
+    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_HollywoodIconsOfThe80s_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-60d4edd6b2fdec002c141123" start="20260527195747 +0000" stop="20260527205709 +0000">
+    <title>The Johnny Carson Show</title>
+    <sub-title>Comic Legends Of The '90s - Keenan Ivory Wayans (1/16/92)</sub-title>
+    <episode-num system="onscreen">S09E16</episode-num>
+    <desc>Keenan Ivory Wayans recalls how his first appearance on the show, in 1986, was the highlight of his career.</desc>
+    <date>19920101</date>
+    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_ComicLegendsOfThe90s_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-60d4edd6b2fdec002c141123" start="20260527205709 +0000" stop="20260527221758 +0000">
+    <title>The Johnny Carson Show</title>
+    <sub-title>The Best Of Richard Pryor (1/12/79)</sub-title>
+    <episode-num system="onscreen">S11E04</episode-num>
+    <desc>Was Richard Pryor’s grandmother really a tyrant? Hear Pryor’s recollections of grandma battle ax.</desc>
+    <date>19790101</date>
+    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_TheBestOfRichardPryor_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-60d4edd6b2fdec002c141123" start="20260527221758 +0000" stop="20260527231442 +0000">
+    <title>The Johnny Carson Show</title>
+    <sub-title>Comic Legends Of The '80s - Ellen DeGeneres (5/21/87)</sub-title>
+    <episode-num system="onscreen">S08E24</episode-num>
+    <desc>Ellen DeGeneres does stand-up and Eddie Murphy talks Beverly Hills Cop II. Jane Leeves also stops by.</desc>
+    <date>19870101</date>
+    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_ComicLegendsOfThe80s_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-60d4edd6b2fdec002c141123" start="20260527231442 +0000" stop="20260528001148 +0000">
+    <title>The Johnny Carson Show</title>
+    <sub-title>Comic Legends Of The '80s - Betty White (11/12/81)</sub-title>
+    <episode-num system="onscreen">S08E33</episode-num>
+    <desc>Betty White critiques Johnny’s sketch comedy performance and quizzes him on the wonders of nature.</desc>
+    <date>19810101</date>
+    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_ComicLegendsOfThe80s_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-60d4edd6b2fdec002c141123" start="20260528001148 +0000" stop="20260528005835 +0000">
+    <title>The Johnny Carson Show</title>
+    <sub-title>The Very Best of Johnny and Guests - Muhammad Ali, Robert Blake (2/8/73)</sub-title>
+    <episode-num system="onscreen">S22E03</episode-num>
+    <desc>Johnny ribs Burbank during the monologue, Muhammad Ali details his training regimen.</desc>
+    <date>19730101</date>
+    <icon src="https://dkmazaatqjstt.cloudfront.net/JohnnyCarson_TheVeryBestOfJohnnyAndGuests_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-60d4edd6b2fdec002c141123" start="20260528005835 +0000" stop="20260528015750 +0000">
+    <title>The Johnny Carson Show</title>
+    <sub-title>Comic Legends Of The '60s - Buddy Hackett (12/8/81)</sub-title>
+    <episode-num system="onscreen">S06E17</episode-num>
+    <desc>Even Buddy Hackett bombs sometimes--just not for Johnny Carson. Plus, Rocky Graziano stops by.</desc>
+    <date>19810101</date>
+    <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_HollywoodIconsOfThe60s_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-60d4edd6b2fdec002c141123" start="20260528015750 +0000" stop="20260528025649 +0000">
+    <title>The Johnny Carson Show</title>
+    <sub-title>Hollywood Icons Of The '80s - Amy Irving (3/20/84)</sub-title>
+    <episode-num system="onscreen">S15E57</episode-num>
+    <desc>Oscar nom’d Amy Irving describes her kissing scene, with Barbra Streisand, in Yentl.</desc>
+    <date>19840101</date>
     <icon src="https://dkmazaatqjstt.cloudfront.net/TheJohnnyCarsonShow_HollywoodIconsOfThe80s_1920x1080.jpg" />
   </programme>
   

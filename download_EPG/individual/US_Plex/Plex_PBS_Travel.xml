@@ -1,252 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc">
+<channel id="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc">
     <display-name>PBS Travel</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/7498e884-3fc2-42a7-813d-8294e2ff22a6/PBS_Travel_Logo_Stacked_BLUEWhiteRDX.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260526040717 +0000" stop="20260526051019 +0000">
-    <title>Rick Steves' Cruising the Mediterranean</title>
-    <category>Movie</category>
-    <desc>Rick sails the Mediterranean, exploring the ins and outs and pros and cons of cruising.</desc>
-    <date>20190201</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e27fb5e2-8b6d-48b3-844e-fdacbecf5803/PBSTravel_2000x3000_poster_-_Danielle_Harrison.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260526051019 +0000" stop="20260526061333 +0000">
-    <title>Big Pacific</title>
-    <sub-title>Mysterious</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>We yearn to unravel the mysterious Pacific but she does not give up her secrets willingly.</desc>
-    <date>20170621</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_BigPacific_S1_BPA101V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260526061333 +0000" stop="20260526071447 +0000">
-    <title>Big Pacific</title>
-    <sub-title>Violent</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Those that live in the Pacific must choose whether to avoid conflict or rise to meet it.</desc>
-    <date>20170628</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_BigPacific_S1_BPA102V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260526071447 +0000" stop="20260526081601 +0000">
-    <title>Big Pacific</title>
-    <sub-title>Voracious</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>The challenge of finding food drives all life in the Pacific.</desc>
-    <date>20170705</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_BigPacific_S1_BPA103V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260526081601 +0000" stop="20260526091716 +0000">
-    <title>Big Pacific</title>
-    <sub-title>Passionate</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>In the Pacific, the quest to multiply has spawned a stunning array of unusual behaviors.</desc>
-    <date>20170712</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_BigPacific_S1_BPA104V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260526091716 +0000" stop="20260526101825 +0000">
-    <title>Big Pacific</title>
-    <sub-title>Behind the Scenes</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Follow the adventures of the filmmakers behind Big Pacific.</desc>
-    <date>20170719</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_BigPacific_S1_BPA105V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260526101825 +0000" stop="20260526111824 +0000">
-    <title>World's Greatest</title>
-    <sub-title>Water</sub-title>
-    <episode-num system="onscreen">S07E04</episode-num>
-    <desc>From the Nile to Kakadu, explore the world's greatest icons of water.</desc>
-    <date>20211203</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_WorldsGreatest_S7_WGR704V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260526111824 +0000" stop="20260526121822 +0000">
-    <title>World's Greatest</title>
-    <sub-title>Earth</sub-title>
-    <episode-num system="onscreen">S07E01</episode-num>
-    <desc>Explore legendary mountains, valleys and deserts -- and the forces that forged them.</desc>
-    <date>20211203</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_WorldsGreatest_S7_WGR701V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260526121822 +0000" stop="20260526131821 +0000">
-    <title>World's Greatest</title>
-    <sub-title>Wind</sub-title>
-    <episode-num system="onscreen">S07E05</episode-num>
-    <desc>See how wind shapes deserts, ignites celestial light shows and challenges the human spirit</desc>
-    <date>20211203</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_WorldsGreatest_S7_WGR705V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260526131821 +0000" stop="20260526141820 +0000">
-    <title>World's Greatest</title>
-    <sub-title>Ice</sub-title>
-    <episode-num system="onscreen">S07E03</episode-num>
-    <desc>From ice sheets to snowy peaks, glaciers to fjords, these are our planet’s frozen jewels.</desc>
-    <date>20211203</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_WorldsGreatest_S7_WGR703V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260526141820 +0000" stop="20260526151819 +0000">
-    <title>World's Greatest</title>
-    <sub-title>Fire</sub-title>
-    <episode-num system="onscreen">S07E02</episode-num>
-    <desc>Explore the greatest icons carved from fire -- from Hawaii to Iceland, Russia to Africa.</desc>
-    <date>20211203</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_WorldsGreatest_S7_WGR702V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260526151819 +0000" stop="20260526161818 +0000">
-    <title>World's Greatest</title>
-    <sub-title>Life</sub-title>
-    <episode-num system="onscreen">S07E06</episode-num>
-    <desc>Celebrate the Galapagos, Palau, the Great Barrier Reef and other biodiversity hotspots.</desc>
-    <date>20211203</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_WorldsGreatest_S7_WGR706V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260526161818 +0000" stop="20260526171016 +0000">
-    <title>Epic Train Journeys from Above</title>
-    <sub-title>Australia's Outback Railway</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Behind the scenes on Australia’s luxury Ghan train crossing the continent.</desc>
-    <date>20221003</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_EpicTrainJourneysfromAbove_S1_WTJ105V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260526171016 +0000" stop="20260526180011 +0000">
-    <title>Epic Train Journeys from Above</title>
-    <sub-title>Darjeeling Himalayan Railway</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>The 140-year-old Darjeeling Himalayan Railway and its amazing engineering.</desc>
-    <date>20220927</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_EpicTrainJourneysfromAbove_S1_WTJ104V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260526180011 +0000" stop="20260526185209 +0000">
-    <title>Epic Train Journeys from Above</title>
-    <sub-title>Copper Canyon Railway</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Explore the luxury of El Chepe train and its engineering as it travels through Mexico.</desc>
-    <date>20220920</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_EpicTrainJourneysfromAbove_S1_WTJ103V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260526185209 +0000" stop="20260526194206 +0000">
-    <title>Epic Train Journeys from Above</title>
-    <sub-title>The Glacier Express</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The Glacier Express train in the Swiss Alps and its amazing engineering.</desc>
-    <date>20220906</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_EpicTrainJourneysfromAbove_S1_WTJ101V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260526194206 +0000" stop="20260526203200 +0000">
-    <title>Epic Train Journeys from Above</title>
-    <sub-title>Canada's Wilderness Railroad</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>The Winnipeg-Churchill train crosses the difficult landscape of Manitoba.</desc>
-    <date>20220913</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_EpicTrainJourneysfromAbove_S1_WTJ102V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260526203200 +0000" stop="20260526212358 +0000">
-    <title>Epic Train Journeys from Above</title>
-    <sub-title>Norway's Bergen Railway</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>The Bergensbanen train in Western Norway and its extraordinary journey.</desc>
-    <date>20220929</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_EpicTrainJourneysfromAbove_S1_WTJ106V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260526212358 +0000" stop="20260526222654 +0000">
-    <title>Rick Steves' Cruising the Mediterranean</title>
-    <category>Movie</category>
-    <desc>Rick sails the Mediterranean, exploring the ins and outs and pros and cons of cruising.</desc>
-    <date>20190201</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e27fb5e2-8b6d-48b3-844e-fdacbecf5803/PBSTravel_2000x3000_poster_-_Danielle_Harrison.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260526222654 +0000" stop="20260526225548 +0000">
-    <title>Rick Steves' Europe</title>
-    <sub-title>Croatia: Adriatic Delights</sub-title>
-    <episode-num system="onscreen">S06E01</episode-num>
-    <desc>We explore the "Pearl of the Adriatic" from Dubrovnik to Zagreb to the Istrian Peninsula.</desc>
-    <date>20101003</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S6_RSE602V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260526225548 +0000" stop="20260526232442 +0000">
-    <title>Rick Steves' Europe</title>
-    <sub-title>Dubrovnik and Balkan Side Trips</sub-title>
-    <episode-num system="onscreen">S06E02</episode-num>
-    <desc>In the Balkans, we get to know the three major groups of the former Yugoslavia.</desc>
-    <date>20101010</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S6_RSE603V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260526232442 +0000" stop="20260526235335 +0000">
-    <title>Rick Steves' Europe</title>
-    <sub-title>The Best of Slovenia</sub-title>
-    <episode-num system="onscreen">S06E03</episode-num>
-    <desc>Rick visits tiny Slovenia, one of Europe's most unexpectedly delightful destinations.</desc>
-    <date>20101017</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S6_RSE604V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260526235335 +0000" stop="20260527002029 +0000">
-    <title>Rick Steves' Europe</title>
-    <sub-title>Granada, Córdoba, and Spain's Costa del Sol</sub-title>
-    <episode-num system="onscreen">S06E04</episode-num>
-    <desc>Enjoy food, music, dance and art in perhaps Europe's most passionate corner -- Andalucía.</desc>
-    <date>20101024</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S6_RSE605V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260527002029 +0000" stop="20260527004923 +0000">
-    <title>Rick Steves' Europe</title>
-    <sub-title>Andalucía, Gibraltar, and Tangier</sub-title>
-    <episode-num system="onscreen">S06E05</episode-num>
-    <desc>In Andalucía, we explore Spain's whitewashed hill towns, then visit Gibraltar and Tangier.</desc>
-    <date>20101031</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S6_RSE606V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260527004923 +0000" stop="20260527011817 +0000">
-    <title>Rick Steves' Europe</title>
-    <sub-title>Oslo</sub-title>
-    <episode-num system="onscreen">S06E06</episode-num>
-    <desc>Rick visits Norway's capital and cultural hub, Oslo, to enjoy its history, art and music.</desc>
-    <date>20101107</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S6_RSE607V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260527011817 +0000" stop="20260527014712 +0000">
-    <title>Rick Steves' Europe</title>
-    <sub-title>Norway's West: Fjords, Mountains, and Bergen</sub-title>
-    <episode-num system="onscreen">S06E07</episode-num>
-    <desc>Rick explores the rugged west of Norway with its majestic mountains and fjords.</desc>
-    <date>20101114</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S6_RSE608V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260527014712 +0000" stop="20260527021605 +0000">
-    <title>Rick Steves' Europe</title>
-    <sub-title>Stockholm</sub-title>
-    <episode-num system="onscreen">S06E08</episode-num>
-    <desc>We explore Sweden's capital: Stockholm, then sail northern Europe's prettiest archipelago.</desc>
-    <date>20101121</date>
-    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S6_RSE609V_16x9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260527021605 +0000" stop="20260527024459 +0000">
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260527021605 +0000" stop="20260527024459 +0000">
     <title>Rick Steves' Europe</title>
     <sub-title>Helsinki and Tallinn: Baltic Sisters</sub-title>
     <episode-num system="onscreen">S06E09</episode-num>
@@ -255,7 +14,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S6_RSE610V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260527024459 +0000" stop="20260527031354 +0000">
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260527024459 +0000" stop="20260527031354 +0000">
     <title>Rick Steves' Europe</title>
     <sub-title>Northern Spain and the Camino de Santiago</sub-title>
     <episode-num system="onscreen">S06E10</episode-num>
@@ -264,7 +23,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S6_RSE611V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260527031354 +0000" stop="20260527034247 +0000">
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260527031354 +0000" stop="20260527034247 +0000">
     <title>Rick Steves' Europe</title>
     <sub-title>Basque Country</sub-title>
     <episode-num system="onscreen">S06E11</episode-num>
@@ -273,7 +32,7 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S6_RSE612V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260527034247 +0000" stop="20260527041144 +0000">
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260527034247 +0000" stop="20260527041144 +0000">
     <title>Rick Steves' Europe</title>
     <sub-title>Rome: Ancient Glory</sub-title>
     <episode-num system="onscreen">S07E01</episode-num>
@@ -282,13 +41,255 @@
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S7_RSE701V_16x9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" start="20260527041144 +0000" stop="20260527050141 +0000">
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260527041144 +0000" stop="20260527050141 +0000">
     <title>Epic Train Journeys from Above</title>
     <sub-title>Australia's Outback Railway</sub-title>
     <episode-num system="onscreen">S01E05</episode-num>
     <desc>Behind the scenes on Australia’s luxury Ghan train crossing the continent.</desc>
     <date>20221003</date>
     <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_EpicTrainJourneysfromAbove_S1_WTJ105V_16x9.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260527050141 +0000" stop="20260527055336 +0000">
+    <title>Epic Train Journeys from Above</title>
+    <sub-title>Darjeeling Himalayan Railway</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>The 140-year-old Darjeeling Himalayan Railway and its amazing engineering.</desc>
+    <date>20220927</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_EpicTrainJourneysfromAbove_S1_WTJ104V_16x9.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260527055336 +0000" stop="20260527064335 +0000">
+    <title>Epic Train Journeys from Above</title>
+    <sub-title>Copper Canyon Railway</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Explore the luxury of El Chepe train and its engineering as it travels through Mexico.</desc>
+    <date>20220920</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_EpicTrainJourneysfromAbove_S1_WTJ103V_16x9.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260527064335 +0000" stop="20260527073332 +0000">
+    <title>Epic Train Journeys from Above</title>
+    <sub-title>The Glacier Express</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>The Glacier Express train in the Swiss Alps and its amazing engineering.</desc>
+    <date>20220906</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_EpicTrainJourneysfromAbove_S1_WTJ101V_16x9.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260527073332 +0000" stop="20260527082526 +0000">
+    <title>Epic Train Journeys from Above</title>
+    <sub-title>Canada's Wilderness Railroad</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>The Winnipeg-Churchill train crosses the difficult landscape of Manitoba.</desc>
+    <date>20220913</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_EpicTrainJourneysfromAbove_S1_WTJ102V_16x9.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260527082526 +0000" stop="20260527091529 +0000">
+    <title>Epic Train Journeys from Above</title>
+    <sub-title>Norway's Bergen Railway</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>The Bergensbanen train in Western Norway and its extraordinary journey.</desc>
+    <date>20220929</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_EpicTrainJourneysfromAbove_S1_WTJ106V_16x9.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260527091529 +0000" stop="20260527101811 +0000">
+    <title>Magical Land of Oz</title>
+    <sub-title>Land</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>An exploration of one of the most magical lands on the planet, Australia.</desc>
+    <date>20190828</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_MagicalLandofOz_S1_MLO101V_16x9.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260527101811 +0000" stop="20260527112253 +0000">
+    <title>Magical Land of Oz</title>
+    <sub-title>Ocean</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>A natural history exploration of Australia’s magical coasts and islands.</desc>
+    <date>20190904</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_MagicalLandofOz_S1_MLO102V_16x9.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260527112253 +0000" stop="20260527122535 +0000">
+    <title>Magical Land of Oz</title>
+    <sub-title>Human</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Australia’s wildlife and and how it has adapted to live in a human environment.</desc>
+    <date>20190911</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_MagicalLandofOz_S1_MLO103V_16x9.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260527122535 +0000" stop="20260527132448 +0000">
+    <title>Outback</title>
+    <sub-title>The Kimberley Comes Alive</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>The Kemberly region boasts some of the most spectacular wilderness in existence.</desc>
+    <date>20180801</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_Outback_S1_OBK101V_16x9.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260527132448 +0000" stop="20260527142801 +0000">
+    <title>Outback</title>
+    <sub-title>The Dry Season</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>It might be the dry season but there’s no rest in the Outback.</desc>
+    <date>20180808</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_Outback_S1_OBK102V_16x9.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260527142801 +0000" stop="20260527152910 +0000">
+    <title>Outback</title>
+    <sub-title>Return of the Wet</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Inland Kimberley is now so hot – waterholes are packed and the skies explode with rain.</desc>
+    <date>20180815</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_Outback_S1_OBK103V_16x9.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260527152910 +0000" stop="20260527162709 +0000">
+    <title>World's Greatest</title>
+    <sub-title>Sacred Sites</sub-title>
+    <episode-num system="onscreen">S04E06</episode-num>
+    <desc>These man-made masterpieces stand as testaments to the strength of human faith.</desc>
+    <date>20181019</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_WorldsGreatest_S4_WGR406V_16x9.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260527162709 +0000" stop="20260527172509 +0000">
+    <title>World's Greatest</title>
+    <sub-title>Timeless Cities &amp; Towns</sub-title>
+    <episode-num system="onscreen">S04E02</episode-num>
+    <desc>The past coexists with the present in these special cities, creating unique cultures.</desc>
+    <date>20181021</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_WorldsGreatest_S4_WGR402V_16x9.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260527172509 +0000" stop="20260527182108 +0000">
+    <title>World's Greatest</title>
+    <sub-title>Iconic Buildings</sub-title>
+    <episode-num system="onscreen">S04E03</episode-num>
+    <desc>These buildings prove there is no recipe for greatness.</desc>
+    <date>20181016</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_WorldsGreatest_S4_WGR403V_16x9.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260527182108 +0000" stop="20260527191907 +0000">
+    <title>World's Greatest</title>
+    <sub-title>Lost Cities</sub-title>
+    <episode-num system="onscreen">S04E01</episode-num>
+    <desc>These lost cities are providing clues to how our ancestors existed in the world.</desc>
+    <date>20181017</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_WorldsGreatest_S4_WGR405V_16x9.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260527191907 +0000" stop="20260527201707 +0000">
+    <title>World's Greatest</title>
+    <sub-title>Bridges</sub-title>
+    <episode-num system="onscreen">S04E04</episode-num>
+    <desc>Symbols of human ingenuity, bridges connect people and also the past.</desc>
+    <date>20181015</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_WorldsGreatest_S4_WGR404V_16x9.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260527201707 +0000" stop="20260527211505 +0000">
+    <title>World's Greatest</title>
+    <sub-title>Monuments &amp; Landmarks</sub-title>
+    <episode-num system="onscreen">S04E05</episode-num>
+    <desc>Many of manmade wonders characterize powerful forces, or commemorate power lost.</desc>
+    <date>20181018</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_WorldsGreatest_S4_WGR401V_16x9.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260527211505 +0000" stop="20260527221913 +0000">
+    <title>Rick Steves' Hunger and Hope: Lessons from Ethiopia and Guatemala</title>
+    <category>Movie</category>
+    <desc>Rick travels to Ethiopia and Guatemala to learn about extreme poverty and its solutions.</desc>
+    <date>20200201</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e27fb5e2-8b6d-48b3-844e-fdacbecf5803/PBSTravel_2000x3000_poster_-_Danielle_Harrison.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260527221913 +0000" stop="20260527224807 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Norway's West: Fjords, Mountains, and Bergen</sub-title>
+    <episode-num system="onscreen">S06E07</episode-num>
+    <desc>Rick explores the rugged west of Norway with its majestic mountains and fjords.</desc>
+    <date>20101114</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S6_RSE608V_16x9.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260527224807 +0000" stop="20260527231700 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Stockholm</sub-title>
+    <episode-num system="onscreen">S06E08</episode-num>
+    <desc>We explore Sweden's capital: Stockholm, then sail northern Europe's prettiest archipelago.</desc>
+    <date>20101121</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S6_RSE609V_16x9.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260527231700 +0000" stop="20260527234555 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Helsinki and Tallinn: Baltic Sisters</sub-title>
+    <episode-num system="onscreen">S06E09</episode-num>
+    <desc>In the north of Europe, we tour Helsinki and Tallinn, two capitals on the Baltic Sea.</desc>
+    <date>20101128</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S6_RSE610V_16x9.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260527234555 +0000" stop="20260528001449 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Northern Spain and the Camino de Santiago</sub-title>
+    <episode-num system="onscreen">S06E10</episode-num>
+    <desc>Join Rick as we run with the bulls in Pamplona and hike to Santiago in northwest Spain.</desc>
+    <date>20101205</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S6_RSE611V_16x9.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260528001449 +0000" stop="20260528004343 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Basque Country</sub-title>
+    <episode-num system="onscreen">S06E11</episode-num>
+    <desc>Rick enjoys the classic Basque experiences in the classic Basque places.</desc>
+    <date>20101212</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S6_RSE612V_16x9.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260528004343 +0000" stop="20260528011239 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Rome: Ancient Glory</sub-title>
+    <episode-num system="onscreen">S07E01</episode-num>
+    <desc>We'll marvel at the grandeur of ancient Rome, before biking along the ancient Appian Way.</desc>
+    <date>20121006</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S7_RSE701V_16x9.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260528011239 +0000" stop="20260528014133 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Rome: Baroque Brilliance</sub-title>
+    <episode-num system="onscreen">S07E02</episode-num>
+    <desc>We'll ramble through the heart of Rome and admire St. Peter’s Basilica.</desc>
+    <date>20121013</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S7_RSE702V_16x9.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260528014133 +0000" stop="20260528021030 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Rome: Back-Street Riches</sub-title>
+    <episode-num system="onscreen">S07E03</episode-num>
+    <desc>We’ll explore Rome on a more intimate scale in the Trastevere district and Jewish Ghetto.</desc>
+    <date>20121020</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S7_RSE703V_16x9.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-684c201a3496598cf4003fbc" start="20260528021030 +0000" stop="20260528023725 +0000">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Florence: Heart of the Renaissance</sub-title>
+    <episode-num system="onscreen">S07E04</episode-num>
+    <desc>We'll revel in the genius of Michelangelo, Botticelli, and modern-day artisan life.</desc>
+    <date>20121027</date>
+    <icon src="https://d2oxbdk5z4sczk.cloudfront.net/PBS_RickStevesEurope_S7_RSE704V_16x9.jpg" />
   </programme>
   
 </tv>

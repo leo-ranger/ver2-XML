@@ -1,435 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6">
+<channel id="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6">
     <display-name>Saborear TV</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/3b0e8cad-4177-4427-90c2-dad12ed8e5c5/Saboreartv_1500x1000-_For_light_backgrounds.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526040500 +0000" stop="20260526043100 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Tempura de camarón</sub-title>
-    <episode-num system="onscreen">S04E41</episode-num>
-    <desc>Este platillo es ideal para cualquier ocasión: tempura de camarón es lo que se va a preparar.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526043100 +0000" stop="20260526045700 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Palomitas de atún</sub-title>
-    <episode-num system="onscreen">S04E21</episode-num>
-    <desc>Palomitas de atún es lo que se va a preparar el día de hoy.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526045700 +0000" stop="20260526052300 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Rib eye en aguachile</sub-title>
-    <episode-num system="onscreen">S04E20</episode-num>
-    <desc>Rib eye en aguachile es lo que se va a preparar.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526052300 +0000" stop="20260526054900 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Fajitas de pollo</sub-title>
-    <episode-num system="onscreen">S04E35</episode-num>
-    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526054900 +0000" stop="20260526061600 +0000">
-    <title>Comer vegano</title>
-    <sub-title>Comer vegano</sub-title>
-    <episode-num system="onscreen">S05E03</episode-num>
-    <desc>Sopas para el otoño-invierno. Ensalada de pasta fría. Cómo hacer yogur en casa. Licuado de proteína.</desc>
-    <icon src="http://tmsimg.com/assets/p25689964_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526061600 +0000" stop="20260526064000 +0000">
-    <title>Secretos de las especias</title>
-    <sub-title>Secretos de las especias</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Los chefs exploran las especias que componen una masala de curry en un curso de cocina.</desc>
-    <date>20220926</date>
-    <icon src="http://tmsimg.com/assets/p22832231_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526064000 +0000" stop="20260526070600 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Ceviche y empapelado de camarón</sub-title>
-    <episode-num system="onscreen">S04E36</episode-num>
-    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526070600 +0000" stop="20260526073900 +0000">
-    <title>Comer vegano</title>
-    <sub-title>Comer vegano</sub-title>
-    <episode-num system="onscreen">S06E03</episode-num>
-    <desc>Receta sin caldo de pollo, sin aceites y con ingredientes saludables, rica en proteína.</desc>
-    <icon src="http://tmsimg.com/assets/p25689964_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526073900 +0000" stop="20260526080400 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Camarones a la diabla</sub-title>
-    <episode-num system="onscreen">S04E01</episode-num>
-    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526080400 +0000" stop="20260526083100 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Tacos de pollo adobado</sub-title>
-    <episode-num system="onscreen">S04E46</episode-num>
-    <desc>Este platillo e ideal para cualquier ocasión: tacos de pollo adobado es lo que se va a preparar.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526083100 +0000" stop="20260526085800 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Boneless con salsa</sub-title>
-    <episode-num system="onscreen">S04E29</episode-num>
-    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526085800 +0000" stop="20260526092400 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Spaghetti al pesto</sub-title>
-    <episode-num system="onscreen">S04E53</episode-num>
-    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526092400 +0000" stop="20260526094800 +0000">
-    <title>Sabores Culturales</title>
-    <sub-title>China</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>La cocina, su relación con el contexto cultural en donde se genera, selección de alimentos, sabores.</desc>
-    <date>20120223</date>
-    <icon src="http://tmsimg.com/assets/p9043489_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526094800 +0000" stop="20260526101300 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Camarones con salsa de chipotle</sub-title>
-    <episode-num system="onscreen">S04E59</episode-num>
-    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526101300 +0000" stop="20260526104200 +0000">
-    <title>Comer vegano</title>
-    <sub-title>Comer vegano</sub-title>
-    <episode-num system="onscreen">S05E06</episode-num>
-    <desc>Cochinita pibil, pambazos veganos, tinga morada de betabel, leche condensada vegana, y más.</desc>
-    <icon src="http://tmsimg.com/assets/p25689964_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526104200 +0000" stop="20260526110800 +0000">
-    <title>Comer vegano</title>
-    <sub-title>Comer vegano</sub-title>
-    <episode-num system="onscreen">S05E05</episode-num>
-    <desc>Requesón de almendra con eneldo y leche de almendra, ensaladas para reemplazar una comida, y más.</desc>
-    <date>20260110</date>
-    <icon src="http://tmsimg.com/assets/p25689964_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526110800 +0000" stop="20260526113500 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Pasta con albóndigas</sub-title>
-    <episode-num system="onscreen">S04E13</episode-num>
-    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526113500 +0000" stop="20260526115900 +0000">
-    <title>Sabores Culturales</title>
-    <sub-title>Francia</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Influencia francés.</desc>
-    <date>20120214</date>
-    <icon src="http://tmsimg.com/assets/p9043489_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526115900 +0000" stop="20260526122600 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Pasta con albóndigas</sub-title>
-    <episode-num system="onscreen">S04E13</episode-num>
-    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526122600 +0000" stop="20260526125000 +0000">
-    <title>Sabores Culturales</title>
-    <sub-title>Francia</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Influencia francés.</desc>
-    <date>20120214</date>
-    <icon src="http://tmsimg.com/assets/p9043489_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526125000 +0000" stop="20260526131600 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Salteado de brócoli con carne</sub-title>
-    <episode-num system="onscreen">S04E55</episode-num>
-    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526131600 +0000" stop="20260526134400 +0000">
-    <title>Secretos de las especias</title>
-    <sub-title>Semillas, corteza y flores</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Todo lo que hay que saber sobre especias, ya sean de raíz, semilla, corteza o flor.</desc>
-    <date>20221107</date>
-    <icon src="http://tmsimg.com/assets/p22832231_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526134400 +0000" stop="20260526141200 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Chop suey de atún</sub-title>
-    <episode-num system="onscreen">S04E16</episode-num>
-    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526141200 +0000" stop="20260526143600 +0000">
-    <title>Sabores Culturales</title>
-    <sub-title>México</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Comida tradicional en México.</desc>
-    <date>20130207</date>
-    <icon src="http://tmsimg.com/assets/p9043489_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526143600 +0000" stop="20260526150600 +0000">
-    <title>Comer vegano</title>
-    <sub-title>Comer vegano</sub-title>
-    <episode-num system="onscreen">S05E02</episode-num>
-    <desc>Tocino de zanahoria, albóndigas de cereales y semillas y panqué de matcha.</desc>
-    <icon src="http://tmsimg.com/assets/p25689964_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526150600 +0000" stop="20260526153400 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Tacos dorados de frijol con camarón</sub-title>
-    <episode-num system="onscreen">S04E06</episode-num>
-    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526153400 +0000" stop="20260526160000 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Caldo de camarón</sub-title>
-    <episode-num system="onscreen">S04E54</episode-num>
-    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526160000 +0000" stop="20260526162500 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Cuernitos con ensalada</sub-title>
-    <episode-num system="onscreen">S04E33</episode-num>
-    <desc>Este platillo es ideal para cualquier ocasión: cuernitos con ensalada es lo que se va a preparar.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526162500 +0000" stop="20260526165100 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Salmón en salsa tártara</sub-title>
-    <episode-num system="onscreen">S04E25</episode-num>
-    <desc>Este platillo es ideal para cualquier ocasión: salmón en salsa tártara es lo que se va a preparar.</desc>
-    <date>20260111</date>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526165100 +0000" stop="20260526171600 +0000">
-    <title>Sabores Culturales</title>
-    <sub-title>Italia</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Diferentes regiones de Italia preparan los alimentos con sus propios sabores únicos.</desc>
-    <date>20120211</date>
-    <icon src="http://tmsimg.com/assets/p9043489_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526171600 +0000" stop="20260526174000 +0000">
-    <title>Sabores Culturales</title>
-    <sub-title>Afganistán</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>La cocina afgana se ve influenciada por la ubicación del país a lo largo de la Ruta de la Seda.</desc>
-    <date>20120214</date>
-    <icon src="http://tmsimg.com/assets/p9043489_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526174000 +0000" stop="20260526180600 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Taquiza de la chef</sub-title>
-    <episode-num system="onscreen">S04E41</episode-num>
-    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526180600 +0000" stop="20260526183300 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Puntas de albañil</sub-title>
-    <episode-num system="onscreen">S04E39</episode-num>
-    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526183300 +0000" stop="20260526185600 +0000">
-    <title>Sabores Culturales</title>
-    <sub-title>Corea</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Las hierbas y especias usadas en los platos coreanos son populares en toda Asia.</desc>
-    <date>20120212</date>
-    <icon src="http://tmsimg.com/assets/p9043489_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526185600 +0000" stop="20260526192300 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Camarones al coco</sub-title>
-    <episode-num system="onscreen">S04E02</episode-num>
-    <desc>Este platillo es ideal para cualquier ocasión: camarones al coco es lo que se va a preparar.</desc>
-    <date>20260108</date>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526192300 +0000" stop="20260526194900 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Pescado en salsa de cilantro</sub-title>
-    <episode-num system="onscreen">S04E30</episode-num>
-    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526194900 +0000" stop="20260526201400 +0000">
-    <title>Sabores Culturales</title>
-    <sub-title>India</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Un viaje por la diversa y exótica gastronomía de la India.</desc>
-    <date>20120208</date>
-    <icon src="http://tmsimg.com/assets/p9043489_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526201400 +0000" stop="20260526203900 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Fish and chips</sub-title>
-    <episode-num system="onscreen">S04E08</episode-num>
-    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526203900 +0000" stop="20260526210600 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Baguette de pollo</sub-title>
-    <episode-num system="onscreen">S04E17</episode-num>
-    <desc>Este platillo es ideal para cualquier ocasión: baguette de pollo es lo que se va a preparar.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526210600 +0000" stop="20260526213200 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Pechugas poblanas</sub-title>
-    <episode-num system="onscreen">S04E09</episode-num>
-    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526213200 +0000" stop="20260526215900 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Postre de quequis</sub-title>
-    <episode-num system="onscreen">S04E04</episode-num>
-    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526215900 +0000" stop="20260526222500 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Pollo a la crema</sub-title>
-    <episode-num system="onscreen">S04E65</episode-num>
-    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526222500 +0000" stop="20260526225300 +0000">
-    <title>Secretos de las especias</title>
-    <sub-title>Llegando a la raíz de las especias</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Jasmin Ibrahim y Shahir Massoud cocinan platos utilizando raíces de especias.</desc>
-    <date>20221024</date>
-    <icon src="http://tmsimg.com/assets/p22832231_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526225300 +0000" stop="20260526231900 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Pescado Zarandeado</sub-title>
-    <episode-num system="onscreen">S04E49</episode-num>
-    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526231900 +0000" stop="20260526234500 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Pellizcadas de chilorio</sub-title>
-    <episode-num system="onscreen">S04E61</episode-num>
-    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260526234500 +0000" stop="20260527001300 +0000">
-    <title>Secretos de las especias</title>
-    <sub-title>Secretos de las especias</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Una especia es buena, pero la mezcla de varias es todo una fiesta.</desc>
-    <date>20221107</date>
-    <icon src="http://tmsimg.com/assets/p22832231_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260527001300 +0000" stop="20260527004100 +0000">
-    <title>Secretos de las especias</title>
-    <sub-title>Secretos de las especias</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Los chefs y coanfitriones exploran la conexión entre especias y grasa con tres deliciosas recetas.</desc>
-    <date>20221003</date>
-    <icon src="http://tmsimg.com/assets/p22832231_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260527004100 +0000" stop="20260527011000 +0000">
-    <title>Comer vegano</title>
-    <sub-title>Comer vegano</sub-title>
-    <episode-num system="onscreen">S05E07</episode-num>
-    <desc>El veganismo se trata de justicia, no de contar calorías. Pan de queso en sartén, flan y más.</desc>
-    <icon src="http://tmsimg.com/assets/p25689964_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260527011000 +0000" stop="20260527013600 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Chicharrón prensado</sub-title>
-    <episode-num system="onscreen">S04E48</episode-num>
-    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260527013600 +0000" stop="20260527020200 +0000">
-    <title>Hasta la cocina</title>
-    <sub-title>Alitas buffalo</sub-title>
-    <episode-num system="onscreen">S04E62</episode-num>
-    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
-    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260527020200 +0000" stop="20260527022700 +0000">
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527020200 +0000" stop="20260527022700 +0000">
     <title>Hasta la cocina</title>
     <sub-title>Alitas de coliflor capeadas</sub-title>
     <episode-num system="onscreen">S04E58</episode-num>
-    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
+    <desc>Alitas de coliflor capeadas es lo que se va a preparar el día de hoy.</desc>
     <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260527022700 +0000" stop="20260527025400 +0000">
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527022700 +0000" stop="20260527025400 +0000">
     <title>Hasta la cocina</title>
     <sub-title>Enchiladas verdes</sub-title>
     <episode-num system="onscreen">S04E10</episode-num>
@@ -437,7 +21,7 @@
     <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260527025400 +0000" stop="20260527032100 +0000">
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527025400 +0000" stop="20260527032100 +0000">
     <title>Hasta la cocina</title>
     <sub-title>Tacos de bistec a la cerveza</sub-title>
     <episode-num system="onscreen">S03E64</episode-num>
@@ -446,7 +30,7 @@
     <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260527032100 +0000" stop="20260527034500 +0000">
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527032100 +0000" stop="20260527034500 +0000">
     <title>Secretos de las especias</title>
     <sub-title>Especias reconfortantes</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -455,7 +39,7 @@
     <icon src="http://tmsimg.com/assets/p22832231_b_h10_aa.jpg?w=1920&amp;h=1080" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260527034500 +0000" stop="20260527041100 +0000">
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527034500 +0000" stop="20260527041100 +0000">
     <title>Hasta la cocina</title>
     <sub-title>Brochetas de pollo satay</sub-title>
     <episode-num system="onscreen">S04E05</episode-num>
@@ -463,12 +47,438 @@
     <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" start="20260527041100 +0000" stop="20260527043600 +0000">
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527041100 +0000" stop="20260527043600 +0000">
     <title>Hasta la cocina</title>
     <sub-title>Tacos de camarón</sub-title>
     <episode-num system="onscreen">S04E23</episode-num>
+    <desc>Tacos de camarón. Un delicioso y sencillo platillo. Ingredientes fáciles de conseguir.</desc>
+    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527043600 +0000" stop="20260527050300 +0000">
+    <title>Hasta la cocina</title>
+    <sub-title>Tacos de marlín</sub-title>
+    <episode-num system="onscreen">S04E14</episode-num>
     <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
     <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527050300 +0000" stop="20260527053000 +0000">
+    <title>Hasta la cocina</title>
+    <sub-title>Chile relleno de atún con chipotle</sub-title>
+    <episode-num system="onscreen">S04E34</episode-num>
+    <desc>Este platillo es ideal para cualquier ocasión: chile relleno de atún con chipotle.</desc>
+    <date>20260108</date>
+    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527053000 +0000" stop="20260527055600 +0000">
+    <title>Hasta la cocina</title>
+    <sub-title>Colache de calabaza</sub-title>
+    <episode-num system="onscreen">S04E32</episode-num>
+    <desc>Este platillo es ideal para cualquier ocasión: guiso de calabaza es lo que se va a preparar.</desc>
+    <date>20260109</date>
+    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527055600 +0000" stop="20260527062400 +0000">
+    <title>Secretos de las especias</title>
+    <sub-title>Secretos de las especias</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Jasmin Ibrahim y Shahir Massoud preparan tres platos que muestran el lado más dulce de las especias.</desc>
+    <date>20221010</date>
+    <icon src="http://tmsimg.com/assets/p22832231_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527062400 +0000" stop="20260527065100 +0000">
+    <title>Hasta la cocina</title>
+    <sub-title>Dedos de pollo</sub-title>
+    <episode-num system="onscreen">S04E42</episode-num>
+    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
+    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527065100 +0000" stop="20260527071500 +0000">
+    <title>Sabores Culturales</title>
+    <sub-title>Grecia</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>La comida griega es conocida por ser sutil en sabor, basándose en hierbas frescas, frutas y granos.</desc>
+    <date>20130214</date>
+    <icon src="http://tmsimg.com/assets/p9043489_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527071500 +0000" stop="20260527073900 +0000">
+    <title>Sabores Culturales</title>
+    <sub-title>Nepal</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Momo Kukhura.</desc>
+    <date>20120220</date>
+    <icon src="http://tmsimg.com/assets/p9043489_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527073900 +0000" stop="20260527080500 +0000">
+    <title>Hasta la cocina</title>
+    <sub-title>Tacos de fideo</sub-title>
+    <episode-num system="onscreen">S04E63</episode-num>
+    <desc>Este platillo es ideal para cualquier ocasión: tacos de fideo es lo que se va a preparar.</desc>
+    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527080500 +0000" stop="20260527083100 +0000">
+    <title>Hasta la cocina</title>
+    <sub-title>Carnitas de atún 2</sub-title>
+    <episode-num system="onscreen">S04E11</episode-num>
+    <desc>A deleitarse con la preparación de una deliciosa receta de carnitas de atún.</desc>
+    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527083100 +0000" stop="20260527090100 +0000">
+    <title>Comer vegano</title>
+    <sub-title>Comer vegano</sub-title>
+    <episode-num system="onscreen">S05E04</episode-num>
+    <desc>Cómo hacer pizza vegana en casa. Desayuno: mejor que las claras de huevo. Fettuccine Alfredo vegano.</desc>
+    <date>20260213</date>
+    <icon src="http://tmsimg.com/assets/p25689964_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527090100 +0000" stop="20260527092500 +0000">
+    <title>Sabores Culturales</title>
+    <sub-title>Japón</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Sushi; tempura.</desc>
+    <date>20120221</date>
+    <icon src="http://tmsimg.com/assets/p9043489_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527092500 +0000" stop="20260527095200 +0000">
+    <title>Hasta la cocina</title>
+    <sub-title>Hamburguesa de atún capeada</sub-title>
+    <episode-num system="onscreen">S04E12</episode-num>
+    <desc>Este platillo es ideal para cualquier ocasión: hamburguesa de atún capeado.</desc>
+    <date>20260109</date>
+    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527095200 +0000" stop="20260527102000 +0000">
+    <title>Comer vegano</title>
+    <sub-title>Comer vegano</sub-title>
+    <episode-num system="onscreen">S05E08</episode-num>
+    <desc>Crema de nuez, ceviche de cebada, menú de un día para bajar de peso.</desc>
+    <icon src="http://tmsimg.com/assets/p25689964_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527102000 +0000" stop="20260527104500 +0000">
+    <title>Hasta la cocina</title>
+    <sub-title>Hamburguesa de camarón</sub-title>
+    <episode-num system="onscreen">S04E24</episode-num>
+    <desc>Este platillo es ideal para cualquier ocasión: hamburguesa de camarón es lo que se va a preparar.</desc>
+    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527104500 +0000" stop="20260527111000 +0000">
+    <title>Comer vegano</title>
+    <sub-title>Comer vegano</sub-title>
+    <episode-num system="onscreen">S05E01</episode-num>
+    <desc>Filetes para reemplazar el pescado. Una semana saludable y barata. Jugo para reforzar las defensas.</desc>
+    <date>20260107</date>
+    <icon src="http://tmsimg.com/assets/p25689964_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527111000 +0000" stop="20260527113800 +0000">
+    <title>Hasta la cocina</title>
+    <sub-title>Tostadas de marlin con camarones</sub-title>
+    <episode-num system="onscreen">S04E47</episode-num>
+    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
+    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527113800 +0000" stop="20260527120400 +0000">
+    <title>Hasta la cocina</title>
+    <sub-title>Salteado de carne con brócoli</sub-title>
+    <episode-num system="onscreen">S04E07</episode-num>
+    <desc>Si a alguien le encanta la comida con toques asiáticos, debe probar salteado de carne con brócoli.</desc>
+    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527120400 +0000" stop="20260527122900 +0000">
+    <title>Sabores Culturales</title>
+    <sub-title>Tailandia</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>La comida tailandesa es una mezcla de culturas. La filosofía detrás se enfoca en equilibrar sabores.</desc>
+    <date>20120207</date>
+    <icon src="http://tmsimg.com/assets/p9043489_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527122900 +0000" stop="20260527125400 +0000">
+    <title>Hasta la cocina</title>
+    <sub-title>Pescado empapelado</sub-title>
+    <episode-num system="onscreen">S04E56</episode-num>
+    <desc>Pescado empapelado con carne es lo que se va a preparar el día de hoy.</desc>
+    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527125400 +0000" stop="20260527131700 +0000">
+    <title>Sabores Culturales</title>
+    <sub-title>Líbano</sub-title>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <desc>Tradición culinaria libanesa tiene influencias de Turquía y Francia.</desc>
+    <date>20120223</date>
+    <icon src="http://tmsimg.com/assets/p9043489_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527131700 +0000" stop="20260527134300 +0000">
+    <title>Hasta la cocina</title>
+    <sub-title>Carne con brócoli estilo chino</sub-title>
+    <episode-num system="onscreen">S04E31</episode-num>
+    <desc>El día de hoy se prepara una rica receta de carne con brócoli estilo chino.</desc>
+    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527134300 +0000" stop="20260527141000 +0000">
+    <title>Hasta la cocina</title>
+    <sub-title>Enchiladas de pollo</sub-title>
+    <episode-num system="onscreen">S04E44</episode-num>
+    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
+    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527141000 +0000" stop="20260527143500 +0000">
+    <title>Hasta la cocina</title>
+    <sub-title>Tacos gobernador</sub-title>
+    <episode-num system="onscreen">S04E40</episode-num>
+    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
+    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527143500 +0000" stop="20260527150000 +0000">
+    <title>Hasta la cocina</title>
+    <sub-title>Tacos de marlin con queso</sub-title>
+    <episode-num system="onscreen">S04E27</episode-num>
+    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
+    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527150000 +0000" stop="20260527152500 +0000">
+    <title>Hasta la cocina</title>
+    <sub-title>Chop suey de pollo</sub-title>
+    <episode-num system="onscreen">S04E38</episode-num>
+    <desc>Este platillo es ideal para cualquier ocasión: chop suey de pollo es lo que se va a preparar.</desc>
+    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527152500 +0000" stop="20260527154900 +0000">
+    <title>Sabores Culturales</title>
+    <sub-title>Sudán</sub-title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <desc>La cocina, su relación con el contexto cultural en donde se genera, selección de alimentos, sabores.</desc>
+    <date>20120221</date>
+    <icon src="http://tmsimg.com/assets/p9043489_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527154900 +0000" stop="20260527161600 +0000">
+    <title>Hasta la cocina</title>
+    <sub-title>Pescado en salsa de mango</sub-title>
+    <episode-num system="onscreen">S04E22</episode-num>
+    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
+    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527161600 +0000" stop="20260527164300 +0000">
+    <title>Hasta la cocina</title>
+    <sub-title>Tortas de camote con camarón</sub-title>
+    <episode-num system="onscreen">S04E60</episode-num>
+    <desc>Este platillo es ideal para cualquier ocasión: tortas de camote con camarón.</desc>
+    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527164300 +0000" stop="20260527170900 +0000">
+    <title>Hasta la cocina</title>
+    <sub-title>Pollo a la cordon bleu</sub-title>
+    <episode-num system="onscreen">S04E57</episode-num>
+    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
+    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527170900 +0000" stop="20260527173600 +0000">
+    <title>Hasta la cocina</title>
+    <sub-title>Tacos de discada</sub-title>
+    <episode-num system="onscreen">S04E43</episode-num>
+    <desc>Hoy se prepara una rica discada, platillo famoso en el norte de México.</desc>
+    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527173600 +0000" stop="20260527180400 +0000">
+    <title>Secretos de las especias</title>
+    <sub-title>Secretos de las especias</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Los chefs y Jasmin Ibrahim y Shahir Massoud se ponen atrevidos con recetas llenas de especias.</desc>
+    <date>20221017</date>
+    <icon src="http://tmsimg.com/assets/p22832231_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527180400 +0000" stop="20260527183000 +0000">
+    <title>Global Child</title>
+    <sub-title>Rusia: Atreviéndose a soñar</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Augusto se dirige a explorar los castillos de Peterhof y baila en Moscú.</desc>
+    <date>20170629</date>
+    <icon src="http://tmsimg.com/assets/p14373314_i_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527183000 +0000" stop="20260527185800 +0000">
+    <title>Cocina como un chef</title>
+    <sub-title>Episodio sobre la patata con el chef Derek Dammann</sub-title>
+    <episode-num system="onscreen">S06E02</episode-num>
+    <desc>El chef Derek Dammann muestra técnicas para mejorar platillos clásicos con patata.</desc>
+    <date>20200320</date>
+    <icon src="http://tmsimg.com/assets/p222325_b_h8_ac.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527185800 +0000" stop="20260527191900 +0000">
+    <title>Ana Avellana</title>
+    <sub-title>Zucchini con azucchini</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Ana Avellana enseña a preparar un "muffin" y un bizcocho, ambos hechos con calabacín.</desc>
+    <icon src="http://tmsimg.com/assets/p15736797_i_h10_ab.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527191900 +0000" stop="20260527194700 +0000">
+    <title>Verduras viajeras</title>
+    <sub-title>Francia, Japón, Marruecos, México</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>El chef Pino Dic Cerbo prepara platillos inspirados en Francia, Japón, Marruecos y México.</desc>
+    <date>20230627</date>
+    <icon src="http://tmsimg.com/assets/p24446024_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527194700 +0000" stop="20260527201500 +0000">
+    <title>Cocina como un chef</title>
+    <sub-title>Ensaladas con el chef Craig Wong</sub-title>
+    <episode-num system="onscreen">S06E03</episode-num>
+    <desc>El chef Craig Wong elabora deliciosas ensaladas dignas de un restaurante.</desc>
+    <date>20200403</date>
+    <icon src="http://tmsimg.com/assets/p222325_b_h8_ac.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527201500 +0000" stop="20260527203900 +0000">
+    <title>Cocina como un chef</title>
+    <sub-title>Episodio sobre el salmón con la chef Natalia Machado</sub-title>
+    <episode-num system="onscreen">S06E08</episode-num>
+    <desc>La chef Natalia Machado demuestra cómo seleccionar, manipular y cortar un salmón entero.</desc>
+    <date>20200508</date>
+    <icon src="http://tmsimg.com/assets/p222325_b_h8_ac.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527203900 +0000" stop="20260527210700 +0000">
+    <title>Kömer</title>
+    <sub-title>Cerdo</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>A lo largo de los siglos, el cerdo ha aparecido en la literatura, la mitología y en varias leyendas.</desc>
+    <date>20190906</date>
+    <icon src="http://tmsimg.com/assets/p17229152_b_h8_aa.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527210700 +0000" stop="20260527213500 +0000">
+    <title>Con las manos en la brasa</title>
+    <category>Movie</category>
+    <desc>Spencer Watts demuestra cómo asar cualquier cosa como un profesional.</desc>
+    <date>20180619</date>
+    <icon src="http://tmsimg.com/assets/p15548201_b_v11_ac.jpg?w=1280&amp;h=1920" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527213500 +0000" stop="20260527220300 +0000">
+    <title>Comer vegano</title>
+    <sub-title>Comer vegano</sub-title>
+    <episode-num system="onscreen">S05E03</episode-num>
+    <desc>Sopas para el otoño-invierno. Ensalada de pasta fría. Cómo hacer yogur en casa. Licuado de proteína.</desc>
+    <icon src="http://tmsimg.com/assets/p25689964_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527220300 +0000" stop="20260527223100 +0000">
+    <title>Con las manos en la brasa</title>
+    <sub-title>Pollo a la parrilla, asado y carbonizado</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Spencer explora la versatilidad del pollo. Comienza con brochetas de pollo a la parrilla.</desc>
+    <date>20180717</date>
+    <icon src="http://tmsimg.com/assets/p15559342_i_h8_aa.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527223100 +0000" stop="20260527230300 +0000">
+    <title>Comer vegano</title>
+    <sub-title>Comer vegano</sub-title>
+    <episode-num system="onscreen">S06E03</episode-num>
+    <desc>Receta sin caldo de pollo, sin aceites y con ingredientes saludables, rica en proteína.</desc>
+    <icon src="http://tmsimg.com/assets/p25689964_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527230300 +0000" stop="20260527233100 +0000">
+    <title>Cocina como un chef</title>
+    <sub-title>Pescado blanco con la chef Katie Ardington</sub-title>
+    <episode-num system="onscreen">S06E06</episode-num>
+    <desc>La chef Katie Ardington muestra cómo preparar varios platos con lubina rayada.</desc>
+    <date>20200424</date>
+    <icon src="http://tmsimg.com/assets/p222325_b_h8_ac.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527233100 +0000" stop="20260527235300 +0000">
+    <title>Ana Avellana</title>
+    <sub-title>Las avellanitas de Ana</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Ana se inspira en sus tres pequeñas avellanitas y las sorprende con sus platillos favoritos.</desc>
+    <icon src="http://tmsimg.com/assets/p15736797_i_h10_ab.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260527235300 +0000" stop="20260528002200 +0000">
+    <title>El mago de las salsas</title>
+    <sub-title>Agrias</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Una salsa piccata de mantequilla quemada y una salsa ponzu de tomate ahumado.</desc>
+    <date>20230724</date>
+    <icon src="http://tmsimg.com/assets/p24442164_i_h8_ab.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260528002200 +0000" stop="20260528005000 +0000">
+    <title>Con las manos en la brasa</title>
+    <sub-title>Fuego y picante</sub-title>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <desc>El chef Spencer Watts sube el listón con cuatro recetas picantes que prepara a la barbacoa.</desc>
+    <date>20200626</date>
+    <icon src="http://tmsimg.com/assets/p18339540_e_h8_ab.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260528005000 +0000" stop="20260528011500 +0000">
+    <title>Hasta la cocina</title>
+    <sub-title>Pechuga a la cordon blue</sub-title>
+    <episode-num system="onscreen">S04E03</episode-num>
+    <desc>La chef Ana Luisa Nuño preparará fáciles y deliciosas recetas, además de consejos y tips de cocina.</desc>
+    <icon src="http://tmsimg.com/assets/p25699236_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260528011500 +0000" stop="20260528014300 +0000">
+    <title>Comer vegano</title>
+    <sub-title>Comer vegano</sub-title>
+    <episode-num system="onscreen">S06E06</episode-num>
+    <desc>Libre de embutidos y lácteos: sin colesterol, saludable y rico en proteína.</desc>
+    <date>20260325</date>
+    <icon src="http://tmsimg.com/assets/p25689964_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260528014300 +0000" stop="20260528021100 +0000">
+    <title>Secretos de las especias</title>
+    <sub-title>Secretos de las especias</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Los chefs y Jasmin Ibrahim y Shahir Massoud se ponen atrevidos con recetas llenas de especias.</desc>
+    <date>20221017</date>
+    <icon src="http://tmsimg.com/assets/p22832231_b_h10_aa.jpg?w=1920&amp;h=1080" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6" start="20260528021100 +0000" stop="20260528023900 +0000">
+    <title>Secretos de las especias</title>
+    <sub-title>Secretos de las especias</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Jasmín Ibrahim y Shahir Massoud condimentan tus platos con todo tipo de pimientas.</desc>
+    <date>20220919</date>
+    <icon src="http://tmsimg.com/assets/p22832231_b_h10_aa.jpg?w=1920&amp;h=1080" />
   </programme>
   
 </tv>

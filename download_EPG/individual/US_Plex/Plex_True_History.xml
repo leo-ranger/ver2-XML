@@ -1,11 +1,155 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97">
+<channel id="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97">
     <display-name>True History</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/f37684ab-5eb6-48dd-8999-fbb6345689d4/1500x1000-DarkBG.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526040000 +0000" stop="20260526043000 +0000">
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527020000 +0000" stop="20260527023000 +0000">
+    <title>The American Civil War</title>
+    <sub-title>The Opposing Sides, I</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Was the South fated to lose, as many people think?</desc>
+    <date>20210717</date>
+    <icon src="https://images.frequency.com/video/2d5n0hs999x61htx5yp8md4hr/w1920_h1080/2d5n0hs999x61htx5yp8md4hr.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527023000 +0000" stop="20260527030000 +0000">
+    <title>The American Civil War</title>
+    <sub-title>The Opposing Sides, II</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Did the Confederacy have better generals? Which side had the edge in strategic and political leadership?</desc>
+    <date>20210717</date>
+    <icon src="https://images.frequency.com/video/1eyptnr7km5qw1exsrk4sm8y0/w1920_h1080/1eyptnr7km5qw1exsrk4sm8y0.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527030000 +0000" stop="20260527033000 +0000">
+    <title>The American Civil War</title>
+    <sub-title>The Common Soldier</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Why did young men join the colors of the North or the South?</desc>
+    <date>20210717</date>
+    <icon src="https://images.frequency.com/video/191z86knf2i691oj8tfgem3nd/w1920_h1080/191z86knf2i691oj8tfgem3nd.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527033000 +0000" stop="20260527040000 +0000">
+    <title>The American Civil War</title>
+    <sub-title>First Manassas or Bull Run</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>What was Gen. Winfield Scott's brilliant "Anaconda Plan" and other factors that lead to the first big clash.</desc>
+    <date>20210717</date>
+    <icon src="https://images.frequency.com/video/1b3x1vqceyag61fk1da09np8t/w1920_h1080/1b3x1vqceyag61fk1da09np8t.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527040000 +0000" stop="20260527043000 +0000">
+    <title>African American History: From Emancipation through Jim Crow</title>
+    <sub-title>Emancipation: The Fight for Rights Begins</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>The freedom fight did not end for Black Americans when President Lincoln issued the Emancipation Proclamation.</desc>
+    <date>20220525</date>
+    <icon src="https://images.frequency.com/video/17h43dcp0va441ed4ln5j7gxc/w1920_h1080/17h43dcp0va441ed4ln5j7gxc.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527043000 +0000" stop="20260527050000 +0000">
+    <title>African American History: From Emancipation through Jim Crow</title>
+    <sub-title>The Promise and Betrayal of Reconstruction</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>As interpretations of Reconstruction tore things apart, far more sinister economic and social systems formed.</desc>
+    <date>20220525</date>
+    <icon src="https://images.frequency.com/video/1au111ddljun2124vizfo0xg1/w1920_h1080/1au111ddljun2124vizfo0xg1.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527050000 +0000" stop="20260527053000 +0000">
+    <title>African American History: From Emancipation through Jim Crow</title>
+    <sub-title>Separate and Unequal: The Rise of Jim Crow</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>How was the 'separate but equal' doctrine legitimized and enforced in the United States?</desc>
+    <date>20220525</date>
+    <icon src="https://images.frequency.com/video/17e2ico814vhz1sxc03zmrulz/w1920_h1080/17e2ico814vhz1sxc03zmrulz.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527053000 +0000" stop="20260527060000 +0000">
+    <title>African American History: From Emancipation through Jim Crow</title>
+    <sub-title>Lift Every Voice and Sing</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Discover how Black communities insulated themselves from the harsh realities of the early 20th century.</desc>
+    <date>20220525</date>
+    <icon src="https://images.frequency.com/video/18cgtaqdv1u8u1l9d9m5n21ua/w1920_h1080/18cgtaqdv1u8u1l9d9m5n21ua.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527060000 +0000" stop="20260527063000 +0000">
+    <title>The History of the United States, 2nd Edition</title>
+    <sub-title>Living Bravely</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Discovery of a New World allowed Europeans to write new scripts for their lives.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/evldebrs94n178zym6125pat/w1920_h1080/evldebrs94n178zym6125pat.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527063000 +0000" stop="20260527070000 +0000">
+    <title>The History of the United States, 2nd Edition</title>
+    <sub-title>Spain, France, and the Netherlands</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>The French attempted to settle in America, but did not succeed as the Spanish had.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/64iu729et8vv172ciotglfqfk/w1920_h1080/64iu729et8vv172ciotglfqfk.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527070000 +0000" stop="20260527073000 +0000">
+    <title>The History of the United States, 2nd Edition</title>
+    <sub-title>Gentlemen in the Wilderness</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>The English joined the game of extraction and settlement last of all the major European nations.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/vpgr13gmcyhi1olm10qxu108a/w1920_h1080/vpgr13gmcyhi1olm10qxu108a.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527073000 +0000" stop="20260527080000 +0000">
+    <title>The History of the United States, 2nd Edition</title>
+    <sub-title>Radicals in the Wilderness</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Southern English colonies were motivated by economic self-interest; northern ones by ideas.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/138ezx46gegts1ejrc5zfeff8/w1920_h1080/138ezx46gegts1ejrc5zfeff8.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527080000 +0000" stop="20260527083000 +0000">
+    <title>The History of the United States, 2nd Edition</title>
+    <sub-title>Traders in the Wilderness</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Explore various settlements along the coast between the Chesapeake and Long Island.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/61v3a1ckdb6i1bp96uneadffv/w1920_h1080/61v3a1ckdb6i1bp96uneadffv.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527083000 +0000" stop="20260527090000 +0000">
+    <title>The History of the United States, 2nd Edition</title>
+    <sub-title>An Economy of Slaves</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Commercial success would have been impossible without cheap labor and slaves.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/qb11zibypusq1uo89b6xi4icv/w1920_h1080/qb11zibypusq1uo89b6xi4icv.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527090000 +0000" stop="20260527093000 +0000">
+    <title>The History of the United States, 2nd Edition</title>
+    <sub-title>Printers, Painters, and Preachers</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Americans developed cultural forms in both music and art that were uniquely American.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/4tns6k6hzqzm1wg4kfbv8scjx/w1920_h1080/4tns6k6hzqzm1wg4kfbv8scjx.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527093000 +0000" stop="20260527100000 +0000">
+    <title>The History of the United States, 2nd Edition</title>
+    <sub-title>The Great Awakening</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>The stresses of Colonial life produced social eruptions aimed at regaining a sense of control.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/1vcqdaarcjctt1arhko2giea7/w1920_h1080/1vcqdaarcjctt1arhko2giea7.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527100000 +0000" stop="20260527103000 +0000">
     <title>The History of the United States Navy</title>
     <sub-title>The British Origins of the US Navy</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -14,7 +158,7 @@
     <icon src="https://images.frequency.com/video/191ni82hobho41u1c9ts5kukp/w1920_h1080/191ni82hobho41u1c9ts5kukp.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526043000 +0000" stop="20260526050000 +0000">
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527103000 +0000" stop="20260527110000 +0000">
     <title>The History of the United States Navy</title>
     <sub-title>American Revolution on River, Lake, and Sea</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
@@ -23,7 +167,7 @@
     <icon src="https://images.frequency.com/video/3z8d2seyhssg1sfv6f04y4t1i/w1920_h1080/3z8d2seyhssg1sfv6f04y4t1i.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526050000 +0000" stop="20260526053000 +0000">
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527110000 +0000" stop="20260527113000 +0000">
     <title>The History of the United States Navy</title>
     <sub-title>Alexander Hamilton and the Early Navalists</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
@@ -32,7 +176,7 @@
     <icon src="https://images.frequency.com/video/1ci4th4ezo7z518idgbsx81zn/w1920_h1080/1ci4th4ezo7z518idgbsx81zn.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526053000 +0000" stop="20260526060000 +0000">
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527113000 +0000" stop="20260527120000 +0000">
     <title>The History of the United States Navy</title>
     <sub-title>British Blockade and the War of 1812</sub-title>
     <episode-num system="onscreen">S01E04</episode-num>
@@ -41,409 +185,265 @@
     <icon src="https://images.frequency.com/video/1okmvmq58qk4b18jn2tsr8w49/w1920_h1080/1okmvmq58qk4b18jn2tsr8w49.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526060000 +0000" stop="20260526063000 +0000">
-    <title>The Great Tours: Civil War Battlefields</title>
-    <sub-title>The Power of Place: The Civil War in Context</sub-title>
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527120000 +0000" stop="20260527123000 +0000">
+    <title>The World of Biblical Israel</title>
+    <sub-title>Biblical Israel - The Story of a People</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Start your journey with a closer look at why battlefields matter.</desc>
-    <date>20231007</date>
-    <icon src="https://images.frequency.com/video/lms3witjbb9m1wg6i8e3grsrw/w1920_h1080/lms3witjbb9m1wg6i8e3grsrw.jpg" />
+    <desc>What can the Bible tell us about life in biblical Israel? What can archaeology tell us?</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/2gfuoh39aphn170ylpwb1jnma/w1920_h1080/2gfuoh39aphn170ylpwb1jnma.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526063000 +0000" stop="20260526070000 +0000">
-    <title>The Great Tours: Civil War Battlefields</title>
-    <sub-title>Manassas: The First Battle of Bull Run</sub-title>
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527123000 +0000" stop="20260527130000 +0000">
+    <title>The World of Biblical Israel</title>
+    <sub-title>By the Rivers of Babylon - Exile</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Take a tour of Henry House Hill, where the Union line collapsed, then follow the Union retreat across the Stone Bridge.</desc>
-    <date>20231007</date>
-    <icon src="https://images.frequency.com/video/15cp0bp7htu941d8gajwldx07/w1920_h1080/15cp0bp7htu941d8gajwldx07.jpg" />
+    <desc>Start your journey through biblical Israel with a look at the Babylonian exile.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/1tz2e965ycs7r1eo3e4jvno40/w1920_h1080/1tz2e965ycs7r1eo3e4jvno40.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526070000 +0000" stop="20260526073000 +0000">
-    <title>The Great Tours: Civil War Battlefields</title>
-    <sub-title>The Seven Days' Battles</sub-title>
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527130000 +0000" stop="20260527133000 +0000">
+    <title>The World of Biblical Israel</title>
+    <sub-title>Ancestor Narratives in Genesis</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
-    <desc>On June 25, 1862, Confederate General Robert E. Lee's newly christened Army of Northern Virginia launched a series of battles.</desc>
-    <date>20231006</date>
-    <icon src="https://images.frequency.com/video/1m3jk27zaucii14y89lwxpem6/w1920_h1080/1m3jk27zaucii14y89lwxpem6.jpg" />
+    <desc>Survey the stories of ancient Israel's origins as preserved in Genesis.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/1m22dfl4y0zhy18etezjv6s83/w1920_h1080/1m22dfl4y0zhy18etezjv6s83.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526073000 +0000" stop="20260526080000 +0000">
-    <title>The Great Tours: Civil War Battlefields</title>
-    <sub-title>A Return to Manassas: The Second Battle of Bull Run</sub-title>
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527133000 +0000" stop="20260527140000 +0000">
+    <title>The World of Biblical Israel</title>
+    <sub-title>Moses - The Torah's Central Hero</sub-title>
     <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Go back to Bull Run for a second battle that saw the dazzling movements of Lee's lieutenants, James Longstreet and Thomas 'Stonewall' Jackson.</desc>
-    <date>20231006</date>
-    <icon src="https://images.frequency.com/video/16fmo76e65e7o186z4om6bn4p/w1920_h1080/16fmo76e65e7o186z4om6bn4p.jpg" />
+    <desc>Take a closer look at Moses and the story of the Israelites' exodus from Egypt.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/4xi16wa26estznenpbcm1bqo/w1920_h1080/4xi16wa26estznenpbcm1bqo.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526080000 +0000" stop="20260526083000 +0000">
-    <title>The American Civil War</title>
-    <sub-title>Prelude to War</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>This episode explains the sectional controversies and clashes that set the stage for secession and war.</desc>
-    <date>20210716</date>
-    <icon src="https://images.frequency.com/video/12grnlrvw4p381x5tfwvpud2v/w1920_h1080/12grnlrvw4p381x5tfwvpud2v.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526083000 +0000" stop="20260526090000 +0000">
-    <title>The American Civil War</title>
-    <sub-title>The Election of 1860</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>The presidential canvas of 1860 resulted in Lincoln's election as the first Republican to win the White House.</desc>
-    <date>20210716</date>
-    <icon src="https://images.frequency.com/video/14i98tkyqgdrk11ghi6mn4s5h/w1920_h1080/14i98tkyqgdrk11ghi6mn4s5h.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526090000 +0000" stop="20260526093000 +0000">
-    <title>The American Civil War</title>
-    <sub-title>The Lower South Secedes</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Study the process that established the Confederate States of America.</desc>
-    <date>20210717</date>
-    <icon src="https://images.frequency.com/video/1udl60xyzn1su1fak7ishfzjv/w1920_h1080/1udl60xyzn1su1fak7ishfzjv.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526093000 +0000" stop="20260526100000 +0000">
-    <title>The American Civil War</title>
-    <sub-title>The Crisis at Fort Sumter</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Learn how the US-held Fort Sumter in Charleston Harbor became a flash point to begin war.</desc>
-    <date>20210717</date>
-    <icon src="https://images.frequency.com/video/1xjsc9o9n60qe14xuzfqfdn8n/w1920_h1080/1xjsc9o9n60qe14xuzfqfdn8n.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526100000 +0000" stop="20260526103000 +0000">
-    <title>The American Civil War</title>
-    <sub-title>The Opposing Sides, I</sub-title>
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527140000 +0000" stop="20260527143000 +0000">
+    <title>The World of Biblical Israel</title>
+    <sub-title>Becoming the Nation of Israel</sub-title>
     <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Was the South fated to lose, as many people think?</desc>
-    <date>20210717</date>
-    <icon src="https://images.frequency.com/video/2d5n0hs999x61htx5yp8md4hr/w1920_h1080/2d5n0hs999x61htx5yp8md4hr.jpg" />
+    <desc>Turn now to the emergence of Israel as a nation, detailed in Joshua and Judges.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/7vizzys26k1a15y6ulrny4rt9/w1920_h1080/7vizzys26k1a15y6ulrny4rt9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526103000 +0000" stop="20260526110000 +0000">
-    <title>The American Civil War</title>
-    <sub-title>The Opposing Sides, II</sub-title>
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527143000 +0000" stop="20260527150000 +0000">
+    <title>The World of Biblical Israel</title>
+    <sub-title>Kinship and Economics in Highland Villages</sub-title>
     <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Did the Confederacy have better generals? Which side had the edge in strategic and political leadership?</desc>
-    <date>20210717</date>
-    <icon src="https://images.frequency.com/video/1eyptnr7km5qw1exsrk4sm8y0/w1920_h1080/1eyptnr7km5qw1exsrk4sm8y0.jpg" />
+    <desc>How did people live? What did they cook with? How did they divide their labor?</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/anscy1yw3xmg1aju4mguggu8n/w1920_h1080/anscy1yw3xmg1aju4mguggu8n.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526110000 +0000" stop="20260526113000 +0000">
-    <title>The American Civil War</title>
-    <sub-title>The Common Soldier</sub-title>
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527150000 +0000" stop="20260527153000 +0000">
+    <title>The World of Biblical Israel</title>
+    <sub-title>Three Weddings and a Funeral</sub-title>
     <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Why did young men join the colors of the North or the South?</desc>
-    <date>20210717</date>
-    <icon src="https://images.frequency.com/video/191z86knf2i691oj8tfgem3nd/w1920_h1080/191z86knf2i691oj8tfgem3nd.jpg" />
+    <desc>In this episode, Professor Chapman focuses on several biblical relationships.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/17he1enpshuay1lvc42hqsctu/w1920_h1080/17he1enpshuay1lvc42hqsctu.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526113000 +0000" stop="20260526120000 +0000">
-    <title>The American Civil War</title>
-    <sub-title>First Manassas or Bull Run</sub-title>
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527153000 +0000" stop="20260527160000 +0000">
+    <title>The World of Biblical Israel</title>
+    <sub-title>Political Power Bases in Early Israel</sub-title>
     <episode-num system="onscreen">S01E08</episode-num>
-    <desc>What was Gen. Winfield Scott's brilliant "Anaconda Plan" and other factors that lead to the first big clash.</desc>
-    <date>20210717</date>
-    <icon src="https://images.frequency.com/video/1b3x1vqceyag61fk1da09np8t/w1920_h1080/1b3x1vqceyag61fk1da09np8t.jpg" />
+    <desc>Investigate models of leadership that offer insight into ancient Israel's structures of power.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/v2im3dw2k9cm1forpcnqdl4nf/w1920_h1080/v2im3dw2k9cm1forpcnqdl4nf.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526120000 +0000" stop="20260526123000 +0000">
-    <title>African American History: From Emancipation through Jim Crow</title>
-    <sub-title>Emancipation: The Fight for Rights Begins</sub-title>
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527160000 +0000" stop="20260527163000 +0000">
+    <title>The Holy Land Revealed</title>
+    <sub-title>The Land of Canaan</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The freedom fight did not end for Black Americans when President Lincoln issued the Emancipation Proclamation.</desc>
-    <date>20220525</date>
-    <icon src="https://images.frequency.com/video/17h43dcp0va441ed4ln5j7gxc/w1920_h1080/17h43dcp0va441ed4ln5j7gxc.jpg" />
+    <desc>Take a peek at the region's earliest recorded inhabitants, the Canaanites.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/1wjqmla28gz0r1pvjvqci580q/w1920_h1080/1wjqmla28gz0r1pvjvqci580q.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526123000 +0000" stop="20260526130000 +0000">
-    <title>African American History: From Emancipation through Jim Crow</title>
-    <sub-title>The Promise and Betrayal of Reconstruction</sub-title>
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527163000 +0000" stop="20260527170000 +0000">
+    <title>The Holy Land Revealed</title>
+    <sub-title>The Arrival of the Israelites</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
-    <desc>As interpretations of Reconstruction tore things apart, far more sinister economic and social systems formed.</desc>
-    <date>20220525</date>
-    <icon src="https://images.frequency.com/video/1au111ddljun2124vizfo0xg1/w1920_h1080/1au111ddljun2124vizfo0xg1.jpg" />
+    <desc>What have archaeologists uncovered about the arrival of the Israelites into Canaan?</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/1wxtnow1plla01cqu56v7fhil/w1920_h1080/1wxtnow1plla01cqu56v7fhil.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526130000 +0000" stop="20260526133000 +0000">
-    <title>African American History: From Emancipation through Jim Crow</title>
-    <sub-title>Separate and Unequal: The Rise of Jim Crow</sub-title>
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527170000 +0000" stop="20260527173000 +0000">
+    <title>The Holy Land Revealed</title>
+    <sub-title>Jerusalem - An Introduction to the City</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
-    <desc>How was the 'separate but equal' doctrine legitimized and enforced in the United States?</desc>
-    <date>20220525</date>
-    <icon src="https://images.frequency.com/video/17e2ico814vhz1sxc03zmrulz/w1920_h1080/17e2ico814vhz1sxc03zmrulz.jpg" />
+    <desc>Survey the topography and layout of perhaps the most important city in religious history.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/1e1o2g620vsqv1xrl5u7ravgv/w1920_h1080/1e1o2g620vsqv1xrl5u7ravgv.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526133000 +0000" stop="20260526140000 +0000">
-    <title>African American History: From Emancipation through Jim Crow</title>
-    <sub-title>Lift Every Voice and Sing</sub-title>
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527173000 +0000" stop="20260527180000 +0000">
+    <title>The Holy Land Revealed</title>
+    <sub-title>The Jerusalem of David and Solomon</sub-title>
     <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Discover how Black communities insulated themselves from the harsh realities of the early 20th century.</desc>
-    <date>20220525</date>
-    <icon src="https://images.frequency.com/video/18cgtaqdv1u8u1l9d9m5n21ua/w1920_h1080/18cgtaqdv1u8u1l9d9m5n21ua.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526140000 +0000" stop="20260526143000 +0000">
-    <title>The History of the United States, 2nd Edition</title>
-    <sub-title>Living Bravely</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Discovery of a New World allowed Europeans to write new scripts for their lives.</desc>
+    <desc>Grasp the development of biblical Hebrew script, and examine rare examples.</desc>
     <date>20220322</date>
-    <icon src="https://images.frequency.com/video/evldebrs94n178zym6125pat/w1920_h1080/evldebrs94n178zym6125pat.jpg" />
+    <icon src="https://images.frequency.com/video/1l5t5sjxu5peu1nkwqthg1age/w1920_h1080/1l5t5sjxu5peu1nkwqthg1age.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526143000 +0000" stop="20260526150000 +0000">
-    <title>The History of the United States, 2nd Edition</title>
-    <sub-title>Spain, France, and the Netherlands</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>The French attempted to settle in America, but did not succeed as the Spanish had.</desc>
-    <date>20220322</date>
-    <icon src="https://images.frequency.com/video/64iu729et8vv172ciotglfqfk/w1920_h1080/64iu729et8vv172ciotglfqfk.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526150000 +0000" stop="20260526153000 +0000">
-    <title>The History of the United States, 2nd Edition</title>
-    <sub-title>Gentlemen in the Wilderness</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>The English joined the game of extraction and settlement last of all the major European nations.</desc>
-    <date>20220322</date>
-    <icon src="https://images.frequency.com/video/vpgr13gmcyhi1olm10qxu108a/w1920_h1080/vpgr13gmcyhi1olm10qxu108a.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526153000 +0000" stop="20260526160000 +0000">
-    <title>The History of the United States, 2nd Edition</title>
-    <sub-title>Radicals in the Wilderness</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Southern English colonies were motivated by economic self-interest; northern ones by ideas.</desc>
-    <date>20220322</date>
-    <icon src="https://images.frequency.com/video/138ezx46gegts1ejrc5zfeff8/w1920_h1080/138ezx46gegts1ejrc5zfeff8.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526160000 +0000" stop="20260526163000 +0000">
-    <title>The American Civil War</title>
-    <sub-title>Prelude to War</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>This episode explains the sectional controversies and clashes that set the stage for secession and war.</desc>
-    <date>20210716</date>
-    <icon src="https://images.frequency.com/video/12grnlrvw4p381x5tfwvpud2v/w1920_h1080/12grnlrvw4p381x5tfwvpud2v.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526163000 +0000" stop="20260526170000 +0000">
-    <title>The American Civil War</title>
-    <sub-title>The Election of 1860</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>The presidential canvas of 1860 resulted in Lincoln's election as the first Republican to win the White House.</desc>
-    <date>20210716</date>
-    <icon src="https://images.frequency.com/video/14i98tkyqgdrk11ghi6mn4s5h/w1920_h1080/14i98tkyqgdrk11ghi6mn4s5h.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526170000 +0000" stop="20260526173000 +0000">
-    <title>The American Civil War</title>
-    <sub-title>The Lower South Secedes</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Study the process that established the Confederate States of America.</desc>
-    <date>20210717</date>
-    <icon src="https://images.frequency.com/video/1udl60xyzn1su1fak7ishfzjv/w1920_h1080/1udl60xyzn1su1fak7ishfzjv.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526173000 +0000" stop="20260526180000 +0000">
-    <title>The American Civil War</title>
-    <sub-title>The Crisis at Fort Sumter</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Learn how the US-held Fort Sumter in Charleston Harbor became a flash point to begin war.</desc>
-    <date>20210717</date>
-    <icon src="https://images.frequency.com/video/1xjsc9o9n60qe14xuzfqfdn8n/w1920_h1080/1xjsc9o9n60qe14xuzfqfdn8n.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526180000 +0000" stop="20260526183000 +0000">
-    <title>The American Civil War</title>
-    <sub-title>The Opposing Sides, I</sub-title>
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527180000 +0000" stop="20260527183000 +0000">
+    <title>The Holy Land Revealed</title>
+    <sub-title>Biblical Jerusalem's Ancient Water Systems</sub-title>
     <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Was the South fated to lose, as many people think?</desc>
-    <date>20210717</date>
-    <icon src="https://images.frequency.com/video/2d5n0hs999x61htx5yp8md4hr/w1920_h1080/2d5n0hs999x61htx5yp8md4hr.jpg" />
+    <desc>Learn about the three different water systems that were created for the City of David.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/121pkc6djew0p1lc0ipq04f2n/w1920_h1080/121pkc6djew0p1lc0ipq04f2n.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526183000 +0000" stop="20260526190000 +0000">
-    <title>The American Civil War</title>
-    <sub-title>The Opposing Sides, II</sub-title>
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527183000 +0000" stop="20260527190000 +0000">
+    <title>The Holy Land Revealed</title>
+    <sub-title>Samaria and the Northern Kingdom of Israel</sub-title>
     <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Did the Confederacy have better generals? Which side had the edge in strategic and political leadership?</desc>
-    <date>20210717</date>
-    <icon src="https://images.frequency.com/video/1eyptnr7km5qw1exsrk4sm8y0/w1920_h1080/1eyptnr7km5qw1exsrk4sm8y0.jpg" />
+    <desc>Turn to Israel as it was ruled between Solomon's death and the Assyrian invasion in 722 B.C.E.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/15ematfgy21m4163z1ua3urwe/w1920_h1080/15ematfgy21m4163z1ua3urwe.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526190000 +0000" stop="20260526193000 +0000">
-    <title>The American Civil War</title>
-    <sub-title>The Common Soldier</sub-title>
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527190000 +0000" stop="20260527193000 +0000">
+    <title>The Holy Land Revealed</title>
+    <sub-title>Fortifications and Cult Practices</sub-title>
     <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Why did young men join the colors of the North or the South?</desc>
-    <date>20210717</date>
-    <icon src="https://images.frequency.com/video/191z86knf2i691oj8tfgem3nd/w1920_h1080/191z86knf2i691oj8tfgem3nd.jpg" />
+    <desc>Delve into aspects of everyday life in the kingdoms of ancient Israel.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/11gwcjj2cvncc19gc2gpy2305/w1920_h1080/11gwcjj2cvncc19gc2gpy2305.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526193000 +0000" stop="20260526200000 +0000">
-    <title>The American Civil War</title>
-    <sub-title>First Manassas or Bull Run</sub-title>
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527193000 +0000" stop="20260527200000 +0000">
+    <title>The Holy Land Revealed</title>
+    <sub-title>Babylonian Exile and the Persian Restoration</sub-title>
     <episode-num system="onscreen">S01E08</episode-num>
-    <desc>What was Gen. Winfield Scott's brilliant "Anaconda Plan" and other factors that lead to the first big clash.</desc>
-    <date>20210717</date>
-    <icon src="https://images.frequency.com/video/1b3x1vqceyag61fk1da09np8t/w1920_h1080/1b3x1vqceyag61fk1da09np8t.jpg" />
+    <desc>Take a look at Persian administration of the Holy Land and the birth of Judaism.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/6eo5jzj5kbe91o3kcqfpb44su/w1920_h1080/6eo5jzj5kbe91o3kcqfpb44su.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526200000 +0000" stop="20260526203000 +0000">
-    <title>African American History: From Emancipation through Jim Crow</title>
-    <sub-title>Emancipation: The Fight for Rights Begins</sub-title>
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527200000 +0000" stop="20260527203000 +0000">
+    <title>The World of Biblical Israel</title>
+    <sub-title>Biblical Israel - The Story of a People</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The freedom fight did not end for Black Americans when President Lincoln issued the Emancipation Proclamation.</desc>
-    <date>20220525</date>
-    <icon src="https://images.frequency.com/video/17h43dcp0va441ed4ln5j7gxc/w1920_h1080/17h43dcp0va441ed4ln5j7gxc.jpg" />
+    <desc>What can the Bible tell us about life in biblical Israel? What can archaeology tell us?</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/2gfuoh39aphn170ylpwb1jnma/w1920_h1080/2gfuoh39aphn170ylpwb1jnma.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526203000 +0000" stop="20260526210000 +0000">
-    <title>African American History: From Emancipation through Jim Crow</title>
-    <sub-title>The Promise and Betrayal of Reconstruction</sub-title>
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527203000 +0000" stop="20260527210000 +0000">
+    <title>The World of Biblical Israel</title>
+    <sub-title>By the Rivers of Babylon - Exile</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
-    <desc>As interpretations of Reconstruction tore things apart, far more sinister economic and social systems formed.</desc>
-    <date>20220525</date>
-    <icon src="https://images.frequency.com/video/1au111ddljun2124vizfo0xg1/w1920_h1080/1au111ddljun2124vizfo0xg1.jpg" />
+    <desc>Start your journey through biblical Israel with a look at the Babylonian exile.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/1tz2e965ycs7r1eo3e4jvno40/w1920_h1080/1tz2e965ycs7r1eo3e4jvno40.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526210000 +0000" stop="20260526213000 +0000">
-    <title>African American History: From Emancipation through Jim Crow</title>
-    <sub-title>Separate and Unequal: The Rise of Jim Crow</sub-title>
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527210000 +0000" stop="20260527213000 +0000">
+    <title>The World of Biblical Israel</title>
+    <sub-title>Ancestor Narratives in Genesis</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
-    <desc>How was the 'separate but equal' doctrine legitimized and enforced in the United States?</desc>
-    <date>20220525</date>
-    <icon src="https://images.frequency.com/video/17e2ico814vhz1sxc03zmrulz/w1920_h1080/17e2ico814vhz1sxc03zmrulz.jpg" />
+    <desc>Survey the stories of ancient Israel's origins as preserved in Genesis.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/1m22dfl4y0zhy18etezjv6s83/w1920_h1080/1m22dfl4y0zhy18etezjv6s83.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526213000 +0000" stop="20260526220000 +0000">
-    <title>African American History: From Emancipation through Jim Crow</title>
-    <sub-title>Lift Every Voice and Sing</sub-title>
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527213000 +0000" stop="20260527220000 +0000">
+    <title>The World of Biblical Israel</title>
+    <sub-title>Moses - The Torah's Central Hero</sub-title>
     <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Discover how Black communities insulated themselves from the harsh realities of the early 20th century.</desc>
-    <date>20220525</date>
-    <icon src="https://images.frequency.com/video/18cgtaqdv1u8u1l9d9m5n21ua/w1920_h1080/18cgtaqdv1u8u1l9d9m5n21ua.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526220000 +0000" stop="20260526223000 +0000">
-    <title>The History of the United States, 2nd Edition</title>
-    <sub-title>Living Bravely</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Discovery of a New World allowed Europeans to write new scripts for their lives.</desc>
+    <desc>Take a closer look at Moses and the story of the Israelites' exodus from Egypt.</desc>
     <date>20220322</date>
-    <icon src="https://images.frequency.com/video/evldebrs94n178zym6125pat/w1920_h1080/evldebrs94n178zym6125pat.jpg" />
+    <icon src="https://images.frequency.com/video/4xi16wa26estznenpbcm1bqo/w1920_h1080/4xi16wa26estznenpbcm1bqo.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526223000 +0000" stop="20260526230000 +0000">
-    <title>The History of the United States, 2nd Edition</title>
-    <sub-title>Spain, France, and the Netherlands</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>The French attempted to settle in America, but did not succeed as the Spanish had.</desc>
-    <date>20220322</date>
-    <icon src="https://images.frequency.com/video/64iu729et8vv172ciotglfqfk/w1920_h1080/64iu729et8vv172ciotglfqfk.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526230000 +0000" stop="20260526233000 +0000">
-    <title>The History of the United States, 2nd Edition</title>
-    <sub-title>Gentlemen in the Wilderness</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>The English joined the game of extraction and settlement last of all the major European nations.</desc>
-    <date>20220322</date>
-    <icon src="https://images.frequency.com/video/vpgr13gmcyhi1olm10qxu108a/w1920_h1080/vpgr13gmcyhi1olm10qxu108a.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260526233000 +0000" stop="20260527000000 +0000">
-    <title>The History of the United States, 2nd Edition</title>
-    <sub-title>Radicals in the Wilderness</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Southern English colonies were motivated by economic self-interest; northern ones by ideas.</desc>
-    <date>20220322</date>
-    <icon src="https://images.frequency.com/video/138ezx46gegts1ejrc5zfeff8/w1920_h1080/138ezx46gegts1ejrc5zfeff8.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260527000000 +0000" stop="20260527003000 +0000">
-    <title>The American Civil War</title>
-    <sub-title>Prelude to War</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>This episode explains the sectional controversies and clashes that set the stage for secession and war.</desc>
-    <date>20210716</date>
-    <icon src="https://images.frequency.com/video/12grnlrvw4p381x5tfwvpud2v/w1920_h1080/12grnlrvw4p381x5tfwvpud2v.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260527003000 +0000" stop="20260527010000 +0000">
-    <title>The American Civil War</title>
-    <sub-title>The Election of 1860</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>The presidential canvas of 1860 resulted in Lincoln's election as the first Republican to win the White House.</desc>
-    <date>20210716</date>
-    <icon src="https://images.frequency.com/video/14i98tkyqgdrk11ghi6mn4s5h/w1920_h1080/14i98tkyqgdrk11ghi6mn4s5h.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260527010000 +0000" stop="20260527013000 +0000">
-    <title>The American Civil War</title>
-    <sub-title>The Lower South Secedes</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Study the process that established the Confederate States of America.</desc>
-    <date>20210717</date>
-    <icon src="https://images.frequency.com/video/1udl60xyzn1su1fak7ishfzjv/w1920_h1080/1udl60xyzn1su1fak7ishfzjv.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260527013000 +0000" stop="20260527020000 +0000">
-    <title>The American Civil War</title>
-    <sub-title>The Crisis at Fort Sumter</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Learn how the US-held Fort Sumter in Charleston Harbor became a flash point to begin war.</desc>
-    <date>20210717</date>
-    <icon src="https://images.frequency.com/video/1xjsc9o9n60qe14xuzfqfdn8n/w1920_h1080/1xjsc9o9n60qe14xuzfqfdn8n.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260527020000 +0000" stop="20260527023000 +0000">
-    <title>The American Civil War</title>
-    <sub-title>The Opposing Sides, I</sub-title>
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527220000 +0000" stop="20260527223000 +0000">
+    <title>The World of Biblical Israel</title>
+    <sub-title>Becoming the Nation of Israel</sub-title>
     <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Was the South fated to lose, as many people think?</desc>
-    <date>20210717</date>
-    <icon src="https://images.frequency.com/video/2d5n0hs999x61htx5yp8md4hr/w1920_h1080/2d5n0hs999x61htx5yp8md4hr.jpg" />
+    <desc>Turn now to the emergence of Israel as a nation, detailed in Joshua and Judges.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/7vizzys26k1a15y6ulrny4rt9/w1920_h1080/7vizzys26k1a15y6ulrny4rt9.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260527023000 +0000" stop="20260527030000 +0000">
-    <title>The American Civil War</title>
-    <sub-title>The Opposing Sides, II</sub-title>
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527223000 +0000" stop="20260527230000 +0000">
+    <title>The World of Biblical Israel</title>
+    <sub-title>Kinship and Economics in Highland Villages</sub-title>
     <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Did the Confederacy have better generals? Which side had the edge in strategic and political leadership?</desc>
-    <date>20210717</date>
-    <icon src="https://images.frequency.com/video/1eyptnr7km5qw1exsrk4sm8y0/w1920_h1080/1eyptnr7km5qw1exsrk4sm8y0.jpg" />
+    <desc>How did people live? What did they cook with? How did they divide their labor?</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/anscy1yw3xmg1aju4mguggu8n/w1920_h1080/anscy1yw3xmg1aju4mguggu8n.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260527030000 +0000" stop="20260527033000 +0000">
-    <title>The American Civil War</title>
-    <sub-title>The Common Soldier</sub-title>
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527230000 +0000" stop="20260527233000 +0000">
+    <title>The World of Biblical Israel</title>
+    <sub-title>Three Weddings and a Funeral</sub-title>
     <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Why did young men join the colors of the North or the South?</desc>
-    <date>20210717</date>
-    <icon src="https://images.frequency.com/video/191z86knf2i691oj8tfgem3nd/w1920_h1080/191z86knf2i691oj8tfgem3nd.jpg" />
+    <desc>In this episode, Professor Chapman focuses on several biblical relationships.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/17he1enpshuay1lvc42hqsctu/w1920_h1080/17he1enpshuay1lvc42hqsctu.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260527033000 +0000" stop="20260527040000 +0000">
-    <title>The American Civil War</title>
-    <sub-title>First Manassas or Bull Run</sub-title>
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260527233000 +0000" stop="20260528000000 +0000">
+    <title>The World of Biblical Israel</title>
+    <sub-title>Political Power Bases in Early Israel</sub-title>
     <episode-num system="onscreen">S01E08</episode-num>
-    <desc>What was Gen. Winfield Scott's brilliant "Anaconda Plan" and other factors that lead to the first big clash.</desc>
-    <date>20210717</date>
-    <icon src="https://images.frequency.com/video/1b3x1vqceyag61fk1da09np8t/w1920_h1080/1b3x1vqceyag61fk1da09np8t.jpg" />
+    <desc>Investigate models of leadership that offer insight into ancient Israel's structures of power.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/v2im3dw2k9cm1forpcnqdl4nf/w1920_h1080/v2im3dw2k9cm1forpcnqdl4nf.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" start="20260527040000 +0000" stop="20260527043000 +0000">
-    <title>African American History: From Emancipation through Jim Crow</title>
-    <sub-title>Emancipation: The Fight for Rights Begins</sub-title>
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260528000000 +0000" stop="20260528003000 +0000">
+    <title>The Holy Land Revealed</title>
+    <sub-title>The Land of Canaan</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The freedom fight did not end for Black Americans when President Lincoln issued the Emancipation Proclamation.</desc>
-    <date>20220525</date>
-    <icon src="https://images.frequency.com/video/17h43dcp0va441ed4ln5j7gxc/w1920_h1080/17h43dcp0va441ed4ln5j7gxc.jpg" />
+    <desc>Take a peek at the region's earliest recorded inhabitants, the Canaanites.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/1wjqmla28gz0r1pvjvqci580q/w1920_h1080/1wjqmla28gz0r1pvjvqci580q.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260528003000 +0000" stop="20260528010000 +0000">
+    <title>The Holy Land Revealed</title>
+    <sub-title>The Arrival of the Israelites</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>What have archaeologists uncovered about the arrival of the Israelites into Canaan?</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/1wxtnow1plla01cqu56v7fhil/w1920_h1080/1wxtnow1plla01cqu56v7fhil.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260528010000 +0000" stop="20260528013000 +0000">
+    <title>The Holy Land Revealed</title>
+    <sub-title>Jerusalem - An Introduction to the City</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Survey the topography and layout of perhaps the most important city in religious history.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/1e1o2g620vsqv1xrl5u7ravgv/w1920_h1080/1e1o2g620vsqv1xrl5u7ravgv.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260528013000 +0000" stop="20260528020000 +0000">
+    <title>The Holy Land Revealed</title>
+    <sub-title>The Jerusalem of David and Solomon</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Grasp the development of biblical Hebrew script, and examine rare examples.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/1l5t5sjxu5peu1nkwqthg1age/w1920_h1080/1l5t5sjxu5peu1nkwqthg1age.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97" start="20260528020000 +0000" stop="20260528023000 +0000">
+    <title>The Holy Land Revealed</title>
+    <sub-title>Biblical Jerusalem's Ancient Water Systems</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Learn about the three different water systems that were created for the City of David.</desc>
+    <date>20220322</date>
+    <icon src="https://images.frequency.com/video/121pkc6djew0p1lc0ipq04f2n/w1920_h1080/121pkc6djew0p1lc0ipq04f2n.jpg" />
   </programme>
   
 </tv>

@@ -1,107 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d">
+<channel id="6a1610bebdf296985fd95603-5f74cf83ffbe690040689f4d">
     <display-name>Wonder</display-name>
     <icon src="https://provider-static.plex.tv/epg/images/ott_channels/logos/wonder-logo.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d" start="20260526035106 +0000" stop="20260526044315 +0000">
-    <title>Mighty Ships</title>
-    <sub-title>Hawk</sub-title>
-    <episode-num system="onscreen">S08E02</episode-num>
-    <desc>Jack-up rig transported 14,000+ miles from Singapore to Norway via South Africa by heavy transport ship.</desc>
-    <date>20080101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d" start="20260526044315 +0000" stop="20260526054205 +0000">
-    <title>Megastructures: China'S Smart Tower</title>
-    <category>Movie</category>
-    <desc>A remarkable mechanical engineering feat, stands tall despite typhoon winds and a strict deadline.</desc>
-    <date>20100101</date>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/wonder-poster.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d" start="20260526054205 +0000" stop="20260526064030 +0000">
-    <title>Megastructures: Beijing Water Cube</title>
-    <category>Movie</category>
-    <desc>When the Olympic games were held in Beijing, engineers worked hard to design the Beijing Water Cube</desc>
-    <date>20080101</date>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/wonder-poster.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d" start="20260526064030 +0000" stop="20260526074116 +0000">
-    <title>Megastructures: Singapore's Vegas</title>
-    <category>Movie</category>
-    <desc>Singapore's Marina Bay Sands complex is one of the largest construction sites ever</desc>
-    <date>20080101</date>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/wonder-poster.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d" start="20260526074116 +0000" stop="20260526083338 +0000">
-    <title>Mighty Ships</title>
-    <sub-title>Happy Star</sub-title>
-    <episode-num system="onscreen">S08E03</episode-num>
-    <desc>Ship transports dock equipment from China to Canada through the Panama Canal.</desc>
-    <date>20080101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d" start="20260526083338 +0000" stop="20260526092553 +0000">
-    <title>Mighty Ships</title>
-    <sub-title>Algoma Equinox</sub-title>
-    <episode-num system="onscreen">S08E04</episode-num>
-    <desc>Great Lakes freighter transports vital cargo, including grain and iron ore.</desc>
-    <date>20080101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d" start="20260526092553 +0000" stop="20260526101813 +0000">
-    <title>Mighty Cruise Ships</title>
-    <sub-title>Diamond Princess</sub-title>
-    <episode-num system="onscreen">S04E03</episode-num>
-    <desc>Diamond Princess sails Japan with 2,700 guests, facing strong winds and busy ports.</desc>
-    <date>20140101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d" start="20260526101813 +0000" stop="20260526111025 +0000">
-    <title>Mighty Cruise Ships</title>
-    <sub-title>Costa Diadema</sub-title>
-    <episode-num system="onscreen">S04E05</episode-num>
-    <desc>Costa de Edema sails the Med nonstop party style, stopping Barcelona to Marseilles; crew keeps ship sharp.</desc>
-    <date>20140101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d" start="20260526111025 +0000" stop="20260526120103 +0000">
-    <title>Mighty Ships</title>
-    <sub-title>HDMS Peter Willemoes</sub-title>
-    <episode-num system="onscreen">S08E05</episode-num>
-    <desc>Newly commissioned Peter Willemoes enters sea trials to test crew skills in restricted zone.</desc>
-    <date>20080101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d" start="20260526120103 +0000" stop="20260526125318 +0000">
-    <title>Mighty Planes</title>
-    <sub-title>Twin Otter</sub-title>
-    <episode-num system="onscreen">S04E06</episode-num>
-    <desc>Twin Otter braves Arctic to serve remote mines, landing on ice, snow, and water in tough missions.</desc>
-    <date>20120101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d" start="20260526125318 +0000" stop="20260526134528 +0000">
-    <title>Mighty Planes</title>
-    <sub-title>Airbus A400M</sub-title>
-    <episode-num system="onscreen">S04E05</episode-num>
-    <desc>Luftwaffe's A400M Atlas hauls cargo, aids medics, trains troops, and delivers live loads to Italy.</desc>
-    <date>20120101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d" start="20260526134528 +0000" stop="20260526144650 +0000">
+<programme channel="6a1610bebdf296985fd95603-5f74cf83ffbe690040689f4d" start="20260527014943 +0000" stop="20260527025105 +0000">
     <title>Good Night MH370</title>
     <sub-title>At The Heart Of The Chaos</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -110,7 +14,7 @@
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d" start="20260526144650 +0000" stop="20260526154751 +0000">
+<programme channel="6a1610bebdf296985fd95603-5f74cf83ffbe690040689f4d" start="20260527025105 +0000" stop="20260527035206 +0000">
     <title>Good Night MH370</title>
     <sub-title>Reexamining The Case</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
@@ -119,7 +23,7 @@
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d" start="20260526154751 +0000" stop="20260526164749 +0000">
+<programme channel="6a1610bebdf296985fd95603-5f74cf83ffbe690040689f4d" start="20260527035206 +0000" stop="20260527045205 +0000">
     <title>Engineering The Future</title>
     <sub-title>The Metaverse</sub-title>
     <episode-num system="onscreen">S02E02</episode-num>
@@ -128,7 +32,7 @@
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/CS1ETFS002EP002.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d" start="20260526164749 +0000" stop="20260526174815 +0000">
+<programme channel="6a1610bebdf296985fd95603-5f74cf83ffbe690040689f4d" start="20260527045205 +0000" stop="20260527055230 +0000">
     <title>Engineering The Future</title>
     <sub-title>Hyperloop</sub-title>
     <episode-num system="onscreen">S02E03</episode-num>
@@ -137,7 +41,7 @@
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/CS1ETFS002EP003.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d" start="20260526174815 +0000" stop="20260526184852 +0000">
+<programme channel="6a1610bebdf296985fd95603-5f74cf83ffbe690040689f4d" start="20260527055230 +0000" stop="20260527065307 +0000">
     <title>Engineering The Future</title>
     <sub-title>The Race to Space</sub-title>
     <episode-num system="onscreen">S02E04</episode-num>
@@ -146,7 +50,7 @@
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/CS1ETFS002EP004.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d" start="20260526184852 +0000" stop="20260526194932 +0000">
+<programme channel="6a1610bebdf296985fd95603-5f74cf83ffbe690040689f4d" start="20260527065307 +0000" stop="20260527075347 +0000">
     <title>Destination: Pluto Beyond the Flyby</title>
     <category>Movie</category>
     <desc>New Horizons explored Pluto and the Kuiper Belt, revealing their geology and solar system origins.</desc>
@@ -154,7 +58,7 @@
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/wonder-poster.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d" start="20260526194932 +0000" stop="20260526213035 +0000">
+<programme channel="6a1610bebdf296985fd95603-5f74cf83ffbe690040689f4d" start="20260527075347 +0000" stop="20260527093520 +0000">
     <title>Solar System: The Secrets of the Universe</title>
     <category>Movie</category>
     <desc>In 2057, the International Space Station will explore the solar system, focusing on eight planets and moons.</desc>
@@ -162,7 +66,7 @@
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/wonder-poster.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d" start="20260526213035 +0000" stop="20260526223126 +0000">
+<programme channel="6a1610bebdf296985fd95603-5f74cf83ffbe690040689f4d" start="20260527093520 +0000" stop="20260527103626 +0000">
     <title>Space Probes!</title>
     <sub-title>Voyager: The Grand Tour</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -171,16 +75,7 @@
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/CS1SPRS001EP001.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d" start="20260526223126 +0000" stop="20260526233232 +0000">
-    <title>Space Probes!</title>
-    <sub-title>Cassini and the Crown Jewel</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Cassini-Huygens offers a comprehensive exploration of Saturn, revealing its rings, massive 6-sided polar storm</desc>
-    <date>20160101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/CS1SPRS001EP002.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d" start="20260526233232 +0000" stop="20260527005728 +0000">
+<programme channel="6a1610bebdf296985fd95603-5f74cf83ffbe690040689f4d" start="20260527103626 +0000" stop="20260527120137 +0000">
     <title>One More Orbit</title>
     <category>Movie</category>
     <desc>Terry Virts and his crew aim to break the round-the-world speed record over the poles, honoring Apollo 11</desc>
@@ -188,40 +83,137 @@
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/wonder-poster.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d" start="20260527005728 +0000" stop="20260527014943 +0000">
-    <title>Mighty Planes</title>
-    <sub-title>Twin Otter</sub-title>
-    <episode-num system="onscreen">S04E06</episode-num>
-    <desc>Twin Otter braves Arctic to serve remote mines, landing on ice, snow, and water in tough missions.</desc>
-    <date>20120101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d" start="20260527014943 +0000" stop="20260527025105 +0000">
-    <title>Good Night MH370</title>
-    <sub-title>At The Heart Of The Chaos</sub-title>
+<programme channel="6a1610bebdf296985fd95603-5f74cf83ffbe690040689f4d" start="20260527120137 +0000" stop="20260527130303 +0000">
+    <title>Speed</title>
+    <sub-title>The Thrill of </sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Malaysia Airlines' 2014 MH370 search failed, facing criticism for poor prep, false turnback theory, and gaps.</desc>
-    <date>20230101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
+    <desc>Sean Riley discusses the Puffing Devil, the first self-propelled vehicle</desc>
+    <date>20010101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/CS1SPES001EP001.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d" start="20260527025105 +0000" stop="20260527035206 +0000">
-    <title>Good Night MH370</title>
-    <sub-title>Reexamining The Case</sub-title>
+<programme channel="6a1610bebdf296985fd95603-5f74cf83ffbe690040689f4d" start="20260527130303 +0000" stop="20260527140112 +0000">
+    <title>Speed</title>
+    <sub-title>Superstars of </sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Flight MH370 vanished in 2014 with 2,039 people, failing due to inconsistencies, 2018 suspensions, and faults.</desc>
-    <date>20230101</date>
+    <desc>Sean Riley delves into the Polynesians' groundbreaking catamaran design</desc>
+    <date>20010101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/CS1SPES001EP002.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5f74cf83ffbe690040689f4d" start="20260527140112 +0000" stop="20260527145328 +0000">
+    <title>Mighty Trains</title>
+    <sub-title>Tren Turistico</sub-title>
+    <episode-num system="onscreen">S04E01</episode-num>
+    <desc>Peru's 14-hr Lima -Huancayo train: 2nd highest, 58 bridges, 69 tunnels, altitude care onboard.</desc>
+    <date>20160101</date>
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d" start="20260527035206 +0000" stop="20260527045205 +0000">
-    <title>Engineering The Future</title>
-    <sub-title>The Metaverse</sub-title>
+<programme channel="6a1610bebdf296985fd95603-5f74cf83ffbe690040689f4d" start="20260527145328 +0000" stop="20260527154529 +0000">
+    <title>Mighty Trains</title>
+    <sub-title>Transcantabrico Clasico</sub-title>
+    <episode-num system="onscreen">S04E02</episode-num>
+    <desc>Transcantabrico Clasico: luxury train journey through Northern Spain on historic 19th-century rails.</desc>
+    <date>20160101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5f74cf83ffbe690040689f4d" start="20260527154529 +0000" stop="20260527163730 +0000">
+    <title>Mighty Trains</title>
+    <sub-title>Seven Stars</sub-title>
+    <episode-num system="onscreen">S04E03</episode-num>
+    <desc>Experience one of the world's priciest train rides, revealing stories of passengers and crew.</desc>
+    <date>20160101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5f74cf83ffbe690040689f4d" start="20260527163730 +0000" stop="20260527173215 +0000">
+    <title>Mega Transports</title>
+    <sub-title>Oil Rig</sub-title>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <desc>The $500 million West Bollsta oil rig travels from South Korea to Europe, aided by the ALP Striker tug.</desc>
+    <date>20170101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5f74cf83ffbe690040689f4d" start="20260527173215 +0000" stop="20260527182835 +0000">
+    <title>Mega Transports</title>
+    <sub-title>Chile</sub-title>
     <episode-num system="onscreen">S02E02</episode-num>
-    <desc>Beyond the internet. Explore the wild, world changing future of the Metaverse.</desc>
-    <date>20200101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/CS1ETFS002EP002.jpg" />
+    <desc>The world's largest radio telescope antennas are relocated to Chile's Atacama Desert, facing harsh conditions.</desc>
+    <date>20170101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5f74cf83ffbe690040689f4d" start="20260527182835 +0000" stop="20260527192526 +0000">
+    <title>Mega Transports</title>
+    <sub-title>Autoliner</sub-title>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <desc>The Hoegh Trapper, the largest car transporter, carries 8,000 vehicles, overcoming Panama Canal bottlenecks.</desc>
+    <date>20170101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5f74cf83ffbe690040689f4d" start="20260527192526 +0000" stop="20260527202516 +0000">
+    <title>Thunder Boat</title>
+    <category>Movie</category>
+    <desc>With the appearance of a “James Bond” ship, the Thunder Boat is the second largest ship of the Marine Nationale. We discover it’s many capabilities for the first time through this documentary.</desc>
+    <date>20170101</date>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/wonder-poster.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5f74cf83ffbe690040689f4d" start="20260527202516 +0000" stop="20260527212241 +0000">
+    <title>Air Crash Confidential</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>In an attempt to eliminate human error, airlines have increased the risk of flying</desc>
+    <date>20110101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/FS1ACCS001EP001.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5f74cf83ffbe690040689f4d" start="20260527212241 +0000" stop="20260527222035 +0000">
+    <title>Air Crash Confidential</title>
+    <sub-title>Episode 2</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Discover why a Jumbo Jet exploded mid-flight and DC10s fell from the sky due to fatal design errors in planes.</desc>
+    <date>20110101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/FS1ACCS001EP002.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5f74cf83ffbe690040689f4d" start="20260527222035 +0000" stop="20260528000047 +0000">
+    <title>Crash of the Century</title>
+    <category>Movie</category>
+    <desc>One of the worst air disasters in the 1970’s when two passenger airlines collided in the Canary Islands.</desc>
+    <date>20050101</date>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/wonder-poster.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5f74cf83ffbe690040689f4d" start="20260528000047 +0000" stop="20260528010214 +0000">
+    <title>Speed</title>
+    <sub-title>The Thrill of </sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Sean Riley discusses the Puffing Devil, the first self-propelled vehicle</desc>
+    <date>20010101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/CS1SPES001EP001.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5f74cf83ffbe690040689f4d" start="20260528010214 +0000" stop="20260528020022 +0000">
+    <title>Speed</title>
+    <sub-title>Superstars of </sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Sean Riley delves into the Polynesians' groundbreaking catamaran design</desc>
+    <date>20010101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/CS1SPES001EP002.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5f74cf83ffbe690040689f4d" start="20260528020022 +0000" stop="20260528025238 +0000">
+    <title>Mighty Trains</title>
+    <sub-title>Tren Turistico</sub-title>
+    <episode-num system="onscreen">S04E01</episode-num>
+    <desc>Peru's 14-hr Lima -Huancayo train: 2nd highest, 58 bridges, 69 tunnels, altitude care onboard.</desc>
+    <date>20160101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
   </programme>
   
 </tv>

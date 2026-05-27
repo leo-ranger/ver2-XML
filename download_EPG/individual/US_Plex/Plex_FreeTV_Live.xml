@@ -1,97 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-697283d831b12b32a91db6bd">
+<channel id="6a1610bebdf296985fd95603-697283d831b12b32a91db6bd">
     <display-name>FreeTV Live</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/c76bfce2-95b6-4ce7-b817-2eb3a3de13bf/FreeTV_Live.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-697283d831b12b32a91db6bd" start="20260526032742 +0000" stop="20260526053326 +0000">
-    <title>Ahí Vienen los Gorrones</title>
-    <category>Movie</category>
-    <desc>Gonzalo es arrestado por un presunto asesinato, dejando a sus empleados en busca de un nuevo trabajo. Esto desata una serie de hilarantes aventuras llenas de enredos y ocurrencias inesperadas protagonizadas por estos peculiares personajes.</desc>
-    <date>20241201</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mavlgo1_feature_ahivienenlosgorrones_es_1080x1620.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-697283d831b12b32a91db6bd" start="20260526053326 +0000" stop="20260526073706 +0000">
-    <title>El Tigre de Santa Julia</title>
-    <category>Movie</category>
-    <desc>Miguel ha tenido una vida difícil, desde el Crimenn que les quitó la vida a sus padres hasta el encarcelamiento de su hermano. Con el tiempo cobrará justicia por su cuenta.</desc>
-    <date>19740101</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/metdsj1_cover_eltigredesantajulia_es_1200x1800.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-697283d831b12b32a91db6bd" start="20260526073706 +0000" stop="20260526084036 +0000">
-    <title>La Caza de Beria</title>
-    <sub-title>Episodio 7</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Su vida se vuelve un infierno, ya que Beria, que no está acostumbrada a dejar con vida a testigos peligrosos.</desc>
-    <date>20260505</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sthfbe1_cover_lacazadeberia_es_2560x1440.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-697283d831b12b32a91db6bd" start="20260526084036 +0000" stop="20260526093303 +0000">
-    <title>Doctor en Turno</title>
-    <sub-title>Episodio 29</sub-title>
-    <episode-num system="onscreen">S03E29</episode-num>
-    <desc>Cuatro médicos de urgencias demuestran cada día el heroísmo de su profesión en un hospital lleno de.</desc>
-    <date>20250703</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sdetur1_2133x1200_cover_0.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-697283d831b12b32a91db6bd" start="20260526093303 +0000" stop="20260526100000 +0000">
-    <title>Doctor en Turno</title>
-    <sub-title>Episodio 30</sub-title>
-    <episode-num system="onscreen">S03E30</episode-num>
-    <desc>Cuatro médicos de urgencias demuestran cada día el heroísmo de su profesión en un hospital lleno de.</desc>
-    <date>20250703</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sdetur1_2133x1200_cover_0.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-697283d831b12b32a91db6bd" start="20260526100000 +0000" stop="20260526115816 +0000">
-    <title>El Revólver Sangriento</title>
-    <category>Movie</category>
-    <desc>Cuando uno nace con el alma de un pistolero, todo lo que uno piensa es matar. Su fiel compañero para esto es un Revolver, pero este es el caso de un REVOLVER SANGRIENTO que no tiene miedo, incluso mientras realiza sus deseos más mortales.</desc>
-    <date>19640101</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mersan1_movie_image_2x3_es_1080x1620_es.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-697283d831b12b32a91db6bd" start="20260526115816 +0000" stop="20260526142656 +0000">
-    <title>Inmaculada</title>
-    <category>Movie</category>
-    <desc>Una mujer cuya hija está a punto de lanzar su vida por el bien de un canalla. La mujer lleva a su hija a un lado y le implora a no hacer tan desastroso un error. Para reforzar su argumento, que relata la historia de su propia caída en desgracia.</desc>
-    <date>20250601</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/minmac1_featured_es_1080x1620.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-697283d831b12b32a91db6bd" start="20260526142656 +0000" stop="20260526153047 +0000">
-    <title>La Caza de Beria</title>
-    <sub-title>Episodio 8</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Su vida se vuelve un infierno, ya que Beria, que no está acostumbrada a dejar con vida a testigos peligrosos.</desc>
-    <date>20260505</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sthfbe1_cover_lacazadeberia_es_2560x1440.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-697283d831b12b32a91db6bd" start="20260526153047 +0000" stop="20260526162401 +0000">
-    <title>Doctor en Turno</title>
-    <sub-title>Episodio 33</sub-title>
-    <episode-num system="onscreen">S03E33</episode-num>
-    <desc>Cuatro médicos de urgencias demuestran cada día el heroísmo de su profesión en un hospital lleno de.</desc>
-    <date>20250703</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sdetur1_2133x1200_cover_0.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-697283d831b12b32a91db6bd" start="20260526162401 +0000" stop="20260526171659 +0000">
-    <title>Doctor en Turno</title>
-    <sub-title>Episodio 34</sub-title>
-    <episode-num system="onscreen">S03E34</episode-num>
-    <desc>Cuatro médicos de urgencias demuestran cada día el heroísmo de su profesión en un hospital lleno de.</desc>
-    <date>20250703</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sdetur1_2133x1200_cover_0.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-697283d831b12b32a91db6bd" start="20260526171659 +0000" stop="20260526181008 +0000">
+<programme channel="6a1610bebdf296985fd95603-697283d831b12b32a91db6bd" start="20260527022000 +0000" stop="20260527031309 +0000">
     <title>Doctor en Turno</title>
     <sub-title>Episodio 35</sub-title>
     <episode-num system="onscreen">S03E35</episode-num>
@@ -100,7 +14,7 @@
     <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sdetur1_2133x1200_cover_0.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-697283d831b12b32a91db6bd" start="20260526181008 +0000" stop="20260526190301 +0000">
+<programme channel="6a1610bebdf296985fd95603-697283d831b12b32a91db6bd" start="20260527031309 +0000" stop="20260527040602 +0000">
     <title>Doctor en Turno</title>
     <sub-title>Episodio 36</sub-title>
     <episode-num system="onscreen">S03E36</episode-num>
@@ -109,7 +23,7 @@
     <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sdetur1_2133x1200_cover_0.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-697283d831b12b32a91db6bd" start="20260526190301 +0000" stop="20260526210117 +0000">
+<programme channel="6a1610bebdf296985fd95603-697283d831b12b32a91db6bd" start="20260527040602 +0000" stop="20260527060418 +0000">
     <title>El Revólver Sangriento</title>
     <category>Movie</category>
     <desc>Cuando uno nace con el alma de un pistolero, todo lo que uno piensa es matar. Su fiel compañero para esto es un Revolver, pero este es el caso de un REVOLVER SANGRIENTO que no tiene miedo, incluso mientras realiza sus deseos más mortales.</desc>
@@ -117,7 +31,7 @@
     <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mersan1_movie_image_2x3_es_1080x1620_es.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-697283d831b12b32a91db6bd" start="20260526210117 +0000" stop="20260526232957 +0000">
+<programme channel="6a1610bebdf296985fd95603-697283d831b12b32a91db6bd" start="20260527060418 +0000" stop="20260527083258 +0000">
     <title>Inmaculada</title>
     <category>Movie</category>
     <desc>Una mujer cuya hija está a punto de lanzar su vida por el bien de un canalla. La mujer lleva a su hija a un lado y le implora a no hacer tan desastroso un error. Para reforzar su argumento, que relata la historia de su propia caída en desgracia.</desc>
@@ -125,7 +39,7 @@
     <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/minmac1_featured_es_1080x1620.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-697283d831b12b32a91db6bd" start="20260526232957 +0000" stop="20260527003348 +0000">
+<programme channel="6a1610bebdf296985fd95603-697283d831b12b32a91db6bd" start="20260527083258 +0000" stop="20260527093649 +0000">
     <title>La Caza de Beria</title>
     <sub-title>Episodio 8</sub-title>
     <episode-num system="onscreen">S01E08</episode-num>
@@ -134,7 +48,7 @@
     <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sthfbe1_cover_lacazadeberia_es_2560x1440.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-697283d831b12b32a91db6bd" start="20260527003348 +0000" stop="20260527012702 +0000">
+<programme channel="6a1610bebdf296985fd95603-697283d831b12b32a91db6bd" start="20260527093649 +0000" stop="20260527100000 +0000">
     <title>Doctor en Turno</title>
     <sub-title>Episodio 33</sub-title>
     <episode-num system="onscreen">S03E33</episode-num>
@@ -143,39 +57,134 @@
     <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sdetur1_2133x1200_cover_0.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-697283d831b12b32a91db6bd" start="20260527012702 +0000" stop="20260527022000 +0000">
-    <title>Doctor en Turno</title>
-    <sub-title>Episodio 34</sub-title>
-    <episode-num system="onscreen">S03E34</episode-num>
-    <desc>Cuatro médicos de urgencias demuestran cada día el heroísmo de su profesión en un hospital lleno de.</desc>
-    <date>20250703</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sdetur1_2133x1200_cover_0.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-697283d831b12b32a91db6bd" start="20260527022000 +0000" stop="20260527031309 +0000">
-    <title>Doctor en Turno</title>
-    <sub-title>Episodio 35</sub-title>
-    <episode-num system="onscreen">S03E35</episode-num>
-    <desc>Cuatro médicos de urgencias demuestran cada día el heroísmo de su profesión en un hospital lleno de.</desc>
-    <date>20250703</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sdetur1_2133x1200_cover_0.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-697283d831b12b32a91db6bd" start="20260527031309 +0000" stop="20260527040602 +0000">
-    <title>Doctor en Turno</title>
-    <sub-title>Episodio 36</sub-title>
-    <episode-num system="onscreen">S03E36</episode-num>
-    <desc>Cuatro médicos de urgencias demuestran cada día el heroísmo de su profesión en un hospital lleno de.</desc>
-    <date>20250703</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sdetur1_2133x1200_cover_0.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-697283d831b12b32a91db6bd" start="20260527040602 +0000" stop="20260527060418 +0000">
-    <title>El Revólver Sangriento</title>
+<programme channel="6a1610bebdf296985fd95603-697283d831b12b32a91db6bd" start="20260527100000 +0000" stop="20260527114934 +0000">
+    <title>Bárbara</title>
     <category>Movie</category>
-    <desc>Cuando uno nace con el alma de un pistolero, todo lo que uno piensa es matar. Su fiel compañero para esto es un Revolver, pero este es el caso de un REVOLVER SANGRIENTO que no tiene miedo, incluso mientras realiza sus deseos más mortales.</desc>
-    <date>19640101</date>
-    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mersan1_movie_image_2x3_es_1080x1620_es.jpg" />
+    <desc>Esta es la historia de un amor el cual no puedo realizer por diferentes circuanstancias y contratiempos con los cuales tendra que luchar los enamorados.</desc>
+    <date>20260102</date>
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mbrbar1_featured_es_1080x1620.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-697283d831b12b32a91db6bd" start="20260527114934 +0000" stop="20260527132944 +0000">
+    <title>Los Amantes</title>
+    <category>Movie</category>
+    <desc>Yolanda, una cabaretera con un pasado turbio, huye de un hombre que la explota y busca la ayuda de un amigo para escapar. En Ciudad de México se casa con un hombre adinerado, pero su pasado está por alcanzarla.</desc>
+    <date>20250501</date>
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mlaman1_cover_losamantes_es_1080x1620.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-697283d831b12b32a91db6bd" start="20260527132944 +0000" stop="20260527143318 +0000">
+    <title>La Caza de Beria</title>
+    <sub-title>Episodio 9</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Su vida se vuelve un infierno, ya que Beria, que no está acostumbrada a dejar con vida a testigos peligrosos.</desc>
+    <date>20260505</date>
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sthfbe1_cover_lacazadeberia_es_2560x1440.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-697283d831b12b32a91db6bd" start="20260527143318 +0000" stop="20260527152648 +0000">
+    <title>Doctor en Turno</title>
+    <sub-title>Episodio 37</sub-title>
+    <episode-num system="onscreen">S03E37</episode-num>
+    <desc>Cuatro médicos de urgencias demuestran cada día el heroísmo de su profesión en un hospital lleno de.</desc>
+    <date>20250703</date>
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sdetur1_2133x1200_cover_0.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-697283d831b12b32a91db6bd" start="20260527152648 +0000" stop="20260527161927 +0000">
+    <title>Doctor en Turno</title>
+    <sub-title>Episodio 38</sub-title>
+    <episode-num system="onscreen">S03E38</episode-num>
+    <desc>Cuatro médicos de urgencias demuestran cada día el heroísmo de su profesión en un hospital lleno de.</desc>
+    <date>20250703</date>
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sdetur1_2133x1200_cover_0.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-697283d831b12b32a91db6bd" start="20260527161927 +0000" stop="20260527171226 +0000">
+    <title>Doctor en Turno</title>
+    <sub-title>Episodio 39</sub-title>
+    <episode-num system="onscreen">S03E39</episode-num>
+    <desc>Cuatro médicos de urgencias demuestran cada día el heroísmo de su profesión en un hospital lleno de.</desc>
+    <date>20250703</date>
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sdetur1_2133x1200_cover_0.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-697283d831b12b32a91db6bd" start="20260527171226 +0000" stop="20260527180555 +0000">
+    <title>Doctor en Turno</title>
+    <sub-title>Episodio 40</sub-title>
+    <episode-num system="onscreen">S03E40</episode-num>
+    <desc>Cuatro médicos de urgencias demuestran cada día el heroísmo de su profesión en un hospital lleno de.</desc>
+    <date>20250703</date>
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sdetur1_2133x1200_cover_0.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-697283d831b12b32a91db6bd" start="20260527180555 +0000" stop="20260527195529 +0000">
+    <title>Bárbara</title>
+    <category>Movie</category>
+    <desc>Esta es la historia de un amor el cual no puedo realizer por diferentes circuanstancias y contratiempos con los cuales tendra que luchar los enamorados.</desc>
+    <date>20260102</date>
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mbrbar1_featured_es_1080x1620.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-697283d831b12b32a91db6bd" start="20260527195529 +0000" stop="20260527213539 +0000">
+    <title>Los Amantes</title>
+    <category>Movie</category>
+    <desc>Yolanda, una cabaretera con un pasado turbio, huye de un hombre que la explota y busca la ayuda de un amigo para escapar. En Ciudad de México se casa con un hombre adinerado, pero su pasado está por alcanzarla.</desc>
+    <date>20250501</date>
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mlaman1_cover_losamantes_es_1080x1620.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-697283d831b12b32a91db6bd" start="20260527213539 +0000" stop="20260527223913 +0000">
+    <title>La Caza de Beria</title>
+    <sub-title>Episodio 9</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Su vida se vuelve un infierno, ya que Beria, que no está acostumbrada a dejar con vida a testigos peligrosos.</desc>
+    <date>20260505</date>
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sthfbe1_cover_lacazadeberia_es_2560x1440.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-697283d831b12b32a91db6bd" start="20260527223913 +0000" stop="20260527233243 +0000">
+    <title>Doctor en Turno</title>
+    <sub-title>Episodio 37</sub-title>
+    <episode-num system="onscreen">S03E37</episode-num>
+    <desc>Cuatro médicos de urgencias demuestran cada día el heroísmo de su profesión en un hospital lleno de.</desc>
+    <date>20250703</date>
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sdetur1_2133x1200_cover_0.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-697283d831b12b32a91db6bd" start="20260527233243 +0000" stop="20260528002522 +0000">
+    <title>Doctor en Turno</title>
+    <sub-title>Episodio 38</sub-title>
+    <episode-num system="onscreen">S03E38</episode-num>
+    <desc>Cuatro médicos de urgencias demuestran cada día el heroísmo de su profesión en un hospital lleno de.</desc>
+    <date>20250703</date>
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sdetur1_2133x1200_cover_0.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-697283d831b12b32a91db6bd" start="20260528002522 +0000" stop="20260528011821 +0000">
+    <title>Doctor en Turno</title>
+    <sub-title>Episodio 39</sub-title>
+    <episode-num system="onscreen">S03E39</episode-num>
+    <desc>Cuatro médicos de urgencias demuestran cada día el heroísmo de su profesión en un hospital lleno de.</desc>
+    <date>20250703</date>
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sdetur1_2133x1200_cover_0.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-697283d831b12b32a91db6bd" start="20260528011821 +0000" stop="20260528021150 +0000">
+    <title>Doctor en Turno</title>
+    <sub-title>Episodio 40</sub-title>
+    <episode-num system="onscreen">S03E40</episode-num>
+    <desc>Cuatro médicos de urgencias demuestran cada día el heroísmo de su profesión en un hospital lleno de.</desc>
+    <date>20250703</date>
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sdetur1_2133x1200_cover_0.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-697283d831b12b32a91db6bd" start="20260528021150 +0000" stop="20260528040124 +0000">
+    <title>Bárbara</title>
+    <category>Movie</category>
+    <desc>Esta es la historia de un amor el cual no puedo realizer por diferentes circuanstancias y contratiempos con los cuales tendra que luchar los enamorados.</desc>
+    <date>20260102</date>
+    <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mbrbar1_featured_es_1080x1620.jpg" />
   </programme>
   
 </tv>

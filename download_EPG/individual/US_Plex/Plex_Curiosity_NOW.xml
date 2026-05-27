@@ -1,153 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240">
+<channel id="6a1610bebdf296985fd95603-64831c8be3541c909e96d240">
     <display-name>Curiosity NOW</display-name>
     <icon src="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/9cd5ae861f257ae45332af9b63addf18.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526041500 +0000" stop="20260526050700 +0000">
-    <title>Wings: World War Two in the Skies</title>
-    <sub-title>The Fight Back</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>In the early days of WWII, pilots and engineers fight to win the battle of the skies; they use Spitfires, Hurricanes, Zeros, Hellcats, Oscars, ME 109s and Flying Fortresses.</desc>
-    <date>20260118</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/89d976215bc9f834fcbf6b6483f24fdd.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526050700 +0000" stop="20260526055800 +0000">
-    <title>Wings: World War Two in the Skies</title>
-    <sub-title>The Flight to Victory</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>The Hell Hawks fight D-Day in the air; the Avenger torpedo plane blows Japan's largest battleship out of the water; Nazi super-weapons bring terror from above.</desc>
-    <date>20260118</date>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c15ea43bff3febc0a33149a43f4e974f.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526055800 +0000" stop="20260526065700 +0000">
-    <title>Nazi Secret Weapons</title>
-    <sub-title>Nazi Secret Weapons</sub-title>
-    <desc>A living-history experiment tries to glean more information about Adolf Hitler's advanced bomb, the Fritz X.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526065700 +0000" stop="20260526075700 +0000">
-    <title>Berlin 1945</title>
-    <sub-title>Berlin 1945</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>At the beginning of 1945, Berlin remains under the spell of the Nazi promise of salvation.</desc>
-    <date>20200508</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/da9f30c773f6712686db1600560db5de.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526075700 +0000" stop="20260526085800 +0000">
-    <title>Berlin 1945</title>
-    <sub-title>Berlin 1945</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>The Battle for Berlin has begun; step by step, the soon-to-be victorious powers advance.</desc>
-    <date>20200509</date>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c3e425a86716b43fa3008ad048fe3eb4.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526085800 +0000" stop="20260526100000 +0000">
-    <title>Berlin 1945</title>
-    <sub-title>Berlin 1945</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>The British, French and Americans are waiting to enter Berlin.</desc>
-    <date>20200510</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/78603956d561727294a131f4589bebbd.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526100000 +0000" stop="20260526102800 +0000">
-    <title>What's My Car Worth?</title>
-    <sub-title>Cruisin' in Style</sub-title>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <desc>1949 Jaguar XK120; Oldsmobile 442.</desc>
-    <date>20110607</date>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/e54f426cb61b634f004f9245c9399c06.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526102800 +0000" stop="20260526105700 +0000">
-    <title>What's My Car Worth?</title>
-    <sub-title>Priciest Rides</sub-title>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <desc>1939 Alfa Romeo 8C 2900B; an original Cobra.</desc>
-    <date>20110614</date>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/cfb9433f10569618e56a4ac8353c137f.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526105700 +0000" stop="20260526112500 +0000">
-    <title>What's My Car Worth?</title>
-    <sub-title>Best of the Best</sub-title>
-    <episode-num system="onscreen">S02E11</episode-num>
-    <desc>Talbot-Lago 150C SS; classic Buick; the Cobra's more refined cousin; a Harley-Davidson.</desc>
-    <date>20110621</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1922c62cc7848378f2b6f0161e17eba5.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526112500 +0000" stop="20260526115400 +0000">
-    <title>What's My Car Worth?</title>
-    <sub-title>The Sports Car Craze</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The annual Petersen Automotive Museum Garage Sale and Swap Meet.</desc>
-    <date>20091229</date>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c090e0891dac5c08ba3e1d906386ba5f.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526115400 +0000" stop="20260526122200 +0000">
-    <title>What's My Car Worth?</title>
-    <sub-title>The Big Blocks</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Boss 429; Shelby GT500; Sting Ray.</desc>
-    <date>20100420</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/3bcb5de0019501e78e31553ee3494f4e.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526122200 +0000" stop="20260526125000 +0000">
-    <title>What's My Car Worth?</title>
-    <sub-title>American Icons</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Appraisal of classic muscle cars including the Plymouth Superbird and the Mustang Mach 1.</desc>
-    <date>20100427</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/8bd4fc65a6b7b6b1c4eafd5a9aa07ad1.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526125000 +0000" stop="20260526131900 +0000">
-    <title>What's My Car Worth?</title>
-    <sub-title>Euro Sports</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Experts appraise classic European sports cars at the Gooding and Company's auction in Scottsdale, Ariz.</desc>
-    <date>20100504</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6f0da08de866a634c4850e7e60182c4c.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526131900 +0000" stop="20260526134700 +0000">
-    <title>What's My Car Worth?</title>
-    <sub-title>365 GTB/4 Daytona</sub-title>
-    <episode-num system="onscreen">S07E01</episode-num>
-    <desc>Keith and Josh attend a Barrett-Jackson event in Scottsdale, Ariz., where they find a beautifully restored Chevrolet Chevelle SS LS5 and test out a Porsche 930 Turbo; Keith gets behind the wheel of a Ferrari 365 GTB/4 Daytona.</desc>
-    <date>20160512</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f955ec150c07641ac8acf34e171b4f49.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526134700 +0000" stop="20260526141600 +0000">
-    <title>What's My Car Worth?</title>
-    <sub-title>The GNX -- Buick's Last Muscle Car</sub-title>
-    <episode-num system="onscreen">S07E02</episode-num>
-    <desc>Keith Martin and Josh Nasar encounter plenty of muscle at a Barrett-Jackson collector car auction in Scottsdale, Ariz., including a Pontiac GTO Judge and a 1987 Buick GNX.</desc>
-    <date>20160512</date>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/e4e4c44af5873f66a43cb834da47848c.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526141600 +0000" stop="20260526144400 +0000">
-    <title>What's My Car Worth?</title>
-    <sub-title>Gallardo Spyder</sub-title>
-    <episode-num system="onscreen">S07E03</episode-num>
-    <desc>A Yenko goes up for sale in Scottsdale, Ariz.; an eye-popping Lamborghini Gallardo is found at an Auctions America event in Florida.</desc>
-    <date>20160519</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/92ba4fbac852955aed32df8bb4e9d63b.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526144400 +0000" stop="20260526151200 +0000">
+<programme channel="6a1610bebdf296985fd95603-64831c8be3541c909e96d240" start="20260527020700 +0000" stop="20260527023500 +0000">
     <title>What's My Car Worth?</title>
     <sub-title>Rosso Corsa 512TR</sub-title>
     <episode-num system="onscreen">S07E04</episode-num>
@@ -156,7 +14,7 @@
     <icon src="https://metadata-static.plex.tv/7/gracenote/751297bb8c348c08991fa9d8c3ddec35.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526151200 +0000" stop="20260526154100 +0000">
+<programme channel="6a1610bebdf296985fd95603-64831c8be3541c909e96d240" start="20260527023500 +0000" stop="20260527030300 +0000">
     <title>What's My Car Worth?</title>
     <sub-title>Million Dollar Ferrari</sub-title>
     <episode-num system="onscreen">S07E05</episode-num>
@@ -165,7 +23,7 @@
     <icon src="https://metadata-static.plex.tv/4/gracenote/4e20834d671238c3483d12c5245a5bf6.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526154100 +0000" stop="20260526160900 +0000">
+<programme channel="6a1610bebdf296985fd95603-64831c8be3541c909e96d240" start="20260527030300 +0000" stop="20260527033200 +0000">
     <title>What's My Car Worth?</title>
     <sub-title>Cruisin' in Style</sub-title>
     <episode-num system="onscreen">S02E09</episode-num>
@@ -174,7 +32,7 @@
     <icon src="https://metadata-static.plex.tv/e/gracenote/e54f426cb61b634f004f9245c9399c06.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526160900 +0000" stop="20260526163800 +0000">
+<programme channel="6a1610bebdf296985fd95603-64831c8be3541c909e96d240" start="20260527033200 +0000" stop="20260527040000 +0000">
     <title>What's My Car Worth?</title>
     <sub-title>Priciest Rides</sub-title>
     <episode-num system="onscreen">S02E10</episode-num>
@@ -183,7 +41,7 @@
     <icon src="https://metadata-static.plex.tv/c/gracenote/cfb9433f10569618e56a4ac8353c137f.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526163800 +0000" stop="20260526170700 +0000">
+<programme channel="6a1610bebdf296985fd95603-64831c8be3541c909e96d240" start="20260527040000 +0000" stop="20260527042900 +0000">
     <title>What's My Car Worth?</title>
     <sub-title>Best of the Best</sub-title>
     <episode-num system="onscreen">S02E11</episode-num>
@@ -192,7 +50,7 @@
     <icon src="https://metadata-static.plex.tv/1/gracenote/1922c62cc7848378f2b6f0161e17eba5.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526170700 +0000" stop="20260526173500 +0000">
+<programme channel="6a1610bebdf296985fd95603-64831c8be3541c909e96d240" start="20260527042900 +0000" stop="20260527045700 +0000">
     <title>What's My Car Worth?</title>
     <sub-title>The Sports Car Craze</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -201,7 +59,7 @@
     <icon src="https://metadata-static.plex.tv/c/gracenote/c090e0891dac5c08ba3e1d906386ba5f.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526173500 +0000" stop="20260526180300 +0000">
+<programme channel="6a1610bebdf296985fd95603-64831c8be3541c909e96d240" start="20260527045700 +0000" stop="20260527052600 +0000">
     <title>What's My Car Worth?</title>
     <sub-title>The Big Blocks</sub-title>
     <episode-num system="onscreen">S01E04</episode-num>
@@ -210,7 +68,7 @@
     <icon src="https://metadata-static.plex.tv/3/gracenote/3bcb5de0019501e78e31553ee3494f4e.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526180300 +0000" stop="20260526183200 +0000">
+<programme channel="6a1610bebdf296985fd95603-64831c8be3541c909e96d240" start="20260527052600 +0000" stop="20260527055400 +0000">
     <title>What's My Car Worth?</title>
     <sub-title>American Icons</sub-title>
     <episode-num system="onscreen">S01E05</episode-num>
@@ -219,7 +77,7 @@
     <icon src="https://metadata-static.plex.tv/8/gracenote/8bd4fc65a6b7b6b1c4eafd5a9aa07ad1.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526183200 +0000" stop="20260526190000 +0000">
+<programme channel="6a1610bebdf296985fd95603-64831c8be3541c909e96d240" start="20260527055400 +0000" stop="20260527062300 +0000">
     <title>What's My Car Worth?</title>
     <sub-title>Euro Sports</sub-title>
     <episode-num system="onscreen">S01E06</episode-num>
@@ -228,7 +86,7 @@
     <icon src="https://metadata-static.plex.tv/6/gracenote/6f0da08de866a634c4850e7e60182c4c.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526190000 +0000" stop="20260526192900 +0000">
+<programme channel="6a1610bebdf296985fd95603-64831c8be3541c909e96d240" start="20260527062300 +0000" stop="20260527065100 +0000">
     <title>What's My Car Worth?</title>
     <sub-title>365 GTB/4 Daytona</sub-title>
     <episode-num system="onscreen">S07E01</episode-num>
@@ -237,7 +95,7 @@
     <icon src="https://metadata-static.plex.tv/f/gracenote/f955ec150c07641ac8acf34e171b4f49.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526192900 +0000" stop="20260526195700 +0000">
+<programme channel="6a1610bebdf296985fd95603-64831c8be3541c909e96d240" start="20260527065100 +0000" stop="20260527071900 +0000">
     <title>What's My Car Worth?</title>
     <sub-title>The GNX -- Buick's Last Muscle Car</sub-title>
     <episode-num system="onscreen">S07E02</episode-num>
@@ -246,7 +104,7 @@
     <icon src="https://metadata-static.plex.tv/e/gracenote/e4e4c44af5873f66a43cb834da47848c.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526195700 +0000" stop="20260526202500 +0000">
+<programme channel="6a1610bebdf296985fd95603-64831c8be3541c909e96d240" start="20260527071900 +0000" stop="20260527074800 +0000">
     <title>What's My Car Worth?</title>
     <sub-title>Gallardo Spyder</sub-title>
     <episode-num system="onscreen">S07E03</episode-num>
@@ -255,7 +113,7 @@
     <icon src="https://metadata-static.plex.tv/9/gracenote/92ba4fbac852955aed32df8bb4e9d63b.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526202500 +0000" stop="20260526205400 +0000">
+<programme channel="6a1610bebdf296985fd95603-64831c8be3541c909e96d240" start="20260527074800 +0000" stop="20260527081600 +0000">
     <title>What's My Car Worth?</title>
     <sub-title>Rosso Corsa 512TR</sub-title>
     <episode-num system="onscreen">S07E04</episode-num>
@@ -264,7 +122,7 @@
     <icon src="https://metadata-static.plex.tv/7/gracenote/751297bb8c348c08991fa9d8c3ddec35.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526205400 +0000" stop="20260526212200 +0000">
+<programme channel="6a1610bebdf296985fd95603-64831c8be3541c909e96d240" start="20260527081600 +0000" stop="20260527084800 +0000">
     <title>What's My Car Worth?</title>
     <sub-title>Million Dollar Ferrari</sub-title>
     <episode-num system="onscreen">S07E05</episode-num>
@@ -273,7 +131,7 @@
     <icon src="https://metadata-static.plex.tv/4/gracenote/4e20834d671238c3483d12c5245a5bf6.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526212200 +0000" stop="20260526215100 +0000">
+<programme channel="6a1610bebdf296985fd95603-64831c8be3541c909e96d240" start="20260527084800 +0000" stop="20260527092200 +0000">
     <title>What's My Car Worth?</title>
     <sub-title>Cruisin' in Style</sub-title>
     <episode-num system="onscreen">S02E09</episode-num>
@@ -282,7 +140,7 @@
     <icon src="https://metadata-static.plex.tv/e/gracenote/e54f426cb61b634f004f9245c9399c06.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526215100 +0000" stop="20260526221900 +0000">
+<programme channel="6a1610bebdf296985fd95603-64831c8be3541c909e96d240" start="20260527092200 +0000" stop="20260527100000 +0000">
     <title>What's My Car Worth?</title>
     <sub-title>Priciest Rides</sub-title>
     <episode-num system="onscreen">S02E10</episode-num>
@@ -291,121 +149,34 @@
     <icon src="https://metadata-static.plex.tv/c/gracenote/cfb9433f10569618e56a4ac8353c137f.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526221900 +0000" stop="20260526224800 +0000">
-    <title>What's My Car Worth?</title>
-    <sub-title>Best of the Best</sub-title>
-    <episode-num system="onscreen">S02E11</episode-num>
-    <desc>Talbot-Lago 150C SS; classic Buick; the Cobra's more refined cousin; a Harley-Davidson.</desc>
-    <date>20110621</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1922c62cc7848378f2b6f0161e17eba5.jpg" />
+<programme channel="6a1610bebdf296985fd95603-64831c8be3541c909e96d240" start="20260527100000 +0000" stop="20260527140000 +0000">
+    <title>Curiosity NOW</title>
+    <sub-title>Curiosity NOW</sub-title>
+    <date>20260527</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526224800 +0000" stop="20260526231600 +0000">
-    <title>What's My Car Worth?</title>
-    <sub-title>The Sports Car Craze</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The annual Petersen Automotive Museum Garage Sale and Swap Meet.</desc>
-    <date>20091229</date>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c090e0891dac5c08ba3e1d906386ba5f.jpg" />
+<programme channel="6a1610bebdf296985fd95603-64831c8be3541c909e96d240" start="20260527140000 +0000" stop="20260527180000 +0000">
+    <title>Curiosity NOW</title>
+    <sub-title>Curiosity NOW</sub-title>
+    <date>20260527</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526231600 +0000" stop="20260526234500 +0000">
-    <title>What's My Car Worth?</title>
-    <sub-title>The Big Blocks</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Boss 429; Shelby GT500; Sting Ray.</desc>
-    <date>20100420</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/3bcb5de0019501e78e31553ee3494f4e.jpg" />
+<programme channel="6a1610bebdf296985fd95603-64831c8be3541c909e96d240" start="20260527180000 +0000" stop="20260527220000 +0000">
+    <title>Curiosity NOW</title>
+    <sub-title>Curiosity NOW</sub-title>
+    <date>20260527</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260526234500 +0000" stop="20260527001300 +0000">
-    <title>What's My Car Worth?</title>
-    <sub-title>American Icons</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Appraisal of classic muscle cars including the Plymouth Superbird and the Mustang Mach 1.</desc>
-    <date>20100427</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/8bd4fc65a6b7b6b1c4eafd5a9aa07ad1.jpg" />
+<programme channel="6a1610bebdf296985fd95603-64831c8be3541c909e96d240" start="20260527220000 +0000" stop="20260528020000 +0000">
+    <title>Curiosity NOW</title>
+    <sub-title>Curiosity NOW</sub-title>
+    <date>20260527</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260527001300 +0000" stop="20260527004100 +0000">
-    <title>What's My Car Worth?</title>
-    <sub-title>Euro Sports</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Experts appraise classic European sports cars at the Gooding and Company's auction in Scottsdale, Ariz.</desc>
-    <date>20100504</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6f0da08de866a634c4850e7e60182c4c.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260527004100 +0000" stop="20260527011000 +0000">
-    <title>What's My Car Worth?</title>
-    <sub-title>365 GTB/4 Daytona</sub-title>
-    <episode-num system="onscreen">S07E01</episode-num>
-    <desc>Keith and Josh attend a Barrett-Jackson event in Scottsdale, Ariz., where they find a beautifully restored Chevrolet Chevelle SS LS5 and test out a Porsche 930 Turbo; Keith gets behind the wheel of a Ferrari 365 GTB/4 Daytona.</desc>
-    <date>20160512</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f955ec150c07641ac8acf34e171b4f49.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260527011000 +0000" stop="20260527013800 +0000">
-    <title>What's My Car Worth?</title>
-    <sub-title>The GNX -- Buick's Last Muscle Car</sub-title>
-    <episode-num system="onscreen">S07E02</episode-num>
-    <desc>Keith Martin and Josh Nasar encounter plenty of muscle at a Barrett-Jackson collector car auction in Scottsdale, Ariz., including a Pontiac GTO Judge and a 1987 Buick GNX.</desc>
-    <date>20160512</date>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/e4e4c44af5873f66a43cb834da47848c.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260527013800 +0000" stop="20260527020700 +0000">
-    <title>What's My Car Worth?</title>
-    <sub-title>Gallardo Spyder</sub-title>
-    <episode-num system="onscreen">S07E03</episode-num>
-    <desc>A Yenko goes up for sale in Scottsdale, Ariz.; an eye-popping Lamborghini Gallardo is found at an Auctions America event in Florida.</desc>
-    <date>20160519</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/92ba4fbac852955aed32df8bb4e9d63b.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260527020700 +0000" stop="20260527023500 +0000">
-    <title>What's My Car Worth?</title>
-    <sub-title>Rosso Corsa 512TR</sub-title>
-    <episode-num system="onscreen">S07E04</episode-num>
-    <desc>Keith tests the power of fuel injection in a 1965 Chevrolet Corvette, while Josh takes a spin in a 1996 Porsche 911 Turbo; RM Auctions in Arizona offers up a Ferrari 512 TR.</desc>
-    <date>20160526</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/751297bb8c348c08991fa9d8c3ddec35.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260527023500 +0000" stop="20260527030300 +0000">
-    <title>What's My Car Worth?</title>
-    <sub-title>Million Dollar Ferrari</sub-title>
-    <episode-num system="onscreen">S07E05</episode-num>
-    <desc>An elegant, short-nosed Ferrari 275 GTB hits the auction block in Arizona and hammers at an impressive number.</desc>
-    <date>20160602</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/4e20834d671238c3483d12c5245a5bf6.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260527030300 +0000" stop="20260527033200 +0000">
-    <title>What's My Car Worth?</title>
-    <sub-title>Cruisin' in Style</sub-title>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <desc>1949 Jaguar XK120; Oldsmobile 442.</desc>
-    <date>20110607</date>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/e54f426cb61b634f004f9245c9399c06.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260527033200 +0000" stop="20260527040000 +0000">
-    <title>What's My Car Worth?</title>
-    <sub-title>Priciest Rides</sub-title>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <desc>1939 Alfa Romeo 8C 2900B; an original Cobra.</desc>
-    <date>20110614</date>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/cfb9433f10569618e56a4ac8353c137f.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" start="20260527040000 +0000" stop="20260527042900 +0000">
-    <title>What's My Car Worth?</title>
-    <sub-title>Best of the Best</sub-title>
-    <episode-num system="onscreen">S02E11</episode-num>
-    <desc>Talbot-Lago 150C SS; classic Buick; the Cobra's more refined cousin; a Harley-Davidson.</desc>
-    <date>20110621</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1922c62cc7848378f2b6f0161e17eba5.jpg" />
+<programme channel="6a1610bebdf296985fd95603-64831c8be3541c909e96d240" start="20260528020000 +0000" stop="20260528060000 +0000">
+    <title>Curiosity NOW</title>
+    <sub-title>Curiosity NOW</sub-title>
+    <date>20260528</date>
   </programme>
   
 </tv>

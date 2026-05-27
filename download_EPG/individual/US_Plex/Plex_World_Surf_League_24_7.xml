@@ -1,254 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169">
+<channel id="6a1610bebdf296985fd95603-652875586425fdb1f32d2169">
     <display-name>World Surf League 24/7</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/b4cf623f-e45e-4706-ba5c-fdf92a9e1e44/WSL_WHITE_LOGO.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260526040000 +0000" stop="20260526050000 +0000">
-    <title>'25 Margaret River Pro Highlights</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Relive Finals Day at Margaret River, where raw power and high stakes decide who makes the mid-season cut.</desc>
-    <date>20251002</date>
-    <icon src="https://images.frequency.com/video/7379594221447152589/solid/rectangle/w1920_h1080/bvm2wf53mvaq1hjd4zh1d5yev.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260526050000 +0000" stop="20260526060000 +0000">
-    <title>Meet The Rookie - Mateus Herdy</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Herdy reflects on his emotional six-year journey to qualify for the 2026 Championship Tour.</desc>
-    <date>19700101</date>
-    <icon src="https://images.frequency.com/video/7444393356071011752/solid/rectangle/w1920_h1080/1czfikkacye5710yp0ckbx0apj.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260526060000 +0000" stop="20260526070000 +0000">
+<programme channel="6a1610bebdf296985fd95603-652875586425fdb1f32d2169" start="20260527020000 +0000" stop="20260527030000 +0000">
     <title>UNBOXING THINGS with Koa Smith</title>
     <sub-title>Unboxing Things</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Koa Smith takes a look at all the latest surfing gear.</desc>
-    <date>20251006</date>
-    <icon src="https://images.frequency.com/video/7381010434703362668/solid/rectangle/w1920_h1080/5mtowkn66yww19fkazq8x9qlf.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260526070000 +0000" stop="20260526073000 +0000">
-    <title>WSL Contest Highlights</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>See all the best scores from the WSL surfing season.</desc>
-    <date>19700101</date>
-    <icon src="https://images.frequency.com/video/7374999330924257130/solid/rectangle/w1920_h1080/1ksbyngl6583r1i1dzlaryc51j.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260526073000 +0000" stop="20260526083000 +0000">
-    <title>'26 CT Qualified Surfers</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>An in-depth look at the surfers who qualified for the Championship Tour in 2026.</desc>
-    <date>19700101</date>
-    <icon src="https://images.frequency.com/video/7440917983553508248/solid/rectangle/w1920_h1080/mvp5228mrn241qezv90ztb4u1.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260526083000 +0000" stop="20260526090000 +0000">
-    <title>WSL Contest Highlights</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>See all the best scores from the WSL surfing season.</desc>
-    <date>19700101</date>
-    <icon src="https://images.frequency.com/video/7374999330924257130/solid/rectangle/w1920_h1080/1ksbyngl6583r1i1dzlaryc51j.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260526090000 +0000" stop="20260526100000 +0000">
-    <title>#TourNotes</title>
-    <sub-title>Tournotes</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>See all the amazing places competitors from the CT tour visit during competitions</desc>
-    <date>20251006</date>
-    <icon src="https://images.frequency.com/video/7380993272320363578/solid/rectangle/w1920_h1080/1dpt5asr24pt1nwpy1adcyofs.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260526100000 +0000" stop="20260526110000 +0000">
-    <title>The Vault</title>
-    <sub-title>Vault - 2003 Quiksilver Pro Fiji</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Andy Irons dominates the 2003 Fiji Pro, defeating Cory Lopez with perfect 10s on his way to victory.</desc>
-    <date>20251106</date>
-    <icon src="https://images.frequency.com/video/7392305917128011223/solid/rectangle/w1920_h1080/ffamj4brt16k1a3s07kupdbug.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260526110000 +0000" stop="20260526120000 +0000">
-    <title>UNBOXING THINGS with Koa Smith</title>
-    <sub-title>Unboxing Things</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Koa Smith takes a look at all the latest surfing gear.</desc>
-    <date>20251006</date>
-    <icon src="https://images.frequency.com/video/7381010432450444475/solid/rectangle/w1920_h1080/8k3x4uhz6yb71lz8n61410x2s.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260526120000 +0000" stop="20260526123000 +0000">
-    <title>WSL Contest Highlights</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>See all the best scores from the WSL surfing season.</desc>
-    <date>19700101</date>
-    <icon src="https://images.frequency.com/video/7374999330924257130/solid/rectangle/w1920_h1080/1ksbyngl6583r1i1dzlaryc51j.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260526123000 +0000" stop="20260526133000 +0000">
-    <title>'26 CT Qualified Surfers</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>An in-depth look at the surfers who qualified for the Championship Tour in 2026.</desc>
-    <date>19700101</date>
-    <icon src="https://images.frequency.com/video/7440917983553508248/solid/rectangle/w1920_h1080/mvp5228mrn241qezv90ztb4u1.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260526133000 +0000" stop="20260526140000 +0000">
-    <title>WSL Contest Highlights</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>See all the best scores from the WSL surfing season.</desc>
-    <date>19700101</date>
-    <icon src="https://images.frequency.com/video/7374999330924257130/solid/rectangle/w1920_h1080/1ksbyngl6583r1i1dzlaryc51j.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260526140000 +0000" stop="20260526150000 +0000">
-    <title>#TourNotes</title>
-    <sub-title>Tournotes</sub-title>
     <episode-num system="onscreen">S01E08</episode-num>
-    <desc>See all the amazing places competitors from the CT tour visit during competitions</desc>
-    <date>20251006</date>
-    <icon src="https://images.frequency.com/video/7380993233630958292/solid/rectangle/w1920_h1080/4f1f2m0a3lrk1l7s95h5g9200.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260526150000 +0000" stop="20260526160000 +0000">
-    <title>'25 MEO Rip Curl Pro Portugal</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Relive Supertubos action as elite surfers battle Portugal’s hollow waves for key world title momentum.</desc>
-    <date>20251002</date>
-    <icon src="https://images.frequency.com/video/7379594213958959987/solid/rectangle/w1920_h1080/e40qemh34cff1dy87836oeu03.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260526160000 +0000" stop="20260526170000 +0000">
-    <title>UNBOXING THINGS with Koa Smith</title>
-    <sub-title>Unboxing Things</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
     <desc>Koa Smith takes a look at all the latest surfing gear.</desc>
     <date>20251006</date>
-    <icon src="https://images.frequency.com/video/7381010434022435127/solid/rectangle/w1920_h1080/b5lsa1x1acjk15uv6dxnyhubx.jpg" />
+    <icon src="https://images.frequency.com/video/7381010433380074714/solid/rectangle/w1920_h1080/pt3uxefgfbl8100gez61vt7nd.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260526170000 +0000" stop="20260526173000 +0000">
-    <title>WSL Contest Highlights</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>See all the best scores from the WSL surfing season.</desc>
-    <date>19700101</date>
-    <icon src="https://images.frequency.com/video/7374999330924257130/solid/rectangle/w1920_h1080/1ksbyngl6583r1i1dzlaryc51j.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260526173000 +0000" stop="20260526183000 +0000">
-    <title>'26 CT Qualified Surfers</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>An in-depth look at the surfers who qualified for the Championship Tour in 2026.</desc>
-    <date>19700101</date>
-    <icon src="https://images.frequency.com/video/7440917983553508248/solid/rectangle/w1920_h1080/mvp5228mrn241qezv90ztb4u1.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260526183000 +0000" stop="20260526190000 +0000">
-    <title>WSL Contest Highlights</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>See all the best scores from the WSL surfing season.</desc>
-    <date>19700101</date>
-    <icon src="https://images.frequency.com/video/7374999330924257130/solid/rectangle/w1920_h1080/1ksbyngl6583r1i1dzlaryc51j.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260526190000 +0000" stop="20260526200000 +0000">
-    <title>#TourNotes</title>
-    <sub-title>Tournotes</sub-title>
-    <episode-num system="onscreen">S01E36</episode-num>
-    <desc>See all the amazing places competitors from the CT tour visit during competitions</desc>
-    <date>20251006</date>
-    <icon src="https://images.frequency.com/video/7381010451309514489/solid/rectangle/w1920_h1080/3ksab3n0jrek1jlq9686wvatg.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260526200000 +0000" stop="20260526210000 +0000">
-    <title>'25 MEO Rip Curl Pro Portugal</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Relive Supertubos action as elite surfers battle Portugal’s hollow waves for key world title momentum.</desc>
-    <date>20251002</date>
-    <icon src="https://images.frequency.com/video/7379594213958959987/solid/rectangle/w1920_h1080/e40qemh34cff1dy87836oeu03.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260526210000 +0000" stop="20260526220000 +0000">
-    <title>Unboxing Things</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Koa Smith takes a look at all the latest surfing gear.</desc>
-    <date>20260526</date>
-    <icon src="https://images.frequency.com/linear_channel/627/solid/square/original_1i0l8hj9sjj4u1mpenvm12evhq.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260526220000 +0000" stop="20260526223000 +0000">
-    <title>WSL Contest Highlights</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>See all the best scores from the WSL surfing season.</desc>
-    <date>19700101</date>
-    <icon src="https://images.frequency.com/video/7374999330924257130/solid/rectangle/w1920_h1080/1ksbyngl6583r1i1dzlaryc51j.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260526223000 +0000" stop="20260526233000 +0000">
-    <title>'26 CT Qualified Surfers</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>An in-depth look at the surfers who qualified for the Championship Tour in 2026.</desc>
-    <date>19700101</date>
-    <icon src="https://images.frequency.com/video/7440917983553508248/solid/rectangle/w1920_h1080/mvp5228mrn241qezv90ztb4u1.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260526233000 +0000" stop="20260527000000 +0000">
-    <title>WSL Contest Highlights</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>See all the best scores from the WSL surfing season.</desc>
-    <date>19700101</date>
-    <icon src="https://images.frequency.com/video/7374999330924257130/solid/rectangle/w1920_h1080/1ksbyngl6583r1i1dzlaryc51j.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260527000000 +0000" stop="20260527010000 +0000">
-    <title>#TourNotes</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Take an inside look at the day-to-day of the World Surf League tour.</desc>
-    <date>20260527</date>
-    <icon src="https://images.frequency.com/linear_channel/627/solid/square/original_1i0l8hj9sjj4u1mpenvm12evhq.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260527010000 +0000" stop="20260527020000 +0000">
-    <title>'25 MEO Rip Curl Pro Portugal</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Relive Supertubos action as elite surfers battle Portugal’s hollow waves for key world title momentum.</desc>
-    <date>20251002</date>
-    <icon src="https://images.frequency.com/video/7379594213958959987/solid/rectangle/w1920_h1080/e40qemh34cff1dy87836oeu03.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260527020000 +0000" stop="20260527030000 +0000">
-    <title>Unboxing Things</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Koa Smith takes a look at all the latest surfing gear.</desc>
-    <date>20260526</date>
-    <icon src="https://images.frequency.com/linear_channel/627/solid/square/original_1i0l8hj9sjj4u1mpenvm12evhq.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260527030000 +0000" stop="20260527040000 +0000">
+<programme channel="6a1610bebdf296985fd95603-652875586425fdb1f32d2169" start="20260527030000 +0000" stop="20260527040000 +0000">
     <title>2025 Lexus Pipe Pro - Highlights</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -257,13 +23,103 @@
     <icon src="https://images.frequency.com/video/7379594223114578845/solid/rectangle/w1920_h1080/u8bp73s10as31v0lln92zl4kj.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" start="20260527040000 +0000" stop="20260527050000 +0000">
+<programme channel="6a1610bebdf296985fd95603-652875586425fdb1f32d2169" start="20260527040000 +0000" stop="20260527050000 +0000">
     <title>'25 MEO Rip Curl Pro Portugal</title>
     <sub-title>Episode 1</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
     <desc>Relive Supertubos action as elite surfers battle Portugal’s hollow waves for key world title momentum.</desc>
     <date>20251002</date>
     <icon src="https://images.frequency.com/video/7379594213958959987/solid/rectangle/w1920_h1080/e40qemh34cff1dy87836oeu03.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-652875586425fdb1f32d2169" start="20260527050000 +0000" stop="20260527060000 +0000">
+    <title>2025 Rip Curl Pro Bells Beach | Highlights</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Bells Beach hosts surfing’s longest-running contest, where elite surfers battle to ring the Bell.</desc>
+    <date>20251002</date>
+    <icon src="https://images.frequency.com/video/7379584300857541276/solid/rectangle/w1920_h1080/1q5p40wsrwt6q1ruptybuelvxp.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-652875586425fdb1f32d2169" start="20260527060000 +0000" stop="20260527070000 +0000">
+    <title>UNBOXING THINGS with Koa Smith</title>
+    <sub-title>Unboxing Things</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Koa Smith takes a look at all the latest surfing gear.</desc>
+    <date>20251006</date>
+    <icon src="https://images.frequency.com/video/7381010436462161070/solid/rectangle/w1920_h1080/gmv7uqmmhsnk11kvsz6kkzvyp.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-652875586425fdb1f32d2169" start="20260527070000 +0000" stop="20260527073000 +0000">
+    <title>WSL Contest Highlights</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>See all the best scores from the WSL surfing season.</desc>
+    <date>19700101</date>
+    <icon src="https://images.frequency.com/video/7374975139617015553/solid/rectangle/w1920_h1080/w1023n4jbzo1gqzzprctd82h.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-652875586425fdb1f32d2169" start="20260527073000 +0000" stop="20260527083000 +0000">
+    <title>'26 CT Qualified Surfers</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>An in-depth look at the surfers who qualified for the Championship Tour in 2026.</desc>
+    <date>19700101</date>
+    <icon src="https://images.frequency.com/video/7440903663876510542/solid/rectangle/w1920_h1080/14ny98vyi7dnf15m7dq9c03v9x.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-652875586425fdb1f32d2169" start="20260527083000 +0000" stop="20260527090000 +0000">
+    <title>WSL Contest Highlights</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>See all the best scores from the WSL surfing season.</desc>
+    <date>19700101</date>
+    <icon src="https://images.frequency.com/video/7374975139617015553/solid/rectangle/w1920_h1080/w1023n4jbzo1gqzzprctd82h.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-652875586425fdb1f32d2169" start="20260527090000 +0000" stop="20260527100000 +0000">
+    <title>#TourNotes</title>
+    <sub-title>Tournotes</sub-title>
+    <episode-num system="onscreen">S01E40</episode-num>
+    <desc>See all the amazing places competitors from the CT tour visit during competitions</desc>
+    <date>20251006</date>
+    <icon src="https://images.frequency.com/video/7381010456521330959/solid/rectangle/w1920_h1080/sf82xgwjwaqi1n9djmergqbv8.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-652875586425fdb1f32d2169" start="20260527100000 +0000" stop="20260527110000 +0000">
+    <title>The Vault</title>
+    <sub-title>Vault - 2003 Quiksilver Pro Fiji</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Andy Irons dropped three perfect 10s at the 2003 Fiji Pro, topping Cory Lopez en route to a second World Title</desc>
+    <date>20251002</date>
+    <icon src="https://images.frequency.com/video/7379616363295005878/solid/rectangle/w1920_h1080/5xfg7e23b4911qyp8mmd1azta.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-652875586425fdb1f32d2169" start="20260527110000 +0000" stop="20260527120000 +0000">
+    <title>UNBOXING THINGS with Koa Smith</title>
+    <sub-title>Unboxing Things</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Koa Smith takes a look at all the latest surfing gear.</desc>
+    <date>20251006</date>
+    <icon src="https://images.frequency.com/video/7381010434022435127/solid/rectangle/w1920_h1080/b5lsa1x1acjk15uv6dxnyhubx.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-652875586425fdb1f32d2169" start="20260527120000 +0000" stop="20260527174500 +0000">
+    <title>Big Wednesday</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>The biggest waves and the gutsiest surfers from around the world</desc>
+    <date>20260522</date>
+    <icon src="https://images.frequency.com/video/7463685476026897505/solid/rectangle/w1920_h1080/1h7dl0luxguu911ygqyfwfq3qx.jpeg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-652875586425fdb1f32d2169" start="20260527174500 +0000" stop="20260528024500 +0000">
+    <title>2022 G-Land - Final</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Robinson and Defay claim victories at G-Land as the world's best tackle Indonesia's legendary left reef.</desc>
+    <date>20260525</date>
+    <icon src="https://images.frequency.com/video/7464683005975871149/solid/rectangle/w1920_h1080/cf065u0imu5o12ieu1vtkoan7.jpeg" />
   </programme>
   
 </tv>

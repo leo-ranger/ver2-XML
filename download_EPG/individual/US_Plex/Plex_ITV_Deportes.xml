@@ -1,144 +1,131 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007">
+<channel id="6a1610bebdf296985fd95603-688d3402a6fe30698ab42007">
     <display-name>ITV Deportes</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/a158aa7c-26b6-4c00-af9d-6fe52cab555a/iTV_LOGO-DarkBG_-_Alejandro_N.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260526040000 +0000" stop="20260526043000 +0000">
-    <title>National Icons</title>
+<programme channel="6a1610bebdf296985fd95603-688d3402a6fe30698ab42007" start="20260527010000 +0000" stop="20260527040000 +0000">
+    <title>Tigres de Quintana Roo vs. Piratas de Campeche</title>
     <category>Movie</category>
-    <desc>Algunos de los nombres más importantes del fútbol se enfrentan cara a cara.</desc>
-    <date>20230220</date>
-    <icon src="http://www.tmsimg.com/assets/p24047598_i_v12_aa.jpg?w=1920&amp;h=2880" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260526043000 +0000" stop="20260526050000 +0000">
-    <title>Dream Teams</title>
-    <category>Movie</category>
-    <desc>Un panel de expertos celebra algunas de las épocas y dinastías más dominantes en el deporte.</desc>
-    <date>20170208</date>
-    <icon src="http://www.tmsimg.com/assets/p13758744_i_v12_ab.jpg?w=1920&amp;h=2880" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260526050000 +0000" stop="20260526070000 +0000">
-    <title>Boxeo</title>
-    <category>Movie</category>
-    <desc>Los combates más emocionantes del boxeo mundial.</desc>
-    <date>20000201</date>
-    <icon src="http://www.tmsimg.com/assets/p343935_i_v12_ag.jpg?w=1920&amp;h=2880" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260526070000 +0000" stop="20260526080000 +0000">
-    <title>Hoy fútbol</title>
-    <category>Movie</category>
-    <desc>Programa para los aficionados del fútbol con el mejor análisis de los especialistas.</desc>
-    <date>20200727</date>
-    <icon src="http://www.tmsimg.com/assets/p18599008_i_v8_aa.jpg?w=960&amp;h=1440" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260526080000 +0000" stop="20260526110000 +0000">
-    <title>Liga Mexicana de Béisbol</title>
-    <category>Movie</category>
-    <desc>Cobertura de la Liga Mexicana de Béisbol (LMB), el circuito profesional más antiguo del país.</desc>
-    <date>20000406</date>
+    <desc>Temporada regular 2026 de la LMB. Primer juego de la serie. Desde el Estadio Cruz Azul NBR.</desc>
     <icon src="http://www.tmsimg.com/assets/p7884645_i_v12_aa.jpg?w=1920&amp;h=2880" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260526110000 +0000" stop="20260526130000 +0000">
-    <title>Baloncesto Mexicano LNBP</title>
-    <category>Movie</category>
-    <desc>Toda la acción de los partidos de la liga de baloncesto profesional mexicana.</desc>
-    <date>20140208</date>
-    <icon src="http://www.tmsimg.com/assets/p10524517_i_v12_aa.jpg?w=1920&amp;h=2880" />
+<programme channel="6a1610bebdf296985fd95603-688d3402a6fe30698ab42007" start="20260527040000 +0000" stop="20260527043000 +0000">
+    <title>Campeones</title>
+    <sub-title>Julio César Chávez</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Una mirada a la carrera de "el Gran Campeón Mexicano".</desc>
+    <date>20250623</date>
+    <icon src="http://www.tmsimg.com/assets/p30186833_b_h8_aa.jpg?w=3840&amp;h=2160" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260526130000 +0000" stop="20260526160000 +0000">
-    <title>Liga Mexicana de Béisbol</title>
+<programme channel="6a1610bebdf296985fd95603-688d3402a6fe30698ab42007" start="20260527043000 +0000" stop="20260527050000 +0000">
+    <title>Campeones</title>
+    <sub-title>Gilberto Román</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>La vida del boxeador mexicano, Gilberto Román quien fue campeón de peso supermosca.</desc>
+    <date>20251118</date>
+    <icon src="http://www.tmsimg.com/assets/p30186833_b_h8_aa.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-688d3402a6fe30698ab42007" start="20260527050000 +0000" stop="20260527060000 +0000">
+    <title>Tiempo de juego</title>
     <category>Movie</category>
-    <desc>Cobertura de la Liga Mexicana de Béisbol (LMB), el circuito profesional más antiguo del país.</desc>
-    <date>20000406</date>
+    <desc>Programación dedicada a las noticias más relevantes del mundo deportivo.</desc>
+    <date>20250331</date>
+    <icon src="http://www.tmsimg.com/assets/p29987515_b_v12_aa.jpg?w=1920&amp;h=2880" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-688d3402a6fe30698ab42007" start="20260527060000 +0000" stop="20260527090000 +0000">
+    <title>IWRG</title>
+    <category>Movie</category>
+    <desc>Desde la Arena Naucalpan.</desc>
+    <icon src="http://www.tmsimg.com/assets/p433955_i_v12_aa.jpg?w=1920&amp;h=2880" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-688d3402a6fe30698ab42007" start="20260527090000 +0000" stop="20260527110000 +0000">
+    <title>Club Jaiba Brava vs. Tepatitlán</title>
+    <category>Movie</category>
+    <desc>Acción de la final de ida del Clausura 2026 de la Liga de Expansión MX.</desc>
+    <icon src="http://www.tmsimg.com/assets/p18691836_i_v12_aa.jpg?w=1920&amp;h=2880" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-688d3402a6fe30698ab42007" start="20260527110000 +0000" stop="20260527130000 +0000">
+    <title>Fuerza Regia de Monterrey vs. Adelitas de Chihuahua</title>
+    <category>Movie</category>
+    <desc>El Clásico se presenta en el primer juego de las finales de Zona de la LNBP Femenil 2026.</desc>
+    <icon src="http://www.tmsimg.com/assets/p22060960_i_v12_aa.jpg?w=1920&amp;h=2880" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-688d3402a6fe30698ab42007" start="20260527130000 +0000" stop="20260527140000 +0000">
+    <title>Tiempo de juego</title>
+    <category>Movie</category>
+    <desc>Programación dedicada a las noticias más relevantes del mundo deportivo.</desc>
+    <date>20250331</date>
+    <icon src="http://www.tmsimg.com/assets/p29957784_b_v12_aa.jpg?w=1920&amp;h=2880" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-688d3402a6fe30698ab42007" start="20260527140000 +0000" stop="20260527160000 +0000">
+    <title>Tepatitlán vs. Club Jaiba Brava</title>
+    <category>Movie</category>
+    <desc>Partido de ida del Campeón de Campeones de la Liga de Expansión MX 2025-26.</desc>
+    <icon src="http://www.tmsimg.com/assets/p17075971_i_v12_aa.jpg?w=1920&amp;h=2880" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-688d3402a6fe30698ab42007" start="20260527160000 +0000" stop="20260527170000 +0000">
+    <title>Campeones</title>
+    <sub-title>Gelasio Pérez</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Ha sido réferi en más de 6 000 peleas, 60 de ellas de campeonato mundial.</desc>
+    <date>20250727</date>
+    <icon src="http://www.tmsimg.com/assets/p30186833_b_h8_aa.jpg?w=3840&amp;h=2160" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-688d3402a6fe30698ab42007" start="20260527170000 +0000" stop="20260527200000 +0000">
+    <title>El Águila de Veracruz vs. Piratas de Campeche</title>
+    <category>Movie</category>
+    <desc>Temporada regular 2026 de la LMB. Tercer juego de la serie. Desde el Estadio Cruz Azul NBR.</desc>
     <icon src="http://www.tmsimg.com/assets/p7884645_i_v12_aa.jpg?w=1920&amp;h=2880" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260526160000 +0000" stop="20260526180000 +0000">
-    <title>Boxeo</title>
+<programme channel="6a1610bebdf296985fd95603-688d3402a6fe30698ab42007" start="20260527200000 +0000" stop="20260527220000 +0000">
+    <title>Adelitas de Chihuahua vs. Fuerza Regia de Monterrey</title>
     <category>Movie</category>
-    <desc>Los combates más emocionantes del boxeo mundial.</desc>
-    <date>20000201</date>
-    <icon src="http://www.tmsimg.com/assets/p343935_i_v12_ag.jpg?w=1920&amp;h=2880" />
+    <desc>Tercer juego de las finales de Zona de la LNBP Femenil 2026. Desde el gimnasio Manuel Aguirre.</desc>
+    <icon src="http://www.tmsimg.com/assets/p22060960_i_v12_aa.jpg?w=1920&amp;h=2880" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260526180000 +0000" stop="20260526200000 +0000">
-    <title>Baloncesto Mexicano LNBP</title>
+<programme channel="6a1610bebdf296985fd95603-688d3402a6fe30698ab42007" start="20260527220000 +0000" stop="20260528000000 +0000">
+    <title>Tepatitlán vs. Club Jaiba Brava</title>
     <category>Movie</category>
-    <desc>Toda la acción de los partidos de la liga de baloncesto profesional mexicana.</desc>
-    <date>20140208</date>
-    <icon src="http://www.tmsimg.com/assets/p10524517_i_v12_aa.jpg?w=1920&amp;h=2880" />
+    <desc>Partido de ida del Campeón de Campeones de la Liga de Expansión MX 2025-26.</desc>
+    <icon src="http://www.tmsimg.com/assets/p17075971_i_v12_aa.jpg?w=1920&amp;h=2880" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260526200000 +0000" stop="20260526210000 +0000">
-    <title>El pierrotazo</title>
-    <category>Movie</category>
-    <desc>Toda la información del mundo de la lucha libre mexicana, de la mano de los protagonistas del ring.</desc>
-    <date>20190516</date>
-    <icon src="http://www.tmsimg.com/assets/p16932232_i_v8_aa.jpg?w=960&amp;h=1440" />
+<programme channel="6a1610bebdf296985fd95603-688d3402a6fe30698ab42007" start="20260528000000 +0000" stop="20260528003000 +0000">
+    <title>Diamantes</title>
+    <sub-title>Liga de ascenso</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Programación completa con análisis, resultados y toda la actualidad de los eventos del diamante.</desc>
+    <date>20260502</date>
+    <icon src="http://www.tmsimg.com/assets/p32938508_b_h8_aa.jpg?w=3840&amp;h=2160" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260526210000 +0000" stop="20260526213000 +0000">
-    <title>Sports Quest</title>
+<programme channel="6a1610bebdf296985fd95603-688d3402a6fe30698ab42007" start="20260528003000 +0000" stop="20260528010000 +0000">
+    <title>Campeones Box: Lupe Pintor</title>
     <category>Movie</category>
-    <desc>La revista electrónica que cubre los mayores eventos deportivos al aire libre del mundo.</desc>
-    <date>19920320</date>
-    <icon src="http://www.tmsimg.com/assets/p915344_i_v12_aa.jpg?w=1920&amp;h=2880" />
+    <desc>Brilló en la división de peso gallo y supergallo del CMB durante la década de los 80.</desc>
+    <date>20241026</date>
+    <icon src="http://www.tmsimg.com/assets/p28617101_st_v8_aa.jpg?w=960&amp;h=1440" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260526213000 +0000" stop="20260526220000 +0000">
-    <title>Clubland</title>
+<programme channel="6a1610bebdf296985fd95603-688d3402a6fe30698ab42007" start="20260528010000 +0000" stop="20260528040000 +0000">
+    <title>Bravos de León vs. Guerreros de Oaxaca</title>
     <category>Movie</category>
-    <desc>Un espacio en el que se destaca a algunos de los mejores clubes del mundo.</desc>
-    <date>20230123</date>
-    <icon src="http://www.tmsimg.com/assets/p23813066_b_v8_aa.jpg?w=960&amp;h=1440" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260526220000 +0000" stop="20260527010000 +0000">
-    <title>Liga Mexicana de Béisbol</title>
-    <category>Movie</category>
-    <desc>Cobertura de la Liga Mexicana de Béisbol (LMB), el circuito profesional más antiguo del país.</desc>
-    <date>20000406</date>
+    <desc>Temporada regular 2026 de la LMB. Segundo juego de la serie. Desde el Estadio YU'VA.</desc>
     <icon src="http://www.tmsimg.com/assets/p7884645_i_v12_aa.jpg?w=1920&amp;h=2880" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260527010000 +0000" stop="20260527013000 +0000">
-    <title>Sports Quest</title>
-    <category>Movie</category>
-    <desc>La revista electrónica que cubre los mayores eventos deportivos al aire libre del mundo.</desc>
-    <date>19920320</date>
-    <icon src="http://www.tmsimg.com/assets/p915344_i_v12_aa.jpg?w=1920&amp;h=2880" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260527013000 +0000" stop="20260527020000 +0000">
-    <title>Clubland</title>
-    <category>Movie</category>
-    <desc>Un espacio en el que se destaca a algunos de los mejores clubes del mundo.</desc>
-    <date>20230123</date>
-    <icon src="http://www.tmsimg.com/assets/p23813066_b_v8_aa.jpg?w=960&amp;h=1440" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260527020000 +0000" stop="20260527040000 +0000">
-    <title>Baloncesto Mexicano LNBP</title>
-    <category>Movie</category>
-    <desc>Toda la acción de los partidos de la liga de baloncesto profesional mexicana.</desc>
-    <date>20140208</date>
-    <icon src="http://www.tmsimg.com/assets/p10524517_i_v12_aa.jpg?w=1920&amp;h=2880" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" start="20260527040000 +0000" stop="20260527043000 +0000">
-    <title>Football's Greatest Stage</title>
-    <category>Movie</category>
-    <desc>Serie sobre las mejores selecciones, jugadores e historias de los Mundiales de fútbol.</desc>
-    <date>20170914</date>
-    <icon src="http://www.tmsimg.com/assets/p14524666_i_v8_ac.jpg?w=960&amp;h=1440" />
   </programme>
   
 </tv>

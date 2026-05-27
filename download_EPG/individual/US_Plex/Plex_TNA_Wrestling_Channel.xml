@@ -1,65 +1,85 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873">
+<channel id="6a1610bebdf296985fd95603-606605549dbfca002d2ae873">
     <display-name>TNA Wrestling Channel</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/5d4f68c3-82af-45e7-b2c4-39aff69f3ce0/TNAWrestling_Plex_LogoforDarkBG_1500x1000_-_Alex_TushinghamRDX.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873" start="20260526040000 +0000" stop="20260526055900 +0000">
-    <title>IMPACT Wrestling</title>
-    <sub-title>IMPACT Wrestling</sub-title>
-    <desc>IMPACT Wrestling's flagship weekly show features addictive storylines, awe-inspiring athleticism and larger-than-life personalities. Some of the top professional wrestling stars showing off their skills include Eric Young, Doc Gallows, Karl Anderson, Rhino, Moose, Sami Callihan, Eddie Edwards and Rich Swann. Also spotlighted are the high-flying X-Division and the Knockouts, including Deonna Purrazzo, Rosemary and Tenille Dashwood.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873" start="20260526055900 +0000" stop="20260526080000 +0000">
-    <title>IMPACT Wrestling</title>
-    <sub-title>IMPACT Wrestling</sub-title>
-    <desc>IMPACT Wrestling's flagship weekly show features addictive storylines, awe-inspiring athleticism and larger-than-life personalities. Some of the top professional wrestling stars showing off their skills include Eric Young, Doc Gallows, Karl Anderson, Rhino, Moose, Sami Callihan, Eddie Edwards and Rich Swann. Also spotlighted are the high-flying X-Division and the Knockouts, including Deonna Purrazzo, Rosemary and Tenille Dashwood.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873" start="20260526080000 +0000" stop="20260526110100 +0000">
-    <title>IMPACT Wrestling</title>
-    <sub-title>IMPACT Wrestling</sub-title>
-    <desc>IMPACT Wrestling's flagship weekly show features addictive storylines, awe-inspiring athleticism and larger-than-life personalities. Some of the top professional wrestling stars showing off their skills include Eric Young, Doc Gallows, Karl Anderson, Rhino, Moose, Sami Callihan, Eddie Edwards and Rich Swann. Also spotlighted are the high-flying X-Division and the Knockouts, including Deonna Purrazzo, Rosemary and Tenille Dashwood.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873" start="20260526110100 +0000" stop="20260526130000 +0000">
-    <title>IMPACT Wrestling</title>
-    <sub-title>IMPACT Wrestling</sub-title>
-    <episode-num system="onscreen">S20E25</episode-num>
-    <desc>Top stars in professional wrestling battle for supremacy and compete for championship gold, including Eric Young, Doc Gallows, Karl Anderson, Rhino, Moose, Sami Callihan, the X-Division, the Knockouts and others.</desc>
-    <date>20200623</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873" start="20260526130000 +0000" stop="20260526165900 +0000">
-    <title>IMPACT Wrestling: Slammiversary</title>
-    <sub-title>IMPACT Wrestling: Slammiversary</sub-title>
-    <desc>Kenny Omega takes on Sami Callihan for the Impact World Championship in the main event. Also on the card are three Knockouts Championships, the Ultimate X match for the X-Division Championship, and Knockouts and Impact Tag Team Championships.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873" start="20260526165900 +0000" stop="20260526210000 +0000">
-    <title>IMPACT! Wrestling: Bound For Glory</title>
-    <sub-title>IMPACT! Wrestling: Bound For Glory</sub-title>
-    <desc>Christian Cage vs. Josh Alexander; Deonna Purrazzo vs. Mickie James; Call Your Shot Gauntlet match; three-way match for the vacant X Division championship. From Las Vegas.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873" start="20260526210000 +0000" stop="20260527010000 +0000">
-    <title>IMPACT Wrestling: Slammiversary</title>
-    <sub-title>IMPACT Wrestling: Slammiversary</sub-title>
-    <desc>Kenny Omega takes on Sami Callihan for the Impact World Championship in the main event. Also on the card are three Knockouts Championships, the Ultimate X match for the X-Division Championship, and Knockouts and Impact Tag Team Championships.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873" start="20260527010000 +0000" stop="20260527050000 +0000">
+<programme channel="6a1610bebdf296985fd95603-606605549dbfca002d2ae873" start="20260527010000 +0000" stop="20260527050000 +0000">
     <title>IMPACT! Wrestling: Bound For Glory</title>
     <sub-title>IMPACT! Wrestling: Bound For Glory</sub-title>
     <desc>Christian Cage vs. Josh Alexander; Deonna Purrazzo vs. Mickie James; Call Your Shot Gauntlet match; three-way match for the vacant X Division championship. From Las Vegas.</desc>
     <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-606605549dbfca002d2ae873" start="20260527050000 +0000" stop="20260527090000 +0000">
+    <title>IMPACT Wrestling: Slammiversary</title>
+    <sub-title>IMPACT Wrestling: Slammiversary</sub-title>
+    <desc>Kenny Omega takes on Sami Callihan for the Impact World Championship in the main event. Also on the card are three Knockouts Championships, the Ultimate X match for the X-Division Championship, and Knockouts and Impact Tag Team Championships.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-606605549dbfca002d2ae873" start="20260527090000 +0000" stop="20260527130000 +0000">
+    <title>IMPACT! Wrestling: Bound For Glory</title>
+    <sub-title>IMPACT! Wrestling: Bound For Glory</sub-title>
+    <desc>Christian Cage vs. Josh Alexander; Deonna Purrazzo vs. Mickie James; Call Your Shot Gauntlet match; three-way match for the vacant X Division championship. From Las Vegas.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-606605549dbfca002d2ae873" start="20260527130000 +0000" stop="20260527145900 +0000">
+    <title>TNA Wrestling's Greatest Matches</title>
+    <sub-title>Samoa Joe</sub-title>
+    <episode-num system="onscreen">S01E18</episode-num>
+    <desc>2013 Slammiversary: Samoa Joe, Magnus and Jeff Hardy vs. Garrett Bischoff, Mr. Anderson and Wes Brisco; 2013 Bound for Glory: Chris Sabin vs. Samoa Joe vs. Manik vs. Austin Aries vs. Jeff Hardy; 2014 Lockdown: Magnus vs. Samoa Joe.</desc>
+    <date>20150403</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-606605549dbfca002d2ae873" start="20260527145900 +0000" stop="20260527170100 +0000">
+    <title>IMPACT Wrestling</title>
+    <sub-title>IMPACT Wrestling</sub-title>
+    <episode-num system="onscreen">S20E26</episode-num>
+    <desc>Top stars in professional wrestling battle for supremacy and compete for championship gold, including Eric Young, Doc Gallows, Karl Anderson, Rhino, Moose, Sami Callihan, the X-Division, the Knockouts and others.</desc>
+    <date>20200630</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-606605549dbfca002d2ae873" start="20260527170100 +0000" stop="20260527190200 +0000">
+    <title>IMPACT Wrestling</title>
+    <sub-title>IMPACT Wrestling</sub-title>
+    <episode-num system="onscreen">S20E27</episode-num>
+    <desc>Top stars in professional wrestling battle for supremacy and compete for championship gold, including Eric Young, Doc Gallows, Karl Anderson, Rhino, Moose, Sami Callihan, the X-Division, the Knockouts and others.</desc>
+    <date>20200707</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-606605549dbfca002d2ae873" start="20260527190200 +0000" stop="20260527205900 +0000">
+    <title>IMPACT Wrestling</title>
+    <sub-title>IMPACT Wrestling</sub-title>
+    <episode-num system="onscreen">S20E28</episode-num>
+    <desc>Top stars in professional wrestling battle for supremacy and compete for championship gold, including Eric Young, Doc Gallows, Karl Anderson, Rhino, Moose, Sami Callihan, the X-Division, the Knockouts and others.</desc>
+    <date>20200714</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-606605549dbfca002d2ae873" start="20260527205900 +0000" stop="20260527225900 +0000">
+    <title>TNA Wrestling's Greatest Matches</title>
+    <sub-title>Samoa Joe</sub-title>
+    <episode-num system="onscreen">S01E18</episode-num>
+    <desc>2013 Slammiversary: Samoa Joe, Magnus and Jeff Hardy vs. Garrett Bischoff, Mr. Anderson and Wes Brisco; 2013 Bound for Glory: Chris Sabin vs. Samoa Joe vs. Manik vs. Austin Aries vs. Jeff Hardy; 2014 Lockdown: Magnus vs. Samoa Joe.</desc>
+    <date>20150403</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-606605549dbfca002d2ae873" start="20260527225900 +0000" stop="20260528010100 +0000">
+    <title>IMPACT Wrestling</title>
+    <sub-title>IMPACT Wrestling</sub-title>
+    <episode-num system="onscreen">S20E26</episode-num>
+    <desc>Top stars in professional wrestling battle for supremacy and compete for championship gold, including Eric Young, Doc Gallows, Karl Anderson, Rhino, Moose, Sami Callihan, the X-Division, the Knockouts and others.</desc>
+    <date>20200630</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-606605549dbfca002d2ae873" start="20260528010100 +0000" stop="20260528030200 +0000">
+    <title>IMPACT Wrestling</title>
+    <sub-title>IMPACT Wrestling</sub-title>
+    <episode-num system="onscreen">S20E27</episode-num>
+    <desc>Top stars in professional wrestling battle for supremacy and compete for championship gold, including Eric Young, Doc Gallows, Karl Anderson, Rhino, Moose, Sami Callihan, the X-Division, the Knockouts and others.</desc>
+    <date>20200707</date>
   </programme>
   
 </tv>

@@ -1,224 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4">
+<channel id="6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4">
     <display-name>Outlaw</display-name>
     <icon src="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6f6cffee3da24432269d9614379a6b1e.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20260526023100 +0000" stop="20260526045500 +0000">
-    <title>McLintock!</title>
-    <category>Movie</category>
-    <desc>A cattle baron (John Wayne) tries to tame his wife (Maureen O'Hara) amid a feud with settlers and trouble with Indians.</desc>
-    <date>19630102</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/953552609a09751ae8816fc5d2d0dd27.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20260526045500 +0000" stop="20260526060400 +0000">
-    <title>Ghost Guns</title>
-    <category>Movie</category>
-    <desc>A cowboy sets out to investigate a series of eerie happenings that hint of the supernatural.</desc>
-    <date>19440102</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/a60503404a3165f4633fccbc57ffbf5e.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20260526060400 +0000" stop="20260526070400 +0000">
-    <title>The Ghost Rider</title>
-    <category>Movie</category>
-    <desc>A cowboy sets out in search of a phantom outlaw terrorizing the countryside.</desc>
-    <date>19430102</date>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/eb14b9ab1919864b4259534eea95d621.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20260526070400 +0000" stop="20260526085200 +0000">
-    <title>Stagecoach</title>
-    <category>Movie</category>
-    <desc>An outlaw (John Wayne), a prostitute (Claire Trevor), a drunken doctor and assorted others go through Indian country.</desc>
-    <date>19390102</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/76afdbda21eb51556bb646e624ba526c.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20260526085200 +0000" stop="20260526094700 +0000">
-    <title>Bonanza</title>
-    <sub-title>The Avenger</sub-title>
-    <episode-num system="onscreen">S01E26</episode-num>
-    <desc>A wanderer seeking his parents' lynchers, arrives in Virginia City as Ben and Adam are convicted of murder.</desc>
-    <date>19600319</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9ed321ac3e491a11c0864ffd3b3e33d3.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20260526094700 +0000" stop="20260526104300 +0000">
-    <title>Bonanza</title>
-    <sub-title>The Last Trophy</sub-title>
-    <episode-num system="onscreen">S01E27</episode-num>
-    <desc>Two British socialites find that they still have a lot to learn when they visit their friends, the Cartwrights.</desc>
-    <date>19600326</date>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/29ed54e99aaf78c4ffd93d04863c94ae.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20260526104300 +0000" stop="20260526111200 +0000">
-    <title>Annie Oakley</title>
-    <sub-title>Gunplay</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>An outlaw (Myron Healey) poses as a marshal in an attempt to free his brother from jail. With Paul McGuire, Gail Davis.</desc>
-    <date>19540123</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/66d5d28847bb6a2e8c9ffa68d44c1470.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20260526111200 +0000" stop="20260526114100 +0000">
-    <title>Annie Oakley</title>
-    <sub-title>The Dude Stagecoach</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Annie (Gail Davis) challenges a mine owner's spoiled rich daughter (Maura Murphy) to a race. With Tom London.</desc>
-    <date>19540130</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d6e3fb0b7f691317ca867749aac5af49.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20260526114100 +0000" stop="20260526121000 +0000">
-    <title>Annie Oakley</title>
-    <sub-title>Ambush Canyon</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>When the controlling stockholder of a gold mine is killed, Annie helps his adopted daughter make the right decision.</desc>
-    <date>19540206</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d1b5267a3770c318cd163b9f588fd202.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20260526121000 +0000" stop="20260526123900 +0000">
-    <title>Annie Oakley</title>
-    <sub-title>Annie Calls Her Shots</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>After being framed and serving seven years in prison, a bitter man (Harry Lauter) returns to town. With Gail Davis.</desc>
-    <date>19540213</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/11912d7052e2bb4b6d3a57d04ad7dea7.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20260526123900 +0000" stop="20260526130800 +0000">
-    <title>Annie Oakley</title>
-    <sub-title>A Gal for Grandma</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Annie's (Gail Davis) actions help a rich elderly recluse (Mabel Paige) see the error of her ways. With Elizabeth Harrower.</desc>
-    <date>19540220</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d639bc4499e25a438c95627969700624.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20260526130800 +0000" stop="20260526133700 +0000">
-    <title>Annie Oakley</title>
-    <sub-title>Annie and the Silver Ace</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Annie uses a likable gambler's straight-laced mother to reform him.</desc>
-    <date>19540227</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6a05cd7b63e72d5dabbf4b63b804c752.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20260526133700 +0000" stop="20260526140600 +0000">
-    <title>Annie Oakley</title>
-    <sub-title>Annie Finds Strange Treasure</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Annie (Gail Davis) and Tagg (Jimmy Hawkins) find an aging prospector (Stanley Andrews) who was attacked by three men searching for his treasure.</desc>
-    <date>19540306</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b0aeda57b6d88fd00a73eacd612ffaf9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20260526140600 +0000" stop="20260526143500 +0000">
-    <title>Annie Oakley</title>
-    <sub-title>The Cinder Trail</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Annie (Gail Davis) becomes involved when cattle ranchers attempt to gain control of Ben Dodson's (Robert Emmet O'Connor) railroad lines.</desc>
-    <date>19540313</date>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/26028c2ecfcbed2d015e71261290e517.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20260526143500 +0000" stop="20260526150400 +0000">
-    <title>Annie Oakley</title>
-    <sub-title>Valley of the Shadows</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Annie, Lofty and Tagg (Gail Davis, Brad Johnson, Jimmy Hawkins) step in when a store owner is killed and his young daughter is left blind. With Judy Nugent.</desc>
-    <date>19540320</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6dc1d6d7299481aebe7481d314063d53.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20260526150400 +0000" stop="20260526153300 +0000">
-    <title>Annie Oakley</title>
-    <sub-title>Annie and the Lily Maid</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Annie becomes suspicious of Elaine Forbes, the seemingly innocent niece of a recently deceased rancher.</desc>
-    <date>19540327</date>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1950235e37af0f6c9fcacd9d4636eccb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20260526153300 +0000" stop="20260526160200 +0000">
-    <title>Annie Oakley</title>
-    <sub-title>The Hardrock Trail</sub-title>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <desc>Outlaw Vic Carver (Robert B. Williams) seeks revenge against Sheriff MacTavish (Kenneth MacDonald) for sending him to jail.</desc>
-    <date>19540403</date>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/2033aead75c5cde804f28c615ff41309.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20260526160200 +0000" stop="20260526165700 +0000">
-    <title>The Yellow Rose</title>
-    <sub-title>A Question of Love</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>A widow and her two stepsons clash while running a 200,000-acre Texas ranch.</desc>
-    <date>19831210</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20260526165700 +0000" stop="20260526175300 +0000">
-    <title>The Yellow Rose</title>
-    <sub-title>Only the Proud</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>A widow and her two stepsons clash while running a 200,000-acre Texas ranch.</desc>
-    <date>19831217</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20260526175300 +0000" stop="20260526185700 +0000">
-    <title>Outlaws of Stampede Pass</title>
-    <category>Movie</category>
-    <desc>A blacksmith's daughter helps two lawmen round up a group of cattle rustlers.</desc>
-    <date>19430102</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/00f842d36c36f41966f934165b1f8b3e.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20260526185700 +0000" stop="20260526195900 +0000">
-    <title>Six Gun Gospel</title>
-    <category>Movie</category>
-    <desc>A gang hijacks shipments of gold from Goldville. Ace Benton, the town's leading citizen is trying to acquire all the town property, as he knows the railroad is planning a line through there.</desc>
-    <date>19430102</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6fe7500330aec85061d7c92ded07cfbf.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20260526195900 +0000" stop="20260526205700 +0000">
-    <title>Hell Town</title>
-    <category>Movie</category>
-    <desc>A rancher (John Mack Brown) makes his cousin (John Wayne) trail boss on a cattle drive headed for trouble.</desc>
-    <date>19380102</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f4da8a340587ec2eb3f1ada91afe8602.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20260526205700 +0000" stop="20260526222900 +0000">
-    <title>Allegheny Uprising</title>
-    <category>Movie</category>
-    <desc>A Colonial rebel (John Wayne) fights Indians, a British captain (George Sanders), and a seller of guns and liquor in Pennsylvania.</desc>
-    <date>19390102</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/4ae9640da727b7f1cb2643e6bd545c9e.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20260526222900 +0000" stop="20260527001200 +0000">
-    <title>Black Fox</title>
-    <category>Movie</category>
-    <desc>A white homesteader's black blood brother is sent to negotiate the release of their families from their Indian captors.</desc>
-    <date>19950102</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/38842e7f00ff16139f79ad989d85dac6.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20260527001200 +0000" stop="20260527015400 +0000">
-    <title>Black Fox: The Price of Peace</title>
-    <category>Movie</category>
-    <desc>In the 1860s Texas, a man whose abused wife fell in love with a Kiowa organizes a hunting party to recapture her.</desc>
-    <date>19950102</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b351074b30ee3f2edee673975217db31.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20260527015400 +0000" stop="20260527035500 +0000">
+<programme channel="6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4" start="20260527015400 +0000" stop="20260527035500 +0000">
     <title>Frank and Jesse</title>
     <category>Movie</category>
     <desc>A Pinkerton agent pursues the James (Rob Lowe, Bill Paxton) and Younger brothers as they rob banks, stagecoaches and trains.</desc>
@@ -226,12 +13,210 @@
     <icon src="https://metadata-static.plex.tv/4/gracenote/487fc44dcfbbb491e6f1186cb4c10210.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" start="20260527035500 +0000" stop="20260527052100 +0000">
+<programme channel="6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4" start="20260527035500 +0000" stop="20260527052100 +0000">
     <title>The Return of Jesse James</title>
     <category>Movie</category>
     <desc>The James gang rides again with the addition of a dead ringer (John Ireland) for the dead Jesse James.</desc>
     <date>19500102</date>
     <icon src="https://metadata-static.plex.tv/5/gracenote/5a5f437caa03f6135b38a5bd1c38d01d.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4" start="20260527052100 +0000" stop="20260527062500 +0000">
+    <title>Outlaws of Stampede Pass</title>
+    <category>Movie</category>
+    <desc>A blacksmith's daughter helps two lawmen round up a group of cattle rustlers.</desc>
+    <date>19430102</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/00f842d36c36f41966f934165b1f8b3e.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4" start="20260527062500 +0000" stop="20260527072700 +0000">
+    <title>Six Gun Gospel</title>
+    <category>Movie</category>
+    <desc>A gang hijacks shipments of gold from Goldville. Ace Benton, the town's leading citizen is trying to acquire all the town property, as he knows the railroad is planning a line through there.</desc>
+    <date>19430102</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6fe7500330aec85061d7c92ded07cfbf.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4" start="20260527072700 +0000" stop="20260527082500 +0000">
+    <title>Hell Town</title>
+    <category>Movie</category>
+    <desc>A rancher (John Mack Brown) makes his cousin (John Wayne) trail boss on a cattle drive headed for trouble.</desc>
+    <date>19380102</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f4da8a340587ec2eb3f1ada91afe8602.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4" start="20260527082500 +0000" stop="20260527095700 +0000">
+    <title>Allegheny Uprising</title>
+    <category>Movie</category>
+    <desc>A Colonial rebel (John Wayne) fights Indians, a British captain (George Sanders), and a seller of guns and liquor in Pennsylvania.</desc>
+    <date>19390102</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/4ae9640da727b7f1cb2643e6bd545c9e.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4" start="20260527095700 +0000" stop="20260527105300 +0000">
+    <title>Bonanza</title>
+    <sub-title>San Francisco</sub-title>
+    <episode-num system="onscreen">S01E28</episode-num>
+    <desc>Shortly after the Ponderosa cattle herd arrives in San Francisco at the hands of Hoss, Joe and Ben, two of their trail drivers are shanghaied and destined for Hong Kong.</desc>
+    <date>19600402</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/4859ebc65679542c4789fbf1656ebd3e.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4" start="20260527105300 +0000" stop="20260527114800 +0000">
+    <title>Bonanza</title>
+    <sub-title>Bitter Water</sub-title>
+    <episode-num system="onscreen">S01E29</episode-num>
+    <desc>When a neighbor agrees to sell his property, the Cartwrights fear the loss of water rights for their cattle.</desc>
+    <date>19600409</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/84f0b6aa28378420b3377265fab58239.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4" start="20260527114800 +0000" stop="20260527121800 +0000">
+    <title>The Adventures of Kit Carson</title>
+    <sub-title>Hide-Out</sub-title>
+    <episode-num system="onscreen">S02E21</episode-num>
+    <desc>An outlaw plans to take over a ranch and use it as a hideout for his gang.</desc>
+    <date>19521220</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/30056cef1ea9a7eacb3e6b00305857a6.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4" start="20260527121800 +0000" stop="20260527124800 +0000">
+    <title>The Adventures of Kit Carson</title>
+    <sub-title>The Broken Spur</sub-title>
+    <episode-num system="onscreen">S02E22</episode-num>
+    <desc>Kit and El Toro (Bill Williams, Don Diamond) are held up by the Slick Ears gang.</desc>
+    <date>19521227</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4" start="20260527124800 +0000" stop="20260527131600 +0000">
+    <title>The Adventures of Kit Carson</title>
+    <sub-title>Ventura Feud</sub-title>
+    <episode-num system="onscreen">S02E23</episode-num>
+    <desc>A woman wielding an odd pair of shears exposes herself as a murderess.</desc>
+    <date>19530103</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/da35e063b8f1e8c6e6dc3654d674a37e.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4" start="20260527131600 +0000" stop="20260527134600 +0000">
+    <title>The Adventures of Kit Carson</title>
+    <sub-title>Claim Jumpers</sub-title>
+    <episode-num system="onscreen">S02E25</episode-num>
+    <desc>A boss of a gang poses as an assayer in order to trick a man out of his money.</desc>
+    <date>19530117</date>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b5cbe0accae03ebe0a6e4bdc72c6c4c9.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4" start="20260527134600 +0000" stop="20260527141500 +0000">
+    <title>The Adventures of Kit Carson</title>
+    <sub-title>Mask of the Vigilantes</sub-title>
+    <episode-num system="onscreen">S02E26</episode-num>
+    <desc>An ex-outlaw decides that crooked politics are more profitable than crime.</desc>
+    <date>19530124</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4" start="20260527141500 +0000" stop="20260527144500 +0000">
+    <title>The Adventures of Kit Carson</title>
+    <sub-title>The Road to Monterey</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Kit and El Toro accompany Sen. Fowler to Monterey for security reasons.</desc>
+    <date>19510825</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4" start="20260527144500 +0000" stop="20260527151500 +0000">
+    <title>The Adventures of Kit Carson</title>
+    <sub-title>The Murango Story</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Kit and El Toro discover the body of Tad Morton's father.</desc>
+    <date>19510908</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8f7fef691aad829f81a3adbc9fb90e36.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4" start="20260527151500 +0000" stop="20260527154400 +0000">
+    <title>The Adventures of Kit Carson</title>
+    <sub-title>Law of the Frontier</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Outlaw Haggard impersonates the new sheriff of Green Valley to gain access to gold.</desc>
+    <date>19511013</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4" start="20260527154400 +0000" stop="20260527161400 +0000">
+    <title>The Adventures of Kit Carson</title>
+    <sub-title>Fury at Red Gulch</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>Tom Phillips is framed for murder because of his attempt to outlaw gambling.</desc>
+    <date>19511027</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/697e5f6de5ee96e31fa3d4401e98e1bb.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4" start="20260527161400 +0000" stop="20260527164400 +0000">
+    <title>The Adventures of Kit Carson</title>
+    <sub-title>The Desperate Sheriff</sub-title>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <desc>Kit and El Toro fight a bank robber and his gang.</desc>
+    <date>19511110</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4" start="20260527164400 +0000" stop="20260527173900 +0000">
+    <title>The Yellow Rose</title>
+    <sub-title>Divide and Conquer</sub-title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <desc>After Chance finds two dead cows on the ranch, it leads to Jeb Hollister making a contractual proposal to the Champions, with one caveat.</desc>
+    <date>19840107</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4" start="20260527173900 +0000" stop="20260527183400 +0000">
+    <title>The Yellow Rose</title>
+    <sub-title>Hell Hath No Fury</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>A widow and her two stepsons clash while running a 200,000-acre Texas ranch.</desc>
+    <date>19840114</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4" start="20260527183400 +0000" stop="20260527193900 +0000">
+    <title>The Stranger From Pecos</title>
+    <category>Movie</category>
+    <desc>A U.S. marshal (Johnny Mack Brown) and his sidekick (Raymond Hatton) catch a land-grabber in cahoots with a sheriff.</desc>
+    <date>19430102</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9aa57b56087948896284e0b408ca6468.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4" start="20260527193900 +0000" stop="20260527204300 +0000">
+    <title>The Texas Kid</title>
+    <category>Movie</category>
+    <desc>U.S. marshals (Johnny Mack Brown, Raymond Hatton) stop stagecoach robbers with help from one of the robbers (Marshall Reed).</desc>
+    <date>19430102</date>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/532ede46aed2f4194e4c264a86ac3864.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4" start="20260527204300 +0000" stop="20260527214500 +0000">
+    <title>Sagebrush Trail</title>
+    <category>Movie</category>
+    <desc>A man is falsely imprisoned on a murder charge, then escapes to join an outlaw gang and unmask the real killer.</desc>
+    <date>19330102</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8a910f465f56703d9ef437dd965449c2.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4" start="20260527214500 +0000" stop="20260527224500 +0000">
+    <title>Riders of Destiny</title>
+    <category>Movie</category>
+    <desc>Agent Saunders (John Wayne) becomes partners with Fay (Cecelia Parker) to help her fight off a gang run by a local land grabber.</desc>
+    <date>19330102</date>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/97d9fc8e74e7d09b298d6e3ff1d29123.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4" start="20260527224500 +0000" stop="20260528012800 +0000">
+    <title>Paid Programming</title>
+    <sub-title>Paid Programming</sub-title>
+    <desc>Paid programming.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4" start="20260528012800 +0000" stop="20260528034600 +0000">
+    <title>3:10 to Yuma</title>
+    <category>Movie</category>
+    <desc>A rancher (Christian Bale) and the captive outlaw (Russell Crowe) in his charge learn to respect each other on a dangerous journey to catch a train.</desc>
+    <date>20070102</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/daa5e0facf6cfeae8cb5514192a89e23.jpg" />
   </programme>
   
 </tv>

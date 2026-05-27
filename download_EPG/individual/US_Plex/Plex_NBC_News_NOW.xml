@@ -1,149 +1,43 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca">
+<channel id="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca">
     <display-name>NBC News NOW</display-name>
     <icon src="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/713ea11a46bcb609bc91c386c29076e6.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" start="20260526040000 +0000" stop="20260526050000 +0000">
+<programme channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca" start="20260527020000 +0000" stop="20260527023000 +0000">
+    <title>NBC Nightly News With Tom Llamas</title>
+    <sub-title>NBC Nightly News With Tom Llamas</sub-title>
+    <episode-num system="onscreen">S02E136</episode-num>
+    <desc>Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
+    <date>20260526</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca" start="20260527023000 +0000" stop="20260527033000 +0000">
+    <title>Stay Tuned NOW With Gadi Schwartz</title>
+    <sub-title>Stay Tuned NOW With Gadi Schwartz</sub-title>
+    <episode-num system="onscreen">S04E104</episode-num>
+    <desc>A fresh look at the day's news, from the latest breaking news to what's on the horizon.</desc>
+    <date>20260526</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca" start="20260527033000 +0000" stop="20260527040000 +0000">
+    <title>NBC Nightly News With Tom Llamas</title>
+    <sub-title>NBC Nightly News With Tom Llamas</sub-title>
+    <episode-num system="onscreen">S02E136</episode-num>
+    <desc>Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
+    <date>20260526</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca" start="20260527040000 +0000" stop="20260527050000 +0000">
     <title>Top Story With Tom Llamas</title>
     <sub-title>Top Story With Tom Llamas</sub-title>
-    <episode-num system="onscreen">S06E103</episode-num>
+    <episode-num system="onscreen">S06E104</episode-num>
     <desc>Reporting of breaking news and developing stories in real time.</desc>
-    <date>20260525</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" start="20260526050000 +0000" stop="20260526060000 +0000">
-    <title>Meet the Press NOW</title>
-    <sub-title>Meet the Press NOW</sub-title>
-    <episode-num system="onscreen">S05E103</episode-num>
-    <desc>Looking at the key stories of the day with political newsmakers.</desc>
-    <date>20260525</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" start="20260526060000 +0000" stop="20260526070000 +0000">
-    <title>Dateline NBC</title>
-    <sub-title>The Informant</sub-title>
-    <episode-num system="onscreen">S24E46</episode-num>
-    <desc>A woman's story about an abduction and murder helps reopen a decades-old case that has weighed heavy on a New York town.</desc>
-    <date>20160520</date>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d30f0517b31cb0ad4e3de9bc432f7509.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" start="20260526070000 +0000" stop="20260526090000 +0000">
-    <title>Dateline NBC</title>
-    <sub-title>The Promise</sub-title>
-    <episode-num system="onscreen">S23E44</episode-num>
-    <desc>The disappearance of a 20-year-old honors student causes her family to fear the worst; decades later, the mystery is solved.</desc>
-    <date>20150424</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/316f653827cc65d0a1f3ac6e3f81289c.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" start="20260526090000 +0000" stop="20260526093000 +0000">
-    <title>Early Today</title>
-    <sub-title>Early Today</sub-title>
-    <episode-num system="onscreen">S28E526</episode-num>
-    <desc>Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.</desc>
-    <date>20260525</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" start="20260526093000 +0000" stop="20260526100000 +0000">
-    <title>Early Today</title>
-    <sub-title>Early Today</sub-title>
-    <episode-num system="onscreen">S28E527</episode-num>
-    <desc>Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.</desc>
-    <date>20260525</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" start="20260526100000 +0000" stop="20260526103000 +0000">
-    <title>Early Today</title>
-    <sub-title>Early Today</sub-title>
-    <episode-num system="onscreen">S28E526</episode-num>
-    <desc>Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.</desc>
-    <date>20260525</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" start="20260526103000 +0000" stop="20260526110000 +0000">
-    <title>Early Today</title>
-    <sub-title>Early Today</sub-title>
-    <episode-num system="onscreen">S28E527</episode-num>
-    <desc>Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.</desc>
-    <date>20260525</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" start="20260526110000 +0000" stop="20260526120000 +0000">
-    <title>Morning News NOW</title>
-    <sub-title>Morning News NOW</sub-title>
-    <episode-num system="onscreen">S06E207</episode-num>
-    <desc>Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.</desc>
     <date>20260526</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" start="20260526120000 +0000" stop="20260526130000 +0000">
-    <title>Morning News NOW</title>
-    <sub-title>Morning News NOW</sub-title>
-    <episode-num system="onscreen">S06E208</episode-num>
-    <desc>Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" start="20260526130000 +0000" stop="20260526140000 +0000">
-    <title>Morning News NOW</title>
-    <sub-title>Morning News NOW</sub-title>
-    <episode-num system="onscreen">S06E207</episode-num>
-    <desc>Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" start="20260526140000 +0000" stop="20260526150000 +0000">
-    <title>Morning News NOW</title>
-    <sub-title>Morning News NOW</sub-title>
-    <episode-num system="onscreen">S06E208</episode-num>
-    <desc>Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" start="20260526150000 +0000" stop="20260526160000 +0000">
-    <title>Morning News NOW</title>
-    <sub-title>Morning News NOW</sub-title>
-    <episode-num system="onscreen">S06E208</episode-num>
-    <desc>Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" start="20260526160000 +0000" stop="20260526170000 +0000">
-    <title>NBC News Daily With Morgan Radford and Vicky Nguyen</title>
-    <sub-title>NBC News Daily With Morgan Radford and Vicky Nguyen</sub-title>
-    <episode-num system="onscreen">S05E207</episode-num>
-    <desc>NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" start="20260526170000 +0000" stop="20260526180000 +0000">
-    <title>NBC News Daily With Morgan Radford and Vicky Nguyen</title>
-    <sub-title>NBC News Daily With Morgan Radford and Vicky Nguyen</sub-title>
-    <episode-num system="onscreen">S05E208</episode-num>
-    <desc>NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" start="20260526180000 +0000" stop="20260526190000 +0000">
-    <title>NBC News Daily With Kate Snow and Zinhle Essamuah</title>
-    <sub-title>NBC News Daily With Kate Snow and Zinhle Essamuah</sub-title>
-    <episode-num system="onscreen">S04E207</episode-num>
-    <desc>NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" start="20260526190000 +0000" stop="20260526200000 +0000">
-    <title>NBC News Daily With Kate Snow and Zinhle Essamuah</title>
-    <sub-title>NBC News Daily With Kate Snow and Zinhle Essamuah</sub-title>
-    <episode-num system="onscreen">S04E208</episode-num>
-    <desc>NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" start="20260526200000 +0000" stop="20260526210000 +0000">
+<programme channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca" start="20260527050000 +0000" stop="20260527060000 +0000">
     <title>Meet the Press NOW</title>
     <sub-title>Meet the Press NOW</sub-title>
     <episode-num system="onscreen">S05E104</episode-num>
@@ -151,68 +45,174 @@
     <date>20260526</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" start="20260526210000 +0000" stop="20260526230000 +0000">
+<programme channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca" start="20260527060000 +0000" stop="20260527070000 +0000">
+    <title>Dateline NBC</title>
+    <sub-title>Graduation Night</sub-title>
+    <episode-num system="onscreen">S22E28</episode-num>
+    <desc>A random post on a social networking site changes everything about a case that put two brothers in prison for more than two decades.</desc>
+    <date>20140404</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/425eb2a0a3d27f16176f8f86c0115c9f.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca" start="20260527070000 +0000" stop="20260527090000 +0000">
+    <title>Dateline NBC</title>
+    <sub-title>Plot Twist</sub-title>
+    <episode-num system="onscreen">S24E16</episode-num>
+    <desc>Rachel Buffett, whose former fiancé, Daniel Wozniak, was convicted of two grisly murders, talks about being at the center of the investigation.</desc>
+    <date>20160115</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/daee04e3b912a5bb97bc2392f821f514.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca" start="20260527090000 +0000" stop="20260527093000 +0000">
+    <title>Early Today</title>
+    <sub-title>Early Today</sub-title>
+    <episode-num system="onscreen">S28E529</episode-num>
+    <desc>Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.</desc>
+    <date>20260526</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca" start="20260527093000 +0000" stop="20260527100000 +0000">
+    <title>Early Today</title>
+    <sub-title>Early Today</sub-title>
+    <episode-num system="onscreen">S28E530</episode-num>
+    <desc>Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.</desc>
+    <date>20260526</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca" start="20260527100000 +0000" stop="20260527103000 +0000">
+    <title>Early Today</title>
+    <sub-title>Early Today</sub-title>
+    <episode-num system="onscreen">S28E529</episode-num>
+    <desc>Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.</desc>
+    <date>20260526</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca" start="20260527103000 +0000" stop="20260527110000 +0000">
+    <title>Early Today</title>
+    <sub-title>Early Today</sub-title>
+    <episode-num system="onscreen">S28E530</episode-num>
+    <desc>Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.</desc>
+    <date>20260526</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca" start="20260527110000 +0000" stop="20260527120000 +0000">
+    <title>Morning News NOW</title>
+    <sub-title>Morning News NOW</sub-title>
+    <episode-num system="onscreen">S06E209</episode-num>
+    <desc>Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca" start="20260527120000 +0000" stop="20260527130000 +0000">
+    <title>Morning News NOW</title>
+    <sub-title>Morning News NOW</sub-title>
+    <episode-num system="onscreen">S06E210</episode-num>
+    <desc>Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca" start="20260527130000 +0000" stop="20260527140000 +0000">
+    <title>Morning News NOW</title>
+    <sub-title>Morning News NOW</sub-title>
+    <episode-num system="onscreen">S06E209</episode-num>
+    <desc>Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca" start="20260527140000 +0000" stop="20260527150000 +0000">
+    <title>Morning News NOW</title>
+    <sub-title>Morning News NOW</sub-title>
+    <episode-num system="onscreen">S06E210</episode-num>
+    <desc>Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca" start="20260527150000 +0000" stop="20260527160000 +0000">
+    <title>Morning News NOW</title>
+    <sub-title>Morning News NOW</sub-title>
+    <episode-num system="onscreen">S06E210</episode-num>
+    <desc>Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca" start="20260527160000 +0000" stop="20260527170000 +0000">
+    <title>NBC News Daily With Morgan Radford and Vicky Nguyen</title>
+    <sub-title>NBC News Daily With Morgan Radford and Vicky Nguyen</sub-title>
+    <episode-num system="onscreen">S05E209</episode-num>
+    <desc>NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca" start="20260527170000 +0000" stop="20260527180000 +0000">
+    <title>NBC News Daily With Morgan Radford and Vicky Nguyen</title>
+    <sub-title>NBC News Daily With Morgan Radford and Vicky Nguyen</sub-title>
+    <episode-num system="onscreen">S05E210</episode-num>
+    <desc>NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca" start="20260527180000 +0000" stop="20260527190000 +0000">
+    <title>NBC News Daily With Kate Snow and Zinhle Essamuah</title>
+    <sub-title>NBC News Daily With Kate Snow and Zinhle Essamuah</sub-title>
+    <episode-num system="onscreen">S04E209</episode-num>
+    <desc>NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca" start="20260527190000 +0000" stop="20260527200000 +0000">
+    <title>NBC News Daily With Kate Snow and Zinhle Essamuah</title>
+    <sub-title>NBC News Daily With Kate Snow and Zinhle Essamuah</sub-title>
+    <episode-num system="onscreen">S04E210</episode-num>
+    <desc>NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca" start="20260527200000 +0000" stop="20260527210000 +0000">
+    <title>Meet the Press NOW</title>
+    <sub-title>Meet the Press NOW</sub-title>
+    <episode-num system="onscreen">S05E105</episode-num>
+    <desc>Looking at the key stories of the day with political newsmakers.</desc>
+    <date>20260527</date>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca" start="20260527210000 +0000" stop="20260527230000 +0000">
     <title>Hallie Jackson NOW</title>
     <sub-title>Hallie Jackson NOW</sub-title>
-    <episode-num system="onscreen">S06E104</episode-num>
+    <episode-num system="onscreen">S06E105</episode-num>
     <desc>Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.</desc>
-    <date>20260526</date>
+    <date>20260527</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" start="20260526230000 +0000" stop="20260527000000 +0000">
+<programme channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca" start="20260527230000 +0000" stop="20260528000000 +0000">
     <title>Top Story With Tom Llamas</title>
     <sub-title>Top Story With Tom Llamas</sub-title>
-    <episode-num system="onscreen">S06E104</episode-num>
+    <episode-num system="onscreen">S06E105</episode-num>
     <desc>Reporting of breaking news and developing stories in real time.</desc>
-    <date>20260526</date>
+    <date>20260527</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" start="20260527000000 +0000" stop="20260527010000 +0000">
+<programme channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca" start="20260528000000 +0000" stop="20260528010000 +0000">
     <title>Stay Tuned NOW With Gadi Schwartz</title>
     <sub-title>Stay Tuned NOW With Gadi Schwartz</sub-title>
-    <episode-num system="onscreen">S04E104</episode-num>
+    <episode-num system="onscreen">S04E105</episode-num>
     <desc>A fresh look at the day's news, from the latest breaking news to what's on the horizon.</desc>
-    <date>20260526</date>
+    <date>20260527</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" start="20260527010000 +0000" stop="20260527020000 +0000">
+<programme channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca" start="20260528010000 +0000" stop="20260528020000 +0000">
     <title>Top Story With Tom Llamas</title>
     <sub-title>Top Story With Tom Llamas</sub-title>
-    <episode-num system="onscreen">S06E104</episode-num>
+    <episode-num system="onscreen">S06E105</episode-num>
     <desc>Reporting of breaking news and developing stories in real time.</desc>
-    <date>20260526</date>
+    <date>20260527</date>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" start="20260527020000 +0000" stop="20260527023000 +0000">
+<programme channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca" start="20260528020000 +0000" stop="20260528023000 +0000">
     <title>NBC Nightly News With Tom Llamas</title>
     <sub-title>NBC Nightly News With Tom Llamas</sub-title>
-    <episode-num system="onscreen">S02E136</episode-num>
+    <episode-num system="onscreen">S02E137</episode-num>
     <desc>Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" start="20260527023000 +0000" stop="20260527033000 +0000">
-    <title>Stay Tuned NOW With Gadi Schwartz</title>
-    <sub-title>Stay Tuned NOW With Gadi Schwartz</sub-title>
-    <episode-num system="onscreen">S04E104</episode-num>
-    <desc>A fresh look at the day's news, from the latest breaking news to what's on the horizon.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" start="20260527033000 +0000" stop="20260527040000 +0000">
-    <title>NBC Nightly News With Tom Llamas</title>
-    <sub-title>NBC Nightly News With Tom Llamas</sub-title>
-    <episode-num system="onscreen">S02E136</episode-num>
-    <desc>Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
-    <date>20260526</date>
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" start="20260527040000 +0000" stop="20260527050000 +0000">
-    <title>Top Story With Tom Llamas</title>
-    <sub-title>Top Story With Tom Llamas</sub-title>
-    <episode-num system="onscreen">S06E104</episode-num>
-    <desc>Reporting of breaking news and developing stories in real time.</desc>
-    <date>20260526</date>
+    <date>20260527</date>
   </programme>
   
 </tv>

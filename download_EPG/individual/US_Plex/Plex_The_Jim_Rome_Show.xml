@@ -1,284 +1,67 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73">
+<channel id="6a1610bebdf296985fd95603-66b2a9acc0ebb601ab4b1e73">
     <display-name>The Jim Rome Show</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/1b1a6ed3-e206-41a5-810a-fbdd0df39dc9/PLEX_1500x1000px_-_Logo_for_Light_BackgroundRDXCOLOR.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526035327 +0000" stop="20260526042201 +0000">
-    <title>The Jim Rome Podcast</title>
-    <sub-title>Jayson Werth</sub-title>
-    <episode-num system="onscreen">S01E51</episode-num>
-    <desc>Former MLB outfielder Jayson Werth discusses his passion for horse racing.</desc>
-    <date>20240815</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/306743_494427_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526042201 +0000" stop="20260526045034 +0000">
-    <title>The Jim Rome Podcast</title>
-    <sub-title>Boomer Esiason</sub-title>
-    <episode-num system="onscreen">S01E43</episode-num>
-    <desc>Boomer Esiason reflects on his journey from NFL MVP to media mainstay.</desc>
-    <date>20240815</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/306735_494419_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526045034 +0000" stop="20260526051907 +0000">
-    <title>The Jim Rome Podcast</title>
-    <sub-title>Adam Rank</sub-title>
-    <episode-num system="onscreen">S01E47</episode-num>
-    <desc>NFL Network's Adam Rank joins Jim Rome to discuss his deep-rooted Jungle fandom.</desc>
-    <date>20240815</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/306739_494423_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526051907 +0000" stop="20260526054740 +0000">
-    <title>The Reinvention Project</title>
-    <sub-title>Leif Babin</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Former Navy SEAL Leif Babin discusses the dichotomy of leadership.</desc>
-    <date>20240815</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/306805_494489_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526054740 +0000" stop="20260526063845 +0000">
-    <title>The Reinvention Project</title>
-    <sub-title>Scott Cochran</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Scott Cochran discusses his transition.</desc>
-    <date>20240901</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/306802_494486_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526063845 +0000" stop="20260526070723 +0000">
-    <title>The Reinvention Project</title>
-    <sub-title>Dan Harris</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Dan Harris discusses his on-air panic attack.</desc>
-    <date>20240901</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/306803_494487_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526070723 +0000" stop="20260526080500 +0000">
-    <title>The Reinvention Project</title>
-    <sub-title>Damon West</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Damon West shares his powerful story of going from Wall Street to homelessness.</desc>
-    <date>20240916</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/306801_494485_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526080500 +0000" stop="20260526083203 +0000">
-    <title>The Jim Rome Podcast(series, 2024)</title>
-    <sub-title>Charles Tillman</sub-title>
-    <episode-num system="onscreen">S01E30</episode-num>
-    <desc>Charles "Peanut" Tillman discusses the origins of his competitive drive.</desc>
-    <date>20240901</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/306722_494406_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526083203 +0000" stop="20260526085906 +0000">
-    <title>The Jim Rome Podcast</title>
-    <sub-title>Dave Wannstedt</sub-title>
-    <episode-num system="onscreen">S01E27</episode-num>
-    <desc>Rome goes deep with various athletes.</desc>
-    <date>20240915</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/306719_494403_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526085906 +0000" stop="20260526092624 +0000">
-    <title>The Jim Rome Podcast</title>
-    <sub-title>Ryan Howard</sub-title>
-    <episode-num system="onscreen">S01E46</episode-num>
-    <desc>Ryan Howard discusses his vision for expanding the Negro Leagues Baseball Museum,.</desc>
-    <date>20240815</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/306738_494422_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526092624 +0000" stop="20260526095327 +0000">
-    <title>The Jim Rome Podcast(series, 2024)</title>
-    <sub-title>Harry Douglas</sub-title>
-    <episode-num system="onscreen">S01E34</episode-num>
-    <desc>Rome goes deep with various athletes, coaches, and personalities.</desc>
-    <date>20240901</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/306726_494410_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526095327 +0000" stop="20260526102201 +0000">
-    <title>The Jim Rome Podcast</title>
-    <sub-title>Jayson Werth</sub-title>
-    <episode-num system="onscreen">S01E51</episode-num>
-    <desc>Former MLB outfielder Jayson Werth discusses his passion for horse racing.</desc>
-    <date>20240815</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/306743_494427_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526102201 +0000" stop="20260526105034 +0000">
-    <title>The Jim Rome Podcast</title>
-    <sub-title>Boomer Esiason</sub-title>
-    <episode-num system="onscreen">S01E43</episode-num>
-    <desc>Boomer Esiason reflects on his journey from NFL MVP to media mainstay.</desc>
-    <date>20240815</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/306735_494419_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526105034 +0000" stop="20260526111907 +0000">
-    <title>The Jim Rome Podcast</title>
-    <sub-title>Adam Rank</sub-title>
-    <episode-num system="onscreen">S01E47</episode-num>
-    <desc>NFL Network's Adam Rank joins Jim Rome to discuss his deep-rooted Jungle fandom.</desc>
-    <date>20240815</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/306739_494423_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526111907 +0000" stop="20260526114740 +0000">
-    <title>The Reinvention Project</title>
-    <sub-title>Leif Babin</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Former Navy SEAL Leif Babin discusses the dichotomy of leadership.</desc>
-    <date>20240815</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/306805_494489_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526114740 +0000" stop="20260526123846 +0000">
-    <title>The Reinvention Project</title>
-    <sub-title>Scott Cochran</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Scott Cochran discusses his transition.</desc>
-    <date>20240901</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/306802_494486_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526123846 +0000" stop="20260526130723 +0000">
-    <title>The Reinvention Project</title>
-    <sub-title>Dan Harris</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Dan Harris discusses his on-air panic attack.</desc>
-    <date>20240901</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/306803_494487_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526130723 +0000" stop="20260526140500 +0000">
-    <title>The Reinvention Project</title>
-    <sub-title>Damon West</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Damon West shares his powerful story of going from Wall Street to homelessness.</desc>
-    <date>20240916</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/306801_494485_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526140500 +0000" stop="20260526143203 +0000">
-    <title>The Jim Rome Podcast(series, 2024)</title>
-    <sub-title>Charles Tillman</sub-title>
-    <episode-num system="onscreen">S01E30</episode-num>
-    <desc>Charles "Peanut" Tillman discusses the origins of his competitive drive.</desc>
-    <date>20240901</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/306722_494406_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526143203 +0000" stop="20260526145906 +0000">
-    <title>The Jim Rome Podcast</title>
-    <sub-title>Dave Wannstedt</sub-title>
-    <episode-num system="onscreen">S01E27</episode-num>
-    <desc>Rome goes deep with various athletes.</desc>
-    <date>20240915</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/306719_494403_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526145906 +0000" stop="20260526152624 +0000">
-    <title>The Jim Rome Podcast</title>
-    <sub-title>Ryan Howard</sub-title>
-    <episode-num system="onscreen">S01E46</episode-num>
-    <desc>Ryan Howard discusses his vision for expanding the Negro Leagues Baseball Museum,.</desc>
-    <date>20240815</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/306738_494422_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526152624 +0000" stop="20260526155328 +0000">
-    <title>The Jim Rome Podcast(series, 2024)</title>
-    <sub-title>Harry Douglas</sub-title>
-    <episode-num system="onscreen">S01E34</episode-num>
-    <desc>Rome goes deep with various athletes, coaches, and personalities.</desc>
-    <date>20240901</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/306726_494410_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526155328 +0000" stop="20260526162201 +0000">
-    <title>The Jim Rome Podcast</title>
-    <sub-title>Jayson Werth</sub-title>
-    <episode-num system="onscreen">S01E51</episode-num>
-    <desc>Former MLB outfielder Jayson Werth discusses his passion for horse racing.</desc>
-    <date>20240815</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/306743_494427_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526162201 +0000" stop="20260526165034 +0000">
-    <title>The Jim Rome Podcast</title>
-    <sub-title>Boomer Esiason</sub-title>
-    <episode-num system="onscreen">S01E43</episode-num>
-    <desc>Boomer Esiason reflects on his journey from NFL MVP to media mainstay.</desc>
-    <date>20240815</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/306735_494419_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526165034 +0000" stop="20260526171907 +0000">
-    <title>The Jim Rome Podcast</title>
-    <sub-title>Adam Rank</sub-title>
-    <episode-num system="onscreen">S01E47</episode-num>
-    <desc>NFL Network's Adam Rank joins Jim Rome to discuss his deep-rooted Jungle fandom.</desc>
-    <date>20240815</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/306739_494423_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526171907 +0000" stop="20260526174741 +0000">
-    <title>The Reinvention Project</title>
-    <sub-title>Leif Babin</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Former Navy SEAL Leif Babin discusses the dichotomy of leadership.</desc>
-    <date>20240815</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/306805_494489_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526174741 +0000" stop="20260526183846 +0000">
-    <title>The Reinvention Project</title>
-    <sub-title>Scott Cochran</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Scott Cochran discusses his transition.</desc>
-    <date>20240901</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/306802_494486_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526183846 +0000" stop="20260526190000 +0000">
-    <title>The Reinvention Project</title>
-    <sub-title>Dan Harris</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Dan Harris discusses his on-air panic attack.</desc>
-    <date>20240901</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/306803_494487_thumb.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526190000 +0000" stop="20260526220000 +0000">
+<programme channel="6a1610bebdf296985fd95603-66b2a9acc0ebb601ab4b1e73" start="20260527010000 +0000" stop="20260527040000 +0000">
     <title>Jim Rome Show Replay</title>
     <category>Movie</category>
     <desc>Jim Rome's daily sports show delivers bold takes and big-name guests from across the NFL, NBA, MLB and more.</desc>
     <icon src="https://d37ntihvjf07l3.cloudfront.net/JIM_ROME_Program_2_3.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260526220000 +0000" stop="20260527010000 +0000">
+<programme channel="6a1610bebdf296985fd95603-66b2a9acc0ebb601ab4b1e73" start="20260527040000 +0000" stop="20260527070000 +0000">
     <title>Jim Rome Show Replay</title>
     <category>Movie</category>
     <desc>Jim Rome's daily sports show delivers bold takes and big-name guests from across the NFL, NBA, MLB and more.</desc>
     <icon src="https://d37ntihvjf07l3.cloudfront.net/JIM_ROME_Program_2_3.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260527010000 +0000" stop="20260527040000 +0000">
+<programme channel="6a1610bebdf296985fd95603-66b2a9acc0ebb601ab4b1e73" start="20260527070000 +0000" stop="20260527100000 +0000">
     <title>Jim Rome Show Replay</title>
     <category>Movie</category>
     <desc>Jim Rome's daily sports show delivers bold takes and big-name guests from across the NFL, NBA, MLB and more.</desc>
     <icon src="https://d37ntihvjf07l3.cloudfront.net/JIM_ROME_Program_2_3.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66b2a9acc0ebb601ab4b1e73" start="20260527040000 +0000" stop="20260527070000 +0000">
+<programme channel="6a1610bebdf296985fd95603-66b2a9acc0ebb601ab4b1e73" start="20260527100000 +0000" stop="20260527130000 +0000">
+    <title>Jim Rome Show Replay</title>
+    <category>Movie</category>
+    <desc>Jim Rome's daily sports show delivers bold takes and big-name guests from across the NFL, NBA, MLB and more.</desc>
+    <icon src="https://d37ntihvjf07l3.cloudfront.net/JIM_ROME_Program_2_3.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66b2a9acc0ebb601ab4b1e73" start="20260527130000 +0000" stop="20260527160000 +0000">
+    <title>Jim Rome Show Replay</title>
+    <category>Movie</category>
+    <desc>Jim Rome's daily sports show delivers bold takes and big-name guests from across the NFL, NBA, MLB and more.</desc>
+    <icon src="https://d37ntihvjf07l3.cloudfront.net/JIM_ROME_Program_2_3.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66b2a9acc0ebb601ab4b1e73" start="20260527160000 +0000" stop="20260527190000 +0000">
+    <title>Jim Rome Show Replay</title>
+    <category>Movie</category>
+    <desc>Jim Rome's daily sports show delivers bold takes and big-name guests from across the NFL, NBA, MLB and more.</desc>
+    <icon src="https://d37ntihvjf07l3.cloudfront.net/JIM_ROME_Program_2_3.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66b2a9acc0ebb601ab4b1e73" start="20260527190000 +0000" stop="20260527220000 +0000">
+    <title>Jim Rome Show Replay</title>
+    <category>Movie</category>
+    <desc>Jim Rome's daily sports show delivers bold takes and big-name guests from across the NFL, NBA, MLB and more.</desc>
+    <icon src="https://d37ntihvjf07l3.cloudfront.net/JIM_ROME_Program_2_3.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66b2a9acc0ebb601ab4b1e73" start="20260527220000 +0000" stop="20260528010000 +0000">
+    <title>Jim Rome Show Replay</title>
+    <category>Movie</category>
+    <desc>Jim Rome's daily sports show delivers bold takes and big-name guests from across the NFL, NBA, MLB and more.</desc>
+    <icon src="https://d37ntihvjf07l3.cloudfront.net/JIM_ROME_Program_2_3.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66b2a9acc0ebb601ab4b1e73" start="20260528010000 +0000" stop="20260528040000 +0000">
     <title>Jim Rome Show Replay</title>
     <category>Movie</category>
     <desc>Jim Rome's daily sports show delivers bold takes and big-name guests from across the NFL, NBA, MLB and more.</desc>

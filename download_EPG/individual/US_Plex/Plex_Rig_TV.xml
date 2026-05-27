@@ -1,312 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77">
+<channel id="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77">
     <display-name>Rig TV</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/cab375d6-3971-46c5-bd2e-66dc640879d2/RIGTV_Logo_White_1500X1000_.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526033538 +0000" stop="20260526042546 +0000">
-    <title>Jay Leno's Garage</title>
-    <sub-title>Cutting Edge</sub-title>
-    <episode-num system="onscreen">S08E02</episode-num>
-    <desc>Discover why firetrucks may go electric and how a Toyota Land Cruiser was adapted for firefighting in Japan.</desc>
-    <date>20240930</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/Jay_Lenos_Garage_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526042546 +0000" stop="20260526052215 +0000">
-    <title>Monster House</title>
-    <sub-title>Sports House</sub-title>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <desc>Watching the Super Bowl will never be the same on the ultimate sport’s fan sofa.</desc>
-    <date>20040202</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/MonsterHouse_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526052215 +0000" stop="20260526061845 +0000">
-    <title>Monster House</title>
-    <sub-title>Mardi Gras House</sub-title>
-    <episode-num system="onscreen">S02E07</episode-num>
-    <desc>It's a Mardi Gras-themed house in Las Vegas. Hello. Can you say "party"? We knew you could.</desc>
-    <date>20040301</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/MonsterHouse_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526061845 +0000" stop="20260526071515 +0000">
-    <title>Monster House</title>
-    <sub-title>Ancient Rome House</sub-title>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <desc>If he hadn't died back in 71 B.C., Spartacus would be jealous. Like, wicked jealous.</desc>
-    <date>20040809</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/MonsterHouse_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526071515 +0000" stop="20260526081145 +0000">
-    <title>Monster House</title>
-    <sub-title>Viking House</sub-title>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <desc>Can you make a deck out of a Viking funeral ship? Just don’t warn the neighbors!</desc>
-    <date>20040412</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/MonsterHouse_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526081145 +0000" stop="20260526090815 +0000">
-    <title>Monster House</title>
-    <sub-title>Mad Scientist House</sub-title>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <desc>Our insane homeowner wants to turn his ho-hum home into a monster! So he calls up the evil Dr. Watson.</desc>
-    <date>20040419</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/MonsterHouse_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526090815 +0000" stop="20260526100445 +0000">
-    <title>Monster House</title>
-    <sub-title>New York House</sub-title>
-    <episode-num system="onscreen">S02E11</episode-num>
-    <desc>Start spreading the neeeeewwwwwsss… about a dining table that looks just like the Triborough Bridge.</desc>
-    <date>20040503</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/MonsterHouse_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526100445 +0000" stop="20260526105459 +0000">
-    <title>Pitchmen: Gadgets to Glory</title>
-    <sub-title>From The Jaws Of Victory</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>After Ethan Zohn fell asleep with a bowl of cereal on his lap, an idea was born.</desc>
-    <date>20160105</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/Pitchmen_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526105459 +0000" stop="20260526114513 +0000">
-    <title>Pitchmen: Gadgets to Glory</title>
-    <sub-title>Grater Education</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Former pitchman Jeremy Parker, needs that one break to jumpstart his career and get out of debt.</desc>
-    <date>20160112</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/Pitchmen_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526114513 +0000" stop="20260526123527 +0000">
-    <title>Pitchmen: Gadgets to Glory</title>
-    <sub-title>Digging For Dollars</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Billy and Sully take the Zorbeez, the original Sham-Wow to the airwaves, launching a comeback.</desc>
-    <date>20090610</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/Pitchmen_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526123527 +0000" stop="20260526132541 +0000">
-    <title>Pitchmen: Gadgets to Glory</title>
-    <sub-title>Crunch Time</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>The heartwarming story of a product developed by a pitch guy who lost his legs.</desc>
-    <date>20090617</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/Pitchmen_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526132541 +0000" stop="20260526141555 +0000">
-    <title>Pitchmen: Gadgets to Glory</title>
-    <sub-title>Tale of Three Billy's</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Zach Richey invents GATOR BLADE, a product strong enough to clean up the bloodbath on windshields.</desc>
-    <date>20090624</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/Pitchmen_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526141555 +0000" stop="20260526150609 +0000">
-    <title>Pitchmen: Gadgets to Glory</title>
-    <sub-title>Revenge of the Pitchmen</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Billy works with marketing giant Church and Dwight to revisit his old hit bathroom cleaner, Kaboom.</desc>
-    <date>20090701</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/Pitchmen_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526150609 +0000" stop="20260526155622 +0000">
-    <title>Pitchmen: Gadgets to Glory</title>
-    <sub-title>Pitchmen: A Tribute to Billy Mays</sub-title>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <desc>Billy and Sully work with John Miller, marketer of Mighty Shine, to turn his product into a hit.</desc>
-    <date>20090708</date>
-    <icon src="https://d3b6szcg0ko948.cloudfront.net/Pitchmen_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526155622 +0000" stop="20260526162212 +0000">
-    <title>Wardens</title>
-    <category>Movie</category>
-    <desc>Northern Montana faces a winter storm. Wardens catch a liar at a check station and chase a decoy shooter.</desc>
-    <date>20150525</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/0e128a98-32c6-41fa-bf97-068984ca369d/RigTV_StorageWars_FathersDay_2000x3000_-_Patty_Gopez.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526162212 +0000" stop="20260526164805 +0000">
-    <title>Wardens</title>
-    <category>Movie</category>
-    <desc>This week Warden Lesofski searches out a hunting party that left their elk to rot. While Region 2 Wardens rush into a volatile situation after their decoy is shot from the road.</desc>
-    <date>20150525</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/0e128a98-32c6-41fa-bf97-068984ca369d/RigTV_StorageWars_FathersDay_2000x3000_-_Patty_Gopez.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526164805 +0000" stop="20260526171354 +0000">
-    <title>Wardens</title>
-    <category>Movie</category>
-    <desc>A riverside check station catches four minors with no life jackets and a lot of alcohol. Then Warden Golie stops two car full of minors that should not be behind the wheel.</desc>
-    <date>20150525</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/0e128a98-32c6-41fa-bf97-068984ca369d/RigTV_StorageWars_FathersDay_2000x3000_-_Patty_Gopez.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526171354 +0000" stop="20260526173947 +0000">
-    <title>Wardens</title>
-    <category>Movie</category>
-    <desc>A check station outside of Billings stops a guy who refuses to tell the truth. Investigating who shot the deer reveals a long history of game violations.</desc>
-    <date>20150525</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/0e128a98-32c6-41fa-bf97-068984ca369d/RigTV_StorageWars_FathersDay_2000x3000_-_Patty_Gopez.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526173947 +0000" stop="20260526180534 +0000">
-    <title>Wardens</title>
-    <category>Movie</category>
-    <desc>A trophy bull elk's head is shot and hidden. Wardens stake it out for months, then track it with high-tech gear to catch the suspect.</desc>
-    <date>20150525</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/0e128a98-32c6-41fa-bf97-068984ca369d/RigTV_StorageWars_FathersDay_2000x3000_-_Patty_Gopez.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526180534 +0000" stop="20260526185517 +0000">
-    <title>Wild Justice</title>
-    <sub-title>Operation Imposter</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <desc>Wardens in Central California pursue a convicted felon and protect wildlife across the state.</desc>
-    <date>20120311</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/a6cf50989b398727ce507d6e3e11844d.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526185517 +0000" stop="20260526194459 +0000">
-    <title>Wild Justice</title>
-    <sub-title>Snake Shakedown</sub-title>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <desc>California wardens crack down on abalone poaching and use DNA to solve deer beheadings.</desc>
-    <date>20120514</date>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/202efebbb386bab2306cdbaafcc1179c.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526194459 +0000" stop="20260526203444 +0000">
-    <title>Wild Justice</title>
-    <sub-title>Poacher Compound</sub-title>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <desc>Wardens raid a guarded poacher’s lair and safeguard salmon from illegal fishing.</desc>
-    <date>20120423</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/ba780ba010f5aeb6b6d58c6748ce8964.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526203444 +0000" stop="20260526210009 +0000">
-    <title>Dropped</title>
-    <sub-title>Rising Waters</sub-title>
-    <episode-num system="onscreen">S03E05</episode-num>
-    <desc>Chris and Casey Keefer continue downriver and get caught in an epic Alaskan rainstorm.</desc>
-    <date>20140128</date>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/roku_down_link/RigTv_ChannelLogo_horz_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526210009 +0000" stop="20260526212552 +0000">
-    <title>Dropped</title>
-    <sub-title>All Eyes On Us</sub-title>
-    <episode-num system="onscreen">S03E06</episode-num>
-    <desc>Chris and Casey edge closer to extraction while a grizzly jeopardizes their safety.</desc>
-    <date>20140204</date>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/roku_down_link/RigTv_ChannelLogo_horz_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526212552 +0000" stop="20260526215134 +0000">
-    <title>Dropped</title>
-    <sub-title>Salmon Island</sub-title>
-    <episode-num system="onscreen">S03E07</episode-num>
-    <desc>Chris and Casey Keefer head downriver toward an area they believe holds several moose.</desc>
-    <date>20140211</date>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/roku_down_link/RigTv_ChannelLogo_horz_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526215134 +0000" stop="20260526221755 +0000">
-    <title>Operation Repo</title>
-    <sub-title>Hard Turns Ahead</sub-title>
-    <episode-num system="onscreen">S08E19</episode-num>
-    <desc>Sonia holds Froy’s secret over his head while an Oktoberfest celebration comes to an end.</desc>
-    <date>20110720</date>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/roku_down_link/RigTv_ChannelLogo_horz_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526221755 +0000" stop="20260526224416 +0000">
-    <title>Operation Repo</title>
-    <sub-title>Minutes of Fame</sub-title>
-    <episode-num system="onscreen">S08E20</episode-num>
-    <desc>Tensions rise over Matt’s ownership while thrill-seeking teens lose their rides.</desc>
-    <date>20110727</date>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/roku_down_link/RigTv_ChannelLogo_horz_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526224416 +0000" stop="20260526231037 +0000">
-    <title>Operation Repo</title>
-    <sub-title>New Truck Day</sub-title>
-    <episode-num system="onscreen">S08E21</episode-num>
-    <desc>The arrival of the team’s brand-new truck draws a deeper divide between team Lou and team Matt.</desc>
-    <date>20110803</date>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/roku_down_link/RigTv_ChannelLogo_horz_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526231037 +0000" stop="20260526233658 +0000">
-    <title>Operation Repo</title>
-    <sub-title>A Blow to the Head</sub-title>
-    <episode-num system="onscreen">S08E22</episode-num>
-    <desc>A wily drunk loses a fight to defend his Dodge Charger while Froy takes a briefcase to the head.</desc>
-    <date>20110810</date>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/roku_down_link/RigTv_ChannelLogo_horz_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260526233658 +0000" stop="20260527000319 +0000">
-    <title>Operation Repo</title>
-    <sub-title>Burning Up</sub-title>
-    <episode-num system="onscreen">S08E23</episode-num>
-    <desc>Lou's relationship with Matt starts to unravel when a botched job puts strain on the company.</desc>
-    <date>20110824</date>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/roku_down_link/RigTv_ChannelLogo_horz_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260527000319 +0000" stop="20260527003221 +0000">
-    <title>Somebody's Gotta Do It</title>
-    <sub-title>Bandaloop</sub-title>
-    <episode-num system="onscreen">S03E15</episode-num>
-    <desc>Mike joins a gravity defying dance troop that dances vertically on Oakland's Great Wall.</desc>
-    <date>20141008</date>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/roku_down_link/RigTv_ChannelLogo_horz_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260527003221 +0000" stop="20260527010127 +0000">
-    <title>Somebody's Gotta Do It</title>
-    <sub-title>Lamon Luther</sub-title>
-    <episode-num system="onscreen">S03E16</episode-num>
-    <desc>Mike uses reclaimed wood to help build furniture with people trying to reclaim their lives.</desc>
-    <date>20141008</date>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/roku_down_link/RigTv_ChannelLogo_horz_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260527010127 +0000" stop="20260527013027 +0000">
-    <title>Somebody's Gotta Do It</title>
-    <sub-title>Burt's Pumpkin Shampoo</sub-title>
-    <episode-num system="onscreen">S03E17</episode-num>
-    <desc>Mike joins the Burt family in their journey of making pumpkin soap and shampoo.</desc>
-    <date>20141008</date>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/roku_down_link/RigTv_ChannelLogo_horz_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260527013027 +0000" stop="20260527015935 +0000">
-    <title>Somebody's Gotta Do It</title>
-    <sub-title>Drones and Tanks</sub-title>
-    <episode-num system="onscreen">S03E18</episode-num>
-    <desc>Mike learns the skills of drone racing and visits an attraction where people crush cars with a tank.</desc>
-    <date>20141008</date>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/roku_down_link/RigTv_ChannelLogo_horz_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260527015935 +0000" stop="20260527025044 +0000">
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527015935 +0000" stop="20260527025044 +0000">
     <title>Jay Leno's Garage</title>
     <sub-title>More Power</sub-title>
     <episode-num system="onscreen">S08E03</episode-num>
@@ -315,7 +14,7 @@
     <icon src="https://d3b6szcg0ko948.cloudfront.net/Jay_Lenos_Garage_1920x1080.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260527025044 +0000" stop="20260527034131 +0000">
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527025044 +0000" stop="20260527034131 +0000">
     <title>Jay Leno's Garage</title>
     <sub-title>Racing Pedigree</sub-title>
     <episode-num system="onscreen">S08E04</episode-num>
@@ -324,13 +23,306 @@
     <icon src="https://d3b6szcg0ko948.cloudfront.net/Jay_Lenos_Garage_1920x1080.jpg" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" start="20260527034131 +0000" stop="20260527043801 +0000">
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527034131 +0000" stop="20260527043801 +0000">
     <title>Monster House</title>
     <sub-title>Amusement Park House</sub-title>
     <episode-num system="onscreen">S02E12</episode-num>
     <desc>These homeowners thought their kids were crazy before construction. Now see what we've gone and done?</desc>
     <date>20040510</date>
     <icon src="https://d3b6szcg0ko948.cloudfront.net/MonsterHouse_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527043801 +0000" stop="20260527053431 +0000">
+    <title>Monster House</title>
+    <sub-title>Outback House</sub-title>
+    <episode-num system="onscreen">S02E13</episode-num>
+    <desc>Crikey, mate, get a load of this barbie.</desc>
+    <date>20040607</date>
+    <icon src="https://d3b6szcg0ko948.cloudfront.net/MonsterHouse_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527053431 +0000" stop="20260527063101 +0000">
+    <title>Monster House</title>
+    <sub-title>Surfer Girl House</sub-title>
+    <episode-num system="onscreen">S02E14</episode-num>
+    <desc>No boys allowed at this beach party as our all girl build team redo a backyard for mom and daughter.</desc>
+    <date>20040614</date>
+    <icon src="https://d3b6szcg0ko948.cloudfront.net/MonsterHouse_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527063101 +0000" stop="20260527072735 +0000">
+    <title>Monster House</title>
+    <sub-title>Biker House</sub-title>
+    <episode-num system="onscreen">S02E15</episode-num>
+    <desc>Can we remodel a kitchen and dining room using only part from a chopper shop?</desc>
+    <date>20040621</date>
+    <icon src="https://d3b6szcg0ko948.cloudfront.net/MonsterHouse_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527072735 +0000" stop="20260527082408 +0000">
+    <title>Monster House</title>
+    <sub-title>Soccer House</sub-title>
+    <episode-num system="onscreen">S02E16</episode-num>
+    <desc>Goooooaaaaaaallllll! A family of soccer fanatics get their dream home.</desc>
+    <date>20040705</date>
+    <icon src="https://d3b6szcg0ko948.cloudfront.net/MonsterHouse_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527082408 +0000" stop="20260527092041 +0000">
+    <title>Monster House</title>
+    <sub-title>Shark House</sub-title>
+    <episode-num system="onscreen">S02E17</episode-num>
+    <desc>Dunh dunh, dunh dunh, dunh dunh... Can we send a living room beneath the sea?</desc>
+    <date>20040726</date>
+    <icon src="https://d3b6szcg0ko948.cloudfront.net/MonsterHouse_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527092041 +0000" stop="20260527101714 +0000">
+    <title>Monster House</title>
+    <sub-title>Dog House: Part 1</sub-title>
+    <episode-num system="onscreen">S02E18</episode-num>
+    <desc>We needed 2 full hours to cover the drama when our builders got another chance to redeem themselves.</desc>
+    <date>20041220</date>
+    <icon src="https://d3b6szcg0ko948.cloudfront.net/MonsterHouse_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527101714 +0000" stop="20260527110728 +0000">
+    <title>Verminators</title>
+    <sub-title>Night At The Races</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Mike and the team take on a massive rat infestation at a race track.</desc>
+    <date>20080421</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f28f18b5875a7733410b143506c77bb3.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527110728 +0000" stop="20260527115742 +0000">
+    <title>Verminators</title>
+    <sub-title>Rookie Mistakes</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Mike loses his cool when one of the rookies almost blows up a building.</desc>
+    <date>20080428</date>
+    <icon src="https://d3b6szcg0ko948.cloudfront.net/Verminators_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527115742 +0000" stop="20260527124756 +0000">
+    <title>Verminators</title>
+    <sub-title>The Hills Have Rats</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Killer bees threaten a day care center.</desc>
+    <date>20080505</date>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/1997d57e8c915efc5779fb85e32a910c.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527124756 +0000" stop="20260527133810 +0000">
+    <title>Verminators</title>
+    <sub-title>Moby Rat</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>A large rat eludes Mike and J.D.</desc>
+    <date>20080512</date>
+    <icon src="https://d3b6szcg0ko948.cloudfront.net/Verminators_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527133810 +0000" stop="20260527142824 +0000">
+    <title>Verminators</title>
+    <sub-title>Infestation Nation</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Mike and the team take out a high-flying hive of bees.</desc>
+    <date>20080519</date>
+    <icon src="https://d3b6szcg0ko948.cloudfront.net/Verminators_1920x1080.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527142824 +0000" stop="20260527151838 +0000">
+    <title>Verminators</title>
+    <sub-title>Return of the Rat</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Jamie returns to a former client to track down one last rat.</desc>
+    <date>20080602</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/ccffaed57a94a9a4480318fcdcd1a0c7.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527151838 +0000" stop="20260527160852 +0000">
+    <title>Verminators</title>
+    <sub-title>Hollywood Roaches</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>The newest member of the team is put through the paces on a pigeon job.</desc>
+    <date>20080609</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e142a8c68178ad84d5275339c557877d.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527160852 +0000" stop="20260527163443 +0000">
+    <title>Wardens</title>
+    <category>Movie</category>
+    <desc>Wardens step into the world of CSI this week in determining where a deer was killed. But when uncovering the truth the best thing is to follow the Blood Trail.</desc>
+    <date>20150526</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/0e128a98-32c6-41fa-bf97-068984ca369d/RigTV_StorageWars_FathersDay_2000x3000_-_Patty_Gopez.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527163443 +0000" stop="20260527170034 +0000">
+    <title>Wardens</title>
+    <category>Movie</category>
+    <desc>Family of poachers on trial for 5 years of illegal animal killings. Wardens testify, seeking a guilty verdict and case closure.</desc>
+    <date>20150526</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/0e128a98-32c6-41fa-bf97-068984ca369d/RigTV_StorageWars_FathersDay_2000x3000_-_Patty_Gopez.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527170034 +0000" stop="20260527172616 +0000">
+    <title>Wardens</title>
+    <category>Movie</category>
+    <desc>This week, Montana game wardens manage the crowds as antler hunters are unleashed to search for their trophies.</desc>
+    <date>20140526</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/0e128a98-32c6-41fa-bf97-068984ca369d/RigTV_StorageWars_FathersDay_2000x3000_-_Patty_Gopez.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527172616 +0000" stop="20260527175159 +0000">
+    <title>Wardens</title>
+    <category>Movie</category>
+    <desc>Montana game wardens oversee the start of pronghorn season, monitoring both legal and illegal hunting and protecting seeded fields.</desc>
+    <date>20140526</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/0e128a98-32c6-41fa-bf97-068984ca369d/RigTV_StorageWars_FathersDay_2000x3000_-_Patty_Gopez.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527175159 +0000" stop="20260527184143 +0000">
+    <title>Wild Justice</title>
+    <sub-title>Gator Invader</sub-title>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <desc>Three wardens act on a report of an alligator who has taken up residence in a lake recreation area.</desc>
+    <date>20120507</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7a6115d1f2f534152e70fb4cb3927f99.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527184143 +0000" stop="20260527193126 +0000">
+    <title>Wild Justice</title>
+    <sub-title>Bitten By Justice</sub-title>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <desc>K9 Phoebe and wardens tackle a cartel grow and a pig poacher in the wild.</desc>
+    <date>20120311</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/4d9a7147afb03189e0a0e2cfb941381e.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527193126 +0000" stop="20260527202110 +0000">
+    <title>Wild Justice</title>
+    <sub-title>California 911</sub-title>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <desc>Lt. John Nores raids a cartel grow, saves a river, and Warden Kroll faces tragedies.</desc>
+    <date>20120521</date>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/702499e218357c75bc3e17724038c599.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527202110 +0000" stop="20260527204752 +0000">
+    <title>Dropped</title>
+    <sub-title>Log Jammed</sub-title>
+    <episode-num system="onscreen">S03E08</episode-num>
+    <desc>Closing in on a moose-rich area, the brothers are forced to navigate carefully.</desc>
+    <date>20140218</date>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/roku_down_link/RigTv_ChannelLogo_horz_1920x1080.png" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527204752 +0000" stop="20260527211330 +0000">
+    <title>Dropped</title>
+    <sub-title>Bull in the Bush</sub-title>
+    <episode-num system="onscreen">S03E09</episode-num>
+    <desc>Chris and Casey reach the heart of moose country and come face-to-face with a giant bull.</desc>
+    <date>20140225</date>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/roku_down_link/RigTv_ChannelLogo_horz_1920x1080.png" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527211330 +0000" stop="20260527213914 +0000">
+    <title>Dropped</title>
+    <sub-title>End of the Line</sub-title>
+    <episode-num system="onscreen">S03E10</episode-num>
+    <desc>As the 80-mile river journey nears its end, Chris and Casey have one last shot at an Alaskan moose.</desc>
+    <date>20140304</date>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/roku_down_link/RigTv_ChannelLogo_horz_1920x1080.png" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527213914 +0000" stop="20260527220323 +0000">
+    <title>Dropped</title>
+    <sub-title>To Be Alive</sub-title>
+    <episode-num system="onscreen">S04E01</episode-num>
+    <desc>Chris and Casey select a duo to join them in Alaska after reviewing video submissions.</desc>
+    <date>20141231</date>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/roku_down_link/RigTv_ChannelLogo_horz_1920x1080.png" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527220323 +0000" stop="20260527222944 +0000">
+    <title>Operation Repo</title>
+    <sub-title>Getting the Axe</sub-title>
+    <episode-num system="onscreen">S08E24</episode-num>
+    <desc>Matt’s ‘take your daughters to work’ day drives a further wedge between him and Lou.</desc>
+    <date>20110824</date>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/roku_down_link/RigTv_ChannelLogo_horz_1920x1080.png" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527222944 +0000" stop="20260527225605 +0000">
+    <title>Operation Repo</title>
+    <sub-title>The Rift</sub-title>
+    <episode-num system="onscreen">S08E25</episode-num>
+    <desc>A new rift between Matt and the rest of the crew puts the fate of the team in question.</desc>
+    <date>20110831</date>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/roku_down_link/RigTv_ChannelLogo_horz_1920x1080.png" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527225605 +0000" stop="20260527232226 +0000">
+    <title>Operation Repo</title>
+    <sub-title>The Final Shot</sub-title>
+    <episode-num system="onscreen">S08E26</episode-num>
+    <desc>Froy, Matt, and Sonia take on a risky job on the bad side of town when bullets start to fly.</desc>
+    <date>20110907</date>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/roku_down_link/RigTv_ChannelLogo_horz_1920x1080.png" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527232226 +0000" stop="20260527234848 +0000">
+    <title>Operation Repo</title>
+    <sub-title>The Road to Recovery</sub-title>
+    <episode-num system="onscreen">S09E01</episode-num>
+    <desc>Sonia’s comeback takes a surprising turn as the team tangles with a clan of carnies.</desc>
+    <date>20110914</date>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/roku_down_link/RigTv_ChannelLogo_horz_1920x1080.png" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260527234848 +0000" stop="20260528001729 +0000">
+    <title>Somebody's Gotta Do It</title>
+    <sub-title>The Lamey Family</sub-title>
+    <episode-num system="onscreen">S03E19</episode-num>
+    <desc>Mike meets a family focused on being self-sufficient, which includes raising and eating rabbits.</desc>
+    <date>20141008</date>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/roku_down_link/RigTv_ChannelLogo_horz_1920x1080.png" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260528001729 +0000" stop="20260528004628 +0000">
+    <title>Somebody's Gotta Do It</title>
+    <sub-title>Citizen Supply</sub-title>
+    <episode-num system="onscreen">S03E20</episode-num>
+    <desc>Mike explores a shopping mall that combines entrepreneurship with true artistry.</desc>
+    <date>20141008</date>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/roku_down_link/RigTv_ChannelLogo_horz_1920x1080.png" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260528004628 +0000" stop="20260528011529 +0000">
+    <title>Somebody's Gotta Do It</title>
+    <sub-title>Pageant of the Masters</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Mike brings famous paintings to life at the annual Pageant of the Masters event in Laguna Beach.</desc>
+    <date>20141112</date>
+    <icon src="https://image.tmdb.org/t/p/original/2CrW63WW0bWnNRJGRGE7gu4Zztx.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260528011529 +0000" stop="20260528014431 +0000">
+    <title>Somebody's Gotta Do It</title>
+    <sub-title>Mennonite Chicken</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Mike meets a French entrepreneur-chef using Mennonite farming to improve chicken flavor.</desc>
+    <date>20141015</date>
+    <icon src="https://image.tmdb.org/t/p/original/aeTT7sJVvd39FnwVzJFIEHX78ne.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77" start="20260528014431 +0000" stop="20260528023553 +0000">
+    <title>Jay Leno's Garage</title>
+    <sub-title>Cars For Dummies with Jeff Dunham</sub-title>
+    <episode-num system="onscreen">S08E05</episode-num>
+    <desc>Luxury in the wild: from Earth Roamer to a coach touring America's first National Park.</desc>
+    <date>20241002</date>
+    <icon src="https://d3b6szcg0ko948.cloudfront.net/Jay_Lenos_Garage_1920x1080.jpg" />
   </programme>
   
 </tv>

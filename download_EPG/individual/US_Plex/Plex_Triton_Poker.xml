@@ -1,119 +1,69 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-678fe95d389daa346544d501">
+<channel id="6a1610bebdf296985fd95603-678fe95d389daa346544d501">
     <display-name>Triton Poker</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/3083db91-a573-4a57-aa4b-5313378c4b7f/Triton_1500x1000_white_-_Eddie_Hunter-Higgins.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-678fe95d389daa346544d501" start="20260526040336 +0000" stop="20260526042124 +0000">
+<programme channel="6a1610bebdf296985fd95603-678fe95d389daa346544d501" start="20260527010533 +0000" stop="20260527030224 +0000">
     <title>Montenegro</title>
-    <sub-title>26: $50K NLH 8-Handed</sub-title>
-    <episode-num system="onscreen">S2026E27</episode-num>
-    <desc>Event 6 concludes with a high intensity heads up. Part 4</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/TRIPO/Triton_Poker_Thumbnail_Montenegro_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-678fe95d389daa346544d501" start="20260526042124 +0000" stop="20260526064524 +0000">
-    <title>Montenegro</title>
-    <sub-title>26: $25K Golden Decade - Day 2</sub-title>
-    <episode-num system="onscreen">S2026E04</episode-num>
-    <desc>Playing down to the final 10 - stakes sparkle as Day 2 of the $25K Golden Decade event continues. Part 4</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/TRIPO/Triton_Poker_Thumbnail_Montenegro_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-678fe95d389daa346544d501" start="20260526064524 +0000" stop="20260526065440 +0000">
-    <title>Montenegro</title>
-    <sub-title>26: $25K Golden Decade - Day 2</sub-title>
-    <episode-num system="onscreen">S2026E05</episode-num>
-    <desc>Day 2 of the $25K Golden Decade event whittles down to the final table players. Part 5</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/TRIPO/Triton_Poker_Thumbnail_Montenegro_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-678fe95d389daa346544d501" start="20260526065440 +0000" stop="20260526095020 +0000">
-    <title>Montenegro</title>
-    <sub-title>26: $25K Golden Decade - Final Table</sub-title>
-    <episode-num system="onscreen">S2026E06</episode-num>
-    <desc>We have set the final table for the opening event of the 2026 Montenegro SHRS - let's get underway! Part 1</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/TRIPO/Triton_Poker_Thumbnail_Montenegro_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-678fe95d389daa346544d501" start="20260526095020 +0000" stop="20260526110706 +0000">
-    <title>Montenegro</title>
-    <sub-title>26: $25K Golden Decade - Final Table</sub-title>
-    <episode-num system="onscreen">S2026E07</episode-num>
-    <desc>A golden run continues as pressure builds in the $25K Golden Decade final table. Part 2</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/TRIPO/Triton_Poker_Thumbnail_Montenegro_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-678fe95d389daa346544d501" start="20260526110706 +0000" stop="20260526120000 +0000">
-    <title>Montenegro</title>
-    <sub-title>26: $25K Golden Decade - Final Table</sub-title>
-    <episode-num system="onscreen">S2026E08</episode-num>
-    <desc>A golden run continues as pressure builds in the $25K Golden Decade final table. Part 3</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/TRIPO/Triton_Poker_Thumbnail_Montenegro_1920x1080.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-678fe95d389daa346544d501" start="20260526120000 +0000" stop="20260526192726 +0000">
-    <title>LIVE: Montenegro - $100K PLO Main Event</title>
-    <category>Movie</category>
-    <desc>The $100K PLO Main Event unfolds live in Montenegro with high-stakes action.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/476c5dfd-ff72-465b-98eb-b862491cb8eb/Triton_2000x3000_001_-_Eddie_Hunter-Higgins.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-678fe95d389daa346544d501" start="20260526192726 +0000" stop="20260526201500 +0000">
-    <title>An Interview With...</title>
-    <sub-title>An Interview with Bryn Kenney</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Sit down and watch as we speak to one of Triton Poker's stars, Bryn Kenney.</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/TRIPO/Triton_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-678fe95d389daa346544d501" start="20260526201500 +0000" stop="20260526215700 +0000">
-    <title>Jeju</title>
-    <sub-title>26: $30K PLO/NLH</sub-title>
-    <episode-num system="onscreen">S2026E72</episode-num>
-    <desc>A final table of combined styles: the $30K PLO/NLH event at Landing Casino in Jeju Shinhwa World. Part 1</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/TRIPO/Triton_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-678fe95d389daa346544d501" start="20260526215700 +0000" stop="20260526233625 +0000">
-    <title>Jeju</title>
-    <sub-title>26: $30K PLO/NLH</sub-title>
-    <episode-num system="onscreen">S2026E73</episode-num>
-    <desc>A final table of combined styles: the $30K PLO/NLH event at Landing Casino in Jeju Shinhwa World. Part 2</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/TRIPO/Triton_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-678fe95d389daa346544d501" start="20260526233625 +0000" stop="20260527002508 +0000">
-    <title>Jeju</title>
-    <sub-title>26: $30K PLO/NLH</sub-title>
-    <episode-num system="onscreen">S2026E74</episode-num>
-    <desc>A final table of combined styles: the $30K PLO/NLH event at Landing Casino in Jeju Shinhwa World. Part 3</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/TRIPO/Triton_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-678fe95d389daa346544d501" start="20260527002508 +0000" stop="20260527010533 +0000">
-    <title>Jeju</title>
-    <sub-title>26: $30K PLO/NLH</sub-title>
-    <episode-num system="onscreen">S2026E75</episode-num>
-    <desc>A final table of combined styles: the $30K PLO/NLH event at Landing Casino in Jeju Shinhwa World. Part 4</desc>
-    <icon src="https://d16j4exgbx78bu.cloudfront.net/TRIPO/Triton_1920x1080.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-678fe95d389daa346544d501" start="20260527010533 +0000" stop="20260527030224 +0000">
-    <title>Montenegro</title>
-    <sub-title>26: $200K NLH Triton Invitational - Day 1</sub-title>
+    <sub-title>26: $200K NLH Triton Invitational - D1</sub-title>
     <episode-num system="onscreen">S2026E28</episode-num>
     <desc>Invitees play alongside poker pros on Day 1 of the $200K Triton Invitational in Montenegro. Part 1</desc>
     <icon src="https://d16j4exgbx78bu.cloudfront.net/TRIPO/Triton_Poker_Thumbnail_Montenegro_1920x1080.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-678fe95d389daa346544d501" start="20260527030224 +0000" stop="20260527051307 +0000">
+<programme channel="6a1610bebdf296985fd95603-678fe95d389daa346544d501" start="20260527030224 +0000" stop="20260527051307 +0000">
     <title>Montenegro</title>
     <sub-title>26: $200K NLH Triton Invitational - Day 1</sub-title>
     <episode-num system="onscreen">S2026E29</episode-num>
     <desc>Invitees play alongside poker pros on Day 1 of the $200K Triton Invitational in Montenegro. Part 2</desc>
     <icon src="https://d16j4exgbx78bu.cloudfront.net/TRIPO/Triton_Poker_Thumbnail_Montenegro_1920x1080.png" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-678fe95d389daa346544d501" start="20260527051307 +0000" stop="20260527072728 +0000">
+    <title>Montenegro</title>
+    <sub-title>26: $200K NLH Triton Invitational - Day 1</sub-title>
+    <episode-num system="onscreen">S2026E30</episode-num>
+    <desc>Invitees play alongside poker pros on Day 1 of the $200K Triton Invitational in Montenegro. Part 3</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/TRIPO/Triton_Poker_Thumbnail_Montenegro_1920x1080.png" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-678fe95d389daa346544d501" start="20260527072728 +0000" stop="20260527094343 +0000">
+    <title>Montenegro</title>
+    <sub-title>26: $200K NLH Triton Invitational - Day 1</sub-title>
+    <episode-num system="onscreen">S2026E31</episode-num>
+    <desc>Invitees play alongside poker pros on Day 1 of the $200K Triton Invitational in Montenegro. Part 4</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/TRIPO/Triton_Poker_Thumbnail_Montenegro_1920x1080.png" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-678fe95d389daa346544d501" start="20260527094343 +0000" stop="20260527100000 +0000">
+    <title>Montenegro</title>
+    <sub-title>26: $200K NLH Triton Invitational - Day 1</sub-title>
+    <episode-num system="onscreen">S2026E32</episode-num>
+    <desc>Invitees play alongside poker pros on Day 1 of the $200K Triton Invitational in Montenegro. Part 5</desc>
+    <icon src="https://d16j4exgbx78bu.cloudfront.net/TRIPO/Triton_Poker_Thumbnail_Montenegro_1920x1080.png" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-678fe95d389daa346544d501" start="20260527100000 +0000" stop="20260527120000 +0000">
+    <title>Montenegro 26: $30K NLH 8-Handed</title>
+    <category>Movie</category>
+    <desc>Montenegro 26: $30K NLH 8-Handed</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/476c5dfd-ff72-465b-98eb-b862491cb8eb/Triton_2000x3000_001_-_Eddie_Hunter-Higgins.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-678fe95d389daa346544d501" start="20260527120000 +0000" stop="20260528000000 +0000">
+    <title>LIVE: Montenegro - $100K PLO Main Event</title>
+    <category>Movie</category>
+    <desc>Montenegro heats up with the $100K PLO Main Event action.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/476c5dfd-ff72-465b-98eb-b862491cb8eb/Triton_2000x3000_001_-_Eddie_Hunter-Higgins.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-678fe95d389daa346544d501" start="20260528000000 +0000" stop="20260528070000 +0000">
+    <title>Montenegro 26 - $200K NLH Triton Invitational - Day 1</title>
+    <category>Movie</category>
+    <desc>Montenegro 26 - $200K NLH Triton Invitational - Day 1</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/476c5dfd-ff72-465b-98eb-b862491cb8eb/Triton_2000x3000_001_-_Eddie_Hunter-Higgins.jpg" />
   </programme>
   
 </tv>

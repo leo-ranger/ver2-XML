@@ -1,134 +1,78 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d">
+<channel id="6a1610bebdf296985fd95603-646c0dfbfb58444e4e1e262d">
     <display-name>Pac-12 Insider</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/a3c09b3c-9f7e-40e9-b14e-5174a45ad551/P12_Insider_blue_-_Sean_Kent.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260526040049 +0000" stop="20260526053054 +0000">
-    <title>Gymnastics</title>
-    <sub-title>2023 Oregon State at UCLA</sub-title>
-    <episode-num system="onscreen">S11E06</episode-num>
-    <desc>Olympic medalists Jade Carey (Oregon State) and Jordan Chiles (UCLA) highlight ‘Equity Meet’ (1/29/23)</desc>
-    <date>20230129</date>
-    <icon src="https://pac-12.com/images/2025/7/26/1_29_23_WGY_OSU_UCLA.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260526053054 +0000" stop="20260526070058 +0000">
-    <title>Gymnastics</title>
-    <sub-title>2023 Arizona at Oregon State</sub-title>
-    <episode-num system="onscreen">S11E09</episode-num>
-    <desc>Jade Carey Perfect 10s on vault and floor; scores season high 39.875 in all-around vs. Arizona (2/18/23)</desc>
-    <date>20230218</date>
-    <icon src="https://pac-12.com/images/2025/7/29/2_18_23_WGY_ARZ_OSU.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260526070058 +0000" stop="20260526083102 +0000">
-    <title>Gymnastics</title>
-    <sub-title>2023 Oregon State at Stanford</sub-title>
-    <episode-num system="onscreen">S11E14</episode-num>
-    <desc>Jade Carey Perfect 10s on bars and floor; Beavers program record 198.075 at Maples Pavilion (2/24/23)</desc>
-    <date>20230224</date>
-    <icon src="https://pac-12.com/images/2025/7/26/2_24_23_WGY_OSU_STAN.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260526083102 +0000" stop="20260526100106 +0000">
-    <title>Gymnastics</title>
-    <sub-title>2023 Pac-12 Championships</sub-title>
-    <episode-num system="onscreen">S11E22</episode-num>
-    <desc>Jade Carey repeats as all-around champion (39.750) at 2023 Pac-12 Championships in Maverik Center (3/18/23)</desc>
-    <date>20230318</date>
-    <icon src="https://pac-12.com/images/2025/7/29/3_18_23_WGY_PAC_12_CHAMPIONSHIPS.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260526100106 +0000" stop="20260526130000 +0000">
-    <title>Gymnastics</title>
-    <sub-title>2024 Oregon State at California</sub-title>
-    <episode-num system="onscreen">S12E04</episode-num>
-    <desc>Kaitlin Garcia (9.900 floor) highlights Oregon State 197.950 team score vs. California (1/27/24)</desc>
-    <date>20240127</date>
-    <icon src="https://pac-12.com/images/2025/7/30/1_27_24_WGY_OSU_CAL_11.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260526130000 +0000" stop="20260526141008 +0000">
-    <title>Bronco Studios</title>
-    <sub-title>Presented by Ford (5/18/26)</sub-title>
-    <episode-num system="onscreen">S01E102</episode-num>
-    <desc>The latest on Boise State Athletics from award-winning journalist Jay Tust</desc>
-    <date>20260518</date>
-    <icon src="https://pac-12.com/images/2025/9/12/Broncos_Studios.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260526141008 +0000" stop="20260526152016 +0000">
-    <title>Bronco Studios</title>
-    <sub-title>Presented by Ford (5/18/26)</sub-title>
-    <episode-num system="onscreen">S01E102</episode-num>
-    <desc>The latest on Boise State Athletics from award-winning journalist Jay Tust</desc>
-    <date>20260518</date>
-    <icon src="https://pac-12.com/images/2025/9/12/Broncos_Studios.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260526152016 +0000" stop="20260526163025 +0000">
-    <title>Bronco Studios</title>
-    <sub-title>Presented by Ford (5/18/26)</sub-title>
-    <episode-num system="onscreen">S01E102</episode-num>
-    <desc>The latest on Boise State Athletics from award-winning journalist Jay Tust</desc>
-    <date>20260518</date>
-    <icon src="https://pac-12.com/images/2025/9/12/Broncos_Studios.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260526163025 +0000" stop="20260526183002 +0000">
-    <title>Baseball</title>
-    <sub-title>Air Force at #7 Oregon State (5/14/26)</sub-title>
-    <episode-num system="onscreen">S14E20</episode-num>
-    <desc>Ethan Kleinschmit and Wyatt Queen combine for thirteen (13) Ks as Oregon State beats Air Force 7-4</desc>
-    <date>20260514</date>
-    <icon src="https://pac-12.com/images/2026/4/1/5_14_26_BSB_AIR_OSU.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260526183002 +0000" stop="20260526203007 +0000">
-    <title>Baseball</title>
-    <sub-title>Air Force at #7 Oregon State (5/16/26)</sub-title>
-    <episode-num system="onscreen">S14E21</episode-num>
-    <desc>Trey Morris (5 2/3 IP, 6 Ks) and Josh Proctor (4 RBI) lead Oregon State to 8-1 win vs. Air Force</desc>
-    <date>20260516</date>
-    <icon src="https://pac-12.com/images/2026/4/1/5_16_26_BSB_AIR_OSU.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260526203007 +0000" stop="20260526223014 +0000">
-    <title>Baseball</title>
-    <sub-title>Portland at #7 Oregon State (5/12/26)</sub-title>
-    <episode-num system="onscreen">S14E19</episode-num>
-    <desc>Connor Mendez 6 1/3 IP, 2 H, 0 R, Josh Proctor three (3) run triple as Beavers beat pesky Portland Pilots 8-3</desc>
-    <date>20260512</date>
-    <icon src="https://pac-12.com/images/2026/4/1/5_12_26_BSB_POR_OSU.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260526223014 +0000" stop="20260527003001 +0000">
-    <title>Football</title>
-    <sub-title>UCLA at Oregon State (10/31/09)</sub-title>
-    <episode-num system="onscreen">S05E88</episode-num>
-    <desc>The Rodgers brothers (Jacquizz and James) come up big for Oregon State in 26-19 win vs. UCLA</desc>
-    <date>20091031</date>
-    <icon src="https://pac-12.com/images/2026/4/3/10_31_09_CFB_UCLA_OSU.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260527003001 +0000" stop="20260527023004 +0000">
-    <title>Football</title>
-    <sub-title>Washington at Oregon State (11/19/11)</sub-title>
-    <episode-num system="onscreen">S03E32</episode-num>
-    <desc>James Rodgers becomes Oregon State receptions leader in win over Washington</desc>
-    <date>20111119</date>
-    <icon src="https://pac-12.com/images/2026/3/27/11_19_11_CFB_WASH_OSU.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" start="20260527023004 +0000" stop="20260527043006 +0000">
-    <title>Football Encore</title>
-    <sub-title>2008 Washington at Washington State</sub-title>
-    <episode-num system="onscreen">S06E62</episode-num>
-    <desc>Washington State downs Washington on a field goal in 2OT 13-16.</desc>
-    <date>20211121</date>
+<programme channel="6a1610bebdf296985fd95603-646c0dfbfb58444e4e1e262d" start="20260527012049 +0000" stop="20260527024549 +0000">
+    <title>Olympic Sports Encore</title>
+    <sub-title>2019 Michigan at Utah</sub-title>
+    <episode-num system="onscreen">S07E17</episode-num>
+    <desc>The Red Rocks explode for their best score of the season and hold off Michigan 197.975-197.350 (3/2/19).</desc>
+    <date>20230208</date>
     <icon src="https://d2jrooo0uvo7kr.cloudfront.net/pac_default.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-646c0dfbfb58444e4e1e262d" start="20260527024549 +0000" stop="20260527041554 +0000">
+    <title>Olympic Sports Encore</title>
+    <sub-title>2019 UCLA at Utah</sub-title>
+    <episode-num system="onscreen">S07E15</episode-num>
+    <desc>Kyla Ross scores her 10th career perfect 10 as UCLA defeats Utah at a packed Jon M. Huntsman Center (2/23/19).</desc>
+    <date>20221229</date>
+    <icon src="https://d2jrooo0uvo7kr.cloudfront.net/pac_default.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-646c0dfbfb58444e4e1e262d" start="20260527041554 +0000" stop="20260527054420 +0000">
+    <title>Olympic Sports Encore</title>
+    <sub-title>2019 Utah State at UCLA</sub-title>
+    <episode-num system="onscreen">S07E19</episode-num>
+    <desc>Kyla Ross completes the Gym Slam with her 1st career perfect 10 on floor exercise and 14th career perfect 10.</desc>
+    <date>20230704</date>
+    <icon src="https://d2jrooo0uvo7kr.cloudfront.net/pac_default.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-646c0dfbfb58444e4e1e262d" start="20260527054420 +0000" stop="20260527071058 +0000">
+    <title>Gymnastics</title>
+    <sub-title>2020 Utah at UCLA</sub-title>
+    <episode-num system="onscreen">S08E19</episode-num>
+    <desc>Abby Paulson (Utah) and Grace Glenn (UCLA) score Perfect 10.0s in gymnasts showdown (2/23/20)</desc>
+    <date>20200223</date>
+    <icon src="https://pac-12.com/images/2025/2/24/PAC_12_Encore_1920x1080.png" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-646c0dfbfb58444e4e1e262d" start="20260527071058 +0000" stop="20260527093650 +0000">
+    <title>Olympic Sports Encore</title>
+    <sub-title>2018 Pac-12 Women's Gymnastics Championships</sub-title>
+    <episode-num system="onscreen">S06E25</episode-num>
+    <desc>UCLA wins its 18th all-time Pac-12 title, narrowly edging out 197.500-197.350 in Tucson. (March 24, 2018)</desc>
+    <date>20210723</date>
+    <icon src="https://d2jrooo0uvo7kr.cloudfront.net/pac_default.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-646c0dfbfb58444e4e1e262d" start="20260527093650 +0000" stop="20260527113002 +0000">
+    <title>Women's Gymnastics Encore</title>
+    <sub-title>2017 Arkansas at UCLA</sub-title>
+    <episode-num system="onscreen">S05E03</episode-num>
+    <desc>Much-anticipated debut of Olympians Kyla Ross &amp; Madison Kocian. Hallie Mossett wows crowd on floor (1/7/17).</desc>
+    <date>20221228</date>
+    <icon src="https://d2jrooo0uvo7kr.cloudfront.net/pac_default.jpg" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-646c0dfbfb58444e4e1e262d" start="20260527113002 +0000" stop="20260527220038 +0000">
+    <title>Olympic Sports Encore</title>
+    <sub-title>2017 UCLA at Utah</sub-title>
+    <episode-num system="onscreen">S05E01</episode-num>
+    <desc>#5 Utah beats #4 UCLA in front of fully-charged, sellout crowd of 15,558 at Jon M. Huntsman Center (2/18/17)</desc>
+    <date>20210723</date>
+    <icon src="https://pac-12.com/images/2025/2/24/PAC_12_Encore_1920x1080.png" />
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-646c0dfbfb58444e4e1e262d" start="20260527220038 +0000" stop="20260528130000 +0000">
+    <title>(LIVE) Bronco Studios</title>
+    <category>Movie</category>
+    <desc>Award-winning sports anchor Jay Tust gives Bronco Nation an inside look at Boise State Athletics</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/d3fee6f9-a7bd-458b-8866-4594422f23ae/P12_Insider_2000x3000_-_Sean_Kent.jpg" />
   </programme>
   
 </tv>
