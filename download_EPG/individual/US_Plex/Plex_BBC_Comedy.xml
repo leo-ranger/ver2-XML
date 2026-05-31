@@ -5,373 +5,694 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/1e92ab4a-8016-45ef-8f59-1190695f2c6a/BBC_COMEDY_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" />
   </channel>
   
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528025546 +0000" stop="20260528032836 +0000">
-    <title>Red Dwarf</title>
-    <sub-title>Future Echoes</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Lister is presented with a disappointing vision of his future, but Rimmer is delighted.</desc>
-    <date>19880222</date>
-    <icon src="https://image.tmdb.org/t/p/original/lQt2ylIWqEpbG2PV8s84uWXshNm.jpg" />
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528032836 +0000" stop="20260528040426 +0000">
-    <title>Red Dwarf</title>
-    <sub-title>Balance of Power</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Rimmer encounters his most dangerous challenge ever - Lister is taking the chef's exam.</desc>
-    <date>19880229</date>
-    <icon src="https://image.tmdb.org/t/p/original/6PvNFxOiA2KC78rNUpTYjG521Rm.jpg" />
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528040426 +0000" stop="20260528043654 +0000">
-    <title>Red Dwarf</title>
-    <sub-title>Waiting for God</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Lister's rather mundane day perks up a little when he discovers he is a God.</desc>
-    <date>19880307</date>
-    <icon src="https://image.tmdb.org/t/p/original/7lRw8btf1r8zcjJ9HrhebDrCrB5.jpg" />
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528043654 +0000" stop="20260528051033 +0000">
-    <title>Red Dwarf</title>
-    <sub-title>Confidence and Paranoia</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Lister contracts a mutated virus and his hallucinations materialise in solid form.</desc>
-    <date>19880314</date>
-    <icon src="https://image.tmdb.org/t/p/original/89AC56FMuo8IfgRaDsHp3oc97on.jpg" />
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528051033 +0000" stop="20260528054359 +0000">
-    <title>Red Dwarf</title>
-    <sub-title>Me2</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Rimmer creates his perfect companion - an identical duplicate of himself.</desc>
-    <date>19880321</date>
-    <icon src="https://image.tmdb.org/t/p/original/GEzqulaTZNX7ZSOj6VrsPcVclr.jpg" />
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528054359 +0000" stop="20260528061749 +0000">
-    <title>Red Dwarf</title>
-    <sub-title>Trojan</sub-title>
-    <episode-num system="onscreen">S10E01</episode-num>
-    <desc>Rimmer receives an SOS Distress Call from his all-conquering brother, Howard.</desc>
-    <date>20121004</date>
-    <icon src="https://image.tmdb.org/t/p/original/9DkMHjIAihqrybtFYpr93uQXAiv.jpg" />
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528061749 +0000" stop="20260528065148 +0000">
-    <title>Red Dwarf</title>
-    <sub-title>Fathers and Suns</sub-title>
-    <episode-num system="onscreen">S10E02</episode-num>
-    <desc>On Father's Day, Rimmer points out Lister has been a lousy father to himself.</desc>
-    <date>20121011</date>
-    <icon src="https://image.tmdb.org/t/p/original/yJaQtrxk7wQqhFmyaKqKdOMkPyH.jpg" />
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528065148 +0000" stop="20260528072531 +0000">
-    <title>Red Dwarf</title>
-    <sub-title>Lemons</sub-title>
-    <episode-num system="onscreen">S10E03</episode-num>
-    <desc>Marooned in Britain in 23 AD, the Dwarfers need an 8 volt battery to get home.</desc>
-    <date>20121018</date>
-    <icon src="https://image.tmdb.org/t/p/original/7WgDU5NZPbJXDn3ZroKV3M9onMZ.jpg" />
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528072531 +0000" stop="20260528075909 +0000">
-    <title>Red Dwarf</title>
-    <sub-title>Entangled</sub-title>
-    <episode-num system="onscreen">S10E04</episode-num>
-    <desc>Lister loses Rimmer in a game of poker to a group of Biologically Engineered Life Forms.</desc>
-    <date>20121025</date>
-    <icon src="https://image.tmdb.org/t/p/original/sOUwm5SOUfyKhDm0d6PrRA2RGLB.jpg" />
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528075909 +0000" stop="20260528083638 +0000">
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260530235316 +0000" stop="20260531003126 +0000">
     <title>Absolutely Fabulous</title>
-    <sub-title>Fashion</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Eddy is preparing for a fashion show and trying to prove she can function without booze.</desc>
-    <date>19921112</date>
-    <icon src="https://image.tmdb.org/t/p/original/z1H1q8i7oo5cMTGeKsBNQRDzfLn.jpg" />
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528083638 +0000" stop="20260528091239 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Fat</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Eddy embarks on an aggressive weight loss regime which includes 'sleep running'.</desc>
-    <date>19921119</date>
-    <icon src="https://image.tmdb.org/t/p/original/9W0IJtgJJjM6S6zpt06N9NLDT15.jpg" />
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528091239 +0000" stop="20260528094937 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>France</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>When Eddy and Patsy go to France, the language barrier is the least of their problems.</desc>
-    <date>19921126</date>
-    <icon src="https://image.tmdb.org/t/p/original/mGR9GFDsLpGqLJWHgom53VKQig.jpg" />
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528094937 +0000" stop="20260528102543 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Iso Tank</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Banned from attending Saffron's college open day, Edina sulks in her new isolation tank.</desc>
-    <date>19921203</date>
-    <icon src="https://image.tmdb.org/t/p/original/l0qkv9qfLDdRUOyLa4seO3qsWJa.jpg" />
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528102543 +0000" stop="20260528110350 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Magazine</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Can Patsy persuade Saffy to help make her fashion show a success?</desc>
-    <date>19921217</date>
-    <icon src="https://image.tmdb.org/t/p/original/kMOw2tLQ34vhcnFMNX9rqvz1sYi.jpg" />
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528110350 +0000" stop="20260528114119 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Birthday</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Edina has reached a milestone - her 40th birthday. But it is not a cause for celebration.</desc>
-    <date>19921210</date>
-    <icon src="https://image.tmdb.org/t/p/original/cLPzL8JvISmpb9oot63iLWAuBzu.jpg" />
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528114119 +0000" stop="20260528121748 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Death</sub-title>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <desc>Edina's father has died and Saffron tries, amidst the usual chaos, to organise a funeral.</desc>
-    <date>19940203</date>
-    <icon src="https://image.tmdb.org/t/p/original/pRyrrpRV3HcBOnPqdyT3HM3AfSJ.jpg" />
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528121748 +0000" stop="20260528125558 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Morocco</sub-title>
-    <episode-num system="onscreen">S02E03</episode-num>
     <desc>Patsy plans to go to Marrakech for a photo shoot, so Edina and Saffy tag along.</desc>
-    <date>19940210</date>
-    <icon src="https://image.tmdb.org/t/p/original/2P4llnFdzkVgZ1YNHPJCv9rAeR2.jpg" />
   </programme>
   
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528125558 +0000" stop="20260528133038 +0000">
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531003126 +0000" stop="20260531010606 +0000">
     <title>Absolutely Fabulous</title>
-    <sub-title>Poor</sub-title>
-    <episode-num system="onscreen">S02E05</episode-num>
     <desc>Edina is forced to make economies when her ex-husband, Justin, stops paying her alimony.</desc>
-    <date>19940303</date>
-    <icon src="https://image.tmdb.org/t/p/original/zL6476chN88Jxt1sGbFU59oSTgT.jpg" />
   </programme>
   
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528133038 +0000" stop="20260528140857 +0000">
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531010606 +0000" stop="20260531014425 +0000">
     <title>Absolutely Fabulous</title>
-    <sub-title>Birth</sub-title>
-    <episode-num system="onscreen">S02E06</episode-num>
     <desc>Edina, Patsy and Saffy get locked in the living room and begin to reminisce about birth.</desc>
-    <date>19940310</date>
-    <icon src="https://image.tmdb.org/t/p/original/fPKDYa1g5kj4bUl5Ypb99e7eW5U.jpg" />
   </programme>
   
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528140857 +0000" stop="20260528144327 +0000">
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531014425 +0000" stop="20260531021855 +0000">
     <title>Absolutely Fabulous</title>
-    <sub-title>Door Handle</sub-title>
-    <episode-num system="onscreen">S03E01</episode-num>
     <desc>Patsy and Edina set out to find the perfect door handle - in New York.</desc>
-    <date>19950330</date>
-    <icon src="https://image.tmdb.org/t/p/original/BAgMMgwKdIA6PyAbGnju3iWnil.jpg" />
   </programme>
   
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528144327 +0000" stop="20260528152046 +0000">
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531021855 +0000" stop="20260531025614 +0000">
     <title>Absolutely Fabulous</title>
-    <sub-title>Happy New Year</sub-title>
-    <episode-num system="onscreen">S03E02</episode-num>
     <desc>Edina and Patsy await the arrival of Patsy's long-lost sister, Jackie.</desc>
-    <date>19950406</date>
-    <icon src="https://image.tmdb.org/t/p/original/a9XIFpRPMpTw948ZAbMq3SLzyBv.jpg" />
   </programme>
   
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528152046 +0000" stop="20260528155600 +0000">
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531025614 +0000" stop="20260531033128 +0000">
     <title>Absolutely Fabulous</title>
-    <sub-title>Jealous</sub-title>
-    <episode-num system="onscreen">S03E04</episode-num>
     <desc>Rival Claudia Bing poaches first an award, then a celebrity friend, from Edina.</desc>
-    <date>19950427</date>
-    <icon src="https://image.tmdb.org/t/p/original/y1Cnw3MTHOH8LaROfjBau6XkWMf.jpg" />
   </programme>
   
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528155600 +0000" stop="20260528163257 +0000">
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531033128 +0000" stop="20260531040825 +0000">
     <title>Absolutely Fabulous</title>
-    <sub-title>Fear</sub-title>
-    <episode-num system="onscreen">S03E05</episode-num>
     <desc>Saffy moves out, so Patsy moves in - but can her friendship with Edina take the strain?</desc>
-    <date>19950504</date>
-    <icon src="https://image.tmdb.org/t/p/original/cYYC2DS72dFkS3yegzrYRnDyxno.jpg" />
   </programme>
   
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528163257 +0000" stop="20260528170554 +0000">
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531040825 +0000" stop="20260531044122 +0000">
     <title>Absolutely Fabulous</title>
-    <sub-title>The End</sub-title>
-    <episode-num system="onscreen">S03E06</episode-num>
     <desc>Edina heads to a retreat to find herself, while Patsy goes to work in New York.</desc>
-    <date>19950511</date>
-    <icon src="https://image.tmdb.org/t/p/original/Agh0M6G9N7sKwEfqWYtz6cBFlQg.jpg" />
   </programme>
   
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528170554 +0000" stop="20260528174258 +0000">
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531044122 +0000" stop="20260531051826 +0000">
     <title>Absolutely Fabulous</title>
-    <sub-title>Parralox</sub-title>
-    <episode-num system="onscreen">S04E01</episode-num>
     <desc>Patsy has had injections to freeze her wrinkles, and Edina has a TV appearance scheduled.</desc>
-    <date>20010831</date>
-    <icon src="https://image.tmdb.org/t/p/original/n2JRbT2HbO4D0TTWeEtuZahTwI8.jpg" />
   </programme>
   
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528174258 +0000" stop="20260528181848 +0000">
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531051826 +0000" stop="20260531055416 +0000">
     <title>Absolutely Fabulous</title>
-    <sub-title>Fish Farm</sub-title>
-    <episode-num system="onscreen">S04E02</episode-num>
     <desc>Eddy tries to charm Jago, the landscape gardener brother of a well known aristocrat.</desc>
-    <date>20010907</date>
-    <icon src="https://image.tmdb.org/t/p/original/fRJ74CFjEokXv6bkNOwhwCqLdi4.jpg" />
   </programme>
   
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528181848 +0000" stop="20260528185151 +0000">
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531055416 +0000" stop="20260531062719 +0000">
     <title>Absolutely Fabulous</title>
-    <sub-title>Paris</sub-title>
-    <episode-num system="onscreen">S04E03</episode-num>
     <desc>Patsy and Edina travel to Paris for a photo-shoot in which old and young mingle.</desc>
-    <date>20010914</date>
-    <icon src="https://image.tmdb.org/t/p/original/bgvsH9VIEZrmE6dAgZYqWMxDFzL.jpg" />
   </programme>
   
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528185151 +0000" stop="20260528192433 +0000">
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531062719 +0000" stop="20260531070000 +0000">
     <title>Absolutely Fabulous</title>
-    <sub-title>Donkey</sub-title>
-    <episode-num system="onscreen">S04E04</episode-num>
     <desc>Edina embarks on a detox diet, whilst Patsy tries life without a fringe.</desc>
-    <date>20010921</date>
-    <icon src="https://image.tmdb.org/t/p/original/5wOr39P16583KrrvCV5f6uL1EQC.jpg" />
   </programme>
   
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528192433 +0000" stop="20260528195737 +0000">
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531070000 +0000" stop="20260531073305 +0000">
     <title>Absolutely Fabulous</title>
-    <sub-title>Small Opening</sub-title>
-    <episode-num system="onscreen">S04E05</episode-num>
     <desc>Saffy's play looks set to embarrass Eddy, so she and bubble try to get it cancelled.</desc>
-    <date>20010928</date>
-    <icon src="https://image.tmdb.org/t/p/original/i97QT5CVwKWg1gL6IZbkFLPUC1O.jpg" />
   </programme>
   
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528195737 +0000" stop="20260528203150 +0000">
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531073305 +0000" stop="20260531080718 +0000">
     <title>Absolutely Fabulous</title>
-    <sub-title>Menopause</sub-title>
-    <episode-num system="onscreen">S04E06</episode-num>
     <desc>Eddy's company is losing clients, while Patsy seems to be going through the menopause.</desc>
-    <date>20011005</date>
-    <icon src="https://image.tmdb.org/t/p/original/nSoDVLwSypy3xt2rvkEeJhwcbcB.jpg" />
   </programme>
   
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528203150 +0000" stop="20260528210515 +0000">
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531080718 +0000" stop="20260531084043 +0000">
     <title>Absolutely Fabulous</title>
-    <sub-title>Cleanin'</sub-title>
-    <episode-num system="onscreen">S05E01</episode-num>
     <desc>Saffy arrives home from Iraq and she has some shocking news in store for Eddy.</desc>
-    <date>20031017</date>
-    <icon src="https://image.tmdb.org/t/p/original/cRoelLIxSeL4ny9J0KNBYP8U6Cx.jpg" />
   </programme>
   
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528210515 +0000" stop="20260528213823 +0000">
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531084043 +0000" stop="20260531091351 +0000">
     <title>Absolutely Fabulous</title>
-    <sub-title>Book Clubbin'</sub-title>
-    <episode-num system="onscreen">S05E02</episode-num>
     <desc>Eddy meets with her book club to discuss the merits of a celebrity magazine.</desc>
-    <date>20031017</date>
-    <icon src="https://image.tmdb.org/t/p/original/lvPwo1X6rt9QU1WG9m6WOj8fRzp.jpg" />
   </programme>
   
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528213823 +0000" stop="20260528221120 +0000">
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531091351 +0000" stop="20260531094648 +0000">
     <title>Absolutely Fabulous</title>
-    <sub-title>Panickin'</sub-title>
-    <episode-num system="onscreen">S05E03</episode-num>
     <desc>Patsy persuades Minnie Driver to visit Eddy's for a personal styling session.</desc>
-    <date>20031024</date>
-    <icon src="https://image.tmdb.org/t/p/original/qiHFDMWeSAX2F16AKXE1xlJLdAw.jpg" />
   </programme>
   
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528221120 +0000" stop="20260528224654 +0000">
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531094648 +0000" stop="20260531102222 +0000">
     <title>Absolutely Fabulous</title>
-    <sub-title>Huntin' Shootin' Fishin'</sub-title>
-    <episode-num system="onscreen">S05E04</episode-num>
     <desc>Eddy has splashed out on a weekend of country pursuits with Patsy.</desc>
-    <date>20031031</date>
-    <icon src="https://image.tmdb.org/t/p/original/tPRXF7HsvIhEiHNlFLPC2mZDBO9.jpg" />
   </programme>
   
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528224654 +0000" stop="20260528231941 +0000">
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531102222 +0000" stop="20260531105508 +0000">
     <title>Absolutely Fabulous</title>
-    <sub-title>Birthin'</sub-title>
-    <episode-num system="onscreen">S05E05</episode-num>
     <desc>It's a big night for Patsy. She's about to host the Style Awards at the Royal Albert Hall.</desc>
-    <date>20031107</date>
-    <icon src="https://image.tmdb.org/t/p/original/8hIWmveTvpte3eQBoRht9ZJ8QqH.jpg" />
   </programme>
   
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260528231941 +0000" stop="20260529000137 +0000">
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531105508 +0000" stop="20260531113705 +0000">
     <title>Absolutely Fabulous</title>
-    <sub-title>Cold Turkey</sub-title>
-    <episode-num system="onscreen">S05E08</episode-num>
     <desc>Eddy wants to stay at home for Christmas this year, while Patsy is in a downward spiral.</desc>
-    <date>20031224</date>
-    <icon src="https://image.tmdb.org/t/p/original/moxMXQkz96iT69UHjaietLmbp5X.jpg" />
   </programme>
   
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260529000137 +0000" stop="20260529003508 +0000">
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531113705 +0000" stop="20260531121036 +0000">
     <title>Absolutely Fabulous</title>
-    <sub-title>Identity</sub-title>
-    <episode-num system="onscreen">S99E01</episode-num>
     <desc>Edina and Patsy are back for some award-winning Christmas comedy chaos in the world of PR.</desc>
-    <date>20111225</date>
-    <icon src="https://image.tmdb.org/t/p/original/irhUoYxFmxivc02wP1usq048ZLH.jpg" />
   </programme>
   
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260529003508 +0000" stop="20260529010809 +0000">
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531121036 +0000" stop="20260531124337 +0000">
     <title>Absolutely Fabulous</title>
-    <sub-title>Job</sub-title>
-    <episode-num system="onscreen">S99E02</episode-num>
     <desc>Edina and Patsy are back for some award-winning Christmas comedy chaos in the world of PR.</desc>
-    <date>20120101</date>
-    <icon src="https://image.tmdb.org/t/p/original/nqYwU4pJAIE45VJ1aNDumTCrens.jpg" />
   </programme>
   
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260529010809 +0000" stop="20260529021300 +0000">
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531124337 +0000" stop="20260531134828 +0000">
     <title>Absolutely Fabulous</title>
-    <sub-title>Gay</sub-title>
-    <episode-num system="onscreen">S99E01</episode-num>
     <desc>Edina goes to New York to find her long-lost son, while Patsy goes to cover fashion week.</desc>
-    <date>20021227</date>
-    <icon src="https://image.tmdb.org/t/p/original/4bWPhhHDxfwwyUOryGDDGJsImfQ.jpg" />
   </programme>
   
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260529021300 +0000" stop="20260529030249 +0000">
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531134828 +0000" stop="20260531143817 +0000">
     <title>Absolutely Fabulous</title>
-    <sub-title>White Box</sub-title>
-    <episode-num system="onscreen">S99E01</episode-num>
     <desc>Edina suffers a redecorating crisis that even Bettina and Max can't cure.</desc>
-    <date>20041225</date>
-    <icon src="https://image.tmdb.org/t/p/original/9Hy5Ucna4pz6ZEGyazWxMZ7goz.jpg" />
   </programme>
   
-<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260529030249 +0000" stop="20260529034018 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Fashion</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Eddy is preparing for a fashion show and trying to prove she can function without booze.</desc>
-    <date>19921112</date>
-    <icon src="https://image.tmdb.org/t/p/original/z1H1q8i7oo5cMTGeKsBNQRDzfLn.jpg" />
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531143817 +0000" stop="20260531151130 +0000">
+    <title>Coupling</title>
+    <desc>Steve's attempts to dump Jane are thwarted by his tendency to keep sleeping with her.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531151130 +0000" stop="20260531154628 +0000">
+    <title>Coupling</title>
+    <desc>Sally regrets turning down a date with Patrick after an eye-popping revelation from Susan.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531154628 +0000" stop="20260531161936 +0000">
+    <title>Coupling</title>
+    <desc>The attendance at the funeral of Jane's aunt snowballs as the friends arrange decoy dates.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531161936 +0000" stop="20260531165318 +0000">
+    <title>Coupling</title>
+    <desc>Steve worries that Susan has discovered a compromising tape in his video library.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531165318 +0000" stop="20260531172606 +0000">
+    <title>Coupling</title>
+    <desc>The lads can't take their eyes off a beautiful stranger, but she only has eyes for Jeff.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531172606 +0000" stop="20260531175939 +0000">
+    <title>Coupling</title>
+    <desc>Jane makes an alarming discovery about the contents of Patrick's cupboard.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531175939 +0000" stop="20260531183244 +0000">
+    <title>Coupling</title>
+    <desc>Sally has been seeing Liam for two weeks and everyone wants to meet him.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531183244 +0000" stop="20260531190624 +0000">
+    <title>Coupling</title>
+    <desc>Jane and Sally are obsessed with finding out whether Steve still goes solo.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531190624 +0000" stop="20260531193932 +0000">
+    <title>Coupling</title>
+    <desc>The truth slowly emerges about why Steve and Sally have been acting so strangely.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531193932 +0000" stop="20260531201206 +0000">
+    <title>Coupling</title>
+    <desc>After a disasterous encounter with Sally, Patrick seeks reassurance from Steve and Jeff.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531201206 +0000" stop="20260531204548 +0000">
+    <title>Coupling</title>
+    <desc>Jane's career is put in jeopardy when she receives some unexpected criticism.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531204548 +0000" stop="20260531211912 +0000">
+    <title>Coupling</title>
+    <desc>While preparing to celebrate their anniversary, Steve suffers a frightening experience.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531211912 +0000" stop="20260531215222 +0000">
+    <title>Coupling</title>
+    <desc>Jane's attention has been caught by a stunningly handsome guy in the bar.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531215222 +0000" stop="20260531222607 +0000">
+    <title>Coupling</title>
+    <desc>Jeff's new boss questions whether it is right and proper to kiss someone junior at work.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531222607 +0000" stop="20260531225920 +0000">
+    <title>Coupling</title>
+    <desc>Steve finds himself tempted by other people, and swaps numbers with a woman in a bar.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531225920 +0000" stop="20260531233234 +0000">
+    <title>Coupling</title>
+    <desc>Steve and Susan have split up and make their seperate ways to the 'Temple of Woman'.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260531233234 +0000" stop="20260601000605 +0000">
+    <title>Coupling</title>
+    <desc>Jane finds herself in competition with the 'supreme being of the universe'.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601000605 +0000" stop="20260601003919 +0000">
+    <title>Coupling</title>
+    <desc>Wilma offers Jeff 'no-strings' sex - she only wants to 'borrow' him from his girlfriend.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601003919 +0000" stop="20260601010325 +0000">
+    <title>Coupling</title>
+    <desc>Patrick and Sally have very different recollections of Susan's office party.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601010325 +0000" stop="20260601013637 +0000">
+    <title>Coupling</title>
+    <desc>A quiet night in with Julia leads Jeff to a nudity hoovering problem.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601013637 +0000" stop="20260601021024 +0000">
+    <title>Coupling</title>
+    <desc>Sally is lonely, unhappy and unfulfilled. And then she goes and spoils it all.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601021024 +0000" stop="20260601024339 +0000">
+    <title>Coupling</title>
+    <desc>Sally has blurted out how she feels to Patrick but is convinced it's not meant to be.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601024339 +0000" stop="20260601031655 +0000">
+    <title>Coupling</title>
+    <desc>One bar, three different points of view, the same nine-and-a-half minutes.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601031655 +0000" stop="20260601035006 +0000">
+    <title>Coupling</title>
+    <desc>Susan is worried and Steve is being executed on a nightly basis - by a foetus!</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601035006 +0000" stop="20260601042455 +0000">
+    <title>Coupling</title>
+    <desc>Can Patrick find his way home from the enchanted glade of his one true love?</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601042455 +0000" stop="20260601045810 +0000">
+    <title>Coupling</title>
+    <desc>Steve finds himself haunted by ghosts while Sally is troubled by a string quartet.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601045810 +0000" stop="20260601053109 +0000">
+    <title>Coupling</title>
+    <desc>How can you win over a woman when your living room has lost the battle with nudity?</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601053109 +0000" stop="20260601055721 +0000">
+    <title>Friday Night Dinner</title>
+    <desc>Mum and Dad are having a clear-out, and Dad's been ordered to chuck away all his old junk.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601055721 +0000" stop="20260601062254 +0000">
+    <title>Friday Night Dinner</title>
+    <desc>Mum is very proud as Adam's first ever jingle is going to be on the radio.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601062254 +0000" stop="20260601065149 +0000">
+    <title>Friday Night Dinner</title>
+    <desc>Grandma arrives for dinner but she gets her hair stuck in the window of Jonny's car.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601065149 +0000" stop="20260601071835 +0000">
+    <title>Friday Night Dinner</title>
+    <desc>Adam comes home to find the house looking immaculate. What is Mum up to?</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601071835 +0000" stop="20260601074504 +0000">
+    <title>Friday Night Dinner</title>
+    <desc>Jonny finds Adam's childhood diary and discovers a terrible secret. So now it's war!</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601074504 +0000" stop="20260601081110 +0000">
+    <title>Friday Night Dinner</title>
+    <desc>The boys are excited, because Grandma is coming for dinner.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601081110 +0000" stop="20260601083835 +0000">
+    <title>Friday Night Dinner</title>
+    <desc>To get out of cleaning the loft, Jonny claims to have dislocated his shoulder.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601083835 +0000" stop="20260601090608 +0000">
+    <title>Friday Night Dinner</title>
+    <desc>Dad is very excited. He's just bought a new fax machine.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601090608 +0000" stop="20260601093551 +0000">
+    <title>Friday Night Dinner</title>
+    <desc>It's Christmas day. Mum has made a fantastic Christmas dinner.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601093551 +0000" stop="20260601100355 +0000">
+    <title>Friday Night Dinner</title>
+    <desc>Dad's been secretly hiding a dead fox in the outside freezer, but mum needs to use it.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601100355 +0000" stop="20260601103030 +0000">
+    <title>Friday Night Dinner</title>
+    <desc>The family are distraught when Grandma gets engaged to Mr Morris.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601103030 +0000" stop="20260601105717 +0000">
+    <title>Friday Night Dinner</title>
+    <desc>Dad's bought a piano, and the world's most sarcastic piano tuner comes round to tune it.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601105717 +0000" stop="20260601112510 +0000">
+    <title>Friday Night Dinner</title>
+    <desc>Dad accidentally invites someone he used to hate round for dinner.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601112510 +0000" stop="20260601115304 +0000">
+    <title>Friday Night Dinner</title>
+    <desc>Trouble occurs on Dad's hinge oiling evening, as oil is split on Mum's beloved carpet.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601115304 +0000" stop="20260601121918 +0000">
+    <title>Friday Night Dinner</title>
+    <desc>Adam has been recognised for his musical talent but is overshadowed by Jonny's news.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601121918 +0000" stop="20260601124441 +0000">
+    <title>Friday Night Dinner</title>
+    <desc>Adam has been staying at Mum and Dad's all week and starts behaving like a little boy.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601124441 +0000" stop="20260601131103 +0000">
+    <title>Friday Night Dinner</title>
+    <desc>The boys arrive home to find a 'For Sale' sign in front of the house.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601131103 +0000" stop="20260601133838 +0000">
+    <title>Friday Night Dinner</title>
+    <desc>Mum and Dad get a hot tub, but Adam and Jonny aren't keen on the idea.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601133838 +0000" stop="20260601140536 +0000">
+    <title>Friday Night Dinner</title>
+    <desc>Adam isn't happy when he is forced to play his violin for Mum and her best friend Val.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601140536 +0000" stop="20260601143235 +0000">
+    <title>Friday Night Dinner</title>
+    <desc>The boys are threatened with no crumble if they don't help to assemble a wooden shelf.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601143235 +0000" stop="20260601150007 +0000">
+    <title>Friday Night Dinner</title>
+    <desc>Dad's bought a grotty caravan. Jim's got a new dog. And the boys have new 'females'.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601150007 +0000" stop="20260601152809 +0000">
+    <title>Friday Night Dinner</title>
+    <desc>Martin becomes obsessed with a plastic bag that's stuck up a tree.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601152809 +0000" stop="20260601155536 +0000">
+    <title>Friday Night Dinner</title>
+    <desc>The family's cream-tea-obsessed former au pair pays the Goodmans a surprise visit.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601155536 +0000" stop="20260601162503 +0000">
+    <title>Friday Night Dinner</title>
+    <desc>The family's cream-tea-obsessed former au pair pays the Goodmans a surprise visit.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601162503 +0000" stop="20260601165214 +0000">
+    <title>Friday Night Dinner</title>
+    <desc>Dad has the birthday blues - because he has worked out the date when he's going to die.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601165214 +0000" stop="20260601172206 +0000">
+    <title>Friday Night Dinner</title>
+    <desc>Adam and Jonny bring their 'females' home to meet the parents. Cue excitement from Mum.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601172206 +0000" stop="20260601175358 +0000">
+    <title>Gavin and Stacey</title>
+    <desc>After a huge misunderstanding on the phone, Stacey thinks Gavin has finished with her.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601175358 +0000" stop="20260601182903 +0000">
+    <title>Gavin and Stacey</title>
+    <desc>Uncle Bryn agrees to drive the family to Essex to meet the Shipmans.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601182903 +0000" stop="20260601190355 +0000">
+    <title>Gavin and Stacey</title>
+    <desc>Stacey and Gavin return from Honeymoon to a big welcome from both families.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601190355 +0000" stop="20260601193628 +0000">
+    <title>Gavin and Stacey</title>
+    <desc>Devastated by the news he's to become a father, Smithy goes AWOL.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601193628 +0000" stop="20260601201119 +0000">
+    <title>Gavin and Stacey</title>
+    <desc>Gavin, Stacey and Smithy head for Barry so that Smithy can go for the scan with Nessa.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601201119 +0000" stop="20260601204609 +0000">
+    <title>Gavin and Stacey</title>
+    <desc>Stacey is miserable and homesick because she still hasn't got a job, or her own home.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601204609 +0000" stop="20260601211828 +0000">
+    <title>Gavin and Stacey</title>
+    <desc>Stacey and Gavin argue over where to live and Smithy admits to another fling with Nessa.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601211828 +0000" stop="20260601223124 +0000">
+    <title>Gavin and Stacey Specials</title>
+    <desc>The iconic, multi-award-winning sitcom returns after 10 years for a Christmas special.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601223124 +0000" stop="20260601225945 +0000">
+    <title>The Job Lot</title>
+    <desc>Job center manager Trish struggles to manage when her nemesis returns to work.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601225945 +0000" stop="20260601232640 +0000">
+    <title>The Job Lot</title>
+    <desc>In order to boost the center's figures, Trish calls in a soldier to recruit job seekers.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601232640 +0000" stop="20260601235311 +0000">
+    <title>The Job Lot</title>
+    <desc>When a factory shuts down overnight, Brownall faces its busiest possible day.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260601235311 +0000" stop="20260602001940 +0000">
+    <title>The Job Lot</title>
+    <desc>The job center's being anonymously inspected and Trish is trying to identify any spies.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602001940 +0000" stop="20260602004603 +0000">
+    <title>The Job Lot</title>
+    <desc>Karl's got a new girlfriend - but she signs on.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602004603 +0000" stop="20260602011206 +0000">
+    <title>The Job Lot</title>
+    <desc>Trish's birthday brings a life-changing surprise, or so she thinks.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602011206 +0000" stop="20260602014435 +0000">
+    <title>The Mighty Boosh</title>
+    <desc>Bob Fossil sets up an illegal kangaroo boxing match between the Killeroo and Howard.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602014435 +0000" stop="20260602021708 +0000">
+    <title>The Mighty Boosh</title>
+    <desc>All is not well at the Zooniverse. Animals are disappearing one by one.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602021708 +0000" stop="20260602024906 +0000">
+    <title>The Mighty Boosh</title>
+    <desc>Can Howard be saved from Monkey Hell and the Ape of Death?</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602024906 +0000" stop="20260602032200 +0000">
+    <title>The Mighty Boosh</title>
+    <desc>It's impossible to be unhappy in a poncho.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602032200 +0000" stop="20260602035407 +0000">
+    <title>The Mighty Boosh</title>
+    <desc>Ivan the bear must go to an Animal Offenders Institute, and someone's got to drive him.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602035407 +0000" stop="20260602042559 +0000">
+    <title>The Mighty Boosh</title>
+    <desc>Will Howard make it on to the cover of Global Explorer?</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602042559 +0000" stop="20260602045729 +0000">
+    <title>The Mighty Boosh</title>
+    <desc>Can moonlight fishing get the creative juices flowing?</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602045729 +0000" stop="20260602052946 +0000">
+    <title>The Mighty Boosh</title>
+    <desc>The evil cockney Hitcher is back. And this time he wants money.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602052946 +0000" stop="20260602055626 +0000">
+    <title>Moone Boy</title>
+    <desc>Martin's birthday takes a bad turn when his new bike gets trashed by the Bonner brothers.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602055626 +0000" stop="20260602062241 +0000">
+    <title>Moone Boy</title>
+    <desc>Debra hits the campaign trail to support Mary Robinson's bid for the Irish presidency.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602062241 +0000" stop="20260602064815 +0000">
+    <title>Moone Boy</title>
+    <desc>Martin decides to shorten his commute to school by demolishing part of his garden wall.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602064815 +0000" stop="20260602071409 +0000">
+    <title>Moone Boy</title>
+    <desc>Liam's younger brother Daniel arrives unexpectedly for a visit after a long absence.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602071409 +0000" stop="20260602074027 +0000">
+    <title>Moone Boy</title>
+    <desc>Martin wants to become an altar boy and is indoctrinated into a group of young Catholics.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602074027 +0000" stop="20260602080652 +0000">
+    <title>Moone Boy</title>
+    <desc>It's the last week of school and Martin is determined to end his time there with a bang.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602080652 +0000" stop="20260602083329 +0000">
+    <title>Moone Boy</title>
+    <desc>Ireland have qualified for the World Cup, but it clashes with the Moones' holiday plans.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602083329 +0000" stop="20260602090000 +0000">
+    <title>Moone Boy</title>
+    <desc>It's Martin's first day of secondary school, and not long before his first school disco.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602090000 +0000" stop="20260602092620 +0000">
+    <title>Moone Boy</title>
+    <desc>Martin and Padraic embark on the voyage of a lifetime on board their Halloween ghost ship.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602092620 +0000" stop="20260602095247 +0000">
+    <title>Moone Boy</title>
+    <desc>Martin wants a fancy new games console, but he has to get a job to pay for it.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602095247 +0000" stop="20260602101922 +0000">
+    <title>Moone Boy</title>
+    <desc>It's Fidelma's hen do and Dessie's stag and the Moone's get new neighbors.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602101922 +0000" stop="20260602104556 +0000">
+    <title>Moone Boy</title>
+    <desc>It's Fidelma and Dessie's wedding. Martin has to say a heartbreaking goodbye.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602104556 +0000" stop="20260602111237 +0000">
+    <title>Moone Boy</title>
+    <desc>To celebrate their wedding anniversary, Liam and Debra head for the sunny South East.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602111237 +0000" stop="20260602113918 +0000">
+    <title>Moone Boy</title>
+    <desc>Padraic runs away from home and the Moones discover that his parents are having problems.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602113918 +0000" stop="20260602120544 +0000">
+    <title>Moone Boy</title>
+    <desc>Fidelma, Dessie and Baby Rose move into the Moone house making the cramped quarters worse.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602120544 +0000" stop="20260602123219 +0000">
+    <title>Moone Boy</title>
+    <desc>Soon after a UFO sighting, Martin's donkey mysteriously disappears...</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602123219 +0000" stop="20260602125831 +0000">
+    <title>Moone Boy</title>
+    <desc>Dessie is eager to move his family out of the Moone home, so decides to start a business.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602125831 +0000" stop="20260602133109 +0000">
+    <title>Moone Boy</title>
+    <desc>Martin discovers that Grandad's Alzheimer's has led to the return of his imaginary friend.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602133109 +0000" stop="20260602140423 +0000">
+    <title>The Office</title>
+    <desc>It's decision day at Wernham Hogg. Will the Slough or Swindon branch get the axe?</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602140423 +0000" stop="20260602143725 +0000">
+    <title>The Office</title>
+    <desc>Neil and Rachel are a hit with their charity dance routine. David responds as only he can.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602143725 +0000" stop="20260602150612 +0000">
+    <title>Porridge (2016)</title>
+    <desc>Fletch has taken to helping his fellow inmates with appeals, letters home and the like.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602150612 +0000" stop="20260602154101 +0000">
+    <title>Porridge (2016)</title>
+    <desc>Fletch has taken to helping his fellow inmates with appeals, letters home and the like.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602154101 +0000" stop="20260602160949 +0000">
+    <title>Porridge (2016)</title>
+    <desc>Fletch has taken to helping his fellow inmates with appeals, letters home and the like.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602160949 +0000" stop="20260602164400 +0000">
+    <title>Porridge (2016)</title>
+    <desc>Bad boy Dougie Parfitt wants a favor, and there is a new prison officer on the block.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602164400 +0000" stop="20260602171734 +0000">
+    <title>Porridge (2016)</title>
+    <desc>Fletch gets on the wrong side of a mysterious new inmate.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602171734 +0000" stop="20260602175151 +0000">
+    <title>Porridge (2016)</title>
+    <desc>Dougie Parfitt wants Fletch to join his crew as his consigliere.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602175151 +0000" stop="20260602182623 +0000">
+    <title>Porridge (2016)</title>
+    <desc>Fletch is tasked with keeping an eye on a new inmate but events take an unexpected turn.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602182623 +0000" stop="20260602190121 +0000">
+    <title>Porridge (2016)</title>
+    <desc>Fletch and cellmate Joe are getting on each other's nerves.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602190121 +0000" stop="20260602192740 +0000">
+    <title>Stath Lets Flats</title>
+    <desc>Stath needs to impress his dad/boss Vasos and let some flats, fast.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602192740 +0000" stop="20260602195455 +0000">
+    <title>Stath Lets Flats</title>
+    <desc>Stath is delighted when his father gives him a garden flat in a desirable area.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602195455 +0000" stop="20260602202204 +0000">
+    <title>Stath Lets Flats</title>
+    <desc>Stath accidentally burns down a property, prompting a fall out with his exasperated father.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602202204 +0000" stop="20260602204943 +0000">
+    <title>Stath Lets Flats</title>
+    <desc>Stath has been dropped from the team for the annual inter-agency football tournament.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602204943 +0000" stop="20260602211648 +0000">
+    <title>Stath Lets Flats</title>
+    <desc>Stath finds himself infatuated with his former rival Carole after a night of passion.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602211648 +0000" stop="20260602214426 +0000">
+    <title>Stath Lets Flats</title>
+    <desc>Stath is desperate for his dad to hand the business to him but Carole demands an interview</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602214426 +0000" stop="20260602221100 +0000">
+    <title>Stath Lets Flats</title>
+    <desc>Stath is having a tough time with his brash new boss Julian, while Sophie tries to move on.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602221100 +0000" stop="20260602223751 +0000">
+    <title>Stath Lets Flats</title>
+    <desc>When his dad announces that he needs to move out, Stath is forced to go flat hunting.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602223751 +0000" stop="20260602230526 +0000">
+    <title>Stath Lets Flats</title>
+    <desc>Stath struggles with the new clients brought in by Julian, until he meets Harriet.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602230526 +0000" stop="20260602233321 +0000">
+    <title>Stath Lets Flats</title>
+    <desc>Michael &amp; Eagle is under threat from a rival agency burning their signs.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20260602233321 +0000" stop="20260603000106 +0000">
+    <title>Stath Lets Flats</title>
+    <desc>Stath is excited about his annual siblings dinner with Sophie.</desc>
   </programme>
   
 </tv>
