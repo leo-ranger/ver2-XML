@@ -1,539 +1,143 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260823091542 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/5771/20260823.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=5771&amp;date=20260823&amp;timezone=None">
-  <channel id="5771">
-    <display-name lang="Russian Federation">Clubbing TV</display-name>
-    <icon src="https://epg.pw/media/images/epg/2024/06/08/20240608020558325396_47.png" />
-  </channel>
-  <programme channel="5771" start="20260822160000 +0000" stop="20260822163700 +0000">
-    <title lang="zh">It's worth seeing</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260822163700 +0000" stop="20260822163900 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260822163900 +0000" stop="20260822170300 +0000">
-    <title lang="zh">On stage</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260822170300 +0000" stop="20260822170500 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260822170500 +0000" stop="20260822191600 +0000">
-    <title lang="zh">Virtual life Video games</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260822191600 +0000" stop="20260822191800 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260822191800 +0000" stop="20260822202400 +0000">
-    <title lang="zh">Rave</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260822202400 +0000" stop="20260822202500 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260822202500 +0000" stop="20260822211400 +0000">
-    <title lang="zh">It's worth seeing</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260822211400 +0000" stop="20260822211500 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260822211500 +0000" stop="20260822233600 +0000">
-    <title lang="zh">Wanderlust</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260822233600 +0000" stop="20260822233800 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260822233800 +0000" stop="20260822235700 +0000">
-    <title lang="zh">Adrenalin</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260822235700 +0000" stop="20260822235900 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260822235900 +0000" stop="20260823005400 +0000">
-    <title lang="zh">Virtual life Video games</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823005400 +0000" stop="20260823005600 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823005600 +0000" stop="20260823020000 +0000">
-    <title lang="zh">Rave</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823020000 +0000" stop="20260823020200 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823020200 +0000" stop="20260823022600 +0000">
-    <title lang="zh">Адреналин</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823022600 +0000" stop="20260823022700 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823022700 +0000" stop="20260823035400 +0000">
-    <title lang="zh">Wanderlust</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823035400 +0000" stop="20260823035600 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823035600 +0000" stop="20260823044500 +0000">
-    <title lang="zh">It's worth seeing</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823044500 +0000" stop="20260823044600 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823044600 +0000" stop="20260823055000 +0000">
-    <title lang="zh">Rave</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823055000 +0000" stop="20260823055100 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823055100 +0000" stop="20260823061600 +0000">
-    <title lang="zh">Adrenalin</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823061600 +0000" stop="20260823061800 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823061800 +0000" stop="20260823064900 +0000">
-    <title lang="zh">It's worth seeing</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823064900 +0000" stop="20260823065100 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823065100 +0000" stop="20260823075300 +0000">
-    <title lang="zh">Wanderlust</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823075300 +0000" stop="20260823075400 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823075400 +0000" stop="20260823082800 +0000">
-    <title lang="zh">It's worth seeing</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823082800 +0000" stop="20260823083000 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823083000 +0000" stop="20260823100600 +0000">
-    <title lang="zh">Virtual life Video games</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823100600 +0000" stop="20260823100700 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823100700 +0000" stop="20260823103900 +0000">
-    <title lang="zh">It's worth seeing</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823103900 +0000" stop="20260823104000 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823104000 +0000" stop="20260823112900 +0000">
-    <title lang="zh">On stage</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823112900 +0000" stop="20260823113000 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823113000 +0000" stop="20260823115100 +0000">
-    <title lang="zh">Adrenalin</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823115100 +0000" stop="20260823115300 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823115300 +0000" stop="20260823124700 +0000">
-    <title lang="zh">It's worth seeing</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823124700 +0000" stop="20260823124900 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823124900 +0000" stop="20260823134700 +0000">
-    <title lang="zh">Wanderlust</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823134700 +0000" stop="20260823134800 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823134800 +0000" stop="20260823145200 +0000">
-    <title lang="zh">Rave</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823145200 +0000" stop="20260823145300 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823145300 +0000" stop="20260823153000 +0000">
-    <title lang="zh">Adrenalin</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823153000 +0000" stop="20260823153100 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823153100 +0000" stop="20260823160000 +0000">
-    <title lang="zh">It's worth seeing</title>
-    <desc />
-    <date>2026-08-23</date>
-  </programme>
-  <programme channel="5771" start="20260823160700 +0000" stop="20260823160900 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-24</date>
-  </programme>
-  <programme channel="5771" start="20260823160900 +0000" stop="20260823171000 +0000">
-    <title lang="zh">On stage</title>
-    <desc />
-    <date>2026-08-24</date>
-  </programme>
-  <programme channel="5771" start="20260823171000 +0000" stop="20260823171200 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-24</date>
-  </programme>
-  <programme channel="5771" start="20260823171200 +0000" stop="20260823182600 +0000">
-    <title lang="zh">Virtual life Video games</title>
-    <desc />
-    <date>2026-08-24</date>
-  </programme>
-  <programme channel="5771" start="20260823182600 +0000" stop="20260823182700 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-24</date>
-  </programme>
-  <programme channel="5771" start="20260823182700 +0000" stop="20260823193000 +0000">
-    <title lang="zh">Rave</title>
-    <desc />
-    <date>2026-08-24</date>
-  </programme>
-  <programme channel="5771" start="20260823193000 +0000" stop="20260823193100 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-24</date>
-  </programme>
-  <programme channel="5771" start="20260823193100 +0000" stop="20260823202100 +0000">
-    <title lang="zh">It's worth seeing</title>
-    <desc />
-    <date>2026-08-24</date>
-  </programme>
-  <programme channel="5771" start="20260823202100 +0000" stop="20260823202200 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-24</date>
-  </programme>
-  <programme channel="5771" start="20260823202200 +0000" stop="20260823214000 +0000">
-    <title lang="zh">Wanderlust</title>
-    <desc />
-    <date>2026-08-24</date>
-  </programme>
-  <programme channel="5771" start="20260823214000 +0000" stop="20260823214100 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-24</date>
-  </programme>
-  <programme channel="5771" start="20260823214100 +0000" stop="20260823215900 +0000">
-    <title lang="zh">Adrenalin</title>
-    <desc />
-    <date>2026-08-24</date>
-  </programme>
-  <programme channel="5771" start="20260823215900 +0000" stop="20260823220000 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-24</date>
-  </programme>
-  <programme channel="5771" start="20260823220000 +0000" stop="20260824000700 +0000">
-    <title lang="zh">Virtual life Video games</title>
-    <desc />
-    <date>2026-08-24</date>
-  </programme>
-  <programme channel="5771" start="20260824000700 +0000" stop="20260824000900 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-24</date>
-  </programme>
-  <programme channel="5771" start="20260824000900 +0000" stop="20260824010500 +0000">
-    <title lang="zh">Rave</title>
-    <desc />
-    <date>2026-08-24</date>
-  </programme>
-  <programme channel="5771" start="20260824010500 +0000" stop="20260824010600 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-24</date>
-  </programme>
-  <programme channel="5771" start="20260824010600 +0000" stop="20260824012700 +0000">
-    <title lang="zh">Adrenalin</title>
-    <desc />
-    <date>2026-08-24</date>
-  </programme>
-  <programme channel="5771" start="20260824012700 +0000" stop="20260824012800 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-24</date>
-  </programme>
-  <programme channel="5771" start="20260824012800 +0000" stop="20260824020000 +0000">
-    <title lang="zh">Wanderlust</title>
-    <desc />
-    <date>2026-08-24</date>
-  </programme>
-  <programme channel="5771" start="20260824020000 +0000" stop="20260824020500 +0000">
-    <title lang="zh">Rendezvous</title>
-    <desc />
-    <date>2026-08-24</date>
-  </programme>
-  <programme channel="5771" start="20260824020500 +0000" stop="20260824021000 +0000">
-    <title lang="zh">Track of the Week: Featured Video Clip</title>
-    <desc />
-    <date>2026-08-24</date>
-  </programme>
-  <programme channel="5771" start="20260824021000 +0000" stop="20260824024600 +0000">
-    <title lang="zh">Music videos</title>
-    <desc />
-    <date>2026-08-24</date>
-  </programme>
-  <programme channel="5771" start="20260824024600 +0000" stop="20260824024700 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-24</date>
-  </programme>
-  <programme channel="5771" start="20260824024700 +0000" stop="20260824031600 +0000">
-    <title lang="zh">It's worth seeing</title>
-    <desc />
-    <date>2026-08-24</date>
-  </programme>
-  <programme channel="5771" start="20260824031600 +0000" stop="20260824031800 +0000">
-    <title lang="zh">Teaser</title>
-    <desc />
-    <date>2026-08-24</date>
-  </programme>
-  <programme channel="5771" start="20260824031800 +0000" stop="20260824160000 +0000">
-    <title lang="zh">Rave</title>
-    <desc />
-    <date>2026-08-24</date>
-  </programme>
-</tv>
-<?xml version='1.0' encoding='UTF-8'?>
 <tv date="20260823091543 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/5771/20260824.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=5771&amp;date=20260824&amp;timezone=None">
   <channel id="5771">
     <display-name lang="Russian Federation">Clubbing TV</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/08/20240608020558325396_47.png" />
   </channel>
   <programme channel="5771" start="20260823160700 +0000" stop="20260823160900 +0000">
-    <title lang="zh">Teaser</title>
+    <title lang="zh">Тизер</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
   <programme channel="5771" start="20260823160900 +0000" stop="20260823171000 +0000">
-    <title lang="zh">On stage</title>
+    <title lang="zh">На сцене</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
   <programme channel="5771" start="20260823171000 +0000" stop="20260823171200 +0000">
-    <title lang="zh">Teaser</title>
+    <title lang="zh">Тизер</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
   <programme channel="5771" start="20260823171200 +0000" stop="20260823182600 +0000">
-    <title lang="zh">Virtual life Video games</title>
+    <title lang="zh">Виртуальная жизнь Видео игры</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
   <programme channel="5771" start="20260823182600 +0000" stop="20260823182700 +0000">
-    <title lang="zh">Teaser</title>
+    <title lang="zh">Тизер</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
   <programme channel="5771" start="20260823182700 +0000" stop="20260823193000 +0000">
-    <title lang="zh">Rave</title>
+    <title lang="zh">Рейв</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
   <programme channel="5771" start="20260823193000 +0000" stop="20260823193100 +0000">
-    <title lang="zh">Teaser</title>
+    <title lang="zh">Тизер</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
   <programme channel="5771" start="20260823193100 +0000" stop="20260823202100 +0000">
-    <title lang="zh">It's worth seeing</title>
+    <title lang="zh">Это стоит увидеть</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
   <programme channel="5771" start="20260823202100 +0000" stop="20260823202200 +0000">
-    <title lang="zh">Teaser</title>
+    <title lang="zh">Тизер</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
   <programme channel="5771" start="20260823202200 +0000" stop="20260823214000 +0000">
-    <title lang="zh">Wanderlust</title>
+    <title lang="zh">Страсть к путешествиям</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
   <programme channel="5771" start="20260823214000 +0000" stop="20260823214100 +0000">
-    <title lang="zh">Teaser</title>
+    <title lang="zh">Тизер</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
   <programme channel="5771" start="20260823214100 +0000" stop="20260823215900 +0000">
-    <title lang="zh">Adrenalin</title>
+    <title lang="zh">Адреналин</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
   <programme channel="5771" start="20260823215900 +0000" stop="20260823220000 +0000">
-    <title lang="zh">Teaser</title>
+    <title lang="zh">Тизер</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
   <programme channel="5771" start="20260823220000 +0000" stop="20260824000700 +0000">
-    <title lang="zh">Virtual life Video games</title>
+    <title lang="zh">Виртуальная жизнь Видео игры</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
   <programme channel="5771" start="20260824000700 +0000" stop="20260824000900 +0000">
-    <title lang="zh">Teaser</title>
+    <title lang="zh">Тизер</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
   <programme channel="5771" start="20260824000900 +0000" stop="20260824010500 +0000">
-    <title lang="zh">Rave</title>
+    <title lang="zh">Рейв</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
   <programme channel="5771" start="20260824010500 +0000" stop="20260824010600 +0000">
-    <title lang="zh">Teaser</title>
+    <title lang="zh">Тизер</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
   <programme channel="5771" start="20260824010600 +0000" stop="20260824012700 +0000">
-    <title lang="zh">Adrenalin</title>
+    <title lang="zh">Адреналин</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
   <programme channel="5771" start="20260824012700 +0000" stop="20260824012800 +0000">
-    <title lang="zh">Teaser</title>
+    <title lang="zh">Тизер</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
   <programme channel="5771" start="20260824012800 +0000" stop="20260824020000 +0000">
-    <title lang="zh">Wanderlust</title>
+    <title lang="zh">Страсть к путешествиям</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
   <programme channel="5771" start="20260824020000 +0000" stop="20260824020500 +0000">
-    <title lang="zh">Rendezvous</title>
+    <title lang="zh">Рандеву</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
   <programme channel="5771" start="20260824020500 +0000" stop="20260824021000 +0000">
-    <title lang="zh">Track of the Week: Featured Video Clip</title>
+    <title lang="zh">Трек недели: избранный видеоклип</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
   <programme channel="5771" start="20260824021000 +0000" stop="20260824024600 +0000">
-    <title lang="zh">Music videos</title>
+    <title lang="zh">Музыкальные клипы</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
   <programme channel="5771" start="20260824024600 +0000" stop="20260824024700 +0000">
-    <title lang="zh">Teaser</title>
+    <title lang="zh">Тизер</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
   <programme channel="5771" start="20260824024700 +0000" stop="20260824031600 +0000">
-    <title lang="zh">It's worth seeing</title>
+    <title lang="zh">Это стоит увидеть</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
   <programme channel="5771" start="20260824031600 +0000" stop="20260824031800 +0000">
-    <title lang="zh">Teaser</title>
+    <title lang="zh">Тизер</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
   <programme channel="5771" start="20260824031800 +0000" stop="20260824160000 +0000">
-    <title lang="zh">Rave</title>
+    <title lang="zh">Рейв</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
 </tv>
+error code: 504
