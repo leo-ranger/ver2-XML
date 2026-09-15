@@ -5,51 +5,6 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/a4713cf8-8897-41c2-bab4-132f733d3f5f/TC2_Logo_Plex_1500X1000_LightRDX.png" />
   </channel>
   
-<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260913223000 +0000" stop="20260914010000 +0000">
-    <title>US Open</title>
-    <desc>Encore coverage of the US Open 2026</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260914010000 +0000" stop="20260914033000 +0000">
-    <title>ATP Cincinnati 2026</title>
-    <desc>Quarterfinal Brandon Nakashima (USA) vs. Taylor Fritz (USA)</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260914033000 +0000" stop="20260914040000 +0000">
-    <title>ATP Tour This Week</title>
-    <desc>Recap of week twenty five of the ATP Tour 2026</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260914040000 +0000" stop="20260914100000 +0000">
-    <title>US Open</title>
-    <desc>Encore coverage of the US Open 2026</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260914100000 +0000" stop="20260914120000 +0000">
-    <title>Challenger Tour</title>
-    <desc>Encore coverage of the ATP Challenger Seville 2026</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260914120000 +0000" stop="20260914143000 +0000">
-    <title>ATP Cincinnati 2026</title>
-    <desc>Round of 32 Frances Tiafoe (USA) vs. Learner Tien (USA)</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260914143000 +0000" stop="20260914160000 +0000">
-    <title>ATP Cincinnati 2026</title>
-    <desc>Final Arthur Fils (FRA) vs. Frances Tiafoe (USA)</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260914160000 +0000" stop="20260914190000 +0000">
-    <title>Sao Paulo-WTA Live</title>
-    <desc>Live coverage of Sao Paulo 2026</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260914190000 +0000" stop="20260915000000 +0000">
-    <title>Tennis Today Live</title>
-    <desc>Live coverage of Sao Paulo and Guadalajara 2026</desc>
-  </programme>
-  
 <programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260915000000 +0000" stop="20260915030000 +0000">
     <title>Sao Paulo-WTA</title>
     <desc>Encore coverage of Sao Paulo 2026</desc>
@@ -70,9 +25,14 @@
     <desc>Encore coverage of Sao Paulo 2026</desc>
   </programme>
   
-<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260915110000 +0000" stop="20260915160000 +0000">
+<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260915110000 +0000" stop="20260915133000 +0000">
     <title>Tennis Today</title>
     <desc>Encore coverage of Sao Paulo and Guadalajara 2026</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260915133000 +0000" stop="20260915160000 +0000">
+    <title>Sao Paulo-WTA Live</title>
+    <desc>Live coverage of Sao Paulo 2026</desc>
   </programme>
   
 <programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260915160000 +0000" stop="20260915223000 +0000">
@@ -80,7 +40,87 @@
     <desc>Live coverage of Sao Paulo and Guadalajara 2026</desc>
   </programme>
   
-<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260915223000 +0000" stop="20260916050000 +0000">
+<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260915223000 +0000" stop="20260916003000 +0000">
+    <title>Tennis Today Live</title>
+    <desc>Live coverage of Sao Paulo and Guadalajara 2026</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260916003000 +0000" stop="20260916030000 +0000">
+    <title>Sao Paulo-WTA</title>
+    <desc>Encore coverage of Sao Paulo 2026</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260916030000 +0000" stop="20260916093000 +0000">
+    <title>Tennis Today</title>
+    <desc>Encore coverage of Sao Paulo and Guadalajara 2026</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260916093000 +0000" stop="20260916100000 +0000">
+    <title>Tennis Today</title>
+    <desc>Encore coverage of Sao Paulo and Guadalajara 2026</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260916100000 +0000" stop="20260916113000 +0000">
+    <title>Tennis Today</title>
+    <desc>Encore coverage of Sao Paulo and Guadalajara 2026</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260916113000 +0000" stop="20260916140000 +0000">
+    <title>Sao Paulo-WTA</title>
+    <desc>Encore coverage of Sao Paulo 2026</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260916140000 +0000" stop="20260916190000 +0000">
+    <title>Tennis Today</title>
+    <desc>Encore coverage of Sao Paulo and Guadalajara 2026</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260916190000 +0000" stop="20260916223000 +0000">
+    <title>Tennis Today Live</title>
+    <desc>Live coverage of Sao Paulo and Guadalajara 2026</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260916223000 +0000" stop="20260917020000 +0000">
+    <title>Tennis Today</title>
+    <desc>Encore coverage of Sao Paulo and Guadalajara 2026</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260917020000 +0000" stop="20260917053000 +0000">
+    <title>Tennis Today</title>
+    <desc>Encore coverage of Sao Paulo and Guadalajara 2026</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260917053000 +0000" stop="20260917090000 +0000">
+    <title>Tennis Today</title>
+    <desc>Encore coverage of Sao Paulo and Guadalajara 2026</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260917090000 +0000" stop="20260917100000 +0000">
+    <title>Tennis Today</title>
+    <desc>Encore coverage of Sao Paulo and Guadalajara 2026</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260917100000 +0000" stop="20260917123000 +0000">
+    <title>Tennis Today</title>
+    <desc>Encore coverage of Sao Paulo and Guadalajara 2026</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260917123000 +0000" stop="20260917160000 +0000">
+    <title>Tennis Today</title>
+    <desc>Encore coverage of Sao Paulo and Guadalajara 2026</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260917160000 +0000" stop="20260917190000 +0000">
+    <title>Tennis Today</title>
+    <desc>Encore coverage of Sao Paulo and Guadalajara 2026</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260917190000 +0000" stop="20260917223000 +0000">
+    <title>Tennis Today Live</title>
+    <desc>Live coverage of Sao Paulo and Guadalajara 2026</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" start="20260917223000 +0000" stop="20260918020000 +0000">
     <title>Tennis Today</title>
     <desc>Encore coverage of Sao Paulo and Guadalajara 2026</desc>
   </programme>
