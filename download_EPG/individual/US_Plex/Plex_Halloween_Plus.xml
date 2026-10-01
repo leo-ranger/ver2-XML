@@ -1,114 +1,178 @@
 <?xml version='1.0' encoding='UTF-8'?> <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="www.matthuisman.nz">
-<channel id="5e20b730f2f8d5003d739db7-634700569d64afa6830d1521">
+<channel id="6a1610bebdf296985fd95603-634700569d64afa6830d1521">
     <display-name>Halloween Plus</display-name>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8b68d45-0709-4cb9-bf68-ff16c8551042/Halloween_Plus_Color.png" />
+    <icon src="https://provider-static.plex.tv/epg/cms/production/53e30e47-98a7-4f53-9a2b-3bee3ca37e09/Halloween_plusLogo.png" />
   </channel>
   
-<programme channel="5e20b730f2f8d5003d739db7-634700569d64afa6830d1521" start="20251109220627 +0000" stop="20251110003948 +0000">
-    <title>Beauty And The Beast</title>
-    <category>Movie</category>
-    <desc>A modern retelling of the classic fairy tale.</desc>
-    <icon src="https://d2v621oknsoujb.cloudfront.net/Images/S3/FMP109763_2x3.png" />
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20260930215212 +0000" stop="20261001000632 +0000">
+    <title>Blind Dating</title>
+    <desc>A young blind man (Pine) thinks he's found love with an Indian woman (Jay) though their relationship is fraught with cultural differences</desc>
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-634700569d64afa6830d1521" start="20251110003948 +0000" stop="20251110024807 +0000">
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261001000632 +0000" stop="20261001025656 +0000">
+    <title>The Host</title>
+    <desc>When an unseen enemy threatens mankind by taking over their bodies and erasing their memories.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261001025656 +0000" stop="20261001051431 +0000">
+    <title>Hit and Run</title>
+    <desc>A former getaway driver jeopardizes his Witness Protection Plan.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261001051431 +0000" stop="20261001073413 +0000">
+    <title>The Crow: Salvation</title>
+    <desc>A resurrected man seeks revenge.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261001073413 +0000" stop="20261001101239 +0000">
+    <title>Dominion: Prequel To The Exorcist</title>
+    <desc>The origin story of evil.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261001101239 +0000" stop="20261001121113 +0000">
+    <title>A Haunted House</title>
+    <desc>Malcolm and Kisha move into their dream home, then learn that a demon also resides there.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261001121113 +0000" stop="20261001142852 +0000">
+    <title>A Fantastic Fear Of Everything</title>
+    <desc>A writer becomes paranoid about his own life.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261001142852 +0000" stop="20261001164721 +0000">
+    <title>Day Of The Dead</title>
+    <desc>A zombie classic from George Romero.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261001164721 +0000" stop="20261001185039 +0000">
+    <title>Sabrina The Teenage Witch</title>
+    <desc>Sent by her parents to live with her two eccentric aunts, Sabrina Sawyer discovers on her 16th birthday that she's a witch.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261001185039 +0000" stop="20261001205858 +0000">
     <title>The Dark Crystal</title>
-    <category>Movie</category>
     <desc>A Gelfling named Jen who sets out to restore balance to his world by finding a missing shard of a magical crystal</desc>
-    <icon src="https://d2v621oknsoujb.cloudfront.net/Images/S3/FMP11079_2x3.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-634700569d64afa6830d1521" start="20251110024807 +0000" stop="20251110050655 +0000">
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261001205858 +0000" stop="20261002002234 +0000">
+    <title>Brotherhood Of The Wolf</title>
+    <desc>In 18th-century France, the Chevalier de Fronsac and his Native American friend Mani are sent to the Gevaudan province.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261002002234 +0000" stop="20261002021642 +0000">
+    <title>Bloodsucking Bastards</title>
+    <desc>Office workers fight vampires after their boss gets “turned.”</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261002021642 +0000" stop="20261002041534 +0000">
+    <title>A Haunted House 2</title>
+    <desc>Having exorcised the demons of his ex, Malcolm is starting fresh with his new girlfriend.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261002041534 +0000" stop="20261002060055 +0000">
+    <title>The Blob</title>
+    <desc>A giant blob from space devours everything in a small town.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261002060055 +0000" stop="20261002081018 +0000">
+    <title>Body Bags</title>
+    <desc>A horror anthology with three chilling tales.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261002081018 +0000" stop="20261002103716 +0000">
+    <title>Nosferatu the Vampyre</title>
+    <desc>An unusually contemplative version of Dracula, in which the vampire bears the cross of not being able to get old and die.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261002103716 +0000" stop="20261002125953 +0000">
+    <title>Dog Soldiers</title>
+    <desc>A werewolf horror with a military twist.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261002125953 +0000" stop="20261002155349 +0000">
+    <title>Donnie Darko</title>
+    <desc>After escaping a bizarre accident, a troubled teenager is plagued by visions of a man in a large rabbit suit</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261002155349 +0000" stop="20261002175615 +0000">
+    <title>A Monster In Paris</title>
+    <desc>A 3D-animated movie set in Paris in the year 1910 and centered on a monster who lives in a garden.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261002175615 +0000" stop="20261002193119 +0000">
+    <title>The Little Shop of Horrors</title>
+    <desc>Florist breeds a man-eating plant that hungers for blood.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261002193119 +0000" stop="20261002214525 +0000">
+    <title>Dreamscape</title>
+    <desc>Entering dreams to fight nightmares.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261002214525 +0000" stop="20261002235521 +0000">
+    <title>Season Of The Witch</title>
+    <desc>14th-century knights transport a suspected witch to a monastery, where monks deduce that her powers.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261002235521 +0000" stop="20261003020846 +0000">
+    <title>Tragedy Girls</title>
+    <desc>Two teens exploit a serial killer for fame.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261003020846 +0000" stop="20261003043536 +0000">
+    <title>The Exorcist III</title>
+    <desc>A chilling sequel to the horror classic.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261003043536 +0000" stop="20261003065526 +0000">
+    <title>Pacific Heights</title>
+    <desc>A couple work hard to renovate their dream house and become landlords to pay for it.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261003065526 +0000" stop="20261003091609 +0000">
+    <title>Heathers</title>
+    <desc>Veronica and mysterious new kid give teen angst a body count.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261003091609 +0000" stop="20261003111650 +0000">
+    <title>Cockneys vs. Zombies</title>
+    <desc>A heist goes wrong during a zombie outbreak.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261003111650 +0000" stop="20261003133632 +0000">
+    <title>The Crow: Salvation</title>
+    <desc>A resurrected man seeks revenge.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261003133632 +0000" stop="20261003153852 +0000">
+    <title>Villains</title>
+    <desc>A couple of burglars meet their match.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261003153852 +0000" stop="20261003173051 +0000">
+    <title>Hush</title>
+    <desc>A deaf and mute writer who retreated into the woods to live a solitary life must fight for her life in silence</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261003173051 +0000" stop="20261003193124 +0000">
+    <title>House (1977)</title>
+    <desc>A schoolgirl and six of her classmates travel to her aunt's country home, which turns out to be haunted.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261003193124 +0000" stop="20261003213405 +0000">
+    <title>Ed And His Dead Mother</title>
+    <desc>A man brings his mother back to life—with strange consequences.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261003213405 +0000" stop="20261003235252 +0000">
     <title>Labyrinth</title>
-    <category>Movie</category>
     <desc>Sixteen-year-old Sarah is given thirteen hours to solve a labyrinth and rescue her baby brother.</desc>
-    <icon src="https://d2v621oknsoujb.cloudfront.net/Images/S3/FMP11080_2x3.png" />
   </programme>
   
-<programme channel="5e20b730f2f8d5003d739db7-634700569d64afa6830d1521" start="20251110050655 +0000" stop="20251110070434 +0000">
-    <title>A Christmas Carol: The Musical</title>
-    <category>Movie</category>
-    <desc>A musical version of the Dickens classic.</desc>
-    <date>20041128</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/94b7c8f121ceefafb89eacd73c8b5a29.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-634700569d64afa6830d1521" start="20251110070434 +0000" stop="20251110091546 +0000">
-    <title>A Christmas Carol</title>
-    <category>Movie</category>
-    <desc>The unscrupulous businessman Scrooge doesn't think much of Christmas.</desc>
-    <date>20170101</date>
-    <icon src="https://d2v621oknsoujb.cloudfront.net/Images/S3/FMP000916_2x3.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-634700569d64afa6830d1521" start="20251110091546 +0000" stop="20251110105626 +0000">
-    <title>A Christmas Carol</title>
-    <category>Movie</category>
-    <desc>A musical adaptation of the classic Dickens tale.</desc>
-    <icon src="https://d2v621oknsoujb.cloudfront.net/Images/S3/FMP109787_2x3.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-634700569d64afa6830d1521" start="20251110105626 +0000" stop="20251110120653 +0000">
-    <title>Emmet Otter's Jug-Band Christmas</title>
-    <category>Movie</category>
-    <desc>Christmas is around the corner for Emmet and Ma Otter.</desc>
-    <date>19771204</date>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c05f6a59a67c6ee39b595bbff83c911f.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-634700569d64afa6830d1521" start="20251110120653 +0000" stop="20251110131255 +0000">
-    <title>Jack Frost</title>
-    <category>Movie</category>
-    <desc>The Groundhog tells the story of how, for once, Jack Frost became human, and helped a knight win his lady love.</desc>
-    <icon src="https://d2v621oknsoujb.cloudfront.net/Images/S3/FMP11030_2x3.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-634700569d64afa6830d1521" start="20251110131255 +0000" stop="20251110145418 +0000">
-    <title>Christmas is Here Again</title>
-    <category>Movie</category>
-    <desc>A young orphan goes on an adventure to find Santa’s magic sack.</desc>
-    <date>20071020</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6f211b5d649f637ada2b0d55db000f55.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-634700569d64afa6830d1521" start="20251110145418 +0000" stop="20251110165700 +0000">
-    <title>The Christmas That Almost Wasn't</title>
-    <category>Movie</category>
-    <desc>Santa faces eviction on Christmas Eve.</desc>
-    <date>19661123</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/4a46cb2e40b6d670475b6f1d21103fa1.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-634700569d64afa6830d1521" start="20251110165700 +0000" stop="20251110185522 +0000">
-    <title>12 Days Of Christmas Eve</title>
-    <category>Movie</category>
-    <desc>A man relives Christmas Eve until he gets it right.</desc>
-    <icon src="https://d2v621oknsoujb.cloudfront.net/Images/S3/FMP109797_2x3.png" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-634700569d64afa6830d1521" start="20251110185522 +0000" stop="20251110205332 +0000">
-    <title>Hats Off To Christmas!</title>
-    <category>Movie</category>
-    <desc>A single mom finds love during the holidays.</desc>
-    <date>20131214</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ae8ee04e158d68697d4a7062859f2ab9.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-634700569d64afa6830d1521" start="20251110205332 +0000" stop="20251110225645 +0000">
-    <title>Mrs. Santa Claus</title>
-    <category>Movie</category>
-    <desc>Santa's wife takes charge during Christmas.</desc>
-    <date>19961208</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/07a484b33311654cfc987332f9b1f4dc.jpg" />
-  </programme>
-  
-<programme channel="5e20b730f2f8d5003d739db7-634700569d64afa6830d1521" start="20251110225645 +0000" stop="20251111005640 +0000">
-    <title>Mr. St. Nick</title>
-    <category>Movie</category>
-    <desc>Santa's son takes on the family business.</desc>
-    <date>20021116</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/acb0c6b2e84b4c4a545add867d65b1f0.jpg" />
+<programme channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521" start="20261003235252 +0000" stop="20261004015127 +0000">
+    <title>A Haunted House</title>
+    <desc>Malcolm and Kisha move into their dream home, then learn that a demon also resides there.</desc>
   </programme>
   
 </tv>
