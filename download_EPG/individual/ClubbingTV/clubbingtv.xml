@@ -1,53 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20261003115857 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/5771/20261004.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=5771&amp;date=20261004&amp;timezone=None">
+<tv date="20261005121419 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/5771/20261005.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=5771&amp;date=20261005&amp;timezone=None">
   <channel id="5771">
     <display-name lang="Russian Federation">Clubbing TV</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/08/20240608020558325396_47.png" />
   </channel>
-  <programme channel="5771" start="20261003180000 +0000" stop="20261003203000 +0000">
-    <title lang="zh">Тизер</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="5771" start="20261003203000 +0000" stop="20261003230000 +0000">
-    <title lang="zh">х/ф Рейв</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="5771" start="20261003230000 +0000" stop="20261004010000 +0000">
-    <title lang="zh">Тизер</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="5771" start="20261004010000 +0000" stop="20261004033000 +0000">
-    <title lang="zh">х/ф Рейв</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="5771" start="20261004033000 +0000" stop="20261004060000 +0000">
-    <title lang="zh">Адреналин</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="5771" start="20261004060000 +0000" stop="20261004083000 +0000">
-    <title lang="zh">Тизер</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="5771" start="20261004083000 +0000" stop="20261004110000 +0000">
-    <title lang="zh">Это стоит увидеть</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="5771" start="20261004110000 +0000" stop="20261004133000 +0000">
-    <title lang="zh">Тизер</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
-  <programme channel="5771" start="20261004133000 +0000" stop="20261004160000 +0000">
-    <title lang="zh">На сцене</title>
-    <desc />
-    <date>2026-10-04</date>
-  </programme>
 </tv>
-error code: 502
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20261005121420 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/5771/20261006.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=5771&amp;date=20261006&amp;timezone=None">
+  <channel id="5771">
+    <display-name lang="Russian Federation">Clubbing TV</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/08/20240608020558325396_47.png" />
+  </channel>
+</tv>
